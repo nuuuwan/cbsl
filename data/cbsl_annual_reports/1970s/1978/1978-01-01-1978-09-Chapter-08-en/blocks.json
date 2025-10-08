@@ -1,0 +1,2403 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      207.6,
+      46.61,
+      258.16,
+      56.69
+    ],
+    "text": "C 40 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.12517261505127,
+      9.587445259094238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.56,
+      67.98,
+      133.88,
+      75.96
+    ],
+    "text": "FOREIGN TRADE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5217084884643555,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      82.61,
+      412.8,
+      148.37
+    ],
+    "text": "Following two consecutive years of surplus, Sri Lanka's balance of trade (on the basis of Customs data) registered a deficit of Rs. 1,457 million (SDR 98 million) in 1978. When Customs data are adjusted for the imports and exports by certain government agencies which get recorded after some lag, the trade balance worsens to Rs. 2,173 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.521836280822754,
+      9.587445259094238,
+      9.822943687438965,
+      9.842482566833496,
+      9.849589347839355,
+      9.873772621154785,
+      9.882784843444824,
+      9.88525676727295,
+      9.899654388427734,
+      9.912236213684082,
+      10.046911239624023,
+      10.049837112426758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      199.68,
+      167.33,
+      263.98,
+      177.41
+    ],
+    "text": "TABLE 1-8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399556159973145,
+      9.587445259094238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      152.4,
+      187.49,
+      311.98,
+      197.57
+    ],
+    "text": "Balance of Trade 1976 - 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.587445259094238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      310.32,
+      206.7,
+      404.52,
+      224.76
+    ],
+    "text": "Value in Rs. Million SDR Million in brackets",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.382440567016602,
+      7.551320552825928,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.0,
+      249.66,
+      91.03,
+      257.64
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.92,
+      238.86,
+      396.07,
+      247.8
+    ],
+    "text": "Imports Exports Balance of Trade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.24,
+      265.26,
+      407.54,
+      273.72
+    ],
+    "text": "Customs Adjusted Customs Adjusted Customs Adjusted",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.4,
+      291.9,
+      150.2,
+      309.29
+    ],
+    "text": "1976 4,645 (477)",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.679604530334473,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.32,
+      292.14,
+      250.4,
+      300.36
+    ],
+    "text": "4,946 4,815",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.52,
+      302.27,
+      250.52,
+      309.29
+    ],
+    "text": "(495)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.679604530334473
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      278.4,
+      291.66,
+      351.15,
+      307.61
+    ],
+    "text": "4,840 + 170 (+18)",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.6179399490356445,
+      7.198127269744873,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      372.24,
+      291.9,
+      401.53,
+      299.88
+    ],
+    "text": "- 106",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.4,
+      316.38,
+      149.53,
+      324.36
+    ],
+    "text": "1977 6,007",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.2,
+      325.55,
+      150.2,
+      332.57
+    ],
+    "text": "(630)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.679604530334473
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      178.56,
+      315.9,
+      254.76,
+      333.45
+    ],
+    "text": "6,298 6,638 (659;",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.275813102722168,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      278.4,
+      316.14,
+      355.08,
+      333.29
+    ],
+    "text": "6,570 + 631 ( + 29)",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.263225078582764,
+      6.386580944061279,
+      6.678551197052002,
+      7.198127269744873,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      372.24,
+      316.14,
+      401.38,
+      324.12
+    ],
+    "text": "+ 271",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.198127269744873,
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      74.88,
+      340.14,
+      150.31,
+      348.36
+    ],
+    "text": "1978 14,663",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      133.2,
+      350.51,
+      150.2,
+      357.53
+    ],
+    "text": "(774)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.679604530334473
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.2,
+      340.38,
+      250.85,
+      348.6
+    ],
+    "text": "15,366 13.206",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.76,
+      349.4,
+      254.79,
+      357.45
+    ],
+    "text": "(676;",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.261941432952881
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.76,
+      340.14,
+      350.29,
+      348.6
+    ],
+    "text": "13,193 -1,457",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.08,
+      350.27,
+      349.91,
+      357.29
+    ],
+    "text": "(-98)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.679604530334473
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      372.72,
+      340.14,
+      400.53,
+      348.12
+    ],
+    "text": "-2,173",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5856709480285645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      252.96,
+      368.46,
+      406.18,
+      408.12
+    ],
+    "text": "Sources: Customs. Sri Lanka; Food Commissioner's Dept; Ceylon Fertilizer Corporation; Petroleum Corporation; State Gem Corporation.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.378226280212402,
+      7.437080383300781,
+      7.487826824188232,
+      7.5856709480285645,
+      7.881123065948486
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.96,
+      427.49,
+      415.76,
+      493.25
+    ],
+    "text": "A meaningful comparison of the customs trade data between 1978 and the years before is not possible because the data recorded in Sri Lanka Rupees includes the substantial changes in the value of the rupee since 1977. Hence, the analysis of trade data will be made in the relatively more stable Special Drawing Rights (SDRs) to facilitate comparison.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.253765106201172,
+      9.587445259094238,
+      9.84483814239502,
+      9.848033905029297,
+      9.849589347839355,
+      9.853161811828613,
+      9.876372337341309,
+      10.0018892288208,
+      10.046911239624023,
+      10.049837112426758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.2,
+      507.89,
+      417.72,
+      545.81
+    ],
+    "text": "The trade deficit of 1978 was the result of a sharp rise of 23 per cent in import expenditure and a smaller increase in export earnings of 3 per cent Imports rose by SDR 144 million and exports were higher by SDR 17 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.587445259094238,
+      9.822901725769043,
+      9.878384590148926,
+      9.88127613067627,
+      9.969672203063965,
+      9.995885848999023,
+      10.046911239624023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.2,
+      559.97,
+      416.04,
+      597.89
+    ],
+    "text": "The rise in imports was a direct consequence of the relaxation of import controls in late 1977. The volume of imports, as measured by the Import Volume Index (1967=100) rose by 27 per cent, to the highest level since 1960.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.477684020996094,
+      9.587445259094238,
+      9.82483959197998,
+      9.88127613067627,
+      9.991950035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.68,
+      601.73,
+      418.23,
+      625.73
+    ],
+    "text": "A major reason for the relatively poor ; performance of exports was that the world prices for tea, Sri Lanka's major export earner, fell from the peak levels",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.253765106201172,
+      9.5364351272583,
+      9.587445259094238,
+      9.88525676727295,
+      9.98017406463623,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      55.44,
+      629.57,
+      358.92,
+      639.65
+    ],
+    "text": "of 1577. Coconut prices were also lower than their levels last year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.873690605163574,
+      9.587445259094238,
+      9.992363929748535,
+      10.004704475402832,
+      10.119715690612793
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.08,
+      45.17,
+      257.99,
+      55.25
+    ],
+    "text": "( 41 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      199.92,
+      66.05,
+      269.17,
+      76.13
+    ],
+    "text": "TABLE 1 9",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399556159973145,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      171.36,
+      86.93,
+      296.68,
+      97.01
+    ],
+    "text": "Foreign Trade - 1 9 6 9 - 7 8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.04,
+      117.51,
+      348.85,
+      125.37
+    ],
+    "text": "Rupees Million Index Numb er 1967 = 100",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.88,
+      129.99,
+      411.29,
+      145.77
+    ],
+    "text": "Terms of Period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9124979972839355,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.2,
+      143.91,
+      121.11,
+      159.69
+    ],
+    "text": "Exports (f.o.b.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.1071319580078125,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.12,
+      143.91,
+      165.55,
+      159.69
+    ],
+    "text": "Imports (c.i.f.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.32,
+      139.83,
+      204.28,
+      147.69
+    ],
+    "text": "Balanc",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.72,
+      147.99,
+      203.7,
+      164.01
+    ],
+    "text": "of Trade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9124979972839355,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      91.2,
+      129.99,
+      411.29,
+      159.69
+    ],
+    "text": "Volume Prices Terms of Exports (f.o.b.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9124979972839355,
+      7.1071319580078125,
+      7.383112907409668,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.12,
+      143.91,
+      165.55,
+      159.69
+    ],
+    "text": "Imports (c.i.f.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.32,
+      139.83,
+      204.28,
+      147.69
+    ],
+    "text": "Balanc",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.72,
+      147.99,
+      203.7,
+      164.01
+    ],
+    "text": "of Trade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9124979972839355,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.56,
+      150.15,
+      250.64,
+      166.17
+    ],
+    "text": "All Exports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.56,
+      150.15,
+      292.39,
+      165.93
+    ],
+    "text": "All Imports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.6,
+      150.15,
+      333.27,
+      165.93
+    ],
+    "text": "All Exports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      347.04,
+      150.15,
+      376.67,
+      165.93
+    ],
+    "text": "All Imports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      384.48,
+      145.83,
+      407.46,
+      153.69
+    ],
+    "text": "Trade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.96,
+      179.67,
+      79.09,
+      274.65
+    ],
+    "text": "1967 1963 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.28,
+      179.91,
+      120.87,
+      274.89
+    ],
+    "text": "1,690 2,035 1,916 2,033 1.947 2,0:9 2,617 3,471 3,933 4.815 6,638 13,206",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.446881294250488,
+      7.520639419555664,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      137.52,
+      180.15,
+      163.36,
+      275.13
+    ],
+    "text": "1,738 2,173 2,543 2,313 1,986 2,064 2,715 4,554 5,251 4,645 6,007 14,662",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.4200944900512695,
+      7.476370811462402,
+      7.485837936401367,
+      7.510981559753418,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.12,
+      180.39,
+      206.39,
+      276.09
+    ],
+    "text": "- 48 - 138 - 627 - 280 - 39 - 55 - 98 - 1 , 0 8 2 -1.318 + 170 + 631 - 1 , 4 5 6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.416492938995361,
+      7.450129985809326,
+      7.48970890045166,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.68,
+      180.39,
+      243.99,
+      276.33
+    ],
+    "text": "100 103 98 102 99 97 98 85 102 97 89 95",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      268.32,
+      180.39,
+      282.38,
+      275.37
+    ],
+    "text": "100 101 108 102 90 88 79 56 69 75 97 132",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.16,
+      180.15,
+      326.98,
+      275.13
+    ],
+    "text": "100 117 117 118 117 118 137 217 199 239 382 698",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      356.16,
+      180.15,
+      370.79,
+      275.13
+    ],
+    "text": "100 126 134 140 150 157 209 370 433 383 471 877",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      387.12,
+      180.15,
+      400.93,
+      275.13
+    ],
+    "text": "100 93 83 84 78 75 65 58 46 62 81 80",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.028641700744629,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.72,
+      289.83,
+      389.15,
+      297.69
+    ],
+    "text": "1. Including re-exports Sources: Customs, Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      307.44,
+      299.43,
+      406.02,
+      307.29
+    ],
+    "text": "Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      52.56,
+      321.89,
+      415.43,
+      550.85
+    ],
+    "text": "The 1977 economic reforms had a greater and more immediate impact on imports than on exports. A high rate of increase in imports would normally be expected following upon many years of licensing and controls, despite the higher cost of importation. In the case of exports, however, increases could only be expected in the medium and long term because of supply inelasticities in the short-run. Exports would normally be expected to rise after the lapse of some\u00adtime on account of the incentive extended by the depreciated exchange rate, especially in view of the fact that prior to the change, the three major traditional exports were not entitled to the premium exchange rate. However, a high percentage of the profits which would normally have accrued to producers of tea, rubber and coconut as a result of this exercise were siphoned off by the government. The export duties on tea, rubber and coconut were revised upward, thereby eroding producer margins at a time when costs of production were rising. Hence, as mentioned last year, the question of incentive for these major industries is of utmost importance and it is necessary to keep these taxes under constant review in order to ensure the viability of these major sectors of the economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.414432525634766,
+      9.41755485534668,
+      9.424454689025879,
+      9.48820686340332,
+      9.598020553588867,
+      9.615819931030273,
+      9.673432350158691,
+      9.907012939453125,
+      9.908517837524414,
+      9.912236213684082,
+      9.933183670043945,
+      9.935308456420898,
+      9.945679664611816,
+      9.969672203063965,
+      9.979634284973145,
+      10.004704475402832,
+      10.007518768310547,
+      10.041717529296875,
+      10.064535140991211,
+      10.119715690612793,
+      10.163359642028809,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.0,
+      568.13,
+      93.39,
+      578.21
+    ],
+    "text": "Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.95229721069336
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.04,
+      586.61,
+      415.95,
+      610.61
+    ],
+    "text": "As mentioned earlier, export earnings rose by barely 3 per cent in 1978 The poor performance in 1978 was in contrast to a growth of 33 per cent in 1977.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.008541107177734,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      52.8,
+      614.45,
+      415.82,
+      638.45
+    ],
+    "text": "Of the major export earners, the value of tea, gems and petroleum products fell while those of rubber and coconut products rose.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.008541107177734,
+      9.63165283203125,
+      9.673432350158691,
+      9.930140495300293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.68,
+      45.89,
+      256.1,
+      55.97
+    ],
+    "text": "( 42 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.4,
+      126.63,
+      120.86,
+      134.49
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.528578281402588
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      171.84,
+      105.99,
+      240.87,
+      122.01
+    ],
+    "text": "Value Rs. Mill SDR Million in b",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.331140518188477,
+      7.3795952796936035,
+      7.393176555633545,
+      7.498722553253174,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.28,
+      105.99,
+      397.06,
+      122.25
+    ],
+    "text": "ion rackets Percentage of Total Exports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.409080982208252,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.4,
+      126.63,
+      120.86,
+      134.49
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.528578281402588
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168.72,
+      135.99,
+      400.75,
+      144.81
+    ],
+    "text": "1976 1977 1978 1976 1977 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.3821563720703125,
+      7.450129985809326,
+      7.45456075668335,
+      7.48970890045166
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.64,
+      162.63,
+      393.25,
+      219.45
+    ],
+    "text": "Tea 2100 3503 6401 44 53 48 (216) (355^ ( 3 2 7 ; Rubber 890 931 2021 18 14 15 (9i) (93) (103) Coconut 382 335 911 8 5 8 (39) (32) (50) Minor Agricultural crops* 231 378 658 5 6 5 Minor Agricultural crops*",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.246352195739746,
+      6.2607221603393555,
+      6.513017654418945,
+      7.394437789916992,
+      7.410407066345215,
+      7.4175801277160645,
+      7.434313774108887,
+      7.434347629547119,
+      7.435364723205566,
+      7.444139003753662,
+      7.447829246520996,
+      7.457805633544922,
+      7.465237140655518,
+      7.495562553405762,
+      7.508900165557861,
+      7.512524604797363,
+      7.514336585998535,
+      7.5176897048950195,
+      7.528210163116455,
+      7.536006927490234,
+      7.537210941314697,
+      7.548238277435303,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.4,
+      220.64,
+      393.13,
+      252.09
+    ],
+    "text": "(24) (38) ( 3 3 ; Gems 261 298 531 5 4 4 (*?) (30) (27) Industrial Exports* 782 919 1891 16 14 14 Industrial Exports*",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.197882175445557,
+      6.513017654418945,
+      7.220354080200195,
+      7.410407066345215,
+      7.4110870361328125,
+      7.456521034240723,
+      7.457805633544922,
+      7.46672248840332,
+      7.4813923835754395,
+      7.508900165557861,
+      7.5176897048950195,
+      7.536006927490234,
+      7.58072566986084,
+      7.795301914215088
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.64,
+      252.08,
+      392.72,
+      268.17
+    ],
+    "text": "(8o) (86) (97) Other Exports 170 275 733 4 4 6 Other Exports",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.513017654418945,
+      7.220354080200195,
+      7.434347629547119,
+      7.435364723205566,
+      7.495562553405762,
+      7.542459487915039,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      50.16,
+      268.4,
+      393.31,
+      283.77
+    ],
+    "text": "('8) (26) (38) Total Exports 4815 6638 13206 100 100 100 Total Exports",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.513017654418945,
+      7.434347629547119,
+      7.446881294250488,
+      7.479707717895508,
+      7.48970890045166,
+      7.559082984924316,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      168.48,
+      284.96,
+      270.0,
+      292.68
+    ],
+    "text": "(495) (659>) (676)",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.255519866943359,
+      6.513017654418945
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.36,
+      304.95,
+      402.11,
+      312.81
+    ],
+    "text": "\u2022 Selected Items Source: Customs, Sri Lanka.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49.92,
+      326.45,
+      418.58,
+      456.53
+    ],
+    "text": "In 1978, the value of tea exports fell by 8 pet cent as a result of a drop in the export price from SDR 1 \u2022 81 in 1977 to SDR 1 \u2022 70 in 1978. The quantity of tea exports rose by 7 million kilos despite a drop in production. Although interna\u00adtional tea prices fell from the peak levels of 1977, they have been rising during the past few years and the levels in 1978 have been well above those of 1976. It is, therefore, a matter for serious concern that Sri Lanka is the only major producing country in which tea production has been falling over the last decade. In fact, Sri Lanka has yet to exceed the production peak reached 14 years ago in 1965. Duties, taxes and other charges presently constitute as much as around 56 per cent of the export price of tea and this appears to be a serious constraint to increasing production.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.462162971496582,
+      9.476461410522461,
+      9.477553367614746,
+      9.50621223449707,
+      9.543553352355957,
+      9.569462776184082,
+      9.584982872009277,
+      9.664610862731934,
+      9.716141700744629,
+      9.820878028869629,
+      9.969672203063965,
+      9.973492622375488,
+      10.004704475402832,
+      10.018021583557129,
+      10.036767959594727,
+      10.041717529296875,
+      10.23731803894043,
+      10.725885391235352
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49.92,
+      467.57,
+      410.64,
+      549.65
+    ],
+    "text": "On the other hand, the value of rubber exports rose appreciably, primarily on account of an increase in prices by around 14 per cent. The quantity of rubber exported rose only marginally. Earnings from coconut exports increased as a result of a rise in the quantity exported. This was made possible by a recovery in production from the depressed level of 1977. Export prices of coconut products, however, fell by around 18 per cent to SDR 0 \u2022 09 per nut equivalent in 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.47611141204834,
+      9.477553367614746,
+      9.479562759399414,
+      9.557859420776367,
+      9.586970329284668,
+      9.598278999328613,
+      9.716141700744629,
+      9.969672203063965
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.96,
+      561.89,
+      409.52,
+      643.97
+    ],
+    "text": "Earnings from gems and petroleum products dropped in 1978. Exports of petroleum products appear to have been somewhat reduced on account of higher domestic consumption. Industrial exports (excluding petroleum products and gems) increased this year by as much as 68 per cent to SDR 49 million in 1978. This increase was mainly in garments, glycerine, edible fats, crustaceans and molluscs, ceramics, machinery and mechanical appliances, graphite and ihnenite.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.476461410522461,
+      9.716141700744629,
+      10.006814956665039,
+      10.041717529296875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      197.28,
+      67.49,
+      267.45,
+      77.57
+    ],
+    "text": "TABLE 1.10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399556159973145,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      134.4,
+      83.81,
+      326.47,
+      93.89
+    ],
+    "text": "Composition of Exports 1976 - 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.557123184204102,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204.96,
+      41.09,
+      255.14,
+      51.17
+    ],
+    "text": "( 43 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.4,
+      62.69,
+      412.53,
+      132.77
+    ],
+    "text": "Exports of selected minor agricultural exports fell from SDR 38 million in 1977 to SDR 34 million in 1978. Prices of many items in this list have barely risen and the quantities exported of most of these commodities have fallen over a number of years. However, if account is taken of coffee and sesame seed exports which are excluded from the traditional list of minor agricultural exports, earnings from these items would have risen to around last year's level.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.242079734802246,
+      9.477553367614746,
+      9.569462776184082,
+      9.67540168762207,
+      9.716141700744629,
+      9.954544067382812,
+      9.981833457946777,
+      10.004704475402832,
+      10.041717529296875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.4,
+      145.01,
+      89.71,
+      155.09
+    ],
+    "text": "Imports",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.16,
+      161.81,
+      412.39,
+      303.89
+    ],
+    "text": "Following liberalization, the import pattern that emerged was encouraging. There was a sharp acceleration of investment goods imports reflecting the increase in the economy's growth rate. The volume of capital goods imports as measured by the Import Volume Index (1967=100) reached an all time high and rose by as much as 63 per cent. The upsmge in capital goods imports is an indi\u00adcation of a greater momentum in the future growth of the economy since such goods are generally influenced by long term considerations. The volume of intermediate goods imports appear to have risen by 10 per cent; and that of consumer goods, appear to have fallen purely because of a drop in rice imports which had more than offset an increase in other imports. Analysing SDR denominated trade data, the share of capital goods in total imports rose from 12 per cent in 1977 to 23 per cent in 1978 while the shares of intermediate goods",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.316774368286133,
+      9.38589096069336,
+      9.425333976745605,
+      9.43723201751709,
+      9.468986511230469,
+      9.470080375671387,
+      9.477684020996094,
+      9.49688720703125,
+      9.521836280822754,
+      9.58869743347168,
+      9.669023513793945,
+      9.677583694458008,
+      9.687804222106934,
+      9.716141700744629,
+      9.952006340026855,
+      9.952381134033203,
+      9.977560043334961,
+      9.995885848999023,
+      9.996299743652344,
+      10.043573379516602,
+      10.046911239624023,
+      10.064535140991211,
+      10.085904121398926,
+      10.119715690612793,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198.72,
+      323.81,
+      267.86,
+      333.89
+    ],
+    "text": "TABLE 1 1 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.496014595031738,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      134.88,
+      341.81,
+      325.76,
+      351.89
+    ],
+    "text": "Expenditure on Imports 1976 - 1978",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.716141700744629,
+      10.004828453063965
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.4,
+      365.82,
+      395.3,
+      374.28
+    ],
+    "text": "Value Percentage of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.551320552825928,
+      7.687495708465576
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.32,
+      385.26,
+      128.78,
+      393.24
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.581432342529297
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      94.32,
+      374.22,
+      398.82,
+      393.24
+    ],
+    "text": "Rs. Million SDR Mill ion Total Imports Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.382440567016602,
+      7.386055946350098,
+      7.431153297424316,
+      7.445161819458008,
+      7.460777282714844,
+      7.581432342529297,
+      7.612174034118652,
+      7.687495708465576
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      178.08,
+      395.34,
+      407.0,
+      405.0
+    ],
+    "text": "1976 1977 1978* 1976 1977 1978* 1976 1977 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.433942794799805,
+      7.502420902252197,
+      7.507014274597168,
+      7.542081356048584
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.08,
+      421.26,
+      402.73,
+      455.88
+    ],
+    "text": "1 \u2022 Consumer good* 1,689 2,534 5,593 174 270 287 36 42 38 1 \u2022 1 Food and drinks 1,491 2,181 4,103 153 224 210 32 36 28 (i) Rice 602 917 689 62 94 35 13 15 8 16 (ii) Flour 683 925 2,274 70 96 117 15 15",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.248115539550781,
+      7.373341083526611,
+      7.378226280212402,
+      7.449825763702393,
+      7.462340831756592,
+      7.486303329467773,
+      7.494227886199951,
+      7.50217866897583,
+      7.509085655212402,
+      7.510396957397461,
+      7.514123439788818,
+      7.519157886505127,
+      7.53623628616333,
+      7.5384721755981445,
+      7.547921657562256,
+      7.5648322105407715,
+      7.580645561218262,
+      7.580714225769043,
+      7.584782123565674,
+      7.59564208984375,
+      7.598984718322754,
+      7.599803447723389,
+      7.6005539894104,
+      7.600792407989502,
+      7.610573768615723,
+      7.631591796875,
+      7.648555278778076,
+      7.654585361480713,
+      7.687495708465576,
+      8.414609909057617
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      66.96,
+      438.78,
+      402.64,
+      479.88
+    ],
+    "text": "8 16 (iii) Sugar 64 197 514 7 19 26 1 3 4 1 \u2022 2 Textiles & clothing \u2022 \u2022 49 150 531 5 15 27 1 3 4 1-3 Other 149 203 959 16 31 50",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.170599460601807,
+      7.199999809265137,
+      7.270930767059326,
+      7.307839870452881,
+      7.486303329467773,
+      7.494227886199951,
+      7.50217866897583,
+      7.509085655212402,
+      7.510396957397461,
+      7.514123439788818,
+      7.519157886505127,
+      7.520984649658203,
+      7.528631687164307,
+      7.5712714195251465,
+      7.580714225769043,
+      7.59564208984375,
+      7.625714302062988,
+      7.687495708465576
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.88,
+      485.34,
+      402.64,
+      519.96
+    ],
+    "text": "2. Intermediate goods 2,259 2,648 5.591 232 262 287 49 44 38 2-1 Petro'eum 1,164 1,441 2,402 120 141 123 25 24 16 2-2 Fertilizer 99 51 252 10 6 13 2 1 2 2 \u2022 3 Chemicals 906 1,036 2,491 9 100 128",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.22056245803833,
+      7.391773700714111,
+      7.456850528717041,
+      7.462340831756592,
+      7.486303329467773,
+      7.487307548522949,
+      7.494227886199951,
+      7.507946491241455,
+      7.5088090896606445,
+      7.510396957397461,
+      7.519157886505127,
+      7.520984649658203,
+      7.5327277183532715,
+      7.561336994171143,
+      7.5648322105407715,
+      7.580714225769043,
+      7.59564208984375,
+      7.59628963470459,
+      7.602599620819092,
+      7.607950687408447,
+      7.610573768615723,
+      7.617586612701416,
+      7.625714302062988,
+      7.631591796875,
+      7.654585361480713,
+      7.655465602874756,
+      7.663215160369873,
+      7.687495708465576,
+      7.696224212646484,
+      7.872039794921875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.36,
+      525.9,
+      403.05,
+      560.52
+    ],
+    "text": "3. Investment goods 641 746 3,367 66 73 173 14 12 23 3-1 Machinery St equipment 364 286 1,845 37 33 95 8 5 13 3-2 Transport epuipment--175 232 988 18 24 51 4 4 7 3-3 Building material 104 129 150 11 9 8 2 2 1",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.174249649047852,
+      7.22056245803833,
+      7.270930767059326,
+      7.308017730712891,
+      7.337114334106445,
+      7.456850528717041,
+      7.462340831756592,
+      7.486303329467773,
+      7.494227886199951,
+      7.50217866897583,
+      7.507946491241455,
+      7.509085655212402,
+      7.510396957397461,
+      7.528631687164307,
+      7.547921657562256,
+      7.561336994171143,
+      7.5712714195251465,
+      7.580645561218262,
+      7.580714225769043,
+      7.5894622802734375,
+      7.59628963470459,
+      7.6005539894104,
+      7.600792407989502,
+      7.6061787605285645,
+      7.610403537750244,
+      7.623300552368164,
+      7.628670692443848,
+      7.6323394775390625,
+      7.640384197235107,
+      7.654585361480713,
+      7.687495708465576,
+      7.872039794921875,
+      7.874608039855957
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.6,
+      566.22,
+      403.29,
+      576.12
+    ],
+    "text": "4' Unclassified 54 79 110 6 25t 29f 1 1 1",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.403791904449463,
+      7.456468105316162,
+      7.494227886199951,
+      7.510396957397461,
+      7.584782123565674,
+      7.607950687408447,
+      7.639297962188721,
+      7.687495708465576,
+      7.898238658905029
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.32,
+      592.38,
+      403.39,
+      602.28
+    ],
+    "text": "5. Total 4,645 6,007 14,662 477 630 774 100 100 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.419389247894287,
+      7.5648322105407715,
+      7.584782123565674,
+      7.599803447723389,
+      7.604201793670654,
+      7.620851516723633,
+      7.647200107574463,
+      7.687495708465576
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.32,
+      614.46,
+      411.25,
+      641.64
+    ],
+    "text": "\u2022 Provisional Source: Customs, Sri Lanka, t Includes adjustments for transactions effected after November 15, 1977 at rates prevailing prior to that date.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.456954479217529,
+      7.486338138580322,
+      7.642792224884033,
+      7.687495708465576,
+      7.9264116287231445,
+      8.03092098236084
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      203.52,
+      44.45,
+      255.59,
+      54.53
+    ],
+    "text": "( 44 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48.48,
+      66.05,
+      409.38,
+      100.61
+    ],
+    "text": "and consumer goods fell from around 44 per cent to 38 per cent each in 1978. Reduced imports of rice (which fell by 63 per cent) was a major factor contri\u00adbuting to the drop in the share of consumer goods.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.316774368286133,
+      9.38589096069336,
+      9.477553367614746,
+      9.560112953186035,
+      9.673432350158691,
+      9.996299743652344
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.2,
+      108.53,
+      409.34,
+      154.61
+    ],
+    "text": "In the capital goods category, the imports of machinery and equipment and transport equipment were more than twice their level in 1977, meeting the accumulated unfulfilled demand of several years. Registrations of lorries and vans, for instance, more than quadrupled in 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.38589096069336,
+      9.673432350158691,
+      9.992363929748535,
+      10.004456520080566,
+      10.119715690612793
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48.96,
+      163.01,
+      410.1,
+      209.09
+    ],
+    "text": "Expenditure on consumer goods in 1978 rose by only about 6 per cent. All sub-categories of consumption goods, except rice, recorded increases in 1978. Imports of milk products, textiles, motor cars and miscellaneous food products rose substantially.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.181896209716797,
+      9.316774368286133,
+      9.38589096069336,
+      9.673432350158691,
+      9.911776542663574
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.68,
+      217.49,
+      409.88,
+      252.05
+    ],
+    "text": "Among imports of intermediate goods, expenditure on chemicals, fertilizer, paper and paper board rose while expenditure on petroleum products and wheat fell on account of a drop in quantities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.316774368286133,
+      9.452312469482422,
+      9.477553367614746,
+      9.673432350158691,
+      9.909562110900879
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.4,
+      264.05,
+      117.15,
+      274.13
+    ],
+    "text": "Trade Policy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.673432350158691,
+      10.092758178710938
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.4,
+      280.13,
+      410.19,
+      314.21
+    ],
+    "text": "Trade policy in 1978 has been directed to promoting exports, further dismantling of licensing and reforming of the tariff structure and control procedures.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.370835304260254,
+      9.673432350158691,
+      9.97789192199707,
+      10.027234077453613
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.64,
+      324.53,
+      411.06,
+      454.61
+    ],
+    "text": "Duties on imports have been kept under continuous review and some modification of duties took place in the course of the year. Import duties were reduced for a number of commodities comprising items in short supply, essential consumer items, intermediate and capital goods. Duties were raised, sometimes to penal levels, on luxury consumer goods. For instances, duties on items such as perfumes, carpets and cigarettes were raised to 500 per cent in January. There were duty reductions on some consumer goods, such as condesned milk, infant and invalid milk food, frozen meat, biscuits, vegetable protein and yeast. Duties were also reduced on a number of intermediate goods such as barbed wire, articles of iron and steel, fertilizer and pesticides; as well as on capital goods such as engines and chassis for heavy diesel vehicles, roofing tiles and asbestos sheets.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.189558029174805,
+      9.316774368286133,
+      9.38589096069336,
+      9.579322814941406,
+      9.673432350158691,
+      10.082208633422852
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.4,
+      463.49,
+      412.16,
+      509.57
+    ],
+    "text": "In the case of exports, duties were halved in , the case of instant tea, cinammon, cardamom, citronella oil and cocoa while pepper, cloves, coffee and nutmeg were exempted totally. The duty on block rubber was raised to re-establish the relationship with other rubber exports.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.224905014038086,
+      9.242079734802246,
+      9.332271575927734,
+      9.371100425720215,
+      9.644454956054688,
+      9.673432350158691,
+      10.079662322998047
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.4,
+      517.49,
+      414.5,
+      575.57
+    ],
+    "text": "Schedule I of the Special Import Licence No. 1 of 1977 was further modified. Several items were deleted from the list of commodities subject to prior licensing, mainly coriander, sugar, fertilizer, safety matches, artificial resins and plastic materials, plywood sheets for tea chests, boxboard, certain base metals and internal combustion engines.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.269457817077637,
+      9.377240180969238,
+      9.48654842376709,
+      9.673432350158691,
+      9.907096862792969,
+      9.97789192199707,
+      10.016451835632324,
+      10.725885391235352
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.44,
+      583.73,
+      411.89,
+      641.81
+    ],
+    "text": "Many non-traditional exports were removed from export control. Need for prior export licensing was removed in all except for 21 items. These few items remain under licensing for purposes of conservation of non-renewable resources, local subsidization of essential consumer requirements, environmental protection and preservation of the fauna and flora of the country.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.470560073852539,
+      9.633758544921875,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212.4,
+      44.45,
+      261.11,
+      54.53
+    ],
+    "text": "( 45 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.16,
+      66.77,
+      416.91,
+      148.85
+    ],
+    "text": "Various measures have been introduced in the course of the year to promote exports. Existing subsidy schemes for replanting and new planting of agricultural crops were generally revised upward. Grant of foreign exchange for business travel was considerably enhanced in 1978. The Greater Colombo Economic Commission was established to set up \"Export Promotion Zones\" with a view to attracting export oriented foreign investment. In the course of 1978, 52 approvals were granted for the establishment of such industries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.362083435058594,
+      9.411178588867188,
+      9.436485290527344,
+      9.459054946899414,
+      9.476461410522461,
+      9.673432350158691,
+      9.915410041809082,
+      9.919041633605957,
+      9.931097984313965,
+      9.950133323669434,
+      10.037469863891602
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.96,
+      159.17,
+      416.15,
+      253.25
+    ],
+    "text": "Another significant measure for promoting exports which was in the process of implementation (and introduced in 1979) was the establishment of an Export Credit Guarantee Corporation. This Corporation will assist exporters to obtain bank finance on a liberal basis and afford them a means of protection against the risks of non-payment or delayed payment by overseas buyers. Legis-lation was also in process of being enacted for the establishment of an Export Development Council of Ministers and an Export Development Board. The Board will be vested with the powers necessary for the development of exports.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.603755950927734,
+      9.615432739257812,
+      9.644197463989258,
+      9.673432350158691,
+      9.91645336151123,
+      9.927804946899414,
+      9.93868350982666,
+      9.957703590393066
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      55.2,
+      266.07,
+      175.6,
+      273.93
+    ],
+    "text": "B A L A N C E OF P A Y M E N T S1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.583862066268921,
+      7.382463455200195,
+      7.395766735076904,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.0,
+      278.21,
+      415.33,
+      384.29
+    ],
+    "text": "The performance of the balance of payments during 1978 was influenced largely by the economic reforms of 1977. The immediate impact of these measures on the balance of payments was perceptible in 1978, when the current account shifted back to a deficit of Rs. 782 million (SDR 64 million) from a surplus of Rs 1,266 million (SDR 116 million) in 1977. External assets, however, increased further in 1978 and the end year reserves were sufficient to finance four months' imports anticipated for 1979. The growth in external assets arose from the surplus in the capital account generated by a heavy inflow of long-term capital and by drawings from the International Monetary Fund (IMF).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.36836051940918,
+      9.414432525634766,
+      9.431262969970703,
+      9.494183540344238,
+      9.573356628417969,
+      9.641277313232422,
+      9.673432350158691,
+      9.907012939453125,
+      9.925134658813477,
+      9.934225082397461,
+      9.941640853881836,
+      9.972702980041504,
+      9.975235939025879,
+      9.97789192199707
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      52.56,
+      396.77,
+      414.18,
+      550.85
+    ],
+    "text": "The impact of the exchange and trade liberalization on balance of payments was felt critically in the field of imports. In SDR terms,2 payments on imports rose by 30 per cent; the import bill increased from Rs. 6,290 million (SDR 622 million) in 1977 to Rs. 15,350 million (SDR 808 million) in 1978. The increase in imports reflected the release of the pent-up demand built up over the years of controls. The rise in imports stemmed mainly from a speeding up of imports of investment and intermediate goods, while imports of consumer goods rose at a lower pace. A more than twofold increase in the import of capital goods in 1978 was partly a reflection of the bottlenecks that existed in domestic industries for a number of years, and partly a result of increased indust\u00adrial activity. While the foreign exchange resource constraints and stringent import controls In the past served to limit the utilisation of external resources to certain essential imports, they inhibited the inflow of investment goods",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.3857014179229736,
+      9.316774368286133,
+      9.359119415283203,
+      9.38589096069336,
+      9.417379379272461,
+      9.431262969970703,
+      9.498194694519043,
+      9.619780540466309,
+      9.673432350158691,
+      9.923632621765137,
+      9.933183670043945,
+      9.934142112731934,
+      9.95321273803711,
+      9.969672203063965,
+      9.973492622375488,
+      10.012068748474121,
+      10.046911239624023,
+      10.119715690612793,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.6,
+      565.59,
+      413.7,
+      597.21
+    ],
+    "text": "1\u00ab The trade data used in the balance of payments ate actual receipts and payments during the year. They differ from the external trade data given earlier, which reflect the physical movement of exports and imports. The difference is due to the time lag between receipts and payments on one side and the physical movement of goods, on the other.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.257713794708252,
+      7.307483196258545,
+      7.508934020996094,
+      7.547403335571289,
+      7.731342792510986,
+      7.8265380859375,
+      7.828856468200684
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.6,
+      601.35,
+      413.69,
+      640.89
+    ],
+    "text": "2- The frequent changes in the exchange rate of Sri Lanka and also the instability of exchange rates between major international currencies since 1977 introduced a serious problem of comparison of time series data on balance of payments. In the absence of a stable monetary unit, the relatively more stable Special Drawing Rights (SDR) has been used as a unit of account for the purpose of comparison.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.339628219604492,
+      7.479538917541504,
+      7.5177903175354,
+      7.547403335571289,
+      7.752634048461914,
+      7.7912917137146,
+      7.796239852905273,
+      7.828856468200684,
+      7.871399402618408,
+      7.917248249053955
+    ]
+  }
+]

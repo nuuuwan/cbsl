@@ -1,0 +1,6721 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      214.08,
+      103.65,
+      262.99,
+      114.72
+    ],
+    "text": "PART TV",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      83.52,
+      139.65,
+      417.9,
+      177.6
+    ],
+    "text": "MAJOR LEGISLATIVE ENACTMENTS OF 1984 RELATING TO THE FUNCTIONS AND OPERATIONS OF THE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.48,
+      191.01,
+      407.3,
+      202.08
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.04,
+      215.25,
+      407.83,
+      226.32
+    ],
+    "text": "1. Surcharge on Income Tax Act, No. 12 of 1984 i",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.6,
+      239.49,
+      408.2,
+      250.56
+    ],
+    "text": "2. Inland Revenue (Amendment) Act, No. 14 of 1984 .. ix",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.778343200683594,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.8,
+      263.73,
+      407.9,
+      274.8
+    ],
+    "text": "3. Finance (Amendment) Act, No. 19 of 1984 .. .. xvm",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.521134376525879,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      57.36,
+      287.73,
+      407.64,
+      298.8
+    ],
+    "text": "4. State Mortgage & Investment Bank (Amendment) Act, No. 29 of 1984 xxn",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.80173397064209,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.08,
+      311.97,
+      407.69,
+      323.04
+    ],
+    "text": "5. Foreign Loans (Amendment) Act, No. 33 of 1984 .. .. xxiv",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.798877716064453,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.08,
+      336.45,
+      407.94,
+      347.52
+    ],
+    "text": "6. Appropriation Act, No. 46 of 1984 .. xxv",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.08,
+      360.45,
+      408.13,
+      371.52
+    ],
+    "text": "7. Turnover Tax (Amendment) Act, No. 47 of 1984 .. xxvn",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.913223266601562,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.2,
+      78.21,
+      362.1,
+      89.28
+    ],
+    "text": "SURCHARGE ON INCOME TAX ACT, No. 12 OF 1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      173.52,
+      91.89,
+      303.52,
+      102.96
+    ],
+    "text": "[Certified on 11th April, 1984]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.56,
+      118.62,
+      417.74,
+      126.6
+    ],
+    "text": "A N ACT TO IMPOSE A SURCHARGE ON EVERY PERSON CHARGEABLE WITH INCOME TAX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      130.62,
+      418.02,
+      138.6
+    ],
+    "text": "FOR THE YEAR OF ASSESSMENT COMMENCING ON APRIL 1, 1984, BY REFERENCE",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.138428688049316,
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.04,
+      142.62,
+      418.26,
+      150.6
+    ],
+    "text": "TO THE INCOME TAX PAYABLE BY SUCH PERSON FOR THAT YEAR OF ASSESSMENT |",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.107132434844971,
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      154.62,
+      407.69,
+      162.6
+    ],
+    "text": "AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      176.85,
+      418.14,
+      187.92
+    ],
+    "text": "1. This Act may be cited as the Surcharge on Income Tax Act, No. 12 of 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.88,
+      201.09,
+      418.65,
+      260.16
+    ],
+    "text": "2. Every person who is chargeable with income tax for the year of assessment commencing on April 1, 1984 (in this Act referred to as the \" relevant year\") shall, notwithstanding anything contained in any other written law or in any convention, grant or agreement, be liable to pay a surcharge on the income tax payable by him for the relevant year, calculated at the rate often per centum of such income tax.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.778343200683594,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.64,
+      273.81,
+      418.58,
+      321.6
+    ],
+    "text": "3. Every person liable to pay the surcharge under this Act, shali,notwithstanding the fact that an assessment has not been issued to him, pay to the Commissioner-General not less than fifty per centum of the amount of the surcharge payable by him, on or before July 15,1984, and the balance on or before November 30,1984.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.521134376525879,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      56.16,
+      334.77,
+      418.2,
+      417.84
+    ],
+    "text": "4. Every employer who employs any employee from whose remuneration income tax for the relevant year is deductible, in accordance with the provisions of Chapter XV of the Inland Revenue Act, (not being an employee who is deemed by subsection (7) of section 67 of that Act, to be a non-resident) shall also deduct for every month commencing on April 1, 1984, and ending on March 31, 1985, ten per centum of the amount deducted as income tax, as the surcharge on income tax payable under this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.80173397064209,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.84,
+      433.65,
+      213.11,
+      444.72
+    ],
+    "text": "5. Where the aggregate of\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.32,
+      449.97,
+      291.58,
+      461.04
+    ],
+    "text": "(a) the income tax payable for the relevant year ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.32,
+      466.29,
+      311.57,
+      477.36
+    ],
+    "text": "(b) the wealth tax payable for the relevant year ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.8,
+      482.85,
+      311.85,
+      493.92
+    ],
+    "text": "(c) the surcharge on income tax payable under this Act,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.92,
+      508.05,
+      418.35,
+      594.0
+    ],
+    "text": "by any person, exceeds eighty per centum of the aggregate of the assessable income of that person for that year and any profits and income (other than the net annual value of a residence and any subsidy exempt from income tax under the Inland Revenue Act), being profits and income exempt from income tax under that Act, or any other enactment and which but for that exemption would have been taken into account in computing the assessable income of that person for the relevant year, the amount of such excess shall be set off against such surcharge on income tax.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.92,
+      608.85,
+      418.17,
+      645.84
+    ],
+    "text": "6. (1) Where an instalment of the surcharge or a part of such instalment is not paid on or before the dates specified in section 3 for the payment of that instalment, such instalment of surcharge or part thereof, shall be deemed to be in default a n d ^",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.178505897521973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      225.12,
+      57.91,
+      264.43,
+      65.87
+    ],
+    "text": "( II )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      83.52,
+      80.13,
+      376.13,
+      91.2
+    ],
+    "text": "(a) where such surcharge is payable by one person, such person ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.48,
+      106.29,
+      425.14,
+      131.04
+    ],
+    "text": "(b) where such surcharge is payable by more than one person or by a partnership, each of such persons or each partner in such partnership,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.52,
+      144.93,
+      329.58,
+      156.0
+    ],
+    "text": "shall be deemed to be a defaulter for the purposes of this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.96,
+      171.09,
+      425.54,
+      195.12
+    ],
+    "text": "(2) Where any surcharge payable by any person is in default, the defaulter shall, in addition to the surcharge in default, pay as a penalty\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.92,
+      210.21,
+      382.85,
+      221.28
+    ],
+    "text": "(a) a sum equivalent to five per centum of the amount in default; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.16,
+      236.37,
+      426.42,
+      285.6
+    ],
+    "text": "(b) where any amount in default is not paid before the expiry of thirty days after it has begun to be in default, a further sum equivalent to five per centum of the amount in default in respect of each further period of three months or part of such period during which it is in default :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      102.48,
+      302.85,
+      170.39,
+      313.92
+    ],
+    "text": "Provided that\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      108.24,
+      329.49,
+      426.9,
+      366.0
+    ],
+    "text": "(i) the total amount payable as a penalty under the preceding provisions of this section shall in no case exceed fifty per centum of the surcharge in default;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      106.32,
+      381.81,
+      428.04,
+      481.92
+    ],
+    "text": "(ii) where any person has paid as surcharge not less than five per centum of the income tax payable by him for the year of assessment commencing on April 1, 1983, under the Inland Revenue Act, on or before July 15, 1984, and November 30, 1984, respectively, such person shall not be liable to any penalty in respect of the payment he is required to make under section 3 if he pays to the Commissioner-General on or before November 30, 1985, any excess of the amounts payable under section 3 over the amounts paid by him ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.912114143371582,
+      9.949873924255371,
+      10.75899600982666
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      104.88,
+      497.25,
+      428.29,
+      545.76
+    ],
+    "text": "(iii) the Commissioner-General may reduce or waive any penalty payable under this section if it appears to the Commissioner-General that such reduction or waiver is just and equitable in all the circumstances of the case.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.6,
+      561.33,
+      429.21,
+      648.72
+    ],
+    "text": "7. The provisions of Chapter XIII and Chapters XV to XXVI of the Inland Revenue Act relating to the furnishing of returns relating to income tax payable under that Act, the deduction of income tax, assessment, appeals against assessment, payment, recovery and refund of such tax shall, apply to the furnishing of returns relating to the surcharge payable under this Act, and, the deduction, assessment, appeals against assessment, payment, recovery and refund, of such surcharge subject to the following modifications : \u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      221.04,
+      55.2,
+      260.06,
+      62.95
+    ],
+    "text": "( III )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.962922096252441
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.64,
+      75.81,
+      421.32,
+      134.88
+    ],
+    "text": "(a) the requirement imposed by this Act, on any person to furnish a return of the income tax payable by him under the Inland Revenue Act, for the relevant year shall be deemed to have been sufficiently complied with if such person furnishes a return of his income for that year under section 92(1) of the Inland Revenue Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.4,
+      144.45,
+      421.1,
+      227.52
+    ],
+    "text": "(b) where an assessor makes an assessment or an additional assessment on any person, of the income tax payable by such person under the Inland Revenue Act for the relevant year, the assessor may, at the same time and in the same form, make an assessment or additional assessment, as the case may be, of the surcharge payable by such person for that year under this Act. The assessments or additional assessments, as the case may be, shall be deemed to be separate assessments issued under the respective Acts ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.64,
+      237.09,
+      420.85,
+      308.16
+    ],
+    "text": "(c) where notice of assessment is given to any person under section 116 of the Inland Revenue Act stating the amount of income tax charged on such person under the Inland Revenue Act, for the relevant year, such notice may also include the amount of the surcharge charged on such person under this Act, for that year. The notices shall be deemed to be separate notices issued under the respective Acts ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.64,
+      317.73,
+      420.3,
+      364.8
+    ],
+    "text": "(d) where an appeal is made against an assessment of income tax payable under the Inland Revenue Act for the relevant year, such appeal shall be deemed to include an appeal against the surcharge payable under this Act, for that year and shall be determined accordingly ; and",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.64,
+      374.13,
+      420.9,
+      445.2
+    ],
+    "text": "(e) where a notice, statement or certificate is issued to any person under Chapter XXI of the Inland Revenue Act, such notice, statement or certificate, as the case may be, may also include particulars of any surcharge in default under this Act. The notices, statements or certificates, as the case may be, shall be deemed to be separate notices, statements or certificates issued under the respective Acts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.4,
+      454.77,
+      313.91,
+      465.84
+    ],
+    "text": "8. In this Act, unless the context otherwise requires\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.12,
+      472.77,
+      420.97,
+      519.84
+    ],
+    "text": "\" assessable income \", \" Commissioner-General \", \" non-resident company \", \" person \", \" profits and income \", \" resident company \", and \" year of assessment\" have the respective meanings assigned to them in the Inland Revenue Act;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.88,
+      528.93,
+      422.02,
+      552.24
+    ],
+    "text": "\" employer \", \" employee \" and \" remuneration \" have the respective meanings assigned to them in Chapter XV of the Inland Revenue Act ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      80.4,
+      561.33,
+      374.07,
+      572.4
+    ],
+    "text": "\" income tax \" with reference to any person and the relevant year,\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.2,
+      581.49,
+      210.95,
+      592.56
+    ],
+    "text": "(a) in section 2 and\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      130.32,
+      597.57,
+      420.81,
+      644.64
+    ],
+    "text": "(i) in relation to a resident company, means the income tax payable, under the Inland Revenue Act, by that company for the relevant year, less any income tax payable by that company for that year under paragraph (b) of subsection (1) of section 33 of that Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      224.4,
+      56.22,
+      262.52,
+      64.2
+    ],
+    "text": "( i v )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099287509918213,
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      131.52,
+      78.21,
+      423.08,
+      140.16
+    ],
+    "text": "(ii) in relation to a non-resident company, means the income tax payable, under the Inland Revenue Act, by that company for the relevant year less any income tax payable by that company for that year, under sub-paragraph (i) or sub-paragraph (ii) of paragraph (b) of subsection (1) of section 34 of that Act;",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      129.36,
+      153.57,
+      423.81,
+      240.96
+    ],
+    "text": "(iii) in relation to a resident individual whose profits and income for the relevant year include any profits from employment referred to in paragraph (c) of section 4 of the Inland Revenue Act, means such income tax as would have been payable, under the Inland Revenue Act, by such individual had such profits from employment not formed part of his profits and income for the relevant year;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.56,
+      255.33,
+      424.69,
+      330.0
+    ],
+    "text": "(iv) in relation to an individual who is deemed by subsection (7) of section 67 of the Inland Revenue Act to be a non-resident, means such income tax as would have been payable, under the Inland Revenue Act, by such individual had his profits from employ\u00adment in Sri Lanka for the relevant year not formed part of his profits and income for that year ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      133.44,
+      343.41,
+      423.93,
+      378.48
+    ],
+    "text": "(v) in relation to any other person, means the income tax payable, under the Inland Revenue Act, by that person for the relevant year ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.48,
+      391.89,
+      423.65,
+      414.72
+    ],
+    "text": "(b) in section 5, means the income tax payable, under the Inland Revenue Act, by that person for that year ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.16,
+      428.13,
+      387.1,
+      439.2
+    ],
+    "text": "\" Inland Revenue Act\" means the Inland Revenue Act, No. 28 of 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.16,
+      464.13,
+      387.78,
+      475.2
+    ],
+    "text": "INLAND REVENUE (AMENDMENT) ACT, No. 14 OF 1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      179.76,
+      478.29,
+      309.52,
+      489.36
+    ],
+    "text": "[Certified on 24th April, 1984]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.44,
+      505.98,
+      336.13,
+      513.96
+    ],
+    "text": "A N ACT TO AMEND THE INLAND REVENUE ACT, No. 28 OF 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.44,
+      528.45,
+      425.7,
+      552.0
+    ],
+    "text": "1. This Act may be cited as the Inland Revenue (Amendment) Act, No. 14 of 1984.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.88412857055664,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.96,
+      564.69,
+      425.08,
+      588.0
+    ],
+    "text": "2. Section 4 of the Inland Revenue Act, No. 28 of 1979 (hereinafter referred to as the \" principal enactment\") is hereby amended as follows:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.733858108520508,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.16,
+      600.93,
+      367.9,
+      612.0
+    ],
+    "text": "(1) by renumbering that section as subsection (1) of that section ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.16,
+      624.93,
+      425.54,
+      648.48
+    ],
+    "text": "(2) by the substitution, for paragraph (d) of the renumbered subsection (l),of the following paragraph:\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      222.24,
+      56.13,
+      262.01,
+      67.2
+    ],
+    "text": "( v )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.4,
+      79.41,
+      424.19,
+      127.92
+    ],
+    "text": "\" (d) the rental value of any place of residence provided rent-free by the employer or where a place of residence is provided by an employer at a rent less than the rental value, the excess of the rental value over such rent.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.16,
+      141.81,
+      422.67,
+      165.6
+    ],
+    "text": "For the purposes of this paragraph the rental value of any place of residence shall\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      103.2,
+      178.77,
+      423.48,
+      228.0
+    ],
+    "text": "(i) for any year of assessment commencing on or before April 1, 1983, be the net annual value as defined in section 5 with the addition of the rates paid by the owner and of thirty-three and one-third per centum of such net annual value on account of repairs and other expenses; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.56,
+      242.37,
+      422.86,
+      253.44
+    ],
+    "text": "(ii) for any year of assessment commencing on or after April 1, 1984, be\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.12,
+      268.53,
+      364.58,
+      279.6
+    ],
+    "text": "(a) the amount computed in accordance with item (i) ; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.36,
+      292.77,
+      333.45,
+      303.84
+    ],
+    "text": "(b) the gross rent paid for such place of residence,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      117.36,
+      317.97,
+      208.98,
+      329.04
+    ],
+    "text": "whichever is higher :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.32,
+      343.41,
+      297.35,
+      354.48
+    ],
+    "text": "Provided that any excess of the rental value over\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      87.36,
+      369.33,
+      422.91,
+      405.84
+    ],
+    "text": "(i) fifteen per centum of the profits described in paragraphs (a) and (b) of subsec\u00adtion (1), or fifteen thousand rupees, whichever is lower, for ahy year of assessment commencing on or before April 1, 1983, and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      84.72,
+      420.21,
+      423.52,
+      456.72
+    ],
+    "text": "(ii) twenty five per centum of the profits described in paragraphs (a) and (b) of subsection (1), or forty-eight thousand rupees, whichever is lower , for any year of assessment commencing on or after April 1, 1984,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      92.4,
+      471.57,
+      219.16,
+      482.64
+    ],
+    "text": "shall be disregarded ; \" ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      82.32,
+      497.25,
+      423.86,
+      521.28
+    ],
+    "text": "(3) by the addition, after the renumbered subsection (1), of the following subsection :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      98.16,
+      535.89,
+      423.4,
+      559.44
+    ],
+    "text": "' (2) For the purposes of this section , \" the value of any benefit in relation to an individual who has received, or derived such benefit, means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.32,
+      574.53,
+      422.77,
+      598.08
+    ],
+    "text": "(a) where the market value of such benefit can be readily ascertained, such market value; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.08,
+      612.93,
+      423.37,
+      649.44
+    ],
+    "text": "(b) where the market value of such benefit cannot be readily ascertained, or such benefit has no market value, the cost that would have to be incurred by any other individual to obtain such benefit :",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      222.24,
+      59.83,
+      261.31,
+      67.79
+    ],
+    "text": "( VI )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      104.64,
+      81.57,
+      423.24,
+      153.84
+    ],
+    "text": "Provided that the Commissioner-General may, having regard to the market value of that benefit or the cost that would have to be incurred by any other individual to obtain that benefit, by Order published in the Gazette, specify the value to be placed on any benefit and where a value is so specified in respect of a benefit, such value shall be deemed to be the value of such benefit.'.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.84,
+      166.77,
+      423.15,
+      203.76
+    ],
+    "text": "3. Section 9 of the principal enactment is hereby amended in paragraph (h) of subsection (1) of that section, by the substitution, for the words \" Colombo Plan Bureau ; \", of the words \" Colombo Plan Bureau or the Asian Development Bank ;\".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.556254386901855,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.6,
+      217.41,
+      422.43,
+      254.88
+    ],
+    "text": "4. Section. 10 of the principal enactment is hereby amended by the repeal of paragraph (e) of that section and the substitution, of the following paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.830158233642578,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82.8,
+      268.05,
+      423.34,
+      342.72
+    ],
+    "text": "\" (e) the interest accruing to any person for the period during which he was out of Sri Lanka and for the six years immediately succeeding the date on which he arrives in Sri Lanka, and becomes resident in Sri Lanka, on monies lying to his credit in foreign currency in any account opened by him, or on his behalf, in any commercial bank with the approval of the Central Bank of Ceylon ; \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0,
+      10.202058792114258
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.84,
+      356.37,
+      423.15,
+      392.88
+    ],
+    "text": "5. Section 11 of the principal enactment is hereby amended in paragraph (b) of that section by the substitution, for the figures \" 17,18,19, 20,21 \", of the figures \"17, 17A, 18, 19, 20, 20A, 21 \".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.254377365112305,
+      9.77241039276123,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82.8,
+      406.05,
+      413.02,
+      417.12
+    ],
+    "text": "6. Section 13 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.04,
+      430.05,
+      423.3,
+      467.04
+    ],
+    "text": "(a) by the substitution, in paragraph (/) of that section for the words and figures \"Sri Lanka Export Development Act, No. 40 of 1979.\", of the words and figures \" Sri Lanka Export Development Act, No. 40 of 1979 ; \" ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      83.28,
+      480.21,
+      413.03,
+      491.28
+    ],
+    "text": "(b) by the addition, at the end of that section, of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      99.6,
+      504.21,
+      424.32,
+      527.76
+    ],
+    "text": "\" (g) under any other scheme for the planting or replanting of any other agricultural product. \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.08,
+      540.93,
+      422.73,
+      564.96
+    ],
+    "text": "7. The following new section is hereby inserted immediately after section 17, and shall have effect as section 17A, of the principal enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.370111465454102,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.6,
+      576.0,
+      419.55,
+      591.6
+    ],
+    "text": "income taxVorfWe ^ ^6 Pr 0 ^t s a n c * mcome within the meaning of paragraph",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7859647274017334,
+      3.4824562072753906,
+      7.959899425506592,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.6,
+      593.01,
+      423.24,
+      625.2
+    ],
+    "text": "years of the profits (\u00ab) of section 3 (other than any profits and income from the sale and income of 0 f capital assets) of any company from any undertaking referred certain companies . , - \u2022 <- . , commencing to in subsection (2) shall be exempt from income tax for a period",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      7.959899425506592,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.08,
+      626.93,
+      421.15,
+      649.44
+    ],
+    "text": "afte^November \u00b0^ **V e v e a r s \u00bb SUCn Pe ri\u00b0\u00b0^ \u00b0 f fiye Ye a r s being calculated from the 17, 1983. date on which such undertaking commenced to carry on business.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7859647274017334,
+      7.959899425506592,
+      9.270922660827637,
+      9.287895202636719,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      223.68,
+      55.74,
+      264.67,
+      63.72
+    ],
+    "text": "( VII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035,
+      7.164904594421387
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.2,
+      77.25,
+      425.17,
+      112.32
+    ],
+    "text": "(2) The provisions of subsection (1) shall apply to any company which commenced to carry on business on or after November 17, 1983 and which is approved by the Minister by Order published in the Gazette\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.92,
+      125.73,
+      425.54,
+      149.28
+    ],
+    "text": "(a) being a company which is engaged only in carrying on one or more of the undertakings hereinafter specified, namely\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      124.8,
+      163.17,
+      308.86,
+      174.24
+    ],
+    "text": "(i) an undertaking for animal husbandry ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.4,
+      187.41,
+      356.86,
+      198.48
+    ],
+    "text": "(ii) an undertaking for the cultivation of sugar cane ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.52,
+      213.33,
+      338.14,
+      224.4
+    ],
+    "text": "(iii) an undertaking for marine or inland fisheries ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      119.52,
+      239.25,
+      424.92,
+      275.76
+    ],
+    "text": "(iv) an undertaking for carrying on any activity referred to in any of the foregoing sub-paragraphs and processing the product of such activity ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      122.4,
+      290.37,
+      424.78,
+      339.6
+    ],
+    "text": "(v) an undertaking for the production from any agricultural produce of Sri Lanka of such commodities as may be specified by the Minister, by Order published in the Gazette, having regard to the need to provide incentives for the production of such commodities ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.2,
+      355.41,
+      404.94,
+      366.48
+    ],
+    "text": "(b) being a company which is an Export Production Village Company.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.96,
+      380.37,
+      425.4,
+      404.16
+    ],
+    "text": "(3) For the purposes of this section \" Export Production Village Company \" means a company\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.72,
+      417.33,
+      424.02,
+      441.36
+    ],
+    "text": "(a) which is a People's Company within the meaning of the Companies Act, No. 17 of 1982 ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.96,
+      455.49,
+      423.72,
+      492.48
+    ],
+    "text": "(b) the shareholders of which are the Export Development Board established by the Sri Lanka Export Development Act, No. 40 of 1979, and the producers of any of the products produced by that company ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.96,
+      507.81,
+      423.49,
+      531.6
+    ],
+    "text": "(c) the products of which are exported by the company or through any other company engaged in the export of goods or commodities :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      102.0,
+      546.45,
+      423.52,
+      608.4
+    ],
+    "text": "Provided that this section shall not apply to any company which carries on an undertaking which had commenced to carry on business prior to November 17, 1983, or which was formed by the sphtting up or reconstruction of any business which was in existence prior to November 17, 1983",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.77241039276123,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63.12,
+      623.49,
+      423.21,
+      647.04
+    ],
+    "text": "8. The following new section is hereby inserted immediately after section 20, and shall have effect as section 20A, of the principal enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.370111465454102,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      217.92,
+      54.69,
+      258.89,
+      65.76
+    ],
+    "text": "( vm )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59.04,
+      76.24,
+      433.97,
+      149.76
+    ],
+    "text": "iTC^rnTtaTfoi^'the 2^A\" ^ S u c l 1 part \u00b0^ t l l e pronts and m c o m e > within the meaning export pronts and of paragraph (a) of section 3, (other than any profits and income imdertakingt^rom ^r o m S a*e \u00b0^ ^ P ^ a s s e t s ) > \u00b0f undertaking as consists of April l, 1984 to the export profits and income of that undertaking shall be exempt March 31,1989. f r o m income tax for the period commencing on April 1, 1984 and ending on March 31, 1989.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      4.250129699707031,
+      9.949873924255371,
+      10.0,
+      12.143228530883789,
+      16.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      117.12,
+      161.25,
+      204.23,
+      172.32
+    ],
+    "text": "(2) In this section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      117.12,
+      180.93,
+      418.6,
+      204.0
+    ],
+    "text": "\" export profits and income \" and \" total turnover \" have the respective meanings assigned to them in subsection (2) of section 20 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      117.12,
+      213.33,
+      418.67,
+      236.4
+    ],
+    "text": "\" export turnover \" when used in relation to an undertaking means the total amount received or receivable by that undertaking from:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.84,
+      245.49,
+      331.7,
+      256.56
+    ],
+    "text": "(i) the export of goods or commodities, or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      139.2,
+      265.65,
+      417.69,
+      324.72
+    ],
+    "text": "(ii) the performance of services for payment in foreign currency, such services being ship repair, ship breaking, repair and refurbishment of marine cargo containers, provision of computer soft ware, computer programmes, computer systems or recording computer data but does not include\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      156.0,
+      334.05,
+      417.63,
+      357.6
+    ],
+    "text": "(a) any amount received or receivable by the sale of capital assets ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      155.76,
+      366.21,
+      417.82,
+      377.28
+    ],
+    "text": "(b) any amount received or receivable from the sale of gems ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      156.0,
+      386.37,
+      417.93,
+      433.44
+    ],
+    "text": "(c) any amount received or receivable from the export of black tea in bulk, crepe rubber, sheet rubber, scrap rubber, coconut oil, dessicated coconut, copra, fresh coconuts, or coconut fibre;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      155.76,
+      443.73,
+      418.2,
+      502.8
+    ],
+    "text": "(d) in the case of an undertaking for the export of garments in respect of which a quota for export has been allocated by the Secretary to the Ministry of the Minister in charge of Textile Industries, any amount received or receivable from the export of garments not exceeding that quota ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      155.76,
+      516.21,
+      417.96,
+      539.28
+    ],
+    "text": "(e) any profits and income not being profits and income within the meaning of paragraph (a) of section 3.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.92,
+      552.45,
+      418.21,
+      587.52
+    ],
+    "text": "(3) This section shall not apply to an undertaking for a year of assess\u00adment if the export profits and income of that undertaking are exempt from income tax under section 20 (1) for that year of assessment.'.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.48,
+      600.69,
+      418.06,
+      611.76
+    ],
+    "text": "9. Section 22DD of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.0773344039917,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      624.93,
+      419.16,
+      648.0
+    ],
+    "text": "(1) by the repeal of paragraph (i) of subsection (1) of that section and the substitution of the following paragraph therefbr",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      225.12,
+      57.19,
+      265.39,
+      65.15
+    ],
+    "text": "( IX )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      101.28,
+      78.45,
+      426.53,
+      113.52
+    ],
+    "text": "\" (i) incorporated on or after April 1, 1983, but prior to April 1, 1984 with not less than ninety-five per centum of its capital contributed, in the form of money or otherwise, by\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      123.36,
+      123.09,
+      200.69,
+      134.16
+    ],
+    "text": "(a) the State; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      123.12,
+      144.69,
+      377.09,
+      155.76
+    ],
+    "text": "(b) any public corporation or body corporate ; and \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.2,
+      164.85,
+      426.36,
+      187.92
+    ],
+    "text": "(2) by the repeal of subsection (2) of that section, and the substitution, of the following subsection therefor :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      110.64,
+      198.93,
+      426.9,
+      246.0
+    ],
+    "text": "\"(2) The exemption referred to in subsection (1) shall cease when the profits and income of a company which are exempt from income tax under that subsection amount to a sum equal to twice the issued capital of that company as at March 31, 1984. \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.68,
+      255.33,
+      416.87,
+      266.4
+    ],
+    "text": "10. Section 24 of the principal enactment is hereby amended as follofws :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.818349838256836,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.44,
+      275.49,
+      426.37,
+      298.56
+    ],
+    "text": "(1) in subsection (1) of that section, by the insertion, immediately after paragraph (n) , of the following paragraphs :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      102.24,
+      308.61,
+      427.14,
+      379.68
+    ],
+    "text": "\" (o) one-half of the excess of any expenditure incurred by such person for any year of assessment commencing on or after April 1, 1984, in provi\u00adding any place of residence to an employee of such person or to the spouse, child or parent of such employee over the rental value of such place of residence which is included in the profits from employment of such employee within the meaning of section 4 ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.68,
+      390.69,
+      428.28,
+      449.76
+    ],
+    "text": "(p) such part of the rental paid by him under any agreement entered into by him on or after January 1, 1984, in any year in respect of any vehicle, plant, machinery, fixtures or equipment which is in excess of an amount equal to one-fourth of the total rental payable under such agreement. \" ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      86.16,
+      459.09,
+      428.28,
+      470.16
+    ],
+    "text": "(2) by the repeal of subsection (2) of that section and the substitution, of the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      125.52,
+      471.09,
+      292.54,
+      482.16
+    ],
+    "text": "following new subsection therefor :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.68,
+      495.33,
+      428.82,
+      541.68
+    ],
+    "text": "\"(2) No person carrying on any trade or business or exercising any profes\u00adsion or vocation shall be entitled to any sum for depreciation by wear and tear, or for renewal, or to any allowance under section 23 (1) (a) or 23 (1) 0) or 23 (1) (/) -",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.68,
+      555.09,
+      429.0,
+      578.4
+    ],
+    "text": "(a) for any year of assessment, in respect of any vehicle used for travelling for the purpose of his trade, business, profession or vocation, except in respect of\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      106.8,
+      591.57,
+      429.17,
+      614.64
+    ],
+    "text": "(i) a motor cycle or bicycle used for such purpose by an officer, who is not an executive officer, in the employment of such person ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      103.68,
+      624.45,
+      429.21,
+      647.28
+    ],
+    "text": "(ii) a motor coach used for transporting employees of such person to, or from, their place of work ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      222.24,
+      56.13,
+      262.49,
+      67.2
+    ],
+    "text": "( x )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.8,
+      79.17,
+      422.76,
+      128.4
+    ],
+    "text": "(b) for any year of assessment commencing on or after April 1, 1984,in respect of any plant, machinery, fixtures, equipment, or articles provided for the use of any officer or employee of such person in the place of residence of such officer or employee,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.56,
+      142.05,
+      422.54,
+      178.08
+    ],
+    "text": "or for any deduction for any rental or annual payment in respect of any such vehicle, plant, mechinery, fixtures, equipment, or articles as are referred to in paragraphs (a) and (b). \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.8,
+      191.25,
+      422.14,
+      202.32
+    ],
+    "text": "11. Section 29 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.612491607666016,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.32,
+      215.73,
+      422.1,
+      252.24
+    ],
+    "text": "(1) in paragraph (a) of subsection (3) of that section.by the substitution for the words and figures \"section 16A or section 22A\", of the words and figures \"section 16A or section 17A or section 22A,\" ; and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.394572257995605,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.56,
+      265.41,
+      421.56,
+      301.92
+    ],
+    "text": "(2) in subsection (4A) of that section, by the substitution for the word and figures \"section 20\", wherever such word and figures occur in that subsection of the words and figures \" section 20 or section 20A\".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.394572257995605,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.56,
+      315.09,
+      411.82,
+      326.16
+    ],
+    "text": "12. Section 30 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.751923561096191,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.32,
+      339.33,
+      242.15,
+      350.4
+    ],
+    "text": "(1) in subsection (1) of that section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      97.92,
+      363.33,
+      421.22,
+      387.12
+    ],
+    "text": "(a) by the repeal of paragraph (a) of that subsection and the substitution of the following paragraph therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.72,
+      400.29,
+      422.41,
+      449.52
+    ],
+    "text": "\" (a) an allowance of twelve thousand rupees in respect of the year of assessment commencing on April 1, 1979, and for each of the four years of assessment immediately succeeding that year of assessment ;\" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      98.16,
+      462.69,
+      420.99,
+      486.96
+    ],
+    "text": "(b) by the insertion, immediately after paragraph (a) of that subsection, of the following paragraph\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.48,
+      499.65,
+      422.65,
+      522.96
+    ],
+    "text": "\" (ad) an allowance of eighteen thousand rupees in respect of any year of assessment commencing on or after April 1, 1984, and \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      82.08,
+      536.37,
+      247.19,
+      547.44
+    ],
+    "text": "(2) in subsection (2) of that section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      97.68,
+      560.13,
+      421.08,
+      584.16
+    ],
+    "text": "(a) by the repeal of paragraph (b) of the proviso to that subsection, and the substitution of the following paragraph therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      114.24,
+      598.53,
+      422.41,
+      647.76
+    ],
+    "text": "\" (b) an allowance of twelve thousand rupees in respect of the year of assessment commencing on April 1, 1979, and for each of the four years of assessment immediately succeeding that year of assessment ; \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      219.12,
+      54.55,
+      260.59,
+      62.51
+    ],
+    "text": "( XI )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.04,
+      77.73,
+      421.12,
+      102.96
+    ],
+    "text": "(b) by the insertion, immediately after paragraph (b) of the proviso to that subsection, of the following paragraph\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      111.6,
+      117.81,
+      421.63,
+      142.56
+    ],
+    "text": "\" (c) an allowance of eighteen thousand rupees in respect of any year of assessment commencing on or after April 1, 1984. \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79.2,
+      157.41,
+      401.75,
+      168.48
+    ],
+    "text": "13. Section 31 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.576011657714844,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      78.96,
+      181.41,
+      245.75,
+      192.48
+    ],
+    "text": "(1) in subsection (2) of that section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      94.8,
+      207.57,
+      421.39,
+      245.52
+    ],
+    "text": "(c) in paragraph (h) of that subsection, by the substitution, for the words \" any premia paid \", of the words \" any premia paid for any year of assessment commencing on or before April 1, 1983 \" ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      94.56,
+      260.37,
+      420.51,
+      284.4
+    ],
+    "text": "(b) by the insertion, immediately after paragraph (hh) of that subsection, of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.64,
+      299.01,
+      421.68,
+      336.0
+    ],
+    "text": "\" (hhh) any premia paid for any year of assessment commencing on or after April 1, 1984, being premia which has accrued due for payment\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      149.28,
+      350.85,
+      421.08,
+      389.28
+    ],
+    "text": "(i) on a life insurance policy (not being a pure endowment policy), the annual premia in respect of which are payable over a period of at least five years;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      147.12,
+      403.89,
+      420.53,
+      427.92
+    ],
+    "text": "(ii) for the purchase of an annuity, the annual premia in respect of which are payable over a period of at least five years ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.72,
+      441.09,
+      308.49,
+      452.16
+    ],
+    "text": "(iii) on a pohcy of medical insurance,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.4,
+      466.77,
+      288.47,
+      477.84
+    ],
+    "text": "not being premia paid outside Sri Lanka\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.88,
+      492.45,
+      420.74,
+      503.52
+    ],
+    "text": "(a) in respect of any pohcy issued outside Sri Lanka after July 4,1957, or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.88,
+      518.37,
+      420.94,
+      542.4
+    ],
+    "text": "(Z\u00bb) for the purchase of an annuity outside Sri Lanka after July 4,1957 ;\" ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      95.28,
+      557.01,
+      420.51,
+      581.04
+    ],
+    "text": "(c) by the insertion, immediately after paragraph (n) of that subsection, of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      110.88,
+      594.93,
+      420.73,
+      644.16
+    ],
+    "text": "\" (o) for any year of assessment commencing on or after April 1, 1983, any amount spent by an individual in connection with the education outside Sri Lanka of an unmarried child under twenty five years of age, such education being\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.894998550415039,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      221.04,
+      53.97,
+      261.53,
+      65.04
+    ],
+    "text": "( xn )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.52,
+      77.25,
+      421.56,
+      126.48
+    ],
+    "text": "(a) under-graduate education or course of training for which adequate facilities are in the opinion of the Secretary to the Ministry of the Minister in charge of the subject of Higher Education, not available in Sri Lanka; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.76,
+      139.89,
+      421.46,
+      163.92
+    ],
+    "text": "(b) post-graduate education in a university or other institution of post-graduate education. \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      82.32,
+      177.09,
+      419.91,
+      200.64
+    ],
+    "text": "(2) in subsection (7) of that section, by the substitution for the words \" in para\u00adgraph (d) \" , of the words \"in paragraphs (d) and (/\u00ab) \" ; and",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      82.32,
+      214.05,
+      422.52,
+      238.08
+    ],
+    "text": "(3) the amendment made by subsection (2) of this section shall be deemed to have come into force on June 24, 1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.28,
+      251.01,
+      403.66,
+      262.08
+    ],
+    "text": "14. Section 32 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.823441505432129,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.04,
+      275.25,
+      315.35,
+      286.32
+    ],
+    "text": "(1) in paragraph (a) of subsection (1) of that section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      98.88,
+      299.49,
+      423.41,
+      360.48
+    ],
+    "text": "(a) by the substitution, in sub-paragraph (ii) of that paragraph, for the expression \" in respect of any year of assessment commencing on or after April 1, 1980 \", of the expression \" in respect of the year of assessment commencing on April 1, 1980, and in respect of the next three years of assessment immediately succeeding that year of assessment \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      99.84,
+      374.37,
+      423.21,
+      398.16
+    ],
+    "text": "(b) by the insertion immediately after sub-paragraph (ii) of that paragraph, of the following sub-paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      116.16,
+      411.33,
+      424.52,
+      447.84
+    ],
+    "text": "\" (iii) in respect of any year of assessment commencing on or after April 1, 1984, at the appropriate rates specified in Part IIA of the First Schedule to this Act;\" ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.96,
+      461.01,
+      424.57,
+      484.8
+    ],
+    "text": "(2) by the repeal of the proviso to subsection (1) and the substitution therefor of the following new proviso :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      100.8,
+      497.73,
+      424.68,
+      534.24
+    ],
+    "text": "\"Provided that the income tax payable by an individual who is deemed to be non-resident under subsection (7) of section 67 shall not be more than the amount by which his assessable income exceeds\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      106.56,
+      547.41,
+      425.54,
+      584.4
+    ],
+    "text": "(i) twelve thousand rupees in respect of the year of assessment commencing on April 1, 1980 and for the next three years of assessment immediately succeeding that year of assessment; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      105.12,
+      598.53,
+      426.12,
+      622.32
+    ],
+    "text": "(ii) eighteen thousand rupees for any year of assessment commencing on or after April 1,1984.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.16848087310791
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      87.12,
+      635.49,
+      398.59,
+      646.56
+    ],
+    "text": "15. Section 33 of the principal enactment is hereby amended as follows :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.66436767578125,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      216.0,
+      52.62,
+      256.38,
+      60.6
+    ],
+    "text": "( XIII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.342587471008301
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.6,
+      74.13,
+      418.22,
+      133.2
+    ],
+    "text": "(1) in the proviso to paragraph (b) of subsection (1) of that section, by the subs\u00adtitution, for the expression \" for any year of assessment commencing on or after April 1, 1980.\", of the expression \" for the year of assessment com\u00admencing on April 1, 1980 and for each of the three years of assessment immediately succeeding that year of assessment\"; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.6,
+      147.57,
+      418.58,
+      184.08
+    ],
+    "text": "(2) in paragraph (c) of subsection (2) of that section by the substitution for the words \" company other than a quoted public company \", of the word \" company \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.4,
+      197.97,
+      417.46,
+      234.48
+    ],
+    "text": "16. Section 35 of the principal enactment is hereby amended by the repeal of paragraph (d) of that section, and the substitution of the following paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.848857879638672,
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76.08,
+      248.13,
+      419.12,
+      271.92
+    ],
+    "text": "\" (d) that dividend is a dividend declared by a quoted public company on or after April 1, 1980 but before April 1, 1984 \".",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.16,
+      287.25,
+      417.63,
+      323.28
+    ],
+    "text": "17. Section 37 of the principal enactment is hereby amended by the repeal of paragraph (d) of that section, and the substitution of the following paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.884331703186035,
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      79.68,
+      336.93,
+      418.35,
+      386.16
+    ],
+    "text": "\" {d) if the relevant dividend is paid out of the amount of a dividend received by such resident company from a quoted public company on or after April 1, 1980 and prior to March 31, 1984, income tax equivalent to five per centum of the amount of such relevant dividend. \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76.32,
+      399.81,
+      396.25,
+      410.91
+    ],
+    "text": "18. Section 38 of the principal enactment is hereby amended as follows :\u2014:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.5693135261535645,
+      9.823441505432129,
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76.32,
+      424.05,
+      243.34,
+      435.12
+    ],
+    "text": "(1) in subsection (1) of that section\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.4,
+      448.29,
+      416.96,
+      484.32
+    ],
+    "text": "(a) by the substitution, for the words, \" Every resident company, other than a quoted public company,\", of the words \" Every resident company\"; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      92.4,
+      497.49,
+      416.5,
+      521.28
+    ],
+    "text": "(b) by the substitution, for the words \" payable after April 1, 1980.\", of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.96,
+      534.45,
+      235.47,
+      545.52
+    ],
+    "text": "\" payable after April 1,1980 :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      108.48,
+      558.69,
+      416.3,
+      595.2
+    ],
+    "text": "Provided that nothing in the preceding provisions of this subsection shall apply to any dividend declared, by a quoted public company on or after April 1,1980 but prior to April 1, 1984.\"-; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76.56,
+      608.37,
+      415.94,
+      644.4
+    ],
+    "text": "(2) in paragraph (c) of the proviso to subsection (3) of that section, by the substitution for the words \"any dividend received \", of the words \"any dividend received on or after April 1, 1980 but prior to April 1, 1984.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.198039054870605
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      224.4,
+      53.58,
+      264.91,
+      61.56
+    ],
+    "text": "( XIV )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035,
+      7.164904594421387
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.0,
+      75.33,
+      424.59,
+      98.64
+    ],
+    "text": "19. Section 41 of the principal enactment is hereby repealed and the following section substituted therefor:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.433980941772461,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.52,
+      104.64,
+      421.57,
+      120.24
+    ],
+    "text": "weatthtax3 ^ ' ^U D ie c t to tne other provisions of this Chapter there shall be charged\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.301893472671509,
+      3.4824562072753906,
+      9.433980941772461,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84.72,
+      129.81,
+      425.09,
+      176.88
+    ],
+    "text": "(a) for the year of assessment commencing on April 1, 1979, and for each of the four years of assessment immediately succeeding that year of assessment, in respect of the taxable wealth of every person on the first day of that year of assessment; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      85.68,
+      186.21,
+      424.68,
+      233.28
+    ],
+    "text": "(b) for every year of asessment commencing on or after April 1, 1984, in respect of the taxable wealth of every person on the last day of that year of assessment, a tax (hereinafter referred to as the \" wealth tax \") at the appropriate rates specified in the Fourth Schedule to this Act. ' .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.04,
+      243.57,
+      424.59,
+      279.12
+    ],
+    "text": "20. Section 45 of the principal enactment, is hereby amended by the repeal of paragraph (v) of that section and the substitution, of the following paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.433980941772461,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84.72,
+      288.21,
+      425.02,
+      347.28
+    ],
+    "text": "\" (v) such year of assessment being an year of assessment in which the interest accruing to such person from monies deposited in any such account as is referred to in paragraph (e) of section 10 is exempt from income tax under that paragraph, the monies lying to his cerdit in such account consisting of the. monies deposited in such account and the interest accrued thereon.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.433980941772461,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      64.32,
+      360.93,
+      424.34,
+      396.0
+    ],
+    "text": "21. Section 54 of the principal enactment is hereby amended by the repeal of paragraph ( / ) of subsection (1) of that section and the substitution, of the following paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.370165824890137,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84.0,
+      406.77,
+      423.85,
+      430.08
+    ],
+    "text": "\" ( / ) if the value of such gift, or if more than one gift is made during the year of assessment, the aggregate value of such gifts, does not exceed\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      110.88,
+      439.17,
+      423.85,
+      474.24
+    ],
+    "text": "(i) two thousand rupees, in the case of a gift or gifts made in the year of assessment commencing on April 1, 1979 or any One of the next four succeeding years of assessment; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.0,
+      483.33,
+      423.62,
+      506.4
+    ],
+    "text": "(ii) five thousand rupees, in the case of a gift or gifts made in any year of assessment commencing on or after April 1, 1984-\". .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      63.6,
+      519.33,
+      424.1,
+      554.4
+    ],
+    "text": "22. Section 73 of the principal enactment is hereby amended by the repeal of subsection (1A) of that section and the substitution therefor of the following subsection:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.433980941772461,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      83.04,
+      564.21,
+      424.06,
+      599.76
+    ],
+    "text": "\" (1A) Where the assessable income of an individual deemed to be non-resident under subsection (7) of section 67, consists solely of income from services rendered in Sri Lanka and does not exceed-^",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.28,
+      610.29,
+      421.11,
+      645.84
+    ],
+    "text": "(i) twelve thousand rupees in respect of the year of assessment commen\u00adcing on April 1, 1980, and for the three years of assessment immediat\u00adely succeeding that year of assessment; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      213.6,
+      55.2,
+      253.82,
+      62.95
+    ],
+    "text": "( x v )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.962922096252441
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      107.28,
+      76.29,
+      415.08,
+      99.36
+    ],
+    "text": "(ii) eighteen thousand rupees for any year of assessment commencing on or after April 1, 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      104.64,
+      112.53,
+      255.9,
+      123.6
+    ],
+    "text": "such income shall not be taxable. \" .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      54.24,
+      136.77,
+      415.44,
+      159.84
+    ],
+    "text": "23. Section 92 of the principal enactment is hereby amended in subsection (5) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.576011657714844,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.96,
+      173.01,
+      412.71,
+      196.32
+    ],
+    "text": "(1) by the substitution, in paragraph (b) of the subsection for the words \" speci\u00adfied in such notice.\", of the words \" specified in such notice ; \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.52,
+      206.13,
+      399.02,
+      217.2
+    ],
+    "text": "... (2) by the addition, at the end of that subsection, of the following paragraph",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.8,
+      228.21,
+      414.61,
+      263.28
+    ],
+    "text": "'(c) to furnish within the period specified in such notice, such information as may, be called for in that notice in relation to any transactions between such person and any other person or class of persons.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      88.56,
+      276.69,
+      414.36,
+      323.76
+    ],
+    "text": "Where a notice has been given to any person under this subsection requiring him to furnish any information, such person shall comply with the requirements of such notice notwithstanding anything to the contrary in any other law prohibiting the furnishing of such information.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87.84,
+      337.65,
+      413.4,
+      360.72
+    ],
+    "text": "For the avoidance of doubts, it is hereby declared that references in this subsection to \" any person \" include a reference to a banker.'.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      53.28,
+      374.13,
+      413.85,
+      397.2
+    ],
+    "text": "24. The following new section is hereby inserted immediately after section 92, and shall have effect as section 92A, of the principal enactment:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.823441505432129,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      53.28,
+      412.29,
+      413.7,
+      505.68
+    ],
+    "text": "furnished b t 0 ^ An assessor may give notice in writing to a partner of a partners &c. partnership, or to any other person, who carries on or exercises any trade, business, profession or vocation, requiring such person to furnish for any year of assessment a statement of accounts and any schedules containing such particulars as may be specified in the notice, of such trade, business, profession or vocation, for that year of assessment or for any period in respect of which the statutory income for that year of assessment is computed.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      9.486832618713379,
+      9.868181228637695,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      91.44,
+      519.57,
+      413.32,
+      530.64
+    ],
+    "text": "(2) Where a statement of accounts in support of a return of income furnished",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.48,
+      535.89,
+      413.61,
+      546.96
+    ],
+    "text": "by any person for the purposes of this Act is prepared by an approved accountant,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      72.0,
+      552.21,
+      256.71,
+      563.28
+    ],
+    "text": "such statement shall be accompanied b y -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.96,
+      568.53,
+      413.3,
+      579.6
+    ],
+    "text": "fa) a certificate of an approved accountant in such form and containing",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      106.8,
+      580.77,
+      408.05,
+      591.84
+    ],
+    "text": "such particulars as may be specified by the Commissioner-General; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      82.56,
+      601.89,
+      412.59,
+      624.96
+    ],
+    "text": "(b) schedules containing such particulars relating. to the statement of . accounts as may be specified by the Commissioner-General.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      90.48,
+      634.77,
+      401.99,
+      645.84
+    ],
+    "text": "(3) For the purpose of this section \" approved accountant-\" means\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      222.96,
+      52.14,
+      262.51,
+      60.12
+    ],
+    "text": "( XVI )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035,
+      7.164904594421387
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      101.52,
+      73.41,
+      423.06,
+      96.96
+    ],
+    "text": "(a) an accountant who is a member of the Institute of Chartered Accountants of Sri Lanka;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.380831718444824,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      102.24,
+      109.89,
+      423.48,
+      133.2
+    ],
+    "text": "(b) an accountant who is approved by the Commissioner-General for the purposes of the definition of \" authorized representative \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      103.2,
+      146.13,
+      423.87,
+      181.2
+    ],
+    "text": "(c) any individual who is registered as an auditor under the Companies (Auditors) Regulations and approved by the Commissioner-General for the purposes of the definition of \" authorized representative \".'.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64.56,
+      194.37,
+      424.59,
+      229.44
+    ],
+    "text": "25. Section 96 of the principal enactment is hereby amended in paragraph (a) of subsection (1) of that section, by the substitution, for the words \" one thousand rupees ; \", of the words \" five thousand rupees ; \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.380831718444824,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65.04,
+      242.61,
+      424.83,
+      266.16
+    ],
+    "text": "26. Section 128 of the principal enactment is hereby repealed and the following section substituted therefor :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.380831718444824,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      65.04,
+      280.29,
+      425.13,
+      325.92
+    ],
+    "text": "defaulters0 \" ^ Before taking proceedings to recover any tax in default in any manner hereinafter provided, the Commissioner - General shall, subject to the provisions of subsection (2), issue notice in writing to the defaulter stating\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.305619716644287,
+      9.44462776184082,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104.64,
+      340.05,
+      260.68,
+      351.12
+    ],
+    "text": "(a) the particulars of such tax, and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      104.64,
+      364.05,
+      358.62,
+      375.12
+    ],
+    "text": "(b) that action is being contemplated to recover such tax.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      85.44,
+      389.97,
+      426.57,
+      497.04
+    ],
+    "text": "(2) Where the Commissioner-General is satisfied that compliance with the procedure set out in subsection (1) for the recovery of any tax in default is inexpedient and that immediate action is necessary for the recovery of such tax, he may take proceedings to recover such tax without issuing a notice to the defaulter as required by that subsection. Where the Commissioner-General takes proceedings, under this subsection, to recover any tax in default, he shall, within fourteen days of the date on which he takes such proceedings, issue a notice to the defaulter stating the particulars of the tax in respect of which such proceecings have been taken, and the nature of such proceedings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      85.68,
+      511.41,
+      427.32,
+      582.48
+    ],
+    "text": "(3) If such defaulter has not appealed within the proper time against the assessment or assessments in respect of which such tax is charged, he may, within thirty days of the notice issued under subsection (1) or (2), make any objection to the tax so charged, and the Commissioner-General shall, notwithstanding the provisions of section 123, consider such objection and give his decision thereon which shall be final.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      86.16,
+      596.85,
+      427.62,
+      643.92
+    ],
+    "text": "(4) Where the tax recovered as a result of any proceedings taken under subsection (2) is in excess of the amount of tax determined, under subsection (3), to be payable by the defaulter in respect of any year of assessment, such excess shall, notwithstanding anything in section 149, be refunded to the defaulter :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      219.12,
+      54.54,
+      258.91,
+      62.52
+    ],
+    "text": "( XVII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      78.0,
+      76.53,
+      420.2,
+      99.84
+    ],
+    "text": "Provided that no refund under this subsection shall exceed the tax recovered as a result of proceedings taken under subsection (2).\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.822627067565918,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      77.76,
+      108.69,
+      410.63,
+      119.76
+    ],
+    "text": "27. Section 151 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.77241039276123,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      77.28,
+      128.85,
+      419.88,
+      164.4
+    ],
+    "text": "(a) by the substitution, for the words \"two thousand rupees \" wherever those words occur in that section, of the words \" seven thousand five hundred rupees \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      76.8,
+      173.49,
+      419.64,
+      196.56
+    ],
+    "text": "(b) by the substitution, for the words \" five thousand rupees \", wherever those words occur in that section, of the words \" ten thousand rupees \". \" -",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.9442720413208,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.12,
+      207.81,
+      419.4,
+      254.88
+    ],
+    "text": "28. Section 157 of the principal enactment is hereby amended by the substitution, for the words \" Deputy Commissioners of Inland Revenue \" of the words \" Deputy Commissioners of Inland Revenue, Senior Assessors of Inland Revenue\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.710819244384766,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.64,
+      263.97,
+      418.68,
+      299.04
+    ],
+    "text": "29. Section 163 of the principal enactment is hereby amended in the definition of \"Assessor\" by the substitution for, the words \" appointed under this Act; \", of the words \"appointed under this Act, and includes a Senior Assessor of Inland Revenue \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.782637596130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.64,
+      308.37,
+      418.26,
+      331.68
+    ],
+    "text": "30. The First Schedule to the principal enactment is hereby amended as follows:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.818349838256836,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      80.88,
+      344.61,
+      417.58,
+      403.68
+    ],
+    "text": "(i) Part II thereof by the substitution, for the expression \" for any year of assessment commencing on or after April 1, 1980\", of the expression \"for the year of assessment commencing on April 1, 1980, and for the next three years of assessment immediately succeeding that year of assessment \" . ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      77.76,
+      417.09,
+      412.55,
+      428.16
+    ],
+    "text": "(ii) by the insertion, immediately after Part II thereof, of the following part: \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.178505897521973
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      210.48,
+      443.58,
+      259.27,
+      451.56
+    ],
+    "text": "\" PART IIA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.68,
+      461.25,
+      416.9,
+      484.32
+    ],
+    "text": "The rate of income tax for any year of assessment commencing on or after April 1,1984, shall be as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.16848087310791
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      74.16,
+      493.41,
+      324.62,
+      641.28
+    ],
+    "text": "On the first Rs. 6,000 of the taxable income 7J per centum On the .next Rs. 6,000 of the taxable income 10 per centum On the next Rs. 6,000 of the taxable income 15 per centum On the next Rs. 6,000 of the taxable income 20 per centum On the next Rs. 6;000 of the taxable income 25 per centum On the next Rs. 6,000 of the taxable income 30 per centum On the next Rs. 6,000 of the taxable income 35 per centum On the next Rs. 6,000 of the taxable income 40 per centum On the next Rs. 9,000 of the taxable income 45 per centum On the next Rs. 9,000 of the taxable income 50 per centum On the balance of the taxable income 55 per centum.\",",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      226.8,
+      52.38,
+      265.87,
+      60.36
+    ],
+    "text": "( XVIII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64.32,
+      74.13,
+      424.13,
+      121.2
+    ],
+    "text": "31. (1) The amendment made to section 10 of the principal enactment by section 4 of this Act, and the amendment made to section 45 of the principal enactment by section 20 of this Act, shall be deemed for all purposes to have come into force on the date of commencement of the principal enactment.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.370165824890137,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      129.36,
+      146.61,
+      360.18,
+      157.68
+    ],
+    "text": "FINANCE (AMENDMENT) ACT, No. 19 OF 1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      175.68,
+      168.21,
+      315.13,
+      179.28
+    ],
+    "text": "[ Certified on 2nd May, 1984 ]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.52,
+      194.94,
+      290.37,
+      202.92
+    ],
+    "text": "A N ACT TO AMEND THE FINANCE ACT, N O . 11 OF 1963",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      84.96,
+      216.69,
+      415.26,
+      227.76
+    ],
+    "text": "1. This-Act may be cited as the Finance (Amendment) Act, No. 19 of 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.76,
+      233.25,
+      424.98,
+      268.32
+    ],
+    "text": "2. Section 71 of the Finance Act, No. 11 of 1963 (hereinafter referred to as the \"principal enactment \"), as amended by Law No. 16 of 1973, is hereby further amended in subsection (2) of that section\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.733858108520508,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      85.68,
+      281.49,
+      425.4,
+      304.8
+    ],
+    "text": "(a) by the insertion, immediately after paragraph (a) of that subsection of the following new paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      102.0,
+      317.73,
+      346.05,
+      328.8
+    ],
+    "text": "\" (ad) unless such application is made within ten years\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      135.84,
+      341.97,
+      425.78,
+      377.04
+    ],
+    "text": "(i) from the date on which such premises were sold in execution of a mortgage decree entered by a court against the original owner of such premises; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      133.68,
+      390.45,
+      426.36,
+      425.52
+    ],
+    "text": "(ii) from the date on which such premises were transferred by the original owner of such premises in any of the circumstances referred to in paragraph (b) or paragraph (c) of subsection (1); or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      131.52,
+      438.93,
+      425.65,
+      462.0
+    ],
+    "text": "(iii) from the date of the expiry of the specified period referred to in paragraph (d) of subsection (1) ; or \" ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      87.36,
+      476.61,
+      340.13,
+      487.68
+    ],
+    "text": "(b) by the omission of paragraph (b) of that subsection ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      88.08,
+      500.85,
+      426.51,
+      535.44
+    ],
+    "text": "(c) by the substitution in paragraph (c) of that subsection for the words \" sum of ten thousand rupees ; or \", of the words \" a sum of twenty-five thousand rupees ; or \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      68.64,
+      549.57,
+      427.43,
+      584.64
+    ],
+    "text": "3. Section 72 of the principal enactment, as amended by Law No. 16 of 1973, is hereby further amended in subsection (3) thereof, by addition; at the end thereof, of the following :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.521134376525879,
+      9.949873924255371,
+      10.178505897521973
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      88.56,
+      597.81,
+      427.65,
+      644.88
+    ],
+    "text": "\" For the removal of doubts, it is hereby declared that any right conferred on the tenant of any premises by the Rent Act, No. 7 of 1972 and the Protection of Tenants (Special Provisions) Act, No. 28 of 1970, is an encumbrance within the meaning of this subsection.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      221.76,
+      52.62,
+      263.43,
+      60.6
+    ],
+    "text": "\u2022( XIX )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.161919593811035,
+      7.164904594421387
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      62.16,
+      74.13,
+      425.37,
+      97.44
+    ],
+    "text": "i. 4. Section 76 of the principal enactment as amended by Law No. 16 of 1973, is hereby repealed and the following section is substituted therefor:\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      61.68,
+      103.89,
+      424.98,
+      131.76
+    ],
+    "text": "\"Compensation in 7 6 ( 1 ) The amount of compensation to be paid under this respect o f Premises w * .vested in the Bank Part of this Act in respect of any premises vested in the Bank",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1342105865478516,
+      5.531743049621582,
+      8.954887390136719,
+      9.433980941772461,
+      9.486832618713379,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      62.88,
+      129.74,
+      423.86,
+      272.16
+    ],
+    "text": "under this Part of , \u201e , this Act. shall be\u2014 (a) where such premises were acquired by the person who was the owner thereof prior to the publication of the vesting Order in regard to such premises, by purchase, the actual amount for which such premises were purchased by such person together with such interest thereon as may have been determined by the compensation Tribunal and an additional sum which is equal to the reasonable value of any subsequent additions and improvements made to such premises before the publication of the vesting Order in regard to such premises by any person who was interested in premises or the market value of such premises, whichever is less ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      71.52,
+      281.97,
+      426.33,
+      413.76
+    ],
+    "text": "(b) where such premises were acquired by the person who was the owner thereof prior to the date of publication of the vesting Order in regard to such premises, by gift or inheritence, the actual amount for which such premises were purchased by the predecessor in title of such person together with such interest thereon as may have been determined by the compensation Tribunal, and an additional sum which is equal to the reasonable value of any additions and improvements made to such \u2022 \u2022 \u2022 \u2022 premises, by any person who was interested in such premises subsequent to such purchase and before the publication of the vesting Order in regard to such premises or the market value of such premises, whichever is less.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      78.0,
+      423.09,
+      420.18,
+      506.16
+    ],
+    "text": "(2) where any damage had been caused to any premises vested in the Bank under this Part of this Act, during the period commencing on the date of the notice sent under subsection (2A) of section 71 to the owner of such premises and ending on the date of publication of the vesting Order in regard to such premises, the Compensation Tribunal shall have the power to assess the amount of such damage and to set-off against the compensation payable in respect of such premises, the amount so assessed.\".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.36,
+      515.49,
+      419.53,
+      588.26
+    ],
+    "text": "5. The following new section is hereby inserted immediately after section 85 and shall have effect as section 85A of the principal enactment:\u2014 S t e c ' o n n l c - 85A. (1) Where any person-tion with meetings of the Compen\u00adsation Tribunal:",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.433980941772461,
+      9.949873924255371,
+      15.784296035766602
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      95.76,
+      589.65,
+      418.44,
+      624.72
+    ],
+    "text": "(a) does anything that brings the Compensation Tribunal or members of the Compensation Tribunal into disrepute during the progress or after the conclusion of any meeting of the Compensation Tribunal;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      94.56,
+      632.13,
+      398.17,
+      643.2
+    ],
+    "text": "{b) interferes with the lawful process of the Compensation Tribunal; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      222.24,
+      51.57,
+      263.19,
+      62.64
+    ],
+    "text": "( xx )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      102.96,
+      75.33,
+      422.91,
+      98.4
+    ],
+    "text": "(c) in the course of any meeting held by the Compensation Tribunal under this Act \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      123.36,
+      111.57,
+      423.01,
+      146.64
+    ],
+    "text": "(i) fails without cause, which in the opinion of the Compensation Tribunal is reasonable, to appear before such Tribunal at the time and place mentioned in any summons issued by such Tribunal; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      121.2,
+      160.05,
+      423.06,
+      195.6
+    ],
+    "text": "(ii) refuses to be sworn or having been duly sworn refuses or fails without cause which in the opinion of the Compensation Tribunal is reasonable, to answer any question put to him ; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      118.8,
+      210.45,
+      423.63,
+      281.52
+    ],
+    "text": "(iii) refuses or fails without cause, which in the opinion of the Compen\u00adsation Tribunal is reasonable, to produce and shaw to such Tribunal any document or other thing which is in his possession or power and which is in the opinion of such Tribunal necessary for deter\u00admining the amount of any compensation payable in respect of any premises vested in the Bank under this Part of this Act,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      119.04,
+      296.85,
+      423.49,
+      320.16
+    ],
+    "text": "such person shall be guilty of the offence of contempt against, or in disrespect of, the authority of the Compensation Tribunal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      84.24,
+      333.09,
+      424.35,
+      392.16
+    ],
+    "text": "(2) Where the Compensation Tribunal determines that a person has com\u00admitted any offence of contempt referred to in subsection (1) against or in dis\u00adrespect of its authority, it may cause its secretary to transmit to the Court of Appeal a certificate setting out such determination ; every such certificate shall be signed by the Chairman of the Compensation Tribunal.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      84.0,
+      406.05,
+      424.7,
+      453.12
+    ],
+    "text": "(3) In any proceedings for the punishment of an offence of contempt which the Court of Appeal may think fit to take cognizance of as provided in subsection (5) hereunder, any document purporting to be a certificate signed and transmitted to that court under subsection (2) shall\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      104.64,
+      466.53,
+      425.3,
+      489.6
+    ],
+    "text": "(a) be received in evidence and deemed to be such a certificate without further proof unless the contrary is proved ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      104.4,
+      502.53,
+      425.88,
+      537.6
+    ],
+    "text": "(b) be evidence of the facts stated in the determination set-out therein and be Conclusive evidence that such determination was made by the Compen\u00adsation Tribunal.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      85.68,
+      550.77,
+      426.33,
+      597.84
+    ],
+    "text": "(4) In any proceedings taken as provided in subsection (5) hereunder for the punishment of any alleged offence of contempt against or in disrespect of, the authority of the Compensation Tribunal no member of such tribunal shall, except with his own consent, be summoned or examined as a witness.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      85.92,
+      610.77,
+      426.36,
+      645.84
+    ],
+    "text": "(5) Every offence of contempt committed against or in disrespect of the authority of the Compensation Tribunal shall be punishable by the Court of Appeal.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      221.52,
+      48.62,
+      262.64,
+      58.58
+    ],
+    "text": "( XXI )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.16,
+      71.49,
+      422.9,
+      95.04
+    ],
+    "text": "6. Section 88 of the principal enactment is hereby repealed and the following section is substituted therefor :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      132.96,
+      107.73,
+      423.14,
+      190.8
+    ],
+    "text": "88. Where a reference for an award as to compensation is made to the Compensation Tribunal, the Tribunal shall, before making an award, give the Bank, the person who made the appli\u00adcation under section 71 for the acquisition of the premises to which the reference relates and every person who has made a claim to compensation, an opportunity of being heard, either in person or by an agent authorized in that behalf.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.710819244384766,
+      9.949873924255371,
+      10.202058792114258
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      81.6,
+      204.93,
+      403.66,
+      216.0
+    ],
+    "text": "7. Section 91 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.913223266601562,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      81.6,
+      229.17,
+      404.92,
+      240.24
+    ],
+    "text": "(1) by the renumbering of that section as subsection (1) of that section ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      82.08,
+      247.41,
+      422.94,
+      270.72
+    ],
+    "text": "(2) by the insertion immediately after the renumbered subsection (1) of that section of the following subsections :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.96,
+      283.65,
+      423.39,
+      378.72
+    ],
+    "text": "\"(2) Where a default is made in the making of any half yearly payments due as rent, default shall be deemed to have been made in respect of the whole of the unpaid half yearly payments and the Chairman of the Bank may authorize any person in writing to sell such premises at any time not less than twenty-one days after the date of such authorization ; to recover the whole of the unpaid half yearly payments, together with interest thereon and the cost of advertising the sale and other incidental expenses connected with the sale of the premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.96,
+      392.61,
+      423.3,
+      487.68
+    ],
+    "text": "(3) Where any premises are sold in pursuance of an authorization under subsection (2), the Chairman of the Bank shall sign and issue a certificate of sale to the purchaser and thereupon the title of the owner of the premises shall vest in the purchaser, and the Chairman shall, after deducting from the sale proceeds all monies advanced by the Bank, interest thereon and other costs recoverable, pay the applicant the surplus, if any, less ten per centum to be credited to a contingencies fund for bad and doubtful debts.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.916752815246582,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      97.92,
+      501.09,
+      423.95,
+      572.16
+    ],
+    "text": "(4) The purchaser of any premises sold in pursuance of an authorization under subsection (2), shall, upon application being made to the District Court having jurisdiction over the place where the premises are situated, and upon production of certificate of sale issued in respect of the premises under subsection (3), be entitled to obtain an order for delivery of possession of the premises.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.48,
+      585.57,
+      423.06,
+      620.64
+    ],
+    "text": "(5) Every application under subsection (4) shall be made and shall be disposed of byway of summary procedure in accordance with the provisions of Chapter XXIV of the Civil Procedure Code (Chapter 101). \".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      80.16,
+      634.05,
+      401.02,
+      645.12
+    ],
+    "text": "8. Section 98 of the principal enactment is hereby amended as follows:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.16,
+      106.46,
+      123.72,
+      171.86
+    ],
+    "text": "\" The Bank, applicant under section 71 and claimants to compensation to be given opportunity of being heard.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      222.24,
+      50.94,
+      263.71,
+      58.92
+    ],
+    "text": "( XXII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      81.36,
+      72.93,
+      422.66,
+      96.24
+    ],
+    "text": "(a) by the substitution, for the definition of \" business premises of the following definition :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      98.4,
+      109.41,
+      422.68,
+      132.48
+    ],
+    "text": "' \" business premises\" means any premises used wholly and mainly for the purpose of business'; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      81.6,
+      145.65,
+      419.43,
+      168.75
+    ],
+    "text": "(b) by the insertion, immediately after the definition of \"person who was interes\u00adted \" r of the following definition :\u2014 .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      98.4,
+      181.89,
+      353.49,
+      192.96
+    ],
+    "text": "' \" premises \" means any land with or without buildings.'.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      63.12,
+      218.13,
+      422.25,
+      256.32
+    ],
+    "text": "STATE MORTGAGE AND INVESTMENT BANK (AMENDMENT) ACT, No. 29 OF 1984 [ Certified on 27th June, 1984 ]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.864076614379883,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      63.6,
+      271.98,
+      421.53,
+      279.96
+    ],
+    "text": "A N ACT TO AMEND THE STATE MORTGAGE AND INVESTMENT BANK LAW, N O . 13 OF 1975",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      63.12,
+      293.97,
+      420.15,
+      317.04
+    ],
+    "text": "1. This Act may be cited as the State Mortgage and Investment Bank (Amend\u00adment) Act, No. 29 of 1984.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.88412857055664,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      63.36,
+      330.21,
+      422.41,
+      365.28
+    ],
+    "text": "2. Section 7 of the State Mortgage and Investment Bank Law, No. 13 of 1975 (hereinafter referred to as the \"principal enactment\") is hereby amended as follows:\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.733858108520508,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      82.56,
+      378.45,
+      387.4,
+      389.52
+    ],
+    "text": "(a) by the substitution, for the word \"five \", of the word \" nine \"; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      82.08,
+      402.93,
+      422.15,
+      426.0
+    ],
+    "text": "(b) by the substitution for all the words from \" One of the persons so appointed\" to the endof that section, of the following :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      97.68,
+      439.17,
+      421.33,
+      462.48
+    ],
+    "text": "\"Three of the persons so appointed shall be a respresentative each of\u2014.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      116.88,
+      475.41,
+      416.97,
+      486.48
+    ],
+    "text": "(a) the Ministry of the Minister in charge of the subject of Agriculture,",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      116.88,
+      499.41,
+      420.45,
+      510.48
+    ],
+    "text": "(b) the Ministry of the Minister in charge of the subject of. Housing, and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      116.88,
+      523.65,
+      420.98,
+      547.2
+    ],
+    "text": "(c) the Ministry of the Minister in charge of the subject of Livestock Development.\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      61.92,
+      560.37,
+      421.44,
+      584.4
+    ],
+    "text": "3. Section 31 of the principal enactment is hereby amended in subsection (1) of that section as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.556254386901855,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      81.12,
+      597.33,
+      422.01,
+      644.4
+    ],
+    "text": "(a) by the substitution, in sub-paragraphs (i). and (ii) of paragraph (a) of that subsection,, for the words \"any'agricultural or industrial purpose ; \", occurring in each of those sub-paragraphs, of the words \" any housing, . agricultural or-industrial purpose ;\" ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      230.64,
+      52.62,
+      270.91,
+      60.6
+    ],
+    "text": "( XXIII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.68,
+      74.37,
+      428.68,
+      112.32
+    ],
+    "text": "(b) by the substitution, in paragraphs (c) and (d) of that subsection, for the words \" agriculture or industry ; \" occurring in each of those paragraphs, of the words \" housing, agriculture or industry ; \" ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.68,
+      129.33,
+      428.58,
+      167.76
+    ],
+    "text": "(c) by the substitution, in paragraphs (e) and (f) of that subsection, for the words \"agricultural or industrial undertaking \", occurring in each of those para\u00adgraphs, of the words \" housing, agricultural or industrial undertaking \";",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.68,
+      182.61,
+      428.42,
+      207.12
+    ],
+    "text": "(d) by the substitution for paragraph (g) of that subsection, of the following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      101.76,
+      224.13,
+      428.04,
+      275.52
+    ],
+    "text": "\"(g) to buy, sell, investor deal in stocks, shares, debentures, mortgages, bonds or securities issued or guaranteed by the Government, the Central Bank or any other bank or institution as may be approved by the Minister ; \" ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.68,
+      292.05,
+      427.62,
+      330.48
+    ],
+    "text": "(e) by the substitution, in paragraph (o) of that subsection, for the words \"term deposits\", of the words \"term deposits, savings deposits, contract deposits and loan-linked savings deposits \" ;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.44,
+      347.25,
+      427.9,
+      385.2
+    ],
+    "text": "( / ) by the substitution, in paragraph (p) of that section, for the words \" agricul\u00adture or industry ; \" , of the words \" housing, agriculture or industry ; \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.44,
+      401.73,
+      427.32,
+      426.48
+    ],
+    "text": "(g) by the addition, immediately after paragraph (ad) of that subsection, of the . following paragraph :\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      101.52,
+      443.49,
+      428.51,
+      468.0
+    ],
+    "text": "\" (bb) to refinance loans granted by any bank or other institution as may be approved by the Minister. \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      65.76,
+      484.77,
+      427.2,
+      522.72
+    ],
+    "text": "4. Section 37 of the principal enactment is hereby amended in subsection (1) of that section, by the substitution, for the words \" two hundred milhon rupees.\", of the words \" two thousand million rupees. \".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.830158233642578,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.2,
+      537.57,
+      407.26,
+      548.64
+    ],
+    "text": "5. Section 59 of the principal enactment is hereby amended as follows :\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.2,
+      564.93,
+      426.6,
+      602.88
+    ],
+    "text": "(a) in subsection (1) of that section, by the substitution for the words \" the Board shall sign \", of the words \" any two members of the Board shall on behalf of the Board sign \" ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      84.0,
+      619.17,
+      426.6,
+      643.92
+    ],
+    "text": "(b) in subsection (2) of that section, by the substitution for the words \" by the Board under subsection (1) \", of the words \" under subsection (1) \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      217.2,
+      53.1,
+      257.47,
+      61.08
+    ],
+    "text": "( XXIV )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      98.4,
+      74.85,
+      382.26,
+      85.92
+    ],
+    "text": "FOREIGN LOANS (AMENDMENT) ACT, No. 33 OF 1984",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      165.12,
+      96.45,
+      315.61,
+      107.52
+    ],
+    "text": "[ Certified on 23rd August, 1984 ]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      59.76,
+      123.18,
+      313.62,
+      131.16
+    ],
+    "text": "A N ACT TO AMEND THE FOREIGN LOANS ACT, No. 29 OF 1957",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      78.48,
+      144.93,
+      419.34,
+      156.0
+    ],
+    "text": "1. This Act may be cited as the Foreign Loans (Amendment) Act,No. 33 of 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      59.76,
+      161.73,
+      419.51,
+      197.28
+    ],
+    "text": "2. Section 5 of the Foreign Loans Act, No. 29 of 1957, replaced by Act No. 23 of 1980, is hereby amended by the substitution for the definition of \" foreign loan \" of the following definition\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.733858108520508,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      81.84,
+      210.45,
+      419.43,
+      245.52
+    ],
+    "text": "' \" foreign loan \" means a loan or any form or financial credit or accommodation in any currency granted to the Government of Sri Lanka, or to a pubhc corporation, or pubhc enterprise\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      79.2,
+      258.69,
+      390.5,
+      269.76
+    ],
+    "text": "(a) by a foreign Government or the agency of a foreign Government; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      79.68,
+      283.41,
+      264.01,
+      294.48
+    ],
+    "text": "(b) by any international organisation ; or",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      79.68,
+      307.65,
+      419.4,
+      378.72
+    ],
+    "text": "(c) by a person or body of persons outside Sri Lanka, whether corporate or unincorporate, as may be approved by the Government of Sri Lanka generally or in respect of a particular transaction ; or as may be approved by the Minister where the Minister is of the opinion that having regard to the nature of the transaction, the identity of such person or body of persons, cannot be ascertained expeditiously,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      60.0,
+      392.37,
+      124.55,
+      403.44
+    ],
+    "text": "and includes\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      100.56,
+      416.61,
+      419.67,
+      516.72
+    ],
+    "text": "(i) any sum of money which the Government of Sri Lanka or the public corporation or public enterprise, as the case may be, undertakes to pay any such foreign Government, agency, organization, person or body of persons that discharges any liability of the Government of Sri Lanka, or the pubhc corporation or pubhc enterprise, as the case may be, in respect of any transaction between the Government of Sri Lanka, pubhc corporation or public enterprise, as the case may be, and any person outside Sri Lanka ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.845202445983887,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      97.92,
+      530.85,
+      420.4,
+      643.68
+    ],
+    "text": "(ii) any loan or any form of financial credit or accommodation in any currency other than the Sri Lanka rupee granted to the Government of Sri Lanka or to a pubhc corporation or public enterprise by a person or body of persons within Sri Lanka whether corporate or unincorporate, as may be approved by the Government of Sri Lanka generally or in respect of a particular transaction, or as may be approved by the Minister where the Minister is of the opinion that having regard to the nature of the transaction the identity of such person or body of persons cannot be ascertained expeditiously. ' ,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      220.32,
+      50.38,
+      263.26,
+      58.46
+    ],
+    "text": "( XXV )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      147.12,
+      72.69,
+      338.34,
+      83.76
+    ],
+    "text": "APPROPRIATION ACT, No. 46 OF 1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      168.0,
+      87.09,
+      318.88,
+      98.16
+    ],
+    "text": "[Certified on 28th December, 1984]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      62.64,
+      113.26,
+      423.09,
+      121.34
+    ],
+    "text": "A N A C T TO PROVIDE FOR THE SERVICE OF THE FINANCIAL YEAR, 1985, TO AUTHORISE",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.221762657165527,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.08,
+      125.26,
+      423.96,
+      133.34
+    ],
+    "text": "THE RAISING OF LOANS IN OR OUTSIDE SRI LANKA FOR THE PURPOSE OF SUCH SERVICE,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.218035697937012,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.32,
+      137.26,
+      423.81,
+      145.34
+    ],
+    "text": "TO MAKE FINANCIAL PROVISION IN RESPECT OF CERTAIN ACTIVITIES OF THE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.156271934509277,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.8,
+      149.26,
+      424.66,
+      157.34
+    ],
+    "text": "GOVERNMENT DURING THAT FINANCIAL YEAR, TO ENABLE THE PAYMENT, BY WAY OF",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.237941741943359,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.56,
+      161.26,
+      424.68,
+      169.34
+    ],
+    "text": "ADVANCES OUT OF THE CONSOLIDATED FUND OR ANY OTHER FUND OR MONEYS OF,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.219881534576416,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.56,
+      173.26,
+      424.94,
+      181.34
+    ],
+    "text": "OR AT THE DISPOSAL OF, THE GOVERNMENT, OF MONEYS REQUIRED DURING THAT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.162598609924316,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.8,
+      185.26,
+      425.26,
+      193.34
+    ],
+    "text": "FINANCIAL YEAR FOR EXPENDITURE ON SUCH ACTIVITIES, TO PROVIDE FOR THE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.242578983306885,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      82.8,
+      197.26,
+      425.46,
+      205.34
+    ],
+    "text": "REFUND OF SUCH MONEYS TO THE CONSOLIDATED FUND, AND TO MAKE PROVISIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.228585720062256,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      83.28,
+      209.26,
+      403.16,
+      217.34
+    ],
+    "text": "FOR MATTERS CONNECTED WITH, OR INCIDENTAL TO, THE AFORESAID MATTERS.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.187850475311279,
+      7.263408660888672
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      83.76,
+      232.53,
+      375.42,
+      243.6
+    ],
+    "text": "1. This Act may be cited as the Appropriation Act, No. 46 of 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      64.56,
+      256.77,
+      426.5,
+      315.84
+    ],
+    "text": "2. (1) Without prejudice to any other law authorizing any expenditure, the expenditure of the Government, which it is estimated will be rupees forty-five thousand three hundred and forty-three milhon three hundred and thirty-two thousand for the service of the period beginning on January 1, 1985, and ending on December 31, 1985, in this Act referred to as the \" financial year 1985 \", shall be met\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.733858108520508,
+      9.83361530303955,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      84.96,
+      329.25,
+      426.6,
+      364.32
+    ],
+    "text": "(a) from payments which are hereby authorized to be made out of the Consoli\u00addated Fund or any other fund or moneys of, or at the disposal of, the Government; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      85.68,
+      377.73,
+      427.12,
+      424.8
+    ],
+    "text": "(b) from the proceeds of loans which are hereby authorized to be raised, whether in or outside Sri Lanka, for and on behalf of the Government, so however, that the aggregate of such proceeds does not exceed rupees twenty-two thousand five hundred and thirty nine milhon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      66.24,
+      438.21,
+      427.33,
+      473.28
+    ],
+    "text": "The sum of rupees forty-five thousand three hundred and forty-three milhon three hundred and thirty-two thousand herein before referred to may be expended as specified in the First Schedule to this Act.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      66.96,
+      486.45,
+      428.1,
+      521.52
+    ],
+    "text": "(2) The provisions of subsection (1) of this section shall have effect without prejudice to the provisions of any other written law authorizing the raising of loans for and on behalf of the Government.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      66.96,
+      534.45,
+      428.94,
+      605.52
+    ],
+    "text": "3. (1) The receipts of the Government during the financial year 1985, front each activity specified in column I of the Second Schedule to this Act shall be credited to the account of such activity, and the aggregate of receipts so credited shall be not less than the minimum limit specied in the corresponding entry in column III of that Schedule. The net surplus, if any, of such activity, shall be paid to the Consoli\u00addated Fund before the expiry of six months after the close of the fiancial year 1985.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.556254386901855,
+      9.949873924255371,
+      9.979178428649902,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      67.2,
+      619.17,
+      429.24,
+      642.24
+    ],
+    "text": "(2) For the purpose of determining the net surplus under subsection (1) the following charges shall be set off against the revenue of each activity :\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      217.2,
+      52.53,
+      259.83,
+      63.6
+    ],
+    "text": "( xxVi )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      78.96,
+      75.81,
+      419.05,
+      99.36
+    ],
+    "text": "(a) the working, establishment and other expenses of the activity whether paid or accrued properly chargeable to the revenue of the activity ; and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      79.44,
+      108.45,
+      419.17,
+      131.76
+    ],
+    "text": "{b) provision to cover the depreciation of the movable and immovable property of the activity.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      59.76,
+      140.85,
+      419.31,
+      199.92
+    ],
+    "text": "(3) The expenditure incurred by the Government, during the financial year 1985, oh each activity specified in column I of the Second Schedule to this Act shall be paid out of the receipts of the Government from such activity during that financial year, but such expenditure shall not exceed the maximum limit specified in the corresponding entry in column II of that Schedule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.83361530303955,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      60.48,
+      209.73,
+      419.64,
+      280.8
+    ],
+    "text": "(4) The debit balance, outstanding at the end of the financial year 1985, of any activity specified in column I of the Second Schedule to this Act shall not exceed the maximum limit specified in the corresponding entry in column IV Of that Schedule, and the total liabilities of that activity at the end of that financial year shall not exceed the maximum limit specified in the corresponding entry in column V of that Schedule.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      61.2,
+      290.85,
+      420.75,
+      421.92
+    ],
+    "text": "4. Whenever, at any time during the financial year 1985, the receipts of the Government from any activity specified in column I of the Second Schedule to this Act are insufficient to meet the expenditure incurred by the Government on such activity, the Minister,may, from time to time, by Order direct that such sums as he may deem necessary to meet such expenditure shall be payable, by way of advances, out of the Consolidated Fund or any other fund or moneys of, or at the disposal of, the Government, so however, that the aggregate of the sums so advanced does not exceed the maximum limit of expenditure specified in the corresponding entry in column II of that Schedule. Any sums so advanced in respect of such activity shall be refunded to the Consolidated Fund in such manner as the Minister may by Order direct.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.830158233642578,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      61.68,
+      432.45,
+      421.47,
+      515.52
+    ],
+    "text": "5. (1) Any moneys which, by virtue of the provisions of the First Schedule to this Act, have been allocated to Recurrent Expenditure under any Programme appearing under any Head specified in the Schedule, but have not been expended or are not likely to be expended, may be transferred to the allocation of Capital Expenditure within that Programme, or to the allocation of Recurrent Expenditure oi Capital Expenditure under any other Programme within that Head by Order of the Secretary to the Treasury or any other officer authorized by him.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      62.4,
+      525.33,
+      421.46,
+      561.84
+    ],
+    "text": "(2) No moneys allocated to Capital Expenditure under any Programme appearing under any.Head specified in the First Schedule to this Act shall be transferred out of that allocation. \\",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      82.56,
+      570.93,
+      359.78,
+      582.03
+    ],
+    "text": "6. Where the Minister is satisfied\u2014 :",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      83.04,
+      591.33,
+      420.15,
+      614.64
+    ],
+    "text": "(1) that receipts from taxes and other sources will be less than the amounts antici\u00adpated to finance authorized expenditure ; or",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      80.64,
+      624.21,
+      422.82,
+      647.76
+    ],
+    "text": "'(2) that amounts originally appropriated for a particular purpose or purposes are no longer required,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      219.84,
+      52.86,
+      258.67,
+      60.84
+    ],
+    "text": "( XXVII )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      59.04,
+      74.61,
+      420.3,
+      121.68
+    ],
+    "text": "he may, with the approval of the Government, withdraw in whole or in part any amounts previously released for expenditure under the authority of a warrant issued by him from the Consohdated Fund or from any other fund or moneys of, or at the disposal of, the Government.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      60.96,
+      127.17,
+      420.6,
+      150.24
+    ],
+    "text": "7. The Minister with the approval of the Government, may, on or before May 31,1986, by Order vary or alter\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.913223266601562,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      79.92,
+      159.57,
+      420.91,
+      182.88
+    ],
+    "text": "(a) any of the maximum limits specified in column II, column IV and column V of the Scond Schedule to this Act;",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      79.68,
+      187.17,
+      421.38,
+      210.24
+    ],
+    "text": "(b) the minimum limits specified in column III of the Second Schedule to this Act.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      60.72,
+      214.29,
+      420.78,
+      237.36
+    ],
+    "text": "Any such Order shall, if so expressed therein, be deemed to have had effect from such date prior to the date of making such Order as may be specified therein.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      61.2,
+      246.69,
+      421.29,
+      269.76
+    ],
+    "text": "8. Parliament may, by resolution, amend the Second Schedule to this Act, by adding to the appropriate columns of that Schedule any activity and\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      80.64,
+      278.85,
+      347.98,
+      289.92
+    ],
+    "text": "(a) all or any of the maximum limits relating to such activity ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      80.64,
+      293.97,
+      284.94,
+      305.04
+    ],
+    "text": "(b) the minimum limit relating to such activity.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      116.16,
+      317.97,
+      367.62,
+      329.04
+    ],
+    "text": "TURNOVER TAX (AMENDMENT) ACT, No. 47 OF 1984",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      165.12,
+      331.65,
+      320.89,
+      342.72
+    ],
+    "text": "[ Certified on 28th December, 1984 ]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      61.2,
+      358.62,
+      307.69,
+      366.6
+    ],
+    "text": "A N ACT TO AMEND THE TURNOVER TAX ACT, No. 69 OF 1981",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.163909435272217
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      80.64,
+      371.01,
+      421.98,
+      382.08
+    ],
+    "text": "1. This Act may be cited as the Turnover Tax (Amendment) Act, No. 47 of 1984.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.921592712402344,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      61.44,
+      388.29,
+      423.14,
+      436.08
+    ],
+    "text": "2. Section 5 of the Turnover Tax Act, No. 69 of 1981 (hereinafter referred to as the \" principal enactment \") is hereby amended by the repeal of sub-paragraph (1) of paragraph (d) of subsection (1) of the section and the substitution of the following sub-paragraph therefor:\u2014",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.778343200683594,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      80.88,
+      441.09,
+      334.71,
+      452.16
+    ],
+    "text": "\" (1) when such articles were imported the aggregate of\u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      116.16,
+      455.73,
+      422.29,
+      478.8
+    ],
+    "text": "(a) the value of such articles ascertained for the purpose of custom duty in accordance with the Customs Ordinance ; and",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      115.68,
+      484.05,
+      375.58,
+      507.36
+    ],
+    "text": "(b) the amount of custom duty, if any, paid on such articles ; increased by ten per centum. \".",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      9.979178428649902
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      61.44,
+      516.21,
+      424.17,
+      551.76
+    ],
+    "text": "3. Section 10 of the principal enactment as amended by Act No. 39 of 1983, is hereby amended by the substitution for the words \" fifteen milhon rupees, \" in the proviso thereto, of the words \" five million rupees, \".",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.556254386901855,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      61.2,
+      560.37,
+      424.59,
+      643.44
+    ],
+    "text": "4. The amendment made to the principal enactment by section 2 of this Act, shall be deemed for all purposes to have come into operation at midnight of November 14, 1984 and accordingly any tax collected during the period commencing at midnight of November 14, 1984 and ending on the date of commencement of this Act from an importer in accordance with section 5 of the principal enactment as amended by section 2 of this act shall be deemed to have been and to be validly levied and collected.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.80173397064209,
+      9.949873924255371
+    ]
+  }
+]

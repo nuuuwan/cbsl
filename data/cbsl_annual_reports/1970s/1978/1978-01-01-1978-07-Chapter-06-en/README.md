@@ -1,0 +1,31 @@
+( 37 )
+
+bles (2 per cent), dried chillies (22 per cent), red onions (8 per cent), tea (about 15 per cent) and coffee (36 per cent). As a result, food prices appear to have risen by about 10 per cent, on the average.
+
+A sectoral classification indicates that the index for the domestic group increased by 16 per cent in 1978 compared to an increase of 9 per cent in the previous year. The sub index for the import group which showed a decline of 3 per cent in 1977 recorded an increase of 49 per cent this year. On the other hand the sub index for the export group remained constant as against an increase of 59 per cent in 1977. In a similar comparision, it appears that the sub index for the consumer group rose by 12 per cent. Intermediate and Investment goods rose by 30 per cent each.
+
+Price Controls and Rationing
+
+Price controls on most items were abolished as a part of the economic reforms of 1977. In 1978, coriander was removed from price control while no additions were made to the short list of items under price control. The controlled prices of wheat flour, bread, dhal and milk were raised.
+
+The revised scheme for the rationing and distribution of essential food items announced in November, 1977 was implemented from February, 1978. Under the new scheme, the issue of subsidized rice on ration was confined to a target group of low income (below Rs. 3,600 per year) earners, constituting about one half of the population. The sugar ration was limited to children within this group. As a result, a large portion of the rice trade came suddenly on the free market, which proved to be a highly efficient one. Price of rice in this market tended to stabilize around Rs. 2.90 to Rs. 3.20 for average quality.
+
+A Consumer Protection Law was introduced with the avowed purpose of protecting the consumer from exploitation, without hindering the operation of a free market. The National Prices Commission generally limited itself to price fixing in public enterprises.
+
+W A G E S
+
+Minimum wages of government employees, as measured by the Central Bank Index, which rose by 1-3 per cent in 1977 rose once again by about 15 per cent in 1978. The nominal wage rate of clerical and technical employees rose by 12 per cent, compared to an increase of 1 per cent, in 1977. Similarly, wages of minor employees rose by 16 per cent and that of school teachers, by 10 per cent, as compared with increases of 2 per cent each in the previous year. The major reason for this increase in money wage rates was the pay rise granted to government employees in December, 1977. Although money wages showed a substantial increase over the previous year, they remained constant through­out 1978. A more substantial wage increase was announced in November, 1978 but this would come into effect only in 1979- Allowing for the rate of inflation in the economy, real wages in this sector appear to have declined, except in the case of minor employees.
+
+( 38 )
+
+Money wages of workers in the private sector who ate covered by Wages Boards, as measured by the Labour Department's Index, showed a higher rate of increase in 1978. Wages of workers in agriculture rose by 45 per cent, while workers in industry and commerce saw their wages rise by 24 per cent. The corresponding increases in 1977 were 25 per cent and 8 per cent, respectively. Discounting for inflation, it appears that the real wages rose in this sector. Factors contributing to this were the extension of the pay rise granted to government employees in December, 1977 to the private sector, the increase in the cost of living allowance corresponding to the rise in the Colombo Consumers' Cost of Living Index, the grant of a price-related wage supplement in tea and rubber plantations.
+
+It should be noted, however, that the available wage indices reflect minimum wages of representative grades and that they do not reflect additional emoluments such as overtime payments, increments, bonuses and other incentive payments. There is some evidence that, faced with declining real wages, employees in public as well as private sectors have tended to supplement their nominal incomes by needless 'overtime' work beyond normal hours and by engaging in part-time private vocations, which is reflected by the high degree of absenteeism in normal work places. This is inevitable in situations where inflation is allowed to erode money incomes. Relating wages to productivity and judicious com­pensation for inflation are more appropriate remedies for this problem than attempts to eradicate such activity by fiat.
+
+E M P L O Y M E N T
+
+As mentioned in previous Annual Reports, the non-availability of reliable and continuous data is a basic problem in analysing trends in emplo\ment and unemployment in Sri Lanka. Important variables such as the total labour force, number employed and unemployed therefore have to be estimated from data obtained from census and sample surveys conducted at irregular intervals. The latest completed data available for these variables are for 1971 and 1973.
+
+According to 1971 Census data, there was a labour force of 4-5 million persons comprising 35 per cent of the population. The Central Bank's Consumer Finance Survey estimates of the labour force in 1973 were slightly higher. The age structure and the age specific activity rates in the population indicates that by 1978 the total labour force had increased to 5 6 million, which was 39 per cent of the estimated population for 1978.
+
+The census data revealed that the number unemployed in 1971 was 839,246 and the corresponding figure according to the Consumer Finance Survey estimates for 1973 was one million. The provisional data obtained from the on going Central Bank Consumer Finance and Socio Economic Survey which commenced in October, 1978 revealed that by the end of 1978 the number of unemployed persons was around 900,000, indicating a drop in the ranks of unemployed since 1973. This data, however, should be used with much caution as an indicator of the level and trends in unemployment, as they are derived from the first lap of the first round of the Survey which covered only fourteen districts of the country during a period of depressed activity in the rural sector.

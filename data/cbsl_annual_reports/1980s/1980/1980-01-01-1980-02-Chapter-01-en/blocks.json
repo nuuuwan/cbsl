@@ -1,0 +1,5510 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      218.64,
+      372.91,
+      271.31,
+      385.2
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.442480087280273,
+      11.736065864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.2,
+      83.81,
+      298.23,
+      93.89
+    ],
+    "text": "WEIGHTS AND MEASURES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.448675155639648,
+      9.758663177490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.16,
+      103.97,
+      273.46,
+      114.05
+    ],
+    "text": "Conversion Factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.599961280822754,
+      9.758663177490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.2,
+      135.17,
+      199.99,
+      145.25
+    ],
+    "text": "British to Metric Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.758663177490234,
+      10.070168495178223,
+      10.076252937316895,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.4,
+      153.26,
+      312.64,
+      166.8
+    ],
+    "text": "i acre = 0.405 hectares (ha)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.297382354736328,
+      9.029152870178223,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.4,
+      173.66,
+      338.37,
+      187.2
+    ],
+    "text": "i pound (lb) = 0.454 kilogrammes (kgs.)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.89512825012207,
+      9.445738792419434,
+      9.758663177490234,
+      10.534012794494629,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.16,
+      194.3,
+      357.37,
+      207.84
+    ],
+    "text": "i long ton (2240 lbs) = 1.016 metric tons (mt. ton)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.10479736328125,
+      8.355812072753906,
+      8.835338592529297,
+      9.029152870178223,
+      9.758663177490234,
+      10.534012794494629,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.4,
+      215.81,
+      277.68,
+      225.89
+    ],
+    "text": "1 hundred weight (cwt) 50.802 kgs.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.146838188171387,
+      8.241104125976562,
+      9.029152870178223,
+      9.758663177490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.64,
+      234.14,
+      328.01,
+      247.68
+    ],
+    "text": "1 mile = 1.609 kilometres (kms)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.798198699951172,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.64,
+      253.21,
+      305.18,
+      268.08
+    ],
+    "text": "1 long ton mile = 1.635 mt - ton km s",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.686903953552246,
+      7.562380790710449,
+      8.241104125976562,
+      9.758663177490234,
+      10.534012794494629,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.88,
+      275.18,
+      285.84,
+      288.72
+    ],
+    "text": "1 lb/acre = 1.121 kgs./ha",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.833350658416748,
+      8.241104125976562,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.64,
+      295.1,
+      296.15,
+      308.64
+    ],
+    "text": "1 cwt/acre = I 2 5 - 5 36 kgs./ha",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.711400032043457,
+      7.746857166290283,
+      8.241104125976562,
+      9.029152870178223,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.12,
+      315.26,
+      272.5,
+      328.8
+    ],
+    "text": "1 pint = 0.57 litres",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.748645782470703,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.36,
+      335.66,
+      272.74,
+      349.2
+    ],
+    "text": "1 imperial gallon = 4.55 litres",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.535150527954102,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.92,
+      357.17,
+      197.35,
+      367.25
+    ],
+    "text": "Metric to British Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.758663177490234,
+      10.070168495178223,
+      10.076252937316895,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.36,
+      375.98,
+      278.26,
+      389.52
+    ],
+    "text": "1 hectare = 2.471 acres",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.375906944274902,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.36,
+      396.14,
+      267.2,
+      409.68
+    ],
+    "text": "1 kilogramme = 2.205 l \u00b0s",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.160203456878662,
+      8.014552116394043,
+      8.241104125976562,
+      9.029152870178223,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.36,
+      416.54,
+      293.79,
+      430.08
+    ],
+    "text": "1 mt. ton (1000 kgs.) = 0.984 long ton",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.562380790710449,
+      8.364568710327148,
+      8.835338592529297,
+      9.029152870178223,
+      9.758663177490234,
+      10.534012794494629,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.36,
+      436.46,
+      272.35,
+      450.0
+    ],
+    "text": "1 metre = 3.281 feet",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.351698875427246,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.6,
+      457.97,
+      275.8,
+      468.53
+    ],
+    "text": "i kilometre 0.621 mile",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6958589553833,
+      9.758663177490234
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.6,
+      478.13,
+      317.56,
+      488.45
+    ],
+    "text": "1 mt. ton kilometre 0.612 long ton mile",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.590130805969238,
+      9.758663177490234,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.84,
+      497.81,
+      362.74,
+      508.37
+    ],
+    "text": "1 litre -1.76 pints = 0.219 imp. gallons",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.562380790710449,
+      8.241104125976562,
+      8.385293960571289,
+      8.82277774810791,
+      9.758663177490234,
+      9.990665435791016,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.84,
+      517.34,
+      287.32,
+      530.88
+    ],
+    "text": "1 kg/ha = 0.892 lb/acre",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      8.289826393127441,
+      9.029152870178223,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.12,
+      538.61,
+      200.91,
+      548.69
+    ],
+    "text": "Paddy/Rice Conversions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.758663177490234,
+      10.004331588745117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      557.18,
+      274.31,
+      570.72
+    ],
+    "text": "1 bushel of paddy (46 lbs) = 20.87 kgs.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.079008102416992,
+      8.241104125976562,
+      8.82277774810791,
+      9.029152870178223,
+      9.705354690551758,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      578.69,
+      158.21,
+      588.77
+    ],
+    "text": "1 mt. ton paddy",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      9.758663177490234,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.2,
+      587.9,
+      219.93,
+      601.44
+    ],
+    "text": "=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.48,
+      579.17,
+      319.72,
+      599.09
+    ],
+    "text": "47.92 bushels paddy 0.7 mt. ton rice",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.621500015258789,
+      8.82277774810791,
+      9.758663177490234,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.8,
+      608.69,
+      147.89,
+      618.77
+    ],
+    "text": "1 mt. ton rice",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.241104125976562,
+      9.758663177490234,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      211.44,
+      617.66,
+      220.17,
+      631.2
+    ],
+    "text": "=",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      229.2,
+      609.41,
+      319.96,
+      629.57
+    ],
+    "text": "68.46 bushels paddy 1.43 mt. ton paddy",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.369725227355957,
+      8.82277774810791,
+      9.758663177490234,
+      10.534012794494629
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      83.04,
+      638.06,
+      318.08,
+      651.6
+    ],
+    "text": "1 bushel paddy/acre = 5r-55 kgs- paddy/ha",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.8011183738708496,
+      3.160203456878662,
+      8.003195762634277,
+      8.241104125976562,
+      9.029152870178223,
+      9.758663177490234,
+      11.45237922668457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      58.1,
+      435.02,
+      71.49
+    ],
+    "text": "ECONOMIC PERFORMANCE, PROBLEMS AND POLICIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.651243209838867,
+      12.65743350982666,
+      12.975804328918457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      228.72,
+      73.22,
+      278.06,
+      86.61
+    ],
+    "text": "IN 1980",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.16034984588623,
+      12.975804328918457
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      102.95,
+      333.98,
+      112.8
+    ],
+    "text": "GROSS NATIONAL PRODUCT AND EXPENDITURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.489294052124023,
+      9.54418659210205
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.04,
+      123.35,
+      439.78,
+      203.76
+    ],
+    "text": "In 1980, Sri Lanka's Gross National Product (GNP) at constant (1970) prices! is estimated to have increased by 5.5 per cent. The rate of growth was less than] the high growth rates of 8.2 per cent in 1978 and 6.2 per cent in 1979. The growth rate in 1980 dipped below the macro-economic projection of 6 per cent. The decline in growth in 1980, is mainly due to the poor performance of plantation agriculture. Lower rates of growth were recorded in the manufacturing and construction sectors while trade, transport and other services continued to be high growth sectors.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.944388389587402,
+      9.288887977600098,
+      9.504015922546387,
+      9.54418659210205,
+      9.775911331176758,
+      9.806046485900879,
+      9.831257820129395,
+      9.863592147827148,
+      9.89398193359375,
+      9.992642402648926,
+      10.051091194152832
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.56,
+      215.27,
+      435.04,
+      297.36
+    ],
+    "text": "Gross National Product is estimated at Rs. 61,807 million at current factor cost prices, and at Rs. 19,405 million at constant (1970) prices. The implicit price deflator in this estimate rose by 18 per cent. The population is estimated to have increased by 1.8 per cent in 1980. When allowance is made for the increase in population, real per capita income increased by 3.7 per cent. This compares with per capita growth rates of 6.3 per cent and 4.2 per cent in 1978 and 1979 respectively. The 1980 GNP per capita at current prices was Rs. 4,194 or U.S. S 254-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.944388389587402,
+      9.383149147033691,
+      9.54418659210205,
+      9.80548095703125,
+      9.831619262695312,
+      9.851499557495117,
+      9.930740356445312,
+      9.992642402648926
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220.8,
+      307.19,
+      280.78,
+      317.04
+    ],
+    "text": "TABLE 1 . 1",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.295707702636719,
+      9.54418659210205
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.52,
+      326.15,
+      343.53,
+      336.0
+    ],
+    "text": "National Income Statistics 1978 - 1980(a)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.162116050720215,
+      9.54418659210205,
+      9.824003219604492,
+      9.891260147094727,
+      10.0774564743042
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.4,
+      354.15,
+      412.05,
+      370.41
+    ],
+    "text": "Amount Rs. Million Growth Rates (%) Item Item",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.613901615142822,
+      7.811967849731445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      233.04,
+      370.71,
+      422.15,
+      378.81
+    ],
+    "text": "1978 1979 1980 1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.28,
+      403.59,
+      420.99,
+      412.17
+    ],
+    "text": "1 GDP at current factor cost prices 40,479 49,782 62,246 16.7 23.0 25.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.54342794418335,
+      7.55117654800415,
+      7.554213047027588,
+      7.613901615142822,
+      7.8101935386657715,
+      7.88096809387207,
+      7.881799697875977
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.8,
+      420.39,
+      422.68,
+      436.65
+    ],
+    "text": "2 GDP at constant (1970) factor cost prices 17,401 18,501 19,575 8.2 6.3 5.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.526268005371094,
+      7.563449382781982,
+      7.613901615142822,
+      7.860697269439697,
+      7.88096809387207,
+      7.881799697875977
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.56,
+      444.63,
+      420.91,
+      453.21
+    ],
+    "text": "3 GNP at current factor cost prices 40,242 49,542 61,807 16.9 23.1 24.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.528712272644043,
+      7.55117654800415,
+      7.613901615142822,
+      7.8101935386657715,
+      7.88096809387207,
+      7.881799697875977
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.32,
+      461.67,
+      423.25,
+      477.93
+    ],
+    "text": "4 GNP at constant (1970) factor cost prices 17,311 18,389 19,405 8.2 6.2 5.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.526268005371094,
+      7.554213047027588,
+      7.563449382781982,
+      7.613901615142822,
+      7.860697269439697,
+      7.88096809387207,
+      7.881799697875977
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.32,
+      502.23,
+      422.58,
+      510.33
+    ],
+    "text": "5 Mid-year population (Million) 14.2 14.5 14.7 1.9 2.0 1.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.613901615142822,
+      7.830916881561279
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.32,
+      519.27,
+      166.79,
+      527.13
+    ],
+    "text": "6 GNP per capita (Rs.)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.613901615142822,
+      7.859029293060303
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      84.72,
+      535.11,
+      421.31,
+      552.09
+    ],
+    "text": "(a) at current prices 2,836 3,424 4,194 14.8 20.7 22.5 (b) at constant prices 1,220 1,271 1,317 6.3 4.2 3.7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.135411739349365,
+      7.579694747924805,
+      7.587140083312988,
+      7.613901615142822,
+      7.8101935386657715,
+      7.860697269439697,
+      7.88096809387207
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.56,
+      565.59,
+      424.07,
+      573.45
+    ],
+    "text": "(a) Provisional. Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.613901615142822,
+      7.833233833312988,
+      7.9473395347595215
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.64,
+      582.95,
+      438.51,
+      654.72
+    ],
+    "text": "While a slower rate of growth has been recorded in 1980, there are underlying factors which give ground for optimism. The slowing down in economic growth f in 1980 has been mainly due to the poor performance of the plantation sector | which has been partly affected by adverse weather conditions. This in turn affected the manufacturing sector as the processing of plantation produce is an important component of it. With the exception of this, satisfactory rates of growth have been recorded in all other sectors.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.77559757232666,
+      8.944388389587402,
+      9.31052303314209,
+      9.44029426574707,
+      9.474550247192383,
+      9.482865333557129,
+      9.54418659210205,
+      9.777572631835938,
+      9.806046485900879,
+      9.80955982208252,
+      9.82448673248291,
+      9.896944046020508,
+      9.992642402648926,
+      10.051091194152832,
+      10.074705123901367
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      224.16,
+      59.75,
+      231.4,
+      69.6
+    ],
+    "text": "2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.269426345825195
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      49.92,
+      80.15,
+      409.05,
+      182.88
+    ],
+    "text": "The past year has seen a massive increase in investment amounting to over Rs. 24 billion, which is an increase of 81 per cent over the previous year. There has been a substantial increase in imports of capital goods mainly machinery and transport equipment. The large increase in capital expenditure in 1980, means that the productive capacity of the economy has been expanded. It is significant that the increase in the capital stock has been in important sectors such as manu\u00adfacturing, construction and transport. The large increase in investment also implies a replacement of obsolete capital equipment. Therefore the efficiency and productivity of key economic sectors are likely to have been enhanced for the future.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.763675689697266,
+      9.281978607177734,
+      9.31052303314209,
+      9.311330795288086,
+      9.311415672302246,
+      9.32119369506836,
+      9.39306354522705,
+      9.565201759338379,
+      9.572527885437012,
+      9.626821517944336,
+      9.863070487976074,
+      9.891419410705566,
+      9.89398193359375,
+      9.896623611450195,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48.24,
+      198.95,
+      418.17,
+      324.96
+    ],
+    "text": "In 1980, output of the agricultural sector increased by 3.1 percent, resulting P solely from the increase of 7.5 per cent in domestic agriculture. Plantation agri- / culture's growth declined by 10.1 per cent as production fell in all three major/ plantation crops: tea by 7 per cent to 191 million kgs, rubber by 13 per cent to 133 million kgs, and coconut by 15 per cent to 2,026 million nuts. Plantation crops were adversely affected by bad weather but this alone cannot explain the poor performance in this sector. In contrast domestic agriculture, especially paddy production increased markedly over the previous year. Production in both Maha and Yala seasons is estimated at 2.13 million metric tons which is 11 per f cent higher than in 1979- Output of minor food crops, fruits and vegetables / has increased by 5 per cent in 1980. Substantial increases were also recorded forestry and fishing. in",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.252799987792969,
+      8.359321594238281,
+      8.42529582977295,
+      8.442249298095703,
+      8.523207664489746,
+      8.528131484985352,
+      8.746169090270996,
+      8.911295890808105,
+      8.914006233215332,
+      9.08061695098877,
+      9.22179126739502,
+      9.335756301879883,
+      9.372591018676758,
+      9.374873161315918,
+      9.382515907287598,
+      9.387579917907715,
+      9.38939380645752,
+      9.39306354522705,
+      9.46422004699707,
+      9.598227500915527,
+      9.604703903198242,
+      9.626821517944336,
+      9.857407569885254,
+      9.881324768066406,
+      9.896944046020508,
+      9.930740356445312,
+      10.008088111877441
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      197.04,
+      353.75,
+      256.31,
+      363.6
+    ],
+    "text": "TABLE 1 . 2",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.295707702636719,
+      9.626821517944336
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110.4,
+      371.99,
+      343.8,
+      381.84
+    ],
+    "text": "Gross National Product at (1970) Factor Cost Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.626821517944336,
+      9.863151550292969,
+      9.891260147094727,
+      9.897784233093262,
+      10.041077613830566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      79.2,
+      417.99,
+      103.1,
+      425.85
+    ],
+    "text": "Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.08,
+      400.71,
+      253.93,
+      408.57
+    ],
+    "text": "Amount (Rs. Million)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.646703243255615,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.4,
+      433.59,
+      295.97,
+      441.69
+    ],
+    "text": "1970 1977 1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.522415637969971,
+      7.537611961364746,
+      7.554379940032959,
+      7.555347442626953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      319.68,
+      400.47,
+      387.65,
+      416.73
+    ],
+    "text": "Percentage change over previous year",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246,
+      7.862908840179443
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      312.48,
+      433.59,
+      398.93,
+      441.69
+    ],
+    "text": "1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537611961364746,
+      7.554379940032959,
+      7.555347442626953
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.28,
+      459.27,
+      109.07,
+      483.45
+    ],
+    "text": "1. Agriculture, Forestry and Fishing",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.521845817565918,
+      7.679823875427246,
+      7.880200386047363
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.04,
+      491.91,
+      128.16,
+      517.05
+    ],
+    "text": "2. Manufacturing, Mining and Utility Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.335574626922607,
+      7.679823875427246,
+      7.885859966278076
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.56,
+      525.03,
+      108.88,
+      532.89
+    ],
+    "text": "3. Construction",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.286620140075684,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.84,
+      541.35,
+      127.31,
+      557.37
+    ],
+    "text": "4. Trade, Transport and other Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.403975963592529,
+      7.679823875427246,
+      7.885859966278076
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.08,
+      566.31,
+      119.15,
+      582.33
+    ],
+    "text": "5. Gross Domestic Product",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.366912841796875,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.36,
+      590.55,
+      128.51,
+      607.05
+    ],
+    "text": "6. Net Factor Income from Abroad",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.36,
+      615.51,
+      116.87,
+      631.77
+    ],
+    "text": "7. Gross National Product",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.510813236236572,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      141.6,
+      474.87,
+      162.56,
+      482.73
+    ],
+    "text": "3,732",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.581855773925781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.88,
+      507.99,
+      161.76,
+      515.85
+    ],
+    "text": "2,393",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.616880416870117
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      147.36,
+      524.31,
+      161.59,
+      532.17
+    ],
+    "text": "744",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.546869277954102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      140.4,
+      548.79,
+      161.15,
+      556.65
+    ],
+    "text": "6,318",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.627594470977783
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.8,
+      573.51,
+      161.21,
+      581.37
+    ],
+    "text": "13,187",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.528712272644043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      138.0,
+      598.47,
+      161.19,
+      606.33
+    ],
+    "text": "- 220",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.32,
+      623.19,
+      160.53,
+      631.05
+    ],
+    "text": "12,967",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.528712272644043
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.68,
+      474.87,
+      196.79,
+      482.73
+    ],
+    "text": "4,299",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.602836608886719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      175.44,
+      507.99,
+      196.3,
+      515.85
+    ],
+    "text": "3.003",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.601278781890869
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      181.68,
+      524.31,
+      196.07,
+      532.17
+    ],
+    "text": "619",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554680347442627
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      174.72,
+      549.03,
+      195.52,
+      556.89
+    ],
+    "text": "8,157",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589763641357422
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.12,
+      573.75,
+      195.45,
+      581.61
+    ],
+    "text": "16,078",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554980278015137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      172.56,
+      598.23,
+      195.51,
+      606.09
+    ],
+    "text": "- 79",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      170.64,
+      622.95,
+      195.18,
+      630.81
+    ],
+    "text": "15,999",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554213047027588
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209.76,
+      474.87,
+      231.13,
+      482.73
+    ],
+    "text": "4,532",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5992889404296875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209.76,
+      507.99,
+      230.45,
+      515.85
+    ],
+    "text": "3,318",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.586408615112305
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      216.0,
+      524.31,
+      230.4,
+      532.17
+    ],
+    "text": "794",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.546869277954102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      209.28,
+      549.03,
+      229.89,
+      556.89
+    ],
+    "text": "8,757",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589763641357422
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205.44,
+      573.75,
+      229.46,
+      581.61
+    ],
+    "text": "17,401",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.563449382781982
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      206.64,
+      598.47,
+      229.83,
+      606.33
+    ],
+    "text": "- 90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205.2,
+      623.19,
+      229.22,
+      631.05
+    ],
+    "text": "17,311",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.563449382781982
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      244.08,
+      475.11,
+      265.45,
+      482.97
+    ],
+    "text": "4,622",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5992889404296875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243.84,
+      507.75,
+      264.62,
+      515.61
+    ],
+    "text": "3,501",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.597796440124512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250.08,
+      524.55,
+      264.59,
+      532.41
+    ],
+    "text": "960",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.532193183898926
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      243.36,
+      549.03,
+      264.09,
+      556.89
+    ],
+    "text": "9,418",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6156229972839355
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239.76,
+      573.75,
+      263.78,
+      581.61
+    ],
+    "text": "18,501",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.563449382781982
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      241.2,
+      598.47,
+      264.25,
+      606.33
+    ],
+    "text": "- 112",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      239.52,
+      623.19,
+      263.86,
+      631.05
+    ],
+    "text": "18,389",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554213047027588
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.4,
+      474.87,
+      299.63,
+      482.73
+    ],
+    "text": "4,766",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589066028594971
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.4,
+      507.51,
+      299.11,
+      515.37
+    ],
+    "text": "3,574",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.579694747924805
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.64,
+      524.07,
+      299.28,
+      531.93
+    ],
+    "text": "1,066",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274.32,
+      548.31,
+      298.66,
+      556.17
+    ],
+    "text": "10.169",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554213047027588
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      274.08,
+      573.51,
+      298.18,
+      581.37
+    ],
+    "text": "19,575",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.526268005371094
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      275.28,
+      598.23,
+      298.47,
+      606.09
+    ],
+    "text": "- 170",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      273.84,
+      622.95,
+      300.03,
+      630.81
+    ],
+    "text": "19,405.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.468814849853516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315.36,
+      475.11,
+      329.29,
+      482.97
+    ],
+    "text": "5.4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      311.28,
+      507.75,
+      328.84,
+      515.61
+    ],
+    "text": "10.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5075907707214355
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      310.8,
+      524.31,
+      328.77,
+      532.17
+    ],
+    "text": "28.3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.575437068939209
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314.64,
+      548.79,
+      328.4,
+      556.65
+    ],
+    "text": "7.4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      314.16,
+      573.51,
+      328.27,
+      581.37
+    ],
+    "text": "8.2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      313.92,
+      622.95,
+      328.03,
+      630.81
+    ],
+    "text": "8.2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      349.44,
+      475.11,
+      363.41,
+      482.97
+    ],
+    "text": "2.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6163506507873535
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348.96,
+      507.51,
+      362.77,
+      515.37
+    ],
+    "text": "5.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.615192890167236
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      344.88,
+      524.07,
+      363.05,
+      531.93
+    ],
+    "text": "20.9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.554680347442627
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348.72,
+      548.55,
+      362.22,
+      556.41
+    ],
+    "text": "7.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6192626953125
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348.24,
+      573.51,
+      362.13,
+      581.37
+    ],
+    "text": "6.3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      348.0,
+      622.71,
+      362.09,
+      630.57
+    ],
+    "text": "6.2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      383.76,
+      474.87,
+      397.51,
+      482.73
+    ],
+    "text": "3.1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.646241188049316
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      383.28,
+      507.99,
+      396.92,
+      515.85
+    ],
+    "text": "2.1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      379.44,
+      524.07,
+      397.21,
+      531.93
+    ],
+    "text": "11.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.532193183898926
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      382.8,
+      548.31,
+      396.84,
+      556.17
+    ],
+    "text": "8.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.661291122436523
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      382.8,
+      573.03,
+      396.51,
+      580.89
+    ],
+    "text": "5.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      382.56,
+      622.23,
+      396.21,
+      630.09
+    ],
+    "text": "5.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.615192890167236
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.16,
+      643.83,
+      397.23,
+      653.85
+    ],
+    "text": "(a) Provisional Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.679823875427246,
+      7.9473395347595215
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      143.28,
+      109.38,
+      329.25,
+      121.89
+    ],
+    "text": "GROSS NATIONAL PRODUCT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.930763244628906,
+      11.170392990112305,
+      11.384732246398926
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.12,
+      162.42,
+      418.68,
+      191.25
+    ],
+    "text": "MILLIONS OF RUPEES 70000 MILLIONS OF RUPEES 70000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.12,
+      314.1,
+      117.43,
+      350.13
+    ],
+    "text": "10000 PERCENT 40",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.36,
+      360.66,
+      78.85,
+      373.17
+    ],
+    "text": "30",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.08,
+      384.42,
+      79.14,
+      396.93
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.56,
+      407.94,
+      79.34,
+      420.45
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.96,
+      342.86,
+      354.6,
+      368.37
+    ],
+    "text": "-i 1 1 1 r GROWTH RATE",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.895185470581055,
+      9.931588172912598,
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      292.32,
+      372.94,
+      372.51,
+      381.91
+    ],
+    "text": "\"CURRENT PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.544713973999023,
+      8.6344633102417
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      273.12,
+      406.3,
+      376.59,
+      415.27
+    ],
+    "text": "CONSTANT (1970) PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.47745418548584,
+      8.613961219787598,
+      8.6344633102417
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      362.88,
+      316.5,
+      418.22,
+      352.53
+    ],
+    "text": "10000 PERCENT 40",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      404.16,
+      361.86,
+      418.58,
+      374.37
+    ],
+    "text": "30",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      404.4,
+      384.42,
+      419.18,
+      396.93
+    ],
+    "text": "20",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      404.64,
+      407.22,
+      419.06,
+      419.73
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.56,
+      429.54,
+      419.46,
+      466.05
+    ],
+    "text": "0 PERCAPITA INCOME IN RUPEES 5000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.08,
+      476.82,
+      91.67,
+      489.33
+    ],
+    "text": "4000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.32,
+      500.1,
+      91.91,
+      512.61
+    ],
+    "text": "3000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.56,
+      523.54,
+      92.39,
+      535.94
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.225147247314453
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.56,
+      546.66,
+      91.26,
+      559.17
+    ],
+    "text": "1000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      279.84,
+      441.54,
+      419.48,
+      454.05
+    ],
+    "text": "POPULATION IN MILLIONS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.28,
+      453.78,
+      419.11,
+      482.61
+    ],
+    "text": "15-0 POPULATION & PER CAPITA INCOME",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      310.8,
+      518.98,
+      381.82,
+      531.38
+    ],
+    "text": "NT PRICES _",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209.76,
+      544.3,
+      342.38,
+      562.87
+    ],
+    "text": "\u00ae\u2014<S\u2014\u00ae\u2014\u00ab\u2014IN\u00adCONSTANT (1970) PRICES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.220123291015625,
+      8.35078239440918,
+      8.41028118133545,
+      8.618339538574219
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      393.12,
+      473.94,
+      418.53,
+      486.45
+    ],
+    "text": "14-5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      394.08,
+      496.98,
+      418.03,
+      509.49
+    ],
+    "text": "140",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      393.6,
+      520.02,
+      418.65,
+      532.53
+    ],
+    "text": "13-5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      393.12,
+      543.06,
+      417.55,
+      555.57
+    ],
+    "text": "130",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      87.84,
+      566.1,
+      419.02,
+      593.01
+    ],
+    "text": "12-5 1970 '72 '73 '74 '75 '76 '77 '78 '79 '80",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.030720710754395
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      349.44,
+      627.92,
+      422.72,
+      634.68
+    ],
+    "text": "Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.007803440093994,
+      6.161815166473389,
+      6.165769577026367,
+      6.312129020690918
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220.08,
+      50.08,
+      226.75,
+      60.02
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.93299674987793
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      73.44,
+      105.75,
+      412.8,
+      118.6
+    ],
+    "text": "GROSS DOMESTIC PRODUCT BY INDUSTRIAL ORIGIN",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.076117515563965,
+      11.44235610961914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      148.08,
+      124.46,
+      329.63,
+      132.28
+    ],
+    "text": "AT CONSTANT (1970) FACTOR COST PRICES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.44,
+      154.95,
+      200.65,
+      183.64
+    ],
+    "text": "MILLIONS OF RUPEES 5000 r-^\u2014 I T",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.925994873046875,
+      11.10217571258545,
+      11.244624137878418,
+      11.247211456298828,
+      11.44235610961914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300.0,
+      157.83,
+      417.52,
+      183.64
+    ],
+    "text": "MILLIONS OF RUPEES 5000 1 T",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.962884426116943,
+      9.049410820007324,
+      11.247211456298828,
+      11.44235610961914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      393.84,
+      527.67,
+      418.02,
+      540.52
+    ],
+    "text": "'500",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.24709415435791
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      86.4,
+      581.19,
+      391.56,
+      594.04
+    ],
+    "text": "1970 '72 '73 '74 '75 '75 11 '78 '7 '80",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.386711120605469,
+      11.247211456298828,
+      11.44235610961914
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      341.04,
+      622.08,
+      414.78,
+      629.83
+    ],
+    "text": "'Central Bank of Ceylcn.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.576126575469971,
+      6.605048179626465,
+      6.761688232421875,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246.48,
+      48.62,
+      254.16,
+      58.58
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.598026275634766
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.24,
+      69.02,
+      427.51,
+      99.14
+    ],
+    "text": "The output of the manufacturing, mining, quarrying and utility services sectors increased by only 2.1 per cent in 1980 compared to a growth of 5.5 per cent in 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.674104690551758,
+      8.931927680969238,
+      9.048022270202637,
+      9.618638038635254,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.08,
+      111.98,
+      427.09,
+      252.98
+    ],
+    "text": "This is mainly due to the manufacturing sector's increase being only 0.8 per cent owing to a; decline of 10 per cent in real value added in the processing of plan\u00adtation crops. Output of factory industry increased by 6 per cent in 1980 as compared with 4 per cent in the previous year. The performance of factory industry was adversely affected by the power cuts from April to June. This disruption .of production was however moderated to some extent by factories adjusting pro\u00adduction, shifts and also by installation of generators to provide supplementary power. In fact electricity sales to industry declined by only 2 per cent in 1980. \\ Output of state sector industry was also affected by a two month shut down in the Cement Corp oration, due to technical problems. State sector industry, recorded an increase of 6 per cent in 1980 compared with 3 per cent in 1979 due mainly to the large increase in the output of the Petroleum Corporation. But there were declines, in output in cement, paper and paper products and fabricated metal products. Private sector industry recorded an increase of 4.5 per cent in 1980.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.715095520019531,
+      8.82504940032959,
+      8.877668380737305,
+      9.0,
+      9.490797996520996,
+      9.505379676818848,
+      9.537367820739746,
+      9.557262420654297,
+      9.565056800842285,
+      9.572504997253418,
+      9.614974021911621,
+      9.651424407958984,
+      9.881409645080566,
+      9.906665802001953,
+      9.952388763427734,
+      9.955806732177734,
+      9.976937294006348,
+      9.991094589233398,
+      10.077910423278809
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.72,
+      266.78,
+      423.28,
+      276.74
+    ],
+    "text": "The mining and quarrying output increased by 5 per cent. A major deter-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.618638038635254,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57.6,
+      276.86,
+      425.95,
+      337.22
+    ],
+    "text": "1 minant of growth in this sector is the mining of gems. The f.o.b. value of gems -exported in 1980 at Rs. 458.1 million was less than the previous year's, exports of Rs. 490.1 million. The value of gems with the State Gem Corporation amounted to Rs. 663.8 million in 1980. The slower rate of growth in construction activity also resulted in a lesser demand for bricks, sand, tiles etc. Compared with 1979, therefore, there has been a slowing down in activity in this sector.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1500000953674316,
+      8.82504940032959,
+      9.15503978729248,
+      9.169140815734863,
+      9.210522651672363,
+      9.363417625427246,
+      9.489773750305176,
+      9.569416999816895,
+      9.6149320602417,
+      9.61985969543457,
+      9.651424407958984,
+      9.952388763427734,
+      9.986391067504883,
+      9.991094589233398,
+      10.06407642364502,
+      10.107364654541016
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.8,
+      351.02,
+      430.03,
+      471.86
+    ],
+    "text": "Output of the construction sector increased by 11 per cent in. 1980. This follows two years of very rapid growth in this sector. As compared with 1978 and 1979, there appears to have been a levelling off in construction activity in 1980. The increased construction in these years may have met some of the pent-up demand for residential and non-residential buildings. The construction sector may. have also been adversely affected by the escalation in construction costs and temporary shortage of cement. Cement prices increased from an average of Rs. 45 per bag ; (50 kgs) in 1979 to Rs. 70 in 1980. Prices of other building materials also increased substantially during the year. Construction costs of medium sized housing were estimated to have increased by 24 per cent. , In addition there was a shortfall in the availability of cement in the second half of 1980, due to the disruption of production in the Cement Corporation. Sales of cement by the Corporation",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.79516887664795,
+      8.82504940032959,
+      8.963927268981934,
+      9.0,
+      9.294172286987305,
+      9.33178997039795,
+      9.363417625427246,
+      9.46550178527832,
+      9.589034080505371,
+      9.6149320602417,
+      9.618638038635254,
+      9.651424407958984,
+      9.890422821044922,
+      9.952388763427734,
+      9.986391067504883
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      60.24,
+      471.98,
+      426.43,
+      481.94
+    ],
+    "text": ": in 1980 declined by 8 per cent to 559 thousand tons compared with 608 thousand",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1500000953674316,
+      8.9938325881958,
+      9.048022270202637,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      59.28,
+      482.06,
+      426.85,
+      552.5
+    ],
+    "text": "1 tons in 1979. However, when imported cement is also taken into account the .availability of cement was 10 per cent higher than in 1979. Despite these deve\u00adlopments construction activity recorded a large increase in. money terms. The main increases in construction have been in civil engineering works, mainly: the accelerated MahaVeli Scheme and in non-residential construction. The National Housing Programme has also made a significant impact on construction activity in 1980.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1500000953674316,
+      8.79516887664795,
+      9.36380672454834,
+      9.651424407958984,
+      9.926840782165527,
+      10.06407642364502
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      61.2,
+      566.3,
+      426.61,
+      636.74
+    ],
+    "text": "- The high level of activity in the services sector continued in 1980. The wholcsa'e ' and retail trade sector grew by 8.4 per cent. As in the previous two years growth in this sector was sustained to a large extent by the increase in imports. In fact a feature of growth in this sector in the last few years has been the stimulative influence of import demand on its level of activity. Output of the transport sector increased by 7.1 per cent in 1980. There has been a high level of investment in transport equipment in the last few years and particularly in 1980. The Registrar",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.82504940032959,
+      8.963927268981934,
+      9.0,
+      9.500650405883789,
+      9.521217346191406,
+      9.604944229125977,
+      9.651424407958984,
+      9.949377059936523,
+      9.949540138244629,
+      9.96743392944336,
+      9.986391067504883,
+      9.991580963134766
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55.92,
+      65.81,
+      417.04,
+      106.13
+    ],
+    "text": "of Motor Vehicles reports the number of lorries registered in 1980 to have increased by 9,323 and passenger vans and coaches used for excursions and passenger transport to have increased by 2,702 in 1980. The large increase in the number of vehicles in the last three years indicates increased competitiveness in the transport sector.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      8.65969181060791,
+      9.716141700744629,
+      10.004456520080566,
+      10.004704475402832,
+      10.007518768310547
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55.92,
+      115.01,
+      416.89,
+      146.21
+    ],
+    "text": "Banking and other financial services continued to expand in 1980. These services increased more rapidly in 1980 by 15 per cent compared to a 10 per cent increase in 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      9.651836395263672,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.4,
+      153.89,
+      416.86,
+      231.65
+    ],
+    "text": "Output of other services increased by 8 per cent in 1980. Substantial increases were registered in hotel and restaurant services and personal services, due mainly to the increased importance of tourism. The policy of import liberalization and the high level of investment in manufacturing and construction have also had an important influence in increased service sector activity, the output of which has grown at a high rate in each of the last three years. It is therefore likely that there has been an increase in employment in these sectors.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      9.370835304260254,
+      9.567428588867188,
+      9.673861503601074,
+      9.716141700744629,
+      9.967554092407227,
+      10.004704475402832,
+      10.007518768310547,
+      10.12695598602295,
+      10.163359642028809,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.48,
+      240.77,
+      416.17,
+      363.65
+    ],
+    "text": "The sectoral performance of the economy in 1980 shows differences from those of 1978 and 1979. In 1980, 14 per cent of the increase in real GNP came from the agricultural sector as compared with 8 per cent in 1979. The continued improvement in the performance of the domestic agricultural sector, particularly of paddy accounts for this. There was a decline in the contributions of both the construction and manufacturing sectors. The decline in real value added in the processing of plantation crops was the main factor responsible for the fall in the contribution of the manufacturing sector. Trade, transport and other services were the main sources of economic growth in 1980. Trade and transport accounted for 41 per cent of the increase in GNP in 1980 as compared with 36 per cent in 1979 and 29 per cent in 1978.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      9.414432525634766,
+      9.425333976745605,
+      9.652523040771484,
+      9.673861503601074,
+      9.716141700744629,
+      9.961528778076172,
+      10.004456520080566
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      53.76,
+      372.05,
+      414.74,
+      462.77
+    ],
+    "text": "The large increases in investment in the last 3 years, particularly in manu\u00adfacturing and construction have not as yet shown any important structural change in the Sri Lanka economy such as would be seen from an increase in the importance of processed industrial goods, or more generally in a long-term change in the sectoral importance of manufacturing and construction. The increase in the sectoral importance of the services sectors has been sustained by the large increase in imports and a continued high growth would be dependent on the ability to maintain or increase imports. This in turn would be dependent on the import capacity of the economy which would greatly depend on export earnings.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      9.316774368286133,
+      9.425333976745605,
+      9.504905700683594,
+      9.605006217956543,
+      9.716141700744629,
+      9.979759216308594,
+      10.004704475402832,
+      10.060502052307129,
+      10.18696117401123
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.84,
+      472.13,
+      413.05,
+      562.85
+    ],
+    "text": "The effect of the terms of trade has an important bearing on the performance of the economy owing to the importance of foreign trade in the economy. The movement in international prices has had an adverse effect on the Sri Lanka economy in 1980 with a further deterioration in the terms of trade of 19 per cent. In 1980, the terms of trade (1970=100) dipped to 55 compared with 68 in 1979. Real National Income, which is estimated as GNP adjusted for changes in the terms of trade, is estimated to have increased by 3.7 per cent compared with 3.1 per cent in 1979. The estimate of Real National Income is given in the Statistical Appendix.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      9.41755485534668,
+      9.425333976745605,
+      9.434905052185059,
+      9.550102233886719,
+      9.639172554016113,
+      9.716141700744629,
+      9.94863510131836,
+      9.952048301696777,
+      9.97374153137207,
+      9.97789192199707,
+      10.046911239624023
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.84,
+      572.69,
+      411.28,
+      592.85
+    ],
+    "text": "Estimates of Gross National Expenditure and Gross Domestic Capital Formation are also shown in the Statistical Appendix.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      601.25,
+      410.85,
+      631.97
+    ],
+    "text": "Gross Domestic Expenditure (GDE) in 1980, is estimated at Rs. 83,550 million which is 42 per cent higher than in 1979. This is made up of consumption expendi\u00adture of Rs. 59,084 million and capital formation amounting to Rs. 24,466 million.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5365571975708,
+      8.750585556030273,
+      8.854117393493652,
+      9.58869743347168,
+      9.637239456176758,
+      9.664525985717773,
+      9.716141700744629,
+      10.119715690612793,
+      10.1218843460083
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.32,
+      41.27,
+      363.71,
+      51.12
+    ],
+    "text": "TABLE 1 . 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.391080856323242,
+      9.667874336242676
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      102.48,
+      59.27,
+      565.42,
+      69.36
+    ],
+    "text": "Sectoral.Composition and.Increase in Gross National Product at Constant (1970) Prices 1978 1980 (a)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.568927764892578,
+      9.667874336242676,
+      9.891260147094727,
+      9.897784233093262,
+      9.91441535949707,
+      10.041077613830566
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      69.84,
+      87.66,
+      610.77,
+      105.72
+    ],
+    "text": "Value Added (Rs. Mn.) Per cent share in GNP Increase over previous '\u2022 Percent share in Sector . . (Rs. hint y e a r f R s . M n 1 Sector . .",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.908724784851074,
+      6.191665172576904,
+      6.626295566558838,
+      7.6254425048828125,
+      7.727884292602539,
+      7.821201324462891
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      225.36,
+      112.38,
+      627.88,
+      121.32
+    ],
+    "text": "1978 1979 \u2022 1980 1978 1979 1980 1978 1979 1980 1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.590316295623779,
+      7.607235431671143,
+      7.608495712280273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      33.6,
+      137.1,
+      630.6,
+      197.4
+    ],
+    "text": "1. Agriculture, Forestry, Hunting and Fishing 4,532 4,622 4,766 26.2 ; 25.1 24.6 233 90 144 17.8 8.4 14.2 1.1 Agriculture . . 4,176 4,239 4,348 24.1 23. i i 22.4 199 63 109 15.2 5.9 10.7 1.1.1 Tea . . (398) (412) (381) (2.3) (2.2): (2.0) -(18) (14) (-31) (-1.4) 0-3) (-3.1) 1.1.2 Rubber : (225) (223) (194) (1.3) (1.2)i (1.0) (12) (-2) (-29) (-0.9) (-0.2) ( -2.9) 1.1.3 Coconut (488) (519) (462) (2.8) _ (2.8), (2.4) (65) (31) (-57) (5.0) (2.9) : (^5.6) 1.1.4 Paddy (1116) (1132), (1267) (6.4) (6.2); (6.5) (126) (16) (135) (9.6) (1.5) (13 ;3) 1.1.5 Other (1949) (1953) (2044) (11.3) (10.6) (10.5) (14) (4) (91) (1-1) (0.5) ( 9 0 )",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7374205589294434,
+      6.112218379974365,
+      7.286385536193848,
+      7.415266036987305,
+      7.49899959564209,
+      7.539709568023682,
+      7.545998573303223,
+      7.5648322105407715,
+      7.573461532592773,
+      7.573906898498535,
+      7.584064483642578,
+      7.5894622802734375,
+      7.590657711029053,
+      7.590999126434326,
+      7.594412803649902,
+      7.594651699066162,
+      7.596904277801514,
+      7.599803447723389,
+      7.602599620819092,
+      7.607473373413086,
+      7.609177112579346,
+      7.623300552368164,
+      7.628670692443848,
+      7.640384197235107,
+      7.642453193664551,
+      7.648758411407471,
+      7.652790546417236,
+      7.656142711639404,
+      7.657395839691162,
+      7.685776233673096,
+      7.722012519836426,
+      7.736935138702393,
+      7.7388105392456055,
+      7.7419586181640625,
+      7.7776665687561035,
+      7.781564712524414,
+      7.7841291427612305,
+      7.821201324462891
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      29.76,
+      202.86,
+      635.07,
+      354.6
+    ],
+    "text": "1.2 Forestry - . ; 155 166 181 0.9 0.9 0.9 12 11 15 0.9 1.0 1.5 1.3 Fishing .'. 201 '217 '237 1.2 1.1 1.2 22 16 20 1.7 1.5 2.0 2. Mining and Quarrying 619 652 684 3.6 3.5 3.5 100 33 32 7.6 3.4 3.1 3. Manufacturing 2,541 2,659 2,681 14.7 14.5 13.8 184 118 22 14.0 10.9 2.2 3.1 Export processing 840 877 791 4.9 4.8 4.1 17 37 -86 1.3 3.4 - 8 . 5 3.2 Factory industry .-. 1,362 1;417 1,488; : 7.9 : 7.7 7.7 135 55 71 10.3 5.1 7.0 3.3 Small and other industry .'. 339 . 365 402 2.0 2.0 2.0 32 26 37 2.4 2.4 3.6 4. Construction 794 960 1,066 4.6 5.2 5.5 175 166 106 13.3 15.4 10.4 5. Electricity, Gas, Water and Sanitary services 158 190 209 0.9 1.6 1.1 27 32 19 2.1 3.0 1.9 6. Transport and Communications 1,607 1,716 1,838 9.3 9.3 9.5 109 109 122 8.3 io.i 12.0 7. Trade\" 3,267 3,551 3,849 18.9 19.3 19.8 268 284 298 20.4 26.3 29:3 7.1 Imports . . 702 864 985 4.1 4.7 5.2 189 162 121 14.4 15.0 11.9 7.2 Exports . . 701 709 709 4.1 3.9 3.7 38 8 2.9 0.7 \u2014 7.3 Domestic _ 1,864 1,978 2,155 10.8 10.8 11.1 41 114 177 3.1 10.6 17.4 8. Banking, Insurance and Real Estate 318 . 350 4C2 1.8 1.9 2.1 23 32 . 52 8.8 3.0 5.1 9. Ownership of Dwellings 499 518 549 2.9 2.8 2.8 24 19 31 1.8 1.8 3.1 10. Public Administration and Defence 854 905 959 4.9 4.9 4.9 63 51 54 4.8 .4.7 5.3 1 1 . Services not elsewhere stated (n.e.s.) 2,212 2,378 2,572 12.8 12.9 13.3 113 116 194 8.6 10.8 19.1",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7374205589294434,
+      6.763017177581787,
+      7.199999809265137,
+      7.337114334106445,
+      7.391773700714111,
+      7.419389247894287,
+      7.430036544799805,
+      7.43226957321167,
+      7.456468105316162,
+      7.501522064208984,
+      7.53623628616333,
+      7.543421745300293,
+      7.560342311859131,
+      7.56085729598999,
+      7.5648322105407715,
+      7.573461532592773,
+      7.580645561218262,
+      7.582799434661865,
+      7.584782123565674,
+      7.5894622802734375,
+      7.59628963470459,
+      7.5995988845825195,
+      7.599803447723389,
+      7.6005539894104,
+      7.602599620819092,
+      7.605838298797607,
+      7.6061787605285645,
+      7.607473373413086,
+      7.607950687408447,
+      7.609177112579346,
+      7.610573768615723,
+      7.614931583404541,
+      7.618947505950928,
+      7.623300552368164,
+      7.628670692443848,
+      7.6323394775390625,
+      7.637058734893799,
+      7.638347625732422,
+      7.640384197235107,
+      7.641842842102051,
+      7.643843173980713,
+      7.650757789611816,
+      7.650859832763672,
+      7.654212474822998,
+      7.655465602874756,
+      7.660339832305908,
+      7.660576343536377,
+      7.6651763916015625,
+      7.666968822479248,
+      7.66916561126709,
+      7.669199466705322,
+      7.669740676879883,
+      7.671835422515869,
+      7.678319454193115,
+      7.6802778244018555,
+      7.686248302459717,
+      7.693259239196777,
+      7.698412895202637,
+      7.699187755584717,
+      7.704672813415527,
+      7.705042839050293,
+      7.705984592437744,
+      7.707128047943115,
+      7.708641052246094,
+      7.710927486419678,
+      7.711129188537598,
+      7.717244625091553,
+      7.721240520477295,
+      7.724227428436279,
+      7.732813358306885,
+      7.733550548553467,
+      7.735527515411377,
+      7.736197471618652,
+      7.737739086151123,
+      7.7395477294921875,
+      7.740284442901611,
+      7.752464294433594,
+      7.754135608673096,
+      7.758012294769287,
+      7.76369047164917,
+      7.769163608551025,
+      7.772632598876953,
+      7.776899814605713,
+      7.778066158294678,
+      7.782230854034424,
+      7.786426067352295,
+      7.791051864624023,
+      7.821201324462891,
+      8.460161209106445,
+      9.0577392578125,
+      9.285987854003906,
+      9.466185569763184,
+      14.295999526977539
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      30.24,
+      361.5,
+      627.15,
+      387.96
+    ],
+    "text": "12. Gross Domestic Product 17,401 18,501 19,575 100.5 100.6 100.9 1,323 1,100 1,074 100.8 102 0 105.7 13. Net factor income from abroad . : - 90 -112 -170 - 0 . 5 -O.6 -0.9 - 11 - 22 - 58 - 0 . 8 - 2 . 0 -5.7 14. Gross National Product 1 7 3 1 18,389 19,405 100.0 100.0 100.0 1,312 1,078 1,016 100.0 100.0 100.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.411874294281006,
+      7.415266036987305,
+      7.439032077789307,
+      7.53623628616333,
+      7.543421745300293,
+      7.572161674499512,
+      7.573461532592773,
+      7.575412750244141,
+      7.579141139984131,
+      7.584782123565674,
+      7.588915824890137,
+      7.590316295623779,
+      7.593798637390137,
+      7.602599620819092,
+      7.607064723968506,
+      7.607235431671143,
+      7.607950687408447,
+      7.608495712280273,
+      7.610573768615723,
+      7.616394996643066,
+      7.618947505950928,
+      7.72117280960083,
+      7.724227428436279,
+      7.732813358306885,
+      7.734924793243408,
+      7.735527515411377,
+      7.7395477294921875,
+      7.755840301513672,
+      7.821201324462891
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      28.08,
+      399.66,
+      85.48,
+      407.64
+    ],
+    "text": "(a) Provisional",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6924848556518555,
+      7.821201324462891
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      497.28,
+      408.54,
+      624.81,
+      416.52
+    ],
+    "text": "Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.821201324462891,
+      8.003246307373047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      243.12,
+      59.51,
+      250.51,
+      69.36
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.366842269897461
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.4,
+      80.39,
+      423.68,
+      147.84
+    ],
+    "text": ". The components of consumption expenditure are: expenditure on imports Rs. 13,60a millionj expenditure on locally produced goods Rs. 39,797 million; and public consumption expenditure Rs. 5,685 million. Thus private consumption expenditure on imports increased by 38 per cent and that on locally produced goods increased by 30 per cent, compared with increases of 29 per cent and 25 per cent respectively in 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.746169090270996,
+      8.77559757232666,
+      8.813831329345703,
+      8.899999618530273,
+      8.915472030639648,
+      8.97696304321289,
+      9.10853099822998,
+      9.17455768585205,
+      9.281978607177734,
+      9.311415672302246,
+      9.337409973144531,
+      9.36066722869873,
+      9.371408462524414,
+      9.476305961608887,
+      9.493175506591797,
+      9.528986930847168,
+      9.55770492553711,
+      9.667874336242676,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.0,
+      165.59,
+      423.32,
+      208.56
+    ],
+    "text": "Gross Domestic* Capital Formation (GDCF) in 1980 at Rs. 24,466 million , is 81 per cent higher than in 1979. Capital formation by the Central Government is estimated at Rs. 7,690 million and that by the private sector and public corporations is estimated at Rs. 16,776 million.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.746169090270996,
+      8.763675689697266,
+      8.777899742126465,
+      8.899999618530273,
+      9.17883014678955,
+      9.288675308227539,
+      9.311415672302246,
+      9.347033500671387,
+      9.421858787536621,
+      9.484452247619629,
+      9.507308006286621,
+      9.530815124511719,
+      9.544975280761719,
+      9.667874336242676,
+      10.008088111877441,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212.88,
+      248.39,
+      272.34,
+      258.24
+    ],
+    "text": "TABLE 1 . 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.391080856323242,
+      9.667874336242676
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      131.04,
+      267.83,
+      355.81,
+      277.68
+    ],
+    "text": "Some Selected items of Imported Investment Goods",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.667874336242676,
+      9.92726993560791,
+      9.995059967041016,
+      10.012084007263184
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      336.48,
+      288.39,
+      422.17,
+      296.25
+    ],
+    "text": "C. I. F. Value Rs. '000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.223565101623535,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      102.96,
+      307.83,
+      405.34,
+      316.89
+    ],
+    "text": ", Item 1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.537611961364746,
+      7.554379940032959,
+      7.555347442626953,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      67.2,
+      340.95,
+      413.29,
+      350.49
+    ],
+    "text": "1.. Buses and coaches 29,231 412,054 421,207",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.521845817565918,
+      7.532896041870117,
+      7.550241470336914,
+      7.563449382781982,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66.24,
+      357.75,
+      413.19,
+      367.05
+    ],
+    "text": "2. Lorries . . . 237,068 317,824 765,460",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.339628219604492,
+      7.542994022369385,
+      7.550241470336914,
+      7.554746627807617,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66.24,
+      374.31,
+      413.11,
+      383.37
+    ],
+    "text": "3.' Chassis fitted with engines 407,482 282,538 235,296",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.286620140075684,
+      7.545132637023926,
+      7.551576614379883,
+      7.554746627807617,
+      7.712574005126953,
+      7.902271270751953,
+      7.9293999671936035
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      66.0,
+      390.63,
+      413.18,
+      399.69
+    ],
+    "text": "4. Tractors .... 350,992 366,214 370,246",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.403975963592529,
+      7.545132637023926,
+      7.550241470336914,
+      7.551576614379883,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.76,
+      407.19,
+      412.87,
+      416.25
+    ],
+    "text": "5. Bulldozers .... 37,772 196,168 512,351",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.366912841796875,
+      7.55117654800415,
+      7.554746627807617,
+      7.5617499351501465,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.76,
+      424.23,
+      412.99,
+      432.81
+    ],
+    "text": "6. , Railway locomotives and accessories 100,343 471,686 300,043",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.545132637023926,
+      7.557248592376709,
+      7.564249038696289,
+      7.712574005126953,
+      7.913713455200195
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.76,
+      441.03,
+      412.52,
+      449.61
+    ],
+    "text": "7. Aircrafts and helicopters-47,721 33,221 3,725",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.510813236236572,
+      7.550274848937988,
+      7.563449382781982,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.28,
+      457.35,
+      413.06,
+      466.17
+    ],
+    "text": "8. Marine propulsion engines and out board engines 63,486 78,208 107,334",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.54342794418335,
+      7.550241470336914,
+      7.554980278015137,
+      7.561283111572266,
+      7.712574005126953,
+      7.9293999671936035
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.52,
+      473.91,
+      412.09,
+      482.49
+    ],
+    "text": "9. Ships, tarjkers, trawlers i\u2022 8,094 5,218 6,721",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.508296012878418,
+      7.616781234741211,
+      7.619527339935303,
+      7.6399102210998535,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      61.2,
+      490.23,
+      412.25,
+      499.29
+    ],
+    "text": "10. Generators 45,979 15,030 117,457",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.380448818206787,
+      7.532896041870117,
+      7.5408549308776855,
+      7.554213047027588,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.96,
+      507.03,
+      412.26,
+      515.85
+    ],
+    "text": "11. 'Lathes, milling machines, boring machines etc. 20,949 39,079 91,659",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.285582065582275,
+      7.554213047027588,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      292.32,
+      526.07,
+      404.89,
+      535.92
+    ],
+    "text": "Source: Customs, Sri Lanka.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.712574005126953,
+      8.638795852661133,
+      9.667874336242676
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.72,
+      563.75,
+      420.96,
+      641.28
+    ],
+    "text": "There was a large increase in imports of investment goods in 1980. According to the Central Bank's Import Volume Index, the volume of investment goods imported is estimated to have increased by 19 per cent. Measured in value terms, imports of machinery and equipment are estimated to have increased by 68 per cent and transport equipment by 131 per cent. A breakdown of investment under each of these categories is given in the Statistical Appendix. Table 1.4 indicates significant increases in imports of invest-",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.77559757232666,
+      8.914006233215332,
+      8.9246187210083,
+      9.151086807250977,
+      9.281978607177734,
+      9.347796440124512,
+      9.372886657714844,
+      9.444446563720703,
+      9.593109130859375,
+      9.667874336242676,
+      9.89398193359375
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      227.52,
+      54.71,
+      234.97,
+      64.56
+    ],
+    "text": "9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.400354385375977
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      46.8,
+      81.11,
+      409.93,
+      136.08
+    ],
+    "text": "ment goods in the last three years. The availability of the lump sum depreciation facility (L.S.D.) was an important influence on the large increase in imports of investment goods. Data on imports of investment goods indicate that there has been a large increase in the capital stock of the manufacturing, transport and construction sectors.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.21384334564209,
+      9.233636856079102,
+      9.281978607177734,
+      9.511639595031738,
+      9.556585311889648,
+      9.626821517944336,
+      9.89398193359375,
+      9.894062042236328,
+      9.896944046020508,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.0,
+      153.11,
+      408.98,
+      219.36
+    ],
+    "text": "There was a large increase in investment in the construction sector in 1980. By far the greater part of this investment was in the public sector. Expenditure on the Accelerated Mahaveli Project amounted to over Rs. 3 billion while the National Housing Development Authority expended over Rs. 1 billion. As in the last two years, there was a high concentration of investment in engineering construction.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.27907657623291,
+      9.371408462524414,
+      9.39306354522705,
+      9.626821517944336,
+      9.894062042236328,
+      9.896944046020508,
+      9.930740356445312,
+      9.990263938903809
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      198.72,
+      262.55,
+      258.84,
+      272.4
+    ],
+    "text": "TABLE 1 . 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.391080856323242,
+      9.626821517944336
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      140.4,
+      280.55,
+      312.36,
+      290.4
+    ],
+    "text": "Import Content of Capital Expenditure",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.626821517944336,
+      9.852907180786133,
+      9.894262313842773
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      348.0,
+      291.03,
+      393.28,
+      298.89
+    ],
+    "text": "Rs. Million",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.558215618133545,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      97.68,
+      310.71,
+      393.28,
+      319.05
+    ],
+    "text": "Item 1 1978 1979 1980",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537611961364746,
+      7.554379940032959,
+      7.555347442626953,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.76,
+      343.83,
+      393.75,
+      352.17
+    ],
+    "text": "1. Gross Domestic Fixed Capital Formation 8,521 13,246 I 22,846",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.778139114379883,
+      7.54342794418335,
+      7.635653018951416,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.28,
+      360.39,
+      393.67,
+      369.27
+    ],
+    "text": "2. Imports of investment goods (c.i.f. value) 3,217 5,091 r , '\u2022 7,531",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.6879382133483887,
+      7.099999904632568,
+      7.339628219604492,
+      7.553145408630371,
+      7.631657600402832,
+      7.679823875427246,
+      7.862236499786377,
+      8.016997337341309
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.76,
+      374.7,
+      345.19,
+      385.77
+    ],
+    "text": "3. Import content : . . . : 37.8 38.4:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.6879382133483887,
+      7.286620140075684,
+      7.443055629730225,
+      7.555981636047363,
+      7.679823875427246,
+      7.87687349319458
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      360.72,
+      376.71,
+      394.6,
+      384.57
+    ],
+    "text": "F 33.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.484999895095825,
+      7.679823875427246
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      293.04,
+      389.06,
+      296.57,
+      396.14
+    ],
+    "text": "!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.341000080108643
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      268.56,
+      403.83,
+      403.73,
+      422.49
+    ],
+    "text": "Sources: Central Bank of Ceylon; Customs, Sri Lanka.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.679823875427246,
+      7.94895601272583
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      49.2,
+      443.75,
+      412.62,
+      476.16
+    ],
+    "text": "Import of investment goods have amounted to over a third Of capital expenditure in the last three years - 1978 to 1980. The ratio of imports to investment fell to one third in 1980. ; ! ; \"",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.772618293762207,
+      8.77559757232666,
+      9.027029991149902,
+      9.281978607177734,
+      9.372591018676758,
+      9.39306354522705,
+      9.445117950439453,
+      9.626821517944336,
+      9.894062042236328,
+      9.896944046020508,
+      9.901984214782715
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      50.88,
+      488.63,
+      297.01,
+      498.48
+    ],
+    "text": "Resources and Uses ' !",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.626821517944336,
+      9.937119483947754,
+      9.972686767578125
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      52.08,
+      510.47,
+      416.77,
+      633.12
+    ],
+    "text": "Total resources available to the Sri Lanka economy consisting of Gross Domestic Product and imports amounted to Rs. 105,866 million which is 38 per cent higher than in 1979. Measured in real terms, total resources available are estimated to have increased by 8.3 per cent as compared with 10.7 per cent in 1979. The smaller increase in resources reflects both the lower rate of growth and the lower volume of imports in 1980. An examination1 of the allocation: of resources shows that in real terms, 59 per cent of resources was spent on consumption and 19 per cent on capital formation while exports absprbed 2r per cent of resources. As compared with 1979, when 61 per cent of resources was expended on consumption and 16 per cent on capital formation, there has been a shift- of resources from consumption to capital formation.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.369387626647949,
+      8.746169090270996,
+      8.75390911102295,
+      8.77559757232666,
+      8.827750205993652,
+      9.011442184448242,
+      9.32119369506836,
+      9.38939380645752,
+      9.456643104553223,
+      9.461457252502441,
+      9.519255638122559,
+      9.530815124511719,
+      9.55770492553711,
+      9.593109130859375,
+      9.596329689025879,
+      9.604703903198242,
+      9.626821517944336,
+      9.851499557495117,
+      9.896944046020508,
+      10.008088111877441,
+      10.051091194152832,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      312.48,
+      107.15,
+      372.7,
+      117.45
+    ],
+    "text": "TABLE 1 . 6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.5997896194458,
+      10.145102500915527
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      215.52,
+      124.91,
+      464.54,
+      135.21
+    ],
+    "text": "Composition and Utilization of Resources 1978 - 1980(a)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.45270824432373,
+      9.842195510864258,
+      10.071045875549316,
+      10.145102500915527
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      106.32,
+      178.47,
+      141.61,
+      186.33
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.720609664916992
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      230.4,
+      153.51,
+      326.42,
+      169.29
+    ],
+    "text": "At Current Market Prices (Rs. Million)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.433771133422852,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      418.56,
+      151.11,
+      597.96,
+      166.89
+    ],
+    "text": "At 1978 Prices Perce lncr",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.433771133422852,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      596.88,
+      150.39,
+      617.43,
+      166.89
+    ],
+    "text": "atage ease",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      106.32,
+      178.47,
+      141.61,
+      186.33
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.720609664916992
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      222.0,
+      194.07,
+      331.07,
+      202.17
+    ],
+    "text": "1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      377.52,
+      183.75,
+      592.65,
+      199.77
+    ],
+    "text": "19 78 1979 1980 1979 over 1978",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      222.0,
+      183.03,
+      639.69,
+      202.17
+    ],
+    "text": "1980 over 1979 1978 1979 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      348.96,
+      201.75,
+      408.43,
+      219.65
+    ],
+    "text": "Amount Rs. Mn.; %",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.646703243255615,
+      7.745185852050781,
+      10.442999839782715
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      419.76,
+      201.51,
+      478.99,
+      219.17
+    ],
+    "text": "Amount Rs. Mn. %",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.646703243255615,
+      7.745185852050781,
+      10.442999839782715
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      489.84,
+      201.03,
+      549.55,
+      218.45
+    ],
+    "text": "Amount Rs. Mn. %",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.646703243255615,
+      7.745185852050781,
+      10.442999839782715
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      555.6,
+      183.75,
+      592.65,
+      199.77
+    ],
+    "text": "1979 over 1978",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      602.64,
+      183.03,
+      639.69,
+      198.57
+    ],
+    "text": "1980 over 1979",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      40.56,
+      224.07,
+      633.75,
+      234.33
+    ],
+    "text": "1. Total Resources . .... 58,285 76,970 105,866 58,285 100 64,546 100 69,887 100 10.7 8.3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.5408549308776855,
+      7.54342794418335,
+      7.545132637023926,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.24,
+      240.39,
+      632.48,
+      250.41
+    ],
+    "text": "1.1 GDP at market prices 42,428 52,147 68,271 42,428 73 45,058 70 47,671 67 6.2 5.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.490483283996582,
+      7.5139336585998535,
+      7.554980278015137,
+      7.563449382781982,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      53.52,
+      256.71,
+      633.47,
+      266.73
+    ],
+    "text": "1.2 iTi^jrts of goo is and services . . . 15,857 24,823 37,595 15,857 27 19,488 30 22,216 33 23.0 14.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.490483283996582,
+      7.5139336585998535,
+      7.54342794418335,
+      7.554980278015137,
+      7.566448211669922,
+      7.745185852050781,
+      7.925743579864502
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      40.56,
+      273.03,
+      633.27,
+      283.05
+    ],
+    "text": "2. Utilization 58,285 76,970 105,866 58,285 100 64,546 100 69,887 100 10.7 8.3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.339628219604492,
+      7.5139336585998535,
+      7.5408549308776855,
+      7.54342794418335,
+      7.545132637023926,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.48,
+      289.83,
+      632.37,
+      298.89
+    ],
+    "text": "2.1 Consumption . . 36,148 45,169 59,084 36,148 62 39,410 61 42,070 59 9.0 6.7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.5408549308776855,
+      7.549574375152588,
+      7.554213047027588,
+      7.554980278015137,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.96,
+      306.15,
+      632.18,
+      315.21
+    ],
+    "text": "2.2 Gross Fixed Capital Formation . . . 8,521 13,246 22,846 8,521 15 10,153 16 12.268 19 19.2 20.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.483615398406982,
+      7.5139336585998535,
+      7.54342794418335,
+      7.554980278015137,
+      7.566448211669922,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76.08,
+      322.71,
+      632.73,
+      331.77
+    ],
+    "text": "2.2.1 Government . . . . . (3,077) (3,809) (6,710) (3,077) (5) (3,569) (6) (4,104) (6) (16) (15.0)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.5418243408203125,
+      7.544063568115234,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76.08,
+      339.51,
+      209.71,
+      347.37
+    ],
+    "text": "2.2.-2 Public Corporations :",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.612643241882324,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76.08,
+      355.59,
+      212.95,
+      363.45
+    ],
+    "text": "2.2.3 Private sector . . . .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      221.28,
+      339.51,
+      254.27,
+      347.37
+    ],
+    "text": "(2,056) \u2022)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.390994071960449,
+      7.544063568115234
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      222.24,
+      355.83,
+      253.8,
+      363.69
+    ],
+    "text": "(3,388) J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.544063568115234
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      267.84,
+      347.43,
+      338.08,
+      355.29
+    ],
+    "text": "(9,437) (16,136)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.544063568115234,
+      7.545566082000732
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      351.84,
+      339.03,
+      378.65,
+      346.89
+    ],
+    "text": "(2,056)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.544063568115234
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      352.08,
+      355.35,
+      383.27,
+      363.21
+    ],
+    "text": "(3,388) ',",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.544063568115234,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.6,
+      340.23,
+      410.37,
+      348.09
+    ],
+    "text": "(4)~l",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.84,
+      356.31,
+      411.16,
+      364.17
+    ],
+    "text": "(6) J",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      425.04,
+      346.95,
+      632.25,
+      355.77
+    ],
+    "text": "(6,584) (10) (8,164) (13) (20.9) (24.0)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.5418243408203125,
+      7.544063568115234
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.44,
+      371.19,
+      186.37,
+      390.09
+    ],
+    "text": "2.3 Stocks. ' 2.4 Exports of goods and services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781,
+      7.925743579864502
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      223.44,
+      371.67,
+      249.46,
+      387.69
+    ],
+    "text": "+ 33 13,583",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.566448211669922,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259.68,
+      371.67,
+      292.32,
+      387.69
+    ],
+    "text": "\u2022 + 281 18,274",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.549574375152588,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      301.68,
+      371.43,
+      336.16,
+      387.69
+    ],
+    "text": "+ 1,620 22,316",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.54342794418335,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      353.28,
+      371.19,
+      405.6,
+      387.69
+    ],
+    "text": "+ 33. 13,583 23",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.5139336585998535,
+      7.566448211669922,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      424.32,
+      371.67,
+      475.44,
+      387.93
+    ],
+    "text": "124 14,983 23",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.566448211669922
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      493.92,
+      371.67,
+      520.06,
+      387.69
+    ],
+    "text": "\u2022 566 14,983",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.566448211669922,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      528.24,
+      371.19,
+      588.88,
+      387.45
+    ],
+    "text": "1 ' 21 10.3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.442276477813721,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.76,
+      405.51,
+      635.11,
+      413.85
+    ],
+    "text": "(a) Provisional Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781,
+      7.9473395347595215
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      229.68,
+      63.01,
+      240.93,
+      72.09
+    ],
+    "text": "11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.793519973754883
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47.52,
+      83.03,
+      410.27,
+      123.12
+    ],
+    "text": "Consumption in real terms increased by 6.7 per cent and capital formation by 25 per cent compared to increases of 9 per cent and 20 per cent, respectively in 1979. The volume of exports in 1980 was the same as in 1979 thus continuing the trend observed in the last few years, when real exports showed little increase.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.746169090270996,
+      8.77559757232666,
+      8.813831329345703,
+      8.828153610229492,
+      8.997543334960938,
+      9.48382568359375,
+      9.54418659210205,
+      9.838828086853027,
+      9.851499557495117,
+      9.85359001159668,
+      9.86628246307373,
+      9.894062042236328,
+      9.986536979675293
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      198.24,
+      129.83,
+      256.7,
+      139.68
+    ],
+    "text": "TABLE 1.7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.295707702636719,
+      9.54418659210205
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      211.2,
+      146.63,
+      245.1,
+      156.48
+    ],
+    "text": "Savings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.54418659210205
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      364.8,
+      158.31,
+      409.56,
+      166.17
+    ],
+    "text": "Rs. Million",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.558215618133545,
+      7.613901615142822
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.0,
+      170.79,
+      298.11,
+      185.13
+    ],
+    "text": "Category (a) 1978",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.555347442626953,
+      7.613901615142822
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      322.56,
+      169.59,
+      348.45,
+      184.41
+    ],
+    "text": "(\u00ab) 1979",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.310896873474121,
+      7.554379940032959
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      373.92,
+      168.37,
+      401.07,
+      184.17
+    ],
+    "text": "(0) 1980",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537611961364746,
+      8.622096061706543
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.6,
+      208.71,
+      399.74,
+      218.01
+    ],
+    "text": "1. O. D. P. at market prices 42,428 52,147 68,271",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.521845817565918,
+      7.528712272644043,
+      7.554980278015137,
+      7.563449382781982,
+      7.613901615142822,
+      7.88096809387207
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.88,
+      226.23,
+      399.86,
+      242.73
+    ],
+    "text": "2. External resources (net imports of goods & services) 2,274 . 6,549 15,279",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.087315082550049,
+      7.339628219604492,
+      7.554213047027588,
+      7.595108509063721,
+      7.613901615142822,
+      7.817193031311035,
+      7.864223480224609,
+      7.877288818359375
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.88,
+      249.75,
+      399.44,
+      259.05
+    ],
+    "text": "3. Investment 8,554 13,527 24,466",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.286620140075684,
+      7.528712272644043,
+      7.54342794418335,
+      7.613901615142822,
+      7.819643497467041
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.16,
+      266.07,
+      398.99,
+      275.37
+    ],
+    "text": "4. Savings ( 3 - 2 ) 6,280 6,978 9,187",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.403975963592529,
+      7.582088470458984,
+      7.613901615142822,
+      7.846190452575684
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.64,
+      290.79,
+      398.63,
+      299.85
+    ],
+    "text": "5. Savings ratio (4 as % of 1) 14.8 13.4 13.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.366912841796875,
+      7.5075907707214355,
+      7.546869277954102,
+      7.555981636047363,
+      7.613901615142822,
+      7.8369011878967285,
+      7.846190452575684
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      46.08,
+      310.95,
+      398.87,
+      319.77
+    ],
+    "text": "(a) Provisional Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.613901615142822,
+      7.840437889099121,
+      7.9473395347595215
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45.84,
+      325.67,
+      407.12,
+      365.76
+    ],
+    "text": "According to present estimates savings amounted to Rs. 9,187 million compared with Rs. 6,978 million in 1979 an increase of 32 per cent. However, the ratio of savings to G D P at 13.5 per cent was nearly the same as in 1979. This is further evidence that despite inflationary pressures, the share of savings has not declined.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.341442108154297,
+      8.745126724243164,
+      8.746169090270996,
+      8.828153610229492,
+      8.883028984069824,
+      9.275618553161621,
+      9.347796440124512,
+      9.469156265258789,
+      9.54418659210205,
+      9.789918899536133,
+      9.801482200622559,
+      9.829001426696777,
+      9.867768287658691,
+      9.885772705078125,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45.36,
+      374.39,
+      123.53,
+      384.24
+    ],
+    "text": "AGRICULTURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.371365547180176
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      44.64,
+      388.79,
+      405.87,
+      509.52
+    ],
+    "text": "The performance of the agricultural sector in 1980, with the exception of the paddy sub-sector, was again below expectations. Agricultural production in 1980 recorded a marginally improved growth rate of 2.9 per cent as against the 2 per cent registered for 1979. The corresponding rates of growth for 1978 and 1977 were 4 per cent and 7 per cent, respectively. If the growth rates for 1979 and 1980 are adjusted for population increases, the resulting per capita growth rates are positively disappointing. The production of the tree crop sub-sector decreased reducing the surpluses available for exports. Tea production in 1980 declined by 7 per cent1 while rubber production declined by 13 per cent. Coconut production declined by 15 per cent. It is likely that the production in the minor export crop sub-sector too would have either declined or remained more or less at the level of performance in 1979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.3404653072357178,
+      8.667064666748047,
+      8.746169090270996,
+      8.81679630279541,
+      8.914006233215332,
+      8.997543334960938,
+      9.269426345825195,
+      9.288887977600098,
+      9.416687965393066,
+      9.494134902954102,
+      9.54418659210205,
+      9.77927303314209,
+      9.804996490478516,
+      9.806854248046875,
+      9.808308601379395,
+      9.809438705444336,
+      9.898103713989258,
+      9.992642402648926,
+      10.051091194152832,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      0.72,
+      512.87,
+      407.27,
+      583.2
+    ],
+    "text": "In the field crop sub-sector, paddy output increased by 11 per cent as against a marginal drop of one per cent in 1979. The minor food crop sub-sector recorded a marginal increase in production. Sugar production recorded an increase of 43 per cent in 1980 reversing the trend observed in the previous year when there was a reduction in output of nearly 25 per cent. Increases were also recorded in fish and livestock sub-sectors. Fish as well as milk production increased \u00bb by 8.8 per cent, while the production of eggs recorded an increase of 26 per cent.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.8781843185424805,
+      8.584324836730957,
+      8.746169090270996,
+      8.77559757232666,
+      9.08061695098877,
+      9.445117950439453,
+      9.54418659210205,
+      9.774372100830078,
+      9.806854248046875,
+      9.86628246307373,
+      9.896944046020508
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43.92,
+      588.23,
+      403.41,
+      629.04
+    ],
+    "text": "The continued disappointing performance of the agricultural sector as a whole for several years, should be viewed with concern. The failure of South-West monsoonal rains had been a factor that affected the production of coconut and tea. However, as stressed in the Annual Report for 1979, the uneven performance",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.746169090270996,
+      9.27967357635498,
+      9.374873161315918,
+      9.437105178833008,
+      9.4993896484375,
+      9.54418659210205,
+      9.773358345031738,
+      9.809438705444336,
+      9.923638343811035,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      43.92,
+      633.49,
+      403.78,
+      658.89
+    ],
+    "text": "!\u2022 The exports of tea declined by less than 2 per cent in 1980. The tea export volumes recorded in the Customs in recent years, have been much more than what could have been possibly exported, given the reported production, estimated consumption and.changes in stocks.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.896390914916992,
+      8.199999809265137,
+      8.280132293701172,
+      8.283461570739746,
+      8.328350067138672,
+      8.333233833312988,
+      8.381948471069336,
+      8.38431453704834,
+      8.394613265991211,
+      8.399578094482422,
+      8.429464340209961,
+      8.446040153503418,
+      8.446796417236328,
+      8.458291053771973,
+      8.468221664428711,
+      8.473698616027832,
+      8.475841522216797,
+      8.477943420410156,
+      8.503047943115234,
+      8.510359764099121,
+      8.512650489807129,
+      8.514229774475098,
+      8.528472900390625,
+      8.529695510864258,
+      8.544148445129395,
+      8.545879364013672,
+      8.552721977233887,
+      8.552957534790039,
+      8.714057922363281,
+      8.793519973754883
+    ]
+  }
+]

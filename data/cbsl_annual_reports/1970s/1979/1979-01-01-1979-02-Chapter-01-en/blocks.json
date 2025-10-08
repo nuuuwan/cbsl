@@ -1,0 +1,4767 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      7.2,
+      106.44,
+      13.61,
+      113.15
+    ],
+    "text": "-\u00bb",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.0059709548950195
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.0,
+      268.03,
+      256.91,
+      280.32
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.442480087280273,
+      11.736065864562988
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      174.96,
+      80.96,
+      322.01,
+      90.7
+    ],
+    "text": "WEIGHTS AND MEASURES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.828728675842285,
+      8.833552360534668,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      198.96,
+      103.04,
+      286.38,
+      112.78
+    ],
+    "text": "Conversion Factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.44039535522461,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.84,
+      143.6,
+      218.09,
+      153.34
+    ],
+    "text": "British to Metric Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.136630058288574,
+      9.268158912658691,
+      9.300896644592285,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.28,
+      163.52,
+      356.33,
+      173.74
+    ],
+    "text": "i acre ... 0.405 hectares (ha)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      8.89784049987793,
+      9.194252967834473,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.52,
+      183.92,
+      377.69,
+      193.9
+    ],
+    "text": "i pound (lb) ... 0.454 kilogrammes (kgs)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.033533096313477,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.52,
+      203.84,
+      390.89,
+      214.06
+    ],
+    "text": "I long ton (2240 lbs) 1.016 metric tons (mt. ton)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.269518852233887,
+      8.733617782592773,
+      8.964345932006836,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.28,
+      224.0,
+      321.36,
+      234.22
+    ],
+    "text": "1 hundred weight (cwt) ... 50.802 kgs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.055452346801758,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.76,
+      244.16,
+      372.17,
+      254.62
+    ],
+    "text": "1 mile 1.609 kilometres (kms)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.016501426696777,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.76,
+      261.77,
+      349.56,
+      275.5
+    ],
+    "text": "1 long ton mile ... 1.635 mt -ton kms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.0799999237060547,
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.76,
+      284.48,
+      326.64,
+      294.94
+    ],
+    "text": "1 lb/acre ... 1.121 kgs/ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.515881538391113,
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.0,
+      304.64,
+      317.04,
+      314.86
+    ],
+    "text": "1 bushel (of paddy) (46 lbs) ... 20.87 kgs.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.043171882629395,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.0,
+      324.8,
+      339.84,
+      335.26
+    ],
+    "text": "1 cwt/acre ... 125.536 kgs./ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.615509986877441,
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.0,
+      344.96,
+      366.48,
+      355.42
+    ],
+    "text": "i bushel paddy/acre ... 51.570 kgs. paddy/ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.53903865814209,
+      8.800000190734863,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.24,
+      364.64,
+      316.18,
+      375.34
+    ],
+    "text": "1 pint ... 0.57 litres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.48,
+      385.28,
+      316.66,
+      395.74
+    ],
+    "text": "1 imperial gallon ... 4.55 litres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.28,
+      435.92,
+      217.61,
+      445.66
+    ],
+    "text": "Metric to British Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.136630058288574,
+      9.268158912658691,
+      9.300896644592285,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.72,
+      455.84,
+      322.56,
+      466.54
+    ],
+    "text": "1 hectare = 2.471 acres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      8.755447387695312,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.72,
+      476.0,
+      313.68,
+      486.46
+    ],
+    "text": "1 kilogramme = 2.205 lbs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      9.034733772277832,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.48,
+      495.92,
+      338.57,
+      506.62
+    ],
+    "text": "1 mt. ton (1000 kgs) = 0.984 long ton",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      8.921481132507324,
+      9.171863555908203,
+      9.363713264465332,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.48,
+      515.84,
+      316.52,
+      526.54
+    ],
+    "text": "1 metre c= 3.281 feet",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.266210556030273,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.72,
+      536.0,
+      320.8,
+      546.94
+    ],
+    "text": "1 kilometre - 0.621 mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800000190734863,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.48,
+      556.16,
+      362.58,
+      566.86
+    ],
+    "text": "1 mt. ton kilometre = 0.612 long ton mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      8.814288139343262,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.48,
+      575.84,
+      409.92,
+      586.78
+    ],
+    "text": "1 litre = 1.76 pints = 0.219 imp. gallons",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      8.812223434448242,
+      9.444249153137207,
+      9.5996675491333,
+      9.824402809143066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      102.0,
+      596.0,
+      332.1,
+      606.94
+    ],
+    "text": "1 kg/ha = 0.892 lb/acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.122834205627441,
+      9.152719497680664,
+      9.444249153137207,
+      9.5996675491333
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.08,
+      111.14,
+      421.05,
+      124.53
+    ],
+    "text": "ECONOMIC PERFORMANCE, PROBLEMS AND POLICIES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.580392837524414,
+      12.695547103881836,
+      12.7772798538208,
+      12.811495780944824,
+      13.088150978088379
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      214.32,
+      129.38,
+      262.78,
+      142.77
+    ],
+    "text": "IN 1979",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.039348602294922,
+      13.088150978088379
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.36,
+      162.08,
+      143.92,
+      171.82
+    ],
+    "text": "INTRODUCTION",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.78665828704834
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.6,
+      182.96,
+      419.33,
+      291.1
+    ],
+    "text": "The Sri Lanka economy recorded a growth rate of 6.2 per cent in 197.9, a rate unsurpassed during the last decade, except in 1978. This achievement, though lower than the impressive growth of B.2 -per cent in the previous year, was an indication that the growth impulses which were generated by the major economic reforms since 1977 have been sustained. Moreover, as in the previous year, economic growth was characterized by progress on a broader front, led lay construction, mining, \u2022electricity, finance, trade and services. Capital formation rose by 25 per cent, reflecting higher investment in the public and private sectors during 1979. Consumption too rose by 12 per cent. Domestic savings indicated a slight downward trend, but when acco.unt.is taken of a higher build up of inventor\u00adies, the savings ratio could have remained at about the previous year's level.",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.41976547241211,
+      8.726431846618652,
+      8.755889892578125,
+      9.258001327514648,
+      9.268659591674805,
+      9.294650077819824,
+      9.350057601928711,
+      9.518654823303223,
+      9.747246742248535,
+      9.773627281188965,
+      9.817779541015625,
+      9.838305473327637,
+      9.879935264587402,
+      9.951473236083984,
+      9.994452476501465,
+      10.066946029663086,
+      10.095176696777344
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.84,
+      310.4,
+      419.04,
+      400.78
+    ],
+    "text": "The relative moderation in the .rate of economic expansion in 1979, when compared *vith the previous year, was largely due -to a sluggishness observed -in the agricultural sector, which grew by only 2 per cent in 1979, as against a growth of 5 per cent in the year before. Further, the rates of growth of construction, mining and power-tfhe high growth sectors of 1978-slowed down somewhat in 1979, on account of capacity and resource constraints that emerged during the latter half of the year. Moreover, the economic spurt of 1978 was achieved in relation to a low level of economic activity and capacity utilization in 1977 and hence, it would not be realistic to expect that such a high growth rate to be sustained in the following year.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.726431846618652,
+      8.755889892578125,
+      9.0258150100708,
+      9.258001327514648,
+      9.267783164978027,
+      9.314873695373535,
+      9.346951484680176,
+      9.394510269165039,
+      9.465544700622559,
+      9.518654823303223,
+      9.743392944335938,
+      9.751694679260254,
+      9.754156112670898,
+      9.860909461975098,
+      9.907917022705078,
+      9.936559677124023,
+      9.949333190917969,
+      9.994452476501465,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.84,
+      412.88,
+      418.43,
+      540.7
+    ],
+    "text": "Sri Lanka's terras of trade deteriorated sharply in 1979, by 28 per cent. A 52 per cent rise in import prices obliterated a 9 per cent improvement in export prices. On the other hand, import volumes in .1979 rose by 23 per cent, while export volumes gained a .meagre 1 per cent. As a result, She .trade gap widened, almost quadrupling the deficit of 1.978. But, this was partly due to a pre-planned higher recourse to foreign resources, as a part of the country's medium-term economic strategy. As a result, and despite substantial improvement in inflows on services and transfers, the current account of the balance of payments recorded an unprece\u00addented deficit, more than twice that of the previous year. Yet, large scale capital inflows and resources from the International Monetary Fund resulted in a modest overall surplus, which went on to augment external assets. Sri Lanka's gross external assets at the end of 19.79 would fee adequate to finance about thtegTaad-half months' imports projected for 1980.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.511696815490723,
+      8.755889892578125,
+      9.205784797668457,
+      9.258001327514648,
+      9.350264549255371,
+      9.439001083374023,
+      9.518654823303223,
+      9.753480911254883,
+      9.754949569702148,
+      9.768990516662598,
+      9.776360511779785,
+      9.783526420593262,
+      9.806928634643555,
+      9.808152198791504,
+      9.80957317352295,
+      9.835708618164062,
+      9.874799728393555,
+      9.879935264587402,
+      9.933753967285156,
+      9.951473236083984,
+      9.988872528076172,
+      10.066946029663086,
+      10.603324890136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.84,
+      560.0,
+      418.58,
+      650.38
+    ],
+    "text": "The fiscal operations of T 9 7 9 -were characterized by the emergence of a modest current account surplus, largely on account of a 9 per cent growth in revenue and a 3 per cent growth in current expenditure. But, a 35 per cent rise in capital expenditure made the budget deficit 23 percent higher than in J978. Despite foreign resources at last year's levels and much greater domestic resource mobilization, a disconcertingly high financing gap emerged, which had to be met by expansionary bank borrowing. This, along with the substantial growth of external assets, caused a growth in money supply of nearly 29 percent during the year, reversing the moderating trend observed last year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.375915050506592,
+      8.726431846618652,
+      8.755889892578125,
+      8.911798477172852,
+      9.405261993408203,
+      9.467426300048828,
+      9.513040542602539,
+      9.518654823303223,
+      9.770061492919922,
+      9.776360511779785,
+      9.810717582702637,
+      9.835708618164062,
+      9.838305473327637,
+      9.951473236083984
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      74.24,
+      419.39,
+      192.22
+    ],
+    "text": "Reacting to pressures emanating from these sectors, and following the upward revision of certain government-administered prices, inflationary pressures appear to have accelerated, especially during the latter part of the year. Money wages in 1979 rose faster than in the previous year, but with inflation in the region of 2Q per cent, real.wages outside the agricultural sector could have declined. However, there were encouraging signs that the rate of unemployment had declined to about 15 per cent of the workforce in late 1978 (from 24 per cent in 1973). The major improvement appears to have occurred in the estate sector, where the unemployment has halved between 1973 and 1978. Rural unemployment has declined by 37 per cent and that in urban areas, by 34 per cent. Nevertheless, the bulk of the unemployed was in the rural sector. A sharp decline in unemployment was observed among the youth, 14 to 25 years of age.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.30931568145752,
+      8.453269004821777,
+      8.480205535888672,
+      8.511696815490723,
+      8.567919731140137,
+      8.603772163391113,
+      8.726431846618652,
+      9.267783164978027,
+      9.273588180541992,
+      9.285146713256836,
+      9.290566444396973,
+      9.384035110473633,
+      9.473313331604004,
+      9.518654823303223,
+      9.740729331970215,
+      9.74236011505127,
+      9.74530029296875,
+      9.751852989196777,
+      9.754156112670898,
+      9.772993087768555,
+      9.805071830749512,
+      9.826058387756348,
+      9.829564094543457,
+      9.841178894042969,
+      9.864639282226562,
+      9.933753967285156,
+      9.949333190917969,
+      9.951473236083984,
+      9.975529670715332,
+      9.994452476501465,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      204.8,
+      419.51,
+      283.42
+    ],
+    "text": "The Gross National Product at current prices rose by 22 per cent in 1979, compared with a growth of 16 per cent in the previous year. When deflated for price changes, the real growth in the national product in 1979 was 6.2 per cent. Allowing for a population growth of 2 per cent, the real product per capita grew by 4.2 per cent, compared with 6.3 per cent during the previous year. The national product per capita at current market prices rose by 20 per cent from Rs.2,827 (US dollars 181) in 1978 to Rs. 3,378 (US dollars 217) in 1979. Details are given in the following table, and a longer series is given in the Statistical Appendix.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.348134994506836,
+      8.41976547241211,
+      8.430060386657715,
+      8.511696815490723,
+      8.579887390136719,
+      8.603772163391113,
+      8.920570373535156,
+      9.056137084960938,
+      9.109424591064453,
+      9.267783164978027,
+      9.278471946716309,
+      9.285146713256836,
+      9.386098861694336,
+      9.465544700622559,
+      9.493972778320312,
+      9.518654823303223,
+      9.768158912658691,
+      9.776360511779785,
+      9.777786254882812,
+      9.796064376831055
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.24,
+      295.04,
+      277.2,
+      304.78
+    ],
+    "text": "TABLE 1 . 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.338247299194336,
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      154.32,
+      311.36,
+      335.64,
+      321.1
+    ],
+    "text": "National Income Statistics 1977-1979 (a)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.518654823303223,
+      9.768793106079102,
+      9.835590362548828,
+      10.020569801330566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.4,
+      343.44,
+      145.86,
+      350.3
+    ],
+    "text": "Item",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.619585037231445
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      128.4,
+      335.04,
+      400.27,
+      350.3
+    ],
+    "text": "A m o u n t R s . million G r o w t h rates ( % ) Item",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.463540554046631,
+      6.477056503295898,
+      6.514102458953857,
+      6.619585037231445,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      225.6,
+      351.12,
+      410.0,
+      358.94
+    ],
+    "text": "1977 1978 1979 1977 1978 1979",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.44627046585083,
+      6.449460506439209,
+      6.479578018188477
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      375.6,
+      409.37,
+      383.18
+    ],
+    "text": "I. G D P at current factor cost prices 34,933 40,335 49,125 2 2 . 6 1 5 . 5 2 1 . 8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.3943915367126465,
+      6.450264930725098,
+      6.462916374206543,
+      6.484618663787842,
+      6.486900806427002,
+      6.492083549499512,
+      6.496108531951904,
+      6.530927658081055,
+      6.684220790863037,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.24,
+      391.92,
+      409.41,
+      407.42
+    ],
+    "text": "2 , G D P at constant (1970) factor cost prices 16,078 17,401 18,501 4 . 2 8 . 2 6 . 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.224997520446777,
+      6.327250957489014,
+      6.3943915367126465,
+      6.454316139221191,
+      6.469811916351318,
+      6.492083549499512,
+      6.501343727111816,
+      6.530927658081055,
+      6.610635757446289,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.48,
+      415.68,
+      409.23,
+      423.5
+    ],
+    "text": "3: G N P at current factor cost prices 34,681 40,098 48,885 2 2 . 9 1 5 . 6 2 1 . 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.3943915367126465,
+      6.422104358673096,
+      6.450264930725098,
+      6.451278209686279,
+      6.462916374206543,
+      6.469811916351318,
+      6.492083549499512,
+      6.501343727111816,
+      6.530927658081055,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      432.48,
+      409.53,
+      447.98
+    ],
+    "text": "4] G N P at constant (1970) factor cost prices 15,999 17,311 18,389 4 . 3 8 . 2 6 . 2",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.327250957489014,
+      6.3943915367126465,
+      6.443288326263428,
+      6.492083549499512,
+      6.501343727111816,
+      6.530927658081055,
+      6.549178123474121,
+      6.610635757446289,
+      6.6343183517456055,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.0,
+      456.24,
+      409.27,
+      464.06
+    ],
+    "text": "5. Mid-year p o p u l a t i o n (million) 1 3 . 9 1 4 . 2 . 1 4 . 5 1.6 1.8 2 . 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.320807933807373,
+      6.392317295074463,
+      6.451278209686279,
+      6.472812175750732,
+      6.484618663787842,
+      6.498652458190918,
+      6.502762317657471,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.48,
+      472.56,
+      153.55,
+      479.42
+    ],
+    "text": "6\". . G N P per capita ( R s ! )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.5189690589904785,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.88,
+      480.72,
+      163.37,
+      495.5
+    ],
+    "text": "(a) at current prices ( b ) .at constant prices .-.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.185319423675537,
+      6.345147609710693,
+      6.530927658081055,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222.96,
+      480.24,
+      243.21,
+      495.02
+    ],
+    "text": "2,489 1,148",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.481091022491455,
+      6.682064056396484
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      257.04,
+      480.24,
+      277.47,
+      495.26
+    ],
+    "text": "2,827 1,220",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.484322547912598,
+      6.630406379699707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      291.6,
+      480.48,
+      311.35,
+      495.5
+    ],
+    "text": "3,378 1,271",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.547328948974609,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323.76,
+      480.48,
+      340.95,
+      495.5
+    ],
+    "text": "2 1 . 0 2 . 6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431674480438232,
+      6.531546115875244
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      358.32,
+      480.96,
+      375.19,
+      495.74
+    ],
+    "text": "1 3 . 6 6 . 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.450264930725098,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.64,
+      481.2,
+      409.7,
+      496.22
+    ],
+    "text": "1 9 . 5 4 . 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.454316139221191,
+      6.484618663787842
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      511.68,
+      410.59,
+      518.54
+    ],
+    "text": "(a) Provisional ' Source: Central Bank o f C e y l o n .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.3838324546813965,
+      6.431734085083008,
+      6.449966907501221,
+      6.530369281768799,
+      6.706325054168701
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      527.6,
+      420.61,
+      645.58
+    ],
+    "text": "\u2022 \u2022 The agricultural sector which accounted for 18 per cent of .the economic growth achieved in 1978, contributed only 8 per cent of the growth in 1979. The trade sector which contributed to 20 per cent of the growth in 1978, increased its share to 26 per cent in 1979, largely on account of expanding trade in imported and domestic goods. The construction and mining sectors' share has declined from 21 per cent to 18 per cent in 1979. The contribution of the manufacturing sector declined from 14 to 11 per cent, on account of a slower rate of growth; while that of finance, administration and other services accounted for a higher share of growth, from 15 per cent to 23 per cent in 1979. Thus, the sectors that contributed most to economic growth in 1979 appeared to be those concerned with trade, finance and services, whose growth could be directly associated with the liberalization of the economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.41976547241211,
+      8.480205535888672,
+      8.53187084197998,
+      8.726431846618652,
+      8.750890731811523,
+      8.800000190734863,
+      9.161979675292969,
+      9.258001327514648,
+      9.261054039001465,
+      9.440641403198242,
+      9.459939002990723,
+      9.460880279541016,
+      9.471596717834473,
+      9.491321563720703,
+      9.518654823303223,
+      9.754156112670898,
+      9.808073043823242,
+      9.830037117004395,
+      9.879935264587402,
+      9.994452476501465,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      246.0,
+      51.74,
+      253.76,
+      61.7
+    ],
+    "text": "3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      144.96,
+      93.26,
+      351.49,
+      107.9
+    ],
+    "text": "GROSS NATIONAL PRODUCT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.914233207702637,
+      12.358515739440918
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.36,
+      130.5,
+      182.73,
+      157.34
+    ],
+    "text": "MILLIONS OF RUPEES 50000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.320777893066406
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      69.12,
+      171.3,
+      118.55,
+      184.7
+    ],
+    "text": "40000 h",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.88,
+      199.38,
+      100.32,
+      212.78
+    ],
+    "text": "30000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.88,
+      227.46,
+      119.03,
+      240.86
+    ],
+    "text": "20000 h",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.16,
+      255.54,
+      99.79,
+      268.94
+    ],
+    "text": "10000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.76,
+      130.98,
+      432.33,
+      158.87
+    ],
+    "text": "MILLIONS OF RUPEES 50000 I II I\" I- I r\u2014",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.839999675750732,
+      8.100000381469727,
+      8.150092124938965,
+      9.651424407958984,
+      10.800000190734863,
+      11.320777893066406
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232.32,
+      163.14,
+      373.97,
+      176.54
+    ],
+    "text": "G.N.P >",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.76,
+      198.74,
+      118.0,
+      208.79
+    ],
+    "text": "\u2014",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.490583419799805
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.2,
+      188.65,
+      353.88,
+      198.71
+    ],
+    "text": "CURRENT PRICES >^",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.76,
+      195.02,
+      392.76,
+      241.98
+    ],
+    "text": "_ -",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.358515739440918,
+      22.287778854370117
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.52,
+      255.13,
+      205.15,
+      265.19
+    ],
+    "text": "I. I I",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.839999675750732,
+      8.150092124938965,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.76,
+      231.85,
+      372.84,
+      241.91
+    ],
+    "text": "CONSTANT(1970)PRICES ^",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      232.56,
+      251.22,
+      364.84,
+      264.62
+    ],
+    "text": "i i i i i",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.651424407958984,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      400.56,
+      173.94,
+      432.76,
+      187.34
+    ],
+    "text": "40000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      401.04,
+      202.5,
+      432.29,
+      215.9
+    ],
+    "text": "30000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      383.52,
+      231.06,
+      432.2,
+      244.51
+    ],
+    "text": "M .20000",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.68,
+      273.06,
+      120.39,
+      340.7
+    ],
+    "text": "PERCENT 40 30 2 0 1 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.4,
+      341.22,
+      76.51,
+      354.62
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      296.58,
+      204.75,
+      309.98
+    ],
+    "text": "GROWTH RATE'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      294.72,
+      259.38,
+      431.71,
+      372.14
+    ],
+    "text": "10000 PERCENT 40 30 20 10 0 POPULATION IN MILLIONS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.6,
+      372.42,
+      430.56,
+      481.58
+    ],
+    "text": "15-0 14-5 1 4 0 13-5 13-0 12-5 12-0 1970 71 '72 '73 '74 '75 '76 '77 '78 '79",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.04,
+      378.42,
+      238.91,
+      406.46
+    ],
+    "text": "POPULATION & PER CAPITA INCOME",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      12.868565559387207
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.44,
+      359.7,
+      220.41,
+      467.66
+    ],
+    "text": "PER CAPITA INCOME IN RUPEES 3500 3000 2500 2000 1500 1000 500",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.800000190734863,
+      11.320777893066406
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      283.2,
+      375.74,
+      363.49,
+      396.23
+    ],
+    "text": "\u2014r- 1 r CURRENT PRICES",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      132.96,
+      417.38,
+      194.41,
+      427.43
+    ],
+    "text": "POPULATIONS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      149.52,
+      427.15,
+      383.49,
+      447.08
+    ],
+    "text": "o0 o o o o o o o CONSTANT (1970)PPX\u00a3S\"-*.\u201e _ e o a e o \u2014 \u00a9 \u2014 * ~",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.852532148361206,
+      8.100000381469727,
+      8.150092124938965,
+      9.651424407958984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      61.2,
+      532.16,
+      431.76,
+      539.16
+    ],
+    "text": "Dept. of Economic Research Source: Central Bank of Ceylon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.323349952697754,
+      6.337750434875488,
+      6.385712146759033,
+      6.46220064163208,
+      6.541521072387695
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221.76,
+      47.76,
+      227.85,
+      57.83
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.118000030517578
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      137.52,
+      106.46,
+      327.25,
+      138.14
+    ],
+    "text": "GROSS DOMESTIC PRODUCT BY INDUSTRIAL ORIGIN",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.789999961853027,
+      11.914233207702637,
+      12.358515739440918
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      139.44,
+      145.68,
+      326.56,
+      152.54
+    ],
+    "text": "A t C O N S T A N T {imy, F A C T O R C O S T PRICES",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.353109359741211,
+      6.53001594543457
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      46.08,
+      212.52,
+      162.28,
+      238.39
+    ],
+    "text": "MILLIONS OF RUPEES 500Q T",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.282610893249512,
+      9.899999618530273,
+      11.271645545959473
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      291.6,
+      211.8,
+      407.89,
+      236.33
+    ],
+    "text": "MILLIONS OF RUPEES 5Q0O",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273,
+      11.271645545959473
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.44,
+      545.16,
+      350.05,
+      557.45
+    ],
+    "text": "1970 '71 '72 '73 '74 '75 '76 '77 '78",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.899999618530273,
+      11.271645545959473
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      47.04,
+      610.32,
+      416.14,
+      617.66
+    ],
+    "text": "Dept. of Economic Research Source: Central Bank of Ceylon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.353109359741211,
+      6.578839302062988,
+      6.6862335205078125
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      224.64,
+      51.2,
+      230.84,
+      60.94
+    ],
+    "text": "5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.531916618347168
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.16,
+      71.6,
+      417.57,
+      130.54
+    ],
+    "text": "In 1979, agriculture suffered a partial setback on account* of unfavourable weather.. Nevertheless,, the desired' higher level of output in agriculture will require a further orientation 'of policies, in favour of this sector. Similarly, the manufacturing sector, which has fared unevenly,'would require a basic re-exami\u00adnation of priorities, and the potential for developing those industries, where the country has a clear advantage.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      9.281685829162598,
+      9.477890014648438,
+      9.70125675201416,
+      9.707401275634766,
+      9.718085289001465,
+      9.7193603515625,
+      9.723979949951172,
+      9.812020301818848,
+      9.874799728393555,
+      9.882521629333496
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.4,
+      144.56,
+      420.13,
+      376.06
+    ],
+    "text": "More than two thirds of the investment has occurred in the public sector, and that too largely on the development of infrastructure with long gestation periods',, such as- in the case of river diversion schemes. Hence, a higher rate of growth in agriculture and industry could be achieved only by a judicious allocation of public investment between long-term and quick-yielding projects, and by inducing the private sector to invest in short gestation projects by appropriate policy changes. In this: connection, the Government made encouraging policy changes with regard to export taxation in tea and coconut, and domestic pricing and subsidies on rice,. flourt sugar and. coconut during rg7g. All these measures were aimed at improving the producer margins at the expense of the consumer, and they were difficult deci\u00adsions in the context of long-standing protection, of consumers in the country, and the substantial' sacrifice of government revenue these measures, entailed. Nevertheless,, the adequacy of policy measures to- assist these sectors would be a major concern during the forthcoming year. Last year* the Annual Report spotlighted the long\u00adstanding conflict between the need to* assure remunerative margins' to the producer' while ensuring what were deemed to be \"reasonable\"' prices to: the consumer, and stressed the urgent need for a trade-off between the conflicting interests of consumers and producers, in favour of the. latter,, if the country was, to achieve the desired rate of economic growth. It is hardly necessary to emphasize that, in a free economy, where the private sector is expected to contribute the major share of economic growth, a positive response in the important areas. of agriculture and industry will be difficult to achieve unless the deliberate subsidi\u00adzation of consumers' at the expense of producers is. diminatecT.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.303018093109131,
+      3.4140655994415283,
+      8.531916618347168,
+      9.215032577514648,
+      9.258001327514648,
+      9.261054039001465,
+      9.285438537597656,
+      9.286272048950195,
+      9.322103500366211,
+      9.338289260864258,
+      9.43719482421875,
+      9.477890014648438,
+      9.700339317321777,
+      9.705526351928711,
+      9.708876609802246,
+      9.709235191345215,
+      9.711349487304688,
+      9.713781356811523,
+      9.714099884033203,
+      9.718085289001465,
+      9.718323707580566,
+      9.719161033630371,
+      9.721351623535156,
+      9.722467422485352,
+      9.722865104675293,
+      9.725533485412598,
+      9.74236011505127,
+      9.749709129333496,
+      9.754473686218262,
+      9.754870414733887,
+      9.756974220275879,
+      9.772993087768555,
+      9.792229652404785,
+      9.811152458190918,
+      9.812690734863281,
+      9.816438674926758,
+      9.830037117004395,
+      9.840115547180176,
+      9.861302375793457,
+      9.951473236083984,
+      9.963916778564453,
+      9.994452476501465,
+      10.066946029663086,
+      10.073790550231934
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.64,
+      389.12,
+      419.01,
+      585.82
+    ],
+    "text": "The performance of the agriculture sector in 1979 was uneven,, as it was in the previous year.. Tea and paddy production has, been estimated to have increased marginally. In the case of paddy, a record Maha season crop more than compensa\u00adted a decline during the drought-stricken Yala season, and last year's record appears, to; have, been exceeded. In the case of tea, production rose by 4 per cent despite adverse prices; and a decline in fertilizer use. The stable, conditions that prevailed in the industry after the extensive administrative reorganization of the previous year, probably contributed to this improvement. Rubber production declined by 2 per cent,, despite a remarkable improvement in prices. Coconut production was higher by 8 per cent, compared with, a 21 per cent growth in the previous year. Yet, production was well' below the average levels achieved in the early seventies. While some minor export crops, fared better, there was a decline, in others. Minor food crops continued to fare badly, probably on account of liberal supplies of subsidized wheat flour and other imports for buffer stocks,, such as onions, and chillies,, with a view to keeping domestic prices stable. Cane sugar production dropped sharply,, and so did milk production. Fish and egg. production has; been estimated: to have improved. Generally speaking,, this uneven perfor\u00admance of the agricultural sector as: a whole appeared to be the result of the lack of adequate incentives for production on account of various policies adbpted, primarily with ai view to containing sharp increases in the cost of living.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      9.029289245605469,
+      9.236437797546387,
+      9.279683113098145,
+      9.311007499694824,
+      9.334307670593262,
+      9.363630294799805,
+      9.372309684753418,
+      9.402956008911133,
+      9.435102462768555,
+      9.440641403198242,
+      9.477890014648438,
+      9.700818061828613,
+      9.704728126525879,
+      9.70807933807373,
+      9.708876609802246,
+      9.718085289001465,
+      9.722308158874512,
+      9.725533485412598,
+      9.739179611206055,
+      9.74764347076416,
+      9.754156112670898,
+      9.756974220275879,
+      9.799620628356934,
+      9.803887367248535,
+      9.829564094543457,
+      9.838305473327637,
+      9.841178894042969,
+      9.874799728393555,
+      9.951473236083984,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.32,
+      602.48,
+      420.51,
+      642.46
+    ],
+    "text": "On the other hand, developments in the field of agrarian reform appeared to reverse past trends. The enactment o\u00a3 the Agrarian Services Act in 19793 seemed to strengthen the rights, of landlords vis-a-vis. tenants and to superimpose a bureaucracy/ on the agrarian structure. Agricultural",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      9.477890014648438,
+      9.719280242919922,
+      9.753480911254883,
+      9.759196281433105,
+      9.78954029083252,
+      9.807717323303223,
+      9.819672584533691,
+      9.84003734588623,
+      9.92076587677002
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      58.32,
+      71.57,
+      417.27,
+      101.81
+    ],
+    "text": "credit dwindled to lowest levels since 1973, the year when the Comprehensive Rural Credit Scheme was introduced, following an overreaction to the high.rate of defaults arising from inadequately considered credit expansion during Maha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.530152320861816,
+      8.873690605163574,
+      9.424454689025879,
+      9.673432350158691,
+      9.95217227935791
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      58.56,
+      101.81,
+      417.5,
+      132.05
+    ],
+    "text": "1977/7&- The Agricultural Insurance Fund was exhausted after meeting the enormous indemnities arising from the cyclone of 1978, and thereafter, agricultural insurance facilities were not available to farmers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.2849843502044678,
+      8.623517036437988,
+      9.385669708251953,
+      9.388669967651367,
+      9.673432350158691,
+      9.912236213684082,
+      9.919041633605957,
+      9.969340324401855
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      59.04,
+      142.13,
+      418.35,
+      202.61
+    ],
+    "text": "On the positive side, the government insulated farmers from rising prices of fertilizer by enhancing the subsidy substantially. Further, replanting subsidies were increased, but rather conservatively, because these subsidies did not take into account the loss of income to the producer in the period between replanting and coming into bearing of the crop. Moreover, export taxation was further reduced, and in some instances, completely eliminated.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.394621849060059,
+      9.50590705871582,
+      9.598278999328613,
+      9.641277313232422,
+      9.673432350158691,
+      9.907012939453125,
+      9.911776542663574,
+      9.915410041809082,
+      9.97789192199707,
+      10.010455131530762,
+      10.075430870056152,
+      10.125810623168945
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      59.04,
+      212.69,
+      418.11,
+      313.49
+    ],
+    "text": "The performance of the manufacturing sector in 1979 indicated a sharp decline in the rate of growth achieved in the previous year. It would appear that two major sub-sectors-the Fabricated metal products and machinery sector and the Chemicals and petroleum sector\u2014suffered a notable decline in 1979. In the former sub-sector, the availability of imported goods has had an adverse effect. In the latter sub-sector, a 6 per cent decline in the output of the oil refinery in 1979 had a major impact. The public sector textile mills recorded a 4 per cent drop in output, but this was more than compensated by the growth in output of private textile and garment factories. Also, there was a growth in construction related sub-sector of Non-metallic mineral products.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      8.65557861328125,
+      8.873690605163574,
+      9.234773635864258,
+      9.38589096069336,
+      9.439029693603516,
+      9.673432350158691,
+      9.995885848999023,
+      10.007518768310547,
+      10.041717529296875,
+      10.11758804321289,
+      10.119715690612793,
+      10.163359642028809,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      57.84,
+      323.81,
+      418.29,
+      424.61
+    ],
+    "text": "The official cost of living index - the Colombo Consumer's Price Index -registered an increase of 11 per cent in 1979, as against a rise of 12 per cent last year. Two thirds of the increase this year was on account of changes induced by the government in a move to reduce consumer price subsidization in the economy. On the other hand, price increases of imported goods accounted for 55 percent of the rise in the index. Reflecting stronger pressure on prices towards the latter part of 1979, the index in December, 1979 showed an annual rise of 15 per cent. The Central Bank's Wholesale Price Index showed a lower average increase of 9 per cent in 1979, but by December, had risen to 16 per cent, on an annual basis.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.27564811706543,
+      8.562080383300781,
+      9.362083435058594,
+      9.38589096069336,
+      9.390521049499512,
+      9.41755485534668,
+      9.442187309265137,
+      9.449640274047852,
+      9.598278999328613,
+      9.673432350158691,
+      9.914156913757324,
+      9.91645336151123,
+      9.918416023254395,
+      9.921045303344727,
+      10.004704475402832,
+      10.00954532623291,
+      10.02797794342041,
+      10.041717529296875,
+      10.101696968078613,
+      10.11758804321289
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      57.84,
+      434.69,
+      417.83,
+      572.69
+    ],
+    "text": "Generally,the best available data indicated that inflationary pressures intensified in 1979, especially during the second half. On an annual average basis, price rises in 1979 would have been in the region of 20 per cent, as against an estimated 15 per cent in the previous year. A redeeming feature of this development, however, was the fact that at least a part of this increase arose from the removal of certain subsidies which had kept prices artificially low, which could have a salutory long-term impact of increasing domestic production and incomes. The immediate impact of this increase on the living costs of the poorer classes was cushioned to some extent by the issue of food stamps. Of greater concern was the sharp increase in import prices, reflecting inflation all over the world, and the conspicuous rise in oil prices. By the middle of the year, containing inflationary pressures emerged as the major problem in the economy, and this is likely to continue into 1980 as well, with the international price situation showing no signs of abatement, and the coming on full-stream of the government's major construction activities.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.449878692626953,
+      8.562080383300781,
+      8.65557861328125,
+      8.873690605163574,
+      8.939748764038086,
+      9.181896209716797,
+      9.252737045288086,
+      9.354649543762207,
+      9.41755485534668,
+      9.442187309265137,
+      9.451611518859863,
+      9.468549728393555,
+      9.47611141204834,
+      9.673432350158691,
+      9.908976554870605,
+      9.909979820251465,
+      9.914824485778809,
+      9.915952682495117,
+      9.91645336151123,
+      9.935308456420898,
+      9.952048301696777,
+      9.95321273803711,
+      9.995885848999023,
+      10.00954532623291,
+      10.041717529296875,
+      10.049837112426758,
+      10.101696968078613,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      58.08,
+      584.93,
+      419.34,
+      645.41
+    ],
+    "text": "With growing inflation, some tendencies to resort to' price controls and regulation emerged in 1979, despite the emphasis on free competition as a superior alternative to controls in price moderation, in government's overall economic strategy. W hen shortages occur, owing to demand exceeding supply, it is natural for prices to rise; and past experience in Sri Lanka has shown that controlling prices in such a situation will only lead to an artificial reduction in prices. The scarce goods.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      9.220146179199219,
+      9.316774368286133,
+      9.414432525634766,
+      9.458311080932617,
+      9.673432350158691,
+      9.914824485778809,
+      9.919835090637207,
+      9.959450721740723,
+      9.973492622375488,
+      10.13668155670166,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      226.8,
+      55.67,
+      233.69,
+      65.52
+    ],
+    "text": "7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.03996467590332
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.08,
+      75.59,
+      412.78,
+      246.72
+    ],
+    "text": "will have to be rationed, but even this would not prevent the emergence of a \"black market\", where the prices will reflect the free market price, plus invariably, a premium for evasion of the laws. Majority of the consumers will have to pay this higher price. A similar situation would occur when prices are regulated to prevent price increases arising naturally from cost increases. If the regulation would result in losses, producers will go out of production and the availability of goods in the market will diminish. This will tend to push prices up further, aggravating the problem. . Efficient rationing thus becomes a sine qua non of successful price regulation, but even the experience of more tightly organized and regulated societies have shown that rationing cannot be kept efficient for too long. It would appear thus, that the common equation of price controls with lower prices and benefits to the consumer does not hold most of the time. Hence, it might be prudent to intervene more judiciously in markets, by measures which would increase the supply of goods, without imposing production disincentives, rather than revert to ad hoc price regulation which would, at best, only have a very short-term deterrent effect. Experience all over has clearly demonstrated that artificial price controls do not benefit the consumer in the long run.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.77559757232666,
+      9.21384334564209,
+      9.281978607177734,
+      9.399765014648438,
+      9.415678024291992,
+      9.453794479370117,
+      9.516218185424805,
+      9.54418659210205,
+      9.773075103759766,
+      9.77619457244873,
+      9.786803245544434,
+      9.789514541625977,
+      9.794853210449219,
+      9.805279731750488,
+      9.807985305786133,
+      9.819607734680176,
+      9.823478698730469,
+      9.827066421508789,
+      9.859295845031738,
+      9.873746871948242,
+      9.877717018127441,
+      9.878558158874512,
+      9.881324768066406,
+      9.930740356445312,
+      9.986536979675293,
+      10.008088111877441,
+      10.013982772827148,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.84,
+      259.91,
+      412.54,
+      400.8
+    ],
+    "text": "Several wage increases were granted to government and semi-government employees during 1979. Wages in the private sector tended to move up faster, reflecting higher levels of economic activity and short-term labour supply constraints. Real wages in the agricultural sector appear to have risen. It would also appear that a substantial dent in the unemployment problem was made during 1978 and after. As mentioned earlier, unemployment, which stood at 24 percent of the workforce in 1973 has declined to 15 percent in 1978. Most pro\u00adnounced declines in unemployment occured in the estate sector, but unemployment in general became less burdenfome on account of an increase in family incomes. Unemployment was most severe among those with a secondary education (\"GCE passes\"), while unemployment of those with lower and higher education dropped sharply. Also, unemployment at lower age groups (14 - 25 years) appear to have declined. In the 14-18 year agegroup, unemployment declined from 66 to 24 per cent, and in the 19-25 year age group, from 48 to 25 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.467496871948242,
+      8.496354103088379,
+      8.52822494506836,
+      8.616652488708496,
+      8.652338027954102,
+      8.668207168579102,
+      9.132804870605469,
+      9.31052303314209,
+      9.456600189208984,
+      9.516510009765625,
+      9.54418659210205,
+      9.77619457244873,
+      9.777936935424805,
+      9.791496276855469,
+      9.792588233947754,
+      9.807985305786133,
+      9.809196472167969,
+      9.809438705444336,
+      9.818720817565918,
+      9.891419410705566,
+      9.920485496520996,
+      10.124076843261719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.32,
+      413.99,
+      411.82,
+      454.08
+    ],
+    "text": "The preliminary data of the first round of the Central Bank's Consumer Finance and Socio-Economic Survey\u20141978 indicate a worsening of income distribution in Sri Lanka between 1973 and 1978. A comparison of certain parameters of the income distribution in 1953, 1963, 1973 and 1978 are given in the following table.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.490571975708008,
+      8.52822494506836,
+      8.56987190246582,
+      8.616652488708496,
+      8.652338027954102,
+      9.225698471069336,
+      9.286542892456055,
+      9.412186622619629,
+      9.54418659210205,
+      9.773723602294922,
+      9.81125545501709,
+      9.851419448852539,
+      9.938553810119629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      198.96,
+      474.95,
+      263.15,
+      484.8
+    ],
+    "text": "TABLE 1 . 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.295707702636719,
+      9.54418659210205
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      154.56,
+      494.39,
+      297.88,
+      504.24
+    ],
+    "text": "Income Distribution 1953-1978",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.54418659210205,
+      9.824003219604492,
+      9.945525169372559
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      132.24,
+      522.72,
+      402.69,
+      530.06
+    ],
+    "text": "Item , 1953 1963 1973 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.479578018188477,
+      6.501255035400391,
+      6.619585037231445,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.08,
+      538.8,
+      402.46,
+      546.14
+    ],
+    "text": "1. M e a n I n c o m e (monthly) R s . . . . . 108 134 228 574",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.444660186767578,
+      6.445316791534424,
+      6.468504905700684,
+      6.496108531951904,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.84,
+      554.64,
+      402.6,
+      562.22
+    ],
+    "text": "2. M e d i a n I n c o m e (monthly) R s . 68 83 180 352",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.224997520446777,
+      6.411081790924072,
+      6.431674480438232,
+      6.444660186767578,
+      6.468504905700684,
+      6.53001594543457,
+      6.576297760009766,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.6,
+      571.2,
+      209.25,
+      578.06
+    ],
+    "text": "3. Percentage o f total i n c o m e received b y :",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.414318561553955,
+      6.422104358673096,
+      6.454941272735596,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.96,
+      587.04,
+      190.45,
+      609.98
+    ],
+    "text": "(a) L o w e s t ten per cent (b) L o w e s t forty per cent . . (c) Highest ten per cent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.030244827270508,
+      6.185319423675537,
+      6.345147609710693,
+      6.429791450500488,
+      6.486455917358398,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      257.04,
+      587.52,
+      274.35,
+      610.22
+    ],
+    "text": "1.5 1 3 . 0 4 2 . 5",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431674480438232,
+      6.484618663787842,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.76,
+      587.28,
+      317.01,
+      609.98
+    ],
+    "text": "1.2 1 2 . 0 3 9 . 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.411081790924072,
+      6.431674480438232,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      342.72,
+      587.28,
+      359.73,
+      609.98
+    ],
+    "text": "1.8 15.1 3 0 . 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431674480438232,
+      6.551408290863037,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      385.44,
+      586.8,
+      402.53,
+      609.5
+    ],
+    "text": "1.5 1 2 . 3 3 9 . 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431674480438232,
+      6.525629043579102,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      51.36,
+      618.96,
+      402.1,
+      626.54
+    ],
+    "text": "4. Gini R a t i o 0 . 5 0 0 . 4 9 0 . 4 1 0 . 4 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.345995903015137,
+      6.512155055999756,
+      6.5323991775512695,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      273.84,
+      641.52,
+      403.15,
+      648.38
+    ],
+    "text": "Source: Central B a n k o f C e y l o n .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.3838324546813965,
+      6.431734085083008,
+      6.648758888244629
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      249.84,
+      53.6,
+      257.56,
+      63.34
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.84,
+      73.76,
+      429.97,
+      211.42
+    ],
+    "text": "At the outset, the comparison of above data has to be done with considerable caution, as they may not be strictly comparable, because of differences in coverage and reference period. Nevertheless, the trends indicate a substantial improvement of income levels, the mean income in real terms having risen by 38 per cent during the 5 year period 1973 to 1978, as compared with a 12 per cent growth during the ten year period 1963 to 1973. But, the share of income received by the lowest ten per cent of income receivers has dropped from 1.8 per cent in 1973 to 1.5 per cent in 1978, and that of the lowest 40 per cent, has declined from 15 to 12 percent On the other hand, the share of income of the highest ten per centof income receivers has. risen from 30 to 39 per cent. This would depict a shift in the distri\u00adbution of income towards greater inequality, the Gini concentration ratio changing from 0.41 to 0.49 during the 5 year period 1973, to 1978. This ratio is an index of income inequality,, ranging from zero to. one, larger the coefficient, the greater the inequality of incomes.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      8.843891143798828,
+      9.291441917419434,
+      9.3365478515625,
+      9.351300239562988,
+      9.359246253967285,
+      9.518654823303223,
+      9.753480911254883,
+      9.770061492919922,
+      9.773627281188965,
+      9.77600383758545,
+      9.783248901367188,
+      9.796064376831055,
+      9.829840660095215,
+      9.830037117004395,
+      9.835708618164062,
+      9.882756233215332,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      70.8,
+      230.96,
+      431.36,
+      391.9
+    ],
+    "text": "It is possible that these developments reflect the snort-term effects of recent economic reforms. Arising from the growth in income and employment, all income categories have made appreciable gains. Despite this, the fact that a large number of persons have become first-time income earners in the lower income categories on the one hand, and the substantial improvement m incomes of highest income category, on the other hand, has resulted in a widening of income disparities, as indicated by the Gini coefficient. It is- also noteworthy that* although all income deciles gained, the only decile that improved its share in 1978 was the highest. Tms was probably inevitable, at early stages of rapid growth, when accrual of profits to new investors who made an early entry into business are relatively greater! on account of lesser initial competition. With greater competition in the economy, a larger spillover of benefits of new economic activity to lower income groups could take place, but this may have to be supported by appropriate fiscal policies. In this context, the rationalization of consumer subsidies, growing importance of indirect taxation and the apparant over-generous grant of direct tax. reliefs, could worsen emerging income disparities*",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      8.843891143798828,
+      9.258001327514648,
+      9.261054039001465,
+      9.281685829162598,
+      9.285313606262207,
+      9.291441917419434,
+      9.294650077819824,
+      9.3365478515625,
+      9.359246253967285,
+      9.415054321289062,
+      9.466853141784668,
+      9.518654823303223,
+      9.74236011505127,
+      9.752607345581055,
+      9.753480911254883,
+      9.754473686218262,
+      9.770061492919922,
+      9.77109146118164,
+      9.777271270751953,
+      9.780637741088867,
+      9.824797630310059,
+      9.830037117004395,
+      9.835708618164062,
+      9.838384628295898,
+      9.844011306762695,
+      9.86954402923584,
+      9.874799728393555,
+      10.066946029663086,
+      10.073790550231934
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      71.76,
+      412.64,
+      430.94,
+      520.78
+    ],
+    "text": "It might be argued that Sri Lanka, at the current stage of development,, should emphasize economic growth, even at the expense of equitable income distribution, especially in the context of a relatively high concern for welfare in the past. But, if economic growth has to have a tangible meaning to the masses, the manner in which the growing prosperity is shared among the people becomes a critical factor. At least at the initial stages, when resources are being consciously diverted from consumption to investment, which will inevitably lead to a lowering of real incomes of the poorer classes, it may be prudent not to be over-generous with concessions such as tax holidays and lump sum depreciation. As emphasized in the last year's Report, an equitable balance between growth and equity will have to be worked out.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      9.258001327514648,
+      9.456008911132812,
+      9.483199119567871,
+      9.518654823303223,
+      9.7417631149292,
+      9.744425773620605,
+      9.76419448852539,
+      9.776360511779785,
+      9.777271270751953,
+      9.796064376831055,
+      9.8135986328125,
+      9.838305473327637,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      72.24,
+      538.88,
+      433.17,
+      647.02
+    ],
+    "text": "A sharp deterioration of Sri Lanka's terms of trade by 2& per cent was. the notable development with regard to external trade in 1979. Value of exports rose by 13 per cent to Rs 15,273 million (SDR 759 million) and import payments rose sharply by 45 per cent to Rs. 22,560 million (SDR 1,12:1 million),. Asi a resulr, the trade deficit widened from Rs. 1,480 million (SDR 100 million) in 1978 to Rs. 7,287 million (SDR 362 million) hi 1-979. This was inevitable in the. context of the medium-term development strategy of reviving the stagnant economy by a heavy recourse to foreign resources, until the export sector was in a position to achieve a sustainable growth momentum. The performance of the export sector was disappointing, eapecially withregard to Sri Lanka's, traditional exports. Oa the import side,, the share of consumer goods imports declined to 35 per cent,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.531916618347168,
+      8.675166130065918,
+      8.843891143798828,
+      9.229811668395996,
+      9.268659591674805,
+      9.491321563720703,
+      9.518654823303223,
+      9.750701904296875,
+      9.764272689819336,
+      9.780360221862793,
+      9.783248901367188,
+      9.797842979431152,
+      9.829564094543457,
+      9.830037117004395,
+      9.84074592590332,
+      9.854232788085938,
+      9.879935264587402
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      46.32,
+      71.63,
+      407.52,
+      111.45
+    ],
+    "text": "while the share of intermediate and investment goods rose to 41. and 24 per cent, respectively. Imports of rice,, flour, sugar and textiles alone accounted for most of the consumer goods imports. The share of other consumer goods was 12 per cent of total, imports.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.455690383911133,
+      8.97066879272461,
+      9.48841667175293,
+      9.736838340759277,
+      9.766860008239746,
+      9.818263053894043,
+      9.842195510864258,
+      10.105595588684082
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      45.84,
+      132.11,
+      408.25,
+      223.05
+    ],
+    "text": "Reflecting largely the sharp deterioration in the trade balance, Sri Lanka's balance of payments in the current account reached' art unprecedented deficit of Rs. 3,556 million (SDR 177 million) in 1979. This occurred despite a considerable improvement in. net receipts from invisibles, consisting of earnings from services (e.g. ports, insurance) and transfers (e.g. remittances from Sri Lankans. employed abroad). Nevertheless, on account of a substantial inflow of capital, as in the previous year, the overall balance of payments yielded a surplus of Rs. 793 million (SDR 35 million), which went on to augment Sri Lanka's foreign assets, for the fourth successive year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562921524047852,
+      8.6556978225708,
+      9.076437950134277,
+      9.451838493347168,
+      9.461487770080566,
+      9.518086433410645,
+      9.534292221069336,
+      9.571864128112793,
+      9.628756523132324,
+      9.692366600036621,
+      9.69709587097168,
+      9.729507446289062,
+      9.78791332244873,
+      9.802702903747559,
+      9.842195510864258,
+      10.10495376586914,
+      10.109147071838379,
+      10.111286163330078,
+      10.156733512878418
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      45.84,
+      242.99,
+      406.41,
+      364.17
+    ],
+    "text": "The government's fiscal operations in 1979 showed an expansion in the budget deficit from what was originally anticipated, arising largely from a large increase, in supplementary estimates passed during the year. While recurrent expenditure rose by 8 per cent, advance account payments have risen six fold from the original estimates. Capital expenditure turned out to be higher by 24 per cent. Meanwhile, revenue showed a modest increase of 11 per cent. Thus, the original aim of halancing of the budget with non-expansionary financing could not be realised in 1979. Undoubtedly, sharp cost escalations, during the year and extraordinary commitments arising from the cyclone damage, has made budgeting rather difficult, but prudent anticipation of cost escalations as well as better control on advance account operations, and supplementaries\u201e would certainly help to prevent untoward developments in the future.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6556978225708,
+      9.403216361999512,
+      9.491332054138184,
+      9.554906845092773,
+      9.591767311096191,
+      9.608704566955566,
+      9.777568817138672,
+      9.842195510864258,
+      9.850715637207031,
+      10.091035842895508,
+      10.10495376586914,
+      10.236593246459961
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.64,
+      384.11,
+      406.58,
+      482.97
+    ],
+    "text": "Monetary expansion during the year was higher than anticipated. This was partly due to a growth in net external banking assets arising from the overall sur\u00adplus, in the balance of payments, and partly,, due to the higher than anticipated expansionary impact of government fiscal operations. In view of this, it was not con\u00adsidered prudent to overly intensify the monetary controls, especially in view of the modest monetary expansion that was observed during the major part of 1979-The Central Bank considered it adequate to raise its penal rates on commercial bank borrowings in mid year, as commercial banks appeared to be borrowing excessively, while the general interest rate structure remained unchanged. However, the monetary situation deteriorated towards the end of the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6556978225708,
+      8.97066879272461,
+      9.432694435119629,
+      9.539688110351562,
+      9.622692108154297,
+      9.762741088867188,
+      9.777568817138672,
+      9.81716251373291,
+      9.842195510864258,
+      10.084391593933105,
+      10.096519470214844,
+      10.136829376220703,
+      10.1393461227417,
+      10.212230682373047,
+      10.214812278747559,
+      10.230464935302734,
+      10.274458885192871,
+      10.348981857299805
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.4,
+      505.31,
+      406.58,
+      545.85
+    ],
+    "text": "The introduction of foreign currency banking (under the Foreign Currency Banking Scheme) and the opening of several new foreign banks were notable developments during 1979. These measures were expected to develop Colombo as an off-shore banking centre.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.6556978225708,
+      9.464412689208984,
+      9.777568817138672,
+      9.781549453735352,
+      9.842195510864258
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      43.44,
+      566.51,
+      407.5,
+      645.69
+    ],
+    "text": "In sum, the economy in 1979- was able to austain the momentum! that was. generated after the economic reforms: of 1977. After an immediate spurt in 1978, the economy appears to. have settled down on a sustainable growth path. But, the fact that strong growth: impulses were yet not evident in the major sectors, of agriculture and industry underscored the urgent need to re-orient policies to-foster -these sectors; The larger trade deficit reflected not only a pre-planned, heavier resort to foreign resources-, but also-j some, sluggishness, in' the export effort. The balance of payments was managed largely on account of substantial capital",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.625568389892578,
+      8.6556978225708,
+      8.717777252197266,
+      8.97066879272461,
+      9.509449005126953,
+      9.51735782623291,
+      9.528347969055176,
+      9.584822654724121,
+      9.595824241638184,
+      9.777568817138672,
+      9.785792350769043,
+      9.842195510864258,
+      10.111286163330078,
+      10.122228622436523,
+      10.137170791625977,
+      10.150301933288574,
+      10.156733512878418,
+      10.348981857299805
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      239.52,
+      58.64,
+      249.65,
+      68.38
+    ],
+    "text": "10",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      70.32,
+      78.8,
+      430.16,
+      186.94
+    ],
+    "text": "inflows, which could slow down in future years primarily because of the emerging world recession. The expansionary impact of fiscal operations, combined with the growth of net external banking assets, made it difficult to contain the growth in money supply within desired limits. As a result, and on account of a sharp rise in import prices, considerable inflationary pressure was evident in the economy. However, the unemployment problem appears to have eased; so that a growth in family incomes, arising from additional employment of family members, may have mitigated the impact of the general rise in prices. These problems are typical of economies which are endeavouring to achieve high rates of economic growth. A right policy climate in the economy, therefore, could make a significant contribution towards overcoming these problems.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      9.215032577514648,
+      9.247414588928223,
+      9.258001327514648,
+      9.261054039001465,
+      9.29556655883789,
+      9.366069793701172,
+      9.377967834472656,
+      9.429478645324707,
+      9.45957088470459,
+      9.518654823303223,
+      9.74236011505127,
+      9.749391555786133,
+      9.751852989196777,
+      9.75693416595459,
+      9.78704833984375,
+      9.808152198791504,
+      9.829564094543457,
+      9.936559677124023,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      70.32,
+      214.4,
+      262.72,
+      224.14
+    ],
+    "text": "NATIONAL PRODUCT AND INCOME",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.323225975036621,
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71.28,
+      237.92,
+      430.37,
+      277.9
+    ],
+    "text": "Sri Lanka's Gross Domestic Product (GDP) at current factor cost prices in 1979 has been provisionally estimated at Rs. 49,125 million, reflecting a growth of 22 per cent over the previous year. Net of price increases, GDP at constant (1970) prices was Rs. 18,501 million in 1979, indicating a growth rate of 6.3 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      8.712533950805664,
+      9.518654823303223,
+      9.776360511779785,
+      9.994452476501465
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71.52,
+      288.32,
+      430.55,
+      337.42
+    ],
+    "text": "When account is taken of net factor income from abroad, the Gross National Product (GNP) at current factor cost indicated a growth of 22 per cent to Rs. 48,885 million in 1979. Again, when price increases are discounted, the GNP at constant (1970) factor cost prices showed a rise of 6.2 per cent in 1979. Detailed data are given in the Statistical Appendix.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      9.061735153198242,
+      9.412421226501465,
+      9.431079864501953,
+      9.443100929260254,
+      9.518654823303223,
+      9.776360511779785,
+      9.777786254882812,
+      9.815847396850586,
+      9.882756233215332
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      71.52,
+      348.56,
+      430.64,
+      397.66
+    ],
+    "text": "It was thus apparent that the Sri Lanka economy which recorded an impressive growth rate of 8.2 per cent in 1978 largely as an immediate and spontaneous reac\u00adtion to the 1977 economic reforms, had slowed down somewhat during 1979, yet remaining on path of the anticipated growth of 6 per cent during the period of 1978 to 1983.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      9.258001327514648,
+      9.268659591674805,
+      9.518654823303223,
+      9.804123878479004,
+      9.863618850708008,
+      9.930206298828125,
+      9.994452476501465,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.24,
+      409.04,
+      430.94,
+      449.02
+    ],
+    "text": "The mid year population of 1979 has been provisionally estimated to be 14.5 million, an increase of 2 per cent, which represents a slight reversal of earlier trends observed in Sri Lanka. This would yield a GNP per capita of Rs. 3,378 or US $ 217, indicating a rise of 19.5 per cent in 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      8.920570373535156,
+      9.422947883605957,
+      9.518654823303223,
+      9.7722806930542,
+      9.829840660095215
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.24,
+      460.64,
+      430.84,
+      529.42
+    ],
+    "text": "A number of factors contributed to the slower growth of the economy in 1979. The most important of these was the relatively poor performance of the agricultural sector. Although it appears that the performance of plantation agriculture was slightly more favourable than in 1978, the performance of domestic agriculture was uneven. While paddy production in 1979 was 1.4 per cent higher than in 1978, output of minor food crops, particularly of cereals, was significantly below 1978 levels.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      9.029289245605469,
+      9.236437797546387,
+      9.268659591674805,
+      9.283186912536621,
+      9.373260498046875,
+      9.518654823303223,
+      9.74236011505127,
+      9.750861167907715,
+      9.751852989196777,
+      9.754156112670898,
+      9.951473236083984,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.24,
+      541.28,
+      431.65,
+      649.42
+    ],
+    "text": "The most significant feature of the sectoral composition of GNP was the increased importance of the mining, construction and trading sectors. This trend, the beginning of which was evident in 1978, continued through 1979. Available data on projected investment in manufacturing and construction indicate that they will continue to be major growth sectors in the future. Of special significance in this connection were the public sector investment program in the Accelerated Mahaveli Project and in residential and non-residential construction. Considering approvals that have been granted so far, a high level of investment is also planned to take place in industry, in the Industrial Pro\u00admotion Zones (IPZ) of the Greater Colombo Economic Commission (GCEC), and in the rest of the economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.622203826904297,
+      9.17815113067627,
+      9.206457138061523,
+      9.261054039001465,
+      9.394510269165039,
+      9.414520263671875,
+      9.441338539123535,
+      9.491321563720703,
+      9.494747161865234,
+      9.518654823303223,
+      9.748160362243652,
+      9.751139640808105,
+      9.809612274169922,
+      9.817779541015625,
+      9.840509414672852,
+      9.844011306762695,
+      9.854389190673828,
+      9.874799728393555,
+      9.882756233215332,
+      10.066946029663086
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      353.76,
+      4.61,
+      361.15,
+      14.69
+    ],
+    "text": "4",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.466493606567383
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      313.68,
+      61.01,
+      378.23,
+      71.09
+    ],
+    "text": "TABLE 1 . 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.496014595031738,
+      9.587445259094238
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      160.8,
+      78.77,
+      526.2,
+      88.85
+    ],
+    "text": "Sectoral Composition of Gross National Product at Constant Factor Cost (1970) Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.587445259094238,
+      9.85202693939209,
+      9.860260963439941,
+      9.960572242736816,
+      9.96211051940918,
+      9.973201751708984,
+      10.001724243164062,
+      10.008511543273926,
+      10.02777099609375,
+      10.153454780578613
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      118.8,
+      108.24,
+      643.25,
+      123.74
+    ],
+    "text": "Value a d d e d in Increase o v e r previous Per cent increase Per cent share in G . N . P . Sectors ( R s . M n . ) R s . M n . over previous year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.287209510803223,
+      6.345541477203369,
+      6.401150703430176,
+      6.487522602081299,
+      6.532105445861816,
+      6.737063884735107
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      240.96,
+      131.76,
+      641.54,
+      139.82
+    ],
+    "text": "1977 1978 1979 1977 1978 1979 1977 1978 1979 1977 1978 1979",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.44627046585083,
+      6.449460506439209,
+      6.479578018188477
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48.96,
+      156.24,
+      571.35,
+      163.82
+    ],
+    "text": "1. Agriculture, Forestry Hunting and Fishing 4,299 4,532 4,623 405 233 91 1 0 . 4 5 . 4 2 . 0 2 6 . 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.442661762237549,
+      6.445316791534424,
+      6.451278209686279,
+      6.47272253036499,
+      6.484618663787842,
+      6.502762317657471,
+      6.532105445861816
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      601.2,
+      146.4,
+      603.63,
+      150.87
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.041999816894531
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42.48,
+      156.0,
+      643.57,
+      355.58
+    ],
+    "text": "2 6 . 2 2 5 . 1 1.1 Agriculture 3,977 4,176 4,240 406 199 64 1 1 . 4 5 . 0 1.5 2 4 . 9 2 4 . 1 2 3 . 1 1.1.1. T e a (416) (398) (412) (24) ( - 1 8 ) (14) ( 6 . 1 ) ( - 4 . 3 ) ( 3 . 5 ) ( 2 . 6 ) ( 2 . 3 ) ( 2 . 2 ) 1.1.2 R u b b e r (213) (225) (223) ( - 1 9 ) (12) ( - 2 ) ( - 8 . 2 ) ( - 5 . 6 ) ( - 0 . 1 ) ( 1 . 3 ) ( 1 . 3 ) ( 1 . 2 ) 1.1.3 C o c o n u t (423) (488) (519) ( - 3 2 ) (65) (31) ( - 7 . 0 ) ( 1 5 . 4 ) ( 6 . 3 ) ( 2 . 6 ) ( 2 . 8 ) ( 2 . 8 ) 1.1.4 P a d d y (990) (1116) (1132) (270) (126) (16) ( 3 7 . 5 ) ( 1 2 . 7 ) ( 1 . 4 ) ( 6 . 2 ) ( 6 . 4 ) ( 6 . 2 ) 1.1.5 Other (1935) (1949) (1954) (173) (14) (5) ( 9 . 2 ) ( 0 . 7 ) ( 0 0 . 0 ) ( 1 2 . 1 ) ( 1 1 . 3 ) ( 1 0 . 6 ) 1.2 Forestry 143 155 166 - 10 12 11 - 6 . 5 8 . 4 7.1 0 . 9 0 . 9 0 . 9 1.3 Fishing 179 201 217 9 2 2 16 5 . 3 1 2 . 3 7 . 9 1.1 1.2 1.1 2. M i n i n g and Quarrying 515 615 652 - 56 100 37 9 . 8 1 9 . 4 6 . 0 3 . 2 3 . 6 3 . 5 3. Munufacturing 2,357 2,541 2,659 - 14 184 118 - 0 . 1 7 . 8 4 . 6 1 4 . 7 1 4 . 7 1 4 . 5 3.1 E x p o r t processing 823 840 877 - 37 17 37 - 4 . 5 2 . 1 4 . 4 5.1 4 . 9 4 . 8 3.2 F a c t o r y industry 1,227 1,362 1,417 13 135 55 1.1 1 1 . 0 4 . 0 7 . 7 7 . 9 7 . 7 3.3 Small & other industry 307 339 365 9 32 26 3 . 0 1 0 . 4 7 . 7 1.9 2 . 0 2 , 0 4 . Construction 619 794 960 .... - 6 6 175 , J L 6 6 _ 2 . . 6 _ _ 2 6 . 3 _ _ J 2 0 . 9 _ 3 . 9 4 . 6 5 . 2 5. Electricity, G a s , W a t e r etc. 131 158 190 9 2 7 32 7 . 4 2 0 . 6 2 0 . 2 0 . 8 0 . 9 1,0 6. Transport, C o m m u n i c a t i o n s etc. 1,498 1,607 1,716 73 109 109 5 . 1 7 . 3 6 . 8 9 . 3 9 . 3 9 . 3 7. T r a d e 2,999 3,267 3,551 71 268 2 8 4 2 . 4 8 . 9 8 . 7 1 8 . 7 \u2022 1 8 . 9 1 9 . 3 7.1 I m p o r t s 513 702 864 113 189 162 2 8 . 3 3 6 . 8 2 3 . 1 3 . 2 4 . 1 4 . 7 7.2 Exports , . 663 701 709 - 53 38 8 - 7 . 4 5 . 7 1.1 4 . 1 4 . 1 3 . 9 7.3 D o m e s t i c 1,823 1,864 1,942 11 41 78 0 . 6 2 . 2 4 . 2 1 1 . 4 1 0 . 8 1 0 . 6 8. Banking, Insurance and Real estate 295 318 3 5 0 4 9 23 32 1 9 . 9 7 . 8 1 0 . 1 1.8 1.8 1.9 9. Ownership o f Dwellings 475 499 518 8 24 19 1.7 5 . 0 3 . 8 3 . 0 2 . 9 2 . 8 10. Public Administration and D e f e n c e 791 854 905 31 63 51 4 . 1 8 . 0 6 . 0 4 . 9 4 . 9 4 . 9 ,11. Services n o t elsewhere stated (n.e.s.) 2,09*9 2,212 2,378 137 113 166 7 . 0 5 . 4 7 . 5 1 3 . 1 1 2 . 8 1 2 . 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.185319423675537,
+      6.199999809265137,
+      6.202014446258545,
+      6.224997520446777,
+      6.262153148651123,
+      6.301591396331787,
+      6.302444934844971,
+      6.314936637878418,
+      6.327250957489014,
+      6.342360496520996,
+      6.3429365158081055,
+      6.345995903015137,
+      6.4000396728515625,
+      6.400310039520264,
+      6.406432628631592,
+      6.411081790924072,
+      6.422104358673096,
+      6.431674480438232,
+      6.445316791534424,
+      6.450264930725098,
+      6.450830459594727,
+      6.450979709625244,
+      6.451278209686279,
+      6.452380180358887,
+      6.454316139221191,
+      6.455566883087158,
+      6.457977771759033,
+      6.459911823272705,
+      6.461488723754883,
+      6.468029499053955,
+      6.4715046882629395,
+      6.471920490264893,
+      6.4722771644592285,
+      6.472812175750732,
+      6.481091022491455,
+      6.484322547912598,
+      6.484618663787842,
+      6.485270977020264,
+      6.485597133636475,
+      6.496108531951904,
+      6.502762317657471,
+      6.5064263343811035,
+      6.512774467468262,
+      6.512833595275879,
+      6.514249801635742,
+      6.5148396492004395,
+      6.516078948974609,
+      6.516462326049805,
+      6.532105445861816,
+      6.741627216339111,
+      6.760501861572266
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45.12,
+      362.88,
+      641.3,
+      387.5
+    ],
+    "text": "12. G r o s s D o m e s t i c P r o d u c t 16,078 17,401 18,501 647 1,323 1,100 4 . 2 8 . 2 6 . 3 1 0 0 . 5 1 0 0 . 5 1 0 0 . 6 13. N e t factor i n c o m e f r o m a b r o a d - 79 - 90 - 1 1 2 - 7 11 2 2 \u2014 \u2014 - 0 . 5 - 0 . 5 - 0 . 6 14. G r o s s National P r o d u c t 15,999 17,311 18,389 654 1,312 1,078 4 . 3 8 . 2 6 . 2 1 0 0 . 0 1 0 0 . 0 1 0 0 . 0",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      6.264669418334961,
+      6.2972283363342285,
+      6.338449954986572,
+      6.400310039520264,
+      6.411081790924072,
+      6.431674480438232,
+      6.443288326263428,
+      6.445316791534424,
+      6.445525169372559,
+      6.454316139221191,
+      6.455566883087158,
+      6.459911823272705,
+      6.469811916351318,
+      6.470970153808594,
+      6.494984149932861,
+      6.501343727111816,
+      6.512774467468262,
+      6.532105445861816,
+      10.592000007629395
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      512.64,
+      398.4,
+      641.81,
+      405.26
+    ],
+    "text": "Source: Central B a n k o f C e y l o n .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431734085083008,
+      6.532105445861816
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      254.88,
+      55.97,
+      265.97,
+      66.05
+    ],
+    "text": "12",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.145386695861816
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      73.2,
+      76.61,
+      434.87,
+      187.49
+    ],
+    "text": "One result of the liberalization of the economy has been the high level of activity in the trading sector and in ancillary services. In one sense, this was a-favourable development, because it has resulted in a large increase in employment and incomes. However, it was also possible that there has been a diversion of resources to obtain quick profits in the import trade, as was evident by the sharp growth of 23 per cent, in import-related trade. There were some indications that erstwhile traders, who had taken up to import substitution industry in the early sixties, now have reverted to more lucrative import trade, having abandoned their relatively inefficient industries. The sectoral composition of GNP reflects a slight decline in the share of the agriculture, forestry and fishing sector, but this was mainly due to the slower growth of plantation and domestic agriculture.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.873690605163574,
+      9.145386695861816,
+      9.425333976745605,
+      9.542555809020996,
+      9.586322784423828,
+      9.61646556854248,
+      9.643467903137207,
+      9.673432350158691,
+      9.910481452941895,
+      9.915618896484375,
+      9.922005653381348,
+      9.969672203063965,
+      9.97374153137207,
+      9.975443840026855,
+      9.981833457946777,
+      9.992363929748535,
+      9.995885848999023,
+      9.996299743652344,
+      10.007518768310547,
+      10.008511543273926,
+      10.041717529296875,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.16,
+      197.57,
+      434.87,
+      286.37
+    ],
+    "text": "An analysis of economic growth in 1979 shows broadly the same trends as in the previous year. The output of the agricutural sector grew by a moderate 2 per cent in 1979. This growth came mainly from the plantation sector, which grew by 4 per cent, reflecting the increases in the production of tea and coconut. Output of domestic agriculture is estimated to have increased by 2 per cent. While paddy production was estimated at 2 million mt. tons (92 million bushels) in 1979, output of minor food crops appear to have declined substantially. The increase in the output of other food crops, forestry and livestock has been only slightly higher than in 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      8.725045204162598,
+      8.873690605163574,
+      9.145386695861816,
+      9.414432525634766,
+      9.482532501220703,
+      9.498456001281738,
+      9.586278915405273,
+      9.619780540466309,
+      9.673432350158691,
+      9.911776542663574,
+      9.915618896484375,
+      9.93718433380127,
+      9.995927810668945,
+      10.119715690612793
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      74.88,
+      298.37,
+      434.84,
+      429.41
+    ],
+    "text": "(. The higher level of investment in construction and manufacturing had its_con-comitant in the high level of economic activity in these sectors. Output of the construction sector is estimated to have increased by 18 per cent in 1979. A large part of this increase came from public sector construction, particularly under the Accelerated- Mahaveli Project. It appears that within the construction sector, there was competition for limited resourcesTin which the private house-builder came out second best. Thus, while domestic availability, of building materials, parti\u00adcularly cement and hardware items, has been much higher than in previous years, there were market shortages and priority in distribution has been accorded to public sector building programs. For the same reason, skilled and semi-skilled labour has been attracted to the larger construction projects, because of the prospect of semi-permanent employment. Thus, there appears to have been a dampening of private sector construction activity in house-building. ^",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      8.675980567932129,
+      8.873690605163574,
+      9.145386695861816,
+      9.414432525634766,
+      9.517922401428223,
+      9.597976684570312,
+      9.613451957702637,
+      9.625202178955078,
+      9.673432350158691,
+      9.907012939453125,
+      9.912320137023926,
+      9.916621208190918,
+      9.93322467803955,
+      10.007518768310547,
+      10.019426345825195,
+      10.041717529296875,
+      10.046664237976074,
+      10.101696968078613,
+      10.119715690612793,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.36,
+      435.65,
+      435.16,
+      475.25
+    ],
+    "text": "Output of the manufacturing sector, which increased by 8 per cent in 1978 recorded a further growth of 5 per cent in 1979. A substantial part of this growth came from the export and small industry, while the public sector, on the whole, appears to have operated slightly above its production levels of the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.145386695861816,
+      9.457347869873047,
+      9.625202178955078,
+      9.628514289855957,
+      9.673432350158691,
+      9.912820816040039,
+      9.916621208190918,
+      9.97789192199707,
+      10.0018892288208,
+      10.041717529296875,
+      10.101696968078613
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.6,
+      481.73,
+      435.32,
+      560.69
+    ],
+    "text": "Economic activity in theservices sector remained buoyant in 1979. The high level of production in construction and manufacturing as well as in construction-related industries created a large demand for products of the building materials industry. The transport sector recorded an impressive 7 per cent rate of growth in 1979, largely on account of increased availability of lorries, following import liberali\u00adzation. The wholesale and retail trade sector, where activity has been influenced by the large increase in imports, has been estimated to have grown by 9 per cent in 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      8.873690605163574,
+      9.145386695861816,
+      9.424454689025879,
+      9.459054946899414,
+      9.553353309631348,
+      9.673432350158691,
+      9.912820816040039,
+      9.933183670043945,
+      9.945221900939941,
+      10.004456520080566,
+      10.022483825683594,
+      10.046911239624023,
+      10.163359642028809
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.84,
+      567.89,
+      435.83,
+      646.85
+    ],
+    "text": "The economic reforms of 1977 have had the effect of increasing the dependence of the economy on international trade. As a result there has been a notable expansion in the banking and financial services sector during the last two years. There has also been an increase in the number of other intermediaries such as import and travel agencies. The primary and secondary effects of the increase in tourism have been evident in the increased demand for hotel, restaurant and transport services. On the whole, output of the banking and finance sector increased by 10 per cent, and that of the services sector increased by 8 per cent in 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.629803657531738,
+      8.664233207702637,
+      8.873690605163574,
+      9.145386695861816,
+      9.414432525634766,
+      9.425333976745605,
+      9.434905052185059,
+      9.457347869873047,
+      9.599357604980469,
+      9.673432350158691,
+      9.931097984313965,
+      9.952048301696777,
+      9.969672203063965,
+      9.97374153137207,
+      10.004456520080566,
+      10.004704475402832,
+      10.007518768310547,
+      10.12695598602295,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      215.76,
+      59.84,
+      228.16,
+      69.58
+    ],
+    "text": "13",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.08,
+      79.76,
+      148.38,
+      89.5
+    ],
+    "text": "Resources and Uses",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.318572998046875,
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.32,
+      100.16,
+      406.64,
+      150.22
+    ],
+    "text": "Total resources available to the Sri Lanka economy in 1979, consisting of GDP and imports, amounted to Rs. 76,446 million, an increase of 30 per cent over 1978. Measured in real terms, total resources increased by 11 per cent, at the same rate as in last year. This was mainly due to the increase in the weight of imports from 29 per cent of total resources in 1978 to 32 per cent in T979.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.726431846618652,
+      8.843891143798828,
+      8.983158111572266,
+      9.268659591674805,
+      9.340361595153809,
+      9.518654823303223,
+      9.786810874938965,
+      9.796064376831055,
+      9.838305473327637,
+      9.994452476501465
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      192.96,
+      172.64,
+      260.52,
+      182.38
+    ],
+    "text": "TABLE 1 . 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.338247299194336,
+      9.518654823303223
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.48,
+      190.88,
+      342.8,
+      200.62
+    ],
+    "text": "Composition and Utilization of Resources 1978 - 79",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.518654823303223,
+      9.796578407287598,
+      9.881072044372559,
+      9.925994873046875
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.36,
+      243.51,
+      126.79,
+      250.48
+    ],
+    "text": "Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.565706729888916
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      181.2,
+      219.03,
+      220.95,
+      241.84
+    ],
+    "text": "1978 at Current Prices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.617639541625977,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      241.44,
+      219.03,
+      281.67,
+      241.84
+    ],
+    "text": "1979 at Current Prices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.617639541625977,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      315.12,
+      219.03,
+      344.98,
+      242.32
+    ],
+    "text": "1979 st 1978 Prices",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.617639541625977,
+      6.814492225646973,
+      8.183613777160645
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      93.36,
+      219.27,
+      403.24,
+      250.48
+    ],
+    "text": "Percen\u00adt a g e increase Category",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.565706729888916,
+      6.610978603363037,
+      6.649410724639893,
+      6.705136299133301
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      181.92,
+      251.43,
+      213.81,
+      266.8
+    ],
+    "text": "A m t . R s . M n .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      234.48,
+      251.43,
+      283.39,
+      266.56
+    ],
+    "text": "A m t . % jRs. M n .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      6.331421375274658,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      295.44,
+      249.84,
+      368.09,
+      269.0
+    ],
+    "text": "I A m t . % JRs.Mn.-%",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.300000190734863,
+      6.814492225646973,
+      8.123313903808594,
+      10.020999908447266
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      380.88,
+      251.67,
+      398.58,
+      274.48
+    ],
+    "text": "1979 over 1978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.452658176422119
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      44.88,
+      291.75,
+      398.51,
+      299.2
+    ],
+    "text": "1.' Total Resources 58,877 100 76,446 1 0 0 ,65,403 100 11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.494472026824951,
+      6.497496604919434,
+      6.535715103149414,
+      6.538963317871094,
+      6.592371463775635,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.28,
+      308.07,
+      399.33,
+      315.28
+    ],
+    "text": "1.1. G D P at market prices . . 42,005 71 52,477 69 44,651 68 6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.497496604919434,
+      6.514913082122803,
+      6.553726673126221,
+      6.5834550857543945,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.52,
+      324.63,
+      399.13,
+      339.52
+    ],
+    "text": "1.2. I m p o r t s o f g o o d s and services 16,872 29 23,969 31 20,752 3 2 23",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.471207618713379,
+      6.494991779327393,
+      6.557147026062012,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      44.4,
+      348.39,
+      398.59,
+      355.6
+    ],
+    "text": "2. Utilization . . . . 58,877 100 76,446 1 0 0 65,403 100 11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.27490758895874,
+      6.331421375274658,
+      6.494472026824951,
+      6.497496604919434,
+      6.538963317871094,
+      6.63800048828125,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60.48,
+      364.47,
+      399.45,
+      371.68
+    ],
+    "text": "2.1 C o n s u m p t i o n 35,488 \u00ab 0 45,259 59 39.728 61 T 2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.077721118927002,
+      6.331421375274658,
+      6.494991779327393,
+      6.521854400634766,
+      6.578328609466553
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58.8,
+      380.79,
+      126.47,
+      387.76
+    ],
+    "text": "2X \u00a9 r o s s F i x e d",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.442439079284668,
+      6.533710956573486,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      79.44,
+      388.95,
+      173.5,
+      428.32
+    ],
+    "text": "Capital F o r m a t i o n 2.2.1 G o v e r n m e n t 2.2.2 Public C o r p o r a t i o n s 2.2.3 Private Sector . . '",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.531219482421875,
+      6.565223217010498,
+      6.58450984954834,
+      6.599231243133545,
+      6.637551784515381,
+      6.696873664855957,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      195.12,
+      381.03,
+      213.82,
+      388.0
+    ],
+    "text": "8,521",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      191.52,
+      397.11,
+      216.46,
+      404.08
+    ],
+    "text": "(3,077)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      193.2,
+      413.19,
+      218.14,
+      428.08
+    ],
+    "text": "(2,056) (3,388)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      236.88,
+      380.79,
+      245.54,
+      387.76
+    ],
+    "text": "15",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      235.68,
+      397.83,
+      246.03,
+      404.8
+    ],
+    "text": "(6)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.234772682189941
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      234.0,
+      410.58,
+      249.69,
+      429.52
+    ],
+    "text": "on ( 6 ) /",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.124300003051758,
+      10.620708465576172
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      257.76,
+      380.55,
+      281.72,
+      387.52
+    ],
+    "text": "11,246",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.494472026824951
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      258.96,
+      396.63,
+      283.9,
+      403.6
+    ],
+    "text": "(3,809)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      258.96,
+      417.27,
+      283.9,
+      424.24
+    ],
+    "text": "(9,437)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      298.56,
+      380.79,
+      307.55,
+      387.76
+    ],
+    "text": "1 7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      298.56,
+      398.31,
+      308.91,
+      405.28
+    ],
+    "text": "(5)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.234772682189941
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      296.64,
+      421.11,
+      311.13,
+      428.08
+    ],
+    "text": "(12)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.312304496765137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      319.44,
+      380.79,
+      343.54,
+      387.76
+    ],
+    "text": "10,568",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.521854400634766
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      320.64,
+      397.11,
+      345.58,
+      404.08
+    ],
+    "text": "(3,630)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      320.64,
+      420.63,
+      345.58,
+      427.6
+    ],
+    "text": "(6,938)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      359.76,
+      380.79,
+      368.85,
+      387.76
+    ],
+    "text": "1 6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      360.48,
+      398.55,
+      370.83,
+      405.52
+    ],
+    "text": "(5)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.234772682189941
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      355.92,
+      421.11,
+      370.95,
+      428.08
+    ],
+    "text": "( 1 1 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.312304496765137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      390.72,
+      381.03,
+      399.58,
+      388.0
+    ],
+    "text": "24",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      388.08,
+      397.11,
+      402.75,
+      404.08
+    ],
+    "text": "(18)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.312304496765137
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      387.36,
+      421.11,
+      403.05,
+      428.08
+    ],
+    "text": "<27)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.76,
+      433.12,
+      403.77,
+      448.03
+    ],
+    "text": "23. S t o c k s 33 \u2014 281 \u2014 1 2 4 \" \u2014 \u2014",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.538629531860352,
+      6.814492225646973,
+      10.020999908447266,
+      10.484000205993652,
+      13.343000411987305
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.76,
+      453.27,
+      401.53,
+      468.16
+    ],
+    "text": "2.4. Exports o f g o o d s a n d services 14,835 25 17,660 24 14,983 23 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.331421375274658,
+      6.483400821685791,
+      6.514913082122803,
+      6.538963317871094,
+      6.557147026062012,
+      6.639195919036865,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      269.28,
+      483.27,
+      399.79,
+      490.24
+    ],
+    "text": "Source: Central Bank o f C e y l o n .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.435103893280029,
+      6.624053955078125,
+      6.631629467010498,
+      6.814492225646973
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48.96,
+      506.72,
+      409.42,
+      575.5
+    ],
+    "text": "An analysis of the allocation of available resources shows that, in money terms consumption increased -by 28 per cent and capital formation by 5 5 per -cent. Measured increal terms, consumption is estimated to have increased by 12 per cent and capital formation by 24 per cent. It is significant that, while the share of capital formation in total resource use increased from 15 per cent in 1978 to 16 per cent in 1579, the share of consumption also rose from 60 to 61 per cent of total resources. The share of exports declined from 25 to 23 per cent.",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.339967727661133,
+      8.726431846618652,
+      8.843891143798828,
+      9.518654823303223,
+      9.783248901367188,
+      9.786810874938965,
+      9.830037117004395,
+      10.073790550231934
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      49.2,
+      586.64,
+      410.56,
+      645.58
+    ],
+    "text": "According to preliminary estimates, domestic savings amounted to Rs. 6,978 million in 1979, compared with Rs. 6,280 million in J 978. Measured as a percentage of GNP, however,, savings recorded a decline from 15 per cent to 13 per -cent in 1979,, The drop is explained mainly by the adjustment of consumption to changes in real income. In other words, in an inflationary situation, a larger share of disposable income has been expended on consumption, thus depressing savings.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.41976547241211,
+      8.700793266296387,
+      8.726431846618652,
+      8.843891143798828,
+      8.98539924621582,
+      9.150899887084961,
+      9.295108795166016,
+      9.431079864501953,
+      9.518654823303223,
+      9.742955207824707,
+      9.796064376831055,
+      9.830037117004395,
+      9.930206298828125
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      243.84,
+      53.33,
+      255.77,
+      63.41
+    ],
+    "text": "14",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.57365894317627
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      373.68,
+      111.12,
+      417.12,
+      117.98
+    ],
+    "text": "R s . M i l l i o n",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.345541477203369,
+      6.39631462097168
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      87.84,
+      132.96,
+      416.66,
+      139.82
+    ],
+    "text": "Category. . 1977 1978 1979",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.199999809265137,
+      6.44627046585083,
+      6.479578018188477,
+      6.50808048248291,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.44,
+      149.04,
+      416.68,
+      156.38
+    ],
+    "text": "1. G D P at market prices 36,051 42,005 52,477",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.445852756500244,
+      6.452111721038818,
+      6.462916374206543,
+      6.501343727111816,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      66.96,
+      165.36,
+      416.78,
+      172.7
+    ],
+    "text": "2 . External resources (Net imports o f g o o d s & services) . . -1,079 2,274 6,549",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.224997520446777,
+      6.325519561767578,
+      6.44627046585083,
+      6.454256534576416,
+      6.476492404937744,
+      6.518379211425781,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.2,
+      181.44,
+      416.92,
+      188.78
+    ],
+    "text": "3. Investment 5,259 8,554 13,527",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.422104358673096,
+      6.445852756500244,
+      6.5269246101379395,
+      6.542512893676758,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      66.72,
+      197.76,
+      417.1,
+      205.1
+    ],
+    "text": "4. D o m e s t i c Savings ( 3 - 2 ) 6,338 6,280 6,978",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.345995903015137,
+      6.447880744934082,
+      6.503353595733643,
+      6.552610874176025,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      66.72,
+      214.08,
+      416.87,
+      221.18
+    ],
+    "text": "5. Savings ratio (4 as % o f 1) 1 7 . 6 1 5 . 0 1 3 . 3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.431674480438232,
+      6.450264930725098,
+      6.472812175750732,
+      6.525629043579102,
+      6.5454206466674805,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      286.08,
+      236.16,
+      417.55,
+      243.02
+    ],
+    "text": "Source: Central B a n k o f C e y l o n .",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.3838324546813965,
+      6.431734085083008,
+      6.61978816986084
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.44,
+      261.17,
+      427.12,
+      301.49
+    ],
+    "text": "Another contributory factor was that the creation of new employment has increased incomes of people who consume a higher proportion of their, incomes. The longer-term series on savings, in Statistical Appendix show, however, that the low savings ratio of 1979 was yet higher than in the mid-seventies.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.501594543457031,
+      9.509347915649414,
+      9.559592247009277,
+      9.644583702087402,
+      9.685068130493164,
+      9.716141700744629,
+      9.938850402832031,
+      9.942974090576172,
+      10.008800506591797,
+      10.119715690612793,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.68,
+      317.57,
+      427.45,
+      398.21
+    ],
+    "text": "There is some reason to infer, however that the estimate of savings in the last few years has tended to under-estimate the value of inventory accumulation. This has become particularly significant after import liberalization because of the larger volume of imports of consumer and intermediate goods. Inventories in the public sector have risen almost three-fold in 1979 and have been reckoned in the foregoing analysis. If the inventory growth of the private sector is accurately estimated and reckoned, it is very likely that the savings ratio of 1979 would rise to about the same level as in 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.623517036437988,
+      8.65557861328125,
+      8.873690605163574,
+      9.316774368286133,
+      9.333735466003418,
+      9.4423189163208,
+      9.507258415222168,
+      9.562320709228516,
+      9.628814697265625,
+      9.65179443359375,
+      9.716141700744629,
+      9.912236213684082,
+      9.915201187133789,
+      9.920126914978027,
+      9.938850402832031,
+      10.004704475402832,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.68,
+      408.05,
+      426.98,
+      448.37
+    ],
+    "text": "The encouraging growth in capital formation in 1979, considered in the background of a stable domestic savings. ratio, reflected a higher utilization of foreign resources for investment in 1979. More than two-thirds of investment in 1979 took place in the public sector, which compared with a 60 per cent share in 1978.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.562080383300781,
+      8.623517036437988,
+      8.65557861328125,
+      9.383552551269531,
+      9.49313735961914,
+      9.564226150512695,
+      9.671806335449219,
+      9.683828353881836,
+      9.716141700744629,
+      9.996299743652344,
+      10.119715690612793
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      68.16,
+      458.21,
+      147.89,
+      468.29
+    ],
+    "text": "AGRICULTURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.523619651794434
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      67.2,
+      478.37,
+      428.12,
+      636.05
+    ],
+    "text": "According to latest available estimates, the performance of the agricultural sector in 1979 did not live up to expectations. Of the tree crops, coconut produc\u00adtion recovered from its all-time low level of 1977. Rubber production declined by about 2 per cent, despite a remarkable improvement in prices. Tea production increased marginally, despite deteriorating prices since 1978. Minor export crops fared unevenly, the exports of cinnamon, cloves, coffee and cardamom rising and exports of cocoa, pepper and papain declining. Of the annual crops, paddy production has been estimated to have increased marginally, while the production of other food crops such as onions, chillies and indigenous cereals appears to have been depressed at or below the low levels of the previous year. Cane sugar production which rose by 11 per cent in 1978 dropped sharply by 26 per cent in 1979. Fish production which has been estimated to have risen by 12 per cent in 1978, appears to have grown slower by 9 per cent in 1979. Although the National Milk Board's collections rose by 27 per cent, government estimates of milk production in 1979 indicated a decrease of 7 per cent. Egg production has been estimated to have risen by 20 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.27564811706543,
+      8.456148147583008,
+      8.53228759765625,
+      8.562080383300781,
+      8.623517036437988,
+      8.65557861328125,
+      8.749166488647461,
+      8.873690605163574,
+      9.181896209716797,
+      9.220998764038086,
+      9.242079734802246,
+      9.332271575927734,
+      9.392505645751953,
+      9.442187309265137,
+      9.452312469482422,
+      9.51783561706543,
+      9.570025444030762,
+      9.58869743347168,
+      9.65179443359375,
+      9.66353988647461,
+      9.670479774475098,
+      9.716141700744629,
+      9.91089916229248,
+      9.916621208190918,
+      9.919041633605957,
+      10.008718490600586,
+      10.00954532623291,
+      10.01756763458252
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      215.28,
+      73.01,
+      279.23,
+      83.09
+    ],
+    "text": "TABLE 1 . 5",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.399556159973145,
+      9.716141700744629
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      206.16,
+      91.25,
+      285.44,
+      101.33
+    ],
+    "text": "Domestic Savings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.567212104797363,
+      9.716141700744629
+    ]
+  }
+]

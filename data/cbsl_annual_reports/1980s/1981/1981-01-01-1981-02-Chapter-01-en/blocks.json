@@ -1,0 +1,2866 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      212.33,
+      338.95,
+      268.43,
+      355.89
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.699999809265137,
+      13.55183219909668
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      149.26,
+      83.67,
+      286.51,
+      96.83
+    ],
+    "text": "WEIGHTS AND MEASURES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.5,
+      9.580954551696777
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.58,
+      100.95,
+      261.89,
+      114.43
+    ],
+    "text": "Conversion Factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.67,
+      132.15,
+      163.13,
+      145.31
+    ],
+    "text": "British to Metric Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.93,
+      153.75,
+      99.65,
+      167.23
+    ],
+    "text": "1 acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.17,
+      171.75,
+      126.85,
+      185.23
+    ],
+    "text": "1 pound (lb)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.16,
+      189.99,
+      161.6,
+      203.47
+    ],
+    "text": "1 long ton (2240 lbs)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.4,
+      208.24,
+      172.47,
+      221.71
+    ],
+    "text": "1 hundred weight (cwt)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.4,
+      226.73,
+      100.06,
+      240.2
+    ],
+    "text": "1 mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.65,
+      244.96,
+      138.95,
+      258.43
+    ],
+    "text": "1 long ton mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.66,
+      263.19,
+      112.98,
+      276.67
+    ],
+    "text": "lib/acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.694031715393066
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.41,
+      281.67,
+      118.28,
+      295.15
+    ],
+    "text": "1 cwt/acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.88,
+      299.2,
+      100.49,
+      312.67
+    ],
+    "text": "1 pint",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.88,
+      317.45,
+      146.44,
+      330.92
+    ],
+    "text": "1 imperial gallon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.87,
+      348.39,
+      158.76,
+      361.55
+    ],
+    "text": "Metric to British Units",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.13,
+      366.39,
+      113.6,
+      379.87
+    ],
+    "text": "1 hectare",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.13,
+      384.64,
+      133.48,
+      398.11
+    ],
+    "text": "1 kilogramme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.89,
+      402.63,
+      162.5,
+      416.11
+    ],
+    "text": "1 mt. ton (1000 legs.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.90384578704834,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.13,
+      420.63,
+      107.38,
+      434.11
+    ],
+    "text": "1 metre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.37,
+      438.88,
+      123.39,
+      452.35
+    ],
+    "text": "1 kilometre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.61,
+      456.87,
+      158.21,
+      470.35
+    ],
+    "text": "1 mt. ton kilometre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.61,
+      474.87,
+      101.21,
+      488.35
+    ],
+    "text": "1 litre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.09,
+      493.84,
+      109.01,
+      507.31
+    ],
+    "text": "1 kg/ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.09,
+      524.56,
+      164.92,
+      537.72
+    ],
+    "text": "Paddy/Rice Conversions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.61,
+      541.59,
+      185.84,
+      555.07
+    ],
+    "text": "1 bushel of paddy (46 lbs)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.468719482421875
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      559.84,
+      145.0,
+      573.32
+    ],
+    "text": "1 mt. ton paddy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.33,
+      589.36,
+      133.99,
+      602.83
+    ],
+    "text": "1 mt. ton rice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.58,
+      619.85,
+      162.11,
+      633.32
+    ],
+    "text": "1 bushel paddy/acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.05,
+      153.75,
+      300.54,
+      167.23
+    ],
+    "text": "-0.405 hectares (ha)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.58,
+      170.18,
+      324.1,
+      185.65
+    ],
+    "text": "= 0.454 kilogrammes (kgs)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.77,
+      190.0,
+      334.91,
+      203.47
+    ],
+    "text": "-l.016 metric tons (mt. ton)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.02,
+      208.0,
+      268.2,
+      221.48
+    ],
+    "text": "-50.802 kgs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.71,
+      226.24,
+      317.47,
+      239.71
+    ],
+    "text": "l.609 kilometres (kms)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.69,
+      244.72,
+      298.56,
+      258.2
+    ],
+    "text": "1.635 mt. ton kms",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.24,
+      262.95,
+      278.29,
+      276.43
+    ],
+    "text": "-1.121 kgs./ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.934391975402832,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.54,
+      279.87,
+      289.81,
+      295.34
+    ],
+    "text": "= 125.536 kgs./ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.76,
+      299.44,
+      263.27,
+      312.92
+    ],
+    "text": "-0.57 Htres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.0,
+      317.68,
+      262.91,
+      331.15
+    ],
+    "text": "-4.55 Htres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.54,
+      364.82,
+      268.73,
+      380.29
+    ],
+    "text": "= 2.471 acres",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      11.600000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.2,
+      384.64,
+      259.72,
+      398.11
+    ],
+    "text": "-2.2051bs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.72,
+      402.63,
+      282.89,
+      416.11
+    ],
+    "text": "-0.984 long ton",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.19,
+      420.63,
+      262.75,
+      434.11
+    ],
+    "text": "-3.281 feet",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.02784252166748,
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.48,
+      438.88,
+      265.76,
+      452.35
+    ],
+    "text": "-0.621 mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      201.96,
+      456.87,
+      305.19,
+      470.35
+    ],
+    "text": "-0.612 long ton mile",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.68,
+      475.13,
+      350.08,
+      488.6
+    ],
+    "text": "-1.76 pints=0.219 imp. gallons",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.18,
+      493.84,
+      277.8,
+      507.31
+    ],
+    "text": "-0.892Ib/acre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.18,
+      541.84,
+      264.6,
+      555.32
+    ],
+    "text": "-20\u00b787 kgs.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.68,
+      560.08,
+      309.63,
+      585.79
+    ],
+    "text": "-47.92 bushels paddy -0.7 mt. ton rice",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.55,
+      589.61,
+      310.78,
+      615.08
+    ],
+    "text": "68.46 bushels paddy ].43 mt. ton paddy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727,
+      10.113142013549805
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.16,
+      619.85,
+      309.53,
+      633.32
+    ],
+    "text": "-51.55 kgs. paddy/ha",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.77,
+      69.8,
+      388.07,
+      86.88
+    ],
+    "text": "ECONOMIC PERFORMANCE, PROBLEMS AND",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.62,
+      83.71,
+      299.07,
+      100.79
+    ],
+    "text": "POLICIES IN 1981",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      12.650527000427246,
+      12.800000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.01,
+      110.11,
+      147.17,
+      123.85
+    ],
+    "text": "INTRODUCTION",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.08,
+      125.94,
+      427.22,
+      212.17
+    ],
+    "text": "In 1981, Sri Lanka's real Gross Domestic Product (GDP) increased by 5.8 per cent, which was the same rate of growth achieved in 1980. The GDP at cons-tant prices increased from Rs.19,575 million in 1980 toRs. 20,706million in 1981. However, real Gross National Product (GNP) which is equivalent to GDP net of factor income rose by 4.2 per cent. Thus, the larger net outflow abroad of factor income i.e. interest, profits and dividends in 1981 lowered the growth rate of GNP from 5.6 per cent in 1980 to 4.2 per cent in 1981.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.879308700561523,
+      10.083014488220215,
+      10.152392387390137,
+      10.176358222961426,
+      10.224170684814453,
+      10.300000190734863,
+      10.308695793151855,
+      10.329707145690918,
+      10.3299560546875,
+      10.401203155517578,
+      10.43545913696289,
+      10.57186222076416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.01,
+      220.74,
+      426.98,
+      282.72
+    ],
+    "text": "Sri Lanka's population is estimated to have risen by 1.7 per cent in 1981. After making allowance for the estimated population increase, the real per capita income increased by 2.4 per cent. This compares with the per capita growth rates of 4.3 per cent and 3.6 per cent in 1979 and 1980, respectively. The per capita GNP at current prices was Rs. 5,126 or US $ 265.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137,
+      10.083014488220215,
+      10.092510223388672,
+      10.152392387390137,
+      10.1672945022583,
+      10.237360000610352,
+      10.287942886352539,
+      10.295048713684082,
+      10.300000190734863,
+      10.329707145690918,
+      10.367578506469727,
+      10.38718032836914,
+      10.57186222076416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.31,
+      378.64,
+      71.31,
+      389.98
+    ],
+    "text": "1.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      63.07,
+      395.69,
+      70.77,
+      407.03
+    ],
+    "text": "2\u00b7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.38659381866455
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.78,
+      419.92,
+      71.16,
+      431.26
+    ],
+    "text": "3\u00b7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.37,
+      436.01,
+      71.34,
+      447.35
+    ],
+    "text": "4\u00b7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.28,
+      458.57,
+      71.09,
+      469.91
+    ],
+    "text": "5.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.3,
+      474.64,
+      70.94,
+      485.98
+    ],
+    "text": "6.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219.75,
+      291.07,
+      282.82,
+      304.81
+    ],
+    "text": "TABLE 1\u00b71",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.300000190734863,
+      11.633392333984375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      161.09,
+      309.07,
+      336.18,
+      322.81
+    ],
+    "text": "National Income Statistics 1978 - 1981",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.282735824584961,
+      10.300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.64,
+      334.48,
+      423.89,
+      391.65
+    ],
+    "text": "Amount Rs. Million Growth Rate (%) Item 1978 1979 1980 (a) 1981 (a) 1978 1979 1980 1981 -------- ----G.D.P. at Current Factor Cost Prices .. 40,479 49,782 62,246 78,506 16\u00b77 23.0 25\u00b70 26\u00b71",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.665073394775391,
+      7.7876787185668945,
+      7.900100231170654,
+      8.199999809265137,
+      8.26068115234375,
+      8.328112602233887,
+      8.395051956176758,
+      8.46141242980957,
+      8.5,
+      8.51114273071289,
+      8.534778594970703,
+      8.59135913848877,
+      8.644668579101562,
+      9.404884338378906,
+      10.300000190734863,
+      12.899999618530273,
+      17.22615623474121,
+      21.493404388427734,
+      21.78192901611328,
+      22.72939109802246
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.64,
+      395.2,
+      424.31,
+      415.42
+    ],
+    "text": "G.D.P. at Constant (1970) Factor Cost Prices .. 17,401 18,501 19,575 20,706 8\u00b72 6.3 5.8 5.8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.517581939697266,
+      8.536322593688965,
+      8.62961196899414,
+      8.675390243530273,
+      8.71605396270752,
+      8.772579193115234,
+      9.404884338378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.64,
+      419.2,
+      424.21,
+      432.22
+    ],
+    "text": "G.N.P. at Current Factor Cost Prices .. 10,242 49,542 61,814 76,831 16\u00b79 23\u00b71 24\u00b78 24\u00b73",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.715225219726562,
+      9.404884338378906
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.4,
+      435.29,
+      424.59,
+      456.22
+    ],
+    "text": "G.N.P. at Constant (1970) Factor Cost Prices (b) .. 17,329 18,430 19,456 20,268 8.8 6\u00b74 5\u00b76 4\u00b72",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.699999809265137,
+      8.5,
+      8.626656532287598,
+      8.62961196899414,
+      8.675390243530273,
+      8.684399604797363,
+      8.91511344909668,
+      9.616254806518555
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.96,
+      450.32,
+      423.79,
+      472.3
+    ],
+    "text": "Mid-year Population (Million) .. 14\u00b72 14\u00b75 14\u00b77 15.0 1.8 2\u00b70 1.8 1\u00b77",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.566986083984375,
+      8.57695198059082,
+      8.659601211547852,
+      13.469372749328613
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.4,
+      475.12,
+      169.11,
+      486.46
+    ],
+    "text": "G.N.P. per Capita (Rs.)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.526010513305664
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.9,
+      486.83,
+      423.73,
+      503.98
+    ],
+    "text": "(a) At\u00b7Current Prices .. 2,836 3,424 4,194 5,126 14\u00b78 20\u00b77 22\u00b75 22.2",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.5,
+      8.698531150817871,
+      11.156675338745117
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.65,
+      498.55,
+      423.97,
+      520.54
+    ],
+    "text": "b) At Constant Prices(b) .. 1,221 1,274, 1,320 1,352 6.8 4\u00b73 3.6 2\u00b74",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.255180358886719,
+      8.5,
+      8.517581939697266,
+      8.565348625183105,
+      8.66583251953125,
+      8.684399604797363,
+      8.725021362304688,
+      8.84432601928711,
+      13.772087097167969
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.89,
+      529.37,
+      128.98,
+      540.71
+    ],
+    "text": "(a) Provisional",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.655196189880371,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.4,
+      541.37,
+      115.86,
+      552.71
+    ],
+    "text": "(b) Revised",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.691312789916992,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      287.39,
+      529.84,
+      414.99,
+      541.18
+    ],
+    "text": "SOUTce: Central Bank of Ceylon.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.467970848083496,
+      8.5,
+      8.613048553466797
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.38,
+      564.66,
+      425.21,
+      650.89
+    ],
+    "text": "The maintenance of the rate of growth in GDP in 1981 was to a large extent helped by the better performance of the agricultural and manufacturing sectors as compared with 1980. The agricultural sector in particular grew by 6.9 per cent which was considerably better than the drought affected growth of 3.1 per cent in 1980. Manufacturing output grew more rapidly than in 1980, mainly be-cause of the improved performance of the plantation crops, which supply the inputs for the export processing sector. Elsewhere in industry the contribution of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.947673797607422,
+      10.081686973571777,
+      10.092510223388672,
+      10.211974143981934,
+      10.238969802856445,
+      10.271160125732422,
+      10.299699783325195,
+      10.300000190734863,
+      10.329707145690918,
+      10.3299560546875,
+      10.43545913696289,
+      10.476242065429688,
+      10.57186222076416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      203.39,
+      47.11,
+      244.96,
+      61.92
+    ],
+    "text": "( 2 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      45.81,
+      69.78,
+      406.59,
+      126.01
+    ],
+    "text": "the garment export industries was a significant feature. The industrial sector as a whole, however, was adversely affected in 1981 by the electricity shortages and the shut down of the Petroleum Refinery, both of which occurred during the first half of the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.879308700561523,
+      10.0453519821167,
+      10.177876472473145,
+      10.259621620178223,
+      10.300000190734863,
+      10.43545913696289
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.77,
+      134.35,
+      406.73,
+      196.08
+    ],
+    "text": "Growth in construction, trade, banking and other service sectors which together account for more than half of the GDP slowed down largely on account of credit restraints and a more moderate growth in government expenditure aimed at reducing inflationary pressures. In fact the construction sector is estimated to have recorded negative growth.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.224170684814453,
+      10.300000190734863,
+      10.329707145690918,
+      10.367578506469727,
+      10.43545913696289
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.28,
+      206.58,
+      406.11,
+      401.04
+    ],
+    "text": "An analysis of the sectoral performance of the economy in 1981 reveals that improvement in the agricultural sector, particularly the plantation export crops, had an important role to play in sustaining the growth rate. The agricultural sector, as a whole, contributed 35.5 per cent of the growth in 1981 as compared withlO. 6 per cent and 5.7 per cent in 1980 and 1979, respectively. The critical importance of plantation crops for the continued viability oftheliberalisation programme launched in 1977 need not be overstressed. A much improved performance in this sector, could bolster the economy, which had benefitted to a considerable degree by the remarkable progress achieved in the domestic non-plantation agriculture, particularly in paddy, in recent years. It also contributes in no small measure to the improved performance of the industrial sector since the processing of plantation produce is an important component of it. Above all, increased production of plantation \u00abrops, notwithstanding the adverse terms of trade the country has experienced, would certainly make the balance of payments stronger and largely ensure the continued viability of the liberalisation programme, which has an important bearing on the growth of several other sectors.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.810466766357422,
+      10.015573501586914,
+      10.092510223388672,
+      10.15005874633789,
+      10.173320770263672,
+      10.224170684814453,
+      10.2989501953125,
+      10.300000190734863,
+      10.329707145690918,
+      10.43545913696289,
+      10.698643684387207
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.26,
+      409.34,
+      258.86,
+      423.47
+    ],
+    "text": "TABLE 1\u00b72",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.161376953125,
+      11.530034065246582
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.76,
+      427.58,
+      347.05,
+      441.71
+    ],
+    "text": "Gross National Product at (1970) Factor Cost Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.064043998718262,
+      10.067641258239746,
+      10.137256622314453,
+      10.178877830505371,
+      10.194499015808105,
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      207.11,
+      453.95,
+      406.24,
+      468.11
+    ],
+    "text": "Amount (Rs. Million) Percentage Change",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.110493659973145,
+      8.137762069702148,
+      8.174458503723145
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      92.25,
+      461.86,
+      405.5,
+      478.43
+    ],
+    "text": "Sector over Previous Year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.94,
+      478.33,
+      407.09,
+      537.33
+    ],
+    "text": "1970 1977 1978 1979 1980 (a) 1981 (a) 1978 1979 1980 1981 --- ----------1\u00b7 Agriculture, Forestry and Fishing \" 3,732 4,299 4,532 4,622 4,766 5,097 5\u00b74 2.0 3\u00b71 6.9 2\u00b7 Manufacturing, Mining and Utility Services .. 2,393 3,003 3,318 3,501 3,574 3,767 10.5 5.5 2.1 5\u00b74",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.199999809265137,
+      7.473415851593018,
+      7.599999904632568,
+      8.100000381469727,
+      8.11009407043457,
+      8.111291885375977,
+      8.12326717376709,
+      8.159829139709473,
+      8.161516189575195,
+      8.277994155883789,
+      8.387015342712402,
+      8.547263145446777,
+      8.617033958435059,
+      8.686296463012695,
+      8.754959106445312,
+      8.834527969360352,
+      9.064932823181152,
+      9.100000381469727,
+      10.300000190734863,
+      12.399999618530273,
+      13.772087097167969,
+      17.22615623474121,
+      20.318876266479492,
+      22.96017074584961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.72,
+      531.19,
+      407.58,
+      569.5
+    ],
+    "text": "3\u00b7 Construction .. 744 619 794 960 1,066 1,034 28\u00b73 20\u00b79 11\u00b70 -3\u00b70 4\u00b7 Trade, Transport and other Services .. 6,318 8,157 8,757 9,418 10,169 10,808 7\u00b74 7\u00b75 8\u00b70 6.3",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.18812084197998,
+      8.277994155883789,
+      8.292757034301758,
+      8.327699661254883,
+      8.398210525512695,
+      8.636706352233887,
+      8.726223945617676,
+      8.72716236114502,
+      8.973267555236816,
+      9.051470756530762,
+      9.100000381469727,
+      9.253259658813477,
+      13.469372749328613,
+      14.068290710449219
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48.11,
+      571.93,
+      407.33,
+      604.09
+    ],
+    "text": "5\u00b7 Gross Domestic Product 13,187 16,078 17,401 18,501 19,575 20,706 8\u00b72 6\u00b73 5.8 5\u00b78 6\u00b7 Net Factor Income from Abroad -220 -144 -72 -71 -119 -438 ----",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.923539638519287,
+      8.100000381469727,
+      8.100500106811523,
+      8.100950241088867,
+      8.151636123657227,
+      8.199999809265137,
+      8.267664909362793,
+      8.402212142944336,
+      8.599273681640625,
+      8.619251251220703,
+      8.69221305847168,
+      8.697498321533203,
+      9.007126808166504,
+      9.055440902709961,
+      9.069097518920898,
+      9.100000381469727,
+      9.199999809265137,
+      11.07433795928955,
+      12.399999618530273,
+      15.399999618530273
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      48.14,
+      603.86,
+      407.52,
+      617.68
+    ],
+    "text": "7\u00b7 Gross National Product 12,967 15,934 17,329 18,430 19,456 20,268 8.8 6\u00b74 5.6 4\u00b72",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.221588134765625,
+      8.22946548461914,
+      9.056797981262207,
+      9.069148063659668,
+      9.100000381469727
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.93,
+      627.47,
+      394.7,
+      638.28
+    ],
+    "text": "(a) Provisional. Source: Central Bank of Ceylon.",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.599999904632568,
+      7.706010341644287,
+      8.100000381469727,
+      8.22631549835205,
+      8.358428001403809
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      336.11,
+      655.4,
+      464.96,
+      755.12
+    ],
+    "text": "----- ..",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      60.441898345947266,
+      66.70051574707031
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      214.93,
+      46.18,
+      256.4,
+      59.12
+    ],
+    "text": "( 3 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      55.33,
+      67.62,
+      417.1,
+      165.84
+    ],
+    "text": "Sri Lanka witnessed very large increases in investment since 1978, and these over time should bring about important structural changes in the economy. In industry, the processing of export crops continued to be the leading activity. The rest of the industrial sector continued to be dominated by the heavy weightage the Petroleum Refinery activities carried in 1981 as well. The most dynamic growth has been registered by the garment export sector. Vertical integration with more local textiles being used in the activity could enhance its contribution to the growth of the economy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.741138458251953,
+      10.152392387390137,
+      10.173320770263672,
+      10.213940620422363,
+      10.225480079650879,
+      10.299699783325195,
+      10.300000190734863,
+      10.43545913696289,
+      10.57186222076416
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53.65,
+      170.36,
+      415.9,
+      328.8
+    ],
+    "text": "The global economic environment for primary producing countries like Sri Lanka continued to be bleak in 1981. Recession in the industrial countries, rising unemployment, continuing high energy costs, inflation, high interest rates, volatile exchange rates, low growth of world trade and declining prices of primary products other than petroleum, all led to difficulties for many developing countries including Sri Lanka. It is unfortunate, but a fact to be contended with, that Sri Lanka's export-oriented growth strategy has had to be tried and tested in an entirely hostile economic environment. There is not much hope for optimism in the global outlook in the short term. However, what is remarkable is the resilience shown by developing countries like Sri Lanka in an altogether unfavourable international environment. Sri Lanka's GDP growth rate at 5.8 per cent should, judging by international standards, count as a significant and well above average rate of growth for developing countries as a whole.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.032270431518555,
+      10.0453519821167,
+      10.069777488708496,
+      10.173320770263672,
+      10.21943473815918,
+      10.224170684814453,
+      10.225480079650879,
+      10.300000190734863,
+      10.329707145690918,
+      10.3299560546875,
+      10.388222694396973,
+      10.43545913696289,
+      11.062142372131348
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.99,
+      332.82,
+      414.12,
+      419.29
+    ],
+    "text": "The effect of the international terms of trade on the Sri Lankan economy continued to be adverse in 1981. The terms of trade index (1978 = 100) declined to 46 in 1981 from 58 in 1980. Consequently Sri Lanka's loss from trade due to lower export prices, compared to import prices was Rs. 1,406 million. Real national income, which is estimated after adjusting GNP for the terms of trade effect, increased by 3.4 per cent in 1981 as compared with 3.7 per cent in 1980 and 2.6 per cent in 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.810466766357422,
+      9.879308700561523,
+      9.912822723388672,
+      10.07545280456543,
+      10.092510223388672,
+      10.147064208984375,
+      10.15005874633789,
+      10.152392387390137,
+      10.172004699707031,
+      10.173320770263672,
+      10.188344955444336,
+      10.224170684814453,
+      10.271160125732422,
+      10.300000190734863,
+      10.329707145690918,
+      10.388222694396973,
+      10.43545913696289,
+      10.57186222076416,
+      12.699999809265137
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.49,
+      421.15,
+      414.34,
+      518.88
+    ],
+    "text": "Both Gross Domestic Capital Formation and Gross Fixed Capital For-mation continued to record satisfactory growth in 1981 increasing by 10.7 per cent and 18.0 per cent, respectively. The higher rate of growth in Fixed Capital Formation was the result of the utilization of resources tied up in stocks in 1980. Although government sector capital formation indicated a decline of 7.6 per cent in 1981, fixed capital formation in the sector increased by 14.0 per cent. Capital formation of the public and private sector corporations increased by 16.9 per cent, while their fixed capital formation increased by 19.0 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.810466766357422,
+      10.152392387390137,
+      10.179849624633789,
+      10.182429313659668,
+      10.211974143981934,
+      10.239019393920898,
+      10.299699783325195,
+      10.300000190734863,
+      10.43545913696289,
+      10.706575393676758
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.58,
+      527.22,
+      413.54,
+      601.21
+    ],
+    "text": "The largest expansion in capital formation was observed in replanting, particularly in rubber and coconut and in land development activities. The lower volume of import of major investment goods, resulting partly from the cessation of the lump sum depreciation facility in March 1981, reduced substantially the import content of Domestic Capital Formation from a relatively high level of around 37 per cent in recent years to 30 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.060516357421875,
+      10.211974143981934,
+      10.259621620178223,
+      10.300000190734863,
+      10.329707145690918,
+      10.57186222076416,
+      10.706575393676758
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48.87,
+      607.15,
+      410.75,
+      644.89
+    ],
+    "text": "Total resources available to the country, consisting of the GDP and the imports of goods and non-factor services, increased by 5.3 per cent in real terms in 1981 as compared with 11 per cent and 8.3 per cent in 1979 and 1980, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.26049518585205,
+      9.810466766357422,
+      10.083014488220215,
+      10.152392387390137,
+      10.176358222961426,
+      10.285840034484863,
+      10.300000190734863,
+      10.329707145690918,
+      10.3299560546875,
+      10.388222694396973,
+      10.57186222076416
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.76,
+      696.82,
+      112.8,
+      703.14
+    ],
+    "text": "~ ..",
+    "fonts": [
+      "Helvetica",
+      "HiddenHorzOCR"
+    ],
+    "sizes": [
+      3.7716705799102783,
+      5.147473335266113
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      212.74,
+      46.85,
+      237.76,
+      62.6
+    ],
+    "text": "( 4",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.800000190734863
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.68,
+      70.16,
+      414.0,
+      156.52
+    ],
+    "text": "The reduced availability of resources to the economy was mainly due to a marked decline in the rate of increase in the imports of goods and non-factor serVices in 1981 as compared with 1980. The relative share of resource from domestic production in the total resources available to the economy hence increased. Of the total resources available to the economy, consumption absorbed about 62 per cent, Gross Domestic Fixed Capital Formation 18 per cent and exports about 20 per cent showing no re-markable change in the pattern observed in 1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.745238304138184,
+      9.927149772644043,
+      10.119312286376953,
+      10.143486976623535,
+      10.174199104309082,
+      10.201556205749512,
+      10.309304237365723,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.51911735534668,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.91,
+      166.89,
+      415.94,
+      277.72
+    ],
+    "text": "The domestic savings in 1981 is estimated at Rs. 10.5 billion as against Rs. 7.4 billion in 1980. The savings ratio to GDP was 12.3 as compared with 11.2 in 19~0. However, when account is taken of the net private transfers from abroad, which is increasingly becoming important with a larger volume of remittances from Sri Lankans employed abroad, total savings are estimated to have increased by Rs. 4.6 billion. The Gross Savings ratio is thus estimated at 16.8 per cent showing an improvement over 1980. The impact of the large gap between domestic savings and investment as in 1980 was absorbed by the net import of goods and services.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.4771552085876465,
+      9.927149772644043,
+      10.07548713684082,
+      10.131842613220215,
+      10.14138412475586,
+      10.153887748718262,
+      10.201556205749512,
+      10.231739044189453,
+      10.237277030944824,
+      10.309304237365723,
+      10.349577903747559,
+      10.351435661315918,
+      10.359319686889648,
+      10.385589599609375,
+      10.39124584197998,
+      10.399999618530273,
+      10.417784690856934,
+      10.438528060913086,
+      10.52697467803955,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.71,
+      285.92,
+      415.85,
+      456.99
+    ],
+    "text": "The investment programme was only partly financed by local savings, the balance had to come from foreign sources. It is evident that the high level of investment that the country has been able to sustain over the last few years has been financed by incurring large deficits in the current account of the balance of payments. Although the domestic savings effort has been bolstered by the remittances of Sri Lankans employed abroad, it will become increasingly difficult to sustain the high level of investment unless there is a marked increase in the domestic savings effort. The domestic savings ratio has declined in the past two years compared to the high level of 18.4 per cent reached in 1977. This is partly the result of the inflationary tendencies in the economy, and partly of the adverse terms of trade the country has experienced. In order to maintain a high level of investment activity it is essential to improve on the export performance in the next few years and strengthen the Balance of Payment in the medium term so as to increase the availability of resources for investment.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.1726655960083,
+      10.201556205749512,
+      10.222586631774902,
+      10.257067680358887,
+      10.273682594299316,
+      10.308951377868652,
+      10.390795707702637,
+      10.399999618530273,
+      10.438528060913086,
+      10.451571464538574,
+      10.485994338989258,
+      10.62305736541748,
+      10.707115173339844,
+      10.892059326171875,
+      11.08781909942627
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      53.77,
+      467.12,
+      416.4,
+      649.24
+    ],
+    "text": "On a much broader front, Sri Lanka's economic performance in 1981 could be said to have shown a significant overall improvement over 1980. During 1980 a substantial disequilibrium tended to develop basically due to fiscal operations of the government, which in turn resulted in the balance of payments recording alarge overall deficit. Due basically to the better demand management policies pursued in 1981 ,the budget deficit declined from 24 per cent ofGDP to 17per cent and the current .account deiicit in the balance of payments from 16 per cent of GDP to 11 per cent. Reflecting mainly the improved budgetary situation, and notwithstanding the conti-nued upward adjustment of certain administered prices, the rate of inflation declined. These improvements were primarily due to the wide range of measures including the reduction and tighter control of public expenditure, complementary monetary mea-sures influencing the cost and availability of credit and letting the lump sum deprecia-tion to lapse. The exchange rate too depreciated against some major international currencies during the year, reflecting to a fair extent the inflation differential bet-ween Sri Lanka and its major trading partners, thereby ensuring that the competitive",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600845336914062,
+      9.857975006103516,
+      9.927149772644043,
+      10.027737617492676,
+      10.131842613220215,
+      10.14138412475586,
+      10.272721290588379,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.575961112976074,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.76,
+      44.55,
+      255.19,
+      58.03
+    ],
+    "text": "( 5 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.48,
+      68.24,
+      418.18,
+      152.67
+    ],
+    "text": "advantage of Sri Lanka's exports was not eroded. These adjustments were painful but necessary, particularly in the context of the substantial disequilibrium in the economy that occurred in 1980. It is encouraging that despite the pursuance of such policies, the overall economic growth rate was sustained in 1981 thereby pro-'viding a clear indication that a more sustainable economic performance is still possible in Sri Lanka. In this sense the progress made in 1981 is commendable.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.927149772644043,
+      9.99584674835205,
+      10.14138412475586,
+      10.273682594299316,
+      10.309304237365723,
+      10.399999618530273,
+      10.451571464538574,
+      10.485994338989258,
+      10.62305736541748,
+      10.672187805175781,
+      10.758423805236816,
+      11.257975578308105
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.44,
+      169.05,
+      415.99,
+      267.4
+    ],
+    "text": "On the fiscal front, the budgetary outturn for 1981 represents a major improvement over 1980. The budget deficit was reduced from 24 per cent to 17 percent ofOOP, while recourse to bank financing fell from 11 per centofODP to about 5 per cent. There was an increase of 15 per cent in total revenue while total expen-diture increased by about 3 per cent. However, the current account registered a deficit indicating the inability of the government to generate its own savings to finance part of its capital expenditure.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.600845336914062,
+      9.887471199035645,
+      9.927149772644043,
+      10.027737617492676,
+      10.201556205749512,
+      10.390795707702637,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.490901947021484,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.26,
+      285.91,
+      414.99,
+      440.19
+    ],
+    "text": "While the resource mobilisation effort on the part of the government has been quite considerable during the years since 1977, there are two issues of sig-nificance the government has to contend with. Firstly, the adverse trends in the prices of our exports induce a downward adjustment of export duties or a further depreciation in the exchange rate, or both, given the need to maintain remunerative producer margins. Export duty revenues being a large component of government's total revenues have therefore to be considered very vulnerable. Secondly, the growth in tax revenues has displayed a marked lack of elasticity in responding to the inflationary trends during the last four years. The trend continued in 1981. Revenue to GDP ratio fell from 21 per cent in 1980 to 19 per cent in 1981 reflecting a buoyancy of only 0\u00b754 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.609237670898438,
+      9.887471199035645,
+      9.927149772644043,
+      10.14138412475586,
+      10.199212074279785,
+      10.201556205749512,
+      10.311372756958008,
+      10.399999618530273,
+      10.437481880187988,
+      10.438478469848633,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      49.64,
+      458.0,
+      413.93,
+      640.12
+    ],
+    "text": "- The inadequate growth in revenues in the face of a heavy invest-ment programme, where the impact of price escalations was felt more readily, has tended to increase the size of budget deficits. Even the increasing level of foreign assistance and borrowings from non-batik sources have become inadequate to cover the financing requirements of growing deficits. This has resulted in sharply increased public sector competition for resources with the private sector.' The 'crowding out' effect which this creates aggravates the problem of demand management, particulaly when private sector investment has a relatively lower gestation period than public sector investment. There has also been a tendency in the last two years to resort to increasingly more expensive forms of foreign financing of the budget. Foreign commercial finance is expensive, particularly at a time when international interest rates continue to remain high. While such financing may help to contain the recourse to banking system to finance the budget, it is likely to create debt servicing problems.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.0,
+      10.390795707702637,
+      10.399999618530273,
+      10.438528060913086,
+      10.57443618774414,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      213.48,
+      47.51,
+      254.78,
+      60.58
+    ],
+    "text": "( 6 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.800000190734863
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      52.95,
+      69.2,
+      417.85,
+      209.56
+    ],
+    "text": "The lack of responsiveness. of the tax system to the nominal increases in income has also other implications for fiscal policy. Whether such lack of elasticity is due to the poor enforcement efforts of the revenue authorities e.g. Business Turnover Tax or to the numerous tax exemptions that have been granted, the fact remains that it does compel the government to have frequent recourse to. discre-\u00b7 tionaryand ad hoc changes in tax to make up for this deficiency. The accepted goal of a stable tax system, with reasonable rates of tax, thus becomes difficult. What is more, given the liberal tax incentives on the direct taxes, the burden has to be borne by the relatively regressive indirect taxes with implications for cost of living as well as income distribution.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.349577903747559,
+      10.399999618530273,
+      10.406548500061035,
+      10.438528060913086,
+      10.481827735900879,
+      10.485994338989258,
+      10.506949424743652,
+      10.612380981445312,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      53.42,
+      215.6,
+      414.5,
+      328.12
+    ],
+    "text": "There was some moderation in the monetary expansion during the year. Domestic' credit which expanded by an unprecedented 81 per cent in 1980 registered a much lower increase of 33 per cent during the year. External banking assets (net) declined at a lower rate of 19 per cent as compared with 47 per cent decline in 1980. Reflecting these changes, while narrow money (M1) increased by 6 per cent, broad money (M2) rose by 23 per cent. The moderation in monetary expansion was both due to a better fiscal performance and the effective monetary policy pursued during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654,
+      9.553118705749512,
+      9.745238304138184,
+      9.839601516723633,
+      10.01258373260498,
+      10.12424373626709,
+      10.131842613220215,
+      10.201556205749512,
+      10.222586631774902,
+      10.227163314819336,
+      10.349577903747559,
+      10.390795707702637,
+      10.399999618530273,
+      10.417784690856934,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      53.9,
+      334.16,
+      415.68,
+      600.03
+    ],
+    "text": "The rate of monetary expansion slowed down appreciably in the second half of the year mainly in response to the monetary policy measures effected in mid year. The monetary policy measures in operation in 1980 to deal with the situation had to be continued into 1981 and in fact had to be further intensified during the year, with domestic credit expansion still remaining at high rates in the first half of the year. In view of the situation, the Central Bank in May, 1981 had to resort to very direct measures to curtail the expansion of credit to the private sector. These direct measures were, however, relaxed soon and monetary measures of am ore general nature were implemented. In addition the Central Bank continued to regulate bank len-ding through moral suasion. In early June, commercial banks were advised to exercise restraint in granting credit to private sector. These measures eventually induced an increase in the lending rates of certain commercial banks. They also succeeded in inducing banks to resort to intensified efforts at mobilising deposits, by increased resort to varied forms of savings devices. There were, however, no general increase in deposit rates. The efforts at deposit mobilisation proved highly successful and the larger banks found themselves to be fairly liquid by the end of the year. Largely as a result of the rather tight and intensive monetary policy measures, there was a marked deceleration in the credit expansion to the private sector (including public corporations) from 47 per cent in 1980 to 27 per cent in 1981.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.557568550109863,
+      9.788311004638672,
+      9.857975006103516,
+      10.080852508544922,
+      10.12424373626709,
+      10.131842613220215,
+      10.199212074279785,
+      10.222586631774902,
+      10.272721290588379,
+      10.375922203063965,
+      10.390795707702637,
+      10.39124584197998,
+      10.399999618530273,
+      10.417784690856934,
+      10.438528060913086,
+      10.451571464538574,
+      10.485994338989258,
+      10.62305736541748,
+      10.723421096801758
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      55.34,
+      606.33,
+      416.98,
+      644.44
+    ],
+    "text": "The year 1981 also witnessed certain significant developments in the money and banking field. In April the Central Bank .commenced open market operations in Treasury Bills, i.e. Secondary Treasury Bill Market, with the intent of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.857975006103516,
+      10.250423431396484,
+      10.399999618530273,
+      10.758423805236816
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      462.55,
+      438.35,
+      473.78,
+      466.11
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.20009994506836
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      216.36,
+      47.17,
+      257.71,
+      60.37
+    ],
+    "text": "( 7 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.899999618530273
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.07,
+      70.64,
+      418.83,
+      281.55
+    ],
+    "text": "mopping up excess liquidity in the system. In the interests of fo~tering an active market in Treasury Bills, the Central Bank's sales to the banks of Treasury Bills in the secondary market were made exclusively through the money and exchange brokers. The year also witnessed the Central Bank, for the first time since its inception, decentralising some of its operations. With a view to promote regional activities, particularly in the provision of credit to the rural sector, the Bank opened its first regional branch at Matara in March, 1981. For the first time in Sri Lanka a National Credit Plan was formulated by the Central Bank covering commercial bank lending to private sector and public corporations. The exercise proved to be useful in formulating monetary policy, monitoring of credit growth and ensuring adequate credit flows to the priority sectors. The year also witnessed the introduction of the Certificates of Deposits (CD) by some banks primarily with the intention of bringing 'black money' into the institutionalised sector. There were also re-discounting facilities for CDs made available by banks and other institu-tions. Several novel savings Schemes like the Pension scheme, Minors Deposit",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.542469501495361,
+      10.14138412475586,
+      10.168421745300293,
+      10.222586631774902,
+      10.309304237365723,
+      10.310212135314941,
+      10.323619842529297,
+      10.349527359008789,
+      10.349577903747559,
+      10.399999618530273,
+      10.417784690856934,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.36,
+      281.85,
+      418.59,
+      436.36
+    ],
+    "text": "Scheme, intended to attract long term deposits were very successfully launched by some banks. Deviating from the practice of confining their activities to tradi-tional commercial banking functions, commercial banks expanded their activities in the area of Merchant Banking. Another noteworthy feature of the year has been the higher growth in time and savings deposits in relation to demand deposits indicating that depositors have become extremely interest conscious. Conseque-ntly, the average cost of funds to the banking system also moved up during the year. The refinance facilities under the Medium and Long Term Fund continued to be provided during the year and the scope of the scheme was increased to enable commercial banks and credit institutions to participate more fully in the development of export oriented industries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.349577903747559,
+      10.375922203063965,
+      10.390795707702637,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.33,
+      450.56,
+      419.93,
+      644.44
+    ],
+    "text": "The rate of inflation in 1981 appears to have somewhat moderated due to the pursuance of effective demand management policies. The official cost of living index-The Colombo Consumers' Price Index (CCPI)-registered an increase of 18 per cent in 1981 as against a rise of 26 per cent in the previous year. Upward revision of prices of rice, flour and bread accounted for nearly half of this increase. The annual average increase of the Central Bank's Wholesale Price Index in 1981 was 17 per cent as compared with 34 per cent in 1980. Nearly two-thirds of this increase occurred in the domestic group of items, while the balance was in commodities in the import group. On the wages front, the indexation of wages in the public sector late in the year was a notable development. However, notwithstanding the increases in money wages in the organised sector consisting of, central government employees and workers covered by the Wages Board, real wages declined in 1981 although at a lower rate than the decline registered in 1980. In the unorganised sector, the all island daily wage rates showed a much higher growth than in the organised sector, particularly in paddy and building construction. Real w~ges in this sector also registered an increase when deflated by the CCPI.",
+    "fonts": [
+      "HiddenHorzOCR",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.2270636558532715,
+      9.745238304138184,
+      9.887471199035645,
+      9.927149772644043,
+      9.99584674835205,
+      10.14138412475586,
+      10.143486976623535,
+      10.15378475189209,
+      10.201556205749512,
+      10.241390228271484,
+      10.309304237365723,
+      10.349577903747559,
+      10.351787567138672,
+      10.390795707702637,
+      10.39124584197998,
+      10.399999618530273,
+      10.417784690856934,
+      10.438528060913086,
+      10.485994338989258,
+      10.582498550415039,
+      10.596983909606934,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      0.57,
+      696.83,
+      16.82,
+      731.05
+    ],
+    "text": "... ,",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.592801094055176,
+      24.899999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      229.26,
+      48.54,
+      236.91,
+      62.15
+    ],
+    "text": "8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.199999809265137
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.05,
+      70.65,
+      414.17,
+      295.95
+    ],
+    "text": "Available data indicate that on the employment front the performance in 1981 has been better than in the previous year. The total number of new employ ment opportunities created during the year in the organised sector i.e. government departments, semi-government institutions and private sector enterprises contributing to the Employees' Provident Fund, amounted to 40,622 as compared with 115,000 and 18,035 in 1979 and 1980, respectively. The bulk of this increase occurred in the organised private sector which recorded a sharp increase from 3,030 in 1980 to 26,156 in 1981. Statistics on developments in employment in the unorganised sector are not available. However, the fact that the unorganised sector has alone showed an increase in real wages in 1981 in contrast to a decline in such wages in the organised sector would seem to indicate that demand would have been higher than the available supplies of labour in this sector. The total number of new employment opportunities created in the organised sector over the four year period 1978-1981 amounted to 318,847; With an estimated 125,000 persons entering the labour market per year, employment opportunities have to increase much more rapidly to sustain this declining trend in unemployment over the next few years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.810466766357422,
+      10.083014488220215,
+      10.090621948242188,
+      10.092510223388672,
+      10.15005874633789,
+      10.1726655960083,
+      10.18212604522705,
+      10.243193626403809,
+      10.243696212768555,
+      10.252992630004883,
+      10.283737182617188,
+      10.300000190734863,
+      10.326338768005371,
+      10.351787567138672,
+      10.382784843444824,
+      10.39124584197998,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.52697467803955,
+      10.62305736541748,
+      10.837258338928223
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.47,
+      304.4,
+      414.26,
+      454.59
+    ],
+    "text": "The prospects of further stabilisation critically depends on the level of domestic production, import capacity;goveniment budget, and the growth of money and credit. Import capacity, in the long run is determined essentially by the export performance. An export led strategy is essentially a medium to long term goal Among other things, the output of domestic agriculture and industry, depends on the cost of credit and savings. A high rate of inflation is not only a disincentive to save, but inevitably raises the cost of credit by compelling the continuation of high interest rates. Consequently, the burden of maintaining price stability that would induce savings and investment in the short run would fall on both fiscal policy and monetary policy. The need for price stability underscores the need for both fiscal and monetary restraint.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.273682594299316,
+      10.343948364257812,
+      10.349577903747559,
+      10.399999618530273,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      49.94,
+      462.81,
+      413.38,
+      602.68
+    ],
+    "text": "To be effective tools of economic stabilisation, monetary and fiscal policies have to have a common goal. Restrictive monetary policy can have little impact in the context of an expansionist fiscal policy. Fiscal expansion beginning with 1979 induced an expansion of domestic credit and accelerated the draw on net external reserves. It is true that a loss of external reserves exerts a contractionary impact on both monetary aggregates - Narrow Money (M1) and Broad Money (M2) \u2022 . But such monetary contraction to compensate excessive domestic credit expansion does not check the demand for credit. In any event, the leakage of excessive credit expansion through loss of external reserves has obvious limits, given the need to maintain a satisfactory level of imports reserves.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.900100231170654,
+      10.015573501586914,
+      10.343948364257812,
+      10.399999618530273,
+      10.485994338989258,
+      11.08781909942627
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51.82,
+      610.89,
+      412.14,
+      648.52
+    ],
+    "text": "On the trade front, there were hopeful signs that the demand management policies have improved the overall performances. During the year, exports (Rs. 20,585 million) grew at a faster rate than imports (Rs. 35,251 million). In fact, the modera-",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.112646102905273,
+      10.300000190734863,
+      10.399999618530273,
+      10.451571464538574
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      461.58,
+      437.91,
+      472.92,
+      465.94
+    ],
+    "text": "1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.399999618530273
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      461.94,
+      529.44,
+      469.69,
+      550.12
+    ],
+    "text": "1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216.36,
+      45.93,
+      257.75,
+      59.8
+    ],
+    "text": "( 9 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57.27,
+      70.16,
+      420.17,
+      281.32
+    ],
+    "text": "tion in the flow of imports was fairly remarkable. In more stable SDR terms the rate of growth of imports which recorded a 41 per cent increase in 1980 showed marginally negative growth in 1981. However, the balance of trade continued to be in deficit. The trade deficit at Rs. 14,666million was 10per cent lower than the deficit recorded in 1980. While the rate of growth of exports increased in 1981, it still remained inadequate. The problem was compounded by a further deterioration in the terms of trade which declined by 21 per cent in the year. The overall performance of the export sector however, gives room for cautious optimism. The export volumes of major export commodities with the exception of tea showed some growth. Increased export earnings from the textile and garments, minor export agricultural products and other industrial exports were largely responsible for the higher growth of exports in 1981. On the import side, investment goods showed a decline largely as a result of the withdrawal of the lump sum depreciation concession early in the year. There was an increase in the share of intermediate goods while consumer goods more or less maintained their relative share in total imports.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.727025985717773,
+      9.745558738708496,
+      10.14138412475586,
+      10.199212074279785,
+      10.201556205749512,
+      10.215004920959473,
+      10.338668823242188,
+      10.349577903747559,
+      10.390795707702637,
+      10.399999618530273,
+      10.451571464538574,
+      10.48073673248291,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.56,
+      293.61,
+      420.05,
+      488.43
+    ],
+    "text": "Sri Lanka's balance of payments in 1981 also improved considerably when compared with 1980. As against the large overall deficit of SDR 166 million (Rs. 2,967 million) in 1980, the deficit in 1981 was SDR 26 million (Rs. 406 million). Better demand management policies and flexible exchange rate policies helped this development, which was reflected in lower trade as well as current account deficits. Larger inflows on account of both, private remittances and official transfers in the context of a narrowed trade deficit resulted in the current account deficit in 1981 showing a considerable improvement over the previous year. The larger capital inflow in the form of foreign loans including substantial assistance from the International Monetary Fund (IMF) direct investments and short term borrowings helped to contain the overall balance of payments deficit to modest proportions. The notable feature of the financing of the deficit was the increased resort to commercial borro-wings both by the Government as well as by the Public Sector Corporations in the face of limited amount of resources available from the conventional sources, such as foreign loans, and grants and drawings from the IMF. However, a larger part of the external resources gap in 1981 was financed by non-monetary capital.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.927149772644043,
+      10.14312744140625,
+      10.143486976623535,
+      10.201556205749512,
+      10.202729225158691,
+      10.26142692565918,
+      10.349577903747559,
+      10.364689826965332,
+      10.390795707702637,
+      10.39124584197998,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748,
+      10.758423805236816
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.04,
+      500.48,
+      419.99,
+      586.35
+    ],
+    "text": "During 1981 while gross external assets increased by Rs. 2,456 million (SDR 91.4 million), net external assets showed a decline of Rs. 406 million (SDR 26 mi11ion). The level of gross external assets at the end of 1981 was adequate to finance a little over 2 month's imports. The overall debt service ratio (including those on loans from the IMF and Public Sector Supplier's Credit) increased from 12.4 per cent in 1980 to 13.4 per cent, while the debt service ratio excluding IMF transactions declined from 7.5 per cent in 1980 to 6.8 per cent in 1981.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.927149772644043,
+      10.054407119750977,
+      10.131842613220215,
+      10.199212074279785,
+      10.201556205749512,
+      10.202729225158691,
+      10.272721290588379,
+      10.288552284240723,
+      10.308951377868652,
+      10.349577903747559,
+      10.359319686889648,
+      10.364689826965332,
+      10.390795707702637,
+      10.393047332763672,
+      10.399999618530273,
+      10.417784690856934,
+      10.480687141418457,
+      10.62305736541748,
+      10.758423805236816
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.46,
+      596.48,
+      419.3,
+      646.61
+    ],
+    "text": "Exchange rate and tariff policies also formed a part of the package of policy measures employed during the year. The flexible exchange rate manage-ment policy pursued during the year helped to ease the pressure on the balance of payments. The rationalisation of the import duty structure which was put into",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.292038917541504,
+      10.390795707702637,
+      10.399999618530273,
+      10.485994338989258
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      207.96,
+      47.84,
+      249.35,
+      61.71
+    ],
+    "text": "( 10 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.399999618530273,
+      10.472596168518066
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      48.13,
+      70.17,
+      409.25,
+      210.99
+    ],
+    "text": "effect with the coming into force of the new Turnover Tax Act No. 69 of 1981 is a much desired refinement. Import duties are broken up into a protective component and a revenue component with the latter, i.e. turnover tax, applying to the local manufacture of counterpart items as well. The new tax structure should ensure better evaluation of the protective effect of customs duties and should also lend itself to more active use for both revenue as well as balance of payments purposes. It could form the basis on which future selective increases in tariff/turnover taxes can be made to discourage non-essential imports as well as conspicuous consumption and the diversion locally of resources for the manufacture of such items, while ensuring the required degree of protection to deserving local industries.",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.857975006103516,
+      9.909849166870117,
+      10.26892375946045,
+      10.273682594299316,
+      10.329813003540039,
+      10.344149589538574,
+      10.39124584197998,
+      10.399199485778809,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748,
+      11.062142372131348
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      48.87,
+      221.12,
+      409.51,
+      418.35
+    ],
+    "text": "The present import tariff structure is basically the result of an ad hoc exercise carried out in 1977 prior to the liberalization measures launched late that year. Since then, no rational attempt seems to have been made to assess the need for, and the consequences of, protection for industry implied in the present tariff structure, with the result that investment in non-priority areas may continue to be favoured, leading to a mis-allocation of resources\u00b7 The continuation of the structure may also lead to an undesirable bias in favour of import substitution vis-a-vis export industry. In view of this, the task of evolving a rational tariff structure based on levels of effective protec-tion requires urgent consideration. Action was initiated in 1980 when a study of the levels of effective protection was undertaken with the technical assis-tance of the World Bank. This work needs to be urgently followed up on a much wider and comprehensive basis by the Presidential Tariff Commiss-ion\u00b7 that has been appointed to look into this matter.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.131842613220215,
+      10.273682594299316,
+      10.309304237365723,
+      10.324777603149414,
+      10.349577903747559,
+      10.37607192993164,
+      10.398499488830566,
+      10.399999618530273,
+      10.485994338989258,
+      10.545679092407227,
+      10.62305736541748,
+      10.758423805236816
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      49.59,
+      426.56,
+      411.53,
+      594.28
+    ],
+    "text": "Sri Lanka's balance of payments problem is fundamental in character and major adjustments are required to bring about reasonable stability in external payments. This cannot be achieved in the short run. In the short run the emphasis of stabilisation policies is directed more on demand management as Was the case in 1981. However, medium and long term policies should necessarily be framed on long term stability through the expansion and diversification of exports. Although the export structure has undergone some change with the expansion of exports of industrial origin including garment and refined petroleum products, most of these industries export products with a high import content. The domestic value added is generally very low. Initially, this is unavoidable to an extent in a small economy like Sri Lanka, but there is an urgent need that future policy should . aim\u00b7 at raising the level of domestic value added.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.996939659118652,
+      10.080852508544922,
+      10.237277030944824,
+      10.273682594299316,
+      10.274998664855957,
+      10.399999618530273,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      50.15,
+      604.65,
+      409.81,
+      646.61
+    ],
+    "text": "The response of the paddy sector to the freeing of the market and the reduced government intervention has been very encouraging. This has happened notwithstanding the increase i;n the cost of production over the last three years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.773337364196777,
+      10.387642860412598,
+      10.399999618530273,
+      10.485994338989258
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      216.07,
+      45.96,
+      257.76,
+      59.29
+    ],
+    "text": "( 11 )",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.540782928466797,
+      9.699999809265137
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.67,
+      69.93,
+      418.03,
+      132.04
+    ],
+    "text": "There is every reason to expect the same response from the other field crop producers, with only the helpful intervention of the government in the form of realistic floor prices, as is .being . currently done. Minor agricultural exports fared very well in 1981 and, given the right kind of incentives, should continue to make a substantial contribution to export earnings of the country in the near future.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.857975006103516,
+      10.273682594299316,
+      10.344149589538574,
+      10.395448684692383,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.06,
+      144.31,
+      418.58,
+      339.16
+    ],
+    "text": "During the year there were clear indications of the government's desire to maintain producer incentives. Export duties on tea, rubber and coconut were all scaled down at much cost to revenue, to ensure adequate margins to producers. . The coconut export trade became a major beneficiary of the de-regulation of the export trade. On the domestic front, the guaranteed price of paddy was increased twice during the year by Rs. 2.50 and Rs. 5.00 to Rs. 57.50 per bushel to reflect the higher costs of inputs while a floor price scheme was devised to cover the subsidiary food crops. The price of flour\u00b7 which has a bearing on production of such crops, was adjusted upwards. There was also a significant reduction in the budgetary payments to loss-making corporations that seemed to induce animprove-ment of their performance. One of the most difficult problems encountered in working a liberalised economy has been the need to ensure remunerative margins to producers while ensuring what are deemed to be 'reasonable' prices to consumers. Most of these measures were aimed at improving producer margins at the expense of consumers and were difficult decisions. often entailing substantial sacrifices of government revenue as well.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.286581039428711,
+      10.309304237365723,
+      10.329813003540039,
+      10.340177536010742,
+      10.359319686889648,
+      10.375922203063965,
+      10.390795707702637,
+      10.399999618530273,
+      10.417784690856934,
+      10.438528060913086,
+      10.485994338989258,
+      10.575616836547852,
+      10.62305736541748
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54.6,
+      351.2,
+      418.58,
+      521.07
+    ],
+    "text": "o.ne of the major concerns of the country continued to be its energy policy. The rapidly rising import bill for crude oil and petroleum products has contributed its share to the huge trade deficits the country has experienced over the last few years. In 1981. the total petroleum bill accounted for about 25 per cent of the total imports and absorbed 42 per cent of the total export earnings. Given the need to supplement 'its power supplies with expensive fuel consuming gas turbines till the hydro power projects of the Mahaveli programme comes on stream, imports of petroleum and petroleum products are bound to increase in the near future. It is inconceivable that Sri Lanka'could continue to expend resources on this scale on just one item of imports, however essential it may be. The situation warrants urgent attention directed towards the formulation of a national energy conservation policy, as a matter of highest priority. Sound demand management policy in the short run, coupled with a planned supply expansion strategy, including the search for alternative sources of energy in the long run, are of critical importance. .",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      10.01258373260498,
+      10.12424373626709,
+      10.1726655960083,
+      10.201556205749512,
+      10.37336540222168,
+      10.377575874328613,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748,
+      11.257975578308105
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      54.74,
+      533.36,
+      417.24,
+      645.16
+    ],
+    "text": "The transition from a closed economy to an open economy largely guided by market forces, poses serious problems of adjustment. Some vestiges of the earlier .economic regime characterized by regulated economic behaviour continued to per-sist and create anomalies in the allocation of resources. The economy in 1981 actually felt the strains and stresses of such adjustment, compounded by the problems of international inflation and adverse terms of trade. Notwithstanding this, the overall economic performance of Sri Lanka's economy in 1981 could be said to have shown a significant improvement over 1980.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.927149772644043,
+      10.201556205749512,
+      10.222586631774902,
+      10.349577903747559,
+      10.399999618530273,
+      10.438528060913086,
+      10.485994338989258,
+      10.62305736541748
+    ]
+  }
+]

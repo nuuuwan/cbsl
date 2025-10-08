@@ -1,0 +1,177 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      235.44,
+      59.33,
+      247.93,
+      69.41
+    ],
+    "text": "40",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.543553352355957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.64,
+      91.73,
+      101.73,
+      101.81
+    ],
+    "text": "WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.372204780578613
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.4,
+      111.65,
+      419.03,
+      197.33
+    ],
+    "text": "Available data indicate that the money wages of government employees have risen faster in 1979 than in 1978. The money wages of technical and clerical employees increased by 16 per cent, as against an increase of 12 per cent in the previous year. In the case of minor employees and school teachers, the increase in money wages were 21 and 15 per cent, respectively, compared to an increase of 16 and 10 percent, respectively in 1978. These increases arose out of a wage rise of 10 per cent of the consolidated salary granted in January and a further supplementary allowance of Rs. 55 per month given in September.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.873690605163574,
+      9.42458724975586,
+      9.562320709228516,
+      9.593964576721191,
+      9.673432350158691,
+      9.91645336151123,
+      9.97789192199707,
+      10.049837112426758,
+      10.092019081115723,
+      10.119715690612793,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.4,
+      224.93,
+      421.72,
+      312.29
+    ],
+    "text": "The real wages of government employees, using the Colombo Consumers' Price Index as the deflator, showed a lower rate of increase than the money wage rates. However, this was an improvement over 1978, when real wages tended to decline. The real wages for technical and clerical employees increased by 5 per cent, while it remained constant in the previous year. The real wages of school teachers which dropped by 1 per cent in 1978, increased by 4 per cent in 1979, while that of minor employees rose by 9 per cent, as against an increase of 4 per cent in the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.362083435058594,
+      9.42458724975586,
+      9.63165283203125,
+      9.673432350158691,
+      9.91645336151123,
+      9.961528778076172,
+      10.010248184204102,
+      10.041717529296875,
+      10.119715690612793,
+      10.163359642028809,
+      10.23731803894043,
+      10.725885391235352
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.64,
+      334.85,
+      419.81,
+      416.93
+    ],
+    "text": "In 1979, the money wages of private sector employees covered by Wages Board regulations, rose by 27 per cent. The money wages of workers in agriculture recorded an increase of 28 per cent, while the index for workers in industry and commerce rose by 17 per cent. When the increases in money wages were discounted by the Colombo Consumers' Price Index, the real wages of workers in agriculture showed an increase of 15 per cent, while that of the workers in industry and commerce rose by 5 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.362083435058594,
+      9.628514289855957,
+      9.644197463989258,
+      9.673432350158691,
+      9.922005653381348,
+      9.961528778076172,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.64,
+      439.73,
+      419.48,
+      551.33
+    ],
+    "text": "It should be noted, however, that the Central Bank wage rate indices for government employees are based on minimum salaries and wages payable in representative scales. The Labour Department's indices of workers in agriculture, industry and commerce covered by wages boards in the private sector are based on minimum wages fixed by wages boards, and since December, 1967 include \"devaluation allowances\". Thus, the wage indices would not reckon overtime and incentive payments. Even allowing for these, the inference that general price increases in 1979 were much higher than what is indicated in the Colombo Consumers' Price Index, would show that real wages outside the agricultural sector declined in 1979.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.362083435058594,
+      9.47611141204834,
+      9.600262641906738,
+      9.673432350158691,
+      9.906970977783203,
+      9.919041633605957,
+      9.921045303344727,
+      9.922005653381348,
+      9.932099342346191,
+      9.961528778076172,
+      10.119715690612793,
+      10.163359642028809,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.4,
+      572.93,
+      141.36,
+      583.01
+    ],
+    "text": "EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.466756820678711
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.88,
+      593.57,
+      420.05,
+      645.89
+    ],
+    "text": "The non-availability of regular and complete data is a major limitation to analyzing changes in employment in Sri Lanka. Important variables such as the total labour force, number employed and unemployed used in this analysis are, therefore, only estimates based on data obtained from Census and Sample Surveys conducted at irregular intervals.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.33621883392334,
+      9.601859092712402,
+      9.673432350158691,
+      9.91089916229248,
+      9.914407730102539,
+      9.925802230834961,
+      9.952006340026855,
+      10.041717529296875,
+      10.049837112426758
+    ]
+  }
+]
