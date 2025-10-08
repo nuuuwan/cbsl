@@ -87,7 +87,8 @@ class AnnualReports(AbstractPDFDoc):
                     + href
                 )
                 year = p.text.strip()[-4:]
-                assert year.isdigit(), year
+                if not year.isdigit():
+                    continue
                 yield (url_report, year)
 
     @classmethod
@@ -105,7 +106,8 @@ class AnnualReports(AbstractPDFDoc):
             if "Annual Report" not in description:
                 continue
             year = description[-4:]
-            assert year.isdigit(), description
+            if not year.isdigit():
+                continue
             a = h3.find("a")
             if not a:
                 continue
