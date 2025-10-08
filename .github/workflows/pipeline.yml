@@ -8,7 +8,7 @@ on:
         required: false
         default: "1"
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   pipeline:
