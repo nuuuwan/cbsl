@@ -50,6 +50,8 @@ class AnnualReports(AbstractPDFDoc):
             if not href.endswith(".pdf"):
                 continue
             url_pdf = href
+            if "https://www.cbsl.gov.lk" not in url_pdf:
+                url_pdf = "https://www.cbsl.gov.lk" + url_pdf
             description = a.text.strip()
             num = url_pdf.split("/")[-1].replace(".pdf", "")
             yield cls(
