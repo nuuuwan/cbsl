@@ -1,0 +1,9000 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      180.48,
+      311.42,
+      278.0,
+      324.37
+    ],
+    "text": "APPENDIX III",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.03792953491211,
+      12.126585960388184
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.32,
+      333.73,
+      248.16,
+      342.81
+    ],
+    "text": "CHARTS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.324191093444824
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      374.64,
+      33.1,
+      409.31,
+      42.07
+    ],
+    "text": "Chart I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.067129135131836,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      133.2,
+      58.56,
+      331.97,
+      73.08
+    ],
+    "text": "GROSS NATIONAL PRODUCT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.4,
+      75.58,
+      305.47,
+      84.55
+    ],
+    "text": "AT CURRENT FACTOR COST PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.04,
+      114.56,
+      409.12,
+      127.86
+    ],
+    "text": "IN INDEX POINTS IN INDEX 110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.209067344665527,
+      5.300000190734863,
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      397.68,
+      148.64,
+      409.08,
+      154.5
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      398.88,
+      175.28,
+      409.81,
+      181.14
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      400.56,
+      202.88,
+      408.91,
+      208.74
+    ],
+    "text": "80",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      400.8,
+      229.76,
+      409.03,
+      235.62
+    ],
+    "text": "60",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.88,
+      249.44,
+      121.3,
+      262.26
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.210334300994873,
+      5.300000190734863,
+      5.901830673217773,
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.88,
+      283.04,
+      66.13,
+      288.9
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.88,
+      309.92,
+      66.31,
+      315.78
+    ],
+    "text": "6000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.88,
+      336.8,
+      66.13,
+      342.66
+    ],
+    "text": "5000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.88,
+      363.92,
+      63.08,
+      369.78
+    ],
+    "text": "(000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.300000190734863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      338.88,
+      250.16,
+      409.15,
+      262.98
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.210334300994873,
+      5.300000190734863,
+      5.901830673217773,
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217.44,
+      270.32,
+      240.85,
+      276.18
+    ],
+    "text": "G N P",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.176122665405273,
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      393.6,
+      283.76,
+      408.85,
+      289.62
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392.64,
+      310.64,
+      408.61,
+      316.5
+    ],
+    "text": "6000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392.4,
+      337.76,
+      408.19,
+      343.62
+    ],
+    "text": "5000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.9358344078063965
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      392.64,
+      364.88,
+      408.25,
+      370.74
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.4,
+      410.96,
+      75.86,
+      423.78
+    ],
+    "text": "RUPEES 700",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.300000190734863,
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.4,
+      444.32,
+      62.43,
+      450.18
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.4,
+      471.44,
+      62.43,
+      477.3
+    ],
+    "text": "500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      215.76,
+      420.38,
+      245.91,
+      430.34
+    ],
+    "text": "1 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.998000144958496,
+      10.01974868774414
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.6,
+      436.64,
+      268.42,
+      457.66
+    ],
+    "text": "G. N P. PER CAPITA 1 ' \u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.261861801147461,
+      5.300000190734863,
+      5.901830673217773,
+      12.12399959564209,
+      13.500715255737305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      381.36,
+      411.92,
+      408.52,
+      424.5
+    ],
+    "text": "RUPEES 700",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.300000190734863,
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.96,
+      444.8,
+      408.52,
+      450.66
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      396.48,
+      471.92,
+      408.36,
+      477.78
+    ],
+    "text": "500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.24,
+      506.16,
+      392.63,
+      512.1
+    ],
+    "text": "1951 195? 1953 1951 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      50.16,
+      554.48,
+      406.79,
+      560.58
+    ],
+    "text": "Dept. of Economic Research. Source. Central Bonk of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.568002700805664,
+      5.572969913482666,
+      5.604609489440918,
+      5.631932735443115,
+      5.633753299713135,
+      5.639981746673584,
+      5.692136287689209,
+      5.901830673217773
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      51.12,
+      582.94,
+      410.92,
+      612.07
+    ],
+    "text": "Note:\u2014 The Figures and Indices for the years 1951 to 1958 are not strictly comparable with the Indices for 1959\u20141964. The complete series in this chart has been obtained by linking the series for the years 1951 to 1958 with the present series for the years 1959 to 1964.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.066315650939941,
+      8.09582805633545,
+      8.100000381469727,
+      8.34162425994873,
+      8.380154609680176,
+      8.405326843261719,
+      8.405834197998047,
+      8.414063453674316,
+      8.416325569152832,
+      8.467967987060547,
+      8.514328956604004,
+      8.537147521972656,
+      8.587337493896484,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      372.96,
+      29.77,
+      409.05,
+      38.4
+    ],
+    "text": "Chart 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      9.804448127746582
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      126.96,
+      52.94,
+      326.79,
+      67.58
+    ],
+    "text": "GROSS NATIONAL PRODUCT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.049928665161133,
+      13.230351448059082
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      130.08,
+      71.29,
+      308.54,
+      79.92
+    ],
+    "text": "AT CONSTANT (1959) FACTOR COST PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      8.088114738464355,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.12,
+      106.81,
+      134.31,
+      123.12
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.2,
+      106.81,
+      407.43,
+      123.36
+    ],
+    "text": "ANNUALLY MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.489754676818848,
+      7.8776140213012695,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.64,
+      146.65,
+      406.72,
+      155.28
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.12,
+      264.25,
+      78.96,
+      281.76
+    ],
+    "text": "RUPEES 7 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.12,
+      304.57,
+      61.56,
+      313.2
+    ],
+    "text": "6 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.12,
+      336.73,
+      61.24,
+      345.36
+    ],
+    "text": "500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.6,
+      368.17,
+      61.56,
+      376.8
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.36,
+      399.85,
+      61.16,
+      408.48
+    ],
+    "text": "300",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.36,
+      431.53,
+      61.16,
+      440.16
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.88,
+      463.21,
+      60.52,
+      471.84
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      85.92,
+      284.2,
+      116.87,
+      339.25
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      49.279998779296875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.4,
+      350.12,
+      122.79,
+      417.26
+    ],
+    "text": ".I.IJJ.U.W \u2022",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.390520095825195,
+      60.64899826049805
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.12,
+      446.65,
+      121.98,
+      455.28
+    ],
+    "text": "* I til 11 it",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.572028636932373,
+      7.800000190734863,
+      7.8776140213012695,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      87.12,
+      459.26,
+      118.29,
+      468.0
+    ],
+    "text": "1111111 It",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.694414138793945,
+      7.959860801696777
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      86.88,
+      472.09,
+      122.52,
+      480.72
+    ],
+    "text": "1.1 I.I i.l. U.l.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      8.254744529724121,
+      8.294814109802246
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      88.32,
+      490.81,
+      117.1,
+      499.44
+    ],
+    "text": "Illllllll",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.515478134155273
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.84,
+      309.87,
+      188.24,
+      353.17
+    ],
+    "text": "1.1,1,1.1,1.1.1,11 \\\\w\\w r1111 riit i ,iJi.U.i.iil",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.857712745666504,
+      9.257575988769531,
+      12.546796798706055,
+      12.549742698669434,
+      12.861381530761719,
+      20.300004959106445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.8,
+      365.66,
+      176.66,
+      399.57
+    ],
+    "text": ",', mm iiti.iiiii",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      13.100000381469727,
+      20.300004959106445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      136.08,
+      411.87,
+      166.9,
+      418.35
+    ],
+    "text": "U.I.I.IJ.I.IIJ",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.857712745666504
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.84,
+      441.09,
+      171.03,
+      464.98
+    ],
+    "text": "SSI",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.829498291015625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.84,
+      465.63,
+      166.36,
+      497.14
+    ],
+    "text": "I I I I I I I I I I I I",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.857712745666504,
+      21.374074935913086
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185.28,
+      282.73,
+      265.6,
+      332.58
+    ],
+    "text": "6.N.P PER CAPITA MM M\\\\\\",
+    "fonts": [
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695,
+      8.254744529724121,
+      19.61259651184082,
+      19.980756759643555
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190.56,
+      335.31,
+      211.71,
+      338.34
+    ],
+    "text": "1 1 1 1 1 1 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.7300000190734863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185.76,
+      347.29,
+      233.37,
+      380.13
+    ],
+    "text": ".!.!.!.!.!.!.!.!. WHS ti.iittiii",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.800000190734863,
+      7.8776140213012695,
+      19.144445419311523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186.24,
+      458.44,
+      222.27,
+      468.5
+    ],
+    "text": "Wi'i'iVi'i'",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      11.404220581054688
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      186.72,
+      472.83,
+      216.83,
+      479.31
+    ],
+    "text": ",1.1.1.1.1.1.1.1.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.789870262145996
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      371.04,
+      264.49,
+      406.04,
+      282.24
+    ],
+    "text": "RUPEES 7 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.72,
+      500.65,
+      209.67,
+      509.76
+    ],
+    "text": "1959 1960 1961",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220.8,
+      297.17,
+      276.31,
+      319.62
+    ],
+    "text": "\u2014 Will",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      10.5,
+      20.300004959106445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.04,
+      320.78,
+      265.64,
+      329.49
+    ],
+    "text": "rmVi'i'i",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.76,
+      301.54,
+      367.88,
+      318.43
+    ],
+    "text": "\u2014 .lYl'l' \u2014 Viiri rri i I I I I I J J I",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.857712745666504,
+      7.8776140213012695,
+      7.899170398712158,
+      8.254744529724121,
+      10.5,
+      11.589910507202148
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220.08,
+      321.02,
+      366.15,
+      363.22
+    ],
+    "text": "III liljil, \u2014 lis",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.841183185577393,
+      7.8776140213012695,
+      10.5,
+      21.801801681518555
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.68,
+      367.45,
+      265.89,
+      376.08
+    ],
+    "text": "ii in1111",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.075937271118164,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      269.52,
+      333.46,
+      282.94,
+      345.19
+    ],
+    "text": "\u2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.84,
+      323.42,
+      318.87,
+      369.54
+    ],
+    "text": "1 1 j 111111111 111111111 11II11 TIT km",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.857712745666504,
+      7.290487289428711,
+      7.531343460083008,
+      7.8776140213012695,
+      14.706671714782715,
+      20.300004959106445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      318.96,
+      333.5,
+      367.71,
+      348.72
+    ],
+    "text": "\u2014 111 III til Viiii i i",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.899145126342773,
+      7.857972621917725,
+      7.8776140213012695,
+      8.254744529724121,
+      9.804448127746582,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.68,
+      358.9,
+      373.52,
+      401.62
+    ],
+    "text": "iViViWi1.' 1 i 111",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.7300000190734863,
+      4.61940336227417,
+      9.804448127746582,
+      13.198295593261719,
+      21.674251556396484
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.92,
+      401.39,
+      263.28,
+      407.81
+    ],
+    "text": "i i i i i i i i i",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.122284412384033
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.84,
+      363.65,
+      361.81,
+      413.52
+    ],
+    "text": "Willi) 1 1 \u2022",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.923416137695312,
+      21.801801681518555,
+      43.012001037597656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.92,
+      403.89,
+      323.18,
+      427.78
+    ],
+    "text": "i \u2022\u00a71111ii DDI",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.138143539428711,
+      7.290487289428711,
+      21.801801681518555
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      335.04,
+      403.1,
+      365.24,
+      423.57
+    ],
+    "text": "' l I I IVt'i'/t",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.290487289428711,
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      219.84,
+      459.7,
+      233.26,
+      471.43
+    ],
+    "text": "\u2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      235.44,
+      434.3,
+      279.18,
+      499.09
+    ],
+    "text": "ri ii it in I B i i ,11 11 Vi i \u00a7 111",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.857712745666504,
+      5.899145126342773,
+      7.162422180175781,
+      7.8776140213012695,
+      7.899710178375244,
+      11.816420555114746,
+      11.8189115524292,
+      12.861381530761719,
+      20.904754638671875,
+      21.801801681518555
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      285.6,
+      421.39,
+      325.46,
+      502.74
+    ],
+    "text": "\u2022 mm mm",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      20.300004959106445,
+      43.012001037597656
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      318.48,
+      459.7,
+      331.9,
+      471.43
+    ],
+    "text": "\u2014",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.56,
+      411.81,
+      374.42,
+      464.58
+    ],
+    "text": "i ' i v mm mm",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.138143539428711,
+      20.300004959106445,
+      22.84553337097168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      334.8,
+      462.45,
+      386.08,
+      490.26
+    ],
+    "text": "M'i m\\\\\\\\\\",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-Oblique",
+      "Times-Roman"
+    ],
+    "sizes": [
+      14.706671714782715,
+      20.300004959106445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      239.76,
+      500.89,
+      357.94,
+      509.76
+    ],
+    "text": "1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      389.04,
+      304.81,
+      405.32,
+      313.44
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      369.12,
+      336.73,
+      406.59,
+      345.36
+    ],
+    "text": "\u2014 500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.800000190734863,
+      8.254744529724121
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      389.04,
+      368.17,
+      405.16,
+      376.8
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      389.04,
+      399.85,
+      405.32,
+      408.48
+    ],
+    "text": "300",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      389.52,
+      431.77,
+      405.16,
+      440.4
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      389.76,
+      463.21,
+      405.25,
+      471.84
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.8776140213012695
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      44.64,
+      555.95,
+      406.37,
+      562.37
+    ],
+    "text": "Dept of Economic Research. Source.-Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.857712745666504,
+      6.138143539428711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      366.0,
+      35.26,
+      401.48,
+      44.23
+    ],
+    "text": "Chart 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.4,
+      63.56,
+      381.45,
+      78.42
+    ],
+    "text": "GROSS DOMESTIC PRODUCT BY INDUSTRIAL ORIGIN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.8438720703125,
+      12.043662071228027,
+      13.098980903625488
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      146.88,
+      79.9,
+      298.44,
+      88.87
+    ],
+    "text": "AT CURRENT FACTOR COST PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.081186294555664,
+      8.156542778015137,
+      8.242202758789062
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.6,
+      115.9,
+      133.32,
+      133.03
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.173498153686523,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.84,
+      171.82,
+      59.85,
+      180.79
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      205.68,
+      120.42,
+      236.83,
+      126.12
+    ],
+    "text": "ANNUALLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.6,
+      219.1,
+      60.13,
+      228.07
+    ],
+    "text": "6000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.6,
+      266.38,
+      68.62,
+      275.35
+    ],
+    "text": "5000 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.6,
+      314.14,
+      69.1,
+      323.11
+    ],
+    "text": "4000 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.36,
+      361.42,
+      59.37,
+      370.39
+    ],
+    "text": "3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.36,
+      408.7,
+      59.19,
+      417.67
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.12,
+      456.7,
+      59.3,
+      465.67
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      310.8,
+      115.9,
+      402.36,
+      133.03
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.173498153686523,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.8,
+      171.54,
+      334.74,
+      177.24
+    ],
+    "text": "OTHER SERVICES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276.96,
+      182.58,
+      359.71,
+      203.16
+    ],
+    "text": "Qlncl Govt. Medical. Heolth. \u2022 Educational,Broadcasting & Meteorological Services]",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276.96,
+      216.18,
+      357.45,
+      228.84
+    ],
+    "text": "PUBLIC ADMINISTRATION * A N D DEFENCE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276.96,
+      234.9,
+      363.54,
+      240.6
+    ],
+    "text": "\u2022OWNERSHIP OF DWELLINGS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276.96,
+      242.82,
+      349.59,
+      253.8
+    ],
+    "text": "\u2022BANKING, INSURANCE I OTHER FINANCE",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271.2,
+      261.78,
+      367.62,
+      267.48
+    ],
+    "text": "\u2014'WHOLESALE \u00ab RETAIL TRADE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.8,
+      287.94,
+      370.54,
+      293.66
+    ],
+    "text": "TRANSPORTATION,STORAGE 4",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271.44,
+      291.99,
+      333.45,
+      300.12
+    ],
+    "text": "\u2014 * C O M M U N I C A T ION",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      1.7580211162567139,
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.8,
+      316.74,
+      365.09,
+      329.9
+    ],
+    "text": "CONSTRUCTION rjlncl.Constructional Materials]",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.8,
+      339.3,
+      330.77,
+      345.0
+    ],
+    "text": "MANUFACTURING",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.56,
+      347.46,
+      367.9,
+      353.16
+    ],
+    "text": "[Excl.Constructional Materials^",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271.2,
+      355.62,
+      355.92,
+      361.32
+    ],
+    "text": "\u2014\u2022MINING ANO QUARRYING",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      381.12,
+      171.34,
+      401.13,
+      180.31
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      370.32,
+      218.86,
+      402.76,
+      227.83
+    ],
+    "text": "- 6000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      281.04,
+      418.98,
+      361.62,
+      430.68
+    ],
+    "text": "AGRICULTURE, FORESTRY LIVESTOCK AND FISHERIES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      280.8,
+      434.58,
+      355.21,
+      445.56
+    ],
+    "text": "[^inclusive of the processing of Agricultural Exports]",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0229172706604,
+      5.089994430541992,
+      5.445309638977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      380.64,
+      266.14,
+      401.17,
+      275.11
+    ],
+    "text": "5000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      381.36,
+      313.9,
+      401.72,
+      322.87
+    ],
+    "text": "4000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      380.4,
+      360.94,
+      401.11,
+      369.91
+    ],
+    "text": "3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      381.36,
+      408.46,
+      401.54,
+      417.43
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      380.64,
+      455.98,
+      401.0,
+      464.95
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.12,
+      510.94,
+      268.61,
+      519.91
+    ],
+    "text": "1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.977575302124023,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.4,
+      564.74,
+      400.74,
+      570.86
+    ],
+    "text": "Dept. of Economic Research: Source-- Central Bank of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.445309638977051,
+      5.5837202072143555
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      377.28,
+      34.3,
+      412.39,
+      43.27
+    ],
+    "text": "Chart 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.686283111572266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      119.04,
+      61.91,
+      344.02,
+      76.44
+    ],
+    "text": "GROSS NATIONAL EXPENDITURE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.869342803955078
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      167.76,
+      78.22,
+      292.7,
+      87.19
+    ],
+    "text": "AT CURRENT MARKET PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      50.4,
+      113.74,
+      138.62,
+      132.07
+    ],
+    "text": "MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.686283111572266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      214.8,
+      113.26,
+      411.02,
+      131.83
+    ],
+    "text": "ANNUALLY MILLIONS OF RUPEES 8000",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      8.018590927124023,
+      8.686283111572266
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      136.56,
+      186.26,
+      282.93,
+      191.9
+    ],
+    "text": ")ITURE \u2014 OKOSi i NATIONAL EXPEN[ )ITURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.194494247436523,
+      5.198098659515381,
+      5.240407943725586,
+      5.469140529632568
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      185.52,
+      412.1,
+      274.49,
+      418.22
+    ],
+    "text": "GRO SS CAPITAL FORMA riON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.202475070953369,
+      5.469140529632568
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      195.36,
+      427.49,
+      266.14,
+      434.88
+    ],
+    "text": "F UBLIC CONSUMPTIO N",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      4.415759086608887,
+      5.008682727813721,
+      5.048742294311523
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135.36,
+      474.5,
+      275.66,
+      481.58
+    ],
+    "text": "* * * * NE1 r INVESTMENT ABRC A D *",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.198398590087891,
+      5.469140529632568
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.44,
+      164.62,
+      410.41,
+      173.59
+    ],
+    "text": "7000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.44,
+      207.1,
+      410.59,
+      216.07
+    ],
+    "text": "6000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.44,
+      249.58,
+      410.41,
+      258.55
+    ],
+    "text": "5000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.2,
+      291.34,
+      410.52,
+      300.31
+    ],
+    "text": "4000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.2,
+      334.06,
+      410.35,
+      343.03
+    ],
+    "text": "3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      390.96,
+      376.3,
+      410.46,
+      385.27
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      391.92,
+      418.06,
+      410.71,
+      427.03
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.8,
+      502.3,
+      410.76,
+      521.35
+    ],
+    "text": "-1000 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      160.08,
+      537.3,
+      299.24,
+      549.0
+    ],
+    "text": "LESS NET RECEIPTS OF INTERNATIONAL GIFTS AND TRANSFERS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.469140529632568
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.68,
+      562.34,
+      408.68,
+      568.46
+    ],
+    "text": "Dept.. of Economic Reseorch Source Central Bonk of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.469140529632568
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      384.48,
+      34.12,
+      419.39,
+      43.31
+    ],
+    "text": "Chart 5",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.587512016296387,
+      8.900758743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.44,
+      65.94,
+      411.74,
+      78.45
+    ],
+    "text": "PRODUCTION OF PRINCIPAL AGRICULTURAL CROPS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.04,
+      119.21,
+      117.17,
+      135.23
+    ],
+    "text": "MILLIONS OF LBS 600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.576378345489502,
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      151.24,
+      74.32,
+      160.43
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      223.92,
+      118.01,
+      417.89,
+      127.82
+    ],
+    "text": "ANNUALLY MILLIONS OF LBS",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.099050045013428,
+      5.173934459686279,
+      5.576378345489502
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      229.44,
+      124.12,
+      418.96,
+      144.83
+    ],
+    "text": "600 TEA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.148512840270996,
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      176.44,
+      86.87,
+      185.63
+    ],
+    "text": "200 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.176405906677246,
+      8.900758743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      403.92,
+      149.32,
+      418.96,
+      158.51
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      391.2,
+      175.0,
+      420.3,
+      184.19
+    ],
+    "text": "- 200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.25839614868164,
+      8.900758743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      277.96,
+      74.16,
+      287.15
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      220.73,
+      114.77,
+      236.03
+    ],
+    "text": "MILLIONS OF LBS 300 \u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.576378345489502,
+      8.176405906677246,
+      8.900758743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      252.52,
+      74.48,
+      261.71
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      362.4,
+      219.53,
+      418.37,
+      225.28
+    ],
+    "text": "MILLIONS OF LBS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.576378345489502
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      221.76,
+      225.4,
+      419.36,
+      245.39
+    ],
+    "text": "300 RUBBER",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.1261625289917,
+      8.176405906677246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      322.01,
+      118.91,
+      337.55
+    ],
+    "text": "MILLIONS OF NUTS 3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.27934455871582,
+      5.576378345489502,
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      359.28,
+      321.05,
+      418.43,
+      326.8
+    ],
+    "text": "MILLIONS OF NUTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.27934455871582,
+      5.576378345489502
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      399.84,
+      327.4,
+      419.41,
+      336.59
+    ],
+    "text": "3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      353.32,
+      78.85,
+      362.51
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.76,
+      379.0,
+      79.15,
+      388.19
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.24,
+      356.58,
+      140.45,
+      384.21
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      164.88,
+      336.28,
+      250.36,
+      345.47
+    ],
+    "text": "COCONUT PRODUCTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.346928596496582,
+      8.38361644744873
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      153.6,
+      354.34,
+      169.98,
+      366.74
+    ],
+    "text": "5*",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      215.04,
+      371.7,
+      235.01,
+      389.25
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      246.0,
+      358.26,
+      266.35,
+      370.77
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      246.24,
+      381.46,
+      266.3,
+      406.34
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022 w \u2022 \u2022 \u2022",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.143858909606934,
+      11.199999809265137,
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      276.48,
+      341.56,
+      297.69,
+      396.45
+    ],
+    "text": "[^\u202271 2 % \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.25839614868164,
+      8.300000190734863,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308.88,
+      356.34,
+      329.28,
+      404.61
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022m \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0988640785217285,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340.56,
+      366.18,
+      360.53,
+      388.77
+    ],
+    "text": "\u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      371.76,
+      342.36,
+      391.92,
+      365.73
+    ],
+    "text": "\u2022 \u00a9 \u2022\u2022\u2022\u2022\u2022",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.026169776916504,
+      6.467418193817139,
+      11.199999809265137
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      371.76,
+      396.41,
+      390.65,
+      412.76
+    ],
+    "text": "%\u2022\u00bb\u2022 \u2022 \u2022 e",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.467418193817139,
+      6.970473289489746,
+      8.236804008483887
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      400.56,
+      352.36,
+      419.77,
+      361.55
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      400.56,
+      378.04,
+      419.59,
+      387.23
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.169325828552246
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      423.29,
+      130.68,
+      439.07
+    ],
+    "text": "MILLIONS OF BUSHELS 60",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.2974958419799805,
+      5.576378345489502,
+      8.19075870513916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.76,
+      455.08,
+      70.05,
+      464.27
+    ],
+    "text": "40",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.19075870513916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      480.28,
+      69.81,
+      489.47
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.19075870513916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      505.48,
+      65.44,
+      514.67
+    ],
+    "text": "0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.25839614868164
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      346.8,
+      422.57,
+      418.92,
+      428.32
+    ],
+    "text": "MILLIONS OF BUSHELS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.173934459686279,
+      5.2974958419799805,
+      5.576378345489502
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      179.52,
+      428.44,
+      419.85,
+      448.43
+    ],
+    "text": "60 PADDY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.19075870513916,
+      8.39831256866455
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.28,
+      462.76,
+      109.51,
+      482.75
+    ],
+    "text": "rTTTTl ll'llll",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.25839614868164,
+      8.297510147094727
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.28,
+      456.85,
+      143.59,
+      520.5
+    ],
+    "text": "1 nun \u2022",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.65137767791748,
+      12.010661125183105,
+      41.93474197387695
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.48,
+      498.52,
+      160.38,
+      513.52
+    ],
+    "text": "111111 LLLLLl 1",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.046384811401367,
+      7.664275646209717,
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      151.92,
+      515.8,
+      171.57,
+      524.99
+    ],
+    "text": "UILTJ",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.450892448425293
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.36,
+      470.63,
+      202.31,
+      497.54
+    ],
+    "text": "w 'iViVi1 V.V,1",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.935985803604126,
+      3.90035080909729,
+      5.099155902862549,
+      8.39007568359375,
+      11.143858909606934
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      183.36,
+      502.31,
+      189.36,
+      508.2
+    ],
+    "text": "w",
+    "fonts": [
+      "Courier-BoldOblique"
+    ],
+    "sizes": [
+      5.099155902862549
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.56,
+      459.64,
+      239.37,
+      489.81
+    ],
+    "text": "m",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      24.5560302734375
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.8,
+      494.02,
+      221.85,
+      506.42
+    ],
+    "text": "I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.112691879272461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      214.8,
+      508.01,
+      233.1,
+      517.31
+    ],
+    "text": "II llll",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.035590171813965,
+      8.25839614868164
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      247.44,
+      459.35,
+      253.44,
+      465.24
+    ],
+    "text": "m",
+    "fonts": [
+      "Courier-BoldOblique"
+    ],
+    "sizes": [
+      5.099315166473389
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      246.0,
+      474.95,
+      267.82,
+      491.78
+    ],
+    "text": "w iViVr",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.099155902862549,
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      247.44,
+      489.22,
+      265.74,
+      507.91
+    ],
+    "text": "v 11110",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.969924449920654,
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259.68,
+      474.1,
+      297.51,
+      488.18
+    ],
+    "text": "L lift",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.000487327575684,
+      12.410994529724121
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277.44,
+      490.73,
+      296.9,
+      500.03
+    ],
+    "text": "ViVi'i1",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.206928014755249,
+      9.162652015686035
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      277.44,
+      502.42,
+      295.6,
+      514.82
+    ],
+    "text": "Lin",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.143858909606934
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      310.08,
+      456.17,
+      325.85,
+      465.44
+    ],
+    "text": "run",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.820124626159668
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      318.0,
+      463.78,
+      329.0,
+      476.18
+    ],
+    "text": "Vi1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.203731536865234,
+      12.010661125183105
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308.88,
+      475.29,
+      323.38,
+      481.1
+    ],
+    "text": "i i i i i",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.34816837310791
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308.64,
+      494.02,
+      325.61,
+      506.42
+    ],
+    "text": "1 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.143858909606934
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      308.88,
+      512.01,
+      328.61,
+      517.84
+    ],
+    "text": "i!lWi!i",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.8693156242370605
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340.56,
+      454.9,
+      362.52,
+      475.79
+    ],
+    "text": "ViViV tYYtV",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.298075675964355,
+      10.402091026306152
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      340.32,
+      481.67,
+      363.61,
+      500.51
+    ],
+    "text": "W i'iViVh",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.099315166473389,
+      9.560792922973633
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      370.08,
+      465.22,
+      377.13,
+      477.62
+    ],
+    "text": "I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.112691879272461
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      372.0,
+      483.94,
+      382.17,
+      496.34
+    ],
+    "text": "B",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.143858909606934
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.76,
+      502.6,
+      393.18,
+      522.83
+    ],
+    "text": "i m in 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.140222549438477,
+      8.25839614868164,
+      8.900758743286133
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      409.2,
+      453.64,
+      419.85,
+      462.83
+    ],
+    "text": "40",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.19075870513916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      409.92,
+      478.84,
+      420.33,
+      488.03
+    ],
+    "text": "20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.19075870513916
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      414.24,
+      504.04,
+      420.4,
+      513.23
+    ],
+    "text": "0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.25839614868164
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.28,
+      563.21,
+      419.03,
+      570.64
+    ],
+    "text": "Dept of Economic Research. Source: Central Bonk of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.576378345489502
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      379.2,
+      31.9,
+      414.35,
+      40.87
+    ],
+    "text": "Chart 6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.067129135131836,
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      179.04,
+      55.67,
+      293.27,
+      70.2
+    ],
+    "text": "MONEY SUPPLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      148.32,
+      73.77,
+      331.56,
+      79.6
+    ],
+    "text": "END OF VEAB 1052-1950. END OF M O N T H JANUARY r9tO~",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.099076747894287,
+      5.199999809265137,
+      5.446934700012207,
+      5.454772472381592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.8,
+      107.02,
+      141.07,
+      124.39
+    ],
+    "text": "MILLIONS OF RUPEES 1800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781,
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.52,
+      157.66,
+      73.1,
+      166.63
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      328.8,
+      107.5,
+      416.28,
+      124.89
+    ],
+    "text": "MILLIONS OF RUPEES IIT11111 1800",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.7686872482299805,
+      7.099999904632568,
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      396.48,
+      158.62,
+      415.87,
+      167.59
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.8,
+      200.62,
+      71.52,
+      209.59
+    ],
+    "text": "U 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.8,
+      242.62,
+      72.38,
+      251.59
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.8,
+      285.58,
+      72.55,
+      294.55
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.32,
+      328.06,
+      88.32,
+      337.03
+    ],
+    "text": "800 - =",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695,
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.84,
+      370.54,
+      87.51,
+      379.51
+    ],
+    "text": "600 - i",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.199999809265137,
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.6,
+      413.02,
+      116.67,
+      421.99
+    ],
+    "text": "400 i 1 H =",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.077409744262695,
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.08,
+      455.5,
+      67.12,
+      464.47
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      396.72,
+      201.58,
+      414.66,
+      210.55
+    ],
+    "text": "U00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      396.48,
+      243.82,
+      415.51,
+      252.79
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      396.48,
+      286.54,
+      415.69,
+      295.51
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      400.08,
+      329.26,
+      415.28,
+      338.23
+    ],
+    "text": "800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      400.08,
+      371.98,
+      415.12,
+      380.95
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      400.32,
+      413.74,
+      415.04,
+      422.71
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      399.6,
+      456.46,
+      414.8,
+      465.43
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      87.84,
+      505.9,
+      377.0,
+      514.87
+    ],
+    "text": "\u202253 *55 '57 *59 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      52.08,
+      560.73,
+      415.07,
+      566.78
+    ],
+    "text": "Qept. o f E c o n o m i c Research Source - Centrol Bank of Ceylon",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.199999809265137,
+      5.379499912261963
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55.92,
+      589.9,
+      418.18,
+      610.15
+    ],
+    "text": "Money Supply is defined as \"all Currency and Demand Deposits owned by persons other than Commercial Banks and the Government.\"",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.336785316467285,
+      8.383129119873047,
+      8.416091918945312,
+      8.417221069335938,
+      8.475829124450684,
+      8.52514934539795,
+      8.530765533447266,
+      8.5346097946167
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      375.12,
+      28.06,
+      410.58,
+      37.03
+    ],
+    "text": "Chart 7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.067129135131836,
+      8.339460372924805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      124.8,
+      58.31,
+      332.63,
+      72.84
+    ],
+    "text": "SOURCES OF MONEY SUPPLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.384318351745605
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      153.36,
+      75.63,
+      305.29,
+      81.22
+    ],
+    "text": "END OF YEAR 1952 - 1959; END OF JANUARY I 9 6 0-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      1.7278270721435547,
+      4.936648845672607,
+      4.948029518127441,
+      5.0,
+      5.147814750671387
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.88,
+      109.9,
+      138.15,
+      127.27
+    ],
+    "text": "MILLIONS OF RUPEES 1800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.04049015045166,
+      8.070381164550781,
+      8.173498153686523,
+      8.339460372924805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.6,
+      160.3,
+      71.18,
+      169.27
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      321.12,
+      109.18,
+      409.35,
+      118.15
+    ],
+    "text": "MILLIONS OF RUPEES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.04049015045166,
+      8.173498153686523,
+      8.339460372924805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294.72,
+      122.66,
+      408.45,
+      126.81
+    ],
+    "text": "r i i ' i i T - r r r ' p *\u2022!\u2022. MHIHI 1800",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.491126775741577,
+      3.8546838760375977,
+      3.9824440479278564
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      390.72,
+      159.58,
+      409.39,
+      168.55
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.6,
+      201.77,
+      71.67,
+      214.68
+    ],
+    "text": "uoo",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.002645492553711
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.84,
+      243.58,
+      70.87,
+      252.55
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.36,
+      286.06,
+      70.75,
+      295.03
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      327.58,
+      65.84,
+      336.55
+    ],
+    "text": "800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.88,
+      369.1,
+      65.76,
+      378.07
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.36,
+      410.14,
+      66.08,
+      419.11
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      452.38,
+      65.68,
+      461.35
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      390.0,
+      200.69,
+      408.34,
+      211.36
+    ],
+    "text": "UOO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.213942527770996
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      390.0,
+      242.86,
+      408.85,
+      251.83
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      389.76,
+      285.58,
+      408.79,
+      294.55
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      393.6,
+      327.34,
+      408.8,
+      336.31
+    ],
+    "text": "800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      393.6,
+      368.62,
+      408.48,
+      377.59
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      394.08,
+      409.9,
+      408.8,
+      418.87
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      393.6,
+      451.9,
+      408.48,
+      460.87
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87.12,
+      503.02,
+      371.09,
+      512.47
+    ],
+    "text": "'53 '55 '57 '59 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781,
+      8.078547477722168,
+      8.09582805633545,
+      8.105668067932129,
+      8.113555908203125,
+      8.16450309753418,
+      8.339460372924805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.88,
+      556.59,
+      409.95,
+      563.62
+    ],
+    "text": "Dept. of Economic Research, Source;- Centroi Bonk of Ceylon.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9494948387146,
+      4.962660789489746,
+      4.972650051116943,
+      4.985353469848633,
+      5.0,
+      5.147814750671387
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      53.52,
+      572.62,
+      268.44,
+      581.59
+    ],
+    "text": "This chart indicates the origin of Money Supply in Ceylon.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.069283485412598,
+      8.339460372924805
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.48,
+      582.22,
+      412.44,
+      627.43
+    ],
+    "text": "(a) \"Government Finance\"\u2014shows the claims of the Banking system on the Government net of the shift of rupee cash between the Government and the public. (b) \"Credit to Public\"\u2014shows the claims of the Banking system on the private sector net of change in Time and Savings deposits. In I964, external banking assets were negative in January, March to July and in September.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.930847644805908,
+      7.992077827453613,
+      8.031672477722168,
+      8.124505996704102,
+      8.339460372924805,
+      8.532303810119629
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      388.8,
+      32.14,
+      419.89,
+      41.11
+    ],
+    "text": "Chart 8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      84.0,
+      53.03,
+      404.54,
+      67.56
+    ],
+    "text": "SAVINGS DEPOSITS & SAVINGS CERTIFICATES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.32,
+      105.03,
+      420.38,
+      117.67
+    ],
+    "text": "POINTS IN INDEX END OF MONTH HOUSES ,W ^ .W . * ? 1 0 0",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.8207895755767822,
+      5.819028854370117,
+      6.069423198699951,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      91.68,
+      504.7,
+      381.72,
+      513.67
+    ],
+    "text": "1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      175.2,
+      519.36,
+      312.5,
+      534.09
+    ],
+    "text": "INCLUDES SOTH SAVINGS a TIME DEPOSITS \"PROVISIONAL",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.819028854370117,
+      6.069423198699951
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.68,
+      556.8,
+      141.28,
+      563.61
+    ],
+    "text": "Ocpt of Economic Rctcarcn",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.069423198699951
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      312.48,
+      550.8,
+      419.46,
+      563.61
+    ],
+    "text": "Source -Dcpt.olCcnvatStatittia one Central Bank of C'ylon",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.069423198699951,
+      6.1260223388671875
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      374.4,
+      34.78,
+      409.58,
+      43.75
+    ],
+    "text": "Chart 9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      85.44,
+      60.0,
+      379.1,
+      74.52
+    ],
+    "text": "GOVERNMENT REVENUE & EXPENDITURE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      89.28,
+      511.66,
+      378.77,
+      520.63
+    ],
+    "text": "55-56 56-57 57-58 58-59 59-60 60-61 61-62 62-63 63-64*",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      186.96,
+      534.03,
+      293.56,
+      547.06
+    ],
+    "text": "f * P P O V I S I O N A I _ Finonciol yeor begins\u20141st October.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      50.16,
+      564.51,
+      409.24,
+      570.1
+    ],
+    "text": "Dept. of Economic Research Source - Ceylon Government Treasury.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      53.76,
+      583.9,
+      410.76,
+      623.83
+    ],
+    "text": "Data on expenditure refer to total voted expenditure (excluding sinking fund contributions and direct repayment of public debt from revenue) together with expenditure financed by the National Development Reserve and net repayments on advance account operations. See also Table 17.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.285947799682617,
+      8.287848472595215,
+      8.296195030212402,
+      8.297025680541992,
+      8.299714088439941,
+      8.30295467376709,
+      8.308642387390137,
+      8.313970565795898,
+      8.314483642578125,
+      8.3396577835083,
+      8.354748725891113,
+      8.388215065002441,
+      8.410710334777832,
+      8.416871070861816,
+      8.420416831970215,
+      8.432757377624512,
+      8.43322467803955,
+      8.440185546875,
+      8.485808372497559,
+      8.491450309753418,
+      8.537147521972656,
+      8.568674087524414
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      384.24,
+      41.5,
+      417.98,
+      50.47
+    ],
+    "text": "Chart 10",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.4,
+      69.83,
+      412.33,
+      84.36
+    ],
+    "text": "GOVT NET CASH OPERATING SURPLUS OR DEFICIT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.4,
+      121.18,
+      148.25,
+      138.55
+    ],
+    "text": "MILLIONS OF RUPEES 9 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      192.24,
+      121.9,
+      419.93,
+      139.51
+    ],
+    "text": "DATA BY F I N A N C I A L YEARS MILLIONS OF RUPEES 9 0 0",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.049798011779785,
+      5.074435710906982,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.44,
+      506.38,
+      77.47,
+      515.35
+    ],
+    "text": "- 5 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.6,
+      506.79,
+      418.84,
+      522.79
+    ],
+    "text": "1955-56 '56-57 57-58 '58-59 '59-60 '60-'61T '61-62 '62-63 '63-64* -500",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.8207895755767822,
+      8.059398651123047,
+      9.139189720153809
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      184.08,
+      530.22,
+      191.03,
+      540.28
+    ],
+    "text": "t,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0474214553833
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      216.0,
+      528.66,
+      257.09,
+      534.36
+    ],
+    "text": "PROVISIONAL",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.049746990203857
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      187.68,
+      537.3,
+      282.14,
+      543.0
+    ],
+    "text": "Financial year begins 1st. October",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.0496954917907715,
+      5.074435710906982
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      55.44,
+      567.86,
+      418.79,
+      573.5
+    ],
+    "text": "Dept. of Economic Research. Source- Central Bank of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.074435710906982,
+      5.421038627624512,
+      5.466714859008789,
+      5.497837543487549,
+      5.52459716796875,
+      5.526480197906494,
+      5.532594680786133,
+      5.5837202072143555
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.72,
+      589.9,
+      425.32,
+      608.71
+    ],
+    "text": "t Figures from 1960\u201461 onwards include receipts from foreign grants and expenditure chargeable to foreign grants which have been brought within the Budget from 1960 \u201461 onwards.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.070381164550781,
+      8.145315170288086,
+      8.287848472595215,
+      8.306944847106934,
+      8.312905311584473,
+      8.318309783935547,
+      8.3396577835083,
+      8.348071098327637,
+      8.35200023651123,
+      8.353492736816406,
+      8.427970886230469,
+      8.451565742492676,
+      8.49461841583252,
+      8.514328956604004,
+      8.547016143798828
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      369.84,
+      38.38,
+      408.16,
+      47.35
+    ],
+    "text": "Chart II",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      9.092227935791016
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      114.48,
+      63.6,
+      345.61,
+      78.12
+    ],
+    "text": "COMPOSITION OF^PUBLIC DEBT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      144.0,
+      85.51,
+      307.95,
+      90.76
+    ],
+    "text": "( S H O W I N G G R O S S & N E T * P U B L I C D E B T )",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.2757368087768555
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      47.28,
+      121.51,
+      402.76,
+      126.76
+    ],
+    "text": "MILLIONS OF R U P E E S EN0 OF RINANC1AL YEAR F I G U R E S ^ MILLIONS OF R U P E E S",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      1.6367543935775757,
+      1.8465079069137573,
+      4.3113884925842285,
+      5.2757368087768555
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      47.28,
+      129.67,
+      409.58,
+      134.92
+    ],
+    "text": "4 0 0 0 - 4 0 0 0 .",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.2757368087768555
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      79.44,
+      514.06,
+      373.29,
+      523.03
+    ],
+    "text": "1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      9.092227935791016
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      159.84,
+      532.54,
+      165.85,
+      541.51
+    ],
+    "text": "*",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      163.44,
+      545.59,
+      295.86,
+      550.84
+    ],
+    "text": "GROSS PUBLIC DEBT LESS SINKING FUND",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.816066265106201
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      175.2,
+      553.75,
+      277.48,
+      559.0
+    ],
+    "text": "tpinoncial year begins - 1st October.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.816066265106201,
+      5.2757368087768555
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45.36,
+      566.71,
+      405.63,
+      572.44
+    ],
+    "text": "Dept. of Economic Research. Source,-Ce^trcl Bonk of Ceylori",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.816066265106201,
+      5.2757368087768555
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      378.24,
+      34.54,
+      417.57,
+      43.51
+    ],
+    "text": "Chart 12",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      132.96,
+      68.88,
+      340.77,
+      83.4
+    ],
+    "text": "OWNERSHIP OF PUBLIC DEBT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.869342803955078
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.84,
+      119.74,
+      144.14,
+      137.11
+    ],
+    "text": "MILLIONS OF RUPEES 4000",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      180.72,
+      121.18,
+      416.27,
+      138.07
+    ],
+    "text": "END OF FINANCIAL YEAR FIGURES MILLIONS OF RUPEES \u2014 : \u2014 4 0 0 0",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.048742294311523,
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.6,
+      175.18,
+      72.56,
+      184.15
+    ],
+    "text": "3500",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.36,
+      221.98,
+      72.64,
+      230.95
+    ],
+    "text": "3000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.12,
+      268.3,
+      72.4,
+      277.27
+    ],
+    "text": "2500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.88,
+      315.1,
+      71.98,
+      324.07
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.64,
+      361.9,
+      71.03,
+      370.87
+    ],
+    "text": "1500",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49.92,
+      408.46,
+      70.84,
+      417.43
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      50.16,
+      455.02,
+      66.56,
+      463.99
+    ],
+    "text": "5 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.0,
+      175.94,
+      176.26,
+      181.58
+    ],
+    "text": "FOREIGN .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      138.0,
+      186.74,
+      256.09,
+      192.38
+    ],
+    "text": "PRIVATE BUSINESS & INDIVIDUALS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.296933650970459
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.76,
+      196.34,
+      196.94,
+      201.98
+    ],
+    "text": "OFFICIAL FUNDS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.262325286865234
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.28,
+      205.94,
+      241.34,
+      211.58
+    ],
+    "text": "PROVIDENT & P E N S I O N FUNDS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.188858509063721,
+      5.202774524688721,
+      5.262325286865234
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.52,
+      215.54,
+      218.65,
+      221.18
+    ],
+    "text": "INSURANCE C O M P A N I E S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.191990375518799
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.28,
+      225.14,
+      217.78,
+      230.78
+    ],
+    "text": "S A V I N G S INSTITUTIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.191564559936523,
+      5.199398994445801
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.76,
+      234.74,
+      270.58,
+      240.38
+    ],
+    "text": "COMMERCIAL & C O - O P E R A T I V E BANKS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      5.203774452209473
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      137.52,
+      244.34,
+      191.28,
+      249.98
+    ],
+    "text": "CENTRAL BANK",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      392.88,
+      176.62,
+      414.2,
+      185.59
+    ],
+    "text": "3500",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      392.4,
+      223.66,
+      413.9,
+      232.63
+    ],
+    "text": "3 0 0 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      380.64,
+      269.5,
+      415.64,
+      278.47
+    ],
+    "text": "- 2500",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      381.84,
+      316.06,
+      415.64,
+      325.03
+    ],
+    "text": "- 2 0 0 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      380.16,
+      363.1,
+      415.4,
+      372.07
+    ],
+    "text": "- 1500",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      392.16,
+      409.42,
+      413.3,
+      418.39
+    ],
+    "text": "1000",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      380.16,
+      455.98,
+      414.43,
+      464.95
+    ],
+    "text": "- 5 0C",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      83.28,
+      511.18,
+      375.99,
+      520.15
+    ],
+    "text": "1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      179.52,
+      524.7,
+      281.16,
+      541.32
+    ],
+    "text": "t ' * Financial year begin* _<st October",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.048742294311523,
+      9.001611709594727
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      49.44,
+      561.54,
+      413.08,
+      567.72
+    ],
+    "text": "Dcpt of Economic Research v .Source^- Centroi Bonk of Ceyien",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      1.7670598030090332,
+      5.0221147537231445,
+      5.048742294311523
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      369.6,
+      35.98,
+      409.03,
+      44.95
+    ],
+    "text": "Chart 13",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      102.48,
+      528.75,
+      366.28,
+      549.22
+    ],
+    "text": "NOTE - PRIVATE EXTERNAL ASSETS OTHER THAN BANKING ASSETS NOT INCLUDED. ^ I N C L U D E S THE CREDIT BALANCE ON TRADE AGREEMENT WITH CHINA. GOVT. BALANCES WERE NEGLIGIBLE AS FROM FEBRUARY 1964.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      46.56,
+      562.89,
+      409.71,
+      569.59
+    ],
+    "text": "Dept. of Economic Research. Source.- Centro! Bonk of Ceylon",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855,
+      5.969924449920654
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      118.08,
+      58.31,
+      347.09,
+      72.84
+    ],
+    "text": "EXTERNAL ASSETS OF CEYLON",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      368.4,
+      36.46,
+      407.91,
+      45.43
+    ],
+    "text": "Chart 14",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      101.04,
+      60.24,
+      361.06,
+      74.76
+    ],
+    "text": "MERCHANDISE EXPORTS & IMPORTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.869342803955078
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48.24,
+      112.54,
+      135.74,
+      130.87
+    ],
+    "text": "MILLIONS OF RUPEES 2200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.173498153686523
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      47.76,
+      153.82,
+      67.08,
+      162.79
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      210.24,
+      119.5,
+      241.33,
+      123.97
+    ],
+    "text": "A N N U A L L Y",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      3.9597980976104736
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      47.76,
+      185.98,
+      67.08,
+      194.95
+    ],
+    "text": "1800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48.0,
+      217.66,
+      66.97,
+      226.63
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48.0,
+      249.34,
+      65.58,
+      258.31
+    ],
+    "text": "U00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      47.52,
+      281.02,
+      66.67,
+      289.99
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      322.08,
+      112.78,
+      409.34,
+      130.87
+    ],
+    "text": "MILLIONS OF RUPEES 2200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.173498153686523
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      388.56,
+      153.82,
+      408.42,
+      162.79
+    ],
+    "text": "2000",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      389.04,
+      186.22,
+      408.36,
+      195.19
+    ],
+    "text": "1800",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      389.04,
+      218.14,
+      408.36,
+      227.11
+    ],
+    "text": "1600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      389.28,
+      249.58,
+      407.02,
+      258.55
+    ],
+    "text": "U00",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      389.04,
+      281.74,
+      408.19,
+      290.71
+    ],
+    "text": "1200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.56,
+      344.62,
+      61.38,
+      353.59
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.8,
+      376.54,
+      61.31,
+      385.51
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.32,
+      410.25,
+      59.88,
+      416.95
+    ],
+    "text": "2 0 0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.938706874847412
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.56,
+      472.06,
+      65.0,
+      481.03
+    ],
+    "text": "-200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      46.32,
+      503.74,
+      64.58,
+      512.71
+    ],
+    "text": "-400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      183.36,
+      362.92,
+      295.13,
+      368.5
+    ],
+    "text": "E X C E S S OF EXPORTS OR IMPORTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.949747562408447
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      392.64,
+      345.58,
+      407.78,
+      354.55
+    ],
+    "text": "600",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      392.88,
+      377.26,
+      407.7,
+      386.23
+    ],
+    "text": "400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      392.88,
+      409.18,
+      407.7,
+      418.15
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      388.8,
+      472.3,
+      407.06,
+      481.27
+    ],
+    "text": "-200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      60.72,
+      506.01,
+      405.56,
+      522.31
+    ],
+    "text": "- 4 0 0 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.939696788787842,
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      45.36,
+      561.15,
+      409.12,
+      566.74
+    ],
+    "text": "Dept. of Economic Research. Source: Ceylon Customs Returns",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.949747562408447
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      373.68,
+      30.78,
+      413.63,
+      40.84
+    ],
+    "text": "Chare 15",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.050405502319336,
+      9.711869239807129
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      121.44,
+      56.88,
+      349.1,
+      71.4
+    ],
+    "text": "VALUE OF EXPORTS & IMPORTS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277,
+      13.880202293395996
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      186.48,
+      74.38,
+      282.4,
+      83.35
+    ],
+    "text": "BY COMMODITY GROUPS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.869599342346191,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52.32,
+      109.66,
+      412.97,
+      126.83
+    ],
+    "text": "MILLIONS OF RUPEES A N N U A L L Y MILLIONS OF RUPEES 25oo ALL 2500",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.026951789855957,
+      3.946807861328125,
+      3.979949712753296,
+      8.059398651123047,
+      8.648433685302734,
+      11.276593208312988
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      89.28,
+      506.86,
+      375.89,
+      515.83
+    ],
+    "text": "1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.648433685302734
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51.12,
+      556.95,
+      411.41,
+      564.81
+    ],
+    "text": "Dept. of Economic Research. Source: Ceyton Customs Returns",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.633753299713135,
+      5.658851623535156,
+      7.06441068649292,
+      7.422369956970215,
+      7.58072566986084
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      367.92,
+      29.98,
+      406.88,
+      38.95
+    ],
+    "text": "Chart 16",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      155.52,
+      53.03,
+      304.94,
+      67.56
+    ],
+    "text": "BALANCE OF TRADE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      137.76,
+      71.74,
+      318.4,
+      80.71
+    ],
+    "text": "BY MONETARY AREAS & REGIONAL GROUPS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.869599342346191,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      193.2,
+      84.03,
+      261.78,
+      89.62
+    ],
+    "text": "END OF YEAR FIGURES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48.48,
+      106.54,
+      134.81,
+      123.19
+    ],
+    "text": "MILLIONS OF RUPEES 400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      191.76,
+      105.82,
+      410.25,
+      121.99
+    ],
+    "text": "MONETARY AREAS MILLIONS OF RUPEES 400",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.56,
+      146.45,
+      290.1,
+      194.02
+    ],
+    "text": "f l \u2022 J L TT J L",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      20.673425674438477,
+      21.40664291381836,
+      21.47879409790039,
+      22.112600326538086
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      140.64,
+      214.84,
+      317.39,
+      232.1
+    ],
+    "text": "| \u2022 DOLLAR A R E A ^ STERLING A R E A 1 1 1 1 1 I",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.9749369621276855,
+      7.036551475524902,
+      8.059398651123047,
+      8.952897071838379
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      394.8,
+      141.34,
+      409.77,
+      150.31
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      390.48,
+      197.74,
+      409.46,
+      206.71
+    ],
+    "text": "-200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      78.48,
+      504.94,
+      379.61,
+      513.91
+    ],
+    "text": "1955 1956 1957 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      47.28,
+      558.76,
+      408.41,
+      564.34
+    ],
+    "text": "Dept of Economic Research Source Ceylon Customs Returns",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48.96,
+      572.86,
+      412.04,
+      614.23
+    ],
+    "text": "\"E.F.T.A.\u2014The Countries included in this group are Austria, Denmark. Norway, Potugal, Sweden, Switzerland, and U.K.\" \"E.E.C.\u2014Countries included are Belgium, France, Germany, Italy, Luxemburg and Nether\u00adlands.\"",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.285789489746094,
+      8.307694435119629,
+      8.309076309204102,
+      8.313063621520996,
+      8.330841064453125,
+      8.363382339477539,
+      8.37557315826416,
+      8.403101921081543,
+      8.467387199401855,
+      8.467967987060547,
+      8.49315071105957,
+      8.557450294494629
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      367.2,
+      31.53,
+      408.49,
+      42.15
+    ],
+    "text": "Chart 17",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.48343563079834,
+      9.695525169372559
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      171.36,
+      59.99,
+      291.63,
+      74.52
+    ],
+    "text": "EXPORT PRICES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.129356384277344
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      207.84,
+      78.22,
+      247.42,
+      87.19
+    ],
+    "text": "1958=100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.09566593170166
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      47.04,
+      112.54,
+      116.11,
+      130.39
+    ],
+    "text": "POINTS IN INDEX 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301,
+      8.180599212646484,
+      8.279373168945312
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      47.28,
+      164.14,
+      74.12,
+      173.11
+    ],
+    "text": "150 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301,
+      8.180599212646484
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      210.96,
+      112.54,
+      409.15,
+      129.67
+    ],
+    "text": "MONTHLY POINTS IN INDEX 160",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.251742362976074,
+      7.467831611633301,
+      8.180599212646484,
+      8.279373168945312
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      47.04,
+      205.53,
+      71.9,
+      216.15
+    ],
+    "text": "HO -",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.37282943725586,
+      9.695525169372559
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.56,
+      248.62,
+      78.68,
+      257.59
+    ],
+    "text": "130 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301,
+      8.180599212646484
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.56,
+      290.62,
+      59.0,
+      299.59
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      46.32,
+      333.58,
+      58.76,
+      342.55
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.84,
+      375.82,
+      58.7,
+      384.79
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.36,
+      418.3,
+      54.43,
+      427.27
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.12,
+      460.78,
+      54.09,
+      469.75
+    ],
+    "text": "80",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.12,
+      503.02,
+      54.19,
+      511.99
+    ],
+    "text": "70",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      92.88,
+      513.1,
+      359.21,
+      522.31
+    ],
+    "text": "1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.467831611633301
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.88,
+      565.05,
+      408.14,
+      571.8
+    ],
+    "text": "Ocpt. 9t Economic R\u00ab\u00ab\u00abarch SOTFFC* C*F*raJ QORFHOF Q S P K M .",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      3.5790271759033203,
+      3.6284968852996826,
+      3.655764102935791,
+      4.569197654724121,
+      5.084366321563721,
+      5.098997116088867,
+      5.099023342132568,
+      5.251742362976074
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      371.04,
+      34.06,
+      410.47,
+      43.03
+    ],
+    "text": "Chart 18",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557,
+      8.378705978393555
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      172.08,
+      57.59,
+      287.25,
+      72.12
+    ],
+    "text": "IMPORT PRICES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.670832633972168
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      210.24,
+      76.06,
+      250.28,
+      85.03
+    ],
+    "text": "1958=100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      46.32,
+      107.74,
+      121.39,
+      125.83
+    ],
+    "text": "POINTS IN INDEX 1 6 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557,
+      8.176427841186523,
+      8.279373168945312,
+      8.378705978393555
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      46.32,
+      158.62,
+      61.6,
+      167.59
+    ],
+    "text": "150",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      45.6,
+      202.24,
+      59.36,
+      210.34
+    ],
+    "text": "n o",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.063502311706543
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      45.36,
+      243.1,
+      60.64,
+      252.07
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44.88,
+      286.06,
+      60.27,
+      295.03
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44.64,
+      328.54,
+      60.56,
+      337.51
+    ],
+    "text": "1 1 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44.4,
+      371.26,
+      59.99,
+      380.23
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      44.16,
+      412.78,
+      54.76,
+      421.75
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      43.68,
+      456.46,
+      54.28,
+      465.43
+    ],
+    "text": "80",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      43.44,
+      499.18,
+      53.92,
+      508.15
+    ],
+    "text": "70",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      212.64,
+      111.1,
+      408.91,
+      129.91
+    ],
+    "text": "MONTHLY POINTS IN INDEX 160",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.068332672119141,
+      7.894903659820557,
+      8.176427841186523,
+      8.279373168945312,
+      8.378705978393555
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      197.04,
+      134.49,
+      327.63,
+      144.62
+    ],
+    "text": "Points in Index A N N U A I I v Points in Index 130] A N N U A L L Y \u2014 ,130",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.8987176418304443,
+      4.137632369995117,
+      4.558267593383789,
+      5.068332672119141,
+      5.378921985626221
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      234.0,
+      455.85,
+      325.18,
+      461.68
+    ],
+    "text": "i n t e r m e d i a t e g o o d s y",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      5.247209072113037,
+      5.378921985626221,
+      5.40602445602417
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      86.64,
+      499.26,
+      385.93,
+      519.91
+    ],
+    "text": "i - L J - i 1 1 1 I I II I i I I \u2022 I I 1960 1961 1962 1963",
+    "fonts": [
+      "Courier",
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.038324356079102,
+      6.237948417663574,
+      6.620212078094482,
+      7.894903659820557,
+      8.378705978393555
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      390.96,
+      162.46,
+      406.69,
+      171.43
+    ],
+    "text": "150",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      390.96,
+      205.42,
+      404.83,
+      214.39
+    ],
+    "text": "U 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      390.24,
+      246.94,
+      406.29,
+      255.91
+    ],
+    "text": "1 3 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      390.0,
+      289.42,
+      405.9,
+      298.39
+    ],
+    "text": "1 2 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      390.0,
+      332.14,
+      405.9,
+      341.11
+    ],
+    "text": "1 1 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      389.04,
+      374.38,
+      405.24,
+      383.35
+    ],
+    "text": "1 0 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      395.04,
+      416.14,
+      405.41,
+      425.11
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      394.56,
+      459.58,
+      405.16,
+      468.55
+    ],
+    "text": "60",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      341.52,
+      502.3,
+      404.91,
+      520.15
+    ],
+    "text": "7 0 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.894903659820557
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      42.72,
+      559.05,
+      406.36,
+      567.26
+    ],
+    "text": "Dept of Economic Research. Source - C e n t r a l S a n k of C e y l o n .",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.068332672119141,
+      5.378921985626221
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      370.32,
+      36.46,
+      410.29,
+      45.43
+    ],
+    "text": "Chart 19",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.067129135131836,
+      9.584049224853516
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      165.6,
+      63.83,
+      297.91,
+      78.36
+    ],
+    "text": "TERMS OF TRADE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0,
+      13.193558692932129
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      211.68,
+      83.74,
+      249.16,
+      92.71
+    ],
+    "text": "1958=100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.09566593170166
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      51.12,
+      115.18,
+      118.06,
+      133.27
+    ],
+    "text": "POINTS IN INDEX 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695,
+      8.220602989196777
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.0,
+      194.18,
+      197.67,
+      205.82
+    ],
+    "text": "POINTS IN INDEX 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.175934314727783
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.24,
+      225.86,
+      153.48,
+      231.5
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.175934314727783
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      143.76,
+      252.02,
+      157.46,
+      257.66
+    ],
+    "text": "1 0 0 -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.175934314727783
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.24,
+      277.22,
+      151.38,
+      282.86
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.175934314727783
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      214.32,
+      194.58,
+      315.98,
+      206.3
+    ],
+    "text": "ANNUALLY POINTS IN INDEX 120",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.0497727394104,
+      5.175934314727783
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      144.24,
+      305.94,
+      314.12,
+      311.66
+    ],
+    "text": "g0 I \u2014 I \u2014 i \u2014 I \u2014 l \u2014 I 1\u2014I\u2014I\u2014I\u2014I 1 \u2014 i \u2014 I \u2014 I 80",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      1.731385588645935,
+      2.1120405197143555,
+      4.9468159675598145,
+      5.175934314727783,
+      6.0344014167785645
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      159.12,
+      313.18,
+      302.9,
+      322.15
+    ],
+    "text": "51 '52 \"53 '5* IS '56 '57 '58 T59 -60 '61 '62 '63 \"64",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      5.175934314727783,
+      6.0344014167785645,
+      8.220602989196777
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      341.28,
+      114.94,
+      410.14,
+      133.03
+    ],
+    "text": "POINTS IN INDEX 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.077409744262695,
+      8.220602989196777
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      96.0,
+      512.14,
+      363.17,
+      521.35
+    ],
+    "text": "1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.070381164550781,
+      8.078547477722168,
+      8.09582805633545,
+      8.105668067932129,
+      8.113555908203125
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      48.96,
+      561.38,
+      409.02,
+      567.26
+    ],
+    "text": "Dept. of Economic Research. Source - Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.421038627624512,
+      5.466714859008789,
+      5.497813701629639,
+      5.497837543487549,
+      5.532594680786133,
+      5.5837202072143555,
+      6.0344014167785645,
+      6.128451347351074
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      127.68,
+      575.98,
+      303.74,
+      604.63
+    ],
+    "text": "Export Price I ndex 'Terms of Trade = \u2022 : .- ,\u2014-,- \u2014 x 100\" Import price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.993637561798096,
+      8.100000381469727,
+      8.220602989196777,
+      8.459092140197754,
+      8.469983100891113,
+      8.502106666564941,
+      8.519721984863281,
+      8.55978775024414,
+      9.584049224853516
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      377.52,
+      35.5,
+      418.08,
+      44.47
+    ],
+    "text": "Chart 20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      105.12,
+      67.44,
+      369.11,
+      81.96
+    ],
+    "text": "COLOMBO CONSUMERS PRICE INDEX",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      217.68,
+      88.3,
+      256.22,
+      97.27
+    ],
+    "text": "1952* 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.013557434082031,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      56.64,
+      119.26,
+      124.21,
+      136.87
+    ],
+    "text": "POINTS IN INDEX 114",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      347.52,
+      119.02,
+      416.98,
+      136.63
+    ],
+    "text": "POINTS IN INDEX 114",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      195.12,
+      370.06,
+      208.54,
+      381.02
+    ],
+    "text": "In d o 350",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      209.28,
+      351.58,
+      359.09,
+      369.67
+    ],
+    "text": "COST OF LIVING INDEX Lower Income Group-Colombo Town",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.31199836730957,
+      8.343118667602539,
+      8.43057918548584,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      245.04,
+      371.5,
+      318.62,
+      375.97
+    ],
+    "text": "Nov 1936-Apr 1939 ~ I O O",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      195.36,
+      407.32,
+      204.2,
+      411.74
+    ],
+    "text": "300",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      195.36,
+      439.24,
+      204.44,
+      443.66
+    ],
+    "text": "250",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      195.36,
+      470.44,
+      204.32,
+      474.86
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      267.12,
+      383.26,
+      302.54,
+      387.74
+    ],
+    "text": "ANNUALLYt",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.553363800048828
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      354.48,
+      395.08,
+      355.8,
+      399.5
+    ],
+    "text": "-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.979949712753296
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      354.48,
+      427.24,
+      355.8,
+      431.66
+    ],
+    "text": "-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.979949712753296
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      356.88,
+      370.78,
+      370.98,
+      381.5
+    ],
+    "text": "Index 350",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      360.24,
+      407.8,
+      368.96,
+      412.22
+    ],
+    "text": "300",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      359.76,
+      439.72,
+      368.6,
+      444.14
+    ],
+    "text": "250",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      216.0,
+      477.4,
+      357.6,
+      481.82
+    ],
+    "text": "46 48 '50 '5? 54 56 '58 fO 62 '64",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      258.0,
+      484.54,
+      309.9,
+      489.01
+    ],
+    "text": "* Chang* in ventet",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      3.979949712753296,
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      359.52,
+      470.68,
+      368.36,
+      475.1
+    ],
+    "text": "200",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      92.88,
+      519.58,
+      381.4,
+      528.55
+    ],
+    "text": "1958 1959 1960 1961 196? 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      9.01977825164795
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      128.16,
+      541.18,
+      346.4,
+      545.66
+    ],
+    "text": "t A N N U A L F I G U R E S S H O W N A R E A V E R A G E S O F THE M O N T H L Y F I G U R E *",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.979949712753296,
+      4.454211711883545
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.36,
+      559.59,
+      415.99,
+      567.93
+    ],
+    "text": "Dope of Economic Research Source-Dept of Censes & Statistics",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.105997085571289,
+      7.297922611236572,
+      7.326979637145996,
+      7.374435901641846,
+      7.459461688995361,
+      7.906225204467773
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      372.0,
+      35.41,
+      410.43,
+      44.49
+    ],
+    "text": "Chart 21",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.116881370544434,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      100.08,
+      63.6,
+      363.39,
+      78.12
+    ],
+    "text": "COLOMBO CONSUMERS' PRICE INDEX",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      181.2,
+      81.01,
+      276.22,
+      90.09
+    ],
+    "text": "BY SECTORAL GROUPS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.917947769165039,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      211.44,
+      93.97,
+      250.18,
+      103.05
+    ],
+    "text": "1952=100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.145410537719727
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.16,
+      219.73,
+      61.89,
+      228.81
+    ],
+    "text": "u o",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.4,
+      267.01,
+      65.28,
+      276.09
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.16,
+      314.29,
+      64.56,
+      323.37
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      49.68,
+      362.29,
+      64.08,
+      371.37
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      49.44,
+      410.05,
+      64.16,
+      419.13
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      49.2,
+      456.85,
+      59.61,
+      465.93
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.141117095947266
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      48.72,
+      504.37,
+      59.25,
+      513.45
+    ],
+    "text": "80",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.141117095947266
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.88,
+      115.81,
+      118.98,
+      133.77
+    ],
+    "text": "POINTS IN INDEX 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      50.16,
+      172.45,
+      64.72,
+      181.53
+    ],
+    "text": "150",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      342.96,
+      115.81,
+      410.82,
+      124.89
+    ],
+    "text": "POINTS IN INDEX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      349.68,
+      127.94,
+      411.67,
+      137.13
+    ],
+    "text": "11M 1111111 180",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.664234638214111,
+      8.199999809265137,
+      8.225502967834473
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      361.2,
+      166.47,
+      411.27,
+      182.01
+    ],
+    "text": "index 160 - 150",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.073966026306152,
+      7.382565975189209,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.24,
+      218.45,
+      409.56,
+      229.12
+    ],
+    "text": "U O",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.226948738098145
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.0,
+      266.77,
+      410.88,
+      275.85
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      394.8,
+      314.53,
+      410.32,
+      323.61
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.0,
+      362.53,
+      410.72,
+      371.61
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      396.24,
+      410.05,
+      410.8,
+      419.13
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.126898765563965
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      400.08,
+      456.85,
+      410.73,
+      465.93
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.141117095947266
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      86.64,
+      504.37,
+      411.09,
+      523.77
+    ],
+    "text": "80 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.099383354187012,
+      8.141117095947266,
+      8.199999809265137
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      48.72,
+      565.23,
+      409.39,
+      571.32
+    ],
+    "text": "Department of Economic Research Source-Dept of Census & Statistics",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      148.8,
+      587.89,
+      310.78,
+      629.37
+    ],
+    "text": "Weights used in total index: Domestic Group 51% Import Group 44% Export Group 5%",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.114272117614746,
+      8.199999809265137,
+      8.45252513885498,
+      8.474967956542969,
+      8.556455612182617
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      370.56,
+      30.7,
+      410.4,
+      39.67
+    ],
+    "text": "Chart 22",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      128.88,
+      58.07,
+      338.78,
+      72.6
+    ],
+    "text": "WAGE RATE INDEX NUMBERS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      211.44,
+      75.1,
+      250.67,
+      84.07
+    ],
+    "text": "1952=100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.6,
+      111.58,
+      117.73,
+      128.71
+    ],
+    "text": "POINTS IN INDEX 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.279373168945312
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.6,
+      151.18,
+      66.41,
+      160.15
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.84,
+      182.62,
+      66.33,
+      191.59
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      168.48,
+      113.5,
+      282.93,
+      122.47
+    ],
+    "text": "WORKERS IN AGRICULTURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      216.24,
+      126.99,
+      244.93,
+      132.58
+    ],
+    "text": "MONTHLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      299.76,
+      175.34,
+      389.68,
+      188.29
+    ],
+    "text": ", 1 t 1 t 1 1 , 1 1 i 1 i i i i i l i l .1 j 1.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.3730075359344482,
+      4.53844690322876,
+      4.701223373413086,
+      4.9749369621276855,
+      5.145434856414795,
+      5.2545695304870605,
+      5.292636394500732,
+      11.641353607177734,
+      11.699999809265137,
+      12.080667495727539,
+      12.861381530761719
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      344.4,
+      111.34,
+      412.33,
+      128.47
+    ],
+    "text": "POINTS IN INDEX 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.279373168945312
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      150.94,
+      412.1,
+      159.91
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.939239978790283
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.68,
+      182.38,
+      412.33,
+      191.35
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.36,
+      213.65,
+      65.08,
+      224.32
+    ],
+    "text": "H O",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.3914213180542
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.12,
+      246.7,
+      65.93,
+      255.67
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.6,
+      278.38,
+      66.09,
+      287.35
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      51.36,
+      310.3,
+      79.85,
+      319.27
+    ],
+    "text": "110 i",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      151.2,
+      208.54,
+      306.45,
+      217.51
+    ],
+    "text": "WORKERS IN INDUSTRY & COMMERCE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.25727367401123
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.88,
+      341.98,
+      65.85,
+      350.95
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.64,
+      372.53,
+      63.76,
+      383.2
+    ],
+    "text": "HO",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.3914213180542
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.64,
+      405.1,
+      65.45,
+      414.07
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.4,
+      436.78,
+      65.05,
+      445.75
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.4,
+      468.46,
+      65.21,
+      477.43
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      50.16,
+      499.9,
+      65.13,
+      508.87
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      216.72,
+      217.58,
+      401.16,
+      230.53
+    ],
+    "text": "MONTHLY r t rrrri ri i i",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855,
+      8.038333892822266,
+      11.641353607177734,
+      12.33631706237793,
+      12.44656753540039,
+      12.843914985656738,
+      12.861381530761719
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      87.6,
+      343.06,
+      375.78,
+      359.11
+    ],
+    "text": "1 1 M 1 1 1 1 1 1 1 1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.3730075359344482,
+      3.5708789825439453,
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      176.4,
+      368.38,
+      284.08,
+      377.35
+    ],
+    "text": "GOVERNMENT EMPLOYEES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      78.24,
+      507.58,
+      380.57,
+      516.55
+    ],
+    "text": "1953 54 \"55 -56 '57 '58 59 60 '61 '62 '63 '64",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      214.54,
+      412.1,
+      223.51
+    ],
+    "text": "140",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      246.46,
+      412.25,
+      255.43
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.92,
+      278.38,
+      412.4,
+      287.35
+    ],
+    "text": "T20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      310.3,
+      412.25,
+      319.27
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      342.22,
+      412.25,
+      351.19
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.68,
+      373.9,
+      412.33,
+      382.87
+    ],
+    "text": "140",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      396.72,
+      405.1,
+      411.85,
+      414.07
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      436.78,
+      412.1,
+      445.75
+    ],
+    "text": "120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.2,
+      468.46,
+      412.01,
+      477.43
+    ],
+    "text": "110",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      397.44,
+      499.9,
+      412.1,
+      508.87
+    ],
+    "text": "100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      52.56,
+      553.23,
+      407.55,
+      558.82
+    ],
+    "text": "Dope of Economic Research Source- Dept of Labour & Central Bank of Ceylon",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      371.04,
+      35.98,
+      409.97,
+      44.95
+    ],
+    "text": "Chart 23",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.417767524719238
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      51.84,
+      64.32,
+      410.78,
+      78.84
+    ],
+    "text": "INDICES OF SHARE PRICES OF RUPEE COMPANIES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.934836387634277,
+      13.509997367858887
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      213.12,
+      81.58,
+      258.31,
+      90.55
+    ],
+    "text": "1952=100 ,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.417767524719238
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      215.76,
+      92.44,
+      246.28,
+      98.02
+    ],
+    "text": "M O N T H L Y",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.9749369621276855
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      85.68,
+      516.7,
+      375.75,
+      525.67
+    ],
+    "text": "1958 1959 1960 1961 1962 1963 1964",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.059398651123047,
+      8.417767524719238
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      50.88,
+      559.04,
+      406.72,
+      566.76
+    ],
+    "text": "Dept of Economic Research Source-Central Bank of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.069423198699951,
+      6.339305877685547,
+      6.385013103485107
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      440.16,
+      450.57,
+      444.55,
+      460.0
+    ],
+    "text": "i",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.41524887084961
+    ]
+  }
+]

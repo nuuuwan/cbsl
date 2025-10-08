@@ -1,0 +1,3958 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      82.8,
+      84.95,
+      384.61,
+      94.27
+    ],
+    "text": "CENTRAL BANK OF CEYLON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.223239898681641,
+      7.375659465789795,
+      7.3803606033325195,
+      7.590419292449951
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.28,
+      360.23,
+      323.63,
+      368.83
+    ],
+    "text": "ANNUAL REPORT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.223239898681641,
+      7.758223056793213
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      152.64,
+      378.7,
+      326.19,
+      389.98
+    ],
+    "text": "OF THE MONETARY BOARD",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.474639892578125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      153.6,
+      394.78,
+      326.91,
+      406.06
+    ],
+    "text": "TO THE MINISTER OF FINANCE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.474639892578125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      202.8,
+      570.46,
+      281.88,
+      581.74
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.474639892578125
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      219.12,
+      599.02,
+      259.0,
+      610.3
+    ],
+    "text": "1 9 6 9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.10059928894043
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.32,
+      169.79,
+      249.31,
+      177.98
+    ],
+    "text": "T H E H O N . U . B . WANNINAYAKE, M.P.,",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.214601993560791,
+      7.372638702392578
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.72,
+      186.22,
+      211.39,
+      194.3
+    ],
+    "text": "MINISTER O F FINANCE,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.3295416831970215,
+      7.372638702392578
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124.8,
+      202.54,
+      175.95,
+      210.62
+    ],
+    "text": "C O L O M B O .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.334992408752441
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.32,
+      263.81,
+      102.47,
+      273.89
+    ],
+    "text": "Dear Sir,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      106.08,
+      288.05,
+      419.29,
+      298.13
+    ],
+    "text": "In accordance with the provisions of Section 35 (1) of the Monetary",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867,
+      9.464700698852539,
+      9.496190071105957,
+      9.597675323486328
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.8,
+      301.97,
+      419.9,
+      312.05
+    ],
+    "text": "Law Act (Cap. 422), I submit herewith the Twentieth Annual Report of the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.159908294677734,
+      9.190549850463867,
+      9.456034660339355,
+      9.460105895996094,
+      9.481921195983887
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      315.89,
+      420.26,
+      325.97
+    ],
+    "text": "Monetary Board of the Central Bank of Ceylon covering the Bank's operations",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867,
+      9.4812650680542
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.8,
+      329.81,
+      156.8,
+      339.89
+    ],
+    "text": "during the year 1969.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      202.8,
+      382.61,
+      267.99,
+      392.69
+    ],
+    "text": "I am, dear Sir,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.67416763305664,
+      9.190549850463867
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      214.8,
+      398.69,
+      288.42,
+      408.77
+    ],
+    "text": "Yours faithfully,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.142443656921387,
+      9.526966094970703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      237.84,
+      416.62,
+      315.96,
+      424.7
+    ],
+    "text": "W . TENNEKOON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.340766429901123,
+      7.372638702392578
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      263.04,
+      430.54,
+      305.69,
+      438.62
+    ],
+    "text": "Governor.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.049851417541504
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      517.01,
+      171.49,
+      527.09
+    ],
+    "text": "Central Bank of Ceylon,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867,
+      9.435300827026367
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.48,
+      531.17,
+      194.0,
+      541.25
+    ],
+    "text": "Colombo. 31st March, 1970.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.190549850463867
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      60.96,
+      45.14,
+      423.84,
+      70.16
+    ],
+    "text": "CENTRAL BANK OF CEYLON",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      22.80238151550293,
+      23.15810775756836,
+      25.166296005249023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      173.28,
+      97.79,
+      307.41,
+      108.09
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.674463272094727,
+      9.272058486938477,
+      9.529664039611816
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179.04,
+      111.71,
+      302.4,
+      122.01
+    ],
+    "text": "(As at December 31, 1969)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.674463272094727,
+      9.529664039611816,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      201.84,
+      130.99,
+      276.48,
+      143.28
+    ],
+    "text": "W. Tennekoon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.353391647338867,
+      11.56814956665039
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      221.04,
+      147.95,
+      261.62,
+      158.25
+    ],
+    "text": "Governor",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.485908508300781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.08,
+      167.47,
+      356.2,
+      192.57
+    ],
+    "text": "M. Eajendra Permanent Secretary to the Ministry of Finance.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.134096145629883,
+      9.417094230651855,
+      9.529664039611816,
+      9.694598197937012,
+      9.694628715515137,
+      10.35604190826416,
+      11.374114990234375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194.4,
+      201.79,
+      283.83,
+      226.89
+    ],
+    "text": "J. Tyagaeaja Appointed Member",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.44133186340332,
+      9.529664039611816,
+      11.374114990234375
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.28,
+      237.47,
+      349.19,
+      247.77
+    ],
+    "text": "Principal Officers as at December 31, 1969.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.380561828613281,
+      9.529664039611816,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.56,
+      259.79,
+      419.03,
+      270.09
+    ],
+    "text": "Gamani Cohea (Released to the Government as from July 17,1965).",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.068811416625977,
+      9.25880241394043,
+      9.529664039611816,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.8,
+      276.35,
+      418.71,
+      286.65
+    ],
+    "text": "S. E. P. Jansz Deputy Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.529664039611816,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.28,
+      292.67,
+      418.96,
+      302.97
+    ],
+    "text": "S. D. Amabesinghe...- Assistant to the Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.529664039611816,
+      9.793435096740723,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      308.99,
+      418.0,
+      319.29
+    ],
+    "text": "P. V. M. Fernando Assistant to the Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.529664039611816,
+      9.793435096740723,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.56,
+      325.31,
+      418.48,
+      335.61
+    ],
+    "text": "W. M. Tilakakatna Assistant to the Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.529664039611816,
+      9.793435096740723,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.12,
+      340.43,
+      418.53,
+      599.52
+    ],
+    "text": "Banking and Currency Department: K. Gunaratnam Chief Accountant Banking Development: U. W. B. Altjvihare Adviser Bank Supervision Department: J. G. P. Jayasundara Director Economic Research Department: W. Easaputram Director Employees' Provident Fund Department: H. L. D. Selvaeatnam Superintendent Establishments Department: L. W. A. Weerasekera Director Exchange Control Department: C. H. Fernando Controller Internal Audit Department: O. B. Gunawardena Internal Auditor Public Debt Department-. P. H. Siriwardena ..Superintendent Secretariat: A. C. P. Gtjnasekera Secretary",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.948513984680176,
+      9.141053199768066,
+      9.163639068603516,
+      9.318999290466309,
+      9.342451095581055,
+      9.38010025024414,
+      9.380146026611328,
+      9.44133186340332,
+      9.445568084716797,
+      9.529664039611816,
+      10.353391647338867,
+      10.35604190826416,
+      11.374114990234375,
+      12.360437393188477
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      189.12,
+      605.87,
+      286.3,
+      631.68
+    ],
+    "text": "Auditor D. R. Settinayaka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.447673797607422,
+      11.374114990234375,
+      12.360437393188477
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.16,
+      636.11,
+      333.09,
+      646.41
+    ],
+    "text": "Auditor - General to the Ceylon Government",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.529664039611816,
+      10.35604190826416
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      190.8,
+      77.06,
+      279.66,
+      90.45
+    ],
+    "text": "C O N T E N T S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.339627265930176
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.88,
+      110.14,
+      416.17,
+      118.22
+    ],
+    "text": "P R E F A C E Page",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.258894920349121,
+      7.444568634033203
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.4,
+      142.3,
+      385.02,
+      150.38
+    ],
+    "text": "I . E C O N O M I C P E R F O R M A N C E . P R O B L E M S A N D P O L I C I E S - 1 9 6 9",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.172226905822754,
+      7.231349468231201,
+      7.444568634033203
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.84,
+      167.57,
+      406.29,
+      177.65
+    ],
+    "text": "Introduction \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.56,
+      192.29,
+      406.6,
+      202.37
+    ],
+    "text": "Economic Performance 1969 \u2022\u2022 \u2022\u2022 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.6,
+      216.53,
+      408.1,
+      226.61
+    ],
+    "text": "(a) National Product \u2022 \u2022 \u2022 \u2022 . \u2022 \u2022 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.6,
+      235.73,
+      408.42,
+      245.81
+    ],
+    "text": "(b) Fiscal and Monetary Developments \u2022 \u2022 \u2022 \u2022 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.2802152633667,
+      9.540472984313965
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.72,
+      253.73,
+      406.67,
+      263.81
+    ],
+    "text": "1- Government Budget . \u2022\u2022. 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.174588203430176,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      125.76,
+      271.73,
+      406.27,
+      281.81
+    ],
+    "text": "2- Money and Credit \u2022 \u2022 \u2022 \u2022 7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.106322288513184,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.12,
+      289.73,
+      406.16,
+      299.81
+    ],
+    "text": "(c) External Payments in 1969 \u2022 \u2022 \u2022 \u2022 9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.12,
+      307.73,
+      406.51,
+      317.81
+    ],
+    "text": "(d) Prices \u2022\u2022 \u2022 \u2022 12",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.08,
+      330.53,
+      406.27,
+      340.61
+    ],
+    "text": "Policies and Measures \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 12",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.2802152633667,
+      9.505602836608887
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.84,
+      352.37,
+      405.55,
+      362.45
+    ],
+    "text": "(a) The Balance of Payments Constraint \u2022 \u2022 12",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.84,
+      370.85,
+      406.88,
+      380.93
+    ],
+    "text": "(b) Monetary Policy \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 16",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      74.88,
+      393.41,
+      406.4,
+      403.49
+    ],
+    "text": "Conclusion \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 19",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.2,
+      413.02,
+      405.37,
+      421.1
+    ],
+    "text": "I I E C O N O M I C A N D F I N A N C I A L T R E N D S - 1 9 6 9 2 0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.175903797149658,
+      7.237720966339111,
+      7.444568634033203
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.04,
+      433.01,
+      406.16,
+      443.09
+    ],
+    "text": "(A) National Product and Expenditure \u2022 \u2022 \u2022 \u2022 20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.126669883728027,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.64,
+      453.17,
+      406.88,
+      463.25
+    ],
+    "text": "(a) Summary and Evaluation \u2022 \u2022 \u2022 \u2022 20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.12,
+      469.25,
+      406.27,
+      479.33
+    ],
+    "text": "(b) Production Trends \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 22",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.6,
+      485.57,
+      405.93,
+      495.65
+    ],
+    "text": "(c) Total Resources and their Uses \u2022 \u2022 \u2022 \u2022 25",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.2802152633667,
+      9.555087089538574
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.36,
+      503.57,
+      406.57,
+      513.65
+    ],
+    "text": "(d) Gross National Product \u2022 \u2022 \u2022 \u2022 26",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.12,
+      521.81,
+      406.38,
+      531.89
+    ],
+    "text": "(e) Real Product \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 28",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.14660930633545,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.84,
+      539.81,
+      408.38,
+      549.89
+    ],
+    "text": "(f) Gross National Expenditure \u2022 \u2022 \u2022 \u2022 29",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.157693862915039,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.28,
+      562.13,
+      406.17,
+      572.21
+    ],
+    "text": "(B) Industrial Production \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 35",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.93372631072998,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.64,
+      584.45,
+      407.91,
+      594.53
+    ],
+    "text": "(a) Introduction \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 35",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      105.12,
+      602.45,
+      406.41,
+      612.53
+    ],
+    "text": "(b) Principal Trends \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 35",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.64,
+      620.69,
+      407.01,
+      630.77
+    ],
+    "text": "(c) Structure and Pattern of Industrialisation \u2022 \u2022 41",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      104.64,
+      638.93,
+      407.23,
+      649.01
+    ],
+    "text": "(d) The size of the Industrial Unit \u2022\u2022 \u2022\u2022 42",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.2802152633667,
+      9.64196491241455
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      210.96,
+      53.57,
+      250.76,
+      63.65
+    ],
+    "text": "( ii )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.04,
+      74.45,
+      401.32,
+      84.53
+    ],
+    "text": "(e) Use of Raw Materials \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 46",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14660930633545,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.28,
+      90.77,
+      401.36,
+      100.85
+    ],
+    "text": "(f) Employment \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 48",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.157693862915039,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.48,
+      107.33,
+      401.12,
+      117.41
+    ],
+    "text": "(g) Wages \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 48",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.141629219055176,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.48,
+      123.65,
+      401.86,
+      133.73
+    ],
+    "text": "(h) Power and Fuel \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 49",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      62.88,
+      145.73,
+      401.86,
+      155.81
+    ],
+    "text": "(C) Public Enterprises \u2022\u2022 \u2022\u2022 \u2022\u2022 50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.938312530517578,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.2,
+      168.05,
+      402.34,
+      178.13
+    ],
+    "text": "(a) General \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.72,
+      184.13,
+      401.76,
+      194.21
+    ],
+    "text": "(b) Industries in the Public Sector \u2022 \u2022 \u2022 \u2022 51",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.2,
+      200.21,
+      402.28,
+      210.29
+    ],
+    "text": "(c) Other Public Enterprises \u2022 \u2022 \u2022 \u2022 76",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.6,
+      220.37,
+      402.3,
+      230.45
+    ],
+    "text": "(D) Monetary and Banking Developments \u2022 \u2022 \u2022 \u2022 93",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      103.92,
+      240.53,
+      404.29,
+      250.61
+    ],
+    "text": "(a) Money Supply \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 93",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.16,
+      257.09,
+      403.07,
+      267.17
+    ],
+    "text": "(b) Commercial Banking \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 105",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.4,
+      273.17,
+      403.48,
+      283.25
+    ],
+    "text": "(c) Savings and Long-term Credit Institutions \u2022\u2022 116",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.4,
+      289.25,
+      403.52,
+      299.33
+    ],
+    "text": "(d) Central Banking \u2022\u2022 \u2022\u2022 118",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.4,
+      303.65,
+      403.9,
+      313.73
+    ],
+    "text": "(e) Banking Development \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 122",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.14660930633545,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.8,
+      325.49,
+      403.75,
+      335.57
+    ],
+    "text": "(E) Rural Credit \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 123",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.732966423034668,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.12,
+      346.13,
+      404.46,
+      356.21
+    ],
+    "text": "(a) Extended Credit Scheme \u2022 \u2022 \u2022 \u2022 123",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.88,
+      360.29,
+      404.06,
+      370.37
+    ],
+    "text": "(b) Rural Banks \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 124",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.6,
+      374.45,
+      404.13,
+      384.53
+    ],
+    "text": "(c) New Agricultural Credit Scheme \u2022 \u2022 \u2022 \u2022 127",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.84,
+      393.41,
+      404.37,
+      403.49
+    ],
+    "text": "(d) Survey of Rural Credit and Indebtedness \u2022 \u2022 137",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.76,
+      413.57,
+      404.99,
+      423.65
+    ],
+    "text": "(F) Public Finance \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 139",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.721912384033203,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.08,
+      433.73,
+      404.98,
+      443.81
+    ],
+    "text": "(a) Introduction \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 139",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.84,
+      450.53,
+      405.26,
+      460.61
+    ],
+    "text": "(b) Revenue \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 144",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.8,
+      466.37,
+      404.98,
+      476.45
+    ],
+    "text": "(c) Expenditure \u2022\u2022 \u2022\u2022 \u2022\u2022 150",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.24,
+      482.21,
+      404.88,
+      492.29
+    ],
+    "text": "(i) Current Expenditure \u2022\u2022 \u2022\u2022 151",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.159547805786133,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      124.32,
+      498.05,
+      405.9,
+      508.13
+    ],
+    "text": "(ii) Capital Expenditure \u2022\u2022 \u2022\u2022 153",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.04,
+      513.89,
+      405.57,
+      523.97
+    ],
+    "text": "(d) Net Food Subsidy \u2022\u2022 \u2022\u2022 \u2022\u2022 157",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.32,
+      529.73,
+      406.18,
+      539.81
+    ],
+    "text": "(e) Under Expenditure by Ministries \u2022\u2022 \u2022\u2022 159",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14660930633545,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.28,
+      544.13,
+      406.42,
+      554.21
+    ],
+    "text": "(f) Advance Accounts \u2022\u2022 \u2022\u2022 \u2022\u2022 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.157693862915039,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.28,
+      558.29,
+      407.58,
+      568.37
+    ],
+    "text": "(g) Deficit and its Financing \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 161",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.141629219055176,
+      9.324726104736328,
+      9.585631370544434
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.04,
+      572.45,
+      406.43,
+      582.53
+    ],
+    "text": "(h) Public Debt \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 165",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.24,
+      586.61,
+      407.32,
+      596.69
+    ],
+    "text": "(i) Borrowing by Semi-Government Institutions \u2022 \u2022 176",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.159547805786133,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.76,
+      600.77,
+      406.77,
+      610.85
+    ],
+    "text": "(j) Budget 1969/70 \u2022\u2022 \u2022\u2022 \u2022\u2022 177",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.892753601074219,
+      9.065171241760254,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      614.93,
+      407.39,
+      625.01
+    ],
+    "text": "(k) Other Fiscal Measures \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 185",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      107.76,
+      629.09,
+      303.93,
+      639.17
+    ],
+    "text": "(1) A Note on Re-classification of Receipts",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.96,
+      643.25,
+      411.39,
+      653.33
+    ],
+    "text": "and Payments. \u2022 \u2022 \u2022 \u2022 * \u2022 186",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      216.48,
+      56.69,
+      259.64,
+      66.77
+    ],
+    "text": "( iii )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      67.92,
+      77.57,
+      409.3,
+      87.65
+    ],
+    "text": "(G) Balance of Payments and External Assets \u2022 \u2022 \u2022 \u2022 189",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.120634078979492,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.0,
+      98.21,
+      409.54,
+      108.29
+    ],
+    "text": "(a) Background and Trends \u2022\u2022 189",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      108.72,
+      115.25,
+      409.42,
+      125.33
+    ],
+    "text": "(b) External Resources and their Use \u2022 \u2022 \u2022 \u2022 192",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.88,
+      131.33,
+      411.49,
+      141.41
+    ],
+    "text": "1 \u2022 Merchandise Account \u2022 \u2022 \u2022 \u2022 192",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.324726104736328,
+      9.940975189208984
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.64,
+      147.41,
+      409.97,
+      157.49
+    ],
+    "text": "2 \u2022 Services Account \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 193",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.64,
+      163.49,
+      409.55,
+      173.57
+    ],
+    "text": "3\u00ab Capital Account \u2022\u2022 >\u2022 \u2022\u2022 195",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.952523231506348,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.12,
+      184.85,
+      408.96,
+      194.93
+    ],
+    "text": "(H) Prices and Wages \u2022\u2022 \u2022\u2022 201",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.120634078979492,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.44,
+      209.33,
+      408.71,
+      219.41
+    ],
+    "text": "(a) Prices \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 201",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      128.88,
+      225.89,
+      409.19,
+      235.97
+    ],
+    "text": "(i) The Colombo Consumers' Price Index \u2022 \u2022 201",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.159547805786133,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      126.24,
+      242.21,
+      314.29,
+      252.29
+    ],
+    "text": "(ii) Prices not covered by the Consumers'",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.24,
+      258.29,
+      409.99,
+      268.37
+    ],
+    "text": "Price Index \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 203",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133834838867188,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      123.12,
+      274.37,
+      410.46,
+      284.45
+    ],
+    "text": "(iii) Consumer Goods \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 203",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.96,
+      290.93,
+      410.06,
+      301.01
+    ],
+    "text": "(vi) Intermediate Goods \u2022 \u2022 \u2022 \u2022 204",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.298001289367676,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      122.88,
+      307.01,
+      412.77,
+      317.09
+    ],
+    "text": "(v) Investment Goods \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 204",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.141629219055176,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.44,
+      325.01,
+      410.78,
+      335.09
+    ],
+    "text": "(b) Wages \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 204",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      69.36,
+      343.49,
+      410.24,
+      353.57
+    ],
+    "text": "(I) Employment and Labour Relations \u2022 \u2022 \u2022 \u2022 208",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.901270866394043,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.44,
+      361.97,
+      410.24,
+      372.05
+    ],
+    "text": "(a) Summary \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 208",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.68,
+      378.29,
+      410.5,
+      388.37
+    ],
+    "text": "(b) Number placed in Employment \u2022 \u2022 \u2022 \u2022 209",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.92,
+      394.13,
+      412.49,
+      404.21
+    ],
+    "text": "(c) Employment in the Public Sector \u2022 \u2022 \u2022 \u2022 209",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.44,
+      409.97,
+      409.18,
+      420.05
+    ],
+    "text": "(d) Employees Registered under the E . P . F . \u2022\u2022 212",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.801916122436523,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.16,
+      425.81,
+      410.3,
+      435.89
+    ],
+    "text": "(e) Registrants for Employment \u2022\u2022 \u2022* 214",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14660930633545,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      109.92,
+      441.65,
+      410.27,
+      451.73
+    ],
+    "text": "(f) Labour Relations \u2022\u2022 \u2022\u2022 \u2022\u2022 215",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.157693862915039,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      70.56,
+      458.93,
+      410.44,
+      469.01
+    ],
+    "text": "0 ) Foreign Trade \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 216",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.85972785949707,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.16,
+      477.17,
+      410.43,
+      487.25
+    ],
+    "text": "(a) Overall Trends \u2022\u2022 \u2022\u2022 \u2022\u2022 216",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.88,
+      493.25,
+      410.48,
+      503.33
+    ],
+    "text": "(b) Exports \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 218",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.133790016174316,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.16,
+      509.33,
+      410.86,
+      519.41
+    ],
+    "text": "(c) Imports \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 232",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.12,
+      525.41,
+      411.16,
+      535.49
+    ],
+    "text": "(d) Developments in the Port of Colombo \u2022 \u2022 236",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.324726104736328,
+      9.540472984313965
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      111.12,
+      541.73,
+      411.09,
+      551.81
+    ],
+    "text": "(e) Pattern of Trade \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 237",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14660930633545,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.64,
+      557.81,
+      411.12,
+      567.89
+    ],
+    "text": "(f) Developments in Commercial Policy \u2022 \u2022 \u2022 \u2022 241",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.157693862915039,
+      9.324726104736328,
+      9.540472984313965
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.4,
+      574.13,
+      411.1,
+      584.21
+    ],
+    "text": "(g) Foreign Exchange Budget \u2022 \u2022 \u2022 \u2022 242",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.141629219055176,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.88,
+      590.21,
+      411.23,
+      600.29
+    ],
+    "text": "(h)Tarriffs \u2022\u2022 \u2022\u2022 \u2022\u2022 245",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.210710525512695,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.64,
+      606.77,
+      415.37,
+      616.85
+    ],
+    "text": "(i) Trade Agreements \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 . 246",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.159547805786133,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.96,
+      628.71,
+      411.64,
+      636.57
+    ],
+    "text": "III. A C C O U N T S A N D O P E R A T I O N S O F T H E C E N T R A L B A N K 2 4 7",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.940118312835693,
+      7.27533483505249
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.72,
+      643.35,
+      411.86,
+      651.21
+    ],
+    "text": "IV. P E R S O N N E L 2 5 2",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.1350226402282715,
+      7.27533483505249
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      203.76,
+      56.21,
+      247.11,
+      66.29
+    ],
+    "text": "( iv )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46.8,
+      77.82,
+      110.28,
+      85.8
+    ],
+    "text": "A P P E N D I X 1",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.282649517059326,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46.56,
+      99.42,
+      405.63,
+      107.4
+    ],
+    "text": "( A ) M A J O R L E G A L E N A C T M E N T S O F T H E P A R L I A M E N T O F C E Y L O N I N",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.159783363342285,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.28,
+      114.06,
+      406.18,
+      122.04
+    ],
+    "text": "1 9 6 9 W H I C H R E L A T E T O T H E F U N C T I O N S A N D O P E R A T I O N S O F T H E",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.124762535095215,
+      7.14387321472168,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.08,
+      128.22,
+      301.27,
+      136.2
+    ],
+    "text": "C E N T R A L B A N K A N D B A N K I N G I N S T I T U T I O N S \u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.259871006011963,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.24,
+      148.37,
+      366.28,
+      158.45
+    ],
+    "text": "(a) Bretton Woods Agreements (Special Provisions) Act",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.0,
+      162.53,
+      401.12,
+      172.61
+    ],
+    "text": "No. 2 of 1969. (i)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.24,
+      176.69,
+      401.12,
+      186.77
+    ],
+    "text": "(b) Finance (Amendment) Act No. 35 of 1969. \u2022 \u2022 (iv)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47.52,
+      200.94,
+      405.87,
+      208.92
+    ],
+    "text": "( B ) M A J O R A D M I N I S T R A T I V E M E A S U R E S A D O P T E D B Y T H E M O N E T A R Y",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.850564479827881,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.64,
+      213.66,
+      146.62,
+      221.64
+    ],
+    "text": "B O A R D I N 1 9 6 9 .",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.219342231750488,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.0,
+      233.81,
+      337.48,
+      243.89
+    ],
+    "text": "(a) Commercial Bank Credit \u2014 Margin requirements",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.916096687316895,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      120.0,
+      247.97,
+      401.84,
+      258.05
+    ],
+    "text": "against import letters of credit. \u2022 \u2022 \u2022 \u2022 (i)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.0,
+      262.13,
+      401.84,
+      272.21
+    ],
+    "text": "(b) Commercial Bank Credit. \u2022 \u2022 \u2022 \u2022 (ii)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.0,
+      276.53,
+      403.58,
+      286.61
+    ],
+    "text": "(c) Commercial Bank Credit. \u2022 \u2022 \u2022 \u2022 (iii)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.909220695495605,
+      9.100000381469727,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.24,
+      290.69,
+      340.12,
+      300.77
+    ],
+    "text": "(d) Commercial Bank Credit \u2014 Margin requirements",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.04,
+      304.85,
+      402.08,
+      314.93
+    ],
+    "text": "against import letters of Credit. \u2022 \u2022 \u2022 \u2022 (iv)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.76,
+      319.01,
+      401.6,
+      329.09
+    ],
+    "text": "(e) Working Balances in Sterling. \u2022 \u2022 \u2022 \u2022 (v)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.14660930633545,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.0,
+      333.17,
+      402.86,
+      343.25
+    ],
+    "text": "(f) Commercial Bank Credit. \u2022 \u2022 \u2022 \u2022 (vi)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.157693862915039,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.24,
+      347.33,
+      401.74,
+      357.41
+    ],
+    "text": "(g) Central Bank's Exchange Rates for the U.S. Dollar. \u2022 \u2022 (viii)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.141629219055176,
+      9.235491752624512,
+      9.473969459533691
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.76,
+      361.73,
+      401.84,
+      371.81
+    ],
+    "text": "(h) Commercial Bank Credit \u2014 Government Corporations. (ix)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.24,
+      375.89,
+      402.08,
+      385.97
+    ],
+    "text": "(i) Commercial Bank Credit. \u2022 \u2022 \u2022 \u2022 (x)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.159547805786133,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.48,
+      390.05,
+      334.19,
+      400.13
+    ],
+    "text": "(j) Refinance \u2014 Rates of Interest on Medium &",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.892753601074219,
+      9.235491752624512,
+      9.475237846374512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      117.6,
+      404.21,
+      401.84,
+      414.29
+    ],
+    "text": "Long Term Credit. \u2022 \u2022 \u2022 \u2022 (xi)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      96.48,
+      418.37,
+      342.28,
+      428.45
+    ],
+    "text": "(k) Rates of exchange for purchase of foreign currency",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.133790016174316,
+      9.235491752624512,
+      9.4749755859375
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      119.04,
+      432.53,
+      402.08,
+      442.61
+    ],
+    "text": "notes. \u2022 \u2022 \u2022 \u2022 (xii)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      47.04,
+      458.94,
+      225.09,
+      466.92
+    ],
+    "text": "A P P E N D I X II \u2014 S T A T I S T I C A L T A B L E S",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.1088104248046875,
+      7.158697605133057,
+      7.282649517059326,
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      46.8,
+      472.86,
+      237.23,
+      480.84
+    ],
+    "text": "N A T I O N A L P R O D U C T 6k E X P E N D I T U R E",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.307201385498047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      380.16,
+      493.73,
+      406.65,
+      503.81
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.48,
+      515.09,
+      398.88,
+      525.17
+    ],
+    "text": "Summaty Indicators of Product and Expenditure \u2022 \u2022 \u2022 \u2022 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.48,
+      529.01,
+      397.12,
+      539.09
+    ],
+    "text": "Principal Agricultural Crops \u2014 Area under Cultivation \u2022 \u2022 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.96,
+      543.17,
+      397.45,
+      553.25
+    ],
+    "text": "Quantities Produced of the Principal Agricultural Crops \u2022 \u2022 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.72,
+      557.09,
+      397.77,
+      567.17
+    ],
+    "text": "Gross National Product at Current Factor Cost Prices- \u2022 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.965832710266113,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.72,
+      571.25,
+      397.26,
+      581.33
+    ],
+    "text": "Gross National Product at Constant (1959) Factor Cost Prices \u2022 \u2022 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.965832710266113,
+      8.992761611938477,
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.96,
+      585.41,
+      397.18,
+      595.49
+    ],
+    "text": "Real National Income \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.2,
+      599.33,
+      396.88,
+      609.41
+    ],
+    "text": "Gross Domestic Capital Formation at Current Market Prices \u2022 \u2022 7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512,
+      9.469554901123047
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.72,
+      613.25,
+      397.47,
+      623.33
+    ],
+    "text": "Gross National Expenditure at Current Market Prices \u2022 \u2022 \u2022 \u2022 8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.96,
+      627.17,
+      397.73,
+      651.17
+    ],
+    "text": "Expenditure on Gross National Product at Current Prices \u2022 \u2022 9 Composition of Private Consumption Expenditure at Current",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.235491752624512,
+      9.442669868469238,
+      9.46714973449707
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      219.84,
+      53.57,
+      259.88,
+      63.65
+    ],
+    "text": "( v )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.28,
+      75.17,
+      413.62,
+      85.25
+    ],
+    "text": "Market Prices \u2022 \u2022 \u2022. . . 10",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.221583366394043,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82.56,
+      89.57,
+      414.79,
+      126.53
+    ],
+    "text": "Gross Domestic Expenditure and Availability of Resources \u2022 \u2022 11 Resources and their Utilisation of Current Market Prices \u2022 \u2022 12 Direct Import Content of Gross Domestic Expenditure \u2022 \u2022 13",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63.6,
+      141.51,
+      174.98,
+      149.37
+    ],
+    "text": "M O N E Y A N D B A N K I N G",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.146036148071289,
+      7.27533483505249
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.76,
+      165.17,
+      415.34,
+      175.25
+    ],
+    "text": "Money Supply \u2022 \u2022 \u2022. .. 14",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      83.52,
+      179.33,
+      425.41,
+      244.13
+    ],
+    "text": "Changes in the Sources of Money Supply \u2022 \u2022 \u2022 \u2022 15 Currency Issue of the Central Bank \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 16 Assets and Liabilities of Commercial Banks (Assets) \u2022\u2022 \u2022\u2022 17 Assets and Liabilities of Commercial Banks (Liabilities) 17(Contd.) Assets and Liabilities of Central Bank (Assets) \u2022 \u2022 \u2022 \u2022 18",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.166099548339844,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.24,
+      249.17,
+      427.16,
+      259.25
+    ],
+    "text": "Assets and Liabilities of Central Bank (Liabilities) \u2022 \u2022 18(Contd.)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.0,
+      264.77,
+      416.3,
+      421.01
+    ],
+    "text": "Accounts of the Central Bank of Ceylon \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 19 Money Rates \u2022 \u2022 \u2022 \u2022 20 Bank Clearings \u2022 \u2022 \u2022 \u2022 \u2022' 21 Reserve Position of Commercial Banks \u2022 \u2022 \u2022 \u2022 22 Bank Debits and Deposits Turnover \u2022 \u2022 \u2022 \u2022 23 Purchases and Sales of Foreign Exchange by the Central Bank 24 Savings and Credit Institutions \u2014 Borrowing and lending rates in 1969 25 Development Finance Corporation of Ceylon \u2014 Financial Operations 26 State Mortgage Bank \u2014 Loans granted> repaid and outstanding 27 Agricultural and Industrial Credit Corporation \u2014 Loans granted, repaid and outstanding \u2022 \u2022 \u2022 \u2022 \"28 Savings Deposits and Savings Certificates \u2022 \u2022 \u2022 \u2022 29",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.218259811401367,
+      9.250409126281738,
+      9.267401695251465,
+      9.276556968688965,
+      9.324726104736328,
+      9.588006973266602,
+      9.590554237365723,
+      9.624685287475586
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      66.0,
+      437.43,
+      152.2,
+      445.29
+    ],
+    "text": "P U B L I C F I N A N C E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.076317310333252,
+      7.27533483505249
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      85.68,
+      463.49,
+      428.02,
+      621.17
+    ],
+    "text": "Government net Cash Surplus or deficit \u2022 \u2022 \u2022 \u2022 30 Net Cash Surplus or Deficit \u2022 \u2022 \u2022 \u2022 31 Revenue and Expenditure of the Government of Ceylon \u2022 \u2022 32 Revenue of the Government of Ceylon \u2022 \u2022 \u2022 \u2022 33 Voted Expenditure of the Government of Ceylon \u2022 \u2022 \u2022 \u2022 34 Receipts and Payments of the Government of Ceylon \u2022 \u2022 35 Receipts and Payments of the Government of Ceylon \u2022 \u2022 \u2022 \u2022 35 A Sources of Finance for Capital Expenditure \u2022 \u2022 \u2022 \u2022 36 Composition of Public Debt \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 37 Ownership of Public Debt \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 38 Prices and Yields of selected Government Securities \u2022 \u2022 \u2022 \u2022 39 Classification of Subscriptions to Rupee Loans 1968/69 \u2022 \u2022 40",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.062110900878906,
+      9.100000381469727,
+      9.23786735534668,
+      9.324726104736328,
+      9.585631370544434
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      88.08,
+      625.01,
+      418.06,
+      648.29
+    ],
+    "text": "Treasury Bills \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 41 Ceylon Government Foreign Aid Counterpart Fund \u2022 \u2022 \u2022 \u2022 42",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.171021461486816,
+      9.324726104736328
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.2,
+      57.65,
+      253.61,
+      67.73
+    ],
+    "text": "( vi )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      52.8,
+      79.11,
+      154.58,
+      86.97
+    ],
+    "text": "E X T E R N A L F I N A N C E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.019131660461426,
+      7.240607738494873
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.96,
+      109.25,
+      402.59,
+      133.01
+    ],
+    "text": "Balance of Payments for 1967-69 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 43 Balance of Payments for 1969 (by quarters) \u2022 \u2022 \u2022 \u2022 44",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.250543594360352,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.2,
+      136.85,
+      403.52,
+      160.61
+    ],
+    "text": "Balance of Payments for 1969 (By Regions and Monetary Areas) \u2022 \u2022 45 Balance of Payments for 1952-69 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 46",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.100000381469727,
+      9.250543594360352,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.2,
+      164.21,
+      402.73,
+      174.29
+    ],
+    "text": "External Assets of Ceylon \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 47",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.094902992248535,
+      9.100000381469727,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53.52,
+      179.43,
+      144.5,
+      187.29
+    ],
+    "text": "E X T E R N A L T R A D E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.019131660461426,
+      7.240607738494873
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.96,
+      191.09,
+      402.99,
+      268.37
+    ],
+    "text": "External Trade - Value, Volume and Price \u2022 \u2022 \u2022 \u2022 48 Central Bank Trade Indices - Exports (1967 - 100) \u2022 \u2022 \u2022 \u2022 49 Central Bank Trade Indices - Imports (1967 = 100) \u2022 \u2022 \u2022 \u2022 50 Central Bank Trade Indices - Value (1967 - 100) \u2022 \u2022 \u2022 \u2022 51 Ceylon's International Trade in Merchandise \u2022 \u2022 \u2022 \u2022 52 (by Monetary Areas and Regions)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.094902992248535,
+      9.100000381469727,
+      9.17770004272461,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53.52,
+      285.99,
+      158.62,
+      293.85
+    ],
+    "text": "P R I C E S A N D W A G E S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.0410380363464355,
+      7.240607738494873
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.96,
+      314.69,
+      351.71,
+      338.21
+    ],
+    "text": "Cost of Living Index Numbers - Colombo Town (1952 = 100) Colombo Market Prices of Selected Export Commodities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.96,
+      342.05,
+      333.47,
+      365.57
+    ],
+    "text": "F. O. B. Prices of Selected Expott Commodities Indices of Share Prices of Rupee Companies (1952 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.720488548278809,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.92,
+      369.41,
+      287.87,
+      392.93
+    ],
+    "text": "Indices of Prices of Government Securities and Debentures and Preference Shares (1952 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.92,
+      396.29,
+      318.79,
+      446.69
+    ],
+    "text": "Minimum Wage Rate Index Numbers of Workers in Wages Boards Trades (1952 = 100) Wage Rate Index Numbers of Government Empolyees (1952 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.111141204833984,
+      9.229392051696777,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.68,
+      460.37,
+      300.31,
+      470.45
+    ],
+    "text": "Numbers of Registrants at Employment Exchanges",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54.24,
+      488.55,
+      183.82,
+      496.41
+    ],
+    "text": "A P P E N D I X III - C H A R T S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.156927108764648,
+      7.240607738494873
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.16,
+      504.29,
+      402.21,
+      514.37
+    ],
+    "text": "Gross National Product at Current Factor Cost Prices \u2022 \u2022 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.965832710266113,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.2,
+      519.89,
+      402.67,
+      529.97
+    ],
+    "text": "Gross National Product at Constant (1959) Factor Cost Prices \u2022 \u2022 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.965832710266113,
+      8.992761611938477,
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.2,
+      534.05,
+      284.7,
+      544.13
+    ],
+    "text": "Gross Domestic Product by Industrial Origin at",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.2802152633667
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      73.44,
+      548.21,
+      405.5,
+      650.93
+    ],
+    "text": "Current Factor Cost Prices \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 3 Gross National Expenditure at Current Market Prices \u2022 \u2022 4 Production of Principal Agricultural Crops \u2022 \u2022 \u2022 \u2022 5 Money Supply \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 6 Sources of Money Supply \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 7 Savings Deposits and Savings Certificates \u2022 \u2022 \u2022 \u2022 8 Government Revenue and Expenditure \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 9 Government Net Cash Surplus or Deficit \u2022 \u2022 \u2022 \u2022 10",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.965832710266113,
+      9.100000381469727,
+      9.136327743530273,
+      9.2802152633667,
+      9.52874755859375,
+      9.585631370544434,
+      9.590554237365723
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.0,
+      315.17,
+      402.32,
+      365.57
+    ],
+    "text": "53 54 55 56",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.031126022338867,
+      9.054523468017578,
+      9.115639686584473,
+      9.178738594055176
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.0,
+      383.57,
+      401.72,
+      393.65
+    ],
+    "text": "57",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.173910140991211
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.48,
+      409.25,
+      402.31,
+      419.33
+    ],
+    "text": "58",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.049582481384277
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.48,
+      436.61,
+      402.13,
+      446.69
+    ],
+    "text": "59",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.0875244140625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      390.48,
+      450.29,
+      402.39,
+      460.37
+    ],
+    "text": "60",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.096905708312988
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      217.2,
+      48.77,
+      262.78,
+      58.85
+    ],
+    "text": "( vii )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.366459846496582,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.92,
+      70.37,
+      207.81,
+      80.45
+    ],
+    "text": "Composition of Public Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082,
+      9.551403045654297
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      85.97,
+      248.8,
+      96.05
+    ],
+    "text": "(showing Gross and Net Public Debt)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082,
+      9.589691162109375
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      101.57,
+      198.21,
+      111.65
+    ],
+    "text": "Ownership of Public Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082,
+      9.551403045654297
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      116.93,
+      195.65,
+      127.01
+    ],
+    "text": "External Assets of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.094902992248535,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      132.29,
+      233.64,
+      142.37
+    ],
+    "text": "Merchandise Exports and Imports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.119816780090332,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      148.13,
+      321.96,
+      158.21
+    ],
+    "text": "Value of Exports and Imports by Commodity Groups",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.119816780090332,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.44,
+      163.73,
+      344.76,
+      173.81
+    ],
+    "text": "Balance of Trade by Monetary Areas and Regional Groups",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.121224403381348,
+      9.250543594360352,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      179.09,
+      141.48,
+      189.17
+    ],
+    "text": "Export Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.066495895385742,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.16,
+      194.93,
+      142.44,
+      205.01
+    ],
+    "text": "Import Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.230737686157227,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.4,
+      210.53,
+      152.74,
+      220.61
+    ],
+    "text": "Terms of Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.121224403381348,
+      9.228046417236328,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.92,
+      226.13,
+      231.05,
+      236.21
+    ],
+    "text": "Colombo Consumer's Price Index",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      79.68,
+      241.49,
+      321.0,
+      251.57
+    ],
+    "text": "Colombo Consumer's Price Index by Sectoral Groups",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.16,
+      256.85,
+      203.64,
+      266.93
+    ],
+    "text": "Wage Rate Index Numbers",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.229392051696777,
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.4,
+      272.21,
+      277.8,
+      282.29
+    ],
+    "text": "Indices of Share Prices of Rupee Companies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.369023323059082
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      202.08,
+      291.89,
+      271.46,
+      301.97
+    ],
+    "text": "P R E F A C E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.955482482910156
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106.32,
+      328.3,
+      419.11,
+      336.38
+    ],
+    "text": "THIS, THE TWENTIETH ANNUAL REPORT OF THE MONETARY BOARD",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.463085174560547,
+      7.527464866638184
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58.56,
+      342.46,
+      418.32,
+      350.54
+    ],
+    "text": "OF T H E CENTRAL BANK O F CEYLON, IS ISSUED IN ACCORDANCE WITH",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.198851585388184,
+      7.2266316413879395,
+      7.444246292114258
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58.8,
+      356.62,
+      307.62,
+      364.7
+    ],
+    "text": "SECTION 3 5 OF T H E MONETARY L A W ACT (CAP. 4 2 2 ) .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      105.6,
+      383.02,
+      418.51,
+      391.1
+    ],
+    "text": "T H E BANK'S FINANCIAL YEAR IS THE CALENDAR Y E A R . T H E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.474287986755371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.04,
+      397.18,
+      383.22,
+      405.26
+    ],
+    "text": "FOLLOWING REPORT IS CONCERNED PRIMARILY WITH THE YEAR 1969.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395
+    ]
+  }
+]

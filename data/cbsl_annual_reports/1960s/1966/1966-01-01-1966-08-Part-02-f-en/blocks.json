@@ -1,0 +1,3429 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      71.76,
+      72.22,
+      370.48,
+      81.19
+    ],
+    "text": "(F) BALANCE OF P A Y M E N T S A N D E X T E R N A L ASSETS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.456648826599121,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      44.88,
+      96.46,
+      403.89,
+      153.43
+    ],
+    "text": "Detailed statistics of Ceylon's balance of payments and external assets are available in Tables 27 to 31 in Appendix. Balance of payments data are derived from exchange control records of actual receipts and payments during the year. This data will differ from the statistics used in the Foreign Trade Sector which is based on Customs Returns.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.734527587890625,
+      8.783291816711426,
+      8.865449905395508,
+      8.910000801086426,
+      9.093634605407715,
+      9.10794448852539
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.32,
+      171.82,
+      131.92,
+      180.79
+    ],
+    "text": "Principal Trends",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      45.12,
+      196.54,
+      404.32,
+      337.51
+    ],
+    "text": "The performance of the balance of payments of Ceylon in 1966 provided a marked contrast in several respects to that of 1965. Whereas in 1965 the balance of payments reflected an improved position on merchandise account and invisibles account over 1964, in 1966, there was a marked deterioration. In 1965 the mer\u00adchandise account on commercial transactions reflected a surplus of Rs. 128 million but in 1966 such transactions showed a deficit of almost Rs. 123 million. Like\u00adwise in 1965, Ceylon's invisible transactions (excluding gifts in kind) showed a sur\u00adplus of approximately Rs. 8 million, but in contrast there was a deficit of Rs. 19 million in 1966. The substantial deficits recorded in the merchandise and invisibles accounts of Ceylon's balance of payments in 1966 resulted in a total current account deficit of Rs. 142 million in transactions on commercial account, as compared with a surplus of Rs. 136 million in 1965.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.456648826599121,
+      8.728779792785645,
+      8.736066818237305,
+      8.805933952331543,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      45.36,
+      353.74,
+      405.05,
+      506.71
+    ],
+    "text": "The adverse current account position in Ceylon's balance of payments was principally a result of a sharp fall of Rs. 156 million in export receipts below the anticipated target when the foreign exchange budget was formulated at the beginn\u00ading of 1966. As compared with 1965 the drop in export income has amounted to approximately Rs. 235 million. Combined with the adverse change in export income there has been an increase in import payments and larger outward transfers on account of invisibles payments and particularly the repatriation of investment income. Ceylon's balance of payments difficulties on current account were further aggravated in 1966 by a substantial increase in the amounts that were needed in foreign exchange for the amortisation or repatriation of earlier foreign capital inflows in the form of official loans or foreign private investment in Ceylon; these commitments amounted to almost Rs. 114 million in 1966, as compared with only Rs. 75 million in 1965.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.456648826599121,
+      8.796093940734863,
+      8.838247299194336,
+      8.87443733215332,
+      8.885704040527344,
+      8.888251304626465,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      45.6,
+      522.22,
+      404.68,
+      639.19
+    ],
+    "text": "In these circumstances if Ceylon had made an attempt in 1966 to live within her diminished export income, after setting off amounts for the settlement of private and official contractual obligations, she would have been forced to curtail drastically her import programme, even below the very low levels of 1965. Since the volume of consumption goods imports had already been cut down to very low levels by the end of 1965, further curtailment of imports in 1966 would have entailed a further curtailment of raw material and capital goods imports, with resultant dimunition in the levels of domestic capital formation, under utilisation of existing plant capacity and reduction in the rate of economic growth. The task of internal price stabilization would also have been much more difficult. In the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.456648826599121,
+      8.765121459960938,
+      8.888251304626465,
+      8.910000801086426,
+      9.083781242370605,
+      9.08388900756836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      272.16,
+      74.62,
+      435.78,
+      96.55
+    ],
+    "text": "T A B L E II (F) 1 Ceylon Balance of Payments (a)",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.446673393249512,
+      8.838915824890137,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      30.96,
+      148.23,
+      50.8,
+      156.09
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5490403175354
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.64,
+      108.39,
+      86.51,
+      116.25
+    ],
+    "text": "(1)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.8,
+      148.47,
+      96.58,
+      164.49
+    ],
+    "text": "Exports (Total)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.665139675140381,
+      7.752829074859619
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.04,
+      108.39,
+      131.25,
+      116.25
+    ],
+    "text": "(*)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.765953063964844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109.44,
+      148.71,
+      141.24,
+      164.49
+    ],
+    "text": "Imports (Total)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.665139675140381,
+      7.724917411804199
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.2,
+      107.91,
+      199.07,
+      115.77
+    ],
+    "text": "(3)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      165.6,
+      122.79,
+      221.71,
+      130.65
+    ],
+    "text": "Trade Balance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.649438381195068,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.2,
+      106.71,
+      264.91,
+      114.57
+    ],
+    "text": "(4)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238.8,
+      136.71,
+      278.09,
+      176.25
+    ],
+    "text": "Net Invisibles (including gifts in kind)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.757379531860352,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      288.24,
+      108.15,
+      362.95,
+      131.61
+    ],
+    "text": "(S) Balance on Current Account",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6120147705078125,
+      7.723514080047607,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373.44,
+      140.79,
+      411.33,
+      173.13
+    ],
+    "text": "Net Long-term Capital (c)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.671384811401367,
+      7.716952323913574,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      432.0,
+      107.91,
+      443.87,
+      115.77
+    ],
+    "text": "(7)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.92,
+      141.03,
+      460.07,
+      172.65
+    ],
+    "text": "Basic Balance (Net of 5(i) and (6)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.654247760772705,
+      7.73593807220459,
+      7.744990348815918,
+      7.755397319793701,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      476.88,
+      108.39,
+      488.45,
+      116.25
+    ],
+    "text": "(\u00ab)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.310896873474121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      462.72,
+      140.55,
+      501.09,
+      173.61
+    ],
+    "text": "Net Short-term Capital (d)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6120147705078125,
+      7.716952323913574,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.76,
+      108.15,
+      533.17,
+      116.01
+    ],
+    "text": "(\u00bb)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.310896873474121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      514.8,
+      140.55,
+      541.13,
+      172.17
+    ],
+    "text": "Errors and Omis\u00adsions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.572009086608887,
+      7.684942245483398,
+      7.755397319793701,
+      7.931783676147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      564.48,
+      106.47,
+      580.67,
+      114.33
+    ],
+    "text": "(10)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537879467010498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      553.68,
+      132.15,
+      591.02,
+      180.81
+    ],
+    "text": "Changes in Total External AssetsJ (increase) +",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.765822410583496,
+      7.766277313232422,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      609.6,
+      107.91,
+      625.01,
+      115.77
+    ],
+    "text": "(ID",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.568846702575684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.8,
+      140.07,
+      635.83,
+      171.69
+    ],
+    "text": "External Assets at end of period",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.766277313232422,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      654.24,
+      106.71,
+      670.61,
+      114.57
+    ],
+    "text": "(12)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537879467010498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      641.52,
+      132.39,
+      682.23,
+      156.09
+    ],
+    "text": "Assets (excluding sterling",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      644.88,
+      156.39,
+      673.92,
+      180.09
+    ],
+    "text": "loan sinking funds)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.756729602813721,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      30.96,
+      148.23,
+      50.8,
+      156.09
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5490403175354
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.64,
+      108.39,
+      86.51,
+      116.25
+    ],
+    "text": "(1)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.8,
+      148.47,
+      96.58,
+      164.49
+    ],
+    "text": "Exports (Total)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.665139675140381,
+      7.752829074859619
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      119.04,
+      108.39,
+      131.25,
+      116.25
+    ],
+    "text": "(*)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.765953063964844
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109.44,
+      148.71,
+      141.24,
+      164.49
+    ],
+    "text": "Imports (Total)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.665139675140381,
+      7.724917411804199
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      164.64,
+      142.71,
+      175.03,
+      150.57
+    ],
+    "text": "(i)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.709403038024902
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.0,
+      156.87,
+      183.43,
+      164.73
+    ],
+    "text": "(Total)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.665139675140381
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      195.6,
+      142.23,
+      233.04,
+      199.05
+    ],
+    "text": "(ii) (of which Commer\u00adcial tran\u00adsactions) (b)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.559349536895752,
+      7.59530782699585,
+      7.7049560546875,
+      7.744534969329834,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.2,
+      106.71,
+      264.91,
+      114.57
+    ],
+    "text": "(4)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238.8,
+      136.71,
+      278.09,
+      176.25
+    ],
+    "text": "Net Invisibles (including gifts in kind)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.757379531860352,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      298.32,
+      136.23,
+      308.87,
+      144.09
+    ],
+    "text": "(i)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.709403038024902
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.4,
+      154.71,
+      322.09,
+      179.85
+    ],
+    "text": "Total (Net of 3 (i) & (4)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.087315082550049,
+      7.677427768707275,
+      7.709403038024902,
+      7.744990348815918,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      325.44,
+      136.23,
+      370.62,
+      182.49
+    ],
+    "text": "(ii) (of which balance on current, account on commercial",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.7049560546875,
+      7.759491443634033,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      329.52,
+      182.55,
+      363.72,
+      198.09
+    ],
+    "text": "tran\u00adsactions)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.744534969329834,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373.44,
+      140.79,
+      411.33,
+      173.13
+    ],
+    "text": "Net Long-term Capital (c)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.671384811401367,
+      7.716952323913574,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      432.0,
+      107.91,
+      443.87,
+      115.77
+    ],
+    "text": "(7)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.92,
+      141.03,
+      460.07,
+      172.65
+    ],
+    "text": "Basic Balance (Net of 5(i) and (6)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.654247760772705,
+      7.73593807220459,
+      7.744990348815918,
+      7.755397319793701,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      476.88,
+      108.39,
+      488.45,
+      116.25
+    ],
+    "text": "(\u00ab)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.310896873474121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      462.72,
+      140.55,
+      501.09,
+      173.61
+    ],
+    "text": "Net Short-term Capital (d)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6120147705078125,
+      7.716952323913574,
+      7.772635459899902,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      521.76,
+      108.15,
+      533.17,
+      116.01
+    ],
+    "text": "(\u00bb)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.310896873474121
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      514.8,
+      140.55,
+      541.13,
+      172.17
+    ],
+    "text": "Errors and Omis\u00adsions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.572009086608887,
+      7.684942245483398,
+      7.755397319793701,
+      7.931783676147461
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      564.48,
+      106.47,
+      580.67,
+      114.33
+    ],
+    "text": "(10)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537879467010498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      553.68,
+      132.15,
+      591.02,
+      180.81
+    ],
+    "text": "Changes in Total External AssetsJ (increase) +",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.765822410583496,
+      7.766277313232422,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      609.6,
+      107.91,
+      625.01,
+      115.77
+    ],
+    "text": "(ID",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.568846702575684
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      598.8,
+      140.07,
+      635.83,
+      171.69
+    ],
+    "text": "External Assets at end of period",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.766277313232422,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      654.24,
+      106.71,
+      670.61,
+      114.57
+    ],
+    "text": "(12)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.537879467010498
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      641.52,
+      132.39,
+      682.23,
+      156.09
+    ],
+    "text": "Assets (excluding sterling",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      644.88,
+      156.39,
+      673.92,
+      180.09
+    ],
+    "text": "loan sinking funds)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.756729602813721,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      22.56,
+      200.31,
+      539.29,
+      215.23
+    ],
+    "text": "1957 ... 1,669 1,764 - 95 - 45 - 100 - 195 - 127 \u2014 18 - 213 - 1 \u2014",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.522415637969971,
+      7.557248592376709,
+      7.679134845733643,
+      7.684811115264893,
+      7.809999942779541,
+      13.343000411987305
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      21.36,
+      200.07,
+      669.58,
+      283.14
+    ],
+    "text": "- 214 1,062 973 1958 ... 1,624 1,713 - 89 - 11 - 64 - 153 - 119 + 8 - 145 + 32 \u2014 16 - 129 933 838 1959 .. 1,773 1,958 - 185 - 49 - 23 - 208 - 66 + 32(e) - 176 \u2014 + 1 - 175(e) 734 655 I960 ... 1,796 2,006 - 210 - 127 - 10 - 220 - 63 + 22 - 198 - 24 + 29 - 193 541 458 1961 .. 1,707 1,794 - 87 5 7 - 95 - 48 + 11 - 84 + 93 \u2014 19 - 9 532 441 1962 .. 1,763 1,906 - 143 - 47 + 3 - 140 - 81 + 39 - 101 + 42(f) + 31 - 28 504 407 1963 .. 1,708 1,869 - 161 - 27 7 - 168 - 78 + 80 - 88 + 42(f) + 4 - 42 462 359 1964 .. 1,767 1,960 - 193 - 39 + 33 - 160 - 82 \u2022 + 69(e) - 92 + 33 \u2014 8 - 51(e) 351 305 1965 .. 1,909 1,922 - 13 + 128 + 72 + 59 + 136 + 58(e) + 117 + 3(f) -",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.1214094161987305,
+      7.148610591888428,
+      7.196086883544922,
+      7.378262996673584,
+      7.391301155090332,
+      7.442276477813721,
+      7.5075907707214355,
+      7.511887073516846,
+      7.519332408905029,
+      7.5210747718811035,
+      7.527842044830322,
+      7.532059192657471,
+      7.546869277954102,
+      7.547536849975586,
+      7.548572063446045,
+      7.549574375152588,
+      7.5506086349487305,
+      7.554379940032959,
+      7.554680347442627,
+      7.555314064025879,
+      7.555347442626953,
+      7.555981636047363,
+      7.566015243530273,
+      7.5697784423828125,
+      7.570378303527832,
+      7.575437068939209,
+      7.579494953155518,
+      7.587140083312988,
+      7.625677585601807,
+      7.643011093139648,
+      7.6513495445251465,
+      7.667737007141113,
+      7.670563697814941,
+      7.679134845733643,
+      7.681759834289551,
+      7.684811115264893,
+      7.685630798339844,
+      7.701912879943848,
+      7.809999942779541,
+      13.343000411987305,
+      15.288999557495117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      20.88,
+      264.39,
+      669.34,
+      291.3
+    ],
+    "text": "6 + 114(e) 440 408 1966(g) 1,674 2,023 - 349 - 123 + 44 - 305 - 142 + 113 - 192 + 75(f) -",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.148610591888428,
+      7.35300874710083,
+      7.532193183898926,
+      7.555981636047363,
+      7.575437068939209,
+      7.584281921386719,
+      7.616880416870117,
+      7.625677585601807,
+      7.679134845733643,
+      7.809999942779541,
+      15.288999557495117
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      534.96,
+      272.55,
+      669.48,
+      280.41
+    ],
+    "text": "5 - 122 318 282",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.196086883544922,
+      7.549574375152588,
+      7.555981636047363,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      17.28,
+      291.17,
+      689.39,
+      410.97
+    ],
+    "text": "(a) Based on exchange control data on foreign exchange receipts and payments. (b) Consists of the following (1) Commercial Banks' foreign exchange transactions ; (2) Commercial Banks, non-resident accounts ; (3) Central Bank's foreign exchange operations j (4) Payments Agreement transactions and (5) Transactions conducted by firms enjoying special account facilities viz. Sterling plantation companies and Traders ' Accounts. (c) Includes net movements if private and official long-term. The credit figures are as follows : Rs. 23 million in 1957 ; Rs. 23 million in 1958 ; Rs. 42 million in 1959 ; Rs. 27 million in 1960 ; Rs. 24 million in 1961 ; Rs. 46 million in 1962 ; Rs. 82 million in 1963 ; Rs. 79 million in 1964 ; Rs. 72 million in 1965 and Rs. 158 million in 1966. (</) Consists of changes in liabilities under bilateral trade and payments agreements. PL 480 counterpart funds, commercial banks ' 1 labilities to non-residents and net drawings from the International Monetary Fund. The figures for 1964, 1965 and 1966 also include amounts due to Burma on account of import of rice. (e) Excludes sterling loan repayments, mainly out of available Sterling loans sinking funds, of Rs. 24 million in 1959; Rs. 60 million in 1964; and Rs. 25 million in 1965. </) Includes drawings from the International Monetary Fund of Rs. 53-8 million each in 1961 and 1962 ; Rs. 109-4 million in 1965 and Rs. 144-0 million in 1966 ; less repay\u00adments of Rs. 35 -7 million in 1965 and Rs. 53-6 million in 1966 on earlier drawings and gold contributions of Rs. 20-2 million in 1965 and Rs. 19-0 million in 1966 on account of increases in Ceylon's quota at the International Monetary Fund from $ 45 million (Rs. 214-2 million) to $ 62 million (Rs. 295-1 million) in 1935 and to $ 78 million (Rs. 371 -3 million) in 1966. {g) Provisional.",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.049874305725098,
+      7.3925628662109375,
+      7.398118019104004,
+      7.442276477813721,
+      7.470806121826172,
+      7.483615398406982,
+      7.484120845794678,
+      7.519332408905029,
+      7.530954837799072,
+      7.554379940032959,
+      7.558215618133545,
+      7.572508335113525,
+      7.671384811401367,
+      7.689368724822998,
+      7.6921539306640625,
+      7.724329948425293,
+      7.725700378417969,
+      7.73593807220459,
+      7.771954536437988,
+      7.809999942779541,
+      7.938993453979492,
+      7.953268051147461,
+      7.954376697540283,
+      8.006017684936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      204.24,
+      43.66,
+      231.72,
+      52.63
+    ],
+    "text": "( 1 2 5 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.611371040344238
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      41.04,
+      69.1,
+      400.47,
+      174.07
+    ],
+    "text": "event however, a substantial increase in aid inflows, consisting mainly of \" Consor\u00adtium aid \" reduced the need to curtail imports to the diminished level of export income. Gross long-term foreign capital inflows in 1966 amounted to Rs. 224 million, as compared with Rs. 142 million in 1965. The net position on capital account amounted to Rs. 113 million in 1966. The current account deficit of Rs. 305 million (inclusive of all merchandise aid imports and gifts in kind) when set off against the net capital account balance of Rs. 113 million showed a ' basic deficit' of Rs. 192 million* requiring financing in 1966, as compared with a surplus of Rs. 117 million in 1965.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.630359649658203,
+      8.753923416137695,
+      8.833309173583984,
+      8.87443733215332,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40.32,
+      186.22,
+      399.49,
+      279.67
+    ],
+    "text": "The basic deficit was financed in 1966 by drawing down Ceylon's external assets by Rs. 122 million and by borrowing Rs. 71-4 million (net) *from the International Monetary Fund; thus the financing of the deficit required the further use of Ceylon's depleted foreign exchange reserves (net of Sterling Loan Sinking Funds) which declined from Rs. 408 million at the end of 1965 to Rs. 282 million at the end of 1966, or to an amount sufficient to finance less than two months average import payments. During 1966 Rs. 4 million was in addition contributed to Sterling Loan Sinking Funds.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.733400344848633,
+      8.910000801086426,
+      9.093634605407715,
+      9.141668319702148
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      40.56,
+      289.97,
+      202.69,
+      300.05
+    ],
+    "text": "External Resources and their use",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.969589233398438,
+      10.010000228881836
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      39.12,
+      309.1,
+      398.8,
+      498.07
+    ],
+    "text": "In 1966 the external resources available to Ceylon out of earned foreign ex\u00adchange amounted to Rs. 1,880 million, as compared with Rs. 2,108 million in 1965. Merchandise export earnings amounted to Rs. 1,674 million, as compared with Rs. 1,909 million in the previous year while income from services amounted to Rs. 206 million, as compared with Rs. 199 million in 1965. During the year 1986, however, Ceylon's use of external resources at Rs. 2,407 million, was Rs 527 million, (or 28 per cent) in excess of currently earned income. This was made possible by (a) drawing down Ceylon's external assets which had been built up to molerate levels at the close of 1965, (b) obtaining long and medium-term foreign loans and grants, (c) accumulating short-term liabilities in the form of deferred payments, and (d) borrowing short-term from foreign sources, principally the International Monetary Fund. In 1966, therefore, Ceylon was able to sustain a higher level of external resource utilisation as compared with 1965, principally as a result of the cushion of external assets which had been built up in the course of 1965 on the one hand and the assistance she obtained from donor countries, other trading partners and the International Monetary Fund, on the other.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.630359649658203,
+      8.762088775634766,
+      8.766355514526367,
+      8.82111930847168,
+      8.843108177185059,
+      8.8555269241333,
+      8.876099586486816,
+      8.882233619689941,
+      8.910000801086426,
+      9.081433296203613,
+      9.082914352416992,
+      9.083781242370605,
+      9.093634605407715,
+      9.166216850280762
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38.88,
+      510.22,
+      397.84,
+      591.19
+    ],
+    "text": "As is indicated in Table II (F) 2 Ceylon's earned income in foreign exchange from merchandise exports and the sale of services totalling Rs. 1,880 million in 1966 was supplemented by various borrowing arrangements and the receipt of gifts in kind from abroad. Of the total resources so mobilised Rs. 224 million consisted of aid in the form of loans and grants. Of this, loans constituted Rs 178 million and grants amounted to Rs. 51 million. The relative share of Project Aid and \"Consortium Aid\" amounted to Rs. 75 million and Rs. 132 million, respective-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.551429748535156,
+      8.578852653503418,
+      8.783291816711426,
+      8.8555269241333,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      38.64,
+      598.71,
+      398.86,
+      632.97
+    ],
+    "text": "* That is the net position in the balance of payments after setting-off the current and capital account positions. * This excludes an additional sum of Rs. 19 million borrowed from the International Monetary :. Fund under a special arrangement to pay a gold subscription attendant on an increase in",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.6773295402526855,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      47.52,
+      633.27,
+      227.48,
+      641.13
+    ],
+    "text": "Ceylon's Quota at the Fund to Rs. 371 \u2022 3 million.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.570378303527832,
+      7.6847453117370605,
+      7.770008087158203,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.72,
+      43.0,
+      240.88,
+      52.19
+    ],
+    "text": "( 1 2 6 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.717094421386719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.0,
+      68.44,
+      411.87,
+      257.63
+    ],
+    "text": "ly inclusive of grants. These resources which were made available to Ceylon in the course of 1966 had to be further supplemented by increasing Ceylon's short-term liabilities to various foreign institutions and by drawing down Ceylon's external assets. Gross drawings at the International Monetary Fund amounted to Rs. 144 million* in foreign exchange, while Ceylon increased her liabilities under bilateral payments agreements by approximately Rs. 30 million. In addition a further-sum of Rs. 30-6 million was owed to Burma at the end of 1966. In 1965 Ceylon had as a result of a favourable balance of payments position built up her exter\u00adnal assets (net of Sterling Loan Sinking Funds) to Rs. 408 million. These were drawn down by Rs. 122 million in the course of 1966 for financing a part of Ceylon's payments imbalance. In sum, therefore, of the resources available to Ceylon in 1966 for meeting her various international payments, 79 per cent came from currently earned foreign exchange, 9 per cent came from various capital inflows (of which 76 per cent consisted of loans and 23 per cent in the form of grants), 7 per cent of resources were mobilised by incurring short-term liabilities and 5 per cent was available from accumulated savings in foreign exchange.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.716225624084473,
+      8.870638847351074,
+      8.873977661132812,
+      8.87541389465332,
+      8.878284454345703,
+      8.891000747680664,
+      8.936020851135254,
+      8.947422981262207,
+      8.964115142822266,
+      8.980968475341797,
+      8.984573364257812,
+      9.016107559204102,
+      9.192826271057129,
+      9.20536994934082
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.92,
+      277.48,
+      412.89,
+      454.67
+    ],
+    "text": "The total external resources available to Ceylon in 1966 amounted toRs. 2,407 million. Of this sum Rs. 2,023 million (or 84 per cent) was spent on merchandise imports, Rs. 225 million (or 9 pei centf was utilized for payments for services, while the amortization of foreign loans and the repatriation of foreign owned capi\u00adtal absorbed Rs. 114 million (or 5 per cent). Of the external resources used for service payments, Rs. 30 million (13 per cent) was used for repatriation of investment income, Rs. 32 million (14 per cent) for migrants' trans\u00adfers and Rs. 21 million (9 per cent) constituted interest payments. Similarly, of the sums devoted to capital repatriation and amortization of loans, repatriation of private capital absorbed Rs. 11 million (10 per cent) and consisted predominantly of compensation amounting to Rs. 9 million paid to Oil Companies. Repayment of official loans to foreign governments absorbed Rs. 30 million (or 26 per cent) of the resources devoted to capital amortization, while repurchases at the Inter\u00adnational Monetary Fund amounting to Rs. 54 million, absorbed 64 per cent of such resources.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.748215675354004,
+      8.803988456726074,
+      8.840494155883789,
+      8.873977661132812,
+      8.941839218139648,
+      8.946846008300781,
+      9.016107559204102,
+      9.212963104248047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      57.12,
+      471.18,
+      172.45,
+      481.24
+    ],
+    "text": "Detailed Trends in 1966",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.88078498840332
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.88,
+      494.68,
+      169.65,
+      503.87
+    ],
+    "text": "(a) Merchandise Account",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.64,
+      515.08,
+      413.91,
+      584.27
+    ],
+    "text": "The balance on merchandise account in 1966 (inclusive of both commercial transactions and aid financed imports) showed a deficit of Rs. 349 million as com\u00adpared with a deficit of only Rs 13 million in 1965. This is the largest deficit since 1960. Even if the aid financed imports are excluded the merchandise account still showed a deficit of Rs. 123 million as compared with a suplus of Rs. 128 million in the previous year. Again, this is the largest single merchandise deficit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.631401062011719,
+      8.838272094726562,
+      8.840494155883789,
+      8.964730262756348,
+      9.016107559204102,
+      9.19312572479248,
+      9.212963104248047
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.4,
+      586.97,
+      413.79,
+      608.27
+    ],
+    "text": "Oil commercial transactions since 1960, in which year it amounted to Rs. 127 million.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.755683422088623,
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.4,
+      625.35,
+      414.44,
+      641.37
+    ],
+    "text": "\u2022 This includes the special drawing of Rs. 19 million from the I.M.F. to pay the gold subscription consequent on the increase in Ceylon's quota at the Fund to Rs. 371 \u2022 3 million.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.391573905944824,
+      7.570378303527832,
+      7.712574005126953,
+      7.880072116851807,
+      7.880840301513672,
+      7.899815082550049
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.44,
+      44.62,
+      251.1,
+      53.59
+    ],
+    "text": "( 127 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.261524200439453,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      194.4,
+      67.42,
+      271.97,
+      76.39
+    ],
+    "text": "T A B L E II (F) 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.446673393249512,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      76.56,
+      85.42,
+      386.5,
+      94.39
+    ],
+    "text": "E X T E R N A L RESOURCES AND THEIR U S E 1965 A N D 1966",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.435052871704102,
+      8.461419105529785,
+      8.566875457763672,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.2,
+      115.35,
+      399.3,
+      123.93
+    ],
+    "text": "Rupees Million. Percentage Share",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.678773880004883,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      247.2,
+      133.59,
+      398.35,
+      142.17
+    ],
+    "text": "1965 1960 1965 1966",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.519332408905029,
+      7.537611961364746,
+      7.54088830947876
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.32,
+      156.87,
+      113.34,
+      164.73
+    ],
+    "text": "A. Resources",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.30230712890625,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.68,
+      164.79,
+      147.51,
+      172.65
+    ],
+    "text": "1. Merchandise\u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.521845817565918,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.96,
+      171.51,
+      397.92,
+      204.81
+    ],
+    "text": "70 Exports f.o.b. 1,909 1,674 81 70 2. Current invisibles 199 206 8 9 3. Capital inflow 142 226 6 9 of which\u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.286620140075684,
+      7.339628219604492,
+      7.35300874710083,
+      7.36140251159668,
+      7.378262996673584,
+      7.5210747718811035,
+      7.5365753173828125,
+      7.549574375152588,
+      7.554680347442627,
+      7.579494953155518,
+      7.679134845733643,
+      7.684811115264893,
+      7.73593807220459,
+      7.752829074859619,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.68,
+      204.63,
+      398.49,
+      245.13
+    ],
+    "text": "(a) Loans (1) \u2022 ... 77 173 55 76 (6) Grants (J) 65 51 45 28 (c) Private capital \u2014 2 \u2014 1 4. Short-term liabilities ... 109 175 5 7 of which\u2014",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.1214094161987305,
+      7.196086883544922,
+      7.300892353057861,
+      7.403975963592529,
+      7.442276477813721,
+      7.483615398406982,
+      7.490483283996582,
+      7.5075907707214355,
+      7.527842044830322,
+      7.530954837799072,
+      7.554680347442627,
+      7.557248592376709,
+      7.575437068939209,
+      7.579494953155518,
+      7.671384811401367,
+      7.73593807220459,
+      7.809999942779541,
+      10.003000259399414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.6,
+      245.19,
+      231.81,
+      253.05
+    ],
+    "text": "(a) Gross Drawings from the Inter\u00ad",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.638590335845947,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.36,
+      253.35,
+      398.49,
+      269.37
+    ],
+    "text": "national Monetary Fund (2) 109 144 100 82 (o) Increase in bilateral payments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.532193183898926,
+      7.546869277954102,
+      7.547536849975586,
+      7.554680347442627,
+      7.638590335845947,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.68,
+      268.47,
+      398.69,
+      285.69
+    ],
+    "text": "18 agreement balances ... \u2014 31 \u2014 18 5. Decline in external assets (net of",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.366912841796875,
+      7.557248592376709,
+      7.579494953155518,
+      7.809999942779541,
+      7.963940620422363,
+      10.003000259399414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.36,
+      284.95,
+      358.11,
+      301.59
+    ],
+    "text": "sterling loans sinking fund) \u2014 126 \u2014",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5365753173828125,
+      7.809999942779541,
+      10.003000259399414,
+      14.295999526977539
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      190.32,
+      285.27,
+      398.83,
+      301.77
+    ],
+    "text": "5 Total 2,359 2,407 100 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.196086883544922,
+      7.532193183898926,
+      7.568379878997803,
+      7.600881099700928,
+      7.677427768707275
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      52.56,
+      310.23,
+      87.54,
+      318.09
+    ],
+    "text": "B. Use",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.544998645782471,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.68,
+      317.91,
+      148.23,
+      325.77
+    ],
+    "text": "6. Merchandise\u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.557248592376709,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.68,
+      324.87,
+      399.3,
+      390.33
+    ],
+    "text": "84 Imports, c.l.f. 1,922 2,023 81 84 of which.aid 142 224 7 11 7. Current Invisibles 199 225 8 9 of which\u2014 \u2022 \u2022 * (a) Investment income ... 4 80 2 18 (6) Migrants' transfers ... 31 32 16 14 (c) Interest payments ... 22 21 11 9 8. Capital Amortisation or",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.1214094161987305,
+      7.300892353057861,
+      7.36140251159668,
+      7.378262996673584,
+      7.391301155090332,
+      7.5075907707214355,
+      7.510813236236572,
+      7.5210747718811035,
+      7.527842044830322,
+      7.530954837799072,
+      7.543395042419434,
+      7.546869277954102,
+      7.547536849975586,
+      7.549574375152588,
+      7.554680347442627,
+      7.557248592376709,
+      7.561283111572266,
+      7.579494953155518,
+      7.616880416870117,
+      7.638590335845947,
+      7.667243957519531,
+      7.671384811401367,
+      7.681759834289551,
+      7.684548854827881,
+      7.73593807220459,
+      7.809999942779541,
+      8.231775283813477
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      90.24,
+      390.63,
+      399.0,
+      422.49
+    ],
+    "text": "repatriation 75 114 3 5 (a) Private ... 3 11 4 10 (6) Official ... 16 80 21 26 (c) Repurchases and gold subscription",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.196086883544922,
+      7.245201587677002,
+      7.391301155090332,
+      7.483615398406982,
+      7.5210747718811035,
+      7.527842044830322,
+      7.530954837799072,
+      7.546869277954102,
+      7.579494953155518,
+      7.638590335845947,
+      7.671384811401367,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.32,
+      423.03,
+      234.79,
+      430.89
+    ],
+    "text": "at the International Monetary",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      70.56,
+      429.27,
+      399.24,
+      454.65
+    ],
+    "text": ".64 Fund 56 78 75 .64 9. Short-term liabilities (3) 69 53 3 2 10. Increase In external assets (net of",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.245201587677002,
+      7.300892353057861,
+      7.380448818206787,
+      7.483615398406982,
+      7.508296012878418,
+      7.527842044830322,
+      7.543395042419434,
+      7.555314064025879,
+      7.557248592376709,
+      7.587040424346924,
+      7.7394232749938965,
+      7.809999942779541,
+      7.963940620422363
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.04,
+      448.32,
+      406.57,
+      472.07
+    ],
+    "text": "sterling loans sinking fund) 103 \u2014. 5 \u2014 11. Balancing item \u20149 \u20148 \u2014 \u2014 \u2022",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.052000045776367,
+      7.196086883544922,
+      7.285582065582275,
+      7.557248592376709,
+      7.561283111572266,
+      7.575437068939209,
+      7.809999942779541,
+      10.003000259399414,
+      13.527999877929688
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      195.12,
+      474.87,
+      400.03,
+      483.93
+    ],
+    "text": "Total ... 2,359 2,407 100 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.532193183898926,
+      7.568379878997803,
+      7.600881099700928,
+      7.677427768707275,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53.52,
+      503.43,
+      363.64,
+      511.29
+    ],
+    "text": "(1) Includes assistance received in the form of Project Aid and Commodity Aid.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53.76,
+      521.91,
+      413.52,
+      549.93
+    ],
+    "text": "(2) Includes special drawings from the International Monetary Fund of Rs. 20 million in 1965 and Rs. 19 million in 1966 to pay the gold subscription on account of the increases in Ceylon's quota from $ 45 million to $ 62 million in 1965 and to 8 78 million in 1966.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.530954837799072,
+      7.54088830947876,
+      7.755397319793701,
+      7.770008087158203,
+      7.7888970375061035,
+      7.809999942779541,
+      7.958558559417725
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      53.76,
+      558.15,
+      413.27,
+      585.69
+    ],
+    "text": "(8) Short-term liabilities consist of a decrease in bilateral payments agreement balances in 1965, change in balances of firms enjoying special account facilities and deferred payments on account of food imports by the Government.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.447490692138672,
+      7.530954837799072,
+      7.718127727508545,
+      7.720510959625244,
+      7.73593807220459,
+      7.782519817352295,
+      7.809999942779541,
+      7.954376697540283
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      208.08,
+      48.7,
+      241.98,
+      57.67
+    ],
+    "text": "( 128 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.261524200439453,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      46.56,
+      74.14,
+      405.1,
+      275.11
+    ],
+    "text": "Merchandise exports in 1966 at Rs. 1,674 million were Rs. 235 million lower than in 1965. Merchandise imports (inclusive of aid finance imports) were Rs. 2,023 million or Rs. 101 million higher than in 1965. Accordingly, the trade deficit of Rs. 349 million in 1966 contrasted with a trade deficit of Rs. 13 million in 1965. The principal factors affecting the substantial decline in export receipts in 1966 were a sharp decline in the volume of domestic exports wtih the exception of rubber and an all round decline in average export price. One of the principal reasons for the decline in export volume as compared with the previous year was a decline in production, particularly in respect to tea and coconut. The sharp fall in tea ex\u00adports in 1966 also reflected the fact that in 1965 a higher volume of exports was made possible by running down stocks. In addition, the strike which supervened in the last quarter of 1966 may have had some effect in slowing down the volume of exports in the last few months of 1966. In contrast to the depressed volume of exports of tea and coconut, however, the volume of rubber exports showed a marked increase in 1966, as compared with the previous year, reflecting primarily an increase in output with the coming into production of some of the replanted areas.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.630359649658203,
+      8.733400344848633,
+      8.81338119506836,
+      8.833309173583984,
+      8.843108177185059,
+      8.870813369750977,
+      8.910000801086426,
+      9.224936485290527
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      48.96,
+      292.78,
+      405.57,
+      433.75
+    ],
+    "text": "The poor performance in terms of export volume in 1966 was further aggra\u00advated by an almost uniform decline in prices of all the major and minor commodities exported in 1966. Thus as measured by a Central Bank index of prices (1958 = 100) the average export price of tea declined from 89 in 1965 to 85 in 1966, which is the lowest recorded level for 14 years. The index of rubber prices declined from 91 in 1965 to 90 in continuation of a trend which had commenced in 1960. Increased releases from the U.S. Stockpile of rubber and a resumption of exports on a larger scale from some of the principal producer countries may have had some impact on the total supply of rubber in 1966 and consequently depressed prices. In 1965, the average export price of minor products improved as compared with the previous year, but in 1966, there was a further relapse which tended to wipe out the gains made in 1965.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.7016019821167,
+      8.733400344848633,
+      8.802468299865723,
+      8.833309173583984,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      48.72,
+      450.7,
+      406.66,
+      639.67
+    ],
+    "text": "The total value of merchandise imports in 1966 amounted to Rs. 2,023 million as compared with Rs. 1,922 million in 1965. Of this amount aid financed imports at Rs. 224 million in 1966 were Rs. 83 million higher than aid imports received in 1965. The higher level of aid imports in 1966 reflected principally the greater volume of aid made available to Ceylon as a result of the aid negotiations in 1965. Imports financed out of Ceylon's own resources in 1966 amounted to Rs. 1,799 million and were Rs. 18 million more than such imports in the previous year, partly reflecting the fact that when the Foreign Exchange Budget was formulated in early 1966, the estimated volume of export earnings in 1966 was expected to be somewhat lower than in 1965. In the event, however, actual receipts from exports declined to a level much lower than the forecast that was made at the time of formulation of the foreign exchange budget for 1966. Ceylon's ability to finance an import programme beyond her earned income in 1966, was, therefore made possible by the increased aid inflow combined with an increase in her short-term liabilities abroad and a reduction of external assets which had been built up to moderate levels in 1965.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.630359649658203,
+      8.733400344848633,
+      8.81338119506836,
+      8.833309173583984,
+      8.8555269241333,
+      8.858452796936035,
+      8.865449905395508,
+      8.870813369750977,
+      8.886331558227539,
+      8.910000801086426,
+      9.081433296203613,
+      9.083781242370605,
+      9.093634605407715,
+      9.101279258728027,
+      9.224936485290527
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      212.88,
+      41.98,
+      246.78,
+      50.95
+    ],
+    "text": "( 129 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.261524200439453,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      50.16,
+      65.5,
+      412.38,
+      194.47
+    ],
+    "text": "Of the merchandise imports made in 1966 Government imports amounted to approximately Rs. 679 million (or roughly 38 per cent) as compared with Rs. 757 million (43 per cent) in 1965. Private sector imports and imports of State Corpora\u00adtions totalled Rs. 1,320 million, as compared with Rs. 1,141 million in the previous year. The payments for rice imports at Rs. 267 \u2022 9 million compared with Rs. 290 \u2022 8 million in 1965. The value of flour imports increased from Rs. 82 \u2022 8 million in 1965 to Rs. 137 \u2022 5 million in 1966, partly reflecting the increase in the volume of aid financed flour imports in 1966. Sugar imports declined in value from Rs. 75 -1 million in 1965 to Rs. 70-0 million in 1966, principally reflecting the lower level of prices on the world sugar market, since the volume of sugar imports did not show a decline in 1966.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.495352745056152,
+      8.718099594116211,
+      8.865449905395508,
+      8.885704040527344,
+      8.910000801086426,
+      9.049806594848633,
+      9.051546096801758
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.12,
+      210.94,
+      412.31,
+      399.91
+    ],
+    "text": "As stated earlier, the value of loan financed imports in 1966 amounted to Rs. 173 million as compared with Rs. 77 million in the previous year. Of this amount Project Aid (excluding grants) amounted to Rs. 55 million, while Commo\u00addity Aid consisted of Rs. 118 million (excluding grants). The total grant com\u00adponent of aid received in 1966 amounted to Rs. 51 million and was principally in the form of machinery and flour. Machinery imports consisted of grants to the value of Rs. 16-7 million from Canada to finance the Katunayake Airport project and of Rs. 2-5 million from China in the form of textile machinery. Grants in the form of flour were received mainly from U.S.A., Australia and Canada. Project Aid imports consisted of disbursements amounting to Rs. 6 \u2022 8 million from the World Bank.Rs. 9-2 million from the U.S.S.R., Rs 9 0 million from China, Rs. 16-7 million from the Federal Republic of Germany, Rs. 4 \u2022 5 million from the United Kingdom, Rs. 5 -5 million from Canada, Rs. 1-7 million from Yugoslavia and vari\u00adous other smaller amounts from other donor countries, including France and Poland. These imports were utilized in the course of 1966 for the financing of current deve\u00adlopment projects.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.495352745056152,
+      8.618072509765625,
+      8.618947982788086,
+      8.678235054016113,
+      8.74421215057373,
+      8.763811111450195,
+      8.783291816711426,
+      8.85897159576416,
+      8.872218132019043,
+      8.886479377746582,
+      8.888435363769531,
+      8.910000801086426,
+      9.073735237121582,
+      9.101279258728027
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      194.64,
+      415.42,
+      273.26,
+      424.39
+    ],
+    "text": "T A B L E 11(F) 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.446673393249512,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      150.48,
+      437.26,
+      316.42,
+      446.23
+    ],
+    "text": "Current Invisibles 1965 and 1966",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.793034553527832,
+      8.910000801086426
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      346.32,
+      448.95,
+      404.16,
+      456.81
+    ],
+    "text": "Rupees Million",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      203.52,
+      464.55,
+      346.34,
+      482.73
+    ],
+    "text": "1965 1966 (Provisional)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.446542739868164,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      154.32,
+      487.35,
+      394.77,
+      495.69
+    ],
+    "text": "Credit Debit Net Credit Debit Net",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.446542739868164,
+      7.711691379547119,
+      7.77853536605835
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.04,
+      505.35,
+      405.66,
+      625.39
+    ],
+    "text": "Services 198-5 167 6 + 3 0 - 9 200-2 193 2 + 7 0 Non-monetary gold itaovement (net) ... \u2014 1-8 - 1-8 \u2014 1 8 - 1-8 Transportation 116-4 25-6 +90-8 116-6 26 4 + 9 0 - 2 Travel 5-7 12-6 - 6-9 6-5 15 9 - 9-4 Investment income 13-4 28-8 - 15-4 12-4 54 5 - 4 2 1 Direct investment... 1 1 4-8 - 8-2 1-6 30 0 - 28-4 Other 12-3 24-5 - 12-2 10-8 24 5 - 13-7 Government expenditure 29-7 25-3 - 4-4 26-6 21 3 + 5-3 Other Services 33-3 78-5 - 40-2 38-1 73 3 - 35-2 Transfer Payments ... 72 0 31 3 + 4 0 - 7 69 1 32 1 + 3 7 0 Private transfers ... 7-6 81-8 - 28-7 6-2 32 1 \u2014 25-9 Official transfers ... 64-4 \u2014 + 6 4 - 4 62-9 \u2014",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.148610591888428,
+      7.196086883544922,
+      7.245201587677002,
+      7.300892353057861,
+      7.36140251159668,
+      7.378262996673584,
+      7.391301155090332,
+      7.40377140045166,
+      7.409658908843994,
+      7.446542739868164,
+      7.5506086349487305,
+      7.678445816040039,
+      7.687598705291748,
+      7.7061004638671875,
+      7.706264495849609,
+      7.725308895111084,
+      7.750748157501221,
+      7.772603511810303,
+      7.809999942779541,
+      10.484000205993652,
+      13.343000411987305
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.84,
+      610.23,
+      405.19,
+      626.73
+    ],
+    "text": "+ 62-9 Total 270 5 198-9 + 7 1 6 269 3 225 3 + 4 4 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.245201587677002,
+      7.446542739868164,
+      7.677427768707275,
+      7.809999942779541
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211.92,
+      46.6,
+      247.37,
+      55.79
+    ],
+    "text": "( ISO )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.371898651123047,
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.4,
+      71.56,
+      147.58,
+      80.75
+    ],
+    "text": "(b) Current Invisibles",
+    "fonts": [
+      "Times-BoldItalic",
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.44,
+      95.56,
+      409.85,
+      320.75
+    ],
+    "text": "Ceylon's net position on current invisibles (inclusive of gifts in kind) showed a surplus of Rs. 44 \u2022 0 million in 1966, as compared with a surplus of Rs. 71-6 million in 1965. The reduced surplus on invisibles account was primarily a result of a larger deficit on investment income as compared with the previous year, consequent on a substantial relaxation of the moratorium on investment income. The invest\u00adment income deficit which amounted to Rs. 15 4 million in 1965 rose to Rs. 42 1 million in 1966. Releases of blocked investment income amounted to Rs. 13 -5 million in the first half of 1966 and thereafter releases were permitted at Rs. 3-5 million per month making a total of Rs. 21 million in the second half of 1966. These releases were made at a time when export earnings were declining sharply and the lbalance of payments was under severe pressure and it therefore represented a determined effort on the part of Ceylon to discharge as far as possible all accumula\u00adted liabilities. Of the blocked funds so released only Rs. 29-2 million was remit\u00adted in 1966. Minor increases were also recorded in Ceylon's outlay on travel and private transfers in 1966, as compared with the previous year. Another principal factor accounting for the deterioration in the invisibles account in 1966 was the decline in official transfers in the form of grants to Ceylon ; their value (in\u00adcluding U.S. PL 480 Rupee transfers) fell from Rs. 64-4 million in 1965 to Rs. 62 \u2022 9 million in 1966.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.300000190734863,
+      8.608264923095703,
+      8.650614738464355,
+      8.711244583129883,
+      8.736356735229492,
+      8.77914810180664,
+      8.980968475341797,
+      8.986910820007324,
+      8.991279602050781,
+      8.99526309967041,
+      9.016107559204102,
+      9.150161743164062,
+      9.161072731018066,
+      9.161109924316406
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      189.36,
+      339.4,
+      271.41,
+      348.59
+    ],
+    "text": "T A B L E II (F) 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.55033016204834,
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      120.24,
+      360.84,
+      354.92,
+      373.79
+    ],
+    "text": "Ceylon'8 Gross Official External Liabilities (l )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      3.155637741088867,
+      8.84123420715332,
+      9.016107559204102
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      350.88,
+      386.38,
+      408.24,
+      394.46
+    ],
+    "text": "Rupees Million",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      271.44,
+      403.18,
+      354.56,
+      411.26
+    ],
+    "text": "Outstanding at end of",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.898789405822754,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      246.48,
+      417.34,
+      397.23,
+      425.9
+    ],
+    "text": "1965 1966 Change",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.624325275421143,
+      7.646345138549805,
+      7.822589874267578
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.6,
+      435.58,
+      216.94,
+      443.9
+    ],
+    "text": "1. Payments Agreement Balance due from",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.626806259155273,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      444.22,
+      410.43,
+      476.06
+    ],
+    "text": "Ceylon 0-7 30-2 + 29-5 2. I.M.F. Drawings ... 181-3 271-7 + 90-4 (\u00bb) 8. Sterling Loans ... 83-3 83-3 \u2014. 4. Other Foreign Loans Drawn and Out\u00ad",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.248205661773682,
+      7.442492485046387,
+      7.494900226593018,
+      7.507545471191406,
+      7.627748966217041,
+      7.6552605628967285,
+      7.667050838470459,
+      7.673755168914795,
+      7.6754913330078125,
+      7.681147575378418,
+      7.7395148277282715,
+      7.785784721374512,
+      7.849180221557617,
+      7.9298295974731445,
+      9.003000259399414
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.36,
+      475.66,
+      395.59,
+      500.55
+    ],
+    "text": "standing (*) ... 389-5 439-6 + 50-1 5. Consortium Aid (*) \u2014",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.248205661773682,
+      7.470400810241699,
+      7.624325275421143,
+      7.646345138549805,
+      7.650664806365967,
+      7.859493732452393,
+      7.9298295974731445,
+      14.295999526977539
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      484.06,
+      395.64,
+      500.3
+    ],
+    "text": "118-6 + 118-6 6. Deferred Payments (Rice) 6 0 3 30-6 \u2014 29-7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.248205661773682,
+      7.300000190734863,
+      7.6419878005981445,
+      7.646345138549805,
+      7.662497043609619,
+      7.681147575378418,
+      7.864441394805908,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      181.44,
+      507.58,
+      394.77,
+      516.38
+    ],
+    "text": "Total 715-1 974-0 +258-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.595824718475342,
+      7.6429290771484375,
+      7.6717753410339355,
+      7.784792423248291
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.88,
+      536.86,
+      410.06,
+      560.78
+    ],
+    "text": "(1) Liabilities payable in foreign exchange exclude balances of P.L. 480 counterpart funds and non-resident balances with Commercial Banks. Such balances declined by Rs. 41 \u2022 1 million from Rs. 97-8 million to Rs. 56-7 million in 1966.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.300000190734863,
+      7.636372089385986,
+      7.863797664642334,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      50.88,
+      568.78,
+      408.76,
+      584.78
+    ],
+    "text": "(2) Consists of drawings of Rs. 144-0 million and repurchases totalling Rs. 53-6 million, in respect of earlier drawings.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.636372089385986,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.12,
+      592.78,
+      409.03,
+      609.02
+    ],
+    "text": "(8) Consists of drawings from Loans obtained from I.B.R.D. U.S.A. U.S.S.R., China, Federal Republic of Germany, Canada, Poland, France and Yugoslavia.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.525128364562988,
+      7.608897686004639,
+      7.622507572174072,
+      7.636372089385986,
+      7.754648685455322,
+      7.889439582824707,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.36,
+      617.02,
+      409.63,
+      640.94
+    ],
+    "text": "(4) Consists of Commodity Aid received under the 1965 and 1966 Programmes from the United States of America, the United Kingdom, Federal Republic of Germany, Japan, India and Canada.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.624325275421143,
+      7.636372089385986,
+      7.754648685455322,
+      7.765086650848389,
+      7.775237083435059,
+      7.777909755706787,
+      7.780033111572266,
+      7.9298295974731445
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      211.2,
+      42.53,
+      245.65,
+      52.61
+    ],
+    "text": "( 131 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.284260749816895,
+      9.87752628326416,
+      9.882956504821777
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.4,
+      66.04,
+      205.1,
+      75.23
+    ],
+    "text": "(c) Official External Liabilities",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.016107559204102,
+      9.2828369140625
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      44.64,
+      91.0,
+      406.26,
+      340.19
+    ],
+    "text": "Ceylon's net position on official long-term capital showed a surplus of Rs. 169 million* in 1966 as compared with a surplus of Rs. 86 million in 1965. In 1965 a Sterling Loan amounting to Rs. 25 million was settled. Gross receipts of long-term capital in 1966 amounted to Rs. 199 million and consisted of Project Loans totalling Rs. 80 million and Commodity Loans totalling Rs. 118 million. Ceylon's gross external debt on long-term account now stands at Rs. 913-2 million, of this sum the amount owed to the International Monetary Fund (excluding service charges payable in rupees) amounts to Rs. 271 -7 nullion. Long-term capital re\u00adceived in 1966 was utilised both to finance current needs of consumption and invest\u00adment and to continue work on development projects initiated in terms of project aid negotiated earlier. Of the commodity loan imports received in 1966 almost all consisted of investment goods and raw materials required for maintenance and fuller utilization of existing plant capacity . Project loans received in 1966 were utilised for the continuation of work on the Grandpass Thermal Project (Rs. 6-8 million), the Maskeliya Oya Project (Rs. 5-5 million), the Kandy Water Supply Scheme (Rs. 1*0 million), Railway modernization (Rs. 6-2 million) and Port Development (Rs. 4 \u2022 6 million). In addition project loans were also utilised for purchasing machinery for the Cement and Hardware Corporations, for the import of telephone equipment, trawlers, and other machinery for State enter\u00adprises such as the Steel Corporation, the Tyre Corporation and the Flour Milling Corporation.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.300000190734863,
+      8.7034912109375,
+      8.752703666687012,
+      8.808055877685547,
+      8.8187255859375,
+      8.869667053222656,
+      8.91197395324707,
+      8.941839218139648,
+      8.964115142822266,
+      8.969186782836914,
+      8.980968475341797,
+      8.991279602050781,
+      9.016107559204102,
+      9.154415130615234,
+      9.160658836364746,
+      9.182554244995117,
+      9.212963104248047
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.72,
+      357.4,
+      404.22,
+      570.59
+    ],
+    "text": "As in 1965, Ceylon concluded a Standby Arrangement with the International Monetary Fund in June 1966, effective for one year. Under the terms of the second Standby Arrangement Ceylon was permitted to draw in instalments a sum of Rs. 119 million ($25 million) during the Standby period in order to sup\u00adport the balance of payments in a period in which Ceylon was endeavouring to ensure a higher rate of economic growth and a fuller mobilization of resources with price stability. During the period under review Ceylon utilised the various borrow\u00ading arrangements available to her under the Fund's first and second Standby Arrangements; the last instalment of Rs. 35 \u2022 7 million under the terms of the First Standby was not utilized, due to the conclusion of a Second Standby authoriz\u00ading a further total drawing of Rs. 119 million. Gross borrowings from tbe Inter\u00adnational Monetary Fund in 1966 amounted to Rs. 144 million. This consisted of a sum of Rs. 35-7 million under the terms of the first Standby Arrangement. A further sum totalling Rs. 89-3 million was borrowed under the terms of the second Standby, in the course of the second half of 1966. This was a period in which the balance of payments was being subject to increasing pressures and the I.M.F. draw\u00adings proved to be very useful, particularly in a period in which the general trend of interest rates in the principal financial markets abroad was rising.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.300000190734863,
+      8.543559074401855,
+      8.684117317199707,
+      8.873977661132812,
+      8.915877342224121,
+      8.920280456542969,
+      8.949963569641113,
+      8.951580047607422,
+      9.016107559204102,
+      9.151968955993652,
+      9.1526460647583,
+      9.160658836364746
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.48,
+      586.36,
+      402.88,
+      607.79
+    ],
+    "text": "In addition to these borrowings a further sum of Rs. 19-0 million was obtained from the International Monetary Fund in March 1966, in order to pay",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.779658317565918,
+      8.92950439453125,
+      9.016107559204102,
+      9.168477058410645
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.72,
+      630.63,
+      285.87,
+      638.49
+    ],
+    "text": "* Inclusive of Rupee releases from U.S. PL. 480 Counterpart funds,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9124979972839355,
+      7.099999904632568,
+      7.395698547363281,
+      7.395937442779541,
+      7.517086029052734,
+      7.546902656555176,
+      7.552311420440674,
+      7.712574005126953
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      212.16,
+      41.41,
+      246.29,
+      50.49
+    ],
+    "text": "( 132 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.312712669372559,
+      8.945143699645996
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      50.64,
+      66.37,
+      410.12,
+      195.45
+    ],
+    "text": "Ceylon's gold subscription to the Fund consequent on the further increase in Ceylon's quota to Rs. 371-3 million ($78 million). In the course of 1966 Ceylon repaid a sum of Rs. 53-6 million in foreign exchange to the International Mone\u00adtary Fund. Of this sum Rs. 17-9 million consisted of a repayment of the final instalment of a sum of Rs. 53-8 million borrowed in April 1961, and two instal\u00adments totalling Rs 35-7 million in respect of a sum of Rs. 53-8 million borrowed in February 1962. Ceylon's net borrowings from the Fund in 1966 including the special drawing of Rs. 19-0 million therefore amounted to Rs. 90-4 million as compared with Rs. 73-7 million in 1965. Ceylon's outstanding borrowings at the International Monetary Fund at the end of 1966 amounted to Rs. 271-7 million.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.676901817321777,
+      8.729823112487793,
+      8.89588451385498,
+      8.919699668884277,
+      8.945143699645996,
+      9.15727424621582
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.8,
+      212.05,
+      323.1,
+      221.13
+    ],
+    "text": "(d) Current Account by Currency Areas and Principal Regions",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.513835906982422,
+      8.540488243103027,
+      8.559951782226562,
+      8.568470001220703,
+      8.606328964233398,
+      8.61425495147705,
+      8.693314552307129,
+      8.945143699645996
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.8,
+      236.05,
+      413.96,
+      353.13
+    ],
+    "text": "The traditional surplus on commercial transactions with the Dollar Area declined from Rs. 160-9 million in 1965 to Rs. 132-5 million in 1966, principally due to a fall of Rs. 24-6 million in export receipts combined with a rise of Rs. 3 \u2022 8 million in import payments. The surplus in transactions with the United King\u00addom declined from Rs. 87 \u2022 1 million in 1965 to Rs. 39 \u2022 2 million in 1966. Similarly, the surplus of Rs. 56-7 million in trade with China in 1965 was reduced to Rs. 6-9 million in 1966, mainly due to a rise of Rs. 41-3 million in import payments. The surplus of Rs. 39-4 million with the Soviet bloc in 1965 was transformed into a deficit of Rs. 18-2 million in 1966, principally due to a decline of Rs. 49 million in export income.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.550008773803711,
+      8.638847351074219,
+      8.679729461669922,
+      8.683525085449219,
+      8.755434036254883,
+      8.767943382263184,
+      8.786942481994629,
+      8.881057739257812,
+      8.945143699645996
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      54.24,
+      369.73,
+      414.31,
+      522.81
+    ],
+    "text": "The smaller trade surplus with the Dollar Area in 1966 was not compensated by aid inflows, which only rose from Rs. 57-1 million in 1965 to Rs. 69-5 million in i966. Similarly in the case of China the reduction in the current account surplus from Rs. 56-7 million in 1965 to Rs. 6-9 million in 1966, was not matched by compensatory inflows of aid which in fact declined from Rs. 24-6 million in 1965 to Rs. 11-5 million in 1966. The same position held true for the Soviet bloc. In contrast, however, the reduction in the current account surplus on commercial transactions with the United Kingdom from Rs. 87-1 million in 1965 to Rs. 39-2 million in 1966 (a loss in foreign exchange of Rs. 47-9 million) was partly compen\u00adsated by an increase in aid inflows from Rs. 2-3 million in 1965 to Rs. 32-5 million (or by Rs. 30 \u2022 2 million). Similarly, an increase in the current account deficit with India on commercial transactions was partly modified by an increase of Rs. 11-1 million in aid inflows.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.199999809265137,
+      8.683525085449219,
+      8.696756362915039,
+      8.755434036254883,
+      8.786942481994629,
+      8.800857543945312,
+      8.816048622131348,
+      8.87575626373291,
+      8.945143699645996,
+      9.114770889282227
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.16,
+      538.69,
+      150.99,
+      547.77
+    ],
+    "text": "(e) External Reserves",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.302637100219727,
+      8.505736351013184,
+      8.654671669006348
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      55.92,
+      562.93,
+      412.94,
+      632.01
+    ],
+    "text": "In 1965, as a result of the favourable balance of payments that had emerged in that year Ceylon was able to build up her gross external assets (net of Sterling Loan Sinking Funds) to the moderate level of Rs. 407-6 million (or to an amount sufficient to finance two and-a-half months average import payments). In 1966, however, the rapid decline in export earnings combined with an increase in payments on current and capital account with a consequent deterioration in the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.663562774658203,
+      8.816925048828125,
+      8.87575626373291,
+      8.945143699645996,
+      9.149560928344727
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      312.96,
+      49.18,
+      395.66,
+      58.15
+    ],
+    "text": "T A B L E 11 (F) 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.446673393249512,
+      8.836057662963867
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      106.08,
+      69.34,
+      602.39,
+      78.31
+    ],
+    "text": "C U R R E N T A C C O U N T P O S I T I O N BY CURRENCY A R E A S A N D PRINCIPAL R E G I O N S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.435169219970703,
+      8.544713973999023,
+      8.572235107421875,
+      8.836057662963867
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      594.0,
+      81.03,
+      652.28,
+      88.89
+    ],
+    "text": "Rupees Million",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      305.04,
+      98.79,
+      592.82,
+      106.89
+    ],
+    "text": "T O T A L Commercial Transactions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.312345027923584,
+      7.689368724822998,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      261.36,
+      124.71,
+      634.98,
+      132.81
+    ],
+    "text": "1965 1966 \u2014Provisional . 1965 1966\u2014Provisional",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      222.0,
+      150.63,
+      642.57,
+      158.97
+    ],
+    "text": "Credit Debit Net Credit Debit Net Credit Debit Net Credit Debit Net",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.711691379547119,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      62.16,
+      176.31,
+      652.97,
+      185.13
+    ],
+    "text": "1. Dollar Area 282-0 133 5 +148-5 267-1 149 7 + 117 4 237-3 76-4 + 160 9 212-7 80 2 + 132 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.463717460632324,
+      7.5139336585998535,
+      7.5697784423828125,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61.44,
+      192.15,
+      651.83,
+      200.73
+    ],
+    "text": "2. Sterling Area 1,022-9 1 029-3 \u2014 6-4 914 3 1 116-1 \u2014201-8 1 019 4 1023 5 \u2014 4 1 909 3 1 067 9 \u2014158-6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.339628219604492,
+      7.442276477813721,
+      7.5139336585998535,
+      7.6576056480407715,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.6,
+      208.47,
+      653.06,
+      216.81
+    ],
+    "text": "(i) U.K. ... 567-2 482-4 '+ 84-8 546-8 589-7 + 7 - 1 567-2 480-1 + 87-1 546-4 507-2 + 39-2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.207881450653076,
+      7.462569713592529,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.96,
+      224.31,
+      651.78,
+      232.65
+    ],
+    "text": "(ii) India ... 54-1 161-5 \u2014107-4 25-8 164-8 \u2014139-0 54 1 161-5 \u2014107-4 25-8 153-7 \u2014127-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.32,
+      240.15,
+      652.75,
+      248.73
+    ],
+    "text": "(iii) Other ... 401-6-385-4 + 16-2 341-7 411-6 \u201469-9 398-1 381-9 + 16-2 387-1 407-0 \u2014 69-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.148610591888428,
+      7.484120845794678,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      61.2,
+      256.23,
+      651.78,
+      264.57
+    ],
+    "text": "3. Non-Dollar, Non-Sterling Area 875 0 958-2 \u2014 83-2 761 8 982-0 \u2014220-2 858-8 879-5 \u2014 20 7 758-3 874-2 \u2014115-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.286620140075684,
+      7.5139336585998535,
+      7.5697784423828125,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.36,
+      272.31,
+      652.75,
+      280.65
+    ],
+    "text": "(i) Other O.E.C.D. Countries* ... 198-5 288 1 \u2014 94-6 166-7 296-5 \u2014129-8 193-5 271-7 \u2014 78-2 166-7 242-6 \u2014 75-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.72,
+      288.39,
+      652.72,
+      296.49
+    ],
+    "text": "(ii) China ... 193-8 146-6 + 47-2 172-7 174-8 \u2014 2 1 178-7 122-0 + 5ft-7 170-2 163-3 + 6-9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.148610591888428,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      76.56,
+      303.99,
+      652.62,
+      312.57
+    ],
+    "text": "(iii) Soviet Bloc 204-7 191-0 + 18-7 155-7 188-7 \u2014 28-0 204-7 165-3 + 89-4 155-7 178-9 \u2014 18-2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.148610591888428,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      77.04,
+      320.07,
+      652.4,
+      328.65
+    ],
+    "text": "(iv) Other ... 283 0 382-5 \u2014 49-5 266-7 827-0 \u2014 60-8 281-9 320-5 \u2014 88-6 265-7 294-4 \u2014 28-7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.5139336585998535,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      172.56,
+      336.15,
+      652.82,
+      344.49
+    ],
+    "text": "Total ... 2,179 9 2,121-0 + 58-9 1,943 2 2,247-8 - 3 0 4 - 6 2,115 5 1,979 4 + 136 1 1,880-3 2,022-3 \u2014142 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.148610591888428,
+      7.5139336585998535,
+      7.577765941619873,
+      7.591954708099365,
+      7.603831768035889,
+      7.670924663543701,
+      7.677427768707275,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      79.68,
+      360.39,
+      652.91,
+      379.05
+    ],
+    "text": "* Consists of Austria, Belgium, Denmark, France, Federal Republic of Germany, Greece, Italy, Netherlands, Norway, Portugal, Spain, Sweden and Switzerland,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.099999904632568,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      211.44,
+      49.38,
+      244.94,
+      57.21
+    ],
+    "text": "( 13* )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.221166610717773,
+      7.779200077056885,
+      7.783600330352783
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      47.04,
+      72.22,
+      407.3,
+      153.19
+    ],
+    "text": "* basic balance' on Ceylon's external payments, necessitated a draw down of Ceylon's external assets by almost Rs. 122 million to Rs. 281*9 million (or an amount sufficient to finance less than two months average import payments). In addition, Ceylon increased her net short-term liabilities by Rs. 75 million. In contrast, in 1965, Ceylon's external assets (net of Sterling Loan Sinking Funds) increased by Rs. 102-9 million while ber net short-term liabilities rose by only Rs. 3 - 0 million.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.503920555114746,
+      8.62598705291748,
+      8.630359649658203,
+      8.82111930847168,
+      8.85897159576416,
+      8.872180938720703,
+      8.910000801086426,
+      9.081433296203613,
+      9.093634605407715,
+      9.141668319702148
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      48.72,
+      169.18,
+      407.13,
+      358.15
+    ],
+    "text": "In retrospect it would appear that the policy of building up Ceylon's external assets in 1965 and reducing her short-term liabilities as far as possible was a sound one. Payments developments in 1966 arising out of unforeseen declines in export earnings, sharp fluctuations between export receipts and payments over exceeding\u00adly short periods, and the disruption to economic activity caused by strikes in the commercial and banking sectors, all made it imperative to mobilize a sum well in excess of the increase in external assets that occurred in 1965. In fact during 1966, Ceylon was in addition forced to borrow at various times from foreign banking sources in order to supplement the country's external assets in order to finance imbalances in Ceylon's trade and payments. Such borrowings were particularly heavy in the period August to December 1966, when the balance of payments was subject to severe pressures arising out of the strike in the commercial sector which prevented exports from flowing out. In addition, in the course of 1966, Ceylon increased her liabilities under Payments Agreements by approxi\u00admately Rs. 30 million and this also proved to be useful in limiting the pressure on the country's external reserves.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.54574966430664,
+      8.82111930847168,
+      8.876765251159668,
+      8.910000801086426,
+      9.081433296203613,
+      9.082914352416992,
+      9.093634605407715,
+      9.101279258728027
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      47.76,
+      375.1,
+      409.08,
+      588.07
+    ],
+    "text": "During 1966 Ceylon borrowed various sums in foreign exchange from the Inter\u00adnational Monetary Fund under the terms of the First and Second Standby Arrange\u00adments concluded in June 1965, and June 1966, respectively. A sum of Rs. 35-7 million was borrowed in January 1966, under the terms of the First Standby Arrangement. Subsequently, further sums totalling Rs 89-3 million were drawn from the Fund under the terms of the Second Standby Arrangement. In addi\u00adtion a separate special drawing of Rs. 19 million was made in March, 1966, to pay Ceylon's gold subscription to the Fund as a result of the increase in Ceylon's quota to Rs. 371-3 million. During the period under review repayments to the Inter\u00adnational Monetary Fund in terms of earlier drawings totalled Rs. 53 \u2022 6 million, so that the net amount borrowed from the Fund in 1966 amounted to Rs. 90-4 million. Fund assistance to Ceylon during 1966 was intended to enable the successful pursuit of a Stabilization programme intended to ensure the fuller mobilization of the country's resources with price stability. In the face of the continuing external payments difficulties that beset the economy in the course of 1966, the assistance Ceylon received from the International Monetary Fund proved to be most useful in alleviating its payments difficulties and in supporting its \u2022external reserves.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.100000381469727,
+      8.54574966430664,
+      8.629598617553711,
+      8.663251876831055,
+      8.715804100036621,
+      8.766355514526367,
+      8.783291816711426,
+      8.80015754699707,
+      8.872180938720703,
+      8.878613471984863,
+      8.910000801086426
+    ]
+  }
+]
