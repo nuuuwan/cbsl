@@ -1,18 +1,18 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **1,137** documents (**1.1 GB**).
+**1** datasets, with **1,137** documents (**1.6 GB**).
 
 ## 001 📙Cbsl Annual Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_17:25:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_18:00:46-green)
 
 [https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports)
 
 Annual Reports of the Central Bank of Sri Lanka (CBSL).It has been discountinued since 2023and replaced with swo separate reports,namely, the Annual Economic Reviewand Financial Statementsand Operations of the Central Bank.
 
-- [**1,137** documents](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports) (**1.1 GB**), from **1950-01-01** to **2023-01-01**, scraped from [https://www.cbsl.gov.lk](https://www.cbsl.gov.lk)
+- [**1,137** documents](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports) (**1.6 GB**), from **1950-01-01** to **2023-01-01**, scraped from [https://www.cbsl.gov.lk](https://www.cbsl.gov.lk)
 
-- In **JSON**, **PDF** (29%), **TXT** (29%) & **🤗 Hugging Face** (29%)
+- In **JSON**, **PDF** (42%), **TXT** (42%) & **🤗 Hugging Face** (42%)
 
 - In **English**
 
