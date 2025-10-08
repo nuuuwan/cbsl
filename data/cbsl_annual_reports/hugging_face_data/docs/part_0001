@@ -1,0 +1,82 @@
+[
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-1-Preliminary",
+    "num": "1_Preliminary",
+    "date_str": "2023-01-01",
+    "description": "Preliminary Pages",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/1_Preliminary.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-2-Acronyms",
+    "num": "2_Acronyms",
+    "date_str": "2023-01-01",
+    "description": "List of Acronyms",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/2_Acronyms.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-3-KEI",
+    "num": "3_KEI",
+    "date_str": "2023-01-01",
+    "description": "Key Economic Indicators",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/3_KEI.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-4-KSI",
+    "num": "4_KSI",
+    "date_str": "2023-01-01",
+    "description": "Key Social Indicators",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/4_KSI.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-5-Chapter-01",
+    "num": "5_Chapter_01",
+    "date_str": "2023-01-01",
+    "description": "Economic, Price and Financial System Stability, Outlook and Policies",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/5_Chapter_01.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-6-Chapter-02",
+    "num": "6_Chapter_02",
+    "date_str": "2023-01-01",
+    "description": "National Output, Expenditure, Income and Employment",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/6_Chapter_02.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-7-Chapter-03",
+    "num": "7_Chapter_03",
+    "date_str": "2023-01-01",
+    "description": "Economic and Social Infrastructure",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/7_Chapter_03.pdf"
+  },
+  {
+    "doc_type": "cbsl_annual_reports",
+    "doc_id": "2023-01-01-8-Chapter-04",
+    "num": "8_Chapter_04",
+    "date_str": "2023-01-01",
+    "description": "Prices and Wages",
+    "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
+    "lang": "en",
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/8_Chapter_04.pdf"
+  }
+]
