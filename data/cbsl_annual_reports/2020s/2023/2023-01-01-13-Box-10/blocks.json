@@ -1,0 +1,804 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      256.73,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "257",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      540.4,
+      639.03,
+      572.68,
+      705.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.03,
+      104.27,
+      117.17,
+      116.26
+    ],
+    "text": "Background",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.03,
+      123.63,
+      283.63,
+      293.6
+    ],
+    "text": "The new Central Bank Act, which is expected to be enacted, recognises securing financial system stability as an objective of the Central Bank while designating it as the Macroprudential Authority of Sri Lanka. As such, the new Act expands the Central Bank\u2019s mandate and scope in its current role in maintaining financial system stability. Accordingly, this article intends to educate stakeholders on concepts of macroprudential policies and systemic risk, interactions between macroprudential polices and other Central Bank policies, macroprudential tools and targeted aspects, the Central Bank\u2019s role as the macroprudential authority of Sri Lanka and the way forward.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.03,
+      306.3,
+      261.03,
+      318.29
+    ],
+    "text": "Macroprudential Policies and Systemic Risk",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.03,
+      325.67,
+      283.66,
+      640.99
+    ],
+    "text": "The importance of a macroprudential approach to central banking surfaced from lessons learnt from the Global Financial Crisis (GFC) of 2007-2009. GFC showed that a crisis can emerge even in a stable economic environment and merely microprudential policies would not be adequate to prevent such a crisis as regulatory policies were focused on individual institutions with no policies available to deal with systemic risks. Systemic risk is defined as the risk of disruptions to the provision of financial services that is caused by an impairment of all or parts of the financial system and can cause serious negative consequences for the real economy (International Monetary Fund, Financial Stability Board, and Bank for International Settlements, 2009). Hence, GFC raised the need for a strong macroprudential policy framework to constrain the buildup of risks in the financial system. Central Banks in the post GFC era recognised the significance of linkages between the macroeconomy and the financial system vis-a-vis macrofinancial linkages. Thus, it became apparent that it is vital to identify macrofinancial linkages and interdependence of institutions while systemic risks need to be contained by dedicated financial sector policies.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.03,
+      654.16,
+      283.63,
+      705.19
+    ],
+    "text": "Thus, \u2018macroprudential\u2019 refers to an approach to financial regulation that fills the gap between conventional macroeconomic policy and traditional microprudential regulation of individual financial",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      153.99,
+      62.04,
+      433.7,
+      86.03
+    ],
+    "text": "BOX 10Establishment of a Macroprudential Authority in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.56,
+      104.37,
+      525.15,
+      155.23
+    ],
+    "text": "institutions (Elliott, 2011). Accordingly, macroprudential policy fills the gap by safeguarding financial system stability by limiting \u2018systemic risk\u2019 and strengthening the resilience of the financial system.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.56,
+      168.33,
+      525.17,
+      390.18
+    ],
+    "text": "Systemic risk often arises gradually and unobserved, and such risks in the financial system may not show obvious signs of an adverse situation or a series of adverse developments. Hence, the real time uncertainty and evolving nature of systemic risk over the cycle requires constant assessment of developments and evaluation of the adequacy of macroprudential policy responses. In this sense, macroprudential policy represents a proactive approach to prudential regulation through a set of instruments and measures that respond flexibly when warranted in a time varying fashion over the financial cycle. The macroprudential stance that aggregates the overall macroprudential policy mix tends to tighten in the expansionary phase of the financial cycle1 as cyclical risks tend to accumulate and loosen in the recessionary phase of the cycle (see Figure B 10.1).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.56,
+      403.28,
+      525.16,
+      506.77
+    ],
+    "text": "Macroprudential policy aims to contain systemic risk through two components, i.e., cross sectional and cyclical. The cross sectional component focuses on mitigating or developing resistance for risk of failure that arises from externalities on individual systemically important financial institutions and the systemic risk that arises from the interconnectedness of a financial institution within the financial system. Meanwhile, the",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.56,
+      675.61,
+      524.14,
+      704.41
+    ],
+    "text": "1 Similar to the economic cycle, the financial cycle has an expansionary phase, a recessionary phase and turning points \u2013 a peak and a trough. The financial cycle may at times follow an atypical course with some of these phases either not occurring at all or lasting an unusually short or long time.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      339.45,
+      514.45,
+      487.24,
+      532.65
+    ],
+    "text": "Figure B 10.1 Evolution of cyclical risks over the financial cycle",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      6.997200012207031
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      431.65,
+      543.95,
+      479.75,
+      555.05
+    ],
+    "text": "Peak/near peak: cyclical risks remain high",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      456.39,
+      569.72,
+      495.26,
+      580.82
+    ],
+    "text": "Recessionary phase:cyclical risks falling",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      508.57,
+      611.26,
+      517.88,
+      616.81
+    ],
+    "text": "Time",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.25,
+      539.67,
+      382.96,
+      556.32
+    ],
+    "text": "Strongly expansionary phase:cyclical risks elevated andrising sharply",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.8,
+      577.47,
+      363.73,
+      594.12
+    ],
+    "text": "Expansionary phase:standard (usual) cyclicalrisks",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      373.2,
+      633.23,
+      414.21,
+      644.33
+    ],
+    "text": "Trough/ near trough:cyclical risks subdued",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.421519756317139
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      441.31,
+      648.94,
+      518.14,
+      654.94
+    ],
+    "text": "Source: Czech National Bank (2022)",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      4.998000144958496
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      8.9,
+      639.03,
+      47.09,
+      745.86
+    ],
+    "text": "2588",
+    "fonts": [
+      "Capitals",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.71,
+      55.33,
+      280.31,
+      132.75
+    ],
+    "text": "cyclical component attempts to mitigate or develop resilience for systemic risk in the time dimension (Adrian, 2017). Such cyclical threats include asset price bubbles that are associated with rapidly growing leverage and credit conditions (Elliott, Feldberg, & Lehnert, 2013).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.71,
+      145.41,
+      203.16,
+      157.4
+    ],
+    "text": "Interactions with Other Policies",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.71,
+      164.76,
+      280.31,
+      704.35
+    ],
+    "text": "The tendency to mobilise all available policy tools (including prudential policies) to stabilise the real economy in response to large shocks has been observed since GFC in 2009. Moreover, this was more apparent during the COVID-19 pandemic where prudential policies played an important macro-stabilisation role along with more traditional fiscal and monetary policy measures and a vital role in Central Banks\u2019 policy mix (Warjiyo and Juhro, 2022). While macroprudential policy may have to be implemented with other policies, there is a high level of interaction with monetary policy and microprudential policy. Accordingly, monetary and financial system stability objectives and tools can conflict with or complement each other. For instance, monetary policy may under certain circumstances contribute to the buildup of imbalances and influence risk taking behaviour of agents. For example, prolonged accommodative monetary policy periods may lead to asset price bubbles and excessive credit growth episodes. Hence, there might be a need for countercyclical macroprudential policy tools to combat financial stability risks. On the other hand, a stable financial system enables smooth transmission of monetary policy and better allocation of resources in the economy. This close relationship predetermines the need to monitor, analyse, and assess the impact of monetary and macroprudential policies and measures on the attainment of such policy objectives and, if necessary, to coordinate between the said policies. Moreover, the activities of macroprudential policy and microprudential oversight also complement each other as they use the same information base, and a substantial amount of the information obtained during microprudential supervision is considered in macroprudential policymaking. Such complementarities and conflicts must be carefully considered, and synergistic effects must be used when applicable (Warjiyo and Juhro, 2022). Further, the need for close coordination is necessary as these objectives are hard to be separated and strict separation would be counterproductive.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      54.66,
+      522.08,
+      79.81
+    ],
+    "text": "Operationalising the Macroprudential Framework - Policy Tools and Targeted Aspects",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      87.14,
+      521.82,
+      151.2
+    ],
+    "text": "Policymakers use a variety of macroprudential tools to minimise the frequency and severity of a systemic risk. Macroprudential tools thus used can be categorised into broad based tools, sectoral (e.g. household/corporate) tools, liquidity tools, and structural tools.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      164.31,
+      521.81,
+      399.54
+    ],
+    "text": "Broad based tools affect all credit exposures of the banking system and can include Countercyclical Capital Buffers (CCyBs), leverage ratios, and dynamic loan loss provisioning requirements (DPRs) (International Monetray Fund, 2014). Sectoral tools can address vulnerabilities arising from excessive credit to specific sectors such as the household and corporate sectors, and include imposing/increasing sectoral capital requirements (risk weights), limits on credit growth, Loan to Value (LTV) ratios, and Debt Service to Income (DSTI) ratios. Liquidity tools (for example, liquidity buffer requirements that ensure banks hold enough liquid assets to cover outflows during a stressed period for a few weeks, stable funding requirements that ensure banks hold stable liabilities to fund their illiquid assets such as loans and liquidity charges that impose a levy on non-core funding) contain systemic liquidity risks.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      412.65,
+      521.82,
+      621.54
+    ],
+    "text": "The structural dimension of systemic risk arises from interconnectedness and the risk of contagion from the failure of individual systemic institutions. Structural macroprudential policy tools target two objectives: (1) increasing the resilience of too important to fail institutions; and (2) reducing excessive exposures within the financial system. Identifying and strengthening the resilience of systemically important financial institutions has emerged as the key strategy in addressing the problem of institutions that are \u201ctoo important to fail,\u201d and capital surcharges on such institutions are increasingly used across countries. Further, discouraging exposures to these institutions or make such exposures more secure are used as strategies to limit the excessive exposures to these financial institutions.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      634.09,
+      522.07,
+      659.24
+    ],
+    "text": "The Central Bank as the Macroprudential Authority in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.22,
+      666.57,
+      521.81,
+      704.29
+    ],
+    "text": "Although the Central Bank is engaged in macroprudential analysis, developing tools for such analyses, and introducing policy measures for",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      256.73,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "259",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      540.4,
+      639.03,
+      572.68,
+      705.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.96,
+      61.85,
+      284.56,
+      347.75
+    ],
+    "text": "regulated financial institutions, the new Central Bank Act once enacted will designate the Central Bank as the Macroprudential Authority of the country which will expand its mandate and scope in terms of the current role in maintaining financial system stability. Thus, with the enactment of the new Act, the Central Bank will be entrusted with the responsibilities to work towards its macroprudential objectives in order to maintain the resilience of the financial system even under turbulent economic and financial conditions by periodically updating the overall approach to the use of macroprudential tools. This will include maintenance of healthy credit and leverage conditions among financial institutions without any unsustainable fluctuations as well as preserving the health of such institutions by containing any risks stemming from interconnectedness and failure of systemically important entities. The Central Bank will be vested with powers to monitor the financial system as a whole, assess risks, introduce macroprudential instruments, and make recommendations to other regulators of the financial sector authorities.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.96,
+      360.36,
+      127.27,
+      372.35
+    ],
+    "text": "Way Forward",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.96,
+      379.58,
+      284.56,
+      665.48
+    ],
+    "text": "The Central Bank has already embarked on strengthening its macroprudential framework with the technical assistance from global experts in this area, while strengthening the frameworks on risk assessment, and calibration of instruments. Dynamic bank solvency stress testing, liquidity stress testing, interconnectedness analysis frameworks, and strengthened data collection frameworks related to such risk analyses have been already established and several fruitful rounds have been completed. The Central Bank is currently developing a series of macroprudential tools targeted at financial sector participants regulated and supervised by the Central Bank or their exposures. In executing the powers vested on the implementation of macroprudential policies and in line with international best practices, the Central Bank will develop and propose prudential standards to be applied by financial sector authorities in respect of financial sector participants regulated by such authorities. In doing so, data gaps are being identified and the Central Bank is working on addressing them. The Central Bank will endeavor to strengthen the institutional framework that",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      61.79,
+      526.08,
+      347.73
+    ],
+    "text": "supports its macroprudential mandate once the new Act is enacted to establish a well coordinated mechanism for macroprudential policymaking. In this regard, the Central Bank will strengthen the involvement of the Financial System Oversight Committee (FSOC) in financial stability matters, which will coordinate with the relevant financial sector authorities representing the financial system in implementing proposals/ recommendations made by the Central Bank. The Financial System Stability Review currently being published by the Central Bank will be enriched and will cater to the statutory requirement of publishing a review report on the stability of the financial system on an annual basis. This report will include the Central Bank\u2019s assessment of financial system stability, risks and vulnerabilities identified thereof, an overview of the measures taken by the Central Bank, and other financial sector authorities in the given period to address the risks identified and an overview of the recommendations made by FSOC with the current level of progress in implementation.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      355.74,
+      526.06,
+      422.24
+    ],
+    "text": "With the establishment of the Macroprudential Authority it is expected that the objective of securing financial system stability will be ensured in line with international best practices which would help strengthen financial system stability.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      438.31,
+      337.31,
+      449.7
+    ],
+    "text": "References",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      457.74,
+      525.01,
+      488.71
+    ],
+    "text": "1. Adrian, T., 2017, September. Macroprudential policy and financial vulnerabilities. In Speech at the European Systemic Risk Board Annual Conference, September (Vol. 22). Berner, R. (2018). Financial Stability and Regulatory Policy. Cambridge University Press.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      495.12,
+      524.96,
+      510.24
+    ],
+    "text": "2. Czech National Bank. (2022). The CNB\u2019s approach to setting the countercyclical capital buffer. Czech National Bank.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      516.64,
+      525.02,
+      531.76
+    ],
+    "text": "3. Elliott, D., 2011. An overview of macroprudential policy and countercyclical capital requirements. Unpublished manuscript, The Brookings Institution, 10.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      538.16,
+      525.02,
+      553.28
+    ],
+    "text": "4. Elliott, D., Feldberg, G. and Lehnert, A., 2013. The history of cyclical macroprudential policy in the United States.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      559.68,
+      525.03,
+      590.65
+    ],
+    "text": "5. International Monetary Fund, Financial Stability Board, and Bank for International Settlements. (2009) Guidance to Assess the Systemic Importance of Financial Institutions, Markets and Instruments: Initial Considerations. Washington: International Monetary Fund.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      597.06,
+      524.95,
+      612.18
+    ],
+    "text": "6. International Monetary Fund. (2014) Staff Guidance Note on Macroprudential Policy. Washington: International Monetary Fund.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      618.58,
+      525.02,
+      633.7
+    ],
+    "text": "7. Warjiyo, P. and Juhro, S.M. (2022) Central Bank Policy Mix: Issues, Challenges, and Policy Responses: Handbook of Central Banking Studies (p. 280). Springer.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      304.47,
+      640.1,
+      523.29,
+      663.15
+    ],
+    "text": "8. Yilla, K. and Liang, N. (2022) What are macroprudential tools? [Online].Available at: https://www.brookings.edu/blog/up-front/2020/02/11 what-are-macroprudential-tools/ (Accessed: 15 January 2023)",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]

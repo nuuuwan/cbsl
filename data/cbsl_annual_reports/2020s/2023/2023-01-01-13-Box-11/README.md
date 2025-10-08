@@ -1,0 +1,103 @@
+CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022
+
+2728
+
+Introduction
+
+The Global Financial Crisis (GFC) that emerged mid 2007 caused revived concerns about the need for ensuring financial system stability and a renewed focus on the fundamental role of central banks in managing and preventing systemic crises. In response to the turmoil caused by GFC, central banks around the world used both new and existing tools to supply liquidity to financial institutions and markets extensively. During 2022, the Sri Lankan economy experienced the most severe economic crisis since its independence from the British in 1948. The crisis had an impact on the financial system of the country, increasing the risks and vulnerabilities of the financial system. The domestic money market encountered multidimensional challenges that arose from adverse macroeconomic conditions in the country. Money market liquidity conditions continued to be at deficit levels, while witnessing a significant asymmetry in the distribution of liquidity among market participants due to adherence to stringent counterparty limits. Consequently, market participants excessively resorted to central bank facilities to manage liquidity, requiring an active financial intermediary role from the Central Bank. As such, the Central Bank took remedial measures to exercise its role in providing liquidity through appropriate tools to ensure monetary and financial stability. This article aims to enhance the awareness and understanding of the Central Bank’s policy interventions in addressing the systemic liquidity issues during stress periods to ensure monetary and financial stability in Sri Lanka.
+
+Role of the Central Bank in Liquidity Management
+
+The word ‘liquidity’ has several broader definitions based on the context within which it is used. Generally, three notions of liquidity are relevant to liquidity management. The first is ‘market liquidity’, which is the ability to trade financial assets on a short notice and without significant losses with a limited impact on market prices. Hence, market liquidity is related to the depth and resilience of the market. The second is ‘funding liquidity’, which refers to how easily financial institutions raise funds by asset sales or borrowings to make settlement obligations in a timely manner at a market acceptable cost. The third is ‘central
+
+BOX 11Central Bank Intervention in Addressing Systemic Liquidity Issues during Stress Periods to Ensure Monetary and Financial Stability
+
+bank liquidity’, which refers to the sum of the reserve balances held with a central bank on a particular day for the purpose of central bank liquidity management. This represents ‘aggregate liquidity’, i.e., the amount of reserves that the central bank supplies to the banking system for the purpose of monetary operation (Cecchetti and Disyatat 2009).
+
+Liquidity management of the central bank is described as the framework, a set of instruments and tools that are being employed in steering the amount of commercial bank reserves to control short term interest rates. The prime objective of central bank liquidity management is to regulate the level of aggregate reserves in the banking system to assist the realisation of the policy objectives through steering short term interest rates and the continued functioning of the payments system. Hence, central bank liquidity remains an important variable in facilitating the process of monetary policy implementation, as market interest rates and credit creation are closely related to liquidity. However, in a broader perspective, active liquidity management is more or less related to all core functions within the mandate of the central bank in achieving both price and financial system stability. While it plays an important role in the implementation of monetary policy, the smooth functioning of the payments system and safeguarding of financial system stability also remains vital. Accordingly, monetary policy tools of a central bank used in liquidity management aim to curtail the swings in liquidity and price of money (interest rates), which has an impact on the both objectives of the central bank.
+
+Central banks and monetary authorities worldwide have introduced conventional and unconventional policies on liquidity management in response to challenges encountered, in view of safeguarding the financial system. Especially in crisis times, central bank liquidity provision can be positively associated with funding and market liquidity. In its capacity as the final liquidity provider, the central bank supplies liquidity to the banking system in different ways. Amongst them, lending through Open Market Operations (OMOs) is the principal liquidity management tool to manage reserves in the banking system, thereby steering the short term interest rates in normal economic
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY
+
+273
+
+8
+
+conditions. To provide liquidity on a temporary basis, the central bank engages in transactions with financial institutions whereby the central bank buys government securities, agreeing to resell them back to financial institutions later. Also, to offer liquidity on a permanent basis, the central bank buys securities in the secondary market on an outright basis. As OMOs are conducted through competitive bidding auctions, these auctions are not directed at a specific financial institution. Also, these operations are conducted at the central bank's preference to regulate the aggregate reserve level to ensure the smooth functioning of the payments and settlements system and achieve the target for interbank call market rates in line with the monetary policy stance of the central bank.
+
+Further, central banks also conduct liquidity providing transactions targeted at specific institutions instead of the market as a whole. The standing facility is a typical example of this type of transaction that can take place as and when required by a financial institution based on the availability of the funding liquidity. For example, the Standing Lending Facility (SLF) of the Central Bank of Sri Lanka provides liquidity directly to a particular financial institution to fulfill residual funding needs when conditions in the interbank money market are tightened, or a particular financial institution faces short term funding pressures. Similarly, if a financial institution possesses excess funds at the day end, such excess can be parked at the Central Bank using the Standing Deposit Facility (SDF) and earn an interest income. These tools are considered as the conventional tools that the Central Bank uses in liquidity management. Aside from the use of conventional tools and liquidity facilities, financial crises and market uncertainty induce central banks to expand their toolkits for conducting liquidity operations and supplying central bank liquidity to financial institutions and financial markets.
+
+Liquidity Shortage in the Banking System in Sri Lanka
+
+From September 2021, the banking system gradually experienced a systemic liquidity shortage partly due to foreign loan repayments, uncertainty driven currency withdrawals, and the shortfall developed resulting from the intervention of the Central Bank in the forex market. The Central Bank was compelled to implement unprecedented policy measures during 2022, aimed at restoring macroeconomic balance. To reverse the deteriorating economic outlook, the Central
+
+Bank revised policy rates by 700 basis points and introduced subsequent adjustments. However, market liquidity conditions continued to be at deficit levels and started witnessing a systemic liquidity shortage caused by asymmetric liquidity distribution among market participants. As the systemic shortage is an aggregate shortage of liquidity situation, as opposed to institution specific shortages, most banking institutions find it challenging to fulfill the Central Bank liquidity requirement (reserve requirement) simultaneously. Such a market-wide stress situation, together with low activity in the interbank money market, could lead to potential financial and macroeconomic stability implications. As banks play an important role in financing the economy and being a key intermediary in the payments and settlements system of the economy, the failure of one bank to fulfill funding liquidity may potentially cause blockages in the entire payments and settlements system and lead to otherwise preventable failures of financial institutions through possible bank runs. Due to the interconnectivity amongst banks and other financial institutions, there can be contagion and spillover effects that could ultimately have widespread implications on financial system stability and public confidence as well as significant implications on the real economy. Hence, considering prolonged systemic liquidity shortages, which posed a threat to financial instability and the Central Bank’s role in preventing and managing a systemic crisis, the Central Bank used a wide range of conventional and unconventional liquidity management tools to ensure both monetary and financial stability.
+
+Usage of Conventional Tools during the Period of Liquidity Stress
+
+The liquidity deficit in the domestic money market, which remained significantly high during the first half of 2022, declined in the latter part of 2022. With a view to reducing significant liquidity stress among banking institutions, the Central Bank expanded liquidity operations and infused liquidity through term reverse repo auctions and allowed financial institutions to access the standing facilities without any limit as a backstop option in managing liquidity needs on a regular basis. The higher volume of market interventions by the Central Bank is not a new practice, as during the COVID 19 pandemic, the Central Bank intervened in the financial markets at an extraordinary size, pace and scope, aiming at injecting sufficient liquidity into the market and lowering borrowing costs, thus supporting financial markets and their recovery.
+
+CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022
+
+2748
+
+Accordingly, the Central Bank conducted OMOs extensively and introduced concessional loan schemes by way of accepting a wide array of collaterals (under the Saubagya COVID-19 Renaissance Facility) to provide funding to meet the working capital requirements of businesses affected by the pandemic. However, from the later part of 2022, in spite of the improvements in money market liquidity conditions, market interest rates continued to remain high, partly due to subdued activity in the interbank money markets. At the same time, it has been observed that several Licensed Commercial Banks (LCBs) have continued to depend excessively on the overnight standing facilities under OMOs of the Central Bank, without considering market based funding options to address their funding liquidity needs. Such LCBs have not indicated any signs of taking remedial actions to reduce the over dependency on overnight facilities offered by the Central Bank, which are available to be used as fallback options after utilising all other funding options. Such behaviour of LCBs affects the efforts of the Central Bank to reactivate the money markets, primarily the interbank call money market and the repo market, while posing a threat to the smooth channelling of funds in the economy with a possibility of clogging the payment and settlement systems.
+
+Accordingly, as a part of unprecedented policy measures taken since April 2022 aiming at restoring overall macroeconomic balance, including preserving the stability of the monetary and financial sector and addressing the risks, the Central Bank imposed restrictions on the availability of standing facilities to LCBs under the OMOs. Hence, with effect from 16 January 2023, SDF, the overnight deposit facility that allows LCBs to park excess liquidity and earn interest, was limited to a maximum of five (05) times per calendar month. At the same time, the SLF, which is the collateralised facility provided for LCBs to fulfill any further shortage of the liquidity requirements from the Central Bank at the end of the day, was also be limited to 90 per cent of the Statutory Reserve Requirement (SRR) of each LCB at any given day. As a result of this restriction, daily borrowings of LCBs through SLF declined significantly as LCBs were compelled to take remedial measures to address persistent liquidity issues, while making attempts to raise funds from money markets. Moreover, with restricted SDF to park excess liquidity, the interbank money market started functioning, and reallocations of liquidity from banks with an excess to banks with a deficit were observed. In order to minimise
+
+the market disturbance that could arise from such restriction, the Central Bank conducted term reverse repo auctions to provide liquidity to banking institution until initiating the bank internal correction in near term. Further, these measures were instrumental in inducing a moderation in the market interest rate structure (of both retail interest rates and government security yields) along with improving market liquidity conditions and reduction of perceived risk premium which helped to restore the stability of the Sri Lankan economy, while preserving the stability of the financial system.
+
+Unconventional Tools Used under the Liquidity Management Framework
+
+Additionally, to manage possible future financial shocks and their consequences, numerous measures have been taken under the Central Bank liquidity management provision to safeguard the financial system, while attempting to limit the social cost. The Central Bank used both conventional and unconventional policies on an unprecedented scale to mitigate system-wide liquidity risks. As a part of crisis preparedness and to address systemic liquidity stress, the Central Bank designed non-traditional novel liquidity provision tools to supply liquidity to financial institutions and financial markets, under the provision of the Central Bank governing law and certain such facilities are summarised below:
+
+1. Introducing the Liquidity Assistance Facility of the Central Bank
+
+This facility is enabled under existing legal provisions, i.e., Sections 82 and 83 (1) (c) of the Monetary Law Act (MLA), No. 58 of 1949, where banking institutions are entitled to obtain credit as a liquidity assistance facility for any fixed period not exceeding 180 days upon promissory notes secured by the pledging of government securities at the cost of the Average Weighted New Deposit Rate (AWNDR) with a margin. The amount of credit granted under this facility is determined by the Central Bank after an assessment of the liquidity requirement of the loan requested bank. With this facility, banks have the opportunity to obtain liquidity for a longer tenure than in the OMOs at a relatively competitive price. The facility avail to address the system-wide liquidity stress and to minimise the effect on banking institutions. Hence, this facility is an effective way of dealing with the stigma1 associated with the emergency liquidity assistance facility.
+
+1 This refers to a financial institution’s hesitance to use the central bank facility, expecting that it may send a negative signal about their financial health
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY
+
+275
+
+8
+
+2. Strengthening the Emergency Liquidity Assistance (ELA) Facility and its Operational Framework
+
+As a part of the policy toolkit to prepare for the possible systemic risk of the banking sector, the Central Bank strengthened the ELA framework. As per Section 86 of the MLA, in periods of emergency or of imminent financial panic, which directly threaten monetary and banking stability, the Central Bank is allowed to grant extraordinary loans or advances to banking institutions. Accordingly, ELA is an extraordinary loan or advance that the Central Bank uses to provide liquidity to address idiosyncratic (institutional specific) shocks that affect one or a few individual banking institutions. The principal objective of ELA is to avoid the risk that temporary illiquidity leads to insolvency and to mitigate the contagion and spillover effects. When a banking institution faces difficulties in fulfilling funding liquidity, it may lead to a failure of banking institutions. Hence, apart from conducting liquidity management provisions to steer short term interest rates under monetary policy, the Central Bank facilitates ELA to banking institutions as an exceptional means of providing central bank liquidity for banking institutions facing temporary liquidity issues. Accordingly, under the above legal provisions, any banking institution that is considered to be solvent but is facing a temporary illiquid position, is entitled to the ELA facility against a wide array of collaterals at the discretion of the Central Bank to strengthen its liquidity position. This facility is available at a fixed interest rate, generally referred to as the Bank Rate, which is determined using AWNDR, with a margin, at present. Accordingly, this facility is granted to a banking institution using a unique ability to create liquidity in the form of central bank reserves and as a core responsibility of central banks being a Lender of Last Resort (LOLR). Further, banking institutions shall ensure adherence to strict conditions in terms of banking operations, which leads to reduced moral hazards and protects the central bank from losses that could compromise its independence or interfere with its ability to undertake monetary policy.2
+
+By providing the above liquidity facilities, the Central Bank indicates its willingness and ability to act decisively in the event of a financial distress and to eliminate possible vulnerabilities that threaten the solvency of the financial system in advance. It restores system-wide
+
+2 In this context, potential moral hazard arises if the banking institution is tempted to ignore the effective use of allocated funds in their daily liquidity management operations.
+
+confidence among the financial market participants
+
+and avoids the fire sales of assets and preserves
+
+functionality of the financial system as a whole.
+
+Conclusion
+
+Central bank liquidity management activities are related to all essential functions within the central bank mandate. It creates an important pillar for the transmission of monetary policy, the smooth functioning of the payments and settlements system and for protecting financial system stability. Without any doubt, in ensuring financial system stability, the central bank liquidity provision played a vital role in responding to the liquidity crisis faced by the country during its worst economic crisis since independence. In managing unprecedented challenges to the banking and financial system, the Central Bank is compelled to utilise innovative tools to prevent potential liquidity stress depending on domestic money market conditions. In this context, conventional and standard liquidity management tools ensure steering short term interest rates at a level in line with the monetary policy stance, to achieve the objective of price stability. Further, the Central Bank uses unconventional liquidity management tools effectively and in a timely manner to stabilise financial markets alleviating possible significant systemic risks, even in extremely tight liquidity conditions without a significant impact on the strength of the balance sheet of the Central Bank.
+
+References
+
+1. Allen, F., Carletti, E., Krahnen, J.P., and Tyrell, M. (Eds.). (2011). Liquidity and Crises, Oxford University Press.
+
+2. Andrew, H., and Lorie L. (2022). ‘Market dysfunction and central bank tools’, Markets Committee Working Group paper, Federal Reserve Bank of New York.
+
+3. Bagehot, W. (1873). ‘Lombard Street: A Description of the Money Market’, London.
+
+4. Cecchetti, S.G., and Disyatat, P. (2009). ‘Central bank tools and liquidity shortages’ (www.newyorkfed.org/research/conference/2009).
+
+5. Cao, J., and G. Illing (2008). Liquidity shortages and monetary policy, CESifo Working Paper Series No. 2210, Available at: SSRN: http://ssrn.com/abstract1090825.
+
+6. Corbo, V. (2010). ‘Financial stability in a crisis: What is the role of the central bank’, BIS Papers, 51, pp. 27-30.
+
+7. Douglas, W.D., Raghuram, G.R. (2003). ‘Liquidity Shortages and Banking Crisis’, NBER WP Series 10071.
+
+8. Holmström, B., and J. Tirole. (1998). ‘Private and public supply of liquidity’, Journal of Political Economy, 106, pp. 1–40.
+
+9. Praet, P. (2016). ‘The ECB and its role as lender of last resort during the crisis’, Speech, 10 February.

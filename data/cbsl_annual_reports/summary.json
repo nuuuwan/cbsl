@@ -2,29 +2,29 @@
   "doc_class_label": "cbsl_annual_reports",
   "doc_class_emoji": "\ud83d\udcd9",
   "doc_class_description": "Annual Reports of the Central Bank of Sri Lanka (CBSL).It has been discountinued since 2023and replaced with swo separate reports,namely, the Annual Economic Reviewand Financial Statementsand Operations of the Central Bank.",
-  "time_updated": "2025-10-08 11:08:59",
-  "n_docs": 8,
-  "n_docs_with_pdfs": 8,
-  "n_docs_with_text": 8,
-  "date_str_min": "2023-01-01",
+  "time_updated": "2025-10-08 14:02:06",
+  "n_docs": 1137,
+  "n_docs_with_pdfs": 48,
+  "n_docs_with_text": 48,
+  "date_str_min": "1950-01-01",
   "date_str_max": "2023-01-01",
-  "dataset_size": 13866921,
+  "dataset_size": 154623333,
   "url_source_list": [
     "https://www.cbsl.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports",
-  "url_chart": "https://raw.githubusercontent.com/nuuuwan/cbsl/refs/heads/data_cbsl_annual_reports/data/cbsl_annual_reports/docs_by_year_and_lang.png",
+  "url_chart": "https://raw.githubusercontent.com/nuuuwan/cbsl/refs/heads/data_cbsl_annual_reports/data/cbsl_annual_reports/docs_by_decade_and_lang.png",
   "langs": [
     "en"
   ],
   "latest_doc_d": {
     "doc_type": "cbsl_annual_reports",
-    "doc_id": "2023-01-01-8-Chapter-04",
-    "num": "8_Chapter_04",
+    "doc_id": "2023-01-01-Full-Text-Volume-II",
+    "num": "Full_Text_Volume_II",
     "date_str": "2023-01-01",
-    "description": "Prices and Wages",
+    "description": "Full Text - Volume II",
     "url_metadata": "https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/annual-report-2022",
     "lang": "en",
-    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/8_Chapter_04.pdf"
+    "url_pdf": "https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/annual_report/2022/en/Full_Text_Volume_II.pdf"
   }
 }

@@ -1,0 +1,1209 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      538.98,
+      314.14,
+      571.26,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      436.07,
+      31.54,
+      527.25,
+      44.42
+    ],
+    "text": "PRICES AND WAGES",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "143",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      208.08,
+      58.09,
+      375.79,
+      78.2
+    ],
+    "text": "Figure 4.1Movements of Prices and Wages - 2022",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      7.798399925231934,
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      245.88,
+      170.39,
+      253.3,
+      184.41
+    ],
+    "text": "Z",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      11.697600364685059
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      547.61,
+      394.34,
+      554.62
+    ],
+    "text": "(a) Percentage price changes of items in CCPI (2013=100) in December 2022 compared to December 2021",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      557.36,
+      318.47,
+      564.37
+    ],
+    "text": "(b) Weights are based on CCPI (2013=100) series and NCPI (2013=100) series",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      567.11,
+      467.5,
+      574.12
+    ],
+    "text": "(c) Volatile Food includes rice, meat, fresh fish and seafood, coconut, fresh fruits, vegetables, potatoes, onions and selected condiments",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      576.86,
+      276.83,
+      583.87
+    ],
+    "text": "(d) Other food includes food items excluding Volatile Food items",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      586.61,
+      389.62,
+      593.62
+    ],
+    "text": "(e) Change of nominal and real wages refers to the percentage change of the averages of 2022 and 2021",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.34,
+      596.36,
+      367.39,
+      603.37
+    ],
+    "text": "(f) Wages of the formal private sector employees, whose wages are governed by the wage boards",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.848800182342529
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.44,
+      331.88,
+      200.78,
+      346.44
+    ],
+    "text": "Fresh Fish40%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.78,
+      294.82,
+      167.66,
+      309.42
+    ],
+    "text": "Rice69%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      199.38,
+      293.39,
+      229.46,
+      306.78
+    ],
+    "text": "Vegetables18%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      235.0,
+      330.49,
+      248.8,
+      337.51
+    ],
+    "text": "Meat",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.75,
+      335.84,
+      244.65,
+      343.59
+    ],
+    "text": "64%",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      164.69,
+      387.61,
+      196.06,
+      401.96
+    ],
+    "text": "Fresh Fruits112%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.36,
+      356.23,
+      157.09,
+      370.51
+    ],
+    "text": "Potato54%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      205.5,
+      358.6,
+      225.37,
+      365.62
+    ],
+    "text": "Onions",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.46,
+      365.8,
+      217.36,
+      373.55
+    ],
+    "text": "69%",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.97,
+      178.2,
+      263.34,
+      191.37
+    ],
+    "text": "Fuel185%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      328.67,
+      215.93,
+      372.21,
+      222.94
+    ],
+    "text": "Communication",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      340.17,
+      221.85,
+      353.07,
+      229.6
+    ],
+    "text": "36%",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.4,
+      217.65,
+      284.11,
+      231.49
+    ],
+    "text": "LPG68%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      357.64,
+      349.53,
+      370.35,
+      356.55
+    ],
+    "text": "Eggs",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      352.48,
+      356.4,
+      369.12,
+      364.15
+    ],
+    "text": "105%",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      420.52,
+      354.85,
+      440.72,
+      368.39
+    ],
+    "text": "Bread166%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      378.31,
+      280.56,
+      396.01,
+      294.79
+    ],
+    "text": "Dhal57%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.8,
+      310.23,
+      371.34,
+      323.98
+    ],
+    "text": "Wheat Flour106%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      395.66,
+      315.05,
+      413.26,
+      329.15
+    ],
+    "text": "Sugar63%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.92,
+      388.45,
+      415.54,
+      402.52
+    ],
+    "text": "Dried Fish57%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      276.39,
+      308.46,
+      310.99,
+      323.64
+    ],
+    "text": "Prices",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      11.5950345993042
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      447.72,
+      269.49,
+      493.17,
+      287.62
+    ],
+    "text": "CCPI: 13.0%NCPI: 20.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.64511251449585
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      451.71,
+      260.51,
+      487.3,
+      268.45
+    ],
+    "text": "Weight (b)",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      6.689479351043701
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      166.68,
+      235.1,
+      197.78,
+      262.98
+    ],
+    "text": "VolatileFood(a) (c)",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.891444683074951
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      390.69,
+      228.39,
+      415.32,
+      256.27
+    ],
+    "text": "OtherFood(a) (d)",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.891444683074951
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      272.57,
+      129.32,
+      314.24,
+      149.01
+    ],
+    "text": "Non-food(a)",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.891444683074951
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      373.65,
+      188.47,
+      417.4,
+      205.91
+    ],
+    "text": "CCPI: 71.8%NCPI: 56.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.359082221984863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      377.84,
+      179.82,
+      412.1,
+      187.46
+    ],
+    "text": "Weight (b)",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      6.439197063446045
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      84.99,
+      263.99,
+      128.74,
+      289.29
+    ],
+    "text": "Weight (b)CCPI: 15.2%NCPI: 24.0%",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.439197063446045,
+      7.359082221984863
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.74,
+      244.45,
+      264.18,
+      258.03
+    ],
+    "text": "Water120%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      140.14,
+      479.67,
+      173.02,
+      489.63
+    ],
+    "text": "Nominal",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.03,
+      517.73,
+      170.14,
+      528.26
+    ],
+    "text": "16.1%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      186.53,
+      479.67,
+      202.81,
+      489.63
+    ],
+    "text": "Real",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      181.11,
+      517.73,
+      208.23,
+      528.26
+    ],
+    "text": "20.6%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.22,
+      480.0,
+      297.1,
+      489.96
+    ],
+    "text": "Nominal",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.85,
+      517.73,
+      291.48,
+      528.26
+    ],
+    "text": "9.8%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      307.95,
+      480.0,
+      324.23,
+      489.95
+    ],
+    "text": "Real",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.53,
+      517.73,
+      329.65,
+      528.26
+    ],
+    "text": "22.7%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.46,
+      479.97,
+      424.34,
+      489.92
+    ],
+    "text": "Nominal",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      394.34,
+      517.73,
+      421.46,
+      528.26
+    ],
+    "text": "24.8%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      438.48,
+      479.97,
+      454.75,
+      489.92
+    ],
+    "text": "Real",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.303299903869629
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      433.06,
+      517.73,
+      460.18,
+      528.26
+    ],
+    "text": "17.5%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      145.97,
+      457.2,
+      456.23,
+      476.97
+    ],
+    "text": "Public Sector(e)Formal PrivateSector (e)(f)Informal PrivateSector (e)",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.798399925231934
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      269.32,
+      393.29,
+      317.23,
+      412.05
+    ],
+    "text": "Wages",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      14.15410041809082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.34,
+      324.9,
+      130.26,
+      339.06
+    ],
+    "text": "Coconut16%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.78,
+      210.14,
+      235.1,
+      224.83
+    ],
+    "text": "Electricity114%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      279.42,
+      273.39,
+      301.94,
+      288.34
+    ],
+    "text": "Health40%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.439197063446045,
+      6.954061031341553
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.45,
+      243.68,
+      331.25,
+      257.8
+    ],
+    "text": "Train Fare167%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.43,
+      187.57,
+      322.19,
+      201.46
+    ],
+    "text": "Bus Fare140%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      447.94,
+      331.37,
+      481.37,
+      346.24
+    ],
+    "text": "Milk Powder151%",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.918583869934082
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.54,
+      85.23,
+      495.39,
+      98.09
+    ],
+    "text": "Prices recorded unprecedented increases and real wages eroded sharply in 2022\u2026",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.722800254821777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      614.83,
+      283.4,
+      628.48
+    ],
+    "text": "02 May 2022, and on local Red Raw and White",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      632.08,
+      283.41,
+      645.73
+    ],
+    "text": "Raw, at Rs. 210 per kg w.e.f. 10 June 2022.",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      649.33,
+      283.39,
+      662.98
+    ],
+    "text": "Afterwards, a declining trend was observed in",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      666.58,
+      283.39,
+      680.23
+    ],
+    "text": "the prices of local rice varieties, while the prices",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      683.83,
+      283.4,
+      697.48
+    ],
+    "text": "of imported rice varieties also followed a similar",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.69,
+      701.08,
+      283.39,
+      714.73
+    ],
+    "text": "trend during the same period owing to low demand,",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      614.82,
+      530.0,
+      628.47
+    ],
+    "text": "partly due to the free distribution of rice stocks",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      632.07,
+      530.0,
+      645.72
+    ],
+    "text": "received by the Government as foreign donations",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      649.32,
+      530.0,
+      662.97
+    ],
+    "text": "to low income families. Vegetable prices, which",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      666.57,
+      530.02,
+      680.22
+    ],
+    "text": "exhibited a declining pattern in the early months of",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      683.82,
+      530.0,
+      697.47
+    ],
+    "text": "2022, accelerated between April and June owing",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      701.07,
+      530.0,
+      714.72
+    ],
+    "text": "to supply disruptions caused by fuel shortages,",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  }
+]

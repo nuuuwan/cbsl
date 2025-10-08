@@ -1,0 +1,2389 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      537.64,
+      745.86
+    ],
+    "text": "9",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.73,
+      31.54,
+      527.25,
+      44.42
+    ],
+    "text": "ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      540.88,
+      68.0,
+      573.16,
+      134.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.78,
+      90.55,
+      283.38,
+      388.48
+    ],
+    "text": "High inflation during 2022 was a global phenomenon. Global inflation accelerated to 8.8 per cent in 2022 (IMF, 2023) reflecting the impact of the lagged effects of ultra easy monetary and fiscal support following the COVID-19 pandemic, shortages of fuel and nonfuel commodities, exacerbated by the Russia-Ukraine War and capacity constraints along with supply chain issues. Affected by global as well as domestic factors, Sri Lanka also experienced inflation at unprecedented levels in the year 2022, recording the largest increase in price levels in its history since independence. However, in late 2022, inflation started moderating from its peak levels, showing early signs of a disinflation process. This process is expected to be supported by several factors, eventually bringing inflation down to the targeted levels in the period ahead. Against this backdrop, it is important to understand the concepts of inflation, disinflation and the characteristics of past global disinflation episodes, and more importantly, the envisaged disinflation process of Sri Lanka, as various misconceptions and misinterpretations have come to the fore resulting in confusion and affecting inflation expectations of the public.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.78,
+      398.09,
+      171.84,
+      410.08
+    ],
+    "text": "The Concept of Inflation",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.78,
+      417.26,
+      283.4,
+      610.99
+    ],
+    "text": "A change in inflation is sometimes misinterpreted as a corresponding change in the price level. The general price level represents an average of all prices in the economy as measured by a consumer price index. The most commonly used measures of the level of prices in Sri Lanka are the Colombo Consumer Price Index (CCPI) and the National Consumer Price Index (NCPI). In contrast, inflation is the rate at which the general price level increases over time, which is typically denoted as the percentage change in a consumer price index between two periods. Therefore, a decline in inflation compared to the previous period may not necessarily mean a drop in the general price level, but rather a reduction in the pace of increase in the general price level.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.78,
+      618.3,
+      283.39,
+      707.84
+    ],
+    "text": "The most commonly used measures of inflation are the year-on-year change and the month-on-month change in a consumer price index. The month-on-month measure of inflation provides an assessment of price movements in the most recent month under consideration, compared to the preceding month. Hence, this measure is also referred to as the \u2018price",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.11,
+      57.59,
+      366.05,
+      81.58
+    ],
+    "text": "BOX 1Sri Lanka\u2019s Disinflation Process",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      288.55,
+      524.91,
+      480.98
+    ],
+    "text": "momentum\u2019 or the \u2018momentum of inflation\u2019. Inflation measured by the year-on-year change in a consumer price index, however, depends on two factors: the price movements in the current month and the price movements recorded one year ago. The latter is referred to as the \u2018base effect\u2019, which is the contribution to the change in the year-on-year inflation that stems from the month-on-month inflation in the base period (i.e., one year ago). The recent movements of the CCPI (Base: 2013 = 100)1 and year-on-year inflation are depicted in Figure B 1.1. The figure illustrates that the year-on-year inflation in a given month (e.g., Dec. 2022) depends upon the consumer price index in the corresponding month and the value of the same 12 months earlier (i.e., Dec. 2021).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.3,
+      488.19,
+      524.89,
+      564.26
+    ],
+    "text": "Furthermore, the change in year-on-year inflation can be approximated by the month-on-month inflation in the current period (momentum effect), less the month-on-month inflation twelve months ago (base effect).2 Hence, in order to assess the dynamics of inflation in Sri Lanka, especially the envisaged",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.57,
+      568.19,
+      524.44,
+      591.38
+    ],
+    "text": "1 Compilation of the CCPI (2013=100) was discontinued by the Department of Census and Statistics (DCS) in February 2023 and it was replaced by the CCPI (2021=100). Inflation (year-on-year) based on the CCPI (2021=100) is available from January 2023.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.57,
+      593.6,
+      524.43,
+      618.79
+    ],
+    "text": "2 As shown in the mathematical representation below, the year-on-year inflation (\u03c0t) depends on the consumer price index in a given month (Pt) and the value of the same 12 months earlier (Pt-12).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.32,
+      638.67,
+      524.17,
+      661.86
+    ],
+    "text": "Once the mathematical representation of the year-on-year inflation is approximated using natural logarithms (ln), the difference between the year-on-year inflation in two successive months can be written as follows.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.32,
+      690.01,
+      524.15,
+      705.2
+    ],
+    "text": "It is noteworthy that the approximation using natural logarithms is valid only when the variable under consideration (i.e., inflation) is a small number in percentage terms.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.16,
+      97.08,
+      483.29,
+      118.22
+    ],
+    "text": "Figure B 1.1Movements of the CCPI and Inflation",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      428.42,
+      267.67,
+      520.27,
+      273.66
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      491.75,
+      141.32,
+      500.99,
+      147.32
+    ],
+    "text": "57.2",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      4.627039909362793
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      372.61,
+      206.4,
+      384.5,
+      212.4
+    ],
+    "text": "154.7",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      4.627039909362793
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      491.76,
+      176.15,
+      503.65,
+      182.15
+    ],
+    "text": "243.2",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      4.627039909362793
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      230.47,
+      513.59,
+      236.46
+    ],
+    "text": "100",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      213.38,
+      513.59,
+      219.38
+    ],
+    "text": "150",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      196.3,
+      513.59,
+      202.3
+    ],
+    "text": "200",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      179.22,
+      513.59,
+      185.21
+    ],
+    "text": "250",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      162.13,
+      513.59,
+      168.13
+    ],
+    "text": "300",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      145.05,
+      513.59,
+      151.04
+    ],
+    "text": "350",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      505.01,
+      127.96,
+      513.59,
+      133.96
+    ],
+    "text": "400",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.43,
+      230.47,
+      320.31,
+      236.46
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      215.82,
+      320.95,
+      221.82
+    ],
+    "text": "10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      201.18,
+      320.95,
+      207.18
+    ],
+    "text": "20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      186.53,
+      320.95,
+      192.53
+    ],
+    "text": "30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      171.89,
+      320.95,
+      177.88
+    ],
+    "text": "40",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      157.24,
+      320.95,
+      163.24
+    ],
+    "text": "50",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      142.6,
+      320.95,
+      148.59
+    ],
+    "text": "60",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      315.22,
+      127.96,
+      320.95,
+      133.95
+    ],
+    "text": "70",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.07,
+      238.34,
+      331.07,
+      251.15
+    ],
+    "text": "Jul-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.92,
+      238.34,
+      340.92,
+      253.59
+    ],
+    "text": "Aug-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.77,
+      238.34,
+      350.76,
+      252.96
+    ],
+    "text": "Sep-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      354.61,
+      238.34,
+      360.61,
+      253.48
+    ],
+    "text": "Oct-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      364.46,
+      238.34,
+      370.46,
+      254.12
+    ],
+    "text": "Nov-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      374.31,
+      238.34,
+      380.3,
+      253.71
+    ],
+    "text": "Dec-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.16,
+      238.34,
+      390.15,
+      252.79
+    ],
+    "text": "Jan-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      394.0,
+      238.34,
+      400.0,
+      252.97
+    ],
+    "text": "Feb-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      403.85,
+      238.34,
+      409.84,
+      254.1
+    ],
+    "text": "Mar-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      413.7,
+      238.34,
+      419.69,
+      252.69
+    ],
+    "text": "Apr-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      423.54,
+      238.34,
+      429.54,
+      254.47
+    ],
+    "text": "May-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      433.39,
+      238.34,
+      439.38,
+      252.49
+    ],
+    "text": "Jun-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      443.24,
+      238.34,
+      449.23,
+      251.15
+    ],
+    "text": "Jul-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      453.08,
+      238.34,
+      459.08,
+      253.59
+    ],
+    "text": "Aug-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      462.93,
+      238.34,
+      468.93,
+      252.96
+    ],
+    "text": "Sep-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      472.78,
+      238.34,
+      478.78,
+      253.48
+    ],
+    "text": "Oct-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      482.63,
+      238.34,
+      488.62,
+      254.12
+    ],
+    "text": "Nov-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      492.48,
+      238.34,
+      498.47,
+      253.71
+    ],
+    "text": "Dec-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      515.35,
+      168.45,
+      521.35,
+      196.85
+    ],
+    "text": "Index points",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.67,
+      173.5,
+      311.67,
+      191.8
+    ],
+    "text": "Per cent",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.35,
+      258.54,
+      482.42,
+      264.53
+    ],
+    "text": "Inflation (Y-o-Y)CCPI (2013=100) (Right Axis)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      434.52,
+      194.86,
+      485.92,
+      200.99
+    ],
+    "text": "Inflation in Dec 2022:",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.3215107917785645
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      436.98,
+      201.93,
+      487.45,
+      213.05
+    ],
+    "text": "243.2\u2212154.7x 100 = 57.2154.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.064614295959473
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      440.76,
+      155.18,
+      487.27,
+      181.18
+    ],
+    "text": "Inflation (y-o-y) is the increase in CCPI over one year, expressed as a percentage of CCPI one year ago",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      37.09,
+      732.39,
+      47.09,
+      745.86
+    ],
+    "text": "10",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      7.5,
+      68.0,
+      39.78,
+      134.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      243.43,
+      280.55,
+      386.3
+    ],
+    "text": "disinflation process, one should have a clear understanding of the movements in price levels in the past one year period, i.e., the base effects, and the expected future path of price levels, i.e., the expected price momentum. Figure B 1.2 depicts inflation dynamics in recent times in terms of momentum and base effects. The figure illustrates that the monthly change in year-on-year inflation can be approximated by the summation of the momentum effect and the base effect, particularly during periods where the year-on-year inflation is small.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      398.91,
+      203.6,
+      410.9
+    ],
+    "text": "Sources of Inflation in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      418.21,
+      280.56,
+      705.71
+    ],
+    "text": "Being a small open economy, Sri Lanka\u2019s overall inflation is a combination of both domestic and imported inflation. Domestic inflation is affected by demand side factors, supply side factors, and the economic agent\u2019s expectations on the future course of inflation. Demand side factors are typically the outcomes of a growing economy, public expectations of future price movements, and macroeconomic policies (i.e., monetary policy and fiscal policy) aimed at influencing the aggregate demand conditions of the economy, whereas supply side factors could be the outcomes of either the supply side policies of the Government or some exogenous circumstances, such as natural disasters, global events, etc. As the people of Sri Lanka consume a considerable share of imported items, the country\u2019s inflation is also affected by the movements in global commodity prices. In addition, exchange rate movements affect inflation. For instance, a depreciation of the Sri Lanka rupee against the US dollar (since most imports are valued in US dollar terms) will increase the price of imports in domestic currency terms.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      60.33,
+      394.64,
+      72.32
+    ],
+    "text": "What is Disinflation?",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      79.32,
+      522.07,
+      232.0
+    ],
+    "text": "Disinflation is interpreted as a slowdown in the rate of increase of the general price level in an economy. Alternatively, it can be defined as a sustained decrease in year-on-year inflation. Disinflation is a process that typically takes place over the short to medium term until inflation reaches the desired level and price stability is restored. It is important to note that disinflation, following an episode of high inflation, is different from deflation, which refers to a sustained decrease in the general price level. Disinflation results in a lower level of inflation where the prices are still rising, but at a slower rate.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      239.12,
+      522.07,
+      417.49
+    ],
+    "text": "In general, gradual disinflation is brought about by contractionary monetary policy as well as supply conditions turning favourable. The objective of contractionary monetary policy is to bring back inflation to the targeted level and sustain it thereafter. Disinflation policies could be associated with short term costs in terms of subdued economic activity and rising unemployment. However, the long term gains for the economy on account of reduced distortions due to high inflation outweigh the short term costs. In the meantime, policymakers must also be vigilant of threats of future deflation during disinflation episodes, as sustained deflation can be highly destructive to a modern economy (Bernanke, 2012).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      424.61,
+      522.06,
+      705.73
+    ],
+    "text": "Globally, there have been several noticeable disinflation episodes. The reduction in inflation in the US in the early 1980s, when the US Federal Reserve was headed by Paul Volcker, remains a widely discussed macroeconomic outcome (commonly referred to as \u2018Volcker disinflation\u2019). During the 1970s and early 1980, the general price levels in the US rose significantly. However, following the implementation of aggressive monetary policy measures by the US Federal Reserve, the annual inflation rate was brought down from a peak of 13.5 per cent in 1980 to 3.2 per cent by 1983. The US experienced two recessions during this period, which are generally attributed to disinflationary policies. However, \u2018Volcker disinflation\u2019 laid the foundation for the long economic expansions of the 1980s and 1990s in the US. In the meantime, Japan and Germany also experienced heightened levels of inflation in the early 1970s. However, by the late 1970s both countries recorded low inflation relative to other advanced economies. The success of this disinflation process is attributed to the strong discipline of the respective governments and monetary authorities, based on the understanding that inflation in the long run is a",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.79,
+      64.13,
+      271.97,
+      96.26
+    ],
+    "text": "Figure B 1.2Inflation Dynamics in terms of Momentum and Base Effects(Based on the CCPI, 2013=100)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.56,
+      222.14,
+      275.41,
+      228.13
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.48,
+      184.17,
+      81.08,
+      190.16
+    ],
+    "text": "-15",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.48,
+      172.62,
+      81.08,
+      178.61
+    ],
+    "text": "-10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.56,
+      161.08,
+      80.31,
+      167.07
+    ],
+    "text": "-5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.95,
+      149.53,
+      79.83,
+      155.52
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.95,
+      137.97,
+      79.83,
+      143.97
+    ],
+    "text": "5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      126.43,
+      80.59,
+      132.42
+    ],
+    "text": "10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      114.88,
+      80.59,
+      120.87
+    ],
+    "text": "15",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.86,
+      103.33,
+      80.59,
+      109.32
+    ],
+    "text": "20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.94,
+      192.44,
+      88.94,
+      206.9
+    ],
+    "text": "Jan-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.36,
+      192.44,
+      99.35,
+      208.21
+    ],
+    "text": "Mar-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.77,
+      192.45,
+      109.77,
+      208.58
+    ],
+    "text": "May-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      114.19,
+      192.44,
+      120.18,
+      205.26
+    ],
+    "text": "Jul-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      124.6,
+      192.44,
+      130.6,
+      207.07
+    ],
+    "text": "Sep-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      135.01,
+      192.44,
+      141.01,
+      208.23
+    ],
+    "text": "Nov-21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.42,
+      192.44,
+      151.42,
+      206.9
+    ],
+    "text": "Jan-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      155.84,
+      192.44,
+      161.84,
+      208.21
+    ],
+    "text": "Mar-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      166.26,
+      192.45,
+      172.25,
+      208.58
+    ],
+    "text": "May-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.67,
+      192.44,
+      182.67,
+      205.26
+    ],
+    "text": "Jul-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.08,
+      192.44,
+      193.08,
+      207.07
+    ],
+    "text": "Sep-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.5,
+      192.44,
+      203.49,
+      208.23
+    ],
+    "text": "Nov-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.91,
+      192.44,
+      213.91,
+      206.9
+    ],
+    "text": "Jan-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      218.33,
+      192.44,
+      224.32,
+      208.21
+    ],
+    "text": "Mar-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.74,
+      192.45,
+      234.74,
+      208.58
+    ],
+    "text": "May-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.16,
+      192.44,
+      245.15,
+      205.26
+    ],
+    "text": "Jul-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      249.57,
+      192.44,
+      255.57,
+      207.07
+    ],
+    "text": "Sep-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.99,
+      192.44,
+      265.98,
+      208.23
+    ],
+    "text": "Nov-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.9,
+      137.5,
+      73.13,
+      156.52
+    ],
+    "text": "Per cent",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.197500228881836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.06,
+      211.45,
+      273.0,
+      217.44
+    ],
+    "text": "Momentum EffectBase EffectMonthly Change in Y-o-Y Inflation",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.21,
+      220.16,
+      172.87,
+      230.16
+    ],
+    "text": "* This approximation is valid only when inflation is a small number in percentage terms",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.82,
+      161.06,
+      194.49,
+      187.05
+    ],
+    "text": "Inflation (y-o-y) in Jan. 2021 declined by 1.2 percentage points compared to the previous month. This change can be approximated by the sum of a momentum effect of 0.5 per cent and a base effect of -1.7 per cent*",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      532.64,
+      732.39,
+      542.27,
+      745.86
+    ],
+    "text": "11",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      169.73,
+      31.54,
+      507.6,
+      44.42
+    ],
+    "text": "ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      540.88,
+      68.0,
+      573.16,
+      134.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.36,
+      60.43,
+      283.38,
+      174.19
+    ],
+    "text": "monetary phenomenon (Nelson, 2007). Furthermore, productivity improvements can also help the disinflation process. Aggregate demand pressures can be lessened due to the expansion of the potential GDP in the long run through effective supply side policies. Moreover, higher productivity, deregulation and increased globalisation are also weighed as possible causes for the considerable drop in global inflation from the elevated levels in the 1970s and early 1980s (Rogoff, 2004).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.36,
+      183.59,
+      278.71,
+      195.58
+    ],
+    "text": "The Envisaged Disinflation Process in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.36,
+      202.53,
+      283.38,
+      380.28
+    ],
+    "text": "Sri Lanka\u2019s inflation started moderating from its peak levels of around 70 per cent (year-on-year) in September 2022, confirming that the disinflation process had started as envisaged. In terms of economic factors, this process is expected to be supported by subdued aggregate demand conditions due to tight monetary and fiscal policies, expected improvements in domestic supply conditions, improved external sector performance, normalisation of global commodity prices, and the timely passthrough of such reductions to domestic prices. Statistically, the disinflation process is anticipated to be influenced by both the momentum effect and the base effect, with a higher contribution expected from the latter.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      62.36,
+      387.34,
+      283.38,
+      705.85
+    ],
+    "text": "Moreover, the effects of statistical factors can be assessed within the context of sources of inflation and expected economic developments. The IMF (2023) expects global inflation to fall in 2023 and 2024. If the envisaged moderation in global commodity prices is passed on to domestic prices via timely and transparent adjustments, the price momentum of imported inflation could be kept at a considerably low level in 2023. Furthermore, the stability of the exchange rate amidst an improved Balance of Payments (BOP) position would be helpful in this regard. The recent appreciation of the Sri Lanka rupee against the US dollar, if continued, could help lower imported inflation and reduce second-round effects associated with these imports, thereby supporting the disinflation process. In the meantime, Sri Lanka\u2019s import prices increased disproportionately during 2022 reflecting the substantial depreciation of the Sri Lanka rupee and the increase in global commodity prices. This resulted in large month-on-month increases in prices of imported commodities, particularly around mid-2022. In the year 2023, this will influence imported inflation favourably through a sizeable negative base effect supporting the disinflation path (please see Figure B 1.2). On the other hand, with respect to domestic inflation, the price momentum is estimated to be",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.31,
+      267.42,
+      524.34,
+      649.08
+    ],
+    "text": "significantly low on account of unprecedented monetary policy tightening measures and an extremely tight fiscal policy stance. In addition, some improvements were witnessed in domestic supply conditions over the last couple of months. As a result, the price momentum relating to food inflation recorded even negative values in certain months. The improved supply conditions are expected to continue through 2023, supporting the efforts to bring inflation to lower levels. Meanwhile, the adjustments made by the Government on various taxes as well as the revisions made to utility tariffs in 2022 and early 2023, together with their second-round effects, resulted in one-off upward adjustments in the general price level. Moreover, the supply side factors remained considerable in 2022 due to numerous shortages and bottlenecks witnessed in domestic supply conditions associated with the BOP crisis. The month-on-month increases in domestic prices in 2022 due to supply bottlenecks as well as tax and tariff revisions will influence inflation favourably in 2023 via a sizeable base effect (please see Figure B 1.2). Therefore, the moderation in domestic inflation in the period ahead is expected to be supported by a combination of subdued price momentum and a considerable base effect. The overall inflation of the country, which is an outcome of the expected dynamics of both imported and domestic inflation, along with the improving supply conditions, among others, is envisaged to reduce sustainably in 2023, enabling the realisation of the anticipated disinflation path.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      303.31,
+      656.13,
+      524.33,
+      705.82
+    ],
+    "text": "The Central Bank\u2019s \u2018inflation fan chart\u2019 presents the projections for future inflation, on a quarterly basis, in the form of confidence intervals (CI). The confidence intervals illustrate the uncertainty surrounding the",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      326.73,
+      66.97,
+      498.15,
+      99.1
+    ],
+    "text": "Figure B 1.3Headline Inflation ProjectionsCCPI* (Quarterly Average, Year-on-Year, %)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      440.1,
+      250.32,
+      518.53,
+      256.31
+    ],
+    "text": "Source: Central Bank Staff Projections",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      310.61,
+      232.27,
+      511.19,
+      240.82
+    ],
+    "text": "90% CI70% CI50% CI",
+    "fonts": [
+      "Calibri",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0,
+      6.3196001052856445
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      307.62,
+      215.92,
+      315.12,
+      221.92
+    ],
+    "text": "-30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      312.24,
+      188.34,
+      315.12,
+      194.34
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.36,
+      160.76,
+      315.12,
+      166.76
+    ],
+    "text": "30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.36,
+      133.18,
+      315.12,
+      139.18
+    ],
+    "text": "60",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.36,
+      105.6,
+      315.12,
+      111.6
+    ],
+    "text": "90",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.53,
+      221.79,
+      519.99,
+      227.79
+    ],
+    "text": "2021:Q12022:Q12023:Q12024:Q12025:Q1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      310.6,
+      239.43,
+      503.71,
+      249.92
+    ],
+    "text": "*Note: Realised data up to Q4 2022 are based on the CCPI (2013=100), while data for Q1 2023 are based on the CCPI (2021=100). Projections are based on all available data.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.09,
+      732.39,
+      47.09,
+      745.86
+    ],
+    "text": "12",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      7.5,
+      68.0,
+      39.78,
+      134.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.96,
+      245.21,
+      280.54,
+      308.28
+    ],
+    "text": "inflation forecast, with the degree of uncertainty widening as the forecast horizon increases. The Central Bank\u2019s latest projections for year-on-year headline inflation, based on CCPI (2021=100), are depicted in Figure B 1.3 in the form of an inflation fan chart.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.96,
+      315.47,
+      280.55,
+      481.91
+    ],
+    "text": "Global inflation, which is estimated to have peaked in 2022, is expected to decline in 2023 and remain at subdued levels in 2024, in light of substantial monetary tightening and the resultant slowing of activity, normalisation of supply chains, and moderating prices of energy and other commodities. Figure B 1.4 depicts inflation projections of selected countries as per their most recent monetary policy reports. The figure shows that in many countries, inflation increased substantially in 2022, beyond the central banks' inflation targets. However, these countries are expecting a sharp disinflation in 2023, as is the case with Sri Lanka, in a synchronous manner.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.96,
+      494.22,
+      280.81,
+      519.13
+    ],
+    "text": "The Role of Inflation Expectations and Inflation Forecasts",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.96,
+      526.2,
+      280.55,
+      705.55
+    ],
+    "text": "The disinflation process of the country is also expected to be reinforced by well-anchored inflation expectations. Inflation expectations reflect the rate at which the stakeholders in an economy expect prices to change in the future. Inflation expectations matter because actual inflation depends, in part, on what the public expects it to be, as expectations could influence spending, borrowing and investment decisions today. Therefore, the disinflation process involves a deliberate course of action by a central bank to change the prevailing expectations of economic agents, if such expectations are higher than the medium term inflation target. In Sri Lanka, inflation expectations destabilised to some extent following the high inflation episode in 2022. However,",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      60.27,
+      522.06,
+      202.86
+    ],
+    "text": "with the proactive implementation of remedial monetary policy measures, along with an effective and transparent monetary policy communications strategy, including the publication of medium term inflation projections, a persistent reduction in the expected level of inflation was observed recently among the public, which in turn has helped improve the credibility of the Central Bank as well. As the disinflation process progresses, a further improvement in this regard can be expected, affirming the anchoring of medium term inflation expectations in line with the Central Bank\u2019s inflation target.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      210.25,
+      522.06,
+      365.95
+    ],
+    "text": "Frequent communication of the estimated short to medium term inflation path remains a key element of the disinflation process. Towards this end, the Central Bank will continue to publish its inflation fan chart in press releases following regular monetary policy reviews and in other communiqu\u00e9s as appropriate. Any discrepancy between the medium term inflation forecast and the inflation target prompts policy measures to close the gap. Frequent and transparent communication of the inflation path would also serve as a mechanism to ensure commitment from the Central Bank to restore and maintain price stability.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      373.34,
+      522.05,
+      463.45
+    ],
+    "text": "Further, the Central Bank will commence publishing a forward looking semi-annual monetary policy report from the second half of 2023. This report will mainly display medium term projections for inflation and the underlying factors for the projections as well as an explanation of the deviation of actual inflation from the published forecast, if any.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      470.84,
+      522.05,
+      600.31
+    ],
+    "text": "A key factor for the disinflation process is the credibility of the central bank, as discussed above. This will help anchor inflation expectations. The credibility of the Central Bank is highly related to the independence of the Bank. In this regard, the envisaged enactment of the new Central Bank of Sri Lanka Act will contribute immensely to improving the independence and credibility of the Central Bank, which in turn will support the current disinflation episode and further strengthen the anchoring of inflation expectations.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      110.16,
+      68.16,
+      226.62,
+      89.3
+    ],
+    "text": "Figure B 1.4Global Disinflation Projections",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      75.57,
+      211.76,
+      275.06,
+      229.75
+    ],
+    "text": "Sources: USA - Monetary Policy Report Mar. 2023; UK - Monetary Policy Report Feb. 2023; Euro area - Eurosystem staff macroeconomic projections Dec. 2022; India - Monetary Policy Report Sep. 2022; Thailand - Monetary Policy Report Q4 2022",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.67,
+      176.53,
+      75.55,
+      182.52
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.67,
+      162.76,
+      75.55,
+      168.76
+    ],
+    "text": "2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.67,
+      149.0,
+      75.55,
+      155.0
+    ],
+    "text": "4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.67,
+      135.24,
+      75.55,
+      141.23
+    ],
+    "text": "6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.67,
+      121.48,
+      75.55,
+      127.47
+    ],
+    "text": "8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.82,
+      107.71,
+      75.55,
+      113.71
+    ],
+    "text": "10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      69.82,
+      93.95,
+      75.55,
+      99.95
+    ],
+    "text": "12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.92,
+      181.76,
+      269.29,
+      187.76
+    ],
+    "text": "Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0022993087768555
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      106.5,
+      191.84,
+      248.07,
+      197.84
+    ],
+    "text": "202220232024",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      62.94,
+      130.54,
+      69.17,
+      149.56
+    ],
+    "text": "Per cent",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.197500228881836
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      98.53,
+      202.86,
+      253.08,
+      208.85
+    ],
+    "text": "USAUKEuro areaIndiaThailand",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      610.49,
+      330.03,
+      617.69
+    ],
+    "text": "References",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      624.16,
+      521.32,
+      647.35
+    ],
+    "text": "1. Bernanke, B. S. (2002). Deflation: Making Sure \"it\" Doesn\u2019t Happen Here, Remarks by Governor Ben S. Bernanke Before the National Economists Club, Washington, DC November, 21.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      650.99,
+      521.31,
+      666.18
+    ],
+    "text": "2. International Monetary Fund (IMF), (2023). World Economic Outlook Update Jan 2023: Inflation Peaking amid Low Growth, Washington, DC: International Monetary Fund.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      669.83,
+      521.29,
+      685.02
+    ],
+    "text": "3. Nelson, E. (2007). The Great Inflation and Early Disinflation in Japan and Germany. International Journal of Central Banking, 3(4), 23-76.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      300.47,
+      688.66,
+      521.29,
+      703.85
+    ],
+    "text": "4. Rogoff, K. (2004). Globalization and Global Disinflation, Federal Reserve Bank of Kansas City conference on Monetary Policy and Uncertainty: Adapting to a Changing Economy.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]

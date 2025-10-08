@@ -1,0 +1,3124 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      538.98,
+      314.14,
+      571.26,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      436.07,
+      31.54,
+      527.25,
+      44.42
+    ],
+    "text": "PRICES AND WAGES",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "149",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.2,
+      87.36,
+      286.8,
+      270.66
+    ],
+    "text": "The Department of Census and Statistics (DCS), the compiler of official Consumer Price Indices (CPIs) in Sri Lanka updated the base year of official CPIs from the base year of 2013 to 2021. Rebasing of CPIs at regular intervals in line with international standards and best practices is essential to reflect contemporary consumer spending patterns in a more accurate manner. Rebasing leads to upgrades of main features of the CPIs especially the weight structure, which indicates the prominence or the representativeness of goods and services in the basket of goods and services. Further, the composition of the basket would also get revised with addition of new items and removal of existing items based on the significance of latest consumption patterns.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.2,
+      278.17,
+      286.79,
+      461.47
+    ],
+    "text": "The DCS released rebased CPIs (2021=100), i.e., National Consumer Price Index (NCPI) and Colombo Consumer Price Index (CCPI) from February 2023. The CCPI which was introduced with the base year of 1952 was rebased four times resulting CCPI series with the base years, 1952, 2002, 2006/07, 2013 and 2021, while for the NCPI, 2021 is the second series after its first series with the base year 2013. The methodology of the index calculation was updated with the rebasing, where CPIs (2021=100) are now calculated in two stages. In the initial stage, elementary indices are compiled, while higher level indices are compiled at the second stage. Elementary indices are compiled using the geometric mean or the Jevons Formula, while the higher level",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.35,
+      57.16,
+      422.29,
+      81.15
+    ],
+    "text": "BOX 6Rebasing of Consumer Price Indices to Base Year 2021",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      87.36,
+      524.63,
+      257.67
+    ],
+    "text": "indices are compiled using the Young Formula. The weight structure of both CPIs is based on the Household Income and Expenditure Survey (HIES) conducted by the DCS in 2019, which comprised of all types of consumption expenditure incurred by a household. Accordingly, the weight reference year of both CCPI (2021=100) and NCPI (2021=100) is 2019. Further, prices reported during the period from January 2018 to December 2019 were used as the price reference in the calculation of indices. The index reference period which is the period where the index was equaled to 100, is 2021. The key features of the official price indices are given in Table B 6.1.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      265.19,
+      524.64,
+      461.98
+    ],
+    "text": "A significant change observed in the weight structure of both CPIs with the rebasing is that the weight of Food category decreased while that of Non-food category increased. Accordingly, the weight of the Food category in the CCPI decreased to 26.23 per cent from 28.24 per cent, while the weight of the Food category in the NCPI decreased to 39.22 per cent from 44.04 per cent with the rebasing process. In rebasing, items such as bread (special), dambala (winged beans), and watermelon were added to the Food category, while items such as fresh sprats, crabs, and sesame oil were removed. Meanwhile, the weight of the Non-food category in the CCPI and the NCPI increased to 73.77 per cent from 71.76 per cent and to 60.78 per cent from 55.96 per cent respectively. With the rebasing,",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      200.76,
+      476.84,
+      383.17,
+      497.77
+    ],
+    "text": "Table B 6.1Key Features of Official Consumer Price Indices",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      127.09,
+      507.28,
+      511.03,
+      516.27
+    ],
+    "text": "FeaturesCCPI (2013=100) CCPI (2021=100)NCPI (2013=100)NCPI (2021=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.85,
+      523.16,
+      491.0,
+      531.56
+    ],
+    "text": "Index Reference Year 2013202120132021",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.84,
+      537.39,
+      508.06,
+      554.18
+    ],
+    "text": "Weight Reference YearJuly 2012 \u2013 June 2013January 2019 \u2013 December 2019July 2012 \u2013 June 2013January 2019 \u2013 December 2019",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.85,
+      558.65,
+      508.92,
+      575.44
+    ],
+    "text": "Geographical CoverageUrban areas of Colombo DistrictUrban areas of Colombo DistrictAll Provinces in Sri LankaAll Provinces in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.85,
+      578.43,
+      487.98,
+      586.83
+    ],
+    "text": "Size of a Household Unit3.93.83.93.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.84,
+      589.77,
+      504.26,
+      598.17
+    ],
+    "text": "Average Monthly Consumption Expenditure (Rs.)Rs. 60,364.73Rs. 91,880.34Rs. 32,142.69Rs. 50,728.60",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.84,
+      601.11,
+      492.97,
+      609.51
+    ],
+    "text": "Value of One Index Point603.65918.8321.43507.29",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.84,
+      612.45,
+      486.75,
+      620.85
+    ],
+    "text": "Major Groups12121212",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.83,
+      623.79,
+      488.55,
+      632.19
+    ],
+    "text": "Subgroups105105105105",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.82,
+      635.13,
+      488.54,
+      643.53
+    ],
+    "text": "No of Items392426407485",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.81,
+      646.47,
+      490.86,
+      673.24
+    ],
+    "text": "Percentage of Total WeightFoodNon-food28.2471.7626.2373.7744.0455.9639.2260.78",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      64.85,
+      674.28,
+      505.02,
+      692.27
+    ],
+    "text": "Price Collection Centers14103 per District Town3 per District Town",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      404.61,
+      695.24,
+      514.83,
+      702.44
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      10.33,
+      314.14,
+      42.62,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2022",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32.09,
+      732.39,
+      47.09,
+      745.86
+    ],
+    "text": "150",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.71,
+      301.91,
+      274.51,
+      334.04
+    ],
+    "text": "Figure B 6.3Movements of Month-on-Month Percentage ChangeCCPI (2013=100) and CCPI (2021=100)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.64,
+      486.62,
+      281.42,
+      492.62
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.51,
+      475.82,
+      235.05,
+      481.81
+    ],
+    "text": "CCPI (2013=100)CCPI (2021=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      90.0,
+      422.16,
+      96.51,
+      427.56
+    ],
+    "text": "1.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.73,
+      411.5,
+      112.24,
+      416.89
+    ],
+    "text": "3.0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      121.09,
+      374.3,
+      144.33,
+      385.61
+    ],
+    "text": "9.38.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      153.13,
+      353.95,
+      162.24,
+      359.34
+    ],
+    "text": "12.8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.03,
+      401.8,
+      175.55,
+      407.2
+    ],
+    "text": "4.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.88,
+      413.89,
+      191.4,
+      419.29
+    ],
+    "text": "2.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      200.62,
+      406.12,
+      207.14,
+      411.52
+    ],
+    "text": "3.8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      212.34,
+      435.5,
+      237.91,
+      442.25
+    ],
+    "text": "-0.4-0.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      96.71,
+      421.53,
+      269.57,
+      432.11
+    ],
+    "text": "0.20.51.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      112.56,
+      410.41,
+      119.08,
+      415.8
+    ],
+    "text": "3.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      128.31,
+      372.79,
+      134.82,
+      378.19
+    ],
+    "text": "9.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      144.28,
+      381.68,
+      150.8,
+      387.08
+    ],
+    "text": "8.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      159.96,
+      359.64,
+      169.07,
+      365.04
+    ],
+    "text": "11.8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.63,
+      403.71,
+      182.14,
+      409.11
+    ],
+    "text": "4.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      191.36,
+      415.3,
+      197.88,
+      420.7
+    ],
+    "text": "2.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.22,
+      407.27,
+      213.73,
+      412.66
+    ],
+    "text": "3.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.44,
+      435.69,
+      246.89,
+      443.32
+    ],
+    "text": "-0.4-0.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.79,
+      425.0,
+      276.17,
+      431.86
+    ],
+    "text": "0.30.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.38,
+      442.98,
+      83.99,
+      448.97
+    ],
+    "text": "-2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      431.36,
+      84.11,
+      437.35
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      419.75,
+      84.11,
+      425.75
+    ],
+    "text": "2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      408.15,
+      84.11,
+      414.14
+    ],
+    "text": "4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      396.55,
+      84.11,
+      402.55
+    ],
+    "text": "6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      81.23,
+      384.94,
+      84.11,
+      390.93
+    ],
+    "text": "8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.45,
+      373.33,
+      84.24,
+      379.33
+    ],
+    "text": "10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.45,
+      361.73,
+      84.24,
+      367.72
+    ],
+    "text": "12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.45,
+      350.12,
+      84.24,
+      356.12
+    ],
+    "text": "14",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      93.69,
+      451.26,
+      99.68,
+      466.45
+    ],
+    "text": "Feb-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      109.42,
+      451.26,
+      115.42,
+      467.19
+    ],
+    "text": "Mar-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      125.15,
+      451.27,
+      131.15,
+      466.02
+    ],
+    "text": "Apr-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      140.89,
+      451.27,
+      146.88,
+      467.67
+    ],
+    "text": "May-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      156.62,
+      451.27,
+      162.62,
+      465.89
+    ],
+    "text": "Jun-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      172.36,
+      451.27,
+      178.36,
+      464.41
+    ],
+    "text": "Jul-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      188.1,
+      451.27,
+      194.09,
+      467.11
+    ],
+    "text": "Aug-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.83,
+      451.27,
+      209.82,
+      466.44
+    ],
+    "text": "Sep-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      219.56,
+      451.27,
+      225.56,
+      466.68
+    ],
+    "text": "Oct-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.3,
+      451.27,
+      241.3,
+      467.43
+    ],
+    "text": "Nov-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      251.04,
+      451.27,
+      257.03,
+      467.01
+    ],
+    "text": "Dec-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      266.77,
+      451.27,
+      272.77,
+      465.92
+    ],
+    "text": "Jan-23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.48,
+      397.48,
+      75.47,
+      414.1
+    ],
+    "text": "Per cent",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      309.43,
+      301.91,
+      509.23,
+      334.04
+    ],
+    "text": "Figure B 6.4Movements of Month-on-Month Percentage ChangeNCPI (2013=100) and NCPI (2021=100)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      424.36,
+      486.62,
+      516.13,
+      492.62
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      364.22,
+      472.82,
+      470.18,
+      478.81
+    ],
+    "text": "NCPI (2013=100)NCPI (2021=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      324.78,
+      420.12,
+      331.28,
+      426.08
+    ],
+    "text": "1.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.44,
+      407.48,
+      347.94,
+      413.44
+    ],
+    "text": "2.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      355.99,
+      356.31,
+      382.93,
+      366.79
+    ],
+    "text": "10.29.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      393.1,
+      351.27,
+      402.18,
+      357.23
+    ],
+    "text": "10.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      411.05,
+      389.05,
+      417.55,
+      395.01
+    ],
+    "text": "5.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      428.14,
+      411.0,
+      452.23,
+      417.93
+    ],
+    "text": "2.52.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      463.94,
+      426.24,
+      470.44,
+      432.2
+    ],
+    "text": "0.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      477.6,
+      436.32,
+      485.66,
+      442.28
+    ],
+    "text": "-0.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      331.58,
+      421.32,
+      504.93,
+      428.78
+    ],
+    "text": "0.00.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.36,
+      404.78,
+      354.86,
+      410.74
+    ],
+    "text": "3.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      365.52,
+      355.38,
+      408.78,
+      366.86
+    ],
+    "text": "10.59.610.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.08,
+      391.28,
+      424.58,
+      397.24
+    ],
+    "text": "5.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      434.98,
+      411.21,
+      459.14,
+      419.12
+    ],
+    "text": "2.42.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      466.61,
+      435.51,
+      493.37,
+      444.49
+    ],
+    "text": "-0.1-0.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      507.7,
+      423.81,
+      514.2,
+      429.77
+    ],
+    "text": "0.0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.723871231079102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      313.06,
+      445.07,
+      317.66,
+      451.69
+    ],
+    "text": "-2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.79,
+      431.16,
+      317.66,
+      437.78
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.79,
+      417.25,
+      317.66,
+      423.87
+    ],
+    "text": "2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.79,
+      403.34,
+      317.66,
+      409.96
+    ],
+    "text": "4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.79,
+      389.44,
+      317.66,
+      396.06
+    ],
+    "text": "6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      314.79,
+      375.52,
+      317.66,
+      382.15
+    ],
+    "text": "8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.89,
+      361.63,
+      317.66,
+      368.25
+    ],
+    "text": "10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      311.89,
+      347.72,
+      317.66,
+      354.34
+    ],
+    "text": "12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      328.04,
+      448.84,
+      334.04,
+      464.02
+    ],
+    "text": "Feb-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.36,
+      448.84,
+      351.35,
+      464.77
+    ],
+    "text": "Mar-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      362.68,
+      448.84,
+      368.67,
+      463.59
+    ],
+    "text": "Apr-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      380.0,
+      448.84,
+      386.0,
+      465.24
+    ],
+    "text": "May-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      397.32,
+      448.84,
+      403.32,
+      463.46
+    ],
+    "text": "Jun-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414.64,
+      448.84,
+      420.64,
+      461.98
+    ],
+    "text": "Jul-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      431.96,
+      448.84,
+      437.96,
+      464.68
+    ],
+    "text": "Aug-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      449.28,
+      448.85,
+      455.28,
+      464.02
+    ],
+    "text": "Sep-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      466.6,
+      448.85,
+      472.6,
+      464.26
+    ],
+    "text": "Oct-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      483.92,
+      448.85,
+      489.92,
+      465.01
+    ],
+    "text": "Nov-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      501.24,
+      448.85,
+      507.24,
+      464.59
+    ],
+    "text": "Dec-22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.81,
+      384.54,
+      309.79,
+      402.9
+    ],
+    "text": "Per cent",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.2487406730651855
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.2,
+      500.27,
+      286.79,
+      608.61
+    ],
+    "text": "items such as tables, and tailoring charges for clothing were added to the Non-food category, while items such as cigars, steel almirahs and dry cell batteries were removed. It is noteworthy that Housing, Water, Electricity and Other Fuels, Food and Non Alcoholic Beverages, and Transport sub-categories continued to remain as the topmost categories in terms of their expenditure value with the rebasing of both the CCPI and NCPI.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.2,
+      616.75,
+      286.78,
+      697.39
+    ],
+    "text": "In terms of both the CPIs the index overlapping period is between January 2022 and December 2022. Accordingly, the comparison of month-on-month percentage changes of both the CPIs with their current and previous base periods are shown in Figures B 6.3 and B 6.4. As per these figures, the variations between",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.63,
+      500.22,
+      519.23,
+      605.51
+    ],
+    "text": "the base years are largely minimal owing to the slight differences in the weight structure and the composition of the basket of goods and services under the two bases. Nevertheless, it is imperative to rebase CPIs on the specific time intervals to ensure that the prevailing consumption patterns are reflected accurately as CPIs plays a crucial role in the economic decision making processes of various economic agencies.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.64,
+      614.05,
+      331.01,
+      625.44
+    ],
+    "text": "References",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.64,
+      631.66,
+      518.22,
+      638.86
+    ],
+    "text": "1. Department of Census and Statistics. A Briefing on the Rebased Colombo Consumer",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.14,
+      643.07,
+      516.47,
+      650.27
+    ],
+    "text": "Price Index (Base 2021=100) for Sri Lanka. Available at: http://www.statistics.gov.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.14,
+      654.49,
+      484.23,
+      661.68
+    ],
+    "text": "lk/InflationAndPrices/StaticalInformation/MonthlyCCPI/Techinical_Note",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      297.64,
+      665.9,
+      518.19,
+      673.09
+    ],
+    "text": "2. Department of Census and Statistics. A Briefing on the Rebased National Consumer",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.14,
+      677.31,
+      516.47,
+      684.5
+    ],
+    "text": "Price Index (Base 2021=100) for Sri Lanka. Available at: http://www.statistics.gov.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      306.14,
+      688.72,
+      477.83,
+      695.92
+    ],
+    "text": "lk/InflationAndPrices/StaticalInformation/NCPI/NCPITecnicalNote",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      98.51,
+      70.89,
+      245.02,
+      103.02
+    ],
+    "text": "Figure B 6.1Change in Weight Structure from CCPI (2013=100) to CCPI (2021=100)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.81,
+      285.6,
+      277.82,
+      291.59
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      176.63,
+      263.42,
+      185.7,
+      268.82
+    ],
+    "text": "1.03",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.32,
+      250.46,
+      186.39,
+      255.85
+    ],
+    "text": "1.30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.52,
+      236.87,
+      189.59,
+      242.27
+    ],
+    "text": "2.29",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.83,
+      223.67,
+      191.9,
+      229.06
+    ],
+    "text": "3.30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.95,
+      210.52,
+      192.02,
+      215.91
+    ],
+    "text": "3.32",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.58,
+      197.94,
+      190.66,
+      203.34
+    ],
+    "text": "2.54",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      185.63,
+      184.61,
+      194.7,
+      190.0
+    ],
+    "text": "4.39",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      189.73,
+      172.03,
+      198.8,
+      177.42
+    ],
+    "text": "5.86",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.91,
+      158.26,
+      196.98,
+      163.65
+    ],
+    "text": "5.14",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      203.36,
+      145.93,
+      215.02,
+      151.32
+    ],
+    "text": "10.61",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      252.66,
+      132.22,
+      264.33,
+      137.62
+    ],
+    "text": "28.24",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      262.99,
+      119.08,
+      274.65,
+      124.47
+    ],
+    "text": "31.98",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      177.85,
+      259.12,
+      186.92,
+      264.52
+    ],
+    "text": "1.67",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      178.6,
+      246.16,
+      187.67,
+      251.56
+    ],
+    "text": "1.96",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.58,
+      232.64,
+      189.65,
+      238.04
+    ],
+    "text": "2.20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.32,
+      219.5,
+      192.39,
+      224.9
+    ],
+    "text": "2.96",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      182.15,
+      206.48,
+      191.22,
+      211.88
+    ],
+    "text": "3.19",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      183.34,
+      193.71,
+      192.41,
+      199.11
+    ],
+    "text": "3.48",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      184.41,
+      180.32,
+      193.48,
+      185.71
+    ],
+    "text": "4.00",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.83,
+      166.67,
+      196.9,
+      172.07
+    ],
+    "text": "5.09",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      187.48,
+      154.34,
+      196.55,
+      159.74
+    ],
+    "text": "5.12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.89,
+      141.56,
+      219.55,
+      146.96
+    ],
+    "text": "12.55",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      247.3,
+      128.23,
+      258.97,
+      133.63
+    ],
+    "text": "26.23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      261.67,
+      114.53,
+      273.33,
+      119.92
+    ],
+    "text": "31.56",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.6,
+      260.45,
+      168.39,
+      266.44
+    ],
+    "text": "Alcoholic Beverages and Tobacco",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.27,
+      247.36,
+      168.39,
+      253.36
+    ],
+    "text": "Recreation and Culture",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.31,
+      234.28,
+      168.31,
+      240.27
+    ],
+    "text": "Clothing and Footwear",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      134.98,
+      221.2,
+      168.39,
+      227.19
+    ],
+    "text": "Communication",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      95.83,
+      208.11,
+      168.39,
+      214.1
+    ],
+    "text": "Miscellaneous Goods and Services",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.59,
+      191.98,
+      168.39,
+      204.1
+    ],
+    "text": "Furnishing, Household Equipment and RoutineHousehold Maintenance",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      154.74,
+      181.94,
+      168.39,
+      187.94
+    ],
+    "text": "Health",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      147.71,
+      168.85,
+      168.39,
+      174.85
+    ],
+    "text": "Education",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      120.82,
+      155.78,
+      168.39,
+      161.77
+    ],
+    "text": "Restaurants and Hotels",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      148.77,
+      142.69,
+      168.39,
+      148.68
+    ],
+    "text": "Transport",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      94.3,
+      129.61,
+      168.39,
+      135.6
+    ],
+    "text": "Food and Non Alcoholic Beverages",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.84,
+      116.52,
+      168.39,
+      122.53
+    ],
+    "text": "Housing, Water, Electricity, Gas and Other Fuels",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      126.68,
+      277.79,
+      232.23,
+      283.79
+    ],
+    "text": "CCPI (2021=100)CCPI (2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.38,
+      70.89,
+      481.73,
+      103.02
+    ],
+    "text": "Figure B 6.2Change in Weight Structure from NCPI (2013=100) to NCPI (2021=100)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      422.09,
+      286.6,
+      513.87,
+      292.59
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      361.96,
+      278.79,
+      467.94,
+      284.79
+    ],
+    "text": "NCPI (2021=100)NCPI (2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414.13,
+      266.83,
+      423.14,
+      272.23
+    ],
+    "text": "1.59",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.75,
+      253.17,
+      424.76,
+      258.57
+    ],
+    "text": "2.27",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.43,
+      240.6,
+      424.44,
+      246.0
+    ],
+    "text": "2.32",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417.84,
+      226.78,
+      426.85,
+      232.17
+    ],
+    "text": "3.44",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417.64,
+      213.37,
+      426.65,
+      218.77
+    ],
+    "text": "3.30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.81,
+      199.8,
+      427.81,
+      205.19
+    ],
+    "text": "4.05",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      419.35,
+      186.55,
+      428.36,
+      191.95
+    ],
+    "text": "4.53",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      416.4,
+      173.32,
+      425.41,
+      178.71
+    ],
+    "text": "2.81",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.17,
+      159.99,
+      427.18,
+      165.39
+    ],
+    "text": "3.90",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      430.69,
+      146.13,
+      439.7,
+      151.52
+    ],
+    "text": "9.75",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      449.04,
+      133.18,
+      460.61,
+      138.58
+    ],
+    "text": "18.00",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      501.25,
+      119.44,
+      512.83,
+      124.84
+    ],
+    "text": "44.04",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      413.7,
+      262.89,
+      422.71,
+      268.29
+    ],
+    "text": "1.68",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      414.88,
+      249.24,
+      423.89,
+      254.63
+    ],
+    "text": "1.89",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      415.78,
+      236.66,
+      424.79,
+      242.06
+    ],
+    "text": "2.38",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      416.68,
+      222.59,
+      425.69,
+      227.99
+    ],
+    "text": "3.00",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      416.92,
+      209.35,
+      425.93,
+      214.75
+    ],
+    "text": "3.04",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417.53,
+      195.61,
+      426.54,
+      201.0
+    ],
+    "text": "3.26",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      417.52,
+      182.12,
+      426.53,
+      187.52
+    ],
+    "text": "3.30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      418.16,
+      169.22,
+      427.17,
+      174.61
+    ],
+    "text": "3.91",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      419.46,
+      155.81,
+      428.47,
+      161.21
+    ],
+    "text": "4.39",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      432.77,
+      142.41,
+      444.34,
+      147.8
+    ],
+    "text": "11.02",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      458.9,
+      129.0,
+      470.47,
+      134.4
+    ],
+    "text": "22.93",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      491.57,
+      115.26,
+      503.14,
+      120.66
+    ],
+    "text": "39.22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      358.72,
+      264.06,
+      407.02,
+      270.06
+    ],
+    "text": "Recreation and Culture",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      336.38,
+      250.65,
+      407.02,
+      256.65
+    ],
+    "text": "Alcoholic Beverages and Tobacco",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      373.68,
+      237.25,
+      407.02,
+      243.24
+    ],
+    "text": "Communication",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      358.81,
+      223.84,
+      406.94,
+      229.84
+    ],
+    "text": "Clothing and Footwear",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      310.27,
+      207.31,
+      407.02,
+      219.71
+    ],
+    "text": "Furnishing, Household Equipment and RoutineHousehold Maintenance",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      393.34,
+      197.03,
+      407.02,
+      203.03
+    ],
+    "text": "Health",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      334.57,
+      183.63,
+      407.02,
+      189.62
+    ],
+    "text": "Miscellaneous Goods and Services",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      386.5,
+      170.22,
+      407.02,
+      176.22
+    ],
+    "text": "Education",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      359.24,
+      156.82,
+      407.02,
+      162.81
+    ],
+    "text": "Restaurants and Hotels",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      387.27,
+      143.41,
+      407.02,
+      149.4
+    ],
+    "text": "Transport",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      305.35,
+      130.0,
+      407.02,
+      136.0
+    ],
+    "text": "Housing, Water, Electricity, Gas and Other Fuels",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.85,
+      116.6,
+      407.02,
+      122.59
+    ],
+    "text": "Food and Non Alcoholic Beverages",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.0
+    ]
+  }
+]
