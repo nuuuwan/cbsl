@@ -1,4 +1,6 @@
+import re
 import sys
+from itertools import chain
 
 from scraper import AbstractPDFDoc, GlobalReadMe
 from utils import WWW, Log
@@ -30,7 +32,66 @@ class AnnualReports(AbstractPDFDoc):
         return "📙"
 
     @classmethod
-    def gen_docs(cls):
+    def clean_description(cls, description: str) -> str:
+        description = re.sub(r"[^a-zA-Z0-9\s]", "", description)
+        description = re.sub(r"\s+", " ", description)
+        description = description.strip()
+        return description.lower().replace(" ", "-")
+
+    @classmethod
+    def gen_docs_from_report_url(cls, url_report, year):
+        www = WWW(url_report)
+        soup = www.soup
+        div_article = soup.find("div", class_="article")
+        assert div_article
+        a_list = div_article.find_all("a")
+        for a in a_list:
+            href = a.get("href", "")
+            if not href.endswith(".pdf"):
+                continue
+            url_pdf = href
+            description = a.text.strip()
+            num = url_pdf.split("/")[-1].replace(".pdf", "")
+            yield cls(
+                num=num,
+                date_str=f"{year}-01-01",
+                description=description,
+                url_metadata=url_report,
+                lang="en",
+                url_pdf=url_pdf,
+            )
+
+    @classmethod
+    def gen_report_urls_new(cls):
+        url = (
+            "https://www.cbsl.gov.lk"
+            + "/en/publications/economic-and-financial-reports/annual-reports"
+        )
+        www = WWW(url)
+        soup = www.soup
+
+        table = soup.find("table")
+        assert table
+        for tr in table.find_all("tr"):
+            for td in tr.find_all("td"):
+                p = td.find("p")
+                if not p:
+                    continue
+                a = td.find("a")
+                if not a:
+                    continue
+                href = a["href"]
+                url_report = (
+                    "https://www.cbsl.gov.lk"
+                    + "/en/publications/economic-and-financial-reports/"
+                    + href
+                )
+                year = p.text.strip()[-4:]
+                assert year.isdigit(), year
+                yield (url_report, year)
+
+    @classmethod
+    def gen_report_urls_old(cls):
         url = (
             "https://www.cbsl.gov.lk"
             + "/en/publications/economic-and-financial-reports/annual-reports"
@@ -45,20 +106,25 @@ class AnnualReports(AbstractPDFDoc):
                 continue
             year = description[-4:]
             assert year.isdigit(), description
-
             a = h3.find("a")
-            url_pdf = a["href"]
-            assert url_pdf.endswith(".pdf"), url_pdf
+            if not a:
+                continue
 
-            doc = AbstractPDFDoc(
-                num=year,
-                date_str=f"{year}-12-31",
-                description=description,
-                url_metadata=url,
-                lang="en",
-                url_pdf=url_pdf,
+            href = a["href"]
+            url_report = (
+                "https://www.cbsl.gov.lk"
+                + "/en/publications/economic-and-financial-reports/"
+                + href
             )
-            yield doc
+            yield (url_report, year)
+
+    @classmethod
+    def gen_docs(cls):
+        for url_report, year in chain(
+            cls.gen_report_urls_new(), cls.gen_report_urls_old()
+        ):
+            for doc in cls.gen_docs_from_report_url(url_report, year):
+                yield doc
 
     @classmethod
     def run_pipeline(cls, max_dt=None):
