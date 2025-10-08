@@ -1,0 +1,8048 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      67.76,
+      129.91,
+      90.26
+    ],
+    "text": "Chapter I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.999994277954102,
+      15.999993324279785,
+      22.499990463256836
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      98.52,
+      296.78,
+      114.76
+    ],
+    "text": "PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      15.499993324279785,
+      15.999993324279785
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.64,
+      159.23,
+      243.45,
+      170.8
+    ],
+    "text": "1L.L Payment and Settlement System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.92,
+      176.47,
+      277.64,
+      186.19
+    ],
+    "text": "The national payment system consists of (i) a set of payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.1,
+      188.53,
+      276.78,
+      210.31
+    ],
+    "text": "instruments; (ii) individuals/corporates who function as payees,payers or financial intermediaries; (iii) procedutes, rules,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.1,
+      213.6,
+      277.83,
+      246.37
+    ],
+    "text": "regulations and laws which provide a sound legal infrastructureto facilitate smooth transf'er of funds; and (iv) clearing andsettlement systems. An efficient and robust payment and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.28,
+      249.39,
+      277.6,
+      258.14
+    ],
+    "text": "settlement system is vital for the development of the financial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.28,
+      261.25,
+      277.85,
+      306.29
+    ],
+    "text": "system and also for maintaining tinancial system stability.The year 2003 witnessed the culmination of the CentralBank's move towards introducing technologically advancedpayment systems in Sri Lanka, a project which the Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.28,
+      308.74,
+      278.39,
+      377.93
+    ],
+    "text": "started in 2001 under its modernisation programme. Underthis project, payments and settlements, which were hithertodone manually, were converted to a computer based RealTime Gross Settlement (RTGS) System; governmentsecurities, which were hitherto issued in scrip form, weremade scripless in a Scripless Securities Settlement (SSS)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.46,
+      381.33,
+      278.16,
+      438.12
+    ],
+    "text": "System; and the Bank's own accounting system and treasurymanagement were automated by the installation of anAutomated General Ledger System (AGLS) and TreasuryDealing Room Management System (TDRMS). The SSSSystem and Central Depository System (CDS), which",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.46,
+      177.16,
+      520.57,
+      246.67
+    ],
+    "text": "maintained the records of government securities issued tnelectronic form. were brand-named as LankaSecure. TneRTGS system and LankaSecure were brand-named as'LankaSettle'. The RTGS System went live in September2003 and the other systems were inaugurated in early 2004.With a view to outsourcing non-core functions, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.46,
+      248.98,
+      520.83,
+      306.54
+    ],
+    "text": "Central Bank, in April 2002, divested its checlue clearing andoffline electronic payment system titled Sri Lanka InterbankPayment System (SLIPS) to a newly formed company,LankaClear (Pvt.) Ltd. (LankaClear) jointly owned by theCentral Bank and licensed commercial banks (LCBs).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.46,
+      308.74,
+      520.65,
+      330.48
+    ],
+    "text": "LankaClear was expected to improve the efficiency of theclearing process of payment instruments by attracting new",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.64,
+      333.63,
+      521.17,
+      378.02
+    ],
+    "text": "management and technology and adopting a cost effectiveoperating system. As a way forward strategy, the CentralBank and LankaClear were making arrangements toimplement a Cheque Imaging/Truncation Project, which is",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.64,
+      381.13,
+      520.36,
+      390.31
+    ],
+    "text": "expected to be completed by end 2004. To overcome legal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.82,
+      392.83,
+      521.59,
+      438.07
+    ],
+    "text": "constraints relating to retail payments and the acceptance ofelectronic presentment of cheques, the Central Bank hasinitiated action to introduce a payment transactions law,which is expected to be passed by Parliament in 2004.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.42,
+      446.83,
+      309.36,
+      455.83
+    ],
+    "text": "TABLE 11.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.06,
+      459.55,
+      426.73,
+      469.55
+    ],
+    "text": "Volume and Value of Transactions of Non Cash Payment Systems",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      141.84,
+      490.52,
+      514.47,
+      508.01
+    ],
+    "text": "Paymeni SystemVolume ('000) Value (Rs. bn) Volume ('000)Value (Bs. bn)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.82,
+      517.49,
+      228.91,
+      541.59
+    ],
+    "text": "Large value payment systemsCentral Bank Current Account Settlement System (a)RTGS System (b)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.0,
+      550.07,
+      171.79,
+      649.12
+    ],
+    "text": "Retail payment systemsMain Cheque Clearing SystemRegional Cheque Clearing System)Ltr)Card based payment systems(i) ATlt/s(ii) EFTPOS(iii) Credit cards(iv) Debit cardsInternet bankingPhone bankingPostal instruments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      65.7,
+      659.36,
+      80.15,
+      665.86
+    ],
+    "text": "Total",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.36,
+      676.12,
+      172.96,
+      682.96
+    ],
+    "text": "US Dollar Cheque Clearing System (c)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.28,
+      525.98,
+      328.77,
+      532.48
+    ],
+    "text": "146,171",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.88,
+      558.92,
+      329.46,
+      581.98
+    ],
+    "text": "35,4871,3561,609",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      309.06,
+      592.78,
+      329.86,
+      631.79
+    ],
+    "text": "25,1 1 85,9406,2566,80971",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.9999983310699463,
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.78,
+      634.75,
+      329.9,
+      648.82
+    ],
+    "text": "tJbn.a.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.1,
+      659.0,
+      328.59,
+      665.5
+    ],
+    "text": "228,903",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.1,
+      676.12,
+      329.77,
+      682.12
+    ],
+    "text": "17",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      363.42,
+      525.8,
+      388.72,
+      532.3
+    ],
+    "text": "19,475.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      366.84,
+      558.74,
+      388.52,
+      565.24
+    ],
+    "text": "2,444.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      367.38,
+      567.4,
+      389.8,
+      581.98
+    ],
+    "text": "{+b. o1,335.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      376.74,
+      592.4,
+      389.93,
+      649.05
+    ],
+    "text": "71.924.918.222.458.132.0001",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      363.24,
+      659.0,
+      388.54,
+      665.5
+    ],
+    "text": "23,530.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      381.24,
+      676.12,
+      389.58,
+      682.12
+    ],
+    "text": "1.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      424.98,
+      526.0,
+      449.49,
+      540.76
+    ],
+    "text": "102,58138",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      428.76,
+      558.74,
+      450.41,
+      581.8
+    ],
+    "text": "36,4831,3422,017",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      428.94,
+      592.22,
+      450.23,
+      648.64
+    ],
+    "text": "33,5697,7517,6769,098188106n.a.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      424.98,
+      658.82,
+      448.47,
+      665.32
+    ],
+    "text": "200,849",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      442.62,
+      675.74,
+      449.85,
+      682.24
+    ],
+    "text": "86",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      483.12,
+      525.62,
+      509.32,
+      540.58
+    ],
+    "text": "12,749 84,210 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      486.72,
+      558.56,
+      509.09,
+      581.8
+    ],
+    "text": "2,676.650.6979.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      493.2,
+      592.04,
+      509.46,
+      598.54
+    ],
+    "text": "120.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      496.62,
+      601.86,
+      510.14,
+      631.84
+    ],
+    "text": "J I.J23232680.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      496.62,
+      634.57,
+      508.3,
+      648.46
+    ],
+    "text": "2.10.01",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      483.3,
+      659.2,
+      507.98,
+      665.2
+    ],
+    "text": "20,957.O",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      497.34,
+      675.76,
+      509.02,
+      681.76
+    ],
+    "text": "10.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      54.18,
+      691.88,
+      285.54,
+      716.55
+    ],
+    "text": "(a) From 01 January to 05 September 2003(b) From 08 September to end December 2003(c) US Dollar Cheque Clearing System was launched on 01 October 2002",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      416.52,
+      691.19,
+      521.17,
+      698.19
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.28,
+      735.88,
+      520.14,
+      745.38
+    ],
+    "text": "260Central Bank of Sri Lanka Annual Report - 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      38.13,
+      504.95,
+      51.39
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      35.1,
+      464.11,
+      259.61,
+      553.47
+    ],
+    "text": "Given the wide preference for cash as a payment andsettlement instrument for retail level transactions of individualsand small scale entities, the switching over to non cash paymentinstruments has been slow, but it indicated an increasing trendin 2003. However, non cash payments continued to dominatein large value transactions in 2003.ll.2 Cash Payments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      16.49999237060547
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      32.76,
+      558.79,
+      259.96,
+      712.01
+    ],
+    "text": "cunency notes and coins issued by the central Bank underthe provisions of the Monetary Law Act, No. 5g of Lg4g,continued to be the most popular retail payment mediumamong individuals and business entities to effect 'face toface' payments for transactions in acquiring goods, servicesand financial assets in 2003. In most institutions, salaries andwages were paid in cash despite the increased use of SLIpsfor salary payments and automated teller machines and debitcards for cash withdrawals. Indicating the dominance of cashin payments, the value of currency held by the publicincreased from Rs. 75 billion at end 2002 to Rs. g6 billion atend 2003, thus maintaining a currency to demand depositratio of 53:47.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      279.0,
+      466.85,
+      467.24,
+      479.79
+    ],
+    "text": "11.3 Non Cash Payment Instruments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.92,
+      485.4,
+      504.08,
+      590.6
+    ],
+    "text": "The major non cash payment instruments in use at end 200j,included:(i) Paper based instruments viz. cheques, drafts, bills ofexchange, and promissory notes; and(ii) Electronic payments effected thr.ough the RTGS Sysrem,debit/credit transfers in SLIpS, debit and credit cards,automated teller machines (ATMs), electronic fundtransfers at point of sale (EFTPOS), prepaid cards, andfund transfers through phone and Internet banking.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.999995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.02,
+      597.61,
+      393.61,
+      608.45
+    ],
+    "text": "Paper Based Instruments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.2,
+      614.61,
+      311.22,
+      623.11
+    ],
+    "text": "Cheques",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      275.58,
+      628.96,
+      500.44,
+      711.56
+    ],
+    "text": "The use of cheques for large value payments in inter-bankmoney, capital and securities markets decreased sinceSeptember 2003 as the participants in LankaSettle System, i.e.,LCBs and Primary Dealers (PDs) were not permitted to usecheques drawn on the Central Bank to settle their day-to-daypayments with the introduction of the RTGS System. TheGovernment and some government agencies, which maintained",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      31.32,
+      730.02,
+      497.77,
+      744.19
+    ],
+    "text": "Central Bank of Sri Lanka Annual Report - 2OO3261",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      40.8,
+      522.05,
+      49.88
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.4999985694885254,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      70.06,
+      281.64,
+      79.81
+    ],
+    "text": "current accounts with the Central Bank, continued to use",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      83.1,
+      282.04,
+      91.46
+    ],
+    "text": "cheques drawn on the Central Bank. LankaClear clealed those",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      95.73,
+      88.21,
+      103.23
+    ],
+    "text": "cheques,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      109.12,
+      136.21,
+      118.62
+    ],
+    "text": "Postal Instruments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.6,
+      124.45,
+      282.3,
+      145.44
+    ],
+    "text": "The total value of payments made thlough local and foreignmoney orders and postal orders issued and settled by the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      148.39,
+      281.66,
+      157.57
+    ],
+    "text": "Department of Posts during 2003 amounted to Rs.l3 billion",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      160.27,
+      183.42,
+      169.45
+    ],
+    "text": "compared to Rs. 9 billion in2002.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      178.01,
+      208.39,
+      188.69
+    ],
+    "text": "Electronic Payment Instruments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      197.11,
+      157.84,
+      207.29
+    ],
+    "text": "Direct Credit Transfers",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      212.23,
+      282.28,
+      222.23
+    ],
+    "text": "Direct credit transfers were mainly used by corporate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      225.48,
+      282.68,
+      281.77
+    ],
+    "text": "customers. Customers of LCBs effected credit transfers throughwritten instructions as standing orders or electronically, byATMs, telephones or Internet. LCBs are permitted to makecross border credit transfers. The majority of cross bordertransactions are effected through correspondents'nostro'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      284.65,
+      282.79,
+      293.83
+    ],
+    "text": "accounts with foreign counterparties. In 2003, an LCB and a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      297.48,
+      282.52,
+      317.77
+    ],
+    "text": "non-bank company executed fast fund transfers in cooperationwith an international money transfer company incorporated in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      321.42,
+      90.31,
+      329.6
+    ],
+    "text": "the USA.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      337.51,
+      153.34,
+      347.58
+    ],
+    "text": "Direct Debit Transfers",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      353.2,
+      282.75,
+      362.7
+    ],
+    "text": "Customers of LCBs used direct debit transfers to settle their",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      365.47,
+      281.67,
+      374.47
+    ],
+    "text": "regular payments on utility services (viz. electricity, telephones",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      378.12,
+      281.64,
+      386.3
+    ],
+    "text": "and water etc.), Ioan repayments, and dues on credit cards etc.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      389.79,
+      282.73,
+      433.82
+    ],
+    "text": "Such direct debits of bank customers were presented by LCBsin magnetic tapes/diskettes for clearing by LankaClear inSLPS. Direct debit transfers have shown a slow srowth inrecent years.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      442.63,
+      114.08,
+      452.63
+    ],
+    "text": "Credit Cards",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      458.35,
+      282.77,
+      527.47
+    ],
+    "text": "Credit card, a 'settle later' type payment instrument, was themost widely used payment card for retail level transactionsduring the year under review. At end 2003,9 LCBs and a non-bank company had issued credit cards in Sri Lanka. Themajority of credit cards issued by LCBs are affiliated withVISA, MasterCard, or AMEX. At end 2003, the majority, i.e.,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      530.37,
+      282.7,
+      550.87
+    ],
+    "text": "79 per cent, of the total number of cards issued were globallyacceptable for payments. The total number of credit cards in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      553.21,
+      282.82,
+      598.79
+    ],
+    "text": "use, which showed a26per cent growthin2002, recorded anincrease of 24 per cent in 2003, due mainly to vigorouspromotional campargns of LCBs and increased banking habits.During 2003, the total number and value of financial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      602.22,
+      282.06,
+      622.67
+    ],
+    "text": "transactions billed under credit cards too showed a considerablegrowth and amounted to 7.7 million and Rs.23 billion",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      626.34,
+      102.78,
+      634.34
+    ],
+    "text": "respectively,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      642.82,
+      282.8,
+      690.91
+    ],
+    "text": "Debit CardsDebit cards issued by LCBs were used for local andinternational payments, to check balances and for withdrawalof cash from accounts through an ATM or at an EFTPOS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      694.56,
+      282.61,
+      714.73
+    ],
+    "text": "terminal which had direct access to a Sri Lanka rupee or foreigncurrency account (current, savings, Non Resident Foreign",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      69.88,
+      525.37,
+      91.21
+    ],
+    "text": "Currency Accounts etc.) of the cardholder. At end 2003, 4LCBs had issued Visa Electron cards and debit MasteCards.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      96.88,
+      363.02,
+      106.56
+    ],
+    "text": "Prepaid Cards",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      112.03,
+      524.68,
+      121.27
+    ],
+    "text": "The use of prepaid cards also expanded substantially in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      124.09,
+      525.25,
+      133.09
+    ],
+    "text": "recent past with the introduction of card-based networks by a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      136.71,
+      417.79,
+      145.21
+    ],
+    "text": "number of telephone companies.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      153.32,
+      441.72,
+      164.57
+    ],
+    "text": "Payment Cards Infrastructure",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      168.67,
+      455.77,
+      179.75
+    ],
+    "text": "Automated Teller Machines (ATMs)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      185.29,
+      524.55,
+      194.35
+    ],
+    "text": "ATMs, which were introduced to Sri Lanka in 1986, have fast",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      197.94,
+      524.36,
+      206.48
+    ],
+    "text": "become part of the cash system, while promoting effective cash",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      209.97,
+      523.66,
+      230.65
+    ],
+    "text": "management. At end 2003, 14 LCBs and the National SavingsBank had installed 721 ATMs. The total number of financial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      233.91,
+      524.05,
+      242.48
+    ],
+    "text": "transactions effected through ATMs recorded a steady growth",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      245.97,
+      523.8,
+      254.54
+    ],
+    "text": "and reached 34 million during 2003. The total value of financial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      257.29,
+      525.22,
+      278.53
+    ],
+    "text": "h'ansactions effected through ATMs during 2003 was Rs.l20billion against the comesponding value of Rs.72 billion in2002.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      284.08,
+      480.51,
+      304.74
+    ],
+    "text": "Electronic Fund Transfers at Point of Sale(EFTPOS)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      310.51,
+      524.88,
+      344.52
+    ],
+    "text": "EFTPOS, which was introduced to Sri Lanka in 1994, hasgradually become a substitute for cash and cheques. The totalnumber of EFTPOS machines installed in the country was",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      348.06,
+      525.18,
+      368.3
+    ],
+    "text": "5,114 at end 2003 and the total volume of financial transactionseffected through EFTPOS during 2003 amounted to 8 million",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      371.23,
+      524.2,
+      392.58
+    ],
+    "text": "compared to 6 million in2002. The total value of transactionsincreased by 26 per cent to Rs.31 billion in 2003 when",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      395.17,
+      377.32,
+      404.17
+    ],
+    "text": "compared with 2002.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      412.55,
+      524.96,
+      447.55
+    ],
+    "text": "Phone/Nlobile/Tele-banking FacilitiesCustomers access for services under phone/mobile/tele-banking facilities included: balance inquiries; credit card",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      450.07,
+      524.96,
+      459.07
+    ],
+    "text": "services; reporting of lost or stolen ATM cards and credit cards;",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      462.87,
+      523.7,
+      483.59
+    ],
+    "text": "and infbrmation on banking services and products.At end 2003, nine LCBs provided phone/mobile/tele-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      486.81,
+      525.52,
+      519.66
+    ],
+    "text": "banking facilities to individual and corporate customers. Thequality of services and degree of utilisation of these servicesvaried from bank to bank depending on their business",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      523.2,
+      525.54,
+      531.38
+    ],
+    "text": "strategies. The total number of bank customers registered to use",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.32,
+      534.13,
+      526.14,
+      590.69
+    ],
+    "text": "these services showed a significant growth of 50 per cent in2003 compared to the previous year. The total number offinancial transactions handled by phone/mobile/tele-bankingtoo showed an increase of 23 per cent. But the total value oftransactions handled through this medium recorded a",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      593.35,
+      525.52,
+      602.53
+    ],
+    "text": "substantial drop from Rs.32 billion in 2002 to Rs.2 billion in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      605.79,
+      525.79,
+      614.29
+    ],
+    "text": "2003 due mainly to increased preference of some customers to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      617.47,
+      459.22,
+      626.47
+    ],
+    "text": "use the Internet for large value transactions.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      634.82,
+      380.84,
+      645.82
+    ],
+    "text": "Internet Banking",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      647.65,
+      526.25,
+      681.55
+    ],
+    "text": "Internet banking commenced in Sri Lanka in 1999 to providebank customers with conventional banking services in aconvenient and efficient manner, The total number of bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.68,
+      684.45,
+      525.44,
+      717.07
+    ],
+    "text": "customers who enjoyed this facility reached 24,650 at end 2003while the total value of Internet banking transactions effectedduring 2003 increased by 39 per cent to Rs,81 billion.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      733.69,
+      524.28,
+      743.69
+    ],
+    "text": "262Central Bank of Sri Lanka Annual Report - 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      39.24,
+      39.36,
+      503.15,
+      52.47
+    ],
+    "text": "Paft |Chapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.52,
+      63.39,
+      237.59,
+      94.01
+    ],
+    "text": "ll.4 Interbank Clearing, Payment andSettlement Systems",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418,
+      11.999995231628418,
+      16.49999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      37.98,
+      100.17,
+      262.34,
+      194.31
+    ],
+    "text": "During 2003, the following main inter-bank clearing, paymentand settlement systems were in operation.o Central Bank Cunent Account Settlement System;o Real Time Gross Settlement (RTGS) Sysrem;. Sri Lanka Interbank payment System (SLPS);. LankaClear Cheque Clearing Systems;. Regional Cheque Clearing System; ando US Dollar Cheque Clearing System.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36.9,
+      201.02,
+      234.46,
+      224.64
+    ],
+    "text": "Central Bank Current Account SettlementSystem",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      36.0,
+      231.57,
+      260.74,
+      289.17
+    ],
+    "text": "The central Bank current Account Settlement System was inoperation until the launching of the Real rime Gross SettlementSystem on 08 September 2003. It settled 103 milliontransactions amounting to Rs. lz,i50billion during the periodfrom 0l January to 05 September 2003.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      35.82,
+      296.63,
+      246.18,
+      309.17
+    ],
+    "text": "Real Time Gross Settlement (RTGS) System.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31.86,
+      313.29,
+      259.5,
+      682.69
+    ],
+    "text": "The RTGS System is a computer based direct credit transferand settlement system, which processes and settles eachpayment instruction immediately and irrevocably usingbalances in the settlement accounts of the participantsmaintained at the centralBank. The RTGS system settled largevalue and time critical payments in sri Lanka rupees betweendirect participating institutions (including the central Bank)and customer to customer through a direct participatinginstitution. They included transactions in the call market,govemment securities market, foreign exchange market (rupeeleg), Central Bank open market operations, inter-bank netclearing obligations/claims under cheque and SLIpS clearingsystems and regional cheque clearing conducted by the regionaloffices of the central Bank. The net clearing values of all retailpayment systems settled via the RTGS System amounted to Rs.142 billion or 3 per cent of the total value of the RTGStransactions during the period of 08 September to endDecember 2003. Participants of the RTGS System effectedsome of their customer payments, particularly time criticalpayments of corporate customers, through the RTGS System.The total volume of transactions settled by the RTGSSystem during the period from 08 September to end December2003 was 38,454 with a rotal value of Rs. 4,210 billion. Theaverage volume and value of transactions settled per day was499 and Rs, 55 billion respectively, The central Bank operaredas well as participated in the RTGS System. The otherparticipants were 22 LCBs,8 non-bank pDsr and theEmployees' Provident Fund (EpF).The highest number of transactions recorded during theperiod from September 08 to end December 2003 was 659and the highest value was Rs.9l billion. out of the total",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      32.04,
+      692.71,
+      254.08,
+      712.88
+    ],
+    "text": "1 At end 2003 there were 11 pDs in government securities,con'sisting of 3 LCBs and 8 non bank pDs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      278.28,
+      239.41,
+      504.18,
+      356.85
+    ],
+    "text": "transactions, 3,735 transactions (or l0 per cent) amounting toRs.799 billion (or l9 per cent) were Central Banktransactions. The daily behavior of the volume and value ofRTGS transactions is shown in Chart ll.l and Chart 11.2,respectively and the hourly distribution of the RTGStransactions on an average business day is shown in ChartI 1.3.The RTGS system settled mainly large value payments.Almost all transactions settled were above Rs. I million. Withthe implementation of the RTGS system, large-value same-day",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      11.499995231628418,
+      12.999994277954102,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296.46,
+      373.41,
+      482.4,
+      406.75
+    ],
+    "text": "TABLE 11.2Transactions in RTGS Systemduring 08 September to end December 2009",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      276.48,
+      418.52,
+      418.09,
+      517.36
+    ],
+    "text": "Total transactionsTotal volume of transactionsTotal value of transactions in Rs. billionTransaction volume per dayAverage numberMaximum number (28.1 1.2003)Transaction value per dayAverage value in Rs. millionMaximum value in Rs. million. (01.10.2003)Value of ILF granted per dayAverage value in Rs. millionMaximum value in Rs. million (26.09.2003)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      465.84,
+      428.57,
+      487.25,
+      443.85
+    ],
+    "text": "38,4544,210",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      474.84,
+      453.62,
+      485.68,
+      468.58
+    ],
+    "text": "499659",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      464.94,
+      478.64,
+      485.0,
+      493.42
+    ],
+    "text": "54,67590,605",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      465.3,
+      503.66,
+      485.18,
+      518.26
+    ],
+    "text": "6,49013,334",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      395.46,
+      522.92,
+      499.93,
+      530.25
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.78,
+      188.98,
+      486.96,
+      219.27
+    ],
+    "text": "FEA\u20ac\u20ac\u20acA\u20ac\u20ac\u20ac\u20acU9oTNNNNRNddFR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      11.999995231628418,
+      17.49999237060547
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      315.18,
+      189.76,
+      365.48,
+      214.12
+    ],
+    "text": "(D (7) g) ct (taQee9sSSEeol c! (o (.i",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209,
+      10.499995231628418,
+      15.999993324279785
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      346.68,
+      235.15,
+      415.12,
+      245.05
+    ],
+    "text": "-Total -esnll6l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      427.14,
+      219.21,
+      440.89,
+      226.71
+    ],
+    "text": "gsnl",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.42,
+      732.56,
+      496.81,
+      745.56
+    ],
+    "text": "Central Bank of Sri Lanka Annual Report - 2003263",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.16,
+      41.55,
+      520.07,
+      50.6
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.28,
+      111.12,
+      291.88,
+      123.62
+    ],
+    "text": "Real Time Gross Settlement System and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.499995231628418,
+      11.999995231628418,
+      12.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      67.86,
+      133.93,
+      280.4,
+      144.07
+    ],
+    "text": "Foui main reforms introduced by the CBSL with the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.04,
+      147.15,
+      280.06,
+      179.3
+    ],
+    "text": "objective of enhancing the efficiency and lesilience of thefinrncial system will be offlcially inaugurated in Februarv2004.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.04,
+      182.79,
+      280.95,
+      227.93
+    ],
+    "text": "These retbrms include the introduction of,- Real Time Gloss Settlement (RTGS) system.- Scripless Securities Settlement (SSS) system andCentral Depository System (CDS) for",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.34,
+      231.06,
+      280.35,
+      288.41
+    ],
+    "text": "govemment secuiltres.- Automation of the General Ledser System(GLS) of the Central Bank.- .freasury Dealing Room Management System(TDRMS) of the Internationat Operirtions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      104.22,
+      291.15,
+      223.14,
+      299.65
+    ],
+    "text": "De partment of the Centrai Bank.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.04,
+      306.89,
+      274.31,
+      318.69
+    ],
+    "text": "Real'finre Gross Settlcment (RTGS) System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      11.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.04,
+      324.63,
+      280.57,
+      333.49
+    ],
+    "text": "The RTGS Sl,stem enables electronic, i.e., instantaneous",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.22,
+      336.51,
+      280.4,
+      369.47
+    ],
+    "text": "transf'er o1-large value and time criticirl payments betrveenparticipants. The settlement will be on r real time grossbasis. Once entries are recorded in the System, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.4,
+      372.13,
+      279.8,
+      393.66
+    ],
+    "text": "tlansaction becomes final zrnd ir-revocirble.The participants of the s)'stem include the CBSL,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.22,
+      395.89,
+      280.78,
+      417.44
+    ],
+    "text": "License d Commercial Banks (LCBs), Primary Dealers(PDs) and tw'o other institutional participants namely, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.4,
+      420.78,
+      279.07,
+      429.32
+    ],
+    "text": "Emlrloyees' Provident Fund (EPF) and Cerrtt'al Depository",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.58,
+      432.69,
+      241.92,
+      441.49
+    ],
+    "text": "System of'the Colonrbo Stock Exchange (CSE).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      86.76,
+      445.08,
+      280.09,
+      477.73
+    ],
+    "text": "Benefits to RTGS participants ale as tbllorvs:- immediate transfer- of funds.- Reduced inconvenience due to elimination ol the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      92.7,
+      479.97,
+      280.83,
+      537.31
+    ],
+    "text": "use of checlues in transactions w'ith the CBSL.- Improt'ement in liquiditl' management due to thetrmc Llg of tritnsacttons being reducedsignificantly.- Benefits o1'many'lbld increase in thc tulnover atid",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418,
+      12.999994277954102,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.76,
+      539.5,
+      280.78,
+      620.29
+    ],
+    "text": "volume ot' transactions and- Access to interest fl'ee Intra-day Liquidity Facility(ILF.I provided by the CBSL.There u,ill be signifrcant benefits to thc public at largetoo. They will benefit by,- The reduced cheque iloat.- Timely leceipt o1'proceeds due to them from",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      93.06,
+      623.64,
+      258.05,
+      644.23
+    ],
+    "text": "counterparties and- The ability to make time critical payments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.94,
+      652.57,
+      274.49,
+      663.23
+    ],
+    "text": "Scripless Securities Settlement (SSS) System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.94,
+      668.56,
+      279.42,
+      678.37
+    ],
+    "text": "Under this new system, all Treasurl, bills and Treasury",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      68.4,
+      680.98,
+      280.65,
+      690.48
+    ],
+    "text": "bonds will be issued in scripless form, A title registry, i.e.,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      467.64,
+      82.04,
+      502.36,
+      93.04
+    ],
+    "text": "Box 23",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      296.82,
+      110.97,
+      506.88,
+      123.33
+    ],
+    "text": "Scripless Securities Settlement System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.499995231628418,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      298.98,
+      134.14,
+      510.31,
+      155.99
+    ],
+    "text": "CDS of government securities, will be maintained by theCBSL. This will be known as LankaSecure. The SSS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.16,
+      158.47,
+      510.46,
+      179.57
+    ],
+    "text": "System will be interf'aced with the RTGS System to enribledelivery of securitie s against payment. Therefore, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.16,
+      182.05,
+      511.69,
+      191.29
+    ],
+    "text": "participants ot'the SSS system will be the same as those of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.16,
+      194.31,
+      511.56,
+      239.17
+    ],
+    "text": "the RTGS system. Each participant of the SSS system ri,illbe given a browser workstation. The mode ofcommunication in the RTGS/SSS systems will be theSWIFT messaging system, Each series of securities, i,e.,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.16,
+      241.6,
+      511.4,
+      251.1
+    ],
+    "text": "each maturity' of Treasury bill and Treasury bond issued iit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.16,
+      253.66,
+      510.4,
+      275.17
+    ],
+    "text": "each auction or primary issue, rvill hlve a con'espondingInternational Securities Identjfication Number (ISIN). All",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.34,
+      277.78,
+      511.12,
+      299.29
+    ],
+    "text": "securities in the SSS system and the CDS willbe identif iedby these numbers.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      313.2,
+      300.97,
+      510.88,
+      311.35
+    ],
+    "text": ", LankaSecule, [he CDS cir the title registry, will be",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      8.499996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.52,
+      313.63,
+      510.73,
+      322.63
+    ],
+    "text": "located in the Public Debt Department. Each palticipant will",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.52,
+      325.69,
+      511.08,
+      334.93
+    ],
+    "text": "have a securities account I'or their own account trading",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.34,
+      337.93,
+      511.08,
+      371.03
+    ],
+    "text": "purposes. In lddition tu orvn accounts, Primar-y Dealels andLicensed Commercial Banks lvill maintain accounts onbehiilf ol'their cust<lmers. Investors in qovernment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.52,
+      373.57,
+      508.72,
+      382.63
+    ],
+    "text": "seculities, i.e., individuals, corporates and institutional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.52,
+      385.63,
+      511.89,
+      407.05
+    ],
+    "text": "investors, w'iil have the tlexibility to maintain any numbero1'accounts with any one or more Plimary Dealer or it",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.52,
+      410.31,
+      455.64,
+      418.99
+    ],
+    "text": "commercial bank or a combination of bolh,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.7,
+      421.99,
+      511.18,
+      454.95
+    ],
+    "text": "The S.SS system rvill facilitirte lbul types of secondat'ynrarket trunsrctions. Tlrey are:- Outri-qht buyin-q and selhng, i.e., Delivery versus",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      317.7,
+      457.65,
+      509.73,
+      514.05
+    ],
+    "text": "Pay'ment (DVP) and Receil/e \\/ersus Payment.- Delivery tree and t'eceive fiee tt'ansacticlns.- Repo and let,else repo transactions.- Repositioning of securities.Treasurl,bill and Tt'easury bond aLrctions rvill continLte",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.88,
+      517.98,
+      509.98,
+      526.04
+    ],
+    "text": "to be conductecl electronically base d on a sy'stem developed",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.7,
+      529.47,
+      511.18,
+      562.03
+    ],
+    "text": "in-house by the CBSL. The quantity and value of securitiesbought by each PD rvill be enteted to the SSS systemautomatically inrmediateLy after the finalisttion of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.88,
+      564.75,
+      511.73,
+      573.61
+    ],
+    "text": "prinrary auction. Se ttlement ol'securitres by the CBSL with",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.7,
+      576.22,
+      511.53,
+      632.9
+    ],
+    "text": "PDs at the primuy auctions lvill take place on DVP basis.The DVP Iv{odel 2, i.e., rec:eipts are netted aguinstpayments. w'ill be used irlr this pulpose.The System rvill provide T+0 to T+i0 settLement,Whenever a settlement int,olving a tllnst'er of funds takes",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.88,
+      635.83,
+      510.39,
+      644.89
+    ],
+    "text": "place, the System rviil verify the buyer's account tor funds.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.88,
+      647.86,
+      512.41,
+      681.84
+    ],
+    "text": "The settlement will go through only il'the buyer's accounthls suftlcient funds fbr the transaction. The full amount ofthe transaction has to be settled at once. No parttal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      300.06,
+      685.17,
+      449.08,
+      693.67
+    ],
+    "text": "settlement r.r,ill be allowed bv the Svstem",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      56.34,
+      734.77,
+      522.48,
+      744.77
+    ],
+    "text": "264Central Bank of Sri Lanka Annual Report - 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      43.92,
+      38.82,
+      507.47,
+      54.45
+    ],
+    "text": "Parl lChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      41.94,
+      109.51,
+      267.12,
+      611.48
+    ],
+    "text": "Liquidiry fbr settlement wiil be avairabre ro pDs andLCBs fol intra-doy on a collateralised basis ancl free ofg res alued afo ued s.truc eneratedb the so whenayments are due. All paymen tsclients will be maclc to the SIr is the r.esponsibility of pD irtheir cusLomer accounts on fhe same da1, on which thesettlemenL has been made.Lankasecu'e wirl issue monthly sraremenr.s confir'minsthe transnctions thi.rt have taken place cluring rn. nronrn onJthe balance ar end ol'the month.. The exisring Treasury biils and r'easury bonds hercr bythe public will be dematerialised within the next fewmonths. be necessary for the SSS system [ooperate e The conversion tt.om scrip to scr.iplesswill be o not manclatory., However, holdei.s ofscrip secu'ities will not have the aclvantiLge of using thesystem to their benefir. Notices will be puutirn.a in theGovernment Gazette and nervspapef s regiirding theconvet'slon process.The benefits of the SSS system ar.c els follou,s :, . Investorii' r-isks associated with holding andtrading paper-based secur.itjes will be totallyeliminated,- Inveslorwill not experience the inconvenience ofdealing with paper based certificates ofgovernmenI securities, such as saf'e keeping,endorsemenl and physicd deliverl, in Lhe eveirt: of a lrrde.- The new System ivill operate on DVp basis, i.e..secuntres will be delivered rhr,ough the SSSsy-stem imnrediately upon confirmution of, payment through the IiTGS system.- Investors will receive securities on the same dlryof the rs.sue 'nrike in the case ot'scrip securitiesat plesent, which involves a time la,e.- The CDS will maintain separate accounts fbl each: : individual investorand will function as thecustodian of' all government securities, thus",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418,
+      11.999995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      413.82,
+      89.68,
+      491.32,
+      102.69
+    ],
+    "text": "I ox 2g (contd.)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      11.499995231628418,
+      12.999994277954102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      321.12,
+      115.14,
+      495.95,
+      136.69
+    ],
+    "text": "eliminating the investor's risk of physical holdingand minimising the cost of safe[eeping.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      307.44,
+      140.62,
+      496.57,
+      248.49
+    ],
+    "text": "Investors will not run the r-isk of either failing tore-invest the funds or collect matul.ity,proce.di orcoupon interest payments, as the CDS willautomatically generate the relevant reportsregarding all such payments due to the investorwelI in advance.- The efticiency of the System rvillsave time takenin executtng a trade and wili improve Iiquidity inthe government debt securities market.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      306.36,
+      264.15,
+      495.13,
+      312.25
+    ],
+    "text": "buying and selling pr.ices due to reduced cosf ofintermedintion and enhanced liquidity.- The System will also facilitate the surveillance ofthe market and supervision of pDs.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      281.16,
+      321.83,
+      488.72,
+      357.89
+    ],
+    "text": "General Ledger System (GLS) and TreasuryDealing Room Management System(TDRMS)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      276.84,
+      364.36,
+      492.86,
+      612.8
+    ],
+    "text": "The othel two systems introduced, namely GLS andTDRMS, are internal sl,stems of the CBSL. It must benrentioned that, under the GLS, all cBSL internal accountshave been automated ancl brought into a computer basedelectronic system. As a result, the issue of cheques forpayment and issue ol'vouchers 1o. rewo'cling accounti'*qentries have ceascd, thus bringing about considerableel'ficiency to the accounting system of the CBSL. TheTDI{MS p'ovides fbr automatcci transacrion capture directlyli'onr tradi.g screens such as Reuters and Bloomberg. Theanalytics avirilable in this system include:- Real time r.isk monitoring and assessmentcapahilities and- Several nrathematical modelling tools for r.iskmanagenrent that rnay be used lb'enhancing the quality ofinvestment clecisiotrs.The TDRMS lvili also ploi,ide for. automatedsettlement p.ocedure. This system will thus 'esult inrnininrising the risks and enhancing efiiciency andproductivity in reserve managentent, ivhilst providing anefflcient settle mcnt systenl.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418,
+      11.999995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      30.78,
+      732.0,
+      498.54,
+      748.37
+    ],
+    "text": "Central Bank of Sri Lanka Annual Report _ 2003265",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.66,
+      43.89,
+      515.21,
+      55.17
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.4999985694885254,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.3,
+      75.0,
+      275.54,
+      96.55
+    ],
+    "text": "payments that were earlier cleared through SLIPS were shiftedto the RTGS System. There was a substantial drop in large",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.66,
+      97.21,
+      276.16,
+      108.38
+    ],
+    "text": "value SLIPS transactions particularly those of more than Rs. l0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.48,
+      111.67,
+      276.43,
+      132.77
+    ],
+    "text": "million.The RTGS System allowed queuing of payment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      11.499995231628418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.84,
+      133.99,
+      276.46,
+      144.67
+    ],
+    "text": "instructions, i.e., a participant enters payment messages ln",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.84,
+      146.61,
+      275.88,
+      156.8
+    ],
+    "text": "advance pending incoming funds. During the period under",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.84,
+      159.37,
+      258.49,
+      168.79
+    ],
+    "text": "review, the proportion of queued transactions was small.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.46,
+      351.71,
+      193.35,
+      363.89
+    ],
+    "text": "Intraday Liquidity Facility (ILF)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.46,
+      367.78,
+      277.1,
+      378.43
+    ],
+    "text": "Having consideled the liquidity requirements of the RTGS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.46,
+      380.64,
+      278.37,
+      389.72
+    ],
+    "text": "participants to effect payment instructions instantaneously, and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.82,
+      391.59,
+      276.94,
+      401.6
+    ],
+    "text": "the importance of smooth operations of the system to achieve",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      53.82,
+      403.09,
+      276.79,
+      413.71
+    ],
+    "text": "its objectives, the Central Bank provided intraday liquidity",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.0,
+      415.56,
+      277.62,
+      425.07
+    ],
+    "text": "under the Intraday Liquidity Facility to the participants against",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.0,
+      427.65,
+      278.43,
+      437.24
+    ],
+    "text": "collateral of government securities and on an interest-free basis.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.0,
+      438.96,
+      279.04,
+      448.87
+    ],
+    "text": "During the period from 08 September to end December 2003,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55.26,
+      451.02,
+      279.14,
+      461.05
+    ],
+    "text": "l7 participating institutions obtained ILF amounting to Rs.500",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.36,
+      462.67,
+      278.26,
+      473.29
+    ],
+    "text": "billion with a highest daily value of Rs'13 billion and a datly",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.54,
+      473.44,
+      278.87,
+      484.87
+    ],
+    "text": "average of Rs. 6.5 billion. As shown in Chart 11.4, ILF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.54,
+      486.84,
+      278.63,
+      496.28
+    ],
+    "text": "obtained by participating institutions recorded a declining trend",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.72,
+      500.34,
+      279.19,
+      519.91
+    ],
+    "text": "over ttme.The additional liquidity created under ILF helped to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55.08,
+      521.4,
+      279.34,
+      531.45
+    ],
+    "text": "smoothen the settlement process of individual payments in the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.9,
+      533.07,
+      279.15,
+      555.01
+    ],
+    "text": "RTGS System and allowed LCBs to further optimise theirliquidity management.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.3,
+      70.31,
+      512.44,
+      84.22
+    ],
+    "text": "Sri Lanka Interbank Payment System (SLPS)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.999996185302734,
+      10.999995231628418,
+      11.499995231628418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.48,
+      88.42,
+      518.09,
+      98.89
+    ],
+    "text": "SLPS, which was introduced in 1994 and has been operating",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.66,
+      99.91,
+      518.3,
+      111.11
+    ],
+    "text": "as an offline inter-bank payment clearing system on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.66,
+      112.77,
+      518.05,
+      122.89
+    ],
+    "text": "multilateral net settlement basis, continued clearing of the pre-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.84,
+      124.86,
+      516.35,
+      134.66
+    ],
+    "text": "authorised low value bulk payments informed by participating",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.66,
+      136.66,
+      518.77,
+      146.95
+    ],
+    "text": "LCBs and the Central Bank in magnetic tapes/diskettes to",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      294.84,
+      148.39,
+      518.96,
+      158.78
+    ],
+    "text": "LankaClear. It facilitated LCBs, the Central Bank as well as",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.02,
+      161.19,
+      519.1,
+      171.02
+    ],
+    "text": "customers of LCBs to transfer funds by directly debiting the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.02,
+      172.3,
+      518.17,
+      183.01
+    ],
+    "text": "respective account and crediting of an account of another",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.2,
+      186.01,
+      437.74,
+      195.14
+    ],
+    "text": "customer of another participating bank.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      313.38,
+      196.81,
+      519.43,
+      206.84
+    ],
+    "text": "The total value of transactions cleared in SLIPS, which",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.38,
+      208.74,
+      520.42,
+      218.72
+    ],
+    "text": "recorded a 20 per cent drop tn2002, declined further by 27 per",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.56,
+      220.59,
+      519.81,
+      230.78
+    ],
+    "text": "cent to Rs.979 billion in 2003 as LCBs moved to settle their",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      296.46,
+      231.88,
+      519.02,
+      242.59
+    ],
+    "text": "'same day value' large inter-bank transactions in the RTGS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.74,
+      243.97,
+      518.78,
+      254.72
+    ],
+    "text": "System. Accordingly, the share of large value (above Rs.l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.92,
+      256.95,
+      518.87,
+      266.53
+    ],
+    "text": "mllion) transactions in the total number of transactions cleared",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.92,
+      269.19,
+      519.06,
+      278.84
+    ],
+    "text": "in SLIPS declined from L4 per cent in the first quarter of 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.92,
+      280.74,
+      520.74,
+      303.12
+    ],
+    "text": "to 0.2 per cent in the fourth quarter of 2003. The total numberof direct credits, which were used mainly for payment of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      296.28,
+      304.86,
+      519.42,
+      314.55
+    ],
+    "text": "salaries, dividends and pensions, continued to increase in 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      296.1,
+      316.92,
+      520.16,
+      326.83
+    ],
+    "text": "but the total value continued to decline and reached Rs.979",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      296.28,
+      330.01,
+      351.04,
+      339.01
+    ],
+    "text": "billion in 2003.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.26,
+      530.81,
+      476.52,
+      541.96
+    ],
+    "text": "LankaClear Cheque Clearing Systems",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.26,
+      549.55,
+      428.71,
+      559.55
+    ],
+    "text": "Main Cheque Clearing System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.62,
+      563.08,
+      522.68,
+      574.38
+    ],
+    "text": "In terms of Section I l2(B) of the Monetary Law Act, the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.44,
+      576.3,
+      522.65,
+      586.1
+    ],
+    "text": "Central Bank authorised LankaClear to provide cheque clearing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.62,
+      588.36,
+      522.53,
+      598.27
+    ],
+    "text": "facilities viz. sorting, exchanging of articles (cheques or drafts)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.98,
+      599.67,
+      523.03,
+      610.28
+    ],
+    "text": "among participating LCBs, balancing of amounts expressed in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.16,
+      611.91,
+      522.9,
+      634.5
+    ],
+    "text": "those articles, calculating of net balances and providing suchinformation to the Central Bank and LCBs. The process",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      298.98,
+      635.23,
+      522.88,
+      646.33
+    ],
+    "text": "required physical movement of cheques' All LCBs and the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.34,
+      648.48,
+      522.71,
+      658.1
+    ],
+    "text": "Central Bank participated in the main cheque clearing system",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.34,
+      661.41,
+      523.18,
+      681.5
+    ],
+    "text": "of LankaClear.The majority of cheques written against balances of rupee",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.7,
+      683.76,
+      524.06,
+      693.38
+    ],
+    "text": "accounts and drawn on LCBs were presented and cleared on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.7,
+      695.61,
+      523.58,
+      705.67
+    ],
+    "text": "multilateral net settlement basis through the main cheque",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      299.88,
+      706.18,
+      524.52,
+      717.55
+    ],
+    "text": "clearing system operated by LankaClear. The sorting of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      80.1,
+      230.32,
+      92.61,
+      235.32
+    ],
+    "text": "25o/o",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      67.86,
+      243.84,
+      92.87,
+      264.33
+    ],
+    "text": "2Oo/ooc\u20ac t5o/o",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051,
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.04,
+      269.79,
+      93.23,
+      289.38
+    ],
+    "text": "2 too/og- 5o/o",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.499997615814209,
+      5.999997615814209,
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      84.06,
+      299.31,
+      257.23,
+      316.18
+    ],
+    "text": "Oo/oI OO- 9 (xF 10 OO- l1 (x)- 12 0(} 13 00' 14 uF rs (xF9.OO rO m lr m l2,oo r3 m 14 0o 15 00 16 oo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      3.4999985694885254,
+      3.9999983310699463,
+      4.499998092651367,
+      5.499997615814209,
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      163.08,
+      320.32,
+      196.4,
+      325.68
+    ],
+    "text": "Business Houl",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      488.34,
+      396.87,
+      508.62,
+      447.29
+    ],
+    "text": "o300 r,(r2oo 2ooloo 3c(!",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051,
+      7.499996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      504.54,
+      452.9,
+      508.88,
+      472.9
+    ],
+    "text": "ooE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      305.82,
+      390.34,
+      325.85,
+      466.51
+    ],
+    "text": "600oF s00I ooo\u20ac 3oooE zoocg 1ooiooz",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051,
+      8.499996185302734,
+      8.999996185302734,
+      10.499995231628418,
+      11.499995231628418,
+      11.999995231628418,
+      13.499994277954102
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      352.44,
+      501.01,
+      357.94,
+      510.01
+    ],
+    "text": "-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      351.18,
+      473.11,
+      462.41,
+      500.83
+    ],
+    "text": "No. of transactions in 2002.tttltttt' No. of transactions in 2003r - - Value of transactions in 2002",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      5.499997615814209,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      388.98,
+      498.85,
+      462.41,
+      504.89
+    ],
+    "text": "Value of transactions in 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      5.499997615814209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.8,
+      596.43,
+      80.41,
+      604.93
+    ],
+    "text": "l6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.8,
+      608.8,
+      80.47,
+      614.8
+    ],
+    "text": "14",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.8,
+      618.52,
+      80.47,
+      624.52
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      62.64,
+      628.24,
+      80.83,
+      652.21
+    ],
+    "text": "10c_ogo(r6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.58,
+      659.64,
+      80.08,
+      664.14
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.76,
+      669.0,
+      80.26,
+      673.5
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.58,
+      664.56,
+      232.8,
+      708.4
+    ],
+    "text": "0 HggSSFRREbNE55F5;E-otc{",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209,
+      14.999993324279785,
+      23.999990463256836
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.34,
+      736.37,
+      522.66,
+      749.09
+    ],
+    "text": "266Central Bank of Sri Lanka Annual Report - 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      46.26,
+      37.59,
+      509.81,
+      54.09
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      159.66,
+      69.37,
+      396.51,
+      94.43
+    ],
+    "text": "TABLE 11.3volume and varue of rransactions creared under sLrps",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.28,
+      102.23,
+      471.1,
+      113.26
+    ],
+    "text": "ItemTotalVolume ('000)Total Value (Rs. bn.)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      43.2,
+      119.0,
+      502.46,
+      179.43
+    ],
+    "text": "% Change% ChangeTransactions by sizeAbove Rs.1 mn.Below Rs.1 mn.Transactions by typeCredit transactionsDebit transactions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.72,
+      183.98,
+      69.17,
+      190.48
+    ],
+    "text": "Total",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      42.48,
+      194.96,
+      157.72,
+      203.8
+    ],
+    "text": "Average transactions cleared per day",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      236.34,
+      140.42,
+      258.53,
+      154.66
+    ],
+    "text": "24.81,583.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235.98,
+      167.96,
+      257.66,
+      174.46
+    ],
+    "text": "1,606.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      249.12,
+      177.73,
+      256.76,
+      183.23
+    ],
+    "text": "2.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      235.44,
+      187.94,
+      257.12,
+      194.44
+    ],
+    "text": "1,608.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      248.58,
+      199.64,
+      257.61,
+      206.14
+    ],
+    "text": "6.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      294.3,
+      138.08,
+      306.95,
+      144.58
+    ],
+    "text": ".t9.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      284.4,
+      149.24,
+      306.08,
+      155.74
+    ],
+    "text": "1,997.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283.5,
+      169.04,
+      305.18,
+      175.54
+    ],
+    "text": "2,015.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      297.54,
+      178.42,
+      305.88,
+      184.42
+    ],
+    "text": "1.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      283.14,
+      189.4,
+      304.49,
+      195.4
+    ],
+    "text": "2,O17.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      296.82,
+      200.72,
+      305.85,
+      207.22
+    ],
+    "text": "8.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      379.62,
+      143.32,
+      401.27,
+      157.72
+    ],
+    "text": "1,309.126.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      378.9,
+      171.02,
+      400.73,
+      186.34
+    ],
+    "text": "1,335.70.06",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      378.72,
+      190.82,
+      400.4,
+      197.32
+    ],
+    "text": "1,335.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      391.5,
+      202.52,
+      400.53,
+      209.02
+    ],
+    "text": "5.5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      433.26,
+      172.1,
+      449.69,
+      187.24
+    ],
+    "text": "979.30.08",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      433.08,
+      191.9,
+      449.34,
+      198.4
+    ],
+    "text": "979.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      440.46,
+      204.19,
+      448.1,
+      209.69
+    ],
+    "text": "4.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      433.8,
+      143.43,
+      499.89,
+      159.88
+    ],
+    "text": "-28389427366",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      346.32,
+      142.04,
+      355.71,
+      157.0
+    ],
+    "text": "-2326",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      344.88,
+      170.48,
+      354.45,
+      184.72
+    ],
+    "text": "25-16",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      346.86,
+      190.28,
+      354.09,
+      196.78
+    ],
+    "text": "25",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      346.68,
+      201.44,
+      353.91,
+      207.94
+    ],
+    "text": "25",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      489.78,
+      172.64,
+      499.17,
+      179.14
+    ],
+    "text": "-27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      491.76,
+      182.59,
+      497.88,
+      188.09
+    ],
+    "text": "31",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      489.42,
+      192.26,
+      498.81,
+      198.76
+    ],
+    "text": "-27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      489.24,
+      203.78,
+      498.63,
+      210.28
+    ],
+    "text": "-27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      39.78,
+      230.01,
+      266.54,
+      349.4
+    ],
+    "text": "cheques by bank and branch leveland occasionaily to customerlevel was done with MICR technorogy and by computerisedcheque reader /sorter machines.The inter-bank net clearing obligations/craims of LCBswere irrevocably settled in the RTGS system on the workingday immediately following the day on which the cheques werepresented and cleared by LankaClear.The total number of cheques creared at the main chequeclearing system showed a 3 per cent growth in 2003. The toiarvalue of cheques cleared increased by l0 per cent to Rs.2,677",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      415.8,
+      219.8,
+      508.43,
+      228.82
+    ],
+    "text": "Source: LankaCtear (pvt ) Ltd.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      279.18,
+      234.43,
+      508.95,
+      526.04
+    ],
+    "text": "billion in2003 and it was more than one and a half times higherthan the GDP in 2003. The total number and varue of largevalue cheques (above Rs.l million) cleared at the main chequeclearing system continued to be about I per cent and 56 percent, respectively, in 2003 as welr. The average number ofcheques cleared per day, which recorded a marginal drop in2002, increased by 3 per cent to l5l,3g3 in 2003. The numberof days of cheque realisation was governed by the chequerealisation time schedule determined by Lankaclear inconsultation with LCBs. It varied fr.om I to l0 days. About g2per cent of cheque realisation was done within 3 days.Settlement Clearing SystemAll cheques dishonoured by the respective paying banks at themain cheque clearing system were treated as unpaid returneditems at the Settlement clearing system, which was usuallyheld at 1,30 p,m. on the working day following the day of themain cheque clearing. Lankaclear manually clear.ed these itemson multilateral net settlement basis and clearing balances weretransmitted to the central Bank to update the se ttlementaccounts of the participating LCBs in the RTGS system atabout 2,15 p.m. on the same day. The totar varue ofchequescleared at the settlement clearing system in 2003 was aboutRs.34.8 billion or about I per cent of the total value of chequescleared at the main cheque cleanng system,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      173.52,
+      575.37,
+      362.46,
+      598.79
+    ],
+    "text": "TABLE 11.4Main Cheque Glearing System of LankaClear",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      44.64,
+      400.93,
+      70.55,
+      427.53
+    ],
+    "text": "1 0000o3 esoo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      5.499997615814209,
+      7.499996662139893,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      45.18,
+      426.18,
+      69.65,
+      451.97
+    ],
+    "text": "69 soooooo 8500",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.499997615814209,
+      5.999997615814209,
+      7.499996662139893,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      43.74,
+      459.71,
+      69.47,
+      470.21
+    ],
+    "text": "2 oooo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      234.9,
+      404.12,
+      253.6,
+      427.83
+    ],
+    "text": "7s0 a!too &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      233.82,
+      433.95,
+      253.07,
+      456.5
+    ],
+    "text": "oso 3ctq,600 o",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.999997615814209,
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      87.12,
+      462.1,
+      251.42,
+      514.0
+    ],
+    "text": "o550 :(ulst Qtr 2nd et. 3rct etr 4th etrL\\\\\\\\\\\\\\\\r No. of ChequeS 2002II No.of Cheques2003Val. of Cheques 2002r r r Val.ofCheques20O3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.9999983310699463,
+      4.499998092651367,
+      4.999998092651367,
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      255.78,
+      603.71,
+      461.38,
+      614.2
+    ],
+    "text": "TotalVolume ('000)TotalValue (Rs. bn.)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      34.02,
+      620.3,
+      492.38,
+      662.32
+    ],
+    "text": "% Change2003o/o ChangeClearing of cheques by sizeAbove Rs. 100 mn.Rs. 1 mn. to Rs. 100 mn.Below Rs. 1 mn.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      45.18,
+      668.36,
+      59.63,
+      674.86
+    ],
+    "text": "Total",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      32.94,
+      681.5,
+      135.66,
+      690.09
+    ],
+    "text": "Average cheque clearing per day",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222.12,
+      642.85,
+      248.0,
+      665.32
+    ],
+    "text": "1.127',t.435,214.8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      221.94,
+      672.32,
+      247.24,
+      678.82
+    ],
+    "text": "35,487.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231.84,
+      685.64,
+      248.1,
+      692.14
+    ],
+    "text": "147.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      270.18,
+      642.26,
+      297.01,
+      666.46
+    ],
+    "text": "'t.2910.636,171 .6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      269.82,
+      672.83,
+      297.06,
+      679.83
+    ],
+    "text": "36,483.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      279.72,
+      686.72,
+      295.98,
+      693.22
+    ],
+    "text": "151.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      338.04,
+      644.62,
+      345.27,
+      667.66
+    ],
+    "text": "8143",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      341.1,
+      675.04,
+      344.44,
+      681.04
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      370.44,
+      644.78,
+      392.46,
+      668.2
+    ],
+    "text": "364.51,009.61,071.8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      369.72,
+      675.02,
+      391.4,
+      681.52
+    ],
+    "text": "2,444.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      379.62,
+      687.95,
+      391.3,
+      694.95
+    ],
+    "text": "101",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      423.0,
+      642.59,
+      491.92,
+      653.09
+    ],
+    "text": "345.9 _5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      417.24,
+      651.23,
+      491.86,
+      670.06
+    ],
+    "text": "1 ,'l 55.4 1 51,175.2 10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.9999983310699463,
+      4.499998092651367,
+      4.999998092651367,
+      5.999997615814209,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      416.52,
+      673.19,
+      491.61,
+      683.69
+    ],
+    "text": "2,67t 6 10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      426.42,
+      689.42,
+      491.05,
+      696.88
+    ],
+    "text": "11 110",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      402.3,
+      703.38,
+      497.91,
+      712.48
+    ],
+    "text": "Source: LankaClear (pvt.) Ltd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      30.96,
+      730.2,
+      498.25,
+      747.72
+    ],
+    "text": "Central Bank of Sri Lanka Annual Report _ 2OOg267",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209,
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53.64,
+      42.42,
+      517.55,
+      54.09
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.4999985694885254,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.74,
+      72.81,
+      188.29,
+      81.31
+    ],
+    "text": "TABLE 11.5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.7,
+      85.18,
+      265.32,
+      95.65
+    ],
+    "text": "Cheque Realisation Time Schedule at end 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      74.88,
+      100.97,
+      259.32,
+      119.38
+    ],
+    "text": "No. of DaysNumber of PercentageBank Branches",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      233.1,
+      126.02,
+      246.45,
+      182.56
+    ],
+    "text": "38.622521.19.93.43.60.8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      7.499996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      85.86,
+      193.9,
+      177.91,
+      200.74
+    ],
+    "text": "Total1,080",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      185.4,
+      203.75,
+      278.21,
+      212.01
+    ],
+    "text": "Source: LankaClear (Pvt.) Ltd.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54.9,
+      228.59,
+      178.64,
+      239.09
+    ],
+    "text": "Rupee Draft Clearing System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.08,
+      242.71,
+      277.93,
+      254.11
+    ],
+    "text": "Cheques/drafts of foreign banks drawn on their 'nostro'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.26,
+      255.49,
+      277.59,
+      265.88
+    ],
+    "text": "accounts with LCBs in Sri Lanka and in favour of customers",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.26,
+      267.78,
+      278.99,
+      277.76
+    ],
+    "text": "of LCBs in Sri Lanka were cleared manually at the rupee draft",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.26,
+      279.45,
+      279.78,
+      289.57
+    ],
+    "text": "clearing system conducted by LankaClear' The net clearing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.26,
+      291.51,
+      279.8,
+      301.39
+    ],
+    "text": "balances of this clearing were settled at the RTGS System at",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.62,
+      303.63,
+      279.46,
+      313.09
+    ],
+    "text": "about 2. l5 p. m. The total value of cheques cleared at the rupee",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.62,
+      315.07,
+      227.58,
+      325.21
+    ],
+    "text": "draft clearing system in 2003 was Rs. 4 billion'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.8,
+      333.53,
+      214.21,
+      344.39
+    ],
+    "text": "Regional Cheque Clearing SYstem",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.8,
+      349.65,
+      278.46,
+      359.41
+    ],
+    "text": "The Regional Offices of the Central Bank at Anuradhapura,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.98,
+      361.92,
+      280.35,
+      371.36
+    ],
+    "text": "Matara and Matale continued their regional clearing of cheques",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.98,
+      373.41,
+      280.29,
+      383.47
+    ],
+    "text": "plesented by LCBs operating in the respective regions' Net",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.16,
+      385.65,
+      279.48,
+      395.59
+    ],
+    "text": "clearing obligations/claims of LCBs under regional cheque",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.34,
+      397.09,
+      279.58,
+      407.77
+    ],
+    "text": "clearing were settled in the RTGS System. During 2003,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.34,
+      409.77,
+      280.71,
+      419.24
+    ],
+    "text": "regional clearing system cleared 1.3 million cheques amounting",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.7,
+      421.27,
+      280.42,
+      431.41
+    ],
+    "text": "to Rs.5l billion against conesponding values of 1.4 million and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.7,
+      434.05,
+      138.96,
+      443.41
+    ],
+    "text": "Rs.47 billion in2002.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.88,
+      451.4,
+      222.26,
+      462.4
+    ],
+    "text": "US Dollar Cheque Clearing SYstem",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418,
+      10.999995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.88,
+      466.99,
+      281.32,
+      477.72
+    ],
+    "text": "The US Dollar Cheque Clearing System launched by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.06,
+      479.46,
+      280.86,
+      489.37
+    ],
+    "text": "LankaClear in2002 is a semi-computerised small value retail",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.24,
+      490.54,
+      281.17,
+      501.55
+    ],
+    "text": "level clearing system for cheques and drafts in US dollars",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.42,
+      502.6,
+      281.14,
+      513.54
+    ],
+    "text": "issued by LCBs in Sri Lanka and payable to Sri Lankan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.6,
+      515.85,
+      281.76,
+      525.55
+    ],
+    "text": "individuals/institutions; and issued by banks/exchange houses",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.6,
+      526.87,
+      280.3,
+      537.61
+    ],
+    "text": "abroad and drawn on LCBs in Sri Lanka' The relatively",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.6,
+      539.4,
+      282.05,
+      549.2
+    ],
+    "text": "expeditious and cost-effective clearing process introduced by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.78,
+      551.1,
+      281.59,
+      560.65
+    ],
+    "text": "the US Dollar Cheque Clearing System helped LCBs to reduce",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.78,
+      562.41,
+      281.82,
+      572.6
+    ],
+    "text": "clearing and settlement time trom 3 weeks to about 4 working",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.96,
+      574.09,
+      282.33,
+      584.64
+    ],
+    "text": "days. At end 2003, 16 LCBs participated in the system and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.32,
+      585.45,
+      281.39,
+      596.18
+    ],
+    "text": "settled their net clearing obligations/claims in their 'nostro'",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.32,
+      598.05,
+      282.43,
+      608.06
+    ],
+    "text": "accounts at the Sampath Bank Ltd., the settlement bank. In",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.32,
+      610.11,
+      282.51,
+      620.23
+    ],
+    "text": "2003, the US Dollar Cheque Clearing System cleared and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.68,
+      621.43,
+      281.59,
+      631.93
+    ],
+    "text": "settled 86,104 cheques and drafts amounting to Rs. 10,678",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.68,
+      634.95,
+      184.43,
+      644.29
+    ],
+    "text": "million (US dollars I10.6 million).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.86,
+      651.74,
+      252.71,
+      679.12
+    ],
+    "text": "11.5 Securities Trading, Clearing andSettlement Systems",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.499995231628418,
+      10.999995231628418,
+      11.499995231628418,
+      11.999995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59.04,
+      682.73,
+      283.81,
+      694.44
+    ],
+    "text": "The Colombo Stock Exchange (CSE), the only stock",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.999996185302734,
+      9.499996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59.04,
+      695.79,
+      282.43,
+      706.09
+    ],
+    "text": "exchange in the country, operates an Automated Trading",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      59.22,
+      707.23,
+      283.13,
+      718.04
+    ],
+    "text": "System (ATS), which was inaugurated in 1997 for real time",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      296.46,
+      71.94,
+      520.48,
+      117.13
+    ],
+    "text": "trading of corporate equity and debt securities listed on CSE.CSE also commenced a Debt Securities Trading System(DEX) in June 2003r.At end 2003, there were 260 types of equities and 38 types",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      296.82,
+      119.28,
+      519.64,
+      129.08
+    ],
+    "text": "of corporate debt securities of companies listed on CSE' During",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.18,
+      129.61,
+      521.01,
+      140.24
+    ],
+    "text": "the year 2003, 254 types of equities and I9 corporate debt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.18,
+      142.29,
+      519.47,
+      152.01
+    ],
+    "text": "securities were traded. The total value and volume of securities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.36,
+      153.43,
+      520.63,
+      163.75
+    ],
+    "text": "transactions traded on the ATS recorded nearly a twofold",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.18,
+      165.28,
+      521.2,
+      199.19
+    ],
+    "text": "increase when compared with 2002 and amounted Rs.73.8billion and,2,225 million respectively during 2003. Trading inequity shares dominated as corp0rate debt securities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.54,
+      200.79,
+      521.55,
+      210.55
+    ],
+    "text": "contributed less than one per cent in both the total value and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.9,
+      211.95,
+      521.77,
+      222.55
+    ],
+    "text": "volume of securities transactions. Thcugh DEX has been in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      297.9,
+      224.37,
+      521.58,
+      234.2
+    ],
+    "text": "operation since June 2003, there was no trading of government",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.08,
+      236.43,
+      521.3,
+      246.08
+    ],
+    "text": "securities in 2003. The types of securities eligible to be traded",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.08,
+      247.18,
+      520.14,
+      258.01
+    ],
+    "text": "in the DEX include the 'beneficial interest' of government",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.26,
+      259.89,
+      522.07,
+      269.37
+    ],
+    "text": "securities (Treasury bills and Treasury bonds), securities issued",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.26,
+      270.99,
+      521.59,
+      292.86
+    ],
+    "text": "by the Central Bank and corporate debt securities. Culrentlyonly 'beneficial interest' of government securities is being",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.44,
+      293.08,
+      522.23,
+      303.93
+    ],
+    "text": "traded in the DEX. Corporate debt securities listed on CSE will",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.62,
+      306.27,
+      429.7,
+      315.56
+    ],
+    "text": "also be traded through DEX shortly.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      316.62,
+      317.25,
+      522.65,
+      326.97
+    ],
+    "text": "To encourage the development of the market tor difterent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.98,
+      328.77,
+      521.07,
+      339.03
+    ],
+    "text": "types of securities, the Central Bank has taken a policy decision",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.8,
+      339.91,
+      523.39,
+      350.66
+    ],
+    "text": "to appoint the Central Depository Systems (Pvt.) Ltd. (CDS) of",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      298.98,
+      352.38,
+      522.87,
+      362.25
+    ],
+    "text": "the CSE as a direct participant in the LankaSettle System' CDS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.16,
+      364.44,
+      522.03,
+      374.29
+    ],
+    "text": "is a fully owned subsidiary of CSE, that operates an electronic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.499997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.16,
+      375.7,
+      523.36,
+      386.17
+    ],
+    "text": "clearing and settlement system for securities transactions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.16,
+      388.17,
+      522.83,
+      409.27
+    ],
+    "text": "carried out through ATS and DEX.At end 2003, 32 organisations participated in the clearing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.7,
+      410.05,
+      523.57,
+      420.86
+    ],
+    "text": "and settlement system. This included l5 stockbrokers and I7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      299.7,
+      422.94,
+      523.75,
+      455.94
+    ],
+    "text": "custodian banks. Each securities ttansaction executed throughDEX has to be entered into the system through a stockbrokeror an exclusive trading member of DEX. However, only",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.06,
+      456.7,
+      523.07,
+      467.59
+    ],
+    "text": "stockbrokers are eligible to operate ATS for their clients.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.06,
+      469.35,
+      522.4,
+      479.36
+    ],
+    "text": "Customers could operate CDS accounts through custodian",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.24,
+      480.31,
+      524.31,
+      490.99
+    ],
+    "text": "banks in addition to the above stockbrokers and trading",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.6,
+      491.44,
+      523.5,
+      502.51
+    ],
+    "text": "members, and custodian banks too participate in clearing",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.42,
+      506.1,
+      524.68,
+      525.62
+    ],
+    "text": "through CDS.Both ATS and DEX systems are diLectly connected to the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.6,
+      527.44,
+      524.39,
+      537.91
+    ],
+    "text": "clearing and settlement system of CDS and matched trade",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.6,
+      539.19,
+      523.07,
+      549.2
+    ],
+    "text": "details are stored in CDS. Clearing and settlement of securities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      300.96,
+      549.99,
+      524.61,
+      560.11
+    ],
+    "text": "traded in ATS are completed on real time by changing the title",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.14,
+      561.33,
+      525.19,
+      572.29
+    ],
+    "text": "of underlying securities in CDS. The settlement of tunds in",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.14,
+      572.44,
+      524.64,
+      583.45
+    ],
+    "text": "respect of equity transactions take place on the flfth working",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.14,
+      584.55,
+      525.0,
+      594.92
+    ],
+    "text": "day after the trade date (T+5) for the buyer and sixth working",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.32,
+      595.66,
+      524.5,
+      606.85
+    ],
+    "text": "day after the trade date (T+6) for the seller. The inter-",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.5,
+      608.13,
+      525.27,
+      617.96
+    ],
+    "text": "participant settlement also takes place on the sixth working day",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.68,
+      619.63,
+      525.69,
+      629.77
+    ],
+    "text": "after the trade date (T+6) through CDS. For corpot'ate debt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.68,
+      631.56,
+      525.81,
+      641.72
+    ],
+    "text": "securities traded in the ATS, the settlement date for both seller",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.86,
+      641.95,
+      524.53,
+      652.94
+    ],
+    "text": "and the buyer is the first working day after the trade date (T+l).",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.86,
+      654.96,
+      526.05,
+      665.3
+    ],
+    "text": "Custodian banks have the exclusive privilege of confirming or",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      301.86,
+      667.2,
+      525.0,
+      677.18
+    ],
+    "text": "rejecting the matched equity trades of their clients on the fourth",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.04,
+      678.43,
+      526.2,
+      689.35
+    ],
+    "text": "working day after the trade date (T+4). If the custodian bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.999996662139893,
+      8.499996185302734,
+      9.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      302.76,
+      696.85,
+      526.34,
+      716.3
+    ],
+    "text": "1 The trading of government securitieslaunched on 03 March 2004.at DEX was officiallY",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      167.76,
+      126.76,
+      179.44,
+      184.01
+    ],
+    "text": "4172432281073739I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051,
+      6.999997138977051,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      129.62,
+      100.54,
+      141.58
+    ],
+    "text": "12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      2.9999988079071045,
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      145.2,
+      99.45,
+      149.7
+    ],
+    "text": "J",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.38,
+      160.78,
+      100.99,
+      175.18
+    ],
+    "text": "57",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209,
+      6.499997138977051
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      94.5,
+      178.09,
+      100.62,
+      183.59
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.499997615814209
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      236.34,
+      193.18,
+      246.35,
+      199.18
+    ],
+    "text": "100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.999997615814209
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.5,
+      735.47,
+      525.0,
+      747.9
+    ],
+    "text": "268Central Bank of Sri Lanka Annual Report - 2003",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      9.499996185302734
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      41.76,
+      38.67,
+      506.03,
+      54.27
+    ],
+    "text": "Part IChapter 11 - PAYMENTS AND SETTLEMENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.499998092651367,
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      40.68,
+      66.31,
+      265.52,
+      103.77
+    ],
+    "text": "rejects a trade, the settlement liability of such trade istransfened to the stockbroker who canied out the trade.cDS communicates settlement riabirities for trades on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      282.42,
+      72.27,
+      508.5,
+      167.13
+    ],
+    "text": "clearing and settlement of debt securities traded throughDEX takes place on a Delivery versus payment (Dvp) basis.securities will only settle provided the fund settlement iscompleted. stockbrokers and the exclusive trading members ofDEX maintained 'nostro' accounts with sampath Bank Ltd. forthe settlement of their liabilities. custodian banks have theoption of paying their liabilities bilaterally using eithercheques, SLPS or through the RTGS System.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.999997138977051,
+      7.499996662139893,
+      7.999996662139893,
+      8.499996185302734,
+      8.999996185302734,
+      9.499996185302734,
+      9.999996185302734,
+      10.499995231628418
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      28.08,
+      731.66,
+      496.38,
+      748.37
+    ],
+    "text": "Central Bank of Sri Lanka Annual Report _ 2003269",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.999998092651367,
+      7.499996662139893,
+      7.999996662139893,
+      9.999996185302734
+    ]
+  }
+]

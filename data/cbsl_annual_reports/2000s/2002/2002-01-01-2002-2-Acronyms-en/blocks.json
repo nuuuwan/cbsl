@@ -1,0 +1,5381 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      235.92,
+      52.98,
+      331.04,
+      67.37
+    ],
+    "text": "List of Acronyms",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.44,
+      94.46,
+      265.48,
+      104.42
+    ],
+    "text": "AAIB Agriculture and Agrarian Insurance Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.2,
+      108.62,
+      197.22,
+      118.58
+    ],
+    "text": "ACT Advance Company Tax",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.44,
+      122.54,
+      205.21,
+      132.5
+    ],
+    "text": "ADB Asian Development Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.68,
+      136.46,
+      205.08,
+      146.42
+    ],
+    "text": "ADS Average Duration of Stay",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.68,
+      150.14,
+      275.46,
+      160.1
+    ],
+    "text": "APCPI Anuradhapura District Consumer Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.92,
+      164.06,
+      266.76,
+      174.02
+    ],
+    "text": "APSES Annual Public Sector Employment Survey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.92,
+      177.98,
+      260.3,
+      187.94
+    ],
+    "text": "ASEAN Association of South East Asian Nations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      49.92,
+      191.9,
+      190.5,
+      201.86
+    ],
+    "text": "ASPI All Share Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      205.58,
+      210.57,
+      215.54
+    ],
+    "text": "ATM Automated Teller Machine",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.16,
+      219.5,
+      230.01,
+      229.46
+    ],
+    "text": "AWDR Average Weighted Deposit Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.4,
+      233.42,
+      253.05,
+      243.38
+    ],
+    "text": "AWFDR Average Weighted Fixed Deposit Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.4,
+      247.34,
+      255.92,
+      257.3
+    ],
+    "text": "AWPR Average Weighted Prime Lending Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.4,
+      261.02,
+      276.03,
+      282.02
+    ],
+    "text": "BIMST-EC Bangladesh, India, Myanmar, Sri Lanka, Thailand -Economic Co-operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.64,
+      285.98,
+      170.03,
+      295.94
+    ],
+    "text": "BOC Bank of Ceylon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.64,
+      300.14,
+      187.25,
+      310.1
+    ],
+    "text": "BOI Board of Investment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.64,
+      313.82,
+      201.45,
+      323.78
+    ],
+    "text": "BOO Build, Own and Operate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      327.74,
+      189.5,
+      337.7
+    ],
+    "text": "BOP Balance of Payments",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      341.42,
+      203.77,
+      351.38
+    ],
+    "text": "BOT Build, Own and Transfer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      355.34,
+      215.64,
+      365.3
+    ],
+    "text": "CAA Consumer Affairs Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      369.26,
+      250.88,
+      379.22
+    ],
+    "text": "CAASL Civil Aviation Authority of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.12,
+      383.18,
+      200.52,
+      393.14
+    ],
+    "text": "CAR Capital Adequacy Ratio",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      397.1,
+      262.44,
+      407.06
+    ],
+    "text": "CARP Council for Agricultural Research Policy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      50.88,
+      411.02,
+      216.36,
+      420.98
+    ],
+    "text": "CAS Country Assistance Strategy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.12,
+      424.94,
+      209.36,
+      434.9
+    ],
+    "text": "CBSL Central Bank of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.36,
+      438.86,
+      211.72,
+      448.82
+    ],
+    "text": "CCB Coconut Cultivation Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.36,
+      452.78,
+      236.82,
+      462.74
+    ],
+    "text": "CCPI Colombo Consumers' Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.12,
+      466.46,
+      260.1,
+      476.42
+    ],
+    "text": "CDCPI Colombo District Consumer Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.36,
+      480.14,
+      257.09,
+      490.1
+    ],
+    "text": "CDD Co-operative Development Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.36,
+      494.06,
+      277.18,
+      504.02
+    ],
+    "text": "CDIC Capital Development and Investment Co. Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.871827125549316,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      507.98,
+      230.28,
+      517.94
+    ],
+    "text": "CDM Clean Development Mechanism",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      521.66,
+      211.8,
+      531.62
+    ],
+    "text": "CDS Central Depository System",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      535.58,
+      233.88,
+      545.54
+    ],
+    "text": "CEA Central Environmental Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      549.26,
+      204.28,
+      559.22
+    ],
+    "text": "CEB Ceylon Electricity Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      563.42,
+      270.67,
+      573.38
+    ],
+    "text": "Census-2001 Census of Population and Housing of 2001",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.84,
+      577.1,
+      244.76,
+      597.86
+    ],
+    "text": "Census-2002 Census of Public Sector and Semi-Government Employment of 2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.84,
+      601.82,
+      277.55,
+      622.58
+    ],
+    "text": "CFS Consumer Finances and Socio Economic Survey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.84,
+      626.54,
+      239.26,
+      636.5
+    ],
+    "text": "CICL Ceylinco Insurance Company Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      640.22,
+      212.45,
+      650.18
+    ],
+    "text": "CIF Cost Insurance and Freight",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      653.9,
+      253.1,
+      663.86
+    ],
+    "text": "CIS Commonwealth of Independent States",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      667.58,
+      278.01,
+      688.58
+    ],
+    "text": "CMRSP Colombo Metropolitan Regional Structure Plan",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      692.3,
+      194.54,
+      702.26
+    ],
+    "text": "COE Committee of Experts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      705.98,
+      277.8,
+      726.98
+    ],
+    "text": "COICOP Classification of Individual Consumption by Purpose",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.12,
+      93.98,
+      447.45,
+      103.94
+    ],
+    "text": "COLA Cost of Living Allowance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.12,
+      108.14,
+      516.35,
+      129.62
+    ],
+    "text": "COMESA Common Market for Eastern and Southern Africa",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.36,
+      133.82,
+      420.73,
+      143.78
+    ],
+    "text": "CP Commercial Paper",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.36,
+      147.98,
+      464.75,
+      157.94
+    ],
+    "text": "CPC Ceylon Petroleum Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.6,
+      162.62,
+      434.1,
+      172.58
+    ],
+    "text": "CPI Consumer Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.6,
+      176.78,
+      420.62,
+      186.74
+    ],
+    "text": "CPP Calling Party Pays",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.6,
+      190.94,
+      447.98,
+      200.9
+    ],
+    "text": "CRBs Co-operative Rural Banks",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.84,
+      205.34,
+      451.53,
+      215.3
+    ],
+    "text": "CRI Coconut Research Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.84,
+      219.5,
+      460.68,
+      229.46
+    ],
+    "text": "CSD Central Securities Depository",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.08,
+      233.9,
+      448.17,
+      243.86
+    ],
+    "text": "CSE Colombo Stock Exchange",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      291.84,
+      248.3,
+      432.52,
+      258.26
+    ],
+    "text": "CTB Ceylon Tourist Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.08,
+      262.7,
+      421.45,
+      272.66
+    ],
+    "text": "CTC Cut, Tear and Curl",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.08,
+      276.86,
+      493.8,
+      286.82
+    ],
+    "text": "CWDCS Country Wide Data Collection System",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.32,
+      291.26,
+      495.41,
+      301.22
+    ],
+    "text": "CWE Co-operative Wholesale Establishment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.32,
+      305.66,
+      439.73,
+      315.62
+    ],
+    "text": "DBU Domestic Banking Unit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.32,
+      319.82,
+      426.29,
+      329.78
+    ],
+    "text": "DC Desiccated Coconut",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.32,
+      334.22,
+      460.91,
+      344.18
+    ],
+    "text": "DCA Department of Civil Aviation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.56,
+      348.38,
+      517.56,
+      369.62
+    ],
+    "text": "DCGS Department of Commissioner General of Samurdhi",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.8,
+      374.06,
+      515.42,
+      384.02
+    ],
+    "text": "DCRBUs District Co-operative Rural Banking Unions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.56,
+      388.22,
+      485.9,
+      398.18
+    ],
+    "text": "DCS Department of Census and Statistics",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.56,
+      402.62,
+      494.49,
+      412.58
+    ],
+    "text": "DDEC Dambulla Dedicated Economic Centre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.8,
+      417.02,
+      478.16,
+      426.98
+    ],
+    "text": "DEA Department of Export Agriculture",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.8,
+      431.18,
+      456.57,
+      441.14
+    ],
+    "text": "DEC Dedicated Economic Centre",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.04,
+      445.58,
+      518.27,
+      455.54
+    ],
+    "text": "DFCC Bank Development Finance Corporation of Ceylon",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      292.8,
+      459.74,
+      459.61,
+      469.7
+    ],
+    "text": "DHF Dengue Haemorrhagic Fever",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.04,
+      473.9,
+      461.13,
+      483.86
+    ],
+    "text": "DIT Department of Internal Trade",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.04,
+      488.3,
+      459.47,
+      498.26
+    ],
+    "text": "DMT Department of Motor Traffic",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.04,
+      502.7,
+      451.28,
+      512.66
+    ],
+    "text": "DOA Department of Agriculture",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      516.86,
+      428.78,
+      526.82
+    ],
+    "text": "DOP Department of Posts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      531.02,
+      450.6,
+      540.98
+    ],
+    "text": "DPR Department of Poor Relief",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      545.18,
+      433.73,
+      555.14
+    ],
+    "text": "DS Divisional Secretariat",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      559.34,
+      518.68,
+      580.58
+    ],
+    "text": "DTET Department of Technical Education and Training",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.52,
+      585.02,
+      496.17,
+      594.98
+    ],
+    "text": "EAAS Export Agriculture Assistance Scheme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      599.18,
+      494.93,
+      609.14
+    ],
+    "text": "ECCD Early Childhood Care & Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.52,
+      613.34,
+      455.08,
+      623.3
+    ],
+    "text": "EDB Export Development Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.52,
+      627.5,
+      440.04,
+      637.46
+    ],
+    "text": "EFF Extended Fund Facility",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.76,
+      641.9,
+      481.73,
+      651.86
+    ],
+    "text": "EIA Environmental Impact Assessment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.76,
+      656.06,
+      486.36,
+      666.02
+    ],
+    "text": "ELVIS Electronic Visa Information System",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.76,
+      670.22,
+      432.8,
+      680.18
+    ],
+    "text": "EMS Express Mail Service",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.76,
+      684.38,
+      457.0,
+      694.34
+    ],
+    "text": "EPF Employees' Provident Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.76,
+      698.54,
+      473.13,
+      708.5
+    ],
+    "text": "EPL Environment Protection License",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      294.0,
+      712.7,
+      442.65,
+      722.66
+    ],
+    "text": "EPZ Export Processing Zone",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.24,
+      56.3,
+      286.43,
+      77.3
+    ],
+    "text": "ERIMU Educational Reforms Implementation Monitoring Unit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      81.74,
+      269.64,
+      91.7
+    ],
+    "text": "ESAF Extended Structural Adjustment Facility",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      95.9,
+      243.89,
+      105.86
+    ],
+    "text": "ESDP Energy Services Delivery Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      110.06,
+      208.12,
+      120.02
+    ],
+    "text": "ETF Employees' Trust Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      60.0,
+      124.22,
+      181.79,
+      134.18
+    ],
+    "text": "EU European Union",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.76,
+      138.62,
+      286.36,
+      159.38
+    ],
+    "text": "EWYCA Employment of Women Young Persons and Children Act of 1956",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      163.58,
+      183.26,
+      173.54
+    ],
+    "text": "EZ Economic Zones",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      177.74,
+      249.71,
+      187.7
+    ],
+    "text": "FAO Food and Agriculture Organisation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      191.9,
+      175.93,
+      201.86
+    ],
+    "text": "FB Fanners' Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      206.06,
+      223.73,
+      216.02
+    ],
+    "text": "FBPP Farmers' Bank Pilot Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      220.22,
+      193.82,
+      230.18
+    ],
+    "text": "FC Finance Companies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      234.38,
+      241.34,
+      244.34
+    ],
+    "text": "FCBUs Foreign Currency Banking Units",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      248.78,
+      244.37,
+      258.74
+    ],
+    "text": "FCD Food Commissioners Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      262.7,
+      189.41,
+      272.66
+    ],
+    "text": "FD Forest Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      276.86,
+      217.73,
+      286.82
+    ],
+    "text": "FDI Foreign Direct Investment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      291.02,
+      235.64,
+      300.98
+    ],
+    "text": "FOA Factory Ordinance Act of 1942",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      305.18,
+      269.81,
+      315.14
+    ],
+    "text": "FMRA Fiscal Management (Responsibility) Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      319.34,
+      213.65,
+      329.3
+    ],
+    "text": "FRA Fiscal Responsibility Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      333.5,
+      271.05,
+      343.46
+    ],
+    "text": "FSAP Financial Sector Assessment Programme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      347.66,
+      236.52,
+      357.62
+    ],
+    "text": "FSCS Forward Sales Contract System",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      362.06,
+      203.57,
+      372.02
+    ],
+    "text": "FTA Free Trade Agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      375.98,
+      215.39,
+      385.94
+    ],
+    "text": "FTC Fair Trading Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      390.14,
+      270.38,
+      400.1
+    ],
+    "text": "GATS General Agreement on Trade in Services",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      404.54,
+      274.98,
+      414.5
+    ],
+    "text": "GCPI Greater Colombo Consumers' Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      418.46,
+      226.41,
+      428.42
+    ],
+    "text": "GDE Gross Domestic Expenditure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      432.62,
+      210.05,
+      442.58
+    ],
+    "text": "GDP Gross Domestic Product",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      446.78,
+      182.44,
+      456.74
+    ],
+    "text": "GN Grama Niladhari",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      460.94,
+      206.69,
+      470.9
+    ],
+    "text": "GNP Gross National Product",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      475.1,
+      184.46,
+      485.06
+    ],
+    "text": "GOE Group of Experts",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      489.02,
+      212.97,
+      498.98
+    ],
+    "text": "GPS Garni Pubuduwa Scheme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      502.94,
+      209.7,
+      512.9
+    ],
+    "text": "GST Goods and Services Tax",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      517.1,
+      268.89,
+      527.06
+    ],
+    "text": "GSTP Generalised System of Trade Preference",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      531.26,
+      226.7,
+      541.22
+    ],
+    "text": "HFIs Housing Finance Institutions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      545.18,
+      200.89,
+      555.14
+    ],
+    "text": "HNB Hatton National Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      559.34,
+      216.09,
+      569.3
+    ],
+    "text": "HSCode Harmonised System Code",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      573.5,
+      250.94,
+      583.46
+    ],
+    "text": "IAS International Accounting Standards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      587.42,
+      271.32,
+      597.38
+    ],
+    "text": "ICT Information Communication Technology",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      601.34,
+      264.35,
+      611.3
+    ],
+    "text": "IDA International Development Association",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      615.26,
+      225.12,
+      625.22
+    ],
+    "text": "IDD International Direct Dialling",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      629.42,
+      256.12,
+      639.38
+    ],
+    "text": "IDPL International Dairy Products Limited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      643.58,
+      244.7,
+      653.54
+    ],
+    "text": "IEE Initial Environmental Evaluations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      657.74,
+      238.44,
+      667.7
+    ],
+    "text": "IES Income and Expenditure Survey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.52,
+      671.66,
+      244.91,
+      681.62
+    ],
+    "text": "IFC International Finance Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.28,
+      685.82,
+      226.44,
+      695.78
+    ],
+    "text": "IFF Industrial Facilitation Forum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      699.74,
+      219.01,
+      709.7
+    ],
+    "text": "IGG Inter-Governmental Group",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      59.04,
+      714.14,
+      248.21,
+      724.1
+    ],
+    "text": "ILFTA Indo-Lanka Free Trade Agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.64,
+      57.02,
+      469.72,
+      66.98
+    ],
+    "text": "IMF International Monetary Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.64,
+      71.18,
+      447.95,
+      81.14
+    ],
+    "text": "IOC Indian Oil Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.4,
+      85.1,
+      528.49,
+      106.1
+    ],
+    "text": "IOR-ARC Indian Ocean Rim Association for Regional Co-operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.4,
+      110.06,
+      468.29,
+      120.02
+    ],
+    "text": "IPM Integrated Pest Management",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.4,
+      124.22,
+      433.69,
+      134.18
+    ],
+    "text": "IPO Initial Public Offer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      302.4,
+      138.14,
+      453.0,
+      148.1
+    ],
+    "text": "IT Information Technology",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      152.3,
+      518.51,
+      162.26
+    ],
+    "text": "JBIC Japan Bank for International Co-operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      166.22,
+      474.86,
+      176.18
+    ],
+    "text": "JBSs Janashakthi Banking Societies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      180.14,
+      453.85,
+      190.1
+    ],
+    "text": "JCT Jaya Container Terminal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      194.3,
+      511.32,
+      204.26
+    ],
+    "text": "JICA Japan International Cooperation Agency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      208.46,
+      466.65,
+      218.42
+    ],
+    "text": "JMC Joint Ministerial Committee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      222.38,
+      446.45,
+      232.34
+    ],
+    "text": "JSA Joint Staff Assessment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.92,
+      236.3,
+      485.09,
+      246.26
+    ],
+    "text": "KIA Katunayake International Airport",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      250.46,
+      423.89,
+      260.42
+    ],
+    "text": "LC Letters of Credit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      264.38,
+      464.89,
+      274.34
+    ],
+    "text": "LCB Licensed Commercial Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      278.3,
+      431.81,
+      288.26
+    ],
+    "text": "LG Local Government",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      292.46,
+      482.48,
+      302.42
+    ],
+    "text": "LIBOR London Inter Bank Offered Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      306.62,
+      465.34,
+      316.58
+    ],
+    "text": "LMS Lanka Marine Services Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      320.54,
+      438.36,
+      330.5
+    ],
+    "text": "LP Liquefied Petroleum",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      334.7,
+      461.29,
+      344.66
+    ],
+    "text": "LSB Licensed Specialised Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      348.62,
+      486.84,
+      358.58
+    ],
+    "text": "LTTE Liberation Tigers of Tamil Eelam",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      362.78,
+      443.09,
+      372.74
+    ],
+    "text": "LTU Large Taxpayers Unit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.68,
+      376.7,
+      502.57,
+      386.66
+    ],
+    "text": "MAL Ministry of Agriculture and Livestock",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      390.62,
+      460.26,
+      400.58
+    ],
+    "text": "MCI Monetary Condition Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      404.78,
+      469.21,
+      414.74
+    ],
+    "text": "MEI Monthly Economic Indicator",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      418.7,
+      527.9,
+      428.66
+    ],
+    "text": "MENR Ministry of Environment & Natural Resources",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      432.62,
+      456.05,
+      442.58
+    ],
+    "text": "MFA Multi-Fiber Arrangement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      446.78,
+      514.7,
+      456.74
+    ],
+    "text": "MFOR Ministry of Fisheries & Ocean Resources",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      460.7,
+      527.62,
+      481.7
+    ],
+    "text": "MICE Meetings, Incentive Travel, Conventions & Exhibitions",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      485.66,
+      432.29,
+      495.62
+    ],
+    "text": "MLA Monetary Law Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      499.34,
+      502.02,
+      509.3
+    ],
+    "text": "MLCPI Matale District Consumer Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      513.5,
+      498.05,
+      523.46
+    ],
+    "text": "MLE Ministry of Labour and Employment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      527.42,
+      421.93,
+      537.38
+    ],
+    "text": "MO Medical Officer",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      541.34,
+      480.72,
+      551.3
+    ],
+    "text": "MOU Memorandum of Understanding",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      555.02,
+      467.13,
+      564.98
+    ],
+    "text": "MPC Monetary Policy Committee",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      568.94,
+      500.78,
+      578.9
+    ],
+    "text": "MPCSs Multi-purpose Co-operative Societies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      583.1,
+      527.8,
+      603.86
+    ],
+    "text": "MPDI Ministry of Policy Development and Implementation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      608.06,
+      437.46,
+      618.02
+    ],
+    "text": "MPI Milanka Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      621.98,
+      502.5,
+      631.94
+    ],
+    "text": "MRCPI Matara District Consumer Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      635.9,
+      507.65,
+      645.86
+    ],
+    "text": "NAFTA North American Free Trade Agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      649.82,
+      527.52,
+      671.06
+    ],
+    "text": "NAITA National Apprentice & Industrial Training Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      675.02,
+      512.76,
+      684.98
+    ],
+    "text": "NAPS National Agriculture Policy and Strategy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      688.94,
+      527.56,
+      710.18
+    ],
+    "text": "NARA National Aquatic Resources Research and Development Agency",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      301.44,
+      714.14,
+      471.89,
+      724.1
+    ],
+    "text": "NCG Net Credit to the Government",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.32,
+      57.02,
+      269.13,
+      66.98
+    ],
+    "text": "NCRCS New Comprehensive Rural Credit Scheme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.56,
+      70.94,
+      218.17,
+      80.9
+    ],
+    "text": "NDB National Development Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.8,
+      85.1,
+      211.48,
+      95.06
+    ],
+    "text": "NDF Nordic Development Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      52.8,
+      99.02,
+      238.89,
+      108.98
+    ],
+    "text": "NEER Nominal Effective Exchange Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.04,
+      112.94,
+      227.4,
+      122.9
+    ],
+    "text": "NEP National Environmental Policy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.04,
+      126.86,
+      200.2,
+      136.82
+    ],
+    "text": "n.e.s. not elsewhere specified",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.901132583618164,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.04,
+      140.78,
+      184.46,
+      150.74
+    ],
+    "text": "NFA Net Foreign Assets",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.04,
+      154.7,
+      232.12,
+      164.66
+    ],
+    "text": "NFIA Net Factor Income from Abroad",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.28,
+      168.62,
+      234.35,
+      178.58
+    ],
+    "text": "NGO Non-Governmental Organisation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.28,
+      182.54,
+      267.96,
+      192.5
+    ],
+    "text": "NHDA National Housing Development Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.28,
+      196.7,
+      230.03,
+      206.66
+    ],
+    "text": "NIC National Insurance Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.52,
+      210.62,
+      265.55,
+      220.58
+    ],
+    "text": "NITE National Institute of Technical Education",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.52,
+      224.54,
+      194.44,
+      234.5
+    ],
+    "text": "NLL Nestle Lanka Limited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.52,
+      238.46,
+      209.64,
+      248.42
+    ],
+    "text": "NMA Naval Maritime Academy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.52,
+      252.38,
+      182.27,
+      262.34
+    ],
+    "text": "NOP Net Open Position",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.76,
+      266.3,
+      276.83,
+      287.3
+    ],
+    "text": "NORAD Norwegian Agency for Development Co\u00adoperation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.76,
+      291.02,
+      278.99,
+      312.02
+    ],
+    "text": "NPITSE National Policy on Information Technology in School Education",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.0,
+      316.22,
+      199.58,
+      326.18
+    ],
+    "text": "NPL Non Performing Loans",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.24,
+      330.14,
+      235.25,
+      340.1
+    ],
+    "text": "NPS National Productivity Secretariat",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.0,
+      344.06,
+      172.09,
+      354.02
+    ],
+    "text": "NR Natural Rubber",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.24,
+      357.98,
+      263.33,
+      367.94
+    ],
+    "text": "NRFC Non-Resident Foreign Currency account",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.24,
+      371.9,
+      199.45,
+      381.86
+    ],
+    "text": "NSB National Savings Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.24,
+      385.82,
+      200.76,
+      395.78
+    ],
+    "text": "NSL National Security Levy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.48,
+      399.74,
+      186.86,
+      409.7
+    ],
+    "text": "NTB Non Tariff Barriers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.48,
+      413.66,
+      233.15,
+      423.62
+    ],
+    "text": "NTC National Transport Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.72,
+      427.58,
+      269.32,
+      437.54
+    ],
+    "text": "NWSDB National Water Supply & Drainage Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.72,
+      441.5,
+      236.73,
+      451.46
+    ],
+    "text": "ODA Official Development Assistance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.72,
+      455.18,
+      279.88,
+      476.18
+    ],
+    "text": "OECD Organisation for Economic Co-operation and Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.96,
+      480.14,
+      206.78,
+      490.1
+    ],
+    "text": "OMO Open Market Operations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.72,
+      494.06,
+      254.76,
+      504.02
+    ],
+    "text": "PAL Ports and Airports Development Levy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.96,
+      507.74,
+      267.17,
+      517.7
+    ],
+    "text": "PAMP Poverty Alleviation Microfinance Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.2,
+      521.9,
+      180.04,
+      531.86
+    ],
+    "text": "PA YE Pay As You Earn",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.96,
+      535.58,
+      184.81,
+      545.54
+    ],
+    "text": "PC Provincial Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      54.96,
+      549.26,
+      240.33,
+      559.22
+    ],
+    "text": "PCE Private Consumption Expenditure",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.2,
+      562.94,
+      228.35,
+      572.9
+    ],
+    "text": "PCI Participatory Credit Institution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      576.86,
+      198.04,
+      586.82
+    ],
+    "text": "PCL Prima Ceylon Limited",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.2,
+      590.78,
+      232.85,
+      600.74
+    ],
+    "text": "PDP Plantation Development Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.2,
+      604.7,
+      280.65,
+      614.66
+    ],
+    "text": "PDSP Plantation Development Support Programme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      618.38,
+      261.23,
+      628.34
+    ],
+    "text": "PERC Public Enterprises Reform Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      632.3,
+      255.41,
+      642.26
+    ],
+    "text": "PHDT Plantation Human Development Trust",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      646.22,
+      280.92,
+      656.18
+    ],
+    "text": "PM YR Primary Market Weighted Average Yield Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      660.14,
+      260.04,
+      670.1
+    ],
+    "text": "PRGF Poverty Reduction and Growth Facility",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.68,
+      674.06,
+      241.01,
+      684.02
+    ],
+    "text": "PRSC Poverty Reduction Support Credit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      687.98,
+      240.49,
+      697.94
+    ],
+    "text": "PRSP Poverty Reduction Strategy Paper",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.44,
+      701.66,
+      259.34,
+      711.62
+    ],
+    "text": "PSDG Province Specific Development Grants",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      55.68,
+      715.82,
+      277.29,
+      725.78
+    ],
+    "text": "PSDP Province Specific Development Programme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.76,
+      56.06,
+      507.89,
+      66.02
+    ],
+    "text": "PSLFTA Pakistan Sri Lanka Free Trade Agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      293.76,
+      70.46,
+      466.12,
+      80.42
+    ],
+    "text": "PSPF Public Service Provident Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.0,
+      84.62,
+      440.97,
+      94.58
+    ],
+    "text": "PTF Presidential Task Force",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.0,
+      98.78,
+      506.25,
+      108.74
+    ],
+    "text": "PUCSL Public Utilities Commission of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.24,
+      112.94,
+      469.32,
+      122.9
+    ],
+    "text": "QLFS Quarterly Labour Force Survey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.24,
+      127.34,
+      455.09,
+      137.3
+    ],
+    "text": "R&D Research and Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.24,
+      141.5,
+      424.44,
+      151.46
+    ],
+    "text": "RA Revenue Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.24,
+      155.9,
+      481.97,
+      165.86
+    ],
+    "text": "RBIP Rural Banking Innovations Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.48,
+      170.3,
+      463.32,
+      180.26
+    ],
+    "text": "RDA Road Development Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.48,
+      184.46,
+      460.57,
+      194.42
+    ],
+    "text": "RDB Regional Development Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.48,
+      198.62,
+      478.37,
+      208.58
+    ],
+    "text": "RDD Rubber Development Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.72,
+      213.02,
+      452.14,
+      222.98
+    ],
+    "text": "REEL Real Estate Exchange Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.72,
+      227.42,
+      464.97,
+      237.38
+    ],
+    "text": "REER Real Effective Exchange Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.72,
+      241.82,
+      398.25,
+      251.78
+    ],
+    "text": "Repo Repurchase",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.96,
+      255.98,
+      487.25,
+      265.94
+    ],
+    "text": "RFC Resident Foreign Currency Account",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.96,
+      270.14,
+      472.13,
+      280.1
+    ],
+    "text": "RGD Registrar General's Department",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.96,
+      284.3,
+      504.25,
+      294.26
+    ],
+    "text": "RMAC Revenue Management Advisory Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      294.96,
+      298.7,
+      519.96,
+      319.94
+    ],
+    "text": "RNNFC Resident Non-National Foreign Currency Account",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.2,
+      323.9,
+      471.5,
+      333.86
+    ],
+    "text": "RPC Regional Plantation Companies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.2,
+      338.3,
+      450.57,
+      348.26
+    ],
+    "text": "RRI Rubber Research Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.2,
+      352.46,
+      507.23,
+      362.42
+    ],
+    "text": "RRR Relief, Rehabilitation and Reconstruction",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.18586540222168
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.44,
+      366.86,
+      469.77,
+      376.82
+    ],
+    "text": "RRTF Regulatory Review Task Force",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.68,
+      381.02,
+      520.57,
+      402.26
+    ],
+    "text": "RSL Regaining Sri Lanka: Vision and Strategy for Accelerated Development",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.44,
+      406.46,
+      443.18,
+      416.42
+    ],
+    "text": "RSS Ribbed, Smoked Sheets",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.68,
+      420.62,
+      520.94,
+      430.58
+    ],
+    "text": "RTC Regional Transport Companies (Cluster Bus",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.2,
+      433.82,
+      406.34,
+      443.78
+    ],
+    "text": "Companies)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.68,
+      447.74,
+      494.65,
+      481.7
+    ],
+    "text": "RTGS Real Time Gross Settlement SAARC South Asian Association for Regional Co-operation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      295.92,
+      485.9,
+      467.4,
+      495.86
+    ],
+    "text": "SAF Structural Adjustment Facility",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.16,
+      500.06,
+      487.9,
+      510.02
+    ],
+    "text": "SAGT South Asia Gateway Terminals Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.16,
+      514.22,
+      477.84,
+      535.46
+    ],
+    "text": "SAPTA South Asian Preferential Trading Arrangement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.16,
+      539.66,
+      478.17,
+      549.62
+    ],
+    "text": "SASL Samurdhi Authority of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.4,
+      553.82,
+      441.65,
+      563.78
+    ],
+    "text": "SBA Stand-By Arrangement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.4,
+      567.98,
+      467.52,
+      577.94
+    ],
+    "text": "SBL Stock Borrowing and Lending",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.64,
+      582.14,
+      460.94,
+      592.1
+    ],
+    "text": "SBSs Samurdhi Banking Societies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.4,
+      596.3,
+      521.56,
+      606.26
+    ],
+    "text": "SCATB Standing Committee Appointed Tender Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.4,
+      610.46,
+      465.85,
+      620.42
+    ],
+    "text": "SDB SANASA Development Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.64,
+      624.62,
+      496.94,
+      634.58
+    ],
+    "text": "SDDS Special Data Dissemination Standards",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.4,
+      638.78,
+      444.62,
+      648.74
+    ],
+    "text": "SDR Special Drawing Rights",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.64,
+      652.94,
+      505.08,
+      674.42
+    ],
+    "text": "SEC Securities and Exchange Commission of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.88,
+      678.38,
+      522.05,
+      699.62
+    ],
+    "text": "SEEDS Sarvodaya Economic Enterprise Development Services",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.88,
+      703.58,
+      514.85,
+      713.54
+    ],
+    "text": "SFLCP Small Farmers and Landless Credit Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.88,
+      717.74,
+      427.58,
+      727.7
+    ],
+    "text": "SLA SriLankan Airlines",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      49.34,
+      260.72,
+      59.54
+    ],
+    "text": "SLACH Sri Lanka Automated Clearing House",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      63.74,
+      277.01,
+      73.7
+    ],
+    "text": "SLBFE Sri Lanka Bureau of Foreign Employment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      77.9,
+      236.03,
+      88.1
+    ],
+    "text": "SLCC Sri Lanka Cashew Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      91.82,
+      245.46,
+      102.02
+    ],
+    "text": "SLCPI Sri Lanka Consumer' Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      105.98,
+      249.64,
+      115.94
+    ],
+    "text": "SLCTB Sri Lanka Central Transport Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      120.14,
+      235.34,
+      130.1
+    ],
+    "text": "SLDBs Sri Lanka Development Bonds",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      134.06,
+      286.67,
+      144.26
+    ],
+    "text": "SLECIC Sri Lanka Export Credit Insurance Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      148.22,
+      286.81,
+      158.18
+    ],
+    "text": "SLIATE Sri Lanka Institute of Advanced Technical",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.48,
+      159.26,
+      164.85,
+      169.22
+    ],
+    "text": "Education",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      173.18,
+      248.96,
+      183.38
+    ],
+    "text": "SLIBOR Sri Lanka Inter Bank Offered Rate",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      187.34,
+      242.51,
+      197.54
+    ],
+    "text": "SLIC Sri Lanka Insurance Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      201.26,
+      286.92,
+      211.46
+    ],
+    "text": "SLUT Sri Lanka Institute of Information Technology",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      215.42,
+      217.08,
+      225.38
+    ],
+    "text": "SLPA Sri Lanka Ports Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      229.58,
+      194.78,
+      239.54
+    ],
+    "text": "SLR Sri Lanka Railways",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      243.5,
+      233.88,
+      253.46
+    ],
+    "text": "SLSA Sri Lanka Samurdhi Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      257.42,
+      209.98,
+      267.62
+    ],
+    "text": "SLT Sri Lanka Telecom Ltd.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      271.58,
+      199.0,
+      281.54
+    ],
+    "text": "SLTB Sri Lanka Tea Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      285.74,
+      232.41,
+      295.7
+    ],
+    "text": "SME Small and Medium Enterprise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      299.66,
+      230.78,
+      309.62
+    ],
+    "text": "SMI Small and Medium Industries",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      313.58,
+      258.25,
+      323.78
+    ],
+    "text": "SMIB State Mortgage and Investment Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      327.74,
+      287.08,
+      337.94
+    ],
+    "text": "SMILE Small and Micro Industries Leader and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.48,
+      338.78,
+      245.33,
+      348.74
+    ],
+    "text": "Entrepreneur Promotion Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.44,
+      352.94,
+      250.65,
+      362.9
+    ],
+    "text": "SNA System of National Accounts 1993",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      366.86,
+      229.79,
+      377.06
+    ],
+    "text": "SNC Save the Nation Contribution",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      380.78,
+      255.48,
+      390.98
+    ],
+    "text": "SPC State Pharmaceutical Corporation of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      126.96,
+      392.06,
+      164.48,
+      402.02
+    ],
+    "text": "Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      405.98,
+      287.09,
+      416.42
+    ],
+    "text": "SPCDP Second Perennial Crops Development Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      419.9,
+      263.37,
+      430.34
+    ],
+    "text": "SPX Sub-contracting Partnership Exchange",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      434.06,
+      212.25,
+      444.26
+    ],
+    "text": "SRI Sugar Research Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      448.22,
+      210.12,
+      458.42
+    ],
+    "text": "SRR Statutory Reserve Ratio",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      462.14,
+      235.49,
+      472.58
+    ],
+    "text": "SSS Scripless Securities Settlement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      61.2,
+      476.3,
+      237.16,
+      486.5
+    ],
+    "text": "SSSF Samurdhi Social Security Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      489.98,
+      216.59,
+      500.42
+    ],
+    "text": "STC State Timber Corporation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      503.9,
+      237.24,
+      514.1
+    ],
+    "text": "STP Sustainable Township Program",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      518.06,
+      251.81,
+      528.5
+    ],
+    "text": "STWSP Small Towns Water Supply Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      532.22,
+      200.01,
+      542.42
+    ],
+    "text": "TA Technical Assistance",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      546.14,
+      211.21,
+      556.34
+    ],
+    "text": "TAC Tariff Advisory Council",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.96,
+      560.06,
+      210.33,
+      570.26
+    ],
+    "text": "TAI Tharuna Aruna Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      573.98,
+      169.28,
+      584.18
+    ],
+    "text": "TB Tuberculosis",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.36,
+      49.58,
+      512.06,
+      59.54
+    ],
+    "text": "TCCS Thrift and Credit Co-operative Societies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      63.5,
+      468.76,
+      73.46
+    ],
+    "text": "TDRF Textile Debt Recovery Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      77.42,
+      529.49,
+      98.66
+    ],
+    "text": "TETD Teacher Education and Teacher Deployment Project",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      102.86,
+      470.69,
+      112.82
+    ],
+    "text": "TEU Twenty-foot Equivalent Unit",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      116.78,
+      529.44,
+      126.74
+    ],
+    "text": "TEVT Technical Education and Vocational Training",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      130.7,
+      529.25,
+      151.7
+    ],
+    "text": "TEWA Termination of Employment of Workmen Act of 1971",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      155.9,
+      516.83,
+      165.86
+    ],
+    "text": "TIEP Temporary Imports for Export Promotion",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      169.82,
+      529.25,
+      179.78
+    ],
+    "text": "TIFA Trade and Investment Framework Agreement",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      183.98,
+      439.72,
+      193.94
+    ],
+    "text": "TQB Textile Quota Board",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      197.9,
+      463.49,
+      207.86
+    ],
+    "text": "TQM Total Quality Management",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      211.82,
+      529.31,
+      233.06
+    ],
+    "text": "TRC Telecommunication Regulatory Commission of Sri Lanka /",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      237.26,
+      446.49,
+      247.22
+    ],
+    "text": "TRI Tea Research Institute",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      251.18,
+      519.74,
+      261.14
+    ],
+    "text": "TRIPS Trade Related Intellectual Property Rights",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      265.1,
+      526.92,
+      275.06
+    ],
+    "text": "TSHDA Tea Small Holdings Development Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      279.02,
+      529.31,
+      288.98
+    ],
+    "text": "TVEC Tertiary & Vocational Education Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      293.18,
+      444.62,
+      303.14
+    ],
+    "text": "UAE United Arab Emirates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      307.1,
+      476.52,
+      317.06
+    ],
+    "text": "UDA Urban Development Authority",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      321.26,
+      477.95,
+      331.22
+    ],
+    "text": "UGC University Grants Commission",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      335.42,
+      426.12,
+      345.38
+    ],
+    "text": "UK United Kingdom",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      349.34,
+      516.57,
+      359.3
+    ],
+    "text": "UNDP United Nations Development Programme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      363.26,
+      529.25,
+      384.26
+    ],
+    "text": "UNIDO United Nations Industrial Development Organisation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      388.46,
+      457.53,
+      398.42
+    ],
+    "text": "USA/US United States of America",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      402.62,
+      429.3,
+      412.58
+    ],
+    "text": "VAT Value Added Tax",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      416.54,
+      466.22,
+      426.5
+    ],
+    "text": "VCCs Venture Capital Companies",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      430.46,
+      475.77,
+      440.42
+    ],
+    "text": "VRS Voluntary Retirement Scheme",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      444.38,
+      524.72,
+      454.34
+    ],
+    "text": "VTA Vocational Training Authority of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      458.54,
+      438.77,
+      468.5
+    ],
+    "text": "WBA Welfare Benefit Act",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      472.46,
+      476.97,
+      482.42
+    ],
+    "text": "WBSL Women's Bureau of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      486.62,
+      492.83,
+      496.58
+    ],
+    "text": "WDF Women's Development Federation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      500.54,
+      467.77,
+      510.5
+    ],
+    "text": "WEI Weekly Economic Indicator",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      303.12,
+      514.46,
+      447.06,
+      524.42
+    ],
+    "text": "WPI Wholesale Price Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      528.62,
+      427.86,
+      538.58
+    ],
+    "text": "WRI Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      542.54,
+      438.81,
+      552.5
+    ],
+    "text": "WRS War Risk Surcharge",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      302.88,
+      556.46,
+      460.91,
+      566.42
+    ],
+    "text": "WTO World Trade Organisation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  }
+]
