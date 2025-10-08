@@ -1,0 +1,477 @@
+AGRICULTURE
+
+Tea
+
+Tea production suffered a slight setback in 1986 when output declined by 1 per cent to 211.3 million kgs., thereby reversing the growth momentum observed in the tea sector since 1984. The fall in production was confined to high and medium grown areas. High grown tea production fell by 1.7 million kgs. or 2 per cent while the medium grown tea production fell by 1.9 million kgs. or 3 per cent. In' contrast, low grown tea production, which accounted for the highest relative share in total tea production for the second year in succession, rose marginally by 0.8 million kgs. .
+
+The fall in output was reflected mainly in the state owned plantations. The combined output of the Janatha Estates Development Boards (JEDBs) and the Sri Lanka State Plantations Corporations (SLSPCs) fell by 4 per cent in 1986. Consequently, their relative share in total tea production fell from 70 per cent in 1985 to 68 per cent in 1986. Tea. production of the JEDBs at 74 million kgs. was. 5 per cent lower than that of 1985, while the production of the SLSPCs at 71 million kgs. was 3 per cent lower. Tea manufactured by the JEDBs from own leaf fell by 4 per cent to 69 million kgs. while that of the SLSPCs fell by 2 per cent to 58 niiliion kgs. Tea produced from bought leaf which forms about 6 per cent of the JEDBs' total production fell by 0.6. million kgs. or 11 per cent, while that of the SLSPCs: which constitutes a relatively higher percentage of about 18 per cent, fell by 0.9 million kgs. or 7 per cent. Tea manufactured in the private sector estates rose marginally by 2 per cent, which may have resulted from the increased intake of green leaf from small holder dominated low grown areas. If the manufactured bought leaf tea component of the JEDBs and SLSPCs is included under private sector pro­duction, the share of the private sector in total tea production rose from 38 per cent in 1985 to 39 per cent in 1986.
+
+Evidently, poor prices which prevailed throughout most of 1985 and 1986 adversely affected the cultural practices including fertilizer application. The lower output in JEDBs was largely due to a decrease in the average yield resulting from a substantial drop in fertilizer application, unfavourable weather conditions parti­cularly in the high and mid grown areas and a marginal decline in the extent in bearing. Despite a higher average yield as a result of increased fertilizer application per unit of land, the output of the SLSPCs declined mainly due to unfavourable weather conditions and reduced extent in bearing consequent on uprooting for replanting. Less productive old seedling teas found in most of the state owned plantations would also have contributed to.the lower output. The marginal increase in the output of low grown areas was to some extent due to relatively higher pro­ductivity of tea in these areas and coarse plucking. Particularly, the small-holders have resorted to this practice to increase the sales volume in order to make up for the reduced revenue consequent on depressed prices.
+
+( 32 )
+
+PRODUCTION OF PRINCIPAL AGRICULTURAL CROPS
+
+MILLION KILOGRAMS MILLION KILOGRAMS
+
+MILLION NUTS 3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1 1 1 1 1 1 1 1 1
+
+COCONUT r \ /
+
+1 I-1 1 1 1 1 V -
+
+1 1
+
+120 MILLION NUTS 3500
+
+3000
+
+2500
+
+2000
+
+MILLION METRIC TONS 3 0
+
+1500
+
+MILLION METRIC TONS
+
+976 77 78 79 '80 '81 '82 '83 '84 '85 '86
+
+Central Bank of Sri Lanka.
+
+( 33 )
+
+Fertilizer issues to the tea sector dropped by 21,100 metric tons or 14 per cent over the quantity issued in 1985. A decline in fertilizer issues was observed since March, 1986 along with falling prices and a marginal increase was seen towards the end of the year with improved prices.
+
+Fertilizer application in the JEDB estates dropped by 14 per cent to 41,483 metric tons, while that in the SLSPCs increased marginally from 34,379 metric tons to 34,595 metric tons. Liquidity problems brought about by poor prices restricted the fertilizer application in the public sector estates to minimum recommended doses. Fertilizer application in the private sector estates which is estimated as a residual, appears to have declined considerably, in a background of persistent depressed prices since early 1985.
+
+TABLE 1.10
+
+Statistics on Tea Sector 1984-1986
+
+Item Unit 1984 1985(a) 1986(6)
+
+1. Production Mn. kgs. > >
+
+208.0 214.1 211.3 1.1 High grown
+
+Mn. kgs. > > 79.3 78.8 77.1 1.2 Medium grown 54.6 55.2 53.3 1.3 Low grown
+
+'000 ha.
+
+74.1 80.1 80.9 2. Registered extent under tea ... '000 ha. 228 ' 231 223 3. Fertilizer issues '000 Mt. tons 137.2 149.9 128.8 4. Replanting -Hectares 1,145 , 1,672 1,618 5. Prices
+
+1,145 , 1,672 1,618
+
+5.1 Colombo net Rs./kg.
+
+» »
+
+46.45 35.39 30.28 5.2 Export f.o.b.
+
+Rs./kg.
+
+» » 77.20 60.62 44.52 6. Cost of Production
+
+Mn;' kgs.
+
+34.00 35.00 n.a. 7. Exports Mn;' kgs. . 204.0 198.0 207.8 8. Export earnings Rs. Mn. 15,764.0 12,002.8 9,252.8 Export earnings
+
+(SDR.Mn.) (605) (434) (281) 9. Value added as% of GDP (c) 7.4 5.6 4.5
+
+Sources : Sri Lanka Tea Board;
+
+National Fertilizer Secretariat; (a) Revised. Central Bank of Sri Lanka. (b) Provisional. (c) In growing and 'processing only.
+
+Note : Data on average yield per hectare are not available.
+
+Information on average yield per hectare on a country wide basis is not available as yet. According to the data provided by the state sector plantations, the average yield of the JEDBs fell by 4 per cent to 1,238 kgs. per hectare, while that of the SLSPCs increased by 4 per cent to 1,170 kgs. per hectare. The difference in pro­ductivity in the two corporations can be attributed to the differences in fertilizer application.
+
+In contrast to a.marginal .increase observed in the previous year, the total registered area under tea fell by 3 per cent to 222,905 hectares in 1986. This was largely due to some marginal tea lands going out of production, being cleared for settlement purposes under land alienation policies. This was particularly true in
+
+( 34 )
+
+the case of mid country areas where there was greater pressure for land and much marginal tea lands. The total extent of tea under the management of SLSPCs fell by 6 per cent to 53,082 hectares, while that of the JEDBs fell marginally to 59,689 hectares. This was largely due to handing over of some estates to previous owners and to a lesser extent due to some lands being alienated for settlement purposes. The extent in bearing too fell and this drop was marginal in the case of JEDBs while it was about 5 per cent in the case of SLSPCs. The area in bearing constituted about 94 per cent .of the total tea extent of both corporations.
+
+The extent of replanting fell marginally from 1,672 hectares in 1985 to 1,618 hectares in 1986. The replanted area of the JEDBs fell by about 11 per cent to 553 hectares while that of the SLSPCs fell by 6 per cent to 602 hectares. Replanting in the private sector estates rose by about 12 per cent to 463 hectares. In relation to the progress envisaged in replanting under the Medium Term Investment Programme (MTIP), the performance of the public sector plantations fell below expectations. This was particularly true in the case of SLSPCs which were expected to replant about 1,000 hectares in 1986 under this programme. The poor performance may have been largely due to liquidity constraints faced by these institutions as a result of depressed prices and their consequent inability to meet their commitments to the programme. Some improvement was seen in private sector tea replanting, since the administration of replanting subsidies in this sector was entrusted to the Tea Small-Holdings Development Authority. However, the cumulative extent replanted up to the end of 1986 still constituted only about 21 per cent of the total registered extent under tea in this sector. This indeed is a matter for concern as the renewal of senile plantations appear to be proceeding slower than expected.
+
+New planting of tea which was relatively less significant in the recent past, doubled from 789 hectares in 1985 to 1,612 hectares in 1986. This improvement was solely due to a more than two fold increase in the new plantings of the private sector. It was concentrated mainly in the small-holder dominated low grown areas where there is greater potential for expanding the area under cultivation of tea compared with the other sectors. New planting in the public sector continued to be negligible. The newly planted extent of the SLSPCs fell from 144 hectares in 1985 to 110 hectares in 1986 while that of the JEDBs increased from 46 hectares to 94 hectares. Replanting and new planting subsidy rates remained unchanged during the year and only the private sector is entitled to these subsidies since 1984 with the introduction of the MTIP for the state owned plantations.
+
+The weighted average cost of production of tea in public sector plantations is estimated to be around Rs. 36.53 per kg. which is 3 per cent lower than that of the last year. The cost of the JEDBs decreased by 3 per cent to Rs. 37.71 per kg., while that of the SLSPCs also fell by 3 per cent to Rs. 35.34 per kg. Wage costs, which constitute the major component remained more or less the same since they were last revised substantially in 1084. Considering the fact that these corporations were compelled to adopt cost saving measures owing to depressed prices, a moderate reduction in the costs was to be expected.
+
+( 35 )
+
+The average export (f.o.b.) price of tea fell by 27 per cent to Rs. 44.52 per kg. in 1986. This was the lowest recorded since 1982. The average Colombo Auction net sale price fell by 14 per cent to Rs. 30.28 per kg. in 1986. Consequently, the negative producer margins of the JEDBs are estimated to have increased from Rs. 6.64 per kg. in 1985 to Rs. 7.58 per kg. in 1986, while that of the SLSPCs increased from Rs. 2.97 per kg. in 1985 to Rs. 3.48 per kg. in 1986.
+
+Tea prices which were on a steady decline since early 1985 continued to fall, though at a slower pace, in 1986. This decline continued upto the end of the third quarter Of 1986 when a reversal was observed.
+
+The Tea Small-Holdings Development Authority (TSHDA) continued to serve the interests of the private sector tea cultivators with particular attention to tea small­holders. After the operation of tea planting subsidies.in the private sector fell within its jurisdiction since 1985, the TSHDA has improved the replanting and newplanting rate. In 1986, it provided subsidies to replant 463 hectares, which was 12 per cent higher than the extent replanted in 1985. The newly planted extent more than doubled from 599 hectares in 1985 to 1,408 hectares in 1986! The TSHDA has estimated the cost of replanting in low country areas at Rs. 135,534 per hectare and in mid and up country areas at Rs. 184,867 per hectare in 1986, which is more than thrice the rate of the present replanting subsidy. Also, the TSHDA, issued 2,257 metric tons of fertilizer through 19 distribution outlets which was a marginal increase over the issues made in 1985. The number of plant nurseries increased to nine, with the opening of three new nurseries in the Galle district. The number of tea factories operated by the TSHDA to process small-holder tea leaves remained unchanged at twelve.
+
+With a view to assisting tea small-holders affected by low prices, a scheme of assistance financed from the Tea Stabilization Fund was operated by the Sri Lanka Tea Board during the period June-October, 1986. Under this scheme, 25 cents per kg. of green leaf (or Rs. 1.51 per kg. of made tea) was paid to small-holders whose tea fetched a monthly average price between Rs. 22 to Rs. 34 per kg. at the Colombo auctions.
+
+Maintaining the international competitiveness of Sri Lanka's tea industry, especially in a highly competitive world market for beverages, is a matter that deserves highest national priority. It is encouraging to note that Sri Lanka was able to achieve cost reductions in 1986 in the face of strong price pressures during the year. Further economies should be explored-and in the case of state plantations, cost savings may be feasible on overheads, which constitute a significant component in the production costs of these institutions.
+
+While there had been a remarkable progress achieved in the area of tea cultivation through qualitative improvements in generic research, etc., tea manu­facturing and marketing still remain as areas where innovative approaches are required. Since of late a tendency towards a shift in demand away from the so-called "orthodox" teas was observed. For instance, a significant feature of tea
+
+( 36 )
+
+production in 1986 was the sharp increase in output of CTC (Cut Torn and Curled) and LTP (Lawrie Tea Process) teas. The production of these teas increased from 3.5 million kgs. in 1985 to 5.2 million kgs. in 1986. In this context, it is worth considering the provision of greater flexibility in the production of teas that are in demand in the market.
+
+Rubber
+
+Rubber production is provisionally estimated at 138.5 million kgs. in 1986, showing a marginal increase of one million kgs. or one per cent over the production in the previous year. Reversing the declining trend in production experienced in 1985, the estates bslonging to the State Plantations Corporations (SLSPCs) which account for about 55 per cent of the total public sector rubber production contributed the entire increase in output. Rubber production in the estates managed by the Janatha Estates Development Boards (JEDBs) which account for the remaining 45 per cent of the total public sector rubber output, fell marginally by 1.4 per cent. The contrasting performance of the two state owned institutions is largely explained by the variations in agro-climatic conditions in the areas in which the rubber plantations of these two institutions are located. Rubber production in the private sector estates, including small-holdings remained more or less at the same level as in the previous year.
+
+The average yield in 1986 is estimated at 830 kgs. per hectare, a slight improve­ment over that of the previous year. Although, the extent under tapping declined marginally, the yield improvement enabled the maintenance of output of the private sector at the previous year's level. The average yield in the plantations managed by the SLSPCs rose by 6 per cent while that of the JEDBs declined marginally^
+
+Following the trend observed in the previous year, both the total registered area under cultivation and the area under tapping fell marginally in 1986. The decline of the former was mainly due to the planting of tea in certain marginal rubber lands while the latter's decline was partly due to increased replanting which reduced the extent under tapping.
+
+In a continuation of the trend experienced in the past few years, fertilizer issues to the rubber sector rose considerably by 2,100 metric tons or 9 per cent to 26,300 metric tons in 1986. The SLSPCs and JEDBs, however, reported declines in fertilizer application as in the previous year. The quantity of fertilizer used by the JEDBs fell by 605 metric tons or 16 per cent while that of the SLSPCs fell by 1,096 metric tons or 14 per cent over the previous year. Liquidity problems faced by these two corporations appear to have been the main factor for the reduced use of fertilizer. It was therefore noteworthy that the increased fertilizer application was almost entirely confined to the private sector estates. This, in turn, largely reflected the fertilizer use on immature plants induced by the rubber subsidy programme.
+
+( 37 )
+
+TABLE 1.11
+
+Statistics on Rubber Sector 1984-1986
+
+Item Unit 1984 1985(a) 1986(6)
+
+l. Production Mn. kgs. '. 142 137.5 138.5 Area 2.1 Under cultivation '000 hectares 205.6 • 205.5 205.2 2.2 Under tapping i » Kg./hectare '000 Mt. tons
+
+169.0 168.2 166.7 3. Yield
+
+i » Kg./hectare '000 Mt. tons
+
+840 818 830 4. Fertilizer issues
+
+i » Kg./hectare '000 Mt. tons 23.5 24.2 26.3 5. Replanting Hectares 5,530 6,694 5,911 6. Prices
+
+5,530 6,694 5,911
+
+6.1 Export F.O.B. Rs./Kg.
+
+» 7
+
+26.16 21.34 23.83 6.2 Colombo RSS 1
+
+Rs./Kg.
+
+» 7 14.40 15.90 16.62 7. Cost of Production (c) 12.06 13.67 13.70 8. Exports Mn. Kgs.. 126.2 120.2 115-0 9. Domestic consumption
+
+Rs. Mn.
+
+15.1 15.2 16.0 10. Export earnings Rs. Mn. 3,301.0 2,566.0 2,622.0
+
+Value added as % of GDP (d)
+
+(SDR. Mn.) (127) (93) (80) 11. Value added as % of GDP (d) 1.6 1.4 1.4
+
+Sources: Rubber Control Department; (a) Revised. National Fertilizer Secretariat; (b) Provisional. Central Bank of Sri Lanka. (c) Weighted average cost of production of public sector estates, private sector estates and small-holdings. (d) In growing and processing only.
+
+According to provisional data, the extent replanted during 1986 amounted to 5,911 hectares, which was 12 per cent lower than the extent replanted in the previous year. The area replanted in the estates managed by the JEDBs increased slightly from 849 hectares in 1985 to 863 hectares in 1986 while that of the estates managed by SLSPCs rose by 11 per cent from 991 hectares to 1,101 hectares.
+
+The overall drop in the extent replanted is partly explained by relatively attractive prices that prevailed throughout the year, which prompted most of the small-holders to postpone replanting. Non-availability of plants in sufficient quantities due to seed shortages in 1984 as a result of the severe drought in 1983 also contributed to the decline in replanting in 1986. During the year, 2,915 hectares were replanted under the World Bank assisted Small-holder Rubber Rehabilitation Project in major rubber growing districts of Kalutara, Kegalle and Ratnapura, bringing the cumulative extent replanted under this project at end of 1986 to 17,175 hectares;
+
+New planting of rubber which expanded considerably in the previous year, suffered a setback in 1986. The extent newly planted declined substantially by 33 per cent from 2,529 hectares in 1985 to 1,706 hectares in 1986. The reduction was reflected in both public and private sector estates. The drop in new planting was mainly due to dry weather conditions which prevailed in most of the major rubber growing areas during the year. Lack of suitable land for further expansion of rubber cultivation may also have accounted for the slack in newplanting.
+
+( 38 )
+
+The cost of production of rubber increased slightly in 1986. As in the previous year, the private sector estate owners and small-holders were able to contain cost increases by containing labour costs. The state sector plantations whose costs have been rising in recent years, faced a different situation in 1986. The costs of the JEDBs dropped marginally from Rs. 17.75 per kg. in 1985 to Rs. 17.62 per kg. in 1986 while that of the SLSPCs rose moderately by 3 per cent, from Rs. 16.79 per kg. in 1985 to Rs. 17\22 per kg. in 1986. Cost saving measures adopted by these corporations, such as the restrictive use of fertilizer and unchanged labour cost enabled them to maintain costs rather stable. The producer margins of the JEDBs improved from a loss of Rs. 1.44 per kg. in 1985 to a positive margin of Rs. 3.75 per kg. in 1986 while that of SLSPCs rose from a positive margin of Rs. 0.60 per kg. in 1985 to Rs. 4.19 per kg. in 1986 largely due to improved prices.
+
+The export (f.o.b.) price of rubber rose by 12 per cent to Rs. 23.83 per kg. in 1986, reversing the decline of 18 per cent in 1985. The Colombo market price of RSS 1 rose by 5 per cent in 1986, and the price differential between RSS 1 and RSS 2 continued to be marginal. The average prices of sole and latex crepe rubber increased by more than 35 per cent each, owing to increased demand for these varieties. Better performance on the price front may be explained in terms of increased demand from industrial countries in the context of somewhat stagnant production in major rubber producing countries.
+
+Domestic consumption of rubber remained around 12 per cent of the total production, as in the previous year. The low domestic demand for rubber points to, on the one band, the potential for the expansion of rubber based industries while on the other, it is indicative of certain serious constraints preventing the expansion of this sector. Hence, a comprehensive study on this sector is urgently required to identify the factors retarding the growth of this vital sector. Producers as well as manufacturers will stand to gain from such a course of action.
+
+Various planting subsidies which were substantially increased in the previous year, remained unchanged during the year. The slack in rubber replanting observed in 1986 after the remarkable progress in 1985, is a matter for some concern. "When the World Bank aided Small-holder Rubber Rehabilitation Project draws to a close, the rate of replanting in the small-holder sector is very likely to fall with less funds available for this purpose. Hence, a concerted effort is required to maintain the rate of replanting at a level which will ensure renewal of economic rubber trees over the production cycle of 30 years or so.
+
+Coconut
+
+The remarkable increase observed in coconut production in 1985, continued in 1986 as well. The estimated production in 1986 at 3,041 million nuts is the highest level ever recorded and is 3 per cent higher than that of the previous year. This continued rise in output was largely due to the lagged effect of increased fertilizer application in the recent past and the favourable weather. Even though the fertilizer application fell in 1985 over that of 1984, it remained at a relatively higher level when compared with the three-year period immediately preceding 1984. The relatively higher level of fertilizer application in 1985 may also have influenced the production in 1986 as well. Production peaked during the first half of the year and was about 24 per cent higher than that of the corresponding period in 1985 while
+
+( 39 )
+
+the production during the second half of the year was about 14 per cent lower than that of the second half of 1985.
+
+The higher level of production led to softening of domestic prices, but assured a larger supply of nuts for processing. Production of coconut oil rose by 10 per cent while the output of desiccated coconut and exports of copra increased by 18 and 30 per cent, respectively, Fresh nut exports also expanded by 8 million nuts or 80 per cent.
+
+In spite of poor prices in international markets which were well below the low prices of the previous year, the volume of coconut exports increased largely due to the combined effect of greater availability of nuts for processing, liberalization of export procedures, reduced export duties and the suspension of the export levy on coconut products.
+
+Probably as a result of reduced prices, the declining trend in fertilizer application observed in 1985 continued in 1986 as well. Fertilizer issues to the coconut sector dropped by 23 per cent to 31,500 metric tons in 1986. The fall in fertilizer applica­tion was more marked during the first half of the year when prices were the lowest. Reduced demand for fertilizer had its impact on the performance of the Coconut Fertilizer Credit Scheme (CFCS) operated by the Bank of Ceylon and People's Bank. The total amount of loans disbursed of Rs. 3.3 million was less than half the amount granted in 1985.
+
+Improvements shown in cultivation practices under various subsidy schemes in 1985 were maintained in 1986 as well. The extent of lands rehabilitated rose by a further 22 per cent to 7,605 hectares and the total subsidy paid on this account increased by more than 50 per cent to Rs. 11.6 million. The extent underplanted and replanted increased by 3 per cent to 4,206 hectares and the total subsidy paid for this purpose rose by 11 percent to Rs. 20.3 million. However, the area newly planted in coconut (other than small holdings below 0.4 hectares) fell by 6 per cent to 1,465 hectares, largely reflecting the lower market prices. The total subsidy paid in this regard of Rs. 13.3 million was 2 per cent lower than that of the previous year. On the other hand, the new planted extent in small holdings (below 0.4 hectares) rose by 48 per cent to 783 hectares and a subsidy of Rs. 2.7 million was paid in 1986 compared with Rs. 1.6 million paid in the previous year.
+
+Inter-cropping of coconut lands with other crops showed a mixed record in 1986. Inter-cropping with grass fodder fell by 56 per cent to 50 hectares in 1986. In contrast; the extent intercropped with pepper and coffee rose by 51 and 15 per cent, to 131 and 101 hectares, respectively. The growing interest in inter-cropping with coffee and pepper was largely due to the attractive prices fetched by these crops in the recent times.
+
+Given the sharp fluctuations in coconut prices and the vulnerability of the crop to vagaries of the weather, inter-cropping offers the traditional mpnoculturists in coconut an interesting medium by which they could improve their overall viability.
+
+( 40 )
+
+TABLE 1. 12
+
+Statistics on Coconut Sector 1984-1986
+
+Item Unit 1984 1985 1986(a)
+
+1. Production(b) Mn. nuts 1,942 2,958 3,041 1.1 Desiccated coconut Mn. nuts(c) 221 362 428 1.2 Coconut oil Mn. nuts(c) 295 1,038 1,146 1.3 Copra exports ... Mn. nuts(c) 12 37 48 1.4 Fresh nut exports Mn. nuts 4 10 18 1.5 Domestic nut consumption (d)... Mn. nuts 1,404 1,425 1,450 2. Average Price 2.1 Colombo Rs./nut 4.07 2.18 1.83 2.2 Exportf.o.b. ... 6.48 3.59 1.57 3. Fertilizer issues '000 Mt. tons 50.0 41.0 31.5 4. Cost of Production ... Rs./nut 0.63 0.64 0.70 5. Replanting/Under plantingfe) Hectares 2,553 4,102 4,206 6. New planting(e) Hectares 1,580 1,561 1,465 7. Export earnings Rs. Mn. 2,118 3,093 2,389 Export earnings
+
+(SDR Mn.) (81) (112) (73) 7.1 Kernel products Rs. Mn. 1,553 2,383 1,609 7.1 Kernel products
+
+(SDR Mn.) (59) (86) (49) 7.2 Other products Rs. Mn. 565 710 780 7.2 Other products
+
+(SDR Mn.) (22) (26) (24) 8. Value added as % of GDP(f)
+
+(SDR Mn.)
+
+4.4 3.3 2.6
+
+Sources: Coconut Cultivation Board;
+
+Coconut Development Authority; National Fertilizer Secretariat; Central Bank of Sri Lanka. (a) Provisional. (b) Estimate breakdown does not add to total production due to adjustment for changes in copra stock). (c) In nut equivalent converted at 1 Mt. ton DC = 6,800 nuts 1 Mt. ton Oil = 8,000 nuts and 1 Mt. ton Copra = 4,925 nuts (d) Estimated on the basis of per capita household consumption of 90 nuts per year. Excludes industrial use. (e) This excludes planting activities undertaken on holdings less than 0.4 hectares in size owing
+
+to lack of detailed data. (/) In producing and processing only.
+
+This will no doubt entail longer-term planning because viable inter-cropping may require thinning out the current density of coconut palms on land, which has been determined for monoculture.
+
+Prospects for coconut products continued to be bleak in international markets during most of 1986, owing to increased supplies from major coconut producing countries and the availability of competitive oils and fats. The average (f.o.b.) prices of most of the coconut products during the first two quarters of the year were almost half of what they were in the previous year. The steady decline in prices continued well into the third quarter of the year, but thereafter prices tended to pick-up. The unsteady political situation in the Philippines and the shortfall in supplies from other major producers, contributed to the later improvement in prices.
+
+Depressed prices necessitated a further reduction in export duties. The export duty on desiccated coconut was halved from Rs. 5,000 per metric ton in 1985 to Rs. 2.500 per metric ton while the duty on copra was lowered from Rs. 4,750 to
+
+( 41 )
+
+Rs. 2,000 per metric ton, with effect from 3rd April, 1986. As a further incentive, the levy of the cess on copra, coconut oil, desiccated coconut and fresh coconuts exports was suspended.
+
+The average Colombo market price of a coconut fell further from the depressed levels of the previous year by 16 per cent, to Rs. 1.83 per nut in 1986. When transport charges and payments for intermediary functions up to the Colombo market are taken into account, the farm gate price of a coconut is very likely to have been below cost of production. The cost of production is estimated to be Rs. 0.70 per nut in 1986 compared with Rs. 0.64 in the previous year. With a view to assisting the industry in use of fertilizer, the newly established Stabilization Fund for Coconut provided a rebate of Rs. 150 per metric ton on coconut fertilizer;
+
+Minor Export Crops
+
+Minor export crops consist of a number of perennial crops grown mostly in a few mid and low country wet zone districts where agro-climatic condit'ons are favourable for their cultivation. These crops are mostly grown in mixed cultivations in home gardens. The specific nature of their cultivation does not lend itself easily to an estimation of either the area under cultivation or the output. Consequently, the performance of this sector is monitored through the volume of exports, which is considered to be a reasonable proxy'for production, assuming that domestic consumption is negligible. ,
+
+Export data indicate a mixed performance of the minor export crop sector in 1986. There were considerable increases in the exports of cloves, nutmeg, cardamom and pepper in 1986. Export volume of cloves increased more than two fold after a slack in production following a very high level in 1983. Nutmeg and cardamom exports rose by 17 and 18 per cent, respectively. Export volume of pepper expanded moderately by 5 per cent. In contrast, export volumes of some of the more important crops in this sector such as coffee, sesame seed and cocoa, which rose substantially in the previous year, declined markedly in 1986. Cinnamon exports remained more or less the same as in 1985.
+
+Fertilizer issues to the minor export crop sector increased marginally from 2,200 metric tons in 1985 to 2,400 metric tons in 1986.
+
+With a view to encouraging cultivators to invest more in this sector, subsidies paid for replanting, new planting and rehabilitating under the Minor Export Crop Assistance Scheme were increased substantially in 1986. The replanting subsidy paid for cocoa at Rs. 26,440 per hectare was almost four times the subsidy paid previously, while that paid for cardamom at Rs. 24,710 per hectare was more than six times. Similar increases were made in the subsidies paid under the Assistance Scheme for Minor Export Crops Processing Units with a view to increasing capacity and upgrading the quality of processing. Further, to encourage monocropping, extents of over 1.2 hectares were paid an additional 50 per cent of the existing subsidy. However, in the case of mixed cropping too, an additional 25 per cent of the existing subsidy was paid but was confined to extents of 1.2 hectares and below on any single permit.
+
+( ' 4 2 )
+
+The total amount of subsidies granted under the Minor Export Crop Assistance Scheme amounted to Rs. 9.1 million in 1986 compared with Rs. 8.6 million in 1985. Of this 47 per cent was for new planting of pepper and coffee, while 23 per cent was for mixed home garden cultivations. On the basis of data gathered b> the Depart­ment of Minor Export Crops, the replanted and new planted extents of minor export crops declined by 31 per cent in 1986 to 556 hectares. New planting of cocoa and cinnamon declined by 48 per cent each, while that of coffee, cloves and cardamom fell by 37,16 and 54 per cent, respectively. In contrast, new planting and replanting of pepper increased moderately by 4 per cent.
+
+While it is too early to comment on the impact of enhanced subsidies on planting practices, it may be pointed out that an important factor which impedes the planning of a suitable scheme of assistance to this sector is the lack of a reliable data base. Development of reliable data and a sub-sector programme is a long felt need in reviving this vital sector, which has considerable potential for expansion as an important export earner.
+
+Paddy
+
+Paddy production, which reached the highest level ever in the previous year, suffered a slight setback in 1986. The total production, provisionally estimated at 2.6 million metric tons (124 million bushels of paddy or 1.8 million metric tons of rice) was 2.5 per cent lower than the production in 1985.
+
+The fall in production was mainly evident in the reduced 1985/86 Maha harvest, estimated at 1.7 million metric tons, reflecting a decline of 3.6 per cent over the previous Maha. Almost the entire decrease in output was reflected in the paddy producing districts of the Northern and Eastern provinces. Substantial production losses were recorded in Trincomalee, Batticaloa, Kilinochchi, Jaffna and Vavuniya. A decline of about 20 per cent in the area cultivated, a higher incidence of crop failure of about 23 per cent of the gross extent sown (as against 5 per cent in the previous year) and breach of the Kantale dam which affected the paddy cultivation particularly in the Trincomalee district were the major reasons for the low output in these areas. However, the decline in Maha production in these areas was partly offset by a significant expansion in production in other areas of the country, due largely to sub3tantially higher fertilizer application under favourable weather conditions.
+
+Paddy production in Yala, 1986 estimated at 0.9 million metric tons, was more or less the same as in the previous Yala season. There were increases in gross extent sown and fertilizer application by 10 per cent and 6 per cent, respectively, but there was a decline in the average yield, due to adverse weather during the latter part of the year.
+
+The total extent under paddy increased marginally by 2 per cent in 1986. This was entirely due to a 10 per cent rise in the extent cultivated during Yala, which offset a 3 per cent drop during the Maha. A marginal increase was observed in major irrigated areas.
+
+TABLE 1. 13
+
+Statistics on Paddy Sector 1985-1986
+
+1985 1986(a) Item Unit
+
+Maha Yala Total Maha Yala Total
+
+Gross extent sown ... ... '000 Hectares • 570 312 882 555 342 " 897 Fertilizer issues (b) '000 Mt. tons 84 69 153 124 73 197 Credit granted Rs. Million 83 38 121 100 89 189 Gross extent harvested '000 Hectares 560 305 865 527 310 837 Yield per hectare (c) Kgs. 3,498 3,343 3,444 3,585 3,287 3,476 Net extent harvested .... '000 Hectares 498 270 768 • 469 272 741 Production '000 Mt. tons 1,751 910 2,661 1,688 907 2,595
+
+Purchases under GPS (d)
+
+('000 Bushels) (83,908) (43,607) (127,515) (80,888) (43,463) (124,351) Purchases under GPS (d) '000 Mt. tons 94 07 101 138 15 153 Rice Imports „ — — 182 —. 220 Paddy equivalent) (260) (314) •
+
+(a) Provisional. (b) The fertilizer issues during cultivation year and calendar year are invariably different
+
+Cultivation year comprises Maha (September/October—March/April) and Yala (April/May—August/September) (c) Yield per hectare for Maha and Yala are calculated using data from the Department
+
+of Census and Statistics which are based on crop cutting surveys while total yield is calculated by dividing total production by the net extent harvested, (rf) Maha paddy harvest is purchased during the period from January to July while Yala harvest is purchased during the period from August to December. •
+
+Sources: Department of Census and Statistics; Department of Agriculture; Ministry of Agricultural Development
+
+and Research; Paddy Marketing Board: Food Commissioner's Department; Central Bank of Sri Lanka.
+
+( 44 )
+
+The total extent harvested during 1986 fell by 3 per cent. The harvested area during Maha 1985/86 declined by 6 per cent, while that of Yala, 1986 increased by 2 per cent. The difference between the extent sown and the extent harvested in 1986 amounted to 60,000 hectares, or 7 per cent of the gross extent sown. The incidence of crop failure during Yala was greater with 9 per cent of the gross extent sown, compared with 5 per cent in the Maha season. The highest crop failure during Yala, 1986 was in the Kurunegala district, where the extent harvested was only 54 per cent of the gross extent sown. The higher incidence of crop failure in this district which accounts for about 14 per cent of the gross extent sown in the entire country, underscores the widespread nature of adverse weather conditions that prevailed in some of the major paddy producing areas towards the latter part of the year.
+
+According to the Ministry of Agricultural Development and Research, fertilizer issues to the paddy sector during cultivation year 1985/86 amounted to 197,000 metric tons. This was an increase of 29 per cent, when compared with issues made in the previous year. Fertilizer issues during Maha 1985/86 increased sharply by 40,000 metric tons or 48 per cent over the issues during the previous Maha season, but the issues during Yala 1986 rose by only 6 per cent despite an increase in the extent cultivated by 10 per cent. This was mainly due to "weather factors. The average quantity of fertilizer used per hectare increased by 52 per cent in the Maha season, while that of Yala declined by 4 per cent. According to the National Fertilizer Secretariat, fertilizer issues to the paddy sector on a calendar year basis, amounted to 213,539 metric tons in 1986, showing an increase of 5 per cent over the issues in 1985.
+
+Reversing the declining trend observed during the last few years, paddy purchases under the Guaranteed Price Scheme (GPS) by the Paddy Marketing Board (PMB) increased by 51 per cent in 1986. In spite of a large drop in purchases from the areas affected by civil disturbances in the Northern and Eastern provinces, this turn-around was mainly due to the upward revision in the GPS price from Rs. 62.50 to Rs. 70.00 per bushel announced in the Budget for 1986, which enabled the PMB to play a more active role in the market. District-wise performance indicates that paddy purchases from the Anuradhapura district increased more than three fold while the Polonnaruwa district had recorded an increase of 88 per cent over the purchases during the previous year. The reluctance of private dealers to carry large stocks due to civil unrest in these districts may also have contributed towards this improved performance of the PMB.
+
+Despite the slight setback suffered during the year, paddy production was very nearly sufficient to meet consumption requirements in 1986. The rice equivalent of the total paddy production, after adjusting for wastage and seed paddy require­ments, amounted to about 1.6 million metric tons, which was more or less equal to the consumption needs* of the country. However; 220,000 metric tons of rice was imported in 1986 by the Food Commissioner to maintain buffer stocks.
+
+* According to the Consumer Finances and Socio-Economic Survey 1981/82 conducted by the Central Bank of Sri Lanka, per capita consumption of rice is estimated around 101 kgs. per person per year. The estimate of aggregate consumption in 1986 was obtained by multiplying this estimate of per capita consumption by mid-year population in 1986.
+
+( 45 )
+
+The average open market price of paddy remained slightly higher compared with the previous year, largely owing to tin increased guaranteed price. The annual average price per bushel of paddy at Rs. 84.81 was 5 per cent higher than that of 1985, and about 21 per cent higher than the guaranteed price. Following the same trend, open market prices of raw, par boiled and samba varieties of rice too remained marginally higher than those of the previous year. Notwithstanding this, the prices remained more or less stable during the year. The price of Samba varied between Rs. 8.00 per kg. in surplus districts to Rs. 13.00 per kg. in deficit districts, while par boiled rice prices varied between Rs. 7.50 to Rs. 10.00 per kg. The price of raw rice fluctuated between Rs. 6.50 and Rs. 9.50 per kg.
+
+With new lands coming under paddy cultivation, partici larly in areas under the Accelerated Mahaweli Scheme, with an assured supply of irrigation water, there are prospects of a surplus in paddy production emerging in the near future. In such an event, with virtually no arrangements for export of rice, paddy prices are very likely to fall sharply, depressing producer margins. The dilemma of assuring a reasonable income to paddy farmers in this context will pose a challenge to the country. One way of coming to grips with this problem would be to encourage greater domestic consumption of rice through the adjustment of relative prices of rice and wheat flour, and popularizing rice-based products as substitutes. Another feasible measure from the view point of efficient allocation of resources would be the diversion of marginal paddy lands for the cultivation of other crops or for other uses. Further, the breeding and popularizing of new varieties of rice that are in good demand in international markets appears to be a worth while experiment.
+
+In spite of commendable achievements in production, the obsolete technology used in the processing of paddy results in considerable wastage, and poor quality rice. It is vitally important to improve the technique of processing if Sri Lanka is to break into the rice export market and to develop domestic rioe based industries. Hence, there is an urgent need for the rice milling industry to be upgraded through the introduction of new techniques and incentives.
+
+Sugar
+
+Total sugar production in 1986, estimated at 34,391 metric tons, was an increase of 94 per cent over the production in 1985. This domestic production was estimated to have met 11 per cent of the domestic requirements. The Sri Lanka Sugar Corporation (SLSC) accounted for 62 per cent of the production, while the private sector was responsible for the balance, following its entry into sugar production in 1986. The new factories which commenced operation during the year, were at Sevenagala and Pelwatta.
+
+The SLSC factories at Kantale and Hingurana, together with the new factory at Sevenagala commissioned in September, 1986, produced 21,275 metric tons of sugar during the year. The production of the Hingurana factory decreased by 22 per cent, while that of the Kantale fell by 10 per cent over the production levels of the previous year. However, sugar production by the new factory, which accounted
+
+( 46 )
+
+for about 31 per cent of the total SLSC production in 1986, more than compensated for the decline in other factories, resulting in an overall increase of 20 per cent in the state sector sugar production.
+
+The entire production of the private sector came from the Pelwatta Sugar Co. Ltd. managed by Bookers International of England which was commissioned in June, 1986. The initial production of this company was estimated at 13,116 metric tons. This was 13 per cent lower than the envisaged initial capacity output of 15,000 metric tons.
+
+The total extent under sugar cane cultivation (including ratoonings) more than doubled from 4,790 hectares in 1985 to 10,778 hectares in 1986, mainly owing to the new lands brought under cultivation at Sevanagala and Pelwatta. About 59 per cent of this area came under the three factories of the SLSC, the remaining 41 per cent was managed by the Pelwatta Sugar Co. Ltd. The extent under cane cultivation of the Kantale factory at 2,118 hectares showed a decline of 18 per cent, while that of the Hingurana factory decreased marginally to 2,188 hectares in 1986. The extent cultivated by the Sevanagala factory during the year was 2,088 hectares, while that of the Pelwatta Sugar Company amounted to 4,384 hectares.
+
+Sugar recovery rates at the Hingurana and Kantale factories which declined continuously during the past few years increased by 25 per cent and 3 per cent, respectively in 1986. The sugar recovery rate of 8.09 per cent at the Kantale factory was the highest for 1986, followed by Sevanagala at 7.99 per cent and Pelwatta at 7.96 per cent. Better sugar recovery rates in 1986 were largely due to favourable weather conditions, which helped to increase the sugar content in cane on the one hand and better processing facilities lately introduced at the Kantale and Hingurana factories on the other. High sugar recovery rates at Pelwatta and Sevanagala were largely explained by the better quality of cane and efficient processing techniques.
+
+In 1986, cane purchased by factories from the private cultivators dropped by 27 per cent to 59,160 metric tons, despite some 20,138 metric tons purchased by the Pelwatta Sugar Co., Ltd. This drop was largely due to the reduced purchases by the Hingurana factory, which usually absorbs a good part of the supplies from the private cultivators. Bought cane component of this factory at 38,426 metric tons was even lower than half the quantity purchased in 1985. Bought cane component of other factories continued to be negligible.
+
+The estimates of cost of production (COP) of sugar in the SLSC factories are not available. The Pelwatta Sugar Co. Ltd., has estimated its cost of production at Rs. 24.57 per kg. However the Government has agreed to subsidize the difference between the open market price of sugar and the COP. This is a matter for concern as the COP is very much higher than the present open market price of sugar. If Sri Lanka is to successfully promote domestic production with a view to replacing imports, it is important that COP is maintained at competitive levels in order to ensure that the domestic consumer is not unduly penalised.
+
+( 47 )
+
+Minor Food Crops
+
+Except a few crops such as potatoes, chillies and onions which are grown in a systematic way, most of the minor food crops are grown under shifting ' chena ' type of cultivation or in home gardens as mixed crops. This makes the estimation of area under cultivation and production rather difficult and hence the data per­taining to these crops are based on crude estimates.
+
+According to tentative data provided by the Ministry of Agricultural Development and Research, the minor food crop sector which faired poorly during the past few years showed some imporvement in 1986. The production of most minor food crops increased substantially in the 1985/86 Maha season while in Yala, production suffered a slight setback due to unfavourable weather, particularly in the dry zone. The production of soya bean and red onions increased substantially, while maize, cowpea, ground nuts, gingelly, green gram and chillies also recorded increases. On the other hand, production of potatoes, black gram and kurakkan decreased during the year.
+
+The increase in the production of chillies, red onion, cowpea, green gram and soya bean was largely due to the expanded extent cultivated under the Mahaweli Development Project. The area under these crops in the two seasons increased by 37 per cent to about 16,300 hectares in 1986. About 75 per cent of this was in the Mahaweli 'H' area during the Yala, 1986 season.
+
+During Maha 1985/86, the production of soya beans increased substantially. Significant increases were also recorded in the output of gingelly, red onions, chillies and ground nuts. In spite of a decline in the extent cultivated, production of maize and manioc increased considerably, owing to favourable weather. The production of black gram and sweet potatoes declined.
+
+Despite lower rainfall, the production of red onion, cow pea, green gram, soya bean, black gram and ground nuts recorded increases in the Yala season too. Expanded cultivation due to availability of irrigation facilities under the Mahaweli Project was the major factor contributing to this improvement. Despite an increase of about 15 per cent in the extent cultivated, the production of chillies declined during the Yala as a result of dry weather conditions towards the latter part of the season. A reduction in the maize and potato output was due to a drop in extent cultivated by about 55 and 15 per cent, respectively. Gingelly production rose marginally.
+
+Fertilizer issues to the minor food crop sector rose by 27 per cent to 21,300 metric tons in 1986. There were no shortages of seed materials in 1986, which was a major problem faced in the previous year. With a view to improving land utilization and enhancing production, the Agricultural Development Authority (ADA) initiated several training programmes on tractor servicing and tractor driving, servicing of sprayers, maintenance and servicing of irrigation water pumps and trading in agricultural products.
+
+( 48 )
+
+The Floor Price Scheme (FPS) operated by the Paddy Marketing Board (PMB) for eight minor food crops continued to be in force in 1986 as well. The prices were raised during the year with a view to promoting the cultivation of these crops. Accordingly, the prices paid for maize and soya beans were increased by Re. 1 each to Rs. 4 and Rs. 7 per kg., respectively. Price paid for ground nuts was increased marginally by 25 cents to Rs. 6.25 per kg. Kurakkan received a somewhat higher price of Rs. 4.50 per kg. compared with Rs. 2.75 per kg. paid earlier. Prices paid for green gram and cowpea were increased by Rs. 3.00 and Rs. 2.50 to Rs. 8.50 and Rs. 10.00 per kg., respectively. A system of two tier prices was introduced for gingelly and chillies. Black gingelly received a price of Rs. 7.00 per kg. whereas white gingelly was paid Rs. 8.00 per kg. compared with a uniform rate of Rs. 6.00 per kg. paid earlier. The floor price paid for dried chillies was increased to Rs. 26.00 and Rs. 28.00 per kg. depending on quality, compared with the uniform price of Rs. 21 per kg. paid previously.
+
+The quantity of maize purchased by the PMB under the FPS in 1986 was more than thrice the quantity purchased in the previous year. Soya bean purchases also showed a sharp increase, from 20 metric tons in 1985 to 424 metric tons in 1986. Ground nuts, cowpea and chillies were also purchased by the PMB, though in lesser quantities.
+
+Despite various inducements provided, the performance of the minor food crop sector had been below expectations, owing to certain constraints inhibiting its development. Since subsidiary food crops are grown mainly during Yala, the extent cultivated depends to a large extent on the success or failure of the Maha paddy harvest. If the Maha harvest is poor, there would be more concentration on paddy during Yala to make up for the short-fall in Maha crop. Thus, with a rather unstable supply, marketing becomes difficult, leading to large price fluctuations. This, in turn, makes production planning more difficult, since poor prices for certain crops in a given year will induce reduced production in the next year.
+
+Fish and Livestock
+
+Fish production in 1986, provisionally estimated at 183,056 metric tons, showed a moderate increase of 6 per cent over the previous year. The output of the coastal fishery which accounts for the bulk of production increased by 4,000 metric tons or 3 per cent, while that of the inland fishery rose by 8 per cent from 32,743 metric tons in 1985 to 35,390 metric tons in 1986. Off shore and deep sea fish production rose by 42 per cent but yet accounts for only 2 per cent of output. Total production in 1986 was still considerably lower than the level reached before the civil disturbances began to take its toll on this industry by severely disrupting the fishing activities in the Northern and Eastern regions. The total production in 1983, for instance, was estimated at 220,900 metric tons.
+
+The improved performance of the fisheries sector despite restricted fishing activities in the Northern and Eastern regions reflected the intensification of fisheries activities in the Western and Southern coastal areas following the movement of
+
+( 49 )
+
+migrant fishing boats from the North Western and North Eastern regions. It was also a reflection of the growing importance of the inland fisheries sector in the country's fishing industry.
+
+The total amount of subsidies granted for both marine and inland fishery sectors under different subsidy schemes amounted to Rs. 25 million in 1986, compared with Rs. 14 million granted in the previous year. During the year, 464 boats and- 873 engines were issued to the fisheries sector under different subsidy schemes. Meanwhile, the implementation of several fisheries development projects funded by foreign sources continued in 1986. These included the North West Coast Fisheries Development Project, East Coast Fisheries Project, West Coast Fisheries Project and the Sri Lanka Aquaculture Project. The coastal fisheries projects were involved in the construction of fishing vessels and boat yards while the Aquaculture Project was involved in the development of inland fisheries.
+
+In overall terms, the performance of the fisheries sector has been below expectations with the output remaining considerably short of what is required for meeting domestic consumption requirements. Inadequate supply in the face of rising demand resulted in an increase of prices of all varieties of fish over the past few years. The prices of most of the popular varieties rose by more than 10 per cent in 1986 over the prices in the previous year. However, the difference between the producer and consumer prices remained rather modest during the year indicating that there was heavy competition which assured a better price to producers. Mean­while, the high fuel cost appears to be one of the major contributory factors for the high cost of production in the marine fisheries sector which supplies bulk of the output. The fisheries development policy should therefore focus attention on less energy consuming methods of fish production such as aquaculture. Therefore, a concerted effort on the development of the inland fisheries sector, which has a potential for development in terms of about 300,000 acres of water bodies should be made. In this regard, a loan of Rs. 540 million expected from the ADB for the development of this sector through investments in research, training, extension, processing and marketing over the next five years could be of vital importance.
+
+Although considerable investments have been made for the upliftment of the fisheries sector, the attention so far paid for the development of offshore (between 25-60 miles from the coast) and deep sea (beyond 60 miles from the coast) fishing appears to have been limited. During the past decade, the activity of these sectors had declined although there is considerable scope for exploiting the potential in this sector for expanding production. In view of the heavy investments required and the advanced technology involved, the private sector initiatives are not forth­coming in this sector. Hence, either through appropriate incentives or with foreign collaboration in joint ventures, it is desirable to tap the potential of this heavily underutilized sector.
+
+The Department of Census and Statistics has provisionally estimated milk production (including buffalo milk) in 1986 at 178* million litres. This is 2 per cent
+
+* This data series has been revised since 1984 to rectify certain technical inaccuracies involved in estimation.
+
+( 50 )
+
+lower than the production in 1985. A noteworthy development in the dairy sector during the year was the privatisation of the National Milk Board (NMB). The Milk Industries of Lanka Co., Ltd. (MILCO), a newly instituted private company, took over the operations of the NMB from 1st August, 1986. Since its inception, the MILCO collected 28.2 million litres of milk bringing the total collection in 1986 to 67.2 million litres. This was almost equal to the collection in the previous year. Civil disturbances which disrupted the milk collection activities in the North, North Central and Eastern provinces and drought condition which prevailed in the coconut triangle appear to have constrained the growth of this sector in 1986.
+
+During the year, the Department of Animal Production and Health and the National Livestock Development Board under the Ministry of Rural Industrial Development continued with their programmes of assistance such as the provision of breeding services, immunization against infectious diseases, pasture developmenet and training of personnel in animal husbandry. In addition, several special projects funded through foreign aid, as well as with local funds aimed at raising the output of the livestock sector continued in 1986. These included the Sri Lanka/Swiss Livestock Development Project, Sri Lanka/German Goat Development Project, Anuradhapura Dry Zone Agricultural Project, Kurunegala District Livestock Development Project, Sri Lanka/ADB Livestock Development Project, CIDA Poultry Development Project and several IRD projects at district level with particular emphasis on livestock development.
+
+Sri Lanka/Netherlands Livestock Development Programme which commenced operations in 1982 was concluded during the year. However, the Netherlands assisted Small-Holder Dairy Development Project which formed a part of this programme in the latter stages will continue its operations. Notwithstanding these efforts, the performance of the livestock sector suffered a setback in 1986 due to several factors. Shortfall of income of the National Livestock Development Board resulting from lower prices for coconut products held down the capital expenditure on various projects. Capital expenditure on farms situated in the Dry Zone areas had to be suspended due to civil disturbances.
+
+The Department of Census and Statistics has provisionally estimated the egg production in 1986 at 667 million. This was an increase of 8 per cent over that of the previous year.
+
+Rural Credit
+
+In 1986 several new measures were introduced in the sphere of rural credit. A fifth Regional Rural Development Bank (RRDB) was opened in the Hambantota district. There had been a marked improvement in the disbursement of short term agricultural credit with the introduction of the New Comprehensive Rural Credit Scheme (NCRCS) from Yala 1986. Further, a marketing Loan Scheme to purchase soya bean and maize by the Ceylon Oils and Fats Corporation also came into effect in 1986.
+
+Several new features introduced through the NCRCS had a significant impact on the disbursement of short term agricultural credit which was reflected in the sanctioning of cultivation loans amounting to Rs. 151 million by the banks under this scheme, the highest ever sanctioned in a Yala season. The banks had granted
+
+( 51 )
+
+Rs. 138 million out of the total amount sanctioned. Arrangements for approving a line of credit for a period of three years or six successive cropping seasons was well received by the farmers. The maximum limit under the line of credit is determined by the bank in consultation with the borrower after taking into consideration the anticipated cropping pattern over the three year period. Hence, the loan under the NCRCS is not a crop specific loan. The farmer is given the flexibility to undertake the cultivation of any crop he prefers, taking into consideration the availability of water, prices and profitability. Also, it reduces for the borrower as well as for the lending bank the transaction cost as the filling of forms is undertaken once only for six seasons. With a view to further reducing costs of operating the scheme, banks were also required to adopt an area approach in lending. Instead of scattering the loans over a large area, banks now tend to concentrate their loans in selected areas, which helps better end-use supervision and recovery. To assist farmers who have had a sound financial relationship over a reasonable period of time, the banks are also required to dispense with some of the security arrangements such as the requirement to provide inter-se guarantee of two farmers.
+
+In addition to the People's Bank (PB), Bank of Ceylon (BC), Hatton National Bank (HNB), and the Indian Overseas Bank (IOB) the newly established RRDBs also granted cultivation loans in 1986. NCRCS also provides for the involvement '** spf Thrift and Co-operative Credit Societies (TCCSs) in the provision of cultivation loans to farmers. Yala 1986 was the first occasion that the TCCSs participated in a scheme of credit financed by the banking system with the refinance support of the Central Bank. Only two societies registered under the provisions of the NCRCS in time for the Yala 1986. It is expected that more societies will join the scheme in the future. TCCSs participation in the scheme was secured on the basis of a partner­ship arrangement. Under the partnership arrangement, the TCCSs put up 25 per­cent of the resources required while 75 per cent of the resources is. provided by the lending bank. The risk of loss is shared between the TCCSs and the bank in the same proportion. Since there is participation by the TCCSs both in the provision of resources as well as in the sharing of risk, it is expected that there will be greater discipline at the stages of loaning, disbursements and recovery. Only a small number of Multi-Purpose Co-operative Societies (MPCSs) continue to channel cultivation loans to their members with the assistance of the PB. A large majority of MPCSs have been made ineligible by PB because of previous defaults. In order to bring back the ineligible MPCSs into the system once again, NCRCS provide for securing their participation on the basis of a partnership. The PB requires such MPCSs to participate in the risk sharing up to 40 per cent. In the Yala 1986, there were no MPCSs participating in the scheme on the basis of the new arrangements.
+
+The Maha 1985/86 cultivation loans were given under terms and conditions applicable to the Comprehensive Rural Credit Scheme (CRCS), the Scheme that was in operation before the introduction of NCRCS from Yala 1986. Table 1.14 indi­cates that the cultivation loans granted under the CRCS and the NCRCS by the two state banks, HNB, IOB and the RRDBs amounted to Rs. 257 million in the culti­vation year 1986, an increase of 61 per cent compared to the total loans granted in the previous cultivation year. The increase is a reflection of a more accomodating attitude by the two state banks towards small farmers in the country, influenced to
+
+TABLE 1.14
+
+Cultivation Loans Granted under the Comprehensive and New Comprehensive Rural Credit Schemes
+
+(Position as at 31st December, 1986)
+
+(Rs. Million)
+
+Period
+
+People's Bank Bank of Ceylon Hatton National Bank Indian Overseas Bank Regional Rural Dev. Banks Total Loans Total] Loans under the Period Paddy Minor food crops
+
+Total Paddy Minor food crops
+
+Total Paddy Minor food crops
+
+Total Paddy Minor food crops
+
+Total Paddy Minor food crops
+
+Total Paddy Minor food crops
+
+CRCS and NCRCS
+
+1984/85 Maha 35.6 5.1 40.7 32.9 13.0 45.9 14.5 1.6 16.1 n.a. n.a. n.a. — — — 83.0 19.7 102.7
+
+1985 Yala 19.1 5.8 24.9 14.2 8.8 23.0 5.1 3.2 8.3 n.a. n.a. n.a. _ — — 38.4 17.8 56.2
+
+Cultivation year 1985 ... 54.7 10.9 65.6 47.1 21.8 68.9 19.6 4.8 24.4 n.a. n.a. n.a. — — — 121.4 37.5 158.9
+
+1985/86 Maha 44.1 5.2 49.3 43.0 11.1 54.1 12.7 2.9 15.6 — — — — .—. — 99.8 19.2 119.0
+
+1986 Yala 51.4 23.0 74.4 31.0 13.6 44.6 5.2 11.9 17.1 0.3 — 0.3 1.1 — 1.1 89.0 48.5 137.5(a)
+
+Cultivation year 1986(6)... 95.5 28.2 123.7 74.0 24.7 98.7 17.9 14.8 32.7 0.3 — 0.3 1.1 — 1.1 188.8 67.7 256.5
+
+(a) Amount released by the banks. Sources: People's Bank; (6) Provisional. Bank of Ceylon; Hatton National Bank Ltd. Indian Overseas Bank; Regional Rural Development Banks.
+
+( 53 )
+
+a large extent by the fax reaching modifications introduced to the credit scheme making it more flexible and less expensive to operate and also by the introduction of a credit guarantee scheme to cover losses upto 50 per cent.
+
+The increase in lending was shared by ?.1I three major participating banks. An increase of 88 per cent in lendings compared to the previous year was reported by PB while the increases reported by the (BC) and the HNB were 43 per cent and 34 per cent respectively. The highest volume of lending as well as the highest rate of increase were reported by the PB. The cultivation loans granted by the PB amounted to Rs. 124 million in 1986 compared to Rs. 66 million granted in the cultivation of year 1985.
+
+Of the total cultivation loans granted in the cultivation year 1986, 48 per cent was granted by the PB while the respective shares of (BC) and the HNB were 38 per cent and 13 per cent. In addition to the increased efforts by the banks to lend under the NCRCS,' the operation by the PB of the Rescheduling Scheme of Overdue Culti­vation loans introduced by the Central Bank in 1982 also helped in increasing the volume of lendings. Only the (BC) agreed to implement this scheme at its inception in 1982. However, the participation of the PB in the scheme from 1986 enabled many farmers who had defaulted their earlier cultivation loans due to natural cala­mities to obtain fresh loans.
+
+Loans'for paddy cultivation in 1986 totalled Rs.. 189 million or 74 per cent of the total cultivation loans. It shows an increase of 56 per cent compared to the amount granted in the previous year. The PB granted Rs. 96 million or 51 per cent of all paddy loans, compared with 45 per cent in the previous year. The (BC) retained its share of paddy loans in the cultivation year 1986 at 39 per cent, as in the previous year. The paddy loans granted by the HNB shows a decline of Rs. 1.7 million or 9 per cent.
+
+Loans for paddy cultivation in Maha 1985/86 at Rs. 100 million was little more than half of the paddy loans granted in the year, whereas such loans were two thirds of the total in the previous year. This was due to a sharp increase of 145 per cent in cultivation loans granted in Yala 1986 compared to Yala 1985.
+
+The PB accounted for 44 per cent of paddy loans in Maha 1985/86 while the (BC) and the HNB contributed 43 per cent and 13 per cent respectively. Both PB and (BC) have increased their paddy loans in Maha 1985/86 compared to the previous Maha Season. The PB has granted Rs. 51 million in Yala 1986, an increase of nearly 169 per cent compared to the paddy loans granted in previous Yala. The (BC) which granted Rs. 31 million for paddy cultivation in Yala 1986 recorded an increase of 118 per cent compared with the previous Yala season.
+
+The total number of cultivation loans in Yala 1986 amounted to 23,964, of which 68 per cent was for paddy cultivation, 27 per cent for chillies and 5 per cent was for all other crops;- Out of the total number of loans in Yala, 1986, 70 per cent went to the colonists, while 21 per cent was received by free holders and 8 per cent by ande holders (share-croppers). A pattern similar to this was observed in the
+
+( 54 )
+
+extent of area financed under the Scheme, 71 per cent of the total area was in the colonization scheme, 20 per cent in freehold lands, 8 per Cent ande lands and 1 per cent leasehold lands. The total extent of land for which credit was provided in Yala 1986 stood at 52,458 acres, of which 88 per cent was under major irrigation schemes. The extents under minor irrigation and rainfed were 4 per cent and 8 per cent respec­tively.
+
+Loans for minor food crops rose by 80 per cent in the cultivation year 1986 compared to the previous year. The PB's and HNB's lending almost trebled to 28 million and Rs. 15 million respectively. The corresponding increase by the Bank of Ceylon was from Rs. 22 million in 1985 to Rs. 25 million in 1986.
+
+Although the grant of cultivation loans showed improvement in 1986, the recovery of past cultivation loans granted under CRCS declined in 1986. Recovery of paddy loans in 1986 was 75 per cent compared to 82 per cent in 1985. However, of the total paddy loans disbursed during Maha 1985/86, 79 per cent had been recovered by the end of 1986. This can be considered as satisfactory when compared to 67 per cent recovery rate for 1984/85 Maha loans by the end of 1985. The rate of recovery of minor food crop loans granted during the cultivation year 1986 was 60 per cent by the end of 1986 compared to the rate of recovery of 78 per cent of such loans granted in the previous cultivation year. The recovery rate in 1986 appears satisfactory when compared to 60 per cent recovery rate achieved on the minor food crop loans granted in 1985 by the end of the same year.
+
+The rescheduling scheme of existing cultivation loans showed satisfactory progress due to the participation of the PB in the Scheme in 1986. During the year, the PB rescheduled 5,508 direct loans amounting to Rs. 14 million and 6,222 loans granted through Co-operatives totalling Rs. 23 million. From Yala 1986, under the NCRCS, the banks were offered roll-over facility under which the Central Bank refinanced rescheduled loans. Under this facility the cultivation loans defaulted on account of crop damage by natural calamities and the accrued interest can be resche­duled for a period of 32 months. The Central Bank extended refinance in respect of such loans at the rate of interest of 1.5 per cent per annum. Under the roll-over facility the PB rescheduled 245 loans granted in Yala 1986 amounting to Rs. 0.7 million. The corresponding figures for (BC) were 60 loans amounting to Rs. 0.2 million. From Yala 1986, the cultivation loans granted under NCRCS were covered by a 50 per cent guarantee under the Central Bank Credit Guarantee Scheme.
+
+Five new credit schemes were introduced in 1986 to provide medium and long term credit to the rural sector. Credit for Dairy Development, the ADB Livestock Development Project and the Credit Scheme for Tube Wells for Lift Irrigation were among the new Credit Schemes. Further, two credit schemes were introduced for the promotion of self-employment opportunities for the rural youth. The promotion of self employment received wider recognition in the new schemes introduced during the year. The credit schemes for the promotion of self-employment were specially designed for implementation through the Central Bank Regional Office at Matale and by the RRDBs.

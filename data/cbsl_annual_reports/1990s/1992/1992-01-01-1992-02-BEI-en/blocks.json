@@ -1,0 +1,446 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      220.56,
+      298.74,
+      275.72,
+      313.13
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      142.56,
+      79.72,
+      331.0,
+      91.9
+    ],
+    "text": "BASIC ECONOMIC INDICATORS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      175.44,
+      101.66,
+      415.25,
+      111.86
+    ],
+    "text": "1991 1992 1991 1992",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.84,
+      125.42,
+      283.7,
+      135.86
+    ],
+    "text": "Population Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.84,
+      142.94,
+      415.69,
+      176.18
+    ],
+    "text": "Mid-year estimate Mn. 17,2 17.4 Imports Rs. Mn. 126,643 152,407 Growth rate % 1.5 1.0 SDR Mn. 2,237 2,468 Exports Rs. Mn. 84,378 110,052",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.048738479614258,
+      9.049052238464355
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      177.5,
+      326.38,
+      199.22
+    ],
+    "text": "National Income SDR Mn. Tea",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      348.0,
+      177.74,
+      370.98,
+      198.98
+    ],
+    "text": "1,491 316",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      177.5,
+      415.75,
+      304.82
+    ],
+    "text": "1,782 241 Rate of Growth of GDP% Rubber 47 48 (In real terms) 4.6 4.3 Coconut 46 60 Rate of Growth of GNP% Garments and (In real terms) 4.6 4.4 Textiles 588 852 Per Capita GNP Petroleum (Current prices) Rs. 19,017 21,641 Products 58 45 U S $ 460 494 Other Industrial Exports 250 331 Sectoral Growth Rates (%)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      312.86,
+      172.6,
+      322.82
+    ],
+    "text": "Agriculture, Forestry and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      305.42,
+      383.46,
+      322.82
+    ],
+    "text": "Balance of Payments (SDR Mn.) Agriculture, Forestry and",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.6,
+      323.42,
+      415.58,
+      335.06
+    ],
+    "text": "Fishing 1.9 -1.5 Trade Balance -726 -685",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      334.94,
+      415.84,
+      347.06
+    ],
+    "text": "Mining and Quarrying -10.0 -6.0 Services Account -66 -20",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      346.7,
+      416.0,
+      359.06
+    ],
+    "text": "Manufacturing 6.8 9.0 Private Transfers (net) 293 330",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      357.98,
+      416.25,
+      371.3
+    ],
+    "text": "Construction 3.1 7.0 Official Transfers 148 130",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.04,
+      369.5,
+      416.0,
+      383.3
+    ],
+    "text": "Services 6.2 5.3 Current Account Balance -352 -246 Services 6.2 5.3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.52,
+      381.02,
+      416.53,
+      390.98
+    ],
+    "text": "Overall Balance + 152 + 129",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.8,
+      392.3,
+      416.11,
+      425.06
+    ],
+    "text": "Investment and Savings Overall Debt Service Ratio % 18.5 16.7 As a percentage of",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.08,
+      425.42,
+      336.99,
+      437.3
+    ],
+    "text": "Gross Domestic Product Government Finance",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.04,
+      439.34,
+      416.18,
+      485.78
+    ],
+    "text": "(at current market prices) As a percentage of Investment 22.9 23.7 Gross Domestic Product Government 4.3 3.8 Domestic Savings 12.7 15.3 Government Expenditure 32.1 27.8",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.04,
+      483.98,
+      416.18,
+      498.02
+    ],
+    "text": "National Savings 15.2 18.3 Government Revenue 20.4 20.3 National Savings 18.3",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      245.76,
+      495.74,
+      349.25,
+      505.7
+    ],
+    "text": "Current Account Surplus/",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.28,
+      506.54,
+      416.33,
+      563.54
+    ],
+    "text": "Prices Deficit (-) -2.0 -0.6 Prices Budget Deficit Colombo Consumers' (Before grants) -11.6 -7.4 Price Index Budget Deficit % Change Dec. - Dec. 9.0 13.8 (after grants) -9.5 -5.5",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.28,
+      565.34,
+      138.25,
+      575.3
+    ],
+    "text": "Average Annual",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.56,
+      576.38,
+      325.36,
+      599.54
+    ],
+    "text": "% Change 12.2 11.4 Money and Credit % Change in Implicit",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.32,
+      597.02,
+      416.12,
+      611.54
+    ],
+    "text": "% Change M, 18.0 7.3 GNP Deflator 10.5 10.0 % Change M, 18.0 7.3 GNP Deflator 10.5 10.0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      246.24,
+      609.26,
+      416.72,
+      619.25
+    ],
+    "text": "% Change M 2 23.2 16.6",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1342105865478516,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      71.52,
+      620.06,
+      416.9,
+      665.3
+    ],
+    "text": "Exchange Rate (Average) % Change in Domestic Credit 12.0 14.2 R s . / U S $ 41.37 43.83 % Change in External Rs. / SDR 56.61 61.75 Banking Assets (net) 69.6 37.3",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.849613189697266,
+      8.954887390136719
+    ]
+  }
+]

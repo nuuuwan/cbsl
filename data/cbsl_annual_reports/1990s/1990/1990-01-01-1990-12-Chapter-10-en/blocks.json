@@ -1,0 +1,7397 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      164.64,
+      89.64,
+      323.66,
+      104.7
+    ],
+    "text": "MONEY AND BANKING",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.531829833984375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.64,
+      140.13,
+      145.16,
+      151.2
+    ],
+    "text": "MONEY SUPPLY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.88,
+      166.05,
+      149.22,
+      177.12
+    ],
+    "text": "Overall Trends",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.4,
+      189.81,
+      424.62,
+      363.12
+    ],
+    "text": "An acceleration in the rate of growth of broad money supply, mainly caused by substantial increases in external assets (net) of the banking system and domestic credit was the main feature of the monetary developments in 1990. The narrow money supply (M,), consisting of currency and demand deposits held by the public, registered an annual growth rate of 13 per cent at the end of 1990 compared with 9 per cent at the end of 1989. However, the M, growth recorded large fluctuations during the year, the annual rate rising from 9 per cent at the end of 1989 to 17 per cent by the end of April, 1990 but declining to 7 per cent at the end of October before increasing to 13 per cent by the end of December, 1990. Meanwhile, the broad money supply (Mj), comprising M, plus time and savings deposits held by the public with commercial banks increased from an annual rate of 12 per cent to 19 per cent over the two years. However, unlike in the case of M, , the annual rate of growth of Mj stood within a range of 15-17 per cent between February and November, 1990 before expanding by 2 percentage points in December to reach 19 per cent by the end of 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.867269515991211,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.4,
+      371.01,
+      424.63,
+      467.76
+    ],
+    "text": "The monetary base (reserve money or high powered money) reached Rs.31,579 million at the end of 1990 recording an annual increase of Rs.4,789 million or 17.9 per cent compared with Rs. 1,227 million or 4.8 per cent in the previous year. On the source side, this expansion was caused by a large increase of Rs.2,997 million in net foreign assets of the Central Bank. In comparison, the net-domestic assets (NDA) of the Central Bank rose by Rs. 1,792 million. On the use side, the increase was reflected in increases in the currency issue of the Central Bank (Rs.2,775 million) and the deposits with the Central Bank (Rs.2,014 million).",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.16,
+      482.13,
+      229.62,
+      493.2
+    ],
+    "text": "Money Supply and Causal Factors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.92,
+      503.97,
+      424.2,
+      614.88
+    ],
+    "text": "On an year -on- year basis, the narrow money supply (M,) expanded by Rs.4,540 million or 13 per cent in 1990 compared with an increase of Rs.2,959 million or 9 per cent in 1989. This consisted of increases in the currency holdings of the public by Rs.2,470 million or 13 per cent and in demand deposits by Rs.2,070 million or 13 per cent Meanwhile, the rate of growth of quasi-money accelerated significantly during the year recording an increase of Rs.10,044 million or 24 per cent, in comparison to a growth of Rs.5,528 million or 16 per cent in 1989.Consequently, the broad money supply (M^) recorded an increase of 19 per cent during 1990 as compared with 12 per cent in the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.16,
+      621.33,
+      423.72,
+      669.84
+    ],
+    "text": "The increase in time and savings deposits of other private sector constituents (pri\u00advate sector proper) by Rs.9,578 million or 27 per cent was mainly responsible for the expansion in quasi-money during 1990. In contrast to the decline of Rs.873 million or 17 per cent recorded in the previous year, time and savings deposits of government",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.48,
+      703.17,
+      251.38,
+      714.24
+    ],
+    "text": "129",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      196.8,
+      88.44,
+      285.18,
+      100.73
+    ],
+    "text": "MONEYSUPPLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.56,
+      105.99,
+      260.56,
+      113.8
+    ],
+    "text": "MONTHLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      64.8,
+      146.52,
+      166.9,
+      170.81
+    ],
+    "text": "RUPEES MILLION 100000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.52,
+      202.44,
+      115.35,
+      214.73
+    ],
+    "text": "90000 -",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0,
+      15.478371620178223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.76,
+      247.8,
+      101.86,
+      260.09
+    ],
+    "text": "80000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.28,
+      292.45,
+      100.23,
+      304.73
+    ],
+    "text": "70000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.72,
+      336.85,
+      102.44,
+      349.13
+    ],
+    "text": "60000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.48,
+      381.01,
+      102.39,
+      393.29
+    ],
+    "text": "50000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.96,
+      424.92,
+      103.06,
+      437.21
+    ],
+    "text": "40000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.0,
+      470.77,
+      101.91,
+      483.05
+    ],
+    "text": "30000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.72,
+      514.45,
+      102.82,
+      526.73
+    ],
+    "text": "20000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.72,
+      559.8,
+      102.25,
+      572.09
+    ],
+    "text": "10000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      323.04,
+      144.6,
+      421.54,
+      186.19
+    ],
+    "text": "RUPEES MILLION 100000 lllll|lllll",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0,
+      22.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      239.04,
+      255.8,
+      311.09,
+      274.58
+    ],
+    "text": "BROAD MONEY SUPPLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      169.2,
+      314.12,
+      212.11,
+      342.26
+    ],
+    "text": "TIME & SAVINGS DEPOSITS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.0,
+      11.256998062133789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      197.52,
+      414.68,
+      276.29,
+      433.94
+    ],
+    "text": "NARROW MONEY SUPPLY .",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.0,
+      11.256998062133789
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.92,
+      201.72,
+      421.64,
+      214.01
+    ],
+    "text": "90000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.2,
+      247.32,
+      421.69,
+      259.61
+    ],
+    "text": "80000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      387.6,
+      291.73,
+      422.74,
+      304.01
+    ],
+    "text": "70000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.68,
+      337.08,
+      422.17,
+      349.37
+    ],
+    "text": "60000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.92,
+      380.52,
+      422.6,
+      392.81
+    ],
+    "text": "50000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      385.68,
+      424.92,
+      422.36,
+      437.21
+    ],
+    "text": "40000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      386.4,
+      470.52,
+      422.69,
+      482.81
+    ],
+    "text": "30000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      387.12,
+      514.92,
+      423.41,
+      527.21
+    ],
+    "text": "20000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      388.56,
+      559.57,
+      423.51,
+      571.85
+    ],
+    "text": "10000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.96,
+      612.97,
+      426.19,
+      638.09
+    ],
+    "text": "0 H^\u2014Hll^il^H^il^Hllllllllllll.llllllllll o 1986 1987 1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      10.94486141204834,
+      12.664122581481934,
+      15.478371620178223
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.16,
+      669.98,
+      426.97,
+      677.8
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      238.56,
+      701.25,
+      255.4,
+      712.32
+    ],
+    "text": "130",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.94688892364502
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      348.48,
+      77.83,
+      399.53,
+      89.0
+    ],
+    "text": "Table 1.55",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      292.8,
+      93.67,
+      453.96,
+      104.84
+    ],
+    "text": "Monetary Aggregates 1988 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      597.36,
+      109.11,
+      679.59,
+      116.92
+    ],
+    "text": "(Amount in Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      223.92,
+      132.87,
+      590.77,
+      141.16
+    ],
+    "text": "Narrow Money Supply (M1) Broad Money Supply (M2)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.04,
+      156.15,
+      127.43,
+      163.96
+    ],
+    "text": "End of Period",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      150.0,
+      175.34,
+      258.03,
+      183.4
+    ],
+    "text": "1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      276.72,
+      165.99,
+      316.18,
+      192.52
+    ],
+    "text": "% Change 1988 over 1987",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      321.36,
+      165.75,
+      361.3,
+      192.76
+    ],
+    "text": "% Change 1989 over .1988",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      366.72,
+      165.99,
+      406.18,
+      193.0
+    ],
+    "text": "% Change 1990 over 1989",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      419.04,
+      175.59,
+      528.27,
+      183.64
+    ],
+    "text": "1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      547.2,
+      166.47,
+      587.38,
+      193.0
+    ],
+    "text": "% Change 1988 over 1987",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      592.56,
+      166.47,
+      632.74,
+      193.0
+    ],
+    "text": "% Change 1989 over 1988",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      638.16,
+      166.71,
+      677.62,
+      193.24
+    ],
+    "text": "% Change 1990 over 1989",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      210.62,
+      666.57,
+      219.4
+    ],
+    "text": "January 25,336 31,237 35,442 +16.0 +23.3 +13.5 60,060 67,980 76,879 +15.8 +13.2 +13.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      222.62,
+      666.86,
+      231.4
+    ],
+    "text": "February 25,672; 31,754 36.750 +18.1 +23.7 +15.7 60,846 68.143 78,590 +15.2 +12.0 +15.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      2.4278621673583984,
+      6.93674898147583,
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.04,
+      234.62,
+      666.9,
+      243.4
+    ],
+    "text": "March 26,640 32,615 37,402 +18.1 +22.4 +14.7 61,081 69,841 81,169 +13.4 +14.3 +16.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      246.38,
+      666.76,
+      255.16
+    ],
+    "text": "April 27,467 32,718 38,122 +24.2 +19.1 +16.5 62,465 70,503 81,876 +17.2 +12.9 +16.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      258.39,
+      666.87,
+      267.16
+    ],
+    "text": "May 28,178 31,862 36,767 +26.3 +13.1 +15.4 63,687 69,750 80,771 +18.0 + 9.5 +15.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      270.39,
+      666.87,
+      278.92
+    ],
+    "text": "June 27,792 32,037 36,386 +25.9 +15.3 +13.6 63,118 69,717 -81,407 +17.0 +10.5 +16.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      282.39,
+      667.08,
+      290.92
+    ],
+    "text": "July 28,053 33,447 36,206 +24.3 +19.2 + 8.2 63,645 70,867 81,469 +16.5 +11.3 +15.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      294.15,
+      667.05,
+      302.92
+    ],
+    "text": "August 28,234 34,016 36,496 +21.9 +20.5 + 7.3 64,116 71,345 82,956 +16.1 +11.3 +16.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      306.15,
+      667.01,
+      314.68
+    ],
+    "text": "September 28,453 34,527 37,429 +23.8 +21.3 + 8.4 63,932 72,964 85,057 +14.3 +14.1 +16.6",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      318.15,
+      667.09,
+      326.68
+    ],
+    "text": "October 28,684 34,533 36,811 +23.9 +20.4 + 6.6 64,371 73,375 85,973 +13.8 +14.0 +17.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      329.9,
+      667.09,
+      338.68
+    ],
+    "text": "November 30,379 34,103 37,490 +29.0 +12.3 + 9.9 66,088 73,942 86,659 +16.1 +11.9 +17.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      341.9,
+      666.95,
+      350.68
+    ],
+    "text": "December 32,379 35,338 39,878 +29.1 + 9.1 +12.8 67,946 76,434 91,017 +16.4 +12.5 +19.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.28,
+      366.15,
+      667.28,
+      374.68
+    ],
+    "text": "Monthly Average 28,106 33,182 37,098 +23.4 +18.1 +11.8 63,446 71,238 82,819 +15.8 +12.3 +16.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      556.56,
+      394.95,
+      680.42,
+      402.76
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781,
+      6.9989848136901855,
+      7.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      191.04,
+      82.69,
+      295.1,
+      94.97
+    ],
+    "text": "DOMESTIC CREDIT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      222.24,
+      99.99,
+      262.04,
+      107.8
+    ],
+    "text": "MONTHLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      65.52,
+      140.04,
+      165.9,
+      164.81
+    ],
+    "text": "RUPEES MILLION 65000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      323.04,
+      140.77,
+      422.22,
+      164.81
+    ],
+    "text": "RUPEES MILLION 65000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.24,
+      187.33,
+      423.21,
+      199.61
+    ],
+    "text": "- 60000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.76,
+      612.12,
+      366.61,
+      624.89
+    ],
+    "text": "1986 1987 1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      329.52,
+      665.66,
+      424.33,
+      673.48
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      236.64,
+      696.21,
+      253.68,
+      707.28
+    ],
+    "text": "132",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.94688892364502
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      359.76,
+      55.75,
+      411.35,
+      66.92
+    ],
+    "text": "Table 1.56",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      248.4,
+      70.87,
+      525.24,
+      82.04
+    ],
+    "text": "Monetary Aggregates and Underlying Factors 1988 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.12,
+      84.63,
+      676.52,
+      92.44
+    ],
+    "text": "' . (Amount in Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209.52,
+      109.34,
+      226.04,
+      117.16
+    ],
+    "text": "Item",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.32,
+      102.63,
+      370.81,
+      120.04
+    ],
+    "text": "Dec. 1988",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      400.32,
+      102.63,
+      418.81,
+      120.04
+    ],
+    "text": "Dec. 1989",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      448.32,
+      102.63,
+      466.83,
+      120.04
+    ],
+    "text": "Dec. 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      209.52,
+      99.99,
+      664.67,
+      117.16
+    ],
+    "text": "Change 1988/1989 Change 1989/1990 Item",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      352.32,
+      102.63,
+      370.81,
+      120.04
+    ],
+    "text": "Dec. 1988",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      400.32,
+      102.63,
+      418.81,
+      120.04
+    ],
+    "text": "Dec. 1989",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      448.32,
+      102.63,
+      466.83,
+      120.04
+    ],
+    "text": "Dec. 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      491.04,
+      118.71,
+      672.22,
+      127.0
+    ],
+    "text": "Amount Percentage Amount Percentage",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.44,
+      135.03,
+      192.82,
+      142.84
+    ],
+    "text": "Monetary Aggregates",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.16,
+      144.15,
+      667.39,
+      152.92
+    ],
+    "text": "1. Currency held by the public 18,487 19,650 22.120 . +1,163 + 6.3 +2,470 +12.6",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.353825569152832,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.44,
+      153.75,
+      667.47,
+      190.36
+    ],
+    "text": "2. Demand deposits held by the public 13,892 15,688 17,758 +1,796 +12.9 +2,070 +13.2 Narrow Money Supply (M1) 32,379 35,338 39,878 +2,959 + 9.1 +4,540 +12.8 3. Time and Savings Deposits of the private sector held with commercial banks 35,567 41,095 51,139 +5,528 +15.5 +10,044 +24.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.83323335647583,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      191.43,
+      667.58,
+      237.88
+    ],
+    "text": "3.1 Cooperative Institutions 743 895 927 +152 +20.5 +32 +3.6 3.2 Government Corporations 5,103 4,230 4,664 -873 -17.V +434 +10.3 3.3 dther Private Sector Constituents (a) 29,721 35,970 45,548 +6,249 +21.0 +9.578 +26.6 Broad Money Supply (M2) 67,946 76,433 91,017 +8,487 +12.5 +14,584 +19.1 Underlying Factors",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.030418872833252,
+      7.03076696395874
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.16,
+      238.46,
+      667.38,
+      247.48
+    ],
+    "text": "1. Domestic Credit 96,867 102,321 119,864 +5,454 +5.6 +17,543 +17.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.353825569152832,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.28,
+      248.07,
+      667.49,
+      266.2
+    ],
+    "text": "1.1P Net Credit to Government 36,065 36,119 39,197 +54 +0.1 +3,078 +8.5 1.1.1 Gross Credit to Government 44,311 44,740 52,524 +429 +1.0 +7,784 +17.4",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.52,
+      266.79,
+      667.76,
+      313.24
+    ],
+    "text": "! by Central Bank 36,439 36,741 38,206 +302 +0.8 +1,465 +4.0 \u2014 by Commercial Banks 7,872 7,999 14,318 +127 +1.6 +6,319 +79.0 1.1.2 Government deposits and cash balances -8,246 -8,621 -13,327 -375 +4.5 -4,706 +54.6 1.2. Gross Credit to Private Sector 60.802 66,202 80,667 +5,400 +8.9 +14,465 +21.8 rC'. 1.2.1 Co-operative Institutions 1,318 1.178 1,596 -140 -10.6 +418 +35.5",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      2.4377193450927734,
+      6.964912414550781,
+      7.068475246429443,
+      7.0686140060424805,
+      7.072078704833984
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      155.52,
+      314.07,
+      676.09,
+      332.2
+    ],
+    "text": "1.2.2 Government Corporations 10,787 13,862 15,636 +3,075 +28.5 +1,774 +12.8 . 1.2.3 Other Private Sector Constituents 48,697 51,162 63,435 +2,465 +5.1 +12,273 +24.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.92,
+      332.79,
+      667.9,
+      360.52
+    ],
+    "text": "2. External Banking Assets (net) 7,058 4,732 10,206 -2,326 -33.0 +5,474 +115.7 2.1 Central Bank (net) 4,326 1,678 4,675 -2,648 -61.2 +2,997 +178.6 2.2 Commercial Banks (net) 2,732 3,054 5,531 +322 +11.8 +2,477 +81.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.83323335647583,
+      6.964912414550781,
+      7.030523300170898,
+      7.030592918395996,
+      7.030802249908447,
+      7.040587425231934,
+      7.061227321624756,
+      7.0684404373168945
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      121.68,
+      361.35,
+      667.86,
+      408.28
+    ],
+    "text": "3. Other Items (net) -35.979 -30,620 -39,053 +5,359 -14.9 -8,433 +27.5 3.1 Other Liabilities (net) of Central Bank -15,541 -13,176 -15,039 +2,365 --1,863 -3.1 Other Liabilities (net) of Commercial Banks -20,038 -19,043 -24,968 +995 -5,925 -3.1 Adjustments for items in transit -400 1,599 954 +1,999 -^645 -Broad Money Supply (M2) . 67,946 76,433 91,017 +8,487 +12.5 +14,584 +19.1",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      8.95787239074707,
+      12.393563270568848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      122.16,
+      417.51,
+      672.72,
+      435.16
+    ],
+    "text": "Note: Signs indicate the effect on M2 . Source: Central Bank of Sri Lanka (a) Exclude Non-Resident Foreign Currency Deposits",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      145.92,
+      73.33,
+      336.23,
+      85.61
+    ],
+    "text": "EXTERNAL BANKING ASSETS (NET)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      220.32,
+      90.63,
+      259.92,
+      98.44
+    ],
+    "text": "MONTHLY",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.76,
+      129.72,
+      161.34,
+      153.77
+    ],
+    "text": "RUPEES MILLION 12000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      61.92,
+      439.81,
+      92.07,
+      452.09
+    ],
+    "text": "4000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.72,
+      476.53,
+      91.05,
+      488.81
+    ],
+    "text": "3000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.48,
+      513.24,
+      90.1,
+      525.53
+    ],
+    "text": "2000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      549.96,
+      109.36,
+      562.25
+    ],
+    "text": "1000 h",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      322.08,
+      131.64,
+      418.86,
+      155.45
+    ],
+    "text": "RUPEES MILLION 12000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      271.44,
+      581.81,
+      401.42,
+      597.45
+    ],
+    "text": "\u2022 \u2022\u2022\u2022 I I \u2022\u2022\u2022\u2022\u2022\u2022 !\u2022\u2022 \u2022 i \u2022 \u2022",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      385.92,
+      442.21,
+      416.07,
+      454.49
+    ],
+    "text": "4000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      386.4,
+      478.69,
+      416.2,
+      490.97
+    ],
+    "text": "3000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      385.2,
+      516.6,
+      415.35,
+      528.89
+    ],
+    "text": "2000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      386.4,
+      553.8,
+      416.02,
+      566.09
+    ],
+    "text": "1000",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      113.04,
+      598.68,
+      367.03,
+      613.13
+    ],
+    "text": "1986 1987 1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      323.52,
+      655.83,
+      417.85,
+      663.64
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230.16,
+      686.37,
+      247.16,
+      697.44
+    ],
+    "text": "134",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.94688892364502
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.0,
+      77.01,
+      428.28,
+      137.04
+    ],
+    "text": "corporations increased by Rs.434 million or 10 per cent and those of co-operative institu\u00adtions by Rs.32 million or 4 per cent in 1990. The substantial growth in quasi-money during the year partly reflected the impact of competitive interest rates offered on depos\u00adits by commercial banks and partly the considerable expansion in liquidity caused by the increase in net foreign assets.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.0,
+      143.97,
+      427.91,
+      204.96
+    ],
+    "text": "During the year, both domestic credit and external assets (net) of the banking system exerted expansionary pressure on the monetary aggregates. However, in terms of magnitudes, the domestic credit growth had the greater influence. The expansion in domestic credit amounting to Rs. 17,543 million or 17 per cent in 1990 may be compared with the moderate increase of Rs.5,454 million or 6 per cent in 1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.52,
+      211.89,
+      427.8,
+      259.68
+    ],
+    "text": "The high level of credit utilization by the private sector, especially the private sector proper, largely explains the growth in domestic credit throughout the year. However, the expansion in net credit to government (NCG) from the banking sector, especially since August, 1990 augmented the growth in overall domestic credit during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.52,
+      266.37,
+      427.84,
+      377.28
+    ],
+    "text": "Despite a deposit build up of Rs.4,706 million, the (NCG) expanded by Rs.3,078 million or 9 per cent in 1990 owing to a rapid utilisation of bank credit during the closing months of the year. The increases in Treasury bill holdings of commercial banks by Rs.5,124 million and provisional advances from the Central Bank by Rs.3,563 million including Rs.3,055 million as a special loan arising from revaluation adjustment of the liabilities to the IMF including quota were mainly responsible for the growth in gross credit to government. However , the last mentioned item is not directly attributable to budgetary operations during the year and, therefore, the growth in NCG resulting from budgetary operations was of a very small magnitude.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.28,
+      383.73,
+      427.77,
+      469.68
+    ],
+    "text": "In spite of the partial credit ceiling operative on private sector credit, gross credit to private sector (GCPS) rose by Rs.14,465 million or 22 per cent in 1990 compared with an increase of Rs.5,400 million or 9 per cent in 1989. The expansion in economic activities following the improvement in the business climate and favourable weather conditions, and enhanced working capital requirements as a consequence of upward revisions in electricity and petroleum prices were largely responsible for the high credit demand of the private sector in 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      64.8,
+      475.65,
+      427.62,
+      670.32
+    ],
+    "text": "When disaggregated, credit utilization by all three sub groups of the private sector enhanced during the year under review. Credit extended by commercial banks to other private sector constituents rose by Rs. 12,273 million or 24 per cent in 1990. The compa\u00adrable growth in 1989 was Rs.2,465 million or 5 per cent. Meanwhile, bank credit to public corporations expanded by Rs.1,774 million or 13 per cent which was lower than the increase of Rs.3,075 million or 29 per cent recorded in 1989. The major borrowers were the Co-operative Wholesale Establishment (CWE), the Janatha Estate Development Board (JEDB) and the State Plantation Corporation which raised their outstanding credit levels by Rs.1,224 million, Rs.610 million and Rs.237 million, respectively. The in\u00adcreased credit utilization by the CWE was mainly for financing essential food imports and the maintenance of buffer stocks which were previously handled by the Food Commissioner. Bank credit to the co-operative sector which dropped by Rs.140 million or 11 per cent in 1989, expanded by Rs.419 million or 36 per cent in 1990 mainly on account of enhanced credit demand for the purchase of agricultural commodities, as well as the increased credit requirements for procuring agricultural inputs, particularly ferti\u00adlizer, following the removal of the fertilizer subsidy in 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      239.04,
+      692.37,
+      255.93,
+      703.44
+    ],
+    "text": "135",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      63.12,
+      78.93,
+      423.72,
+      266.64
+    ],
+    "text": "Meanwhile, the net foreign assets (NFA) of the banking system recorded a marked increase in 1990, in contrast to the decrease experienced in 1989. Altogether, NFA increased by Rs.5,474 million or 116 per cent in 1990 as against a decline of Rs.2,326 million or 33 per cent in 1989. The expansion in NFA consisted of increases in the assets of the Central Bank by Rs.2,996 million or 179 per cent and those of the commercial banks by Rs.2,478 million or 81 per cent. The growth in cash and balances abroad, together with foreign government securities and Treasury bills by Rs.4,016 million and Rs.2,856 million, respectively and a significant drop in borrowings abroad by Rs.2,631 million were the major contributory factors for the expansion in NFA of the Central Bank. However, the impact of these increases on the NFA of the Central Bank was substantially mitigated by an increase in the deposits of international organizations by Rs.6,069 million. Meanwhile, the enhanced net external assets of commercial banks during the year was mainly reflected in increases in cash with banks abroad and money held with the FCBUs of Rs.1,146 million and Rs.3,418 million, respectively, off-set partly by an increase in foreign exchange liabilities of Rs.2,736 million. A favourable balance of payments outturn together with increased availability of lines of credit enabled the increased accumulation of foreign assets in the banking system during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.32,
+      284.61,
+      188.38,
+      295.68
+    ],
+    "text": "COMMERCIAL BANKING",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82.32,
+      310.29,
+      149.71,
+      321.36
+    ],
+    "text": "Overall Trends",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      64.32,
+      332.37,
+      424.41,
+      429.84
+    ],
+    "text": "The overall liquidity position of commercial banks improved during the year under review. The ratio of liquid assets to demand deposits rose from 130.7 per cent at the end of 1989 to 149.1 per cent at the end of 1990. This was the outcome of a rapid growth in liquid assets by Rs. 12,079 million as against an increase of Rs.5,441 million in demand deposits. The expansion in liquid assets was mainly reflected in increases in Treasury bill holdings of commercial banks by Rs.5,124 million or 84 per cent and foreign currency on hand and balances due from banks abroad by Rs.4,470 million or 58 per cent. Moreover, cash due from the Central Bank, cash on hand and bills discounted also increased by Rs. 1,497 million, Rs.299 million and Rs.665 million, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.28,
+      437.01,
+      424.61,
+      523.68
+    ],
+    "text": "Although the overall liquidity position of the banking system improved in 1990, the total borrowings/lendings in the call market showed an increasing trend, especially during the first three quarters of the year. This was largely due to enhanced demand for short-term funds from deficit banks, as well as the demand for large chunks of liquid resources on the part of certain banks at infrequent intervals. However, the borrowings/lendings in the call money market have shown a decline during the last quarter of 1990. Reflecting this, the call money market rates declined from a peak range of 19-30 per cent in August to 14-19 per cent by the end 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.878157615661621,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.28,
+      530.37,
+      425.19,
+      606.24
+    ],
+    "text": "Meanwhile, reflecting the increased level of economic activity, the continuing high rate of inflation and the enhanced working capital requirements following the upward revisions in electricity tariff and fuel prices, the outstanding lendings of commercial banks expanded sharply, especially during the last quarter of the year. Altogether, com\u00admercial bank credit to the private sector expanded by Rs. 14,465 million or 22 per cent in 1990, while the increase in credit during the last quarter of the year was Rs. 5,961 million or 41 per cent of the total increase during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.909590721130371,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      84.0,
+      616.05,
+      273.42,
+      638.88
+    ],
+    "text": "Structure of Bank Assets and Liabilities and Advances to Private Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.76,
+      650.85,
+      425.68,
+      673.92
+    ],
+    "text": "Total assets/liabilities of commercial banks (excluding contra items) increased by Rs.26,012 million or 24 per cent in 1990 in comparison to an increase of Rs. 10,537",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      238.32,
+      690.93,
+      255.35,
+      702.0
+    ],
+    "text": "136",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      236.16,
+      78.79,
+      287.35,
+      89.96
+    ],
+    "text": "Table 1.57",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      351.84,
+      124.46,
+      434.05,
+      132.28
+    ],
+    "text": "(Amount in Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.36,
+      162.86,
+      158.06,
+      170.68
+    ],
+    "text": "Item",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      230.64,
+      145.1,
+      412.76,
+      152.92
+    ],
+    "text": "Average of Monthly Figures End of Period",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      141.36,
+      162.86,
+      158.06,
+      170.68
+    ],
+    "text": "Item",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      243.12,
+      173.9,
+      418.35,
+      181.96
+    ],
+    "text": "1989 1990 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      201.02,
+      211.51,
+      208.84
+    ],
+    "text": "Cash on hand and deposits at Central Bank",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      211.58,
+      414.98,
+      219.88
+    ],
+    "text": "(inclusive of Statutory Reserve Requirements) 6,828 7,649 7,611 9,406",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.0684404373168945,
+      7.068475246429443
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      222.62,
+      415.32,
+      230.92
+    ],
+    "text": "Foreign Balances 7,994 9,201 7,607 12,077",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.067746639251709,
+      7.068405628204346
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      233.43,
+      415.36,
+      241.48
+    ],
+    "text": "Treasury Bills 5,289 8,893 6,113 11,237",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.066741943359375,
+      7.071801662445068
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.68,
+      244.7,
+      424.09,
+      253.0
+    ],
+    "text": "Bills Discounted 6,112 6,579 6,703 7,368 .",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.068405628204346,
+      7.0684404373168945,
+      7.068475246429443
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      255.74,
+      415.0,
+      263.8
+    ],
+    "text": "Total Liquid Assets 26,205 32,289 28,010 40,089",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      266.79,
+      415.4,
+      274.84
+    ],
+    "text": "Total Investments (a) 1,823 2,012 1,961 2,040",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      277.82,
+      414.91,
+      285.88
+    ],
+    "text": "Total Loans and Overdrafts 56,083 67,165 60,128 74,274",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.68,
+      299.66,
+      415.3,
+      307.72
+    ],
+    "text": "Demand Deposits (b) 18,343 22,529 21,439 26,880",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      310.46,
+      414.87,
+      318.76
+    ],
+    "text": "Time and Savings Deposits (c) 46,115 56,295 50,256 63,664",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      321.5,
+      414.91,
+      329.8
+    ],
+    "text": "Total Deposits 64,458 78,823 71,695 90,544",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      343.58,
+      414.65,
+      351.88
+    ],
+    "text": "Ratio of: % % , % %",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      354.62,
+      415.36,
+      362.92
+    ],
+    "text": "Cash to Demand Deposits 37.2 34.0 35.5 35.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      365.66,
+      415.17,
+      373.96
+    ],
+    "text": "Cash to Total Deposits 10.6 9.7 10.6 10.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      376.7,
+      415.33,
+      385.0
+    ],
+    "text": "Foreign Balances to Total Deposits 12.4 11.7 10.6 13.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      387.74,
+      415.23,
+      395.8
+    ],
+    "text": "Treasury Bills to Total Deposits 8.2 11.3 8.5 12.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      398.79,
+      414.82,
+      407.08
+    ],
+    "text": "Commercial Bills Discounted to Total Deposits 9.5 8.3 9.3 8.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      409.58,
+      416.35,
+      418.12
+    ],
+    "text": "Liquid Assets to Demand Deposits 142.9 . 143.3 130.6 . 149.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      420.86,
+      415.15,
+      428.92
+    ],
+    "text": "Liquid Assets to Total Deposits 40.7 41.0 39.1 44.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      431.66,
+      415.26,
+      439.96
+    ],
+    "text": "Investments to Total Deposits 2.8 2.6 2.7 2.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.44,
+      442.46,
+      415.18,
+      450.76
+    ],
+    "text": "Loans and Overdrafts to Total Deposits 87.0 85.2 83.9 82.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      311.52,
+      469.82,
+      433.93,
+      477.64
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      54.96,
+      489.98,
+      355.91,
+      517.48
+    ],
+    "text": "(a) Government and Government Guaranteed Securities and Private Securities. (b) Excludes domestic inter-bank deposits. : (c) Includes sum of Rs. 1,708 million and Rs. 1,964 million being long term deposits: ~",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      2.4377193450927734,
+      6.867281913757324,
+      6.964912414550781,
+      7.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.72,
+      519.26,
+      422.3,
+      527.09
+    ],
+    "text": "mobilised, by the two state banks under the special savings schemes in 1989 and r1990 respectively.:",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      2.4377193450927734,
+      6.952589511871338,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      55.2,
+      538.46,
+      395.77,
+      555.64
+    ],
+    "text": "Note: The discrepancies between the figures given here and similar figures given elsewhere ,,. in this report are due to differences in definition. . ,",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      236.88,
+      692.61,
+      253.79,
+      703.68
+    ],
+    "text": "137",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      72.0,
+      101.11,
+      422.04,
+      112.28
+    ],
+    "text": "Selected Items of Assets and Liabilities of Commercial Banks 1989 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      220.8,
+      79.99,
+      271.52,
+      91.16
+    ],
+    "text": "Table 1.58",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      351.6,
+      131.9,
+      433.57,
+      139.72
+    ],
+    "text": "(Amount in Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      180.48,
+      147.26,
+      413.29,
+      164.68
+    ],
+    "text": "Short Term Medium Term Long Term Total (below 1 year) (1 to 5 years) (Over 5 years)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.44,
+      170.3,
+      130.83,
+      178.12
+    ],
+    "text": "Category",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      97.44,
+      170.3,
+      193.25,
+      186.26
+    ],
+    "text": "(D Category",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.961889266967773
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.36,
+      177.26,
+      432.92,
+      227.27
+    ],
+    "text": "(D (2) (3) (4) (5) (6) (7) (8) ( 1 ) a s % (3) as (5) as (7) as % of (7) % % of Grand of(7) of (7) Totlal A. Commercial",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.92763090133667,
+      6.964912414550781,
+      7.961889266967773,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      228.14,
+      427.88,
+      273.59
+    ],
+    "text": "December 1989 26,575.5 83.2 3,512.0 11.0 1,836.7 5.8 31,924.2 47.8 March 1990 28,017.2 83.6 3.708.5 11.1 1,798.2 5.4 33,523.9 48.9 June 1990 28,597.4 84.3 3,489.5 10.3 1,818.3 5.4 33,905.2 48.1 September 1990 30,643.7 82.1 4.846.2 13.0 1,816.2 4.9 37,306.1 49.4 B. Financial",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.024492263793945,
+      7.048864364624023,
+      7.049212455749512,
+      7.1032586097717285,
+      7.103292942047119,
+      7.103534698486328,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.6,
+      273.98,
+      428.38,
+      319.67
+    ],
+    "text": "December 1989 813.1 48.6 573.4 34.2 288.0 17.2 1,674.5 2.5 March 1990 894.9 50.1 641.1 35.9 250.6 14.0 1,786.6 2.6 June 1990 1,051.8 54.5 616.4 31.9 263.2 13.6 1,931.4 2.7 September 1990 Ii 159.9 61.2 . 439.1 23.2 296.1 15.6 1,895.1 2.5 C. Agricultural",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.102499485015869,
+      7.1027750968933105,
+      7.102982044219971,
+      7.10332727432251,
+      7.108119964599609,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      320.06,
+      428.33,
+      365.99
+    ],
+    "text": "December 1989 3,042.8 46.2 906.3 13.8 2,632.3 40.0 6,581.4 9.9 March 1990 3,541.4 50.6 1,034.8 14.8 2,422.4 34.6 6,998.6 10.2 June 1990 3,103.4 46.3 1,095.0 16.3 2,499.1 37.3 6,697.5 9.5 September 1990 3,170.0 45.4 1,209.7 17.3 2,607.9 37.3 6,987.6 9.3 D. Industrial\"",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.031952381134033,
+      7.032196044921875,
+      7.032230854034424,
+      7.033693790435791,
+      7.048760414123535,
+      7.049142360687256,
+      7.049212455749512,
+      7.053936958312988,
+      7.054076671600342,
+      7.054180145263672,
+      7.103292942047119,
+      7.10332727432251,
+      7.103499412536621,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      58.08,
+      366.38,
+      428.46,
+      411.59
+    ],
+    "text": "December 1989 11,991.1 75.0 . 2,432.0 15.2 157.0 9.7 15,980.1 23.9 March 1990 10,558.8 71.7 2,629.1 17.9 1,531.7 10.4 14,719.6 21.5 June 1990 11,136.1 71.5 2,830.7 18.2 1,604.1 10.3 15,570.9 22.1 September 1990 10,770.8 67.8 3,101.1 19.5 2,015.7 12.7 15,887.6 21.1 E. Tourism",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.032196044921875,
+      7.032265663146973,
+      7.033693790435791,
+      7.051366329193115,
+      7.103292942047119,
+      7.108119964599609,
+      8.08944320678711,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      411.98,
+      428.16,
+      457.43
+    ],
+    "text": "December 1989 294.9 40.0 90.1 12.2 352.0 47.8 737.0 1.1 March 1990 293.3 39.5 90.5 12.2 357.8 48.2 741.6 1.1 June 1990 299.0 39.1 84.9 11.1 381.5 49.8 765.4 1.1 September 1990 339.6 43.0 80.5 10.2 369.6 46.8 789.7 1.0 F. Housing",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.6,
+      458.06,
+      428.75,
+      504.23
+    ],
+    "text": "December 1989 1,110.9 18.3 1,332.4 22.0 3,623.6 59.7 6,066.9 9.1 March 1990 1,246.4 18.9 1,389.2 21.1 3,954.8 60.0 6,590.4 9.6 June 1990 1,240.9 17.8 1,526.8 21.9 4,200.1 60.3 6,967.8 9.9 September 1990 1,309.6 17.2 1,700.8 . 22.4 4,591.6 60.4 7,602.0 10.1 G. Consumption",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.024352550506592,
+      7.025538444519043,
+      7.04896879196167,
+      7.049142360687256,
+      7.053936958312988,
+      7.054388523101807,
+      7.054458141326904,
+      7.102499485015869,
+      7.102982044219971,
+      7.10332727432251,
+      7.103396415710449,
+      7.103534698486328,
+      8.91949462890625,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      504.86,
+      428.64,
+      550.55
+    ],
+    "text": "December 1989 970.8 63.8 431.1 28.3 120.7 7.9 1,522.6 2.3 March 1990 1,026.0 62.8 475.0 29.1 132.0 8.1 1,633.0 2.4 June 1990 1,173.2 62.4 565.0 30.1 141.4 7.5 1,879.6 2.7 September 1990 1,147.9 60.1 583.0 30.5 180.5 9.4 1,911.4 2.5 H. Other Loans",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.102499485015869,
+      7.102982044219971,
+      7.103396415710449,
+      7.103499412536621,
+      7.103534698486328,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.6,
+      550.7,
+      428.92,
+      586.6
+    ],
+    "text": "December 1989 902.8 40.1 721.6 32.0 627.4 27.9 2,251.8 3.4 March 1990 1,092.4 42.9 777.8 30.5 678.6 26.6 2,548.8 3.7 June 1990 1,323.0 47.3 714.4 25.6 757.4 27.1 2,794.8 4.0 September 1990 1,310.0 42.4 874.9 28.3 906.0 29.3 3,090.9 4.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.032230854034424,
+      7.049142360687256,
+      7.102499485015869,
+      7.103499412536621
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      594.73,
+      93.81,
+      604.79
+    ],
+    "text": "I. Total",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      69.6,
+      605.66,
+      429.16,
+      641.8
+    ],
+    "text": "December 1989 45,701.9 68.5 9,998.9 15.0 11,037.7 16.5 66,738.5 100.0 March 1990 46,670.4 68.1 10,746.0 15.7 11,126.1 16.2 68,542.5 100.0 June 1990 47,924.8 68.0 10,922.7 15.5 11,665.1 16.5 70,512.6 100.0 September 1990 49,851.5 66.1 12,835.3 17.0 12,783.6 16.9 75,470.4 100.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.041318416595459
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      313.2,
+      651.26,
+      435.36,
+      659.08
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      241.68,
+      694.77,
+      258.51,
+      705.84
+    ],
+    "text": "138",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      109.92,
+      98.23,
+      381.38,
+      121.16
+    ],
+    "text": "Commercial Banks Advances* Classified by Purpose and According to Maturity 1989-1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      62.16,
+      659.18,
+      270.06,
+      667.0
+    ],
+    "text": "* Advances include Loans.Cverdrafts and Bills discounted",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      668.78,
+      361.31,
+      686.2
+    ],
+    "text": "and exclude cash items in process of collection \" Includes Advances granted for Engineering and Building Trade.Mining and Rshing",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.32,
+      87.57,
+      426.8,
+      180.96
+    ],
+    "text": "million or 11 per cent in the previous year. Cm the liabilities side, deposits rose by Rs. 18,599 million or 26 per cent, consisting of increases in time and savings deposits by Rs.13,152 million or 27 per cent and demand deposits by Rs.5,446 million or 26 per cent. During the year, foreign borrowings decreased by Rs.24 million or 2 per cent while domestic inter-bank borrowings increased by Rs.3,253 million or 60 per cent. The other liabilities of commercial banks recorded an increase of Rs.2,889 million or 12 per cent in 1990, largely due to an expansion in suspense accounts on account of cheques sent for collection.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      63.84,
+      190.05,
+      426.52,
+      283.44
+    ],
+    "text": "On the assets side, loans, overdrafts, and bills purchased and discounted rose by Rs. 14,811 million or 22 per cent The loans increased by Rs.11,500 million of 29 per cent, the overdrafts by Rs.2,645 million or 13 per cent and bills purchased and dis\u00adcounted by Rs.666 million or 10 per cent. Meanwhile, the total liquid assets consisting of cash on hand, deposits with the Central Bank, foreign balances, Treasury bills and bills discounted rose by Rs. 12,055 million or 43 per cent. Of this increase, Treasury bill holdings and foreign balances accounted for Rs.5,124 million or 84 per cent and Rs.4,470 million or 59 per cent, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.08,
+      291.57,
+      425.83,
+      361.44
+    ],
+    "text": "The total commercial bank advances to the private sector rose by Rs. 14,465 million or 22 per cent in 1990 compared with an increase of Rs.5,400 million or 9 per cent in 1989. The share of short-term advances in total advances decreased from 68 per cent at the end of 1989 to 66 per cent at the end of the third quarter of 1990, while the share of the medium term (1 to 5 years) advances rose from 15 per cent to 17 per cent over the same period.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.891916275024414,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.08,
+      369.81,
+      427.39,
+      416.16
+    ],
+    "text": ". The,share of total advances granted for commercial purposes consisting of exports, imports, and wholesale and retail trading (the single largest category) increased from 48 per centat the end of 1989 to 49 per cent at the end of the third quarter 1990. This increase was mainly reflected in export and import categories.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.08,
+      423.33,
+      425.47,
+      504.96
+    ],
+    "text": "The demand for industrial credit (including engineering and building trade, mining and fishing) declined further by Rs.93 million, during the first three quarters of 1990 against a decrease of Rs.817 million or 6 per cent in 1989. Meanwhile, the share of advances granted for agricultural purposes remained unchanged at 9 per cent at the end of the third quarter of 1990. However, total agricultural advances in absolute terms grew by Rs.406 million or 6 per cent during the first three quarters in 1990 compared to an increase of Rs.132 million or 2.3 per cent in 1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      81.84,
+      536.13,
+      197.94,
+      547.2
+    ],
+    "text": "Sources and Uses of Funds",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      64.08,
+      558.69,
+      427.29,
+      675.6
+    ],
+    "text": "In contrast to past trends, the other domestic private sector emerged as a major net user of commercial banks': funds amounting to Rs.1,403 million in 1990. In the previous year, this sector was the major source of funds to commercial banks on a net basis. This change was mainly due to larger increases in loans (Rs.8,489 million) and overdrafts (Rs.3,317 million) against a lower increase in deposits (Rs.10,869 million). Similarly, the government sector became a user of commercial banks' funds on a net basis to the tune of Rs.2,448 million. This was mainly due to the build up in government paper with com\u00admercial banks amounting to Rs.5,255 million and a reduced growth in government depos\u00adits of Rs.3,871 million. Also, there has been an increased use of short-term credit by the, government to the tune of Rs'.977 million during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.92471694946289,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      236.16,
+      700.77,
+      253.06,
+      711.84
+    ],
+    "text": "139",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      216.72,
+      89.77,
+      267.45,
+      99.83
+    ],
+    "text": "Table 1.59",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      386.4,
+      130.7,
+      430.45,
+      138.52
+    ],
+    "text": "(Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.89491081237793,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.84,
+      158.07,
+      163.44,
+      165.88
+    ],
+    "text": "Category",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      259.92,
+      147.26,
+      411.95,
+      155.08
+    ],
+    "text": "End 1988/1989 End 1989/1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      129.84,
+      158.07,
+      163.44,
+      165.88
+    ],
+    "text": "Category",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      247.2,
+      171.51,
+      415.33,
+      179.32
+    ],
+    "text": "Sources Uses Sources Uses",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      53.76,
+      190.33,
+      141.56,
+      200.39
+    ],
+    "text": "1. Government Sector",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.204554557800293,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.52,
+      201.75,
+      165.7,
+      247.96
+    ],
+    "text": "Holdings of Govt. Securities Deposits Import Bills Short-Term Credit Overdrafts",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.3416619300842285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      260.4,
+      192.14,
+      281.74,
+      199.96
+    ],
+    "text": "999.5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      254.88,
+      211.34,
+      282.62,
+      247.96
+    ],
+    "text": "1,127.1 170.1 1,031.9 3.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.103396415710449,
+      7.108119964599609
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      302.4,
+      201.75,
+      330.07,
+      209.56
+    ],
+    "text": "1,332.6",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.102982044219971
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      349.2,
+      211.34,
+      376.46,
+      219.16
+    ],
+    "text": "3.871.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      393.84,
+      192.14,
+      421.6,
+      209.8
+    ],
+    "text": "2,447.6 5,255.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      400.56,
+      221.19,
+      421.9,
+      238.6
+    ],
+    "text": "87.5 976.5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.0,
+      258.02,
+      118.79,
+      268.07
+    ],
+    "text": "2. Central Bank",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.7855863571167,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.0,
+      269.43,
+      200.5,
+      306.04
+    ],
+    "text": "Borrowings Reserves Investment in Central Bank Securities Till Cash",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      261.6,
+      269.43,
+      281.95,
+      277.24
+    ],
+    "text": "139.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      260.88,
+      288.87,
+      282.21,
+      306.04
+    ],
+    "text": "143.7 405.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      308.4,
+      259.58,
+      329.64,
+      267.4
+    ],
+    "text": "668.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      302.64,
+      279.27,
+      330.02,
+      287.08
+    ],
+    "text": "1.357.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.102499485015869
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      349.68,
+      259.58,
+      377.16,
+      277.24
+    ],
+    "text": "879.6 2,675.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.56,
+      279.27,
+      422.69,
+      287.08
+    ],
+    "text": "1,496.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.103292942047119
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      401.04,
+      298.23,
+      422.29,
+      306.04
+    ],
+    "text": "299.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.0,
+      315.38,
+      167.54,
+      325.43
+    ],
+    "text": "3. Government Corporations",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.898852348327637,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.0,
+      326.79,
+      102.67,
+      344.2
+    ],
+    "text": "Deposits Advances",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      271.44,
+      312.64,
+      329.51,
+      326.07
+    ],
+    "text": "-3,621.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      11.965718269348145
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      301.92,
+      327.02,
+      329.9,
+      344.44
+    ],
+    "text": "546.2 3,075.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      350.4,
+      327.02,
+      377.95,
+      334.84
+    ],
+    "text": "1,290.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.103534698486328
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      400.8,
+      317.43,
+      422.04,
+      325.24
+    ],
+    "text": "483.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.8,
+      336.62,
+      422.44,
+      344.44
+    ],
+    "text": "1,774.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.108119964599609
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.0,
+      353.77,
+      121.94,
+      363.83
+    ],
+    "text": "4. Co-operatives",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.9076151847839355,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.0,
+      364.95,
+      102.67,
+      382.12
+    ],
+    "text": "Deposits Advances",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      261.12,
+      355.58,
+      282.35,
+      363.4
+    ],
+    "text": "233.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      261.84,
+      365.18,
+      282.38,
+      382.6
+    ],
+    "text": "92.8 140.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      318.96,
+      350.13,
+      323.25,
+      364.68
+    ],
+    "text": "-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.962696075439453
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      360.48,
+      365.18,
+      377.24,
+      373.0
+    ],
+    "text": "58.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      400.8,
+      355.83,
+      422.22,
+      363.64
+    ],
+    "text": "359.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      400.8,
+      375.02,
+      422.14,
+      382.84
+    ],
+    "text": "418.5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.24,
+      391.93,
+      183.56,
+      401.99
+    ],
+    "text": "S. Other Domestic Private Sector",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.892573356628418,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.48,
+      403.35,
+      196.66,
+      459.4
+    ],
+    "text": "Deposits* Local Bills Import Bills Overdrafts Loans Investments in Securities and Bonds",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.3416619300842285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      254.64,
+      393.99,
+      283.29,
+      430.6
+    ],
+    "text": "5,570.9 8.036.1 1,169.7 561.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.103292942047119
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      302.16,
+      432.62,
+      330.15,
+      459.64
+    ],
+    "text": "576.5 3,601.2 18.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      345.84,
+      403.83,
+      377.43,
+      411.64
+    ],
+    "text": "10,869.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      360.72,
+      452.07,
+      377.48,
+      459.88
+    ],
+    "text": "51.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      395.76,
+      394.23,
+      423.08,
+      402.04
+    ],
+    "text": "1,402.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.103396415710449
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.32,
+      413.43,
+      422.23,
+      450.04
+    ],
+    "text": "454.8 63.7 3,316.7 8,488.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.72,
+      468.98,
+      155.95,
+      479.03
+    ],
+    "text": "6. Inter-Bank Transaction",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.96,
+      480.39,
+      282.23,
+      498.28
+    ],
+    "text": "Balance with Domestic Banks Deposits and Borrowings with Domestic Banks 499.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      303.12,
+      471.51,
+      330.84,
+      488.92
+    ],
+    "text": "885.3 1,384.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.103292942047119
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      356.16,
+      471.51,
+      377.31,
+      479.32
+    ],
+    "text": "622.5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      356.16,
+      481.11,
+      377.41,
+      498.52
+    ],
+    "text": "40.5 582.0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      411.6,
+      465.81,
+      415.89,
+      480.36
+    ],
+    "text": "-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.962696075439453
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.72,
+      507.62,
+      206.26,
+      545.56
+    ],
+    "text": "7. Foreign Sector Borrowings Deposits Foreign Balances Including Export Bills",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.921789169311523,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      255.84,
+      519.26,
+      283.35,
+      536.44
+    ],
+    "text": "112.9 1,443.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.1032586097717285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      308.64,
+      509.9,
+      330.01,
+      517.72
+    ],
+    "text": "321.6",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      303.12,
+      538.22,
+      330.85,
+      546.04
+    ],
+    "text": "1,877.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.10332727432251
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      350.16,
+      528.62,
+      377.64,
+      536.44
+    ],
+    "text": "2,760.3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.56,
+      510.14,
+      422.45,
+      527.32
+    ],
+    "text": "2,477.7 24.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      394.56,
+      538.46,
+      422.11,
+      546.28
+    ],
+    "text": "5,213.9",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.72,
+      555.14,
+      198.23,
+      565.19
+    ],
+    "text": "8. Other Assets and Other Liabilities",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.906385898590088,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      66.48,
+      566.78,
+      152.02,
+      593.8
+    ],
+    "text": "Capital and Reserves Fixed and Other Assets Other Liabilities",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      261.6,
+      567.02,
+      282.83,
+      574.84
+    ],
+    "text": "620.7",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      302.64,
+      557.42,
+      330.44,
+      565.24
+    ],
+    "text": "1,306.4",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.102499485015869
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      308.64,
+      576.86,
+      330.13,
+      594.28
+    ],
+    "text": "939.0 988.1",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      349.92,
+      557.42,
+      378.57,
+      594.04
+    ],
+    "text": "5,669.7 1,295.8 1,740.7 2,633.2",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.103292942047119,
+      7.10332727432251
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      411.84,
+      575.29,
+      414.81,
+      585.35
+    ],
+    "text": "-",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      105.36,
+      604.7,
+      395.96,
+      613.72
+    ],
+    "text": "Total Net Sources/Uses 6,804.1 7,171.8",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      309.84,
+      627.02,
+      431.76,
+      634.84
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.3416619300842285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.2,
+      645.98,
+      406.43,
+      653.8
+    ],
+    "text": "* Includes long-term deposits mobilised by the two state banks under the special savings scheme.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.3416619300842285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.68,
+      664.95,
+      418.32,
+      672.76
+    ],
+    "text": "Note: The bold figures indicate whether a net source or net use, as the case may be, for each sector",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.94148063659668,
+      6.964912414550781,
+      7.3416619300842285
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      236.64,
+      703.1,
+      253.49,
+      713.06
+    ],
+    "text": "140",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      85.2,
+      114.01,
+      399.72,
+      124.07
+    ],
+    "text": "Sources and Uses of Resources of Commercial Banks 1989 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      301.2,
+      97.51,
+      459.96,
+      120.92
+    ],
+    "text": "Table 1.60 Savings Mobilisation 1986 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      299.76,
+      124.94,
+      670.67,
+      132.76
+    ],
+    "text": "\u2022 (Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.04,
+      183.26,
+      137.13,
+      191.08
+    ],
+    "text": "Year",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      213.12,
+      147.26,
+      281.86,
+      155.08
+    ],
+    "text": "Commercial Banks",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      360.24,
+      165.02,
+      387.93,
+      172.84
+    ],
+    "text": "RRDBs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      483.36,
+      147.02,
+      602.32,
+      154.84
+    ],
+    "text": "Non-Commercial Banking Sector",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.04,
+      183.26,
+      137.13,
+      191.08
+    ],
+    "text": "Year",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      213.12,
+      147.26,
+      281.86,
+      155.08
+    ],
+    "text": "Commercial Banks",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      360.24,
+      165.02,
+      387.93,
+      172.84
+    ],
+    "text": "RRDBs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      437.28,
+      180.14,
+      482.5,
+      187.96
+    ],
+    "text": "Rural Banks",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      516.72,
+      171.02,
+      567.67,
+      188.44
+    ],
+    "text": "National Savings Bank",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.04,
+      171.02,
+      656.26,
+      191.08
+    ],
+    "text": "Agricultural Service Centres Year Domestic Foreign",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      360.24,
+      165.02,
+      387.93,
+      172.84
+    ],
+    "text": "RRDBs",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      437.28,
+      180.14,
+      482.5,
+      187.96
+    ],
+    "text": "Rural Banks",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      516.72,
+      171.02,
+      567.67,
+      188.44
+    ],
+    "text": "National Savings Bank",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      119.04,
+      171.02,
+      656.26,
+      191.08
+    ],
+    "text": "Agricultural Service Centres Year",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      169.92,
+      212.78,
+      658.97,
+      221.08
+    ],
+    "text": "Savings Fixed Savings Fixed Savings Fixed Savings Fixed Savings Fixed (a) Savings Fixed",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.92,
+      242.41,
+      657.49,
+      252.5
+    ],
+    "text": "1986 11,127 14,341 1,084 7,322 16 5 1,122 174 4,326 9,875 111 38",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.030592918395996,
+      7.051609992980957,
+      7.0686140060424805,
+      8.54284381866455
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      104.16,
+      262.95,
+      657.46,
+      271.24
+    ],
+    "text": "1987 13,179 15,606 1,325 8,382 44 9 1,371 189 5,172 11,229 133 36",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.066949844360352
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      104.16,
+      281.67,
+      657.41,
+      290.2
+    ],
+    "text": "1988 16,240; 15,476 1,731 8,371 90 14 1,713 195 6,381 11,684 146 34",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.938020706176758,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      104.16,
+      300.62,
+      657.44,
+      309.4
+    ],
+    "text": "1989 20,572 17,109 1,942 8,925 145 31 2,023 189 7,931 12.020 152 35",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.040482997894287,
+      7.066325664520264
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      104.4,
+      319.82,
+      657.62,
+      328.36
+    ],
+    "text": "1990 25,347 25,099 1,965 9,289 269 45 2.241 (c) 208(c) 84.08(b) 13.580(b) 169(c) 22(c)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.051991939544678
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      103.68,
+      344.07,
+      667.2,
+      380.2
+    ],
+    "text": "Source: Central Bank of Sri Lanka (a) Includes other deposits (b) Provisional (c) Position as at 30th September 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.16,
+      83.01,
+      415.05,
+      152.88
+    ],
+    "text": "In addition, the foreign sector also emerged as a major user of commercial banks' funds on a net basis. The total net utilization of resources by this sector amounted to Rs.2,478 million. Viewed from the use side, foreign balances including export bills and borrowings amounted to Rs.5,214 million and Rs.24 million, respectively. However, enhanced deposits of this sector amounting to Rs.2,760 million reduced the net usage of funds during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.4,
+      159.57,
+      415.54,
+      206.64
+    ],
+    "text": "Meanwhile, the growth in other assets and liabilities amounting to Rs.5,670 million on a net basis constituted a major source of funds for the build up of commercial banks' sources in 1990. This is in contrast to the experience in 1989 when this category was a major user of commercial banks' funds to the tune of Rs. 1,306 million, on a net basis.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.88,
+      212.13,
+      415.22,
+      235.2
+    ],
+    "text": "At the end of 1990, total deposit mobilisation by the banking system and other savings institutions expanded to Rs.86,642 million from Rs.70,966 million at the end of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.64,
+      236.13,
+      416.1,
+      319.2
+    ],
+    "text": "1989, reflecting an increase of 22 per cent The domestic commercial banks mobilised 58 per cent of the total deposits, while the relevant share of the foreign banks was 13 per cent. The National Savings Bank accounted for 25 per cent of the total deposits mobilised in 1990. When disaggregated, fixed deposits represented 56 per cent of total deposits at the end of 1990, registering a two percentage points increase over the previous year's level. This partly indicated the response of the savers to high interest bearing fixed deposits against low interest bearing savings deposts.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.891916275024414,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57.12,
+      331.17,
+      243.72,
+      342.24
+    ],
+    "text": "EXPANSION OF BANKING FACILITIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      75.12,
+      356.85,
+      155.64,
+      367.92
+    ],
+    "text": "Branch Expansion",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57.12,
+      377.49,
+      416.76,
+      508.56
+    ],
+    "text": "Increasing the total number of institutions engaged in commercial banking to 36, the 12th Regional Rural Development Bank (RRDB) was established in the Badulla District in October, 1990. The number of commercial banks (excluding RRDBs) operating in Sri Lanka remained unchanged at 24 during the year. However, in 1990, all banking institu\u00adtions recorded a higher rate of expansion in terms of branches compared to that of the previous year (Table 1.61). Raising the total number of bank branches to 918 by the end of the year, 48 branches were established in 1990. This included 28 domestic and 2 foreign commercial bank branches, 11 RRDB branches and 7 National Savings Bank (NSB) branches. The considerable expansion in the branch network reflected the en\u00adhanced competition among financial institutions following the improvement in the secu\u00adrity situation in most parts of the country.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.216065406799316
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57.36,
+      515.97,
+      417.96,
+      609.36
+    ],
+    "text": "The Bank of Ceylon (BOC) established 5 branches at Imaduwa, Piliyandala, Hanwella, Dickwella and Digana. The BOC re-opened its Mankulam and Kinniya branches and Kobeigane ASC branch, and closed the Walasgala branch and ASC branches at Pambahinna, Kodagoda, Kimbissa and Wilgamuwa in 1990. Meanwhile, the BOC upgraded 4 ASC branches situated at Galaha, Maturata, Kuruwita and Ayagama. In addition, under the branch rationalization programme the BOC re-located 7 branches and 5 ASC branches during the year. Consequently, the total number of main branches of the BOC increased' to 247, while the number of ASC branches declined to 38 by the end of",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58.08,
+      611.73,
+      417.54,
+      646.32
+    ],
+    "text": "1990. During the year, the People's Bank opened 3 branches at Marawila, Panadura and its corporate branch at its head office, and re-opened its Kinniya and Maha-Oya branches thus raising its total number of operational branches to 306 by the end of the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58.08,
+      653.73,
+      417.93,
+      677.04
+    ],
+    "text": "Meanwhile, the Seylan Bank Ltd. opened 11 branches at Ratnapura, Kollupitiya, Moratuwa, Kegalle, Nugegoda, Gampaha, Negombo, Dehiwala, Chilaw, Galle and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      230.4,
+      696.69,
+      247.29,
+      707.76
+    ],
+    "text": "142",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      67.2,
+      81.09,
+      429.24,
+      174.48
+    ],
+    "text": "Kandy during the year. The Commercial Bank of Ceylon Ltd. (CBC) established 3 new branches at Borella, Nugegoda and Kegalle. The Hatton National Bank Ltd. (HNB) opened 3 new branches at Piliyandala, Chilaw, and Bambalapitiya, and a pay office at Katunayake (Air port). The Sampath Bank Ltd. opened 2 new branches at Wattala and Matara. Consequently, the total number of branches of the Seylan Bank, the CBC, the HNB and the Sampath Bank expanded to 17,19, 39 and 13, respectively by the end of 1990. Meanwhile, the Habib Bank Ltd.; opened its Nawam Mawatha branch and the Standard Chartered Bank Ltd. set up its Kollupitiya branch during 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      146.4,
+      191.11,
+      350.76,
+      214.52
+    ],
+    "text": "TABLE 1.61 Distribution of Bank Branches, 1988 -1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      159.12,
+      235.34,
+      412.29,
+      243.4
+    ],
+    "text": "Category 1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      79.92,
+      254.54,
+      412.46,
+      290.92
+    ],
+    "text": "1: No. of Institutions 36 35 36 1.1 No. of Commercial Banks 25 24 24 1.1.1 No.of Domestic Banks \u2022\u2022\u2022\u2022\u2022 \u2022 6 ' ' 6 6 1.1.2 . No.of Foreign Banks ... 19 18 18",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.353825569152832,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      91.68,
+      302.07,
+      412.71,
+      311.08
+    ],
+    "text": "1.2 No. of RRDBs (a) 11 11 12",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      78.96,
+      321.51,
+      159.97,
+      329.32
+    ],
+    "text": "2. No. of Branches(b)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.83323335647583,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      90.72,
+      321.27,
+      412.32,
+      386.92
+    ],
+    "text": ": \u2022' 844 870 ' 918 2.1 No.of Commercial Bank Branches 700 . 712 742 2.1.1 No.of Domestic Bank Branches (c) 678 691 719 2.1.1.1 No.of ASC Branches 47 45 38 2.1.2 No.of Foreign Bank Branches 22 21 23 2.2 No.of RRDB Branches 80 89 100 2.3 No.of NSB Branches 64 69 76",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      2.4377193450927734,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.48,
+      398.31,
+      427.3,
+      444.76
+    ],
+    "text": "Source: Central Bank of Sri Lanka (a) Regional Rural Development Banks established under RRDB Act No. 15 of 1985. (b) Includes Head Offices. (c) Includes extension offices, Kachcheri Branches, Pay Offices and Overseas branches but excludes ASC branches functioning as extension offices of main branches.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.24,
+      484.77,
+      428.32,
+      555.84
+    ],
+    "text": "During the year under review, the National Savings Bank opened 7 new branches at Wellawatta, Piliyandala, Chunnacam, Chawakachcheri, Gampola, Kadawata and Maligawatta, thus raising its total number of branches to 76 at the end of 1990. Mean\u00adwhile, the RRDBs established 11 branches expanding their total number of branches to 100 by the end of the year. Moreover, with a view to improving its services, the State Mortgage and Investment Bank opened its first branch office at Kandy.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      84.24,
+      566.37,
+      181.38,
+      577.44
+    ],
+    "text": "Special Loan Schemes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.76,
+      589.17,
+      428.52,
+      670.8
+    ],
+    "text": "During the year, the People's Bank (PB) extended their self-employment loan scheme by expanding its coverage to include professionals such as Ayurvedic doctors and lawyers etc., and introduced a new loan scheme for small-scale exporters to meet their preliminary expenses in the establishment of production units and working capital. Fur\u00adthermore, the PB introduced a customers' day in each month with a view to resolving customer problems and providing information needed by customers. In addition, the National Development Bank launched a loan scheme for the purchase of buses under the",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      238.56,
+      694.77,
+      255.56,
+      705.84
+    ],
+    "text": "143",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.6,
+      81.09,
+      418.11,
+      176.16
+    ],
+    "text": "SMI scheme. The Bank of Ceylon commenced a new loan scheme with a view to assisting Sri Lankans going for employment to the Middle Eastern countries. Meanwhile, the Central Bank introduced a new project to grant collateral-free credit to most disad\u00advantaged persons in certain districts through the. Regional Rural Development Banks using a soft loan facility received from the International Fund for Agricultural Develop\u00adment The Central Bank also launched a scheme to assist self-employment projects under the small fanners and landless credit project by providing expertise in agriculture, animal husbandry and small industries.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.880637168884277,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      76.08,
+      186.21,
+      198.66,
+      197.28
+    ],
+    "text": "Extension of Banking Hours",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.32,
+      209.01,
+      422.07,
+      340.08
+    ],
+    "text": "In response to customer demand and improved competition, several commercial banks extended their business hours in 1990. Banque Indosuez extended its business hours upto 2.30 p.m.; The Seylan Bank Ltd. introduced a night banking service by extending its business hours upto 8100 p.m. in its corporate and Kollupitiya branches. The Bank of Ceylon and the People's Bank also extended their banking hours upto 4.00 p.m. at a selected 25 and 15 branches, respectively. Meanwhile, the Bank of Ceylon intro\u00adduced a \"First Saturday Service\" facility in selected zones. ~ Accordingly, .the bank branches in the Central, North Central and Eastern Zones remain open till 12.00 noon on the first Saturday of each month for transactions. The Grindlays Bank's main branch be\u00adgan to commence its business at 8.30 a.m. while the Commercial Bank of Ceylon Ltd. extended its hours of services upto 3.00 p.m. at selected branches.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.04,
+      350.13,
+      155.02,
+      361.2
+    ],
+    "text": "Agency Banking ;",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.28,
+      376.05,
+      419.4,
+      483.12
+    ],
+    "text": "During the year under review, the Bank of Ceylon and the People's Bank continued their activities under the Praja Naya Niyamaka Scheme introduced in 1988. Accordingly, the Bank of Ceylon appointed 930 Praja Naya Niyamakas (PNNs) in 1990 thus raising the total number of its PNNs to 3,636 at the end of 1990. The total value of overdrafts approved to PNNs by the bank during the year amounted to Rs.107 million. Meanwhile, the People's Bank recruited 2,373 PNNs thus raising the total number of its PNNs to 6,701 by the end of 1990. The People's Bank granted Rs.97 million to PNNs during the year under review, thereby increasing the total outstanding amount granted under the scheme to Rs.158 million by the end of 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.76,
+      493.65,
+      419.4,
+      540.0
+    ],
+    "text": "The Sampath Bank Ltd. appointed 59 Sampath Seva Sanyojakas (SSS), increasing the total number of SSSs to 105 by the end of 1990. Total value of loans granted by the Sampath Bank Ltd. under the SSS scheme up to end December 1990 totalled Rs.20 million, while the outstanding amount by the end of 1990 was Rs. 11 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      78.0,
+      549.09,
+      205.14,
+      560.16
+    ],
+    "text": "Service and Savings Facilities",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      60.0,
+      570.93,
+      419.7,
+      666.0
+    ],
+    "text": "The Bank of Ceylon introduced a new money transfer instrument known as the \"Sight Payment Order\", a non-transferable document for the purpose of transfering of funds between towns by purchasers themselves or to a named payee. The Bank of Ceylon also opened a Trade Promotion and Export Advisory Services Unit with a view to providing free advisory service to small exporters engaged in non-traditional exports. Furthermore, in collaboration with Air Lanka Ltd, the Bank established the Ceybank Travel Center in Order to provide more efficient travelling facilities, especially to foreigners.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      232.32,
+      694.53,
+      249.01,
+      705.6
+    ],
+    "text": "144",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      68.64,
+      75.09,
+      430.92,
+      144.96
+    ],
+    "text": "The People's Bank introduced a credit, card called the \"Mahajana Govi Patha\" to enable its holders to obtain cultivation loans and to draw cheques on their savings ac\u00adcounts. The Bank also introduced People's Cards as credit cards under franchise from Visa International Ltd. Accordingly, the Classic Card, the .Gold Card and the Business Card were introduced for domestic transactions, while the International Card is to be used in international transactions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.004399299621582
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      68.16,
+      153.09,
+      429.89,
+      258.24
+    ],
+    "text": "The Standard Chartered Bank introduced an automated teller machine card called \"Money Link\", while the Commercial Bank of Ceylon Ltd. introduced an automated teller card called \"CAT. The Sampath Bank Ltd. and the Seylan Bank Ltd. introduced two new deposit schemes for children, namely \"the Children's Savings Accounts\" and \"the Child Protection Account\", respectively. The State Mortgage and Investment Bank introduced a new savings scheme known as the \"Special Savings Certificate\". Mean\u00adwhile, the Central Bank of Sri Lanka, on behalf of the government of Sri Lanka, issued two savings instruments, namely \"Treasury Certificates of Deposits\" and \"National Defence Bonds\".",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      68.4,
+      269.25,
+      221.84,
+      280.32
+    ],
+    "text": "RURAL BANKING AND CREDIT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      67.92,
+      292.29,
+      430.0,
+      387.36
+    ],
+    "text": "Institutional credit facilities for rural based economic activities given under special credit schemes were enhanced in 1990. With a view to enhancing the flow of credit to the rural sector, the Central Bank in 1990 introduced the All Island Self Employment Credit Scheme and granted approval for two development lending institutions, viz. the NDB and DFCC, to participate in the New Comprehensive Rural Credit Scheme (NCRCS). Applicable interest rates and scales of financial facilities available under refinance schemes were revised upward in 1990 taking into account the developments in monetary policy and interest rates. .!",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.906866073608398,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      85.92,
+      397.17,
+      312.24,
+      408.24
+    ],
+    "text": "New Comprehensive Rural Credit Scheme (NCRCS)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      67.68,
+      420.21,
+      429.96,
+      515.28
+    ],
+    "text": "The total volume of credit extended under the NCRCS during 1990 at Rs. 582 million registered an increase of 106 per cent reversing the trend recorded in the previous year. Loans granted during Maha 1989/90 amounted to Rs. 299 million showing an increase of 90 per cent over the previous Maha Season, while loans granted during Yala 1990 at Rs. 283 million recorded an increase of 125 per cent over the Yala, 1989. The improved momentum in the grant of credit was mainly due to the recovery of economic activities and expanded banking activities following the improved security situation in a majority of areas in die country.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      67.44,
+      522.21,
+      430.13,
+      581.52
+    ],
+    "text": "The volume of loans granted for cultivation of paddy under the NCRCS amounted to Rs. 361 million in 1990 registering an increase of 74 per cent over 1989. Such credit accounted for 62 per cent of the total loans granted for cultivation purposes during the year. Similarly; loans granted for subsidiary food crops including coarse grains, pulses, oil seeds and vegetables recorded an increase of 1-91- per cent-over the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      9.978276252746582
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      67.68,
+      581.49,
+      430.2,
+      658.8
+    ],
+    "text": "; ,' y. ':, 'v .. ! ^ o: -; ;\u2022 i \" \u2022 The Central Bank continued to provide a 50 per cent guarantee coyer in respect of losses incurred bythe banks on loans granted under the NCRCS. As at end 1990, the total value paid by the Central Bank as indemnities under the credit guarantee scheme amounted to Rs. 35.8 million. The refinance rates and the on-lending rates fixed for cultivation loans in 1986 under the NCRCS were revisfed upwards in mid - 1990. Ac\u00adcordingly, the refinance rate was increased from 1.5 per cent per annum to 4.5 per cent",
+    "fonts": [
+      "Helvetica-BoldOblique",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4824562072753906,
+      6.965907096862793,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      240.0,
+      688.53,
+      256.89,
+      699.6
+    ],
+    "text": "145",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      354.0,
+      65.83,
+      412.69,
+      77.0
+    ],
+    "text": "TABLE 1.62",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      194.16,
+      89.83,
+      574.56,
+      101.0
+    ],
+    "text": "Cultivation Loans Granted Under the New Comprehensive Rural Credit Scheme",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      317.28,
+      101.59,
+      450.15,
+      112.76
+    ],
+    "text": "(Position as at 31.12.1990)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      635.04,
+      112.71,
+      679.57,
+      120.52
+    ],
+    "text": "(Rs. Million)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.89491081237793,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      140.88,
+      128.78,
+      349.69,
+      146.2
+    ],
+    "text": "People's Bank Bank of Ceylon Hatton National Bank.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      371.52,
+      128.54,
+      430.09,
+      146.2
+    ],
+    "text": "Reg. Rural Dev. Banks .",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.880398273468018,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      445.68,
+      127.34,
+      641.72,
+      136.12
+    ],
+    "text": "Commercial Banks D F C C Total Loans",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      653.04,
+      138.38,
+      672.92,
+      146.2
+    ],
+    "text": "Total",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      96.48,
+      152.78,
+      124.68,
+      160.6
+    ],
+    "text": "Season",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      133.44,
+      166.46,
+      154.44,
+      174.28
+    ],
+    "text": "Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      156.72,
+      151.59,
+      177.43,
+      183.88
+    ],
+    "text": "Subsi\u00addiary food crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      182.88,
+      165.26,
+      227.64,
+      174.04
+    ],
+    "text": "Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      231.36,
+      151.1,
+      252.07,
+      183.4
+    ],
+    "text": "Subsi\u00addiary food crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      260.4,
+      164.78,
+      308.52,
+      173.8
+    ],
+    "text": "Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      312.0,
+      150.87,
+      332.66,
+      183.16
+    ],
+    "text": "Subsi\u00addiary food crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      338.16,
+      164.54,
+      381.72,
+      173.32
+    ],
+    "text": "Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      386.88,
+      150.62,
+      465.96,
+      174.76
+    ],
+    "text": "Subsi\u00addiary . food Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      468.0,
+      150.15,
+      488.9,
+      183.16
+    ],
+    "text": "Subsi\u00addiary (bod crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      494.64,
+      163.82,
+      538.63,
+      172.6
+    ],
+    "text": "Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      540.96,
+      149.66,
+      561.86,
+      181.96
+    ],
+    "text": "Subsi\u00addiary food crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      567.36,
+      163.34,
+      613.9,
+      172.36
+    ],
+    "text": "Total Paddy",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      622.08,
+      149.18,
+      643.22,
+      182.2
+    ],
+    "text": "Subsi\u00addiary food crops",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.910741329193115,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      649.68,
+      147.5,
+      679.05,
+      174.52
+    ],
+    "text": "loans under NCRCS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.76,
+      195.99,
+      676.65,
+      213.64
+    ],
+    "text": "1988/89 Maha 55.4 7.1 62.5 49.4 29.2 78.6 5.7 0.3 6.0 9.0 1.3 10.3 --- \u2022 ---119. 37.9 157.4",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.902795314788818,
+      6.964912414550781,
+      7.956914901733398,
+      8.95787239074707,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.28,
+      224.78,
+      677.12,
+      241.96
+    ],
+    "text": "1989 Yala 29.9 11.9 41.8 45.7 22.7 68.4 \u2022 - \u2022 0.4 0.4 11.9 3.0 14.9 87.5 38 125.5",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.28,
+      253.34,
+      677.06,
+      270.76
+    ],
+    "text": "Cultivation Year 1989 85.3 19.0 104.3 95.1 51.9 147.0 5.7 0.7 6.4 20.9 4.3 25.2 -----207.0 75.9 282.9",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.956914901733398,
+      8.95787239074707,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.76,
+      281.67,
+      677.28,
+      299.08
+    ],
+    "text": "1989/90 Maha 76.4 17.5 93.9 92.2 59.5 151.7 13.7 2.9 16.6 23.2 13.9 37.1 - ------205.5 93.8 299.3",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.956914901733398,
+      8.95787239074707,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      90.0,
+      306.69,
+      677.21,
+      318.28
+    ],
+    "text": "1990 Yala 54.1 47.9 102.0 71.4 41.1 112.5 1.5 8.2 9.7 28.1 29.1 57.2 -0.1 0.1 -1.0 1.0 155.1 127.4 282.5",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      8.95787239074707,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      89.04,
+      329.43,
+      677.24,
+      346.6
+    ],
+    "text": "Cultivation Year 1990 130.5 65.4 195.9 163.6 100.0 264.2 15.2 11.1 26.3 51.3 43.0 94.3 -0.1 0.1 -1 0 1.0 360.6 221.2 581.8",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.956914901733398,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      474.48,
+      353.43,
+      672.23,
+      408.76
+    ],
+    "text": "Sources: People's Bank Bank of Ceylon Hatton National Bank Regional Rural Development Banks Commercial Bank Development Finance Corporation of Ceylon",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.44,
+      71.97,
+      423.76,
+      106.56
+    ],
+    "text": "per annum, while the on-lending rate was increased from 9 per cent per annum to 12 pa-cent per annum allowing the permitted margin to the banks to remain at 7.5 per cent per annum.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.44,
+      114.21,
+      423.96,
+      161.28
+    ],
+    "text": "Taking into account the increased prices of agricultural inputs and the need to make available sufficient funds for farmers to reactivate cultivation, the scales of finance ac\u00adcording to which the quantum of loan for each crop is decided, were revised upwards during 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.68,
+      171.09,
+      285.83,
+      182.16
+    ],
+    "text": "Medium and Long Term Credit Funds (MLCF)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.44,
+      193.89,
+      423.72,
+      252.96
+    ],
+    "text": "A total of Rs. 162 million has been granted by participating banks as medium and long term loans for agricultural purposes under 25 credit schemes in operation during 1990. This showed an increase of 160 per cent over the corresponding value in 1989. The highest quantum of refinance amounting to Rs. 71 million had been utilised under the All Island Self Employment Credit Scheme introduced during the year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.68,
+      260.13,
+      423.78,
+      330.0
+    ],
+    "text": "The on-lending rate applicable under all medium and long term credit schemes was increased by 1.5 percentage points to 14 per cent per annum, while the refinance rate to banks was reduced from 8.5 per cent to 7 per cent during the year under review. Accord\u00adingly, the margin allowed for the participating lending institutions was raised from 4 per cent to 7 per cent encouraging them to provide increased credit facilities to the rural sector.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      341.25,
+      314.55,
+      352.32
+    ],
+    "text": "Credit Facilities of Co-operative Rural Banks (CRBs)*",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      62.16,
+      363.81,
+      423.39,
+      387.12
+    ],
+    "text": "The number of CRBs in operation remained unchanged at 282 in 1990 while the total number of special branches of CRBs steadily increased by 39 reaching a total of 746.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.92,
+      394.05,
+      423.69,
+      453.12
+    ],
+    "text": "The total amount of loans granted by the CRBs during 1990 at Rs. 435 million registered an increase of 82 per cent over 1989. As in previous years, the highest quan\u00adtum of loans granted by the CRBs in 1990 had been for the provision of housing, electrification and water supply. The total amount granted for agricultural purposes at Rs. 41 million in 1990, recorded an increase of 58 per cent over the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      463.41,
+      233.27,
+      474.48
+    ],
+    "text": "Agriculture Insurance Board (AIB)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.92,
+      485.97,
+      423.72,
+      579.36
+    ],
+    "text": "Reversing the decreasing trend observed over the last two years, the total areas insured by the AIB increased from 37,000 hectares in 1989 to 40,000 hectares in 1990. This trend was in line with the increased area cultivated during the same period. The increased area insured resulted in a 16 per cent rise in the total value of premia collected by the AIB from Rs. 9.4 million in 1989 to Rs. 10.9 million in 1990. The value of indemnity paid by the AIB during 1990 was Rs. 8.8 million as against Rs. 10.7 million paid during 1989. Accordingly, the premia collected in 1990 exceeded the indemnities paid during the year by Rs. 2.1 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.68,
+      590.85,
+      209.71,
+      601.92
+    ],
+    "text": "Mobilisation of Rural Savings",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      61.92,
+      613.89,
+      423.45,
+      649.44
+    ],
+    "text": "The total outstanding value of rural savings including savings and fixed deposits mobilised by the CRBs, the Bank of Ceylon Sub-offices at Agrarian Service Centres, Regional Rural Development Banks (RRDBs) and the Thrift and Credit Co-operative",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      62.16,
+      653.18,
+      298.67,
+      661.0
+    ],
+    "text": "* Rural Banks are known as Co-operative Rural Banks since 1971.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      1.68,
+      675.06,
+      5.24,
+      681.7
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.967934608459473
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      233.76,
+      686.85,
+      250.83,
+      697.92
+    ],
+    "text": "147",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      352.08,
+      88.87,
+      410.22,
+      100.04
+    ],
+    "text": "TABLE 1.63",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      286.32,
+      112.63,
+      476.98,
+      123.8
+    ],
+    "text": "Deposits and Advances - Rural Sector*",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      611.52,
+      123.67,
+      677.91,
+      134.88
+    ],
+    "text": "(Amount Rs. \"000)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.20798397064209,
+      8.366600036621094,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      252.0,
+      138.87,
+      649.54,
+      147.64
+    ],
+    "text": "Co-operative'' Bank of Ceylon Regional Thrift anpl Credit",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      253.44,
+      148.22,
+      642.51,
+      157.24
+    ],
+    "text": "Rural Banks sub-offices at Rural Co-operative",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      357.12,
+      158.06,
+      636.25,
+      175.96
+    ],
+    "text": "Agrarian Services Development Societies Centres Banks",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      237.6,
+      180.62,
+      666.51,
+      189.4
+    ],
+    "text": "1989 1990 1989 1990 1989 \u2022 1990 \u2022 1989 1990 ,",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      87.84,
+      195.75,
+      668.08,
+      204.52
+    ],
+    "text": "1. Total Savings 2,211,887 2,497,322 203,861 196,496. 176,097 313,871 418,000 514,253",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.353825569152832,
+      6.964912414550781,
+      7.022852420806885,
+      7.022887706756592
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.64,
+      205.34,
+      669.33,
+      214.12
+    ],
+    "text": ": .1.1 Savings . 2,022,768 2,279,067 162,859 160,162 144,698 268,879 n.a. - 422,133",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.022852420806885
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.16,
+      214.05,
+      668.23,
+      225.12
+    ],
+    "text": "~ 1.2 Special Savings . . -- ' 15,561 12,690 9,545 8,379 n.a. 71,052",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.051609992980957,
+      7.066845893859863,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.16,
+      224.3,
+      668.96,
+      233.08
+    ],
+    "text": "' 1.3 Fixed Deposits 189,119 218,255 25.441 23,644 21,854 36,613 n.a. '. 21,068",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      87.12,
+      241.41,
+      667.74,
+      252.48
+    ],
+    "text": "2. / Total loans granted ** 238,726 434,718 22,512 24,589 154,661 429,780 416,000 485,341",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.83323335647583,
+      6.964912414550781,
+      10.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      92.88,
+      252.87,
+      668.15,
+      280.36
+    ],
+    "text": "2.1 Agriculture . 25,785 41,124 14,140 19,509 86,854 : 281,381 n.a. 131,254 -' 2.2 Animal Husbandry 7,112 26,475 87 45 6,800 18,594 n.a! 20,523 .'. 2.3 Fisheries ----4,006 5,348 n.a.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.030592918395996,
+      7.068579196929932,
+      7.0717668533325195
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      101.52,
+      281.19,
+      668.29,
+      318.28
+    ],
+    "text": "2.4 Small Industries 10,746 30,780 38\" 865 17,762 42,381 n.a. 69,734 2,5 Housing, Electrification and water'supply 136,697 215,005 598 312 -n.a. 152,753 2.6 Projects/commerce 16,406 . -. 49,290 n.a. 14,699",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.8568925857543945,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      101.52,
+      319.11,
+      668.16,
+      327.88
+    ],
+    "text": "2.7 Others 58,386 104,928 7,649 3,858 39,239 32,786 n.a. 96,378",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.061851978302002,
+      7.068475246429443
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      86.4,
+      337.83,
+      671.54,
+      383.08
+    ],
+    "text": "* Excludingithe position on the branches of the People's Bank and the Bank of Ceylon in rural areas. Source: People's Bank ** Total value of loans granted during the year. Bank of Ceylon Regional RuralDev. Banks Thrift and Credit Co-operative Societies",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.022085189819336
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      61.68,
+      81.57,
+      423.61,
+      176.64
+    ],
+    "text": "Societies (TCCSs) stood at Rs. 3^22 million in 1990 showing an increase of Rs. 512 million or 17 per cent over the previous year. Attractive rates of interest on savings and fixed deposits, expansion of bank branches into rural areas, introduction of new savings schemes, the upsurge witnessed in rural based activities and the improved security situa\u00adtion in most parts of the country were the contributory factors for the improvement in savings mobilisation during the year. Of the total savings, Rs. 2,497 million or 71 per cent was held by the CRBs. The outstanding savings with the RRDBs at Rs. 314 million at the end of 1990 recorded an increase of 78 per cent over the level in the previous year.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      62.16,
+      186.69,
+      163.18,
+      197.76
+    ],
+    "text": "CENTRAL BANKING",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      61.44,
+      209.49,
+      423.37,
+      244.56
+    ],
+    "text": "The total assets/liabilities of the Central Bank at end 1990 amounted to Rs.77,462 million, recording a sharp increase of Rs.14,692 million or 23 per cent during the year as compared with an expansion of Rs. 7,439 million or 13 per cent in 1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      61.44,
+      251.49,
+      423.24,
+      309.6
+    ],
+    "text": "On the assets side, the international reserve (gross) of the Central Bank increased substantially by Rs.6,436 million (65 per cent) in 1990. This was the composite outcome of increases in cash and balances abroad including Treasury bills, and foreign govern\u00adment and non-governmental securities by Rs.4,016 million and Rs.2,856 million, respec\u00adtively and a decrease in the holdings of Special Drawing Rights (SDR) by Rs.436 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      60.96,
+      317.49,
+      423.24,
+      472.56
+    ],
+    "text": "Compared to a marginal growth of 2 per cent or Rs.761 million in 1989, the domestic assets of the Central Bank (excluding other assets and accounts) recorded a growth of Rs.4,483 million Or 11 per cent in 1990. Loans and advances to the government increased by Rs.3,562 million (47 per cent) mainly due to a special loan given to the government amounting to Rs.3,055 million in June, 1990 subsequent to the revaluation adjustment which took place with respect to the liabilities to the IMF including quota while holdings of government and government guaranteed securities decreased by Rs.2,097 million (-7.2 per cent). Meanwhile, advances to commercial banks and other financial institutions increased by Rs.3,018 million (70 per cent) in 1990, mainly due to the growth in short-term refinance loans which'amounted to Rs.2,045 million during the year. The other assets and accounts of the Bank expanded by Rs;3,773 million (32 per cent) during the year, compared with an increase of Rs.4,332 million (58 per cent)in 1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.891916275024414,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      60.72,
+      479.49,
+      422.94,
+      610.56
+    ],
+    "text": "On the liabilities side, monetary liabilities consisting of currency in circulation and deposits grew by Rs.l 1,661 million in 1990. The deposit liabilities and currency in circulation increased by Rs.8,887 million and Rs.2,774 million, respectively. The depos\u00adits of foreign government and foreign banking institutions, commercial banks, govern\u00adment, and government agencies and government institutions increased by Rs.6,070 mil\u00adlion, Rs.l,861 million, Rs.829 million and Rs.l52 million, respectively while deposits of other institutions declined by Rs.25 million. During the year under review, the Central Bank's outstanding liabilities on account of short-term borrowings from abroad declined significantly by Rs.2,631 million compared to an increase of Rs.2,401 million in 1989. Meanwhile, other liabilities of the Central Bank rose by Rs.5,161 million against an increase of Rs.2,516 million in the previous year. . 7 , -7",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      60.96,
+      621.09,
+      149.88,
+      632.16
+    ],
+    "text": "INTEREST RATES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      60.96,
+      647.01,
+      422.69,
+      670.32
+    ],
+    "text": "In the background of high levels of inflation and the acceleration in the growth of domestic credit, especially during the second half of the year, the general level of interest",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      233.76,
+      696.21,
+      250.5,
+      707.28
+    ],
+    "text": "149",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      191.28,
+      83.65,
+      287.49,
+      95.93
+    ],
+    "text": "INTEREST RATES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      185.28,
+      100.95,
+      292.43,
+      108.76
+    ],
+    "text": "END QUARTERLY FIGURES",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.4,
+      141.97,
+      116.03,
+      166.97
+    ],
+    "text": "PERCENT 30",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      363.36,
+      141.72,
+      417.76,
+      166.49
+    ],
+    "text": "PERCENT 30",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.88,
+      227.89,
+      418.26,
+      240.41
+    ],
+    "text": "2 5 25",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.16,
+      303.01,
+      78.4,
+      315.29
+    ],
+    "text": "20",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      95.04,
+      352.92,
+      127.32,
+      374.54
+    ],
+    "text": "\u2022\u2014\u2022",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      19.4330997467041
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.4,
+      377.41,
+      79.81,
+      389.69
+    ],
+    "text": "1 5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.64,
+      452.29,
+      78.05,
+      464.57
+    ],
+    "text": "10",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      62.16,
+      601.09,
+      71.24,
+      613.37
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.48,
+      376.36,
+      138.21,
+      388.54
+    ],
+    "text": "o\u2014(b-i",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.124911308288574
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      386.16,
+      302.77,
+      420.33,
+      315.05
+    ],
+    "text": "- 20",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      402.72,
+      377.41,
+      420.13,
+      389.69
+    ],
+    "text": "1 5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      402.48,
+      451.57,
+      420.82,
+      463.85
+    ],
+    "text": "1 0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.24,
+      486.93,
+      334.05,
+      498.0
+    ],
+    "text": "XXXXX TREASURY BILLS (MAX.) PRIMARY MARKET",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.959899425506592,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      134.64,
+      505.16,
+      191.88,
+      514.1
+    ],
+    "text": "BANK RATE.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      90.72,
+      519.24,
+      305.02,
+      531.53
+    ],
+    "text": "_-0-0-<> TIME DEPOSITS (12 MONTHS MAX.)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      95.76,
+      538.28,
+      265.17,
+      547.22
+    ],
+    "text": "O\u2014O SAVINGS DEPOSITS ( MAX. )",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      96.24,
+      554.6,
+      165.99,
+      563.54
+    ],
+    "text": "\u2022 \u2014 \u2022 - \u2022 B O N D S",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      135.12,
+      570.92,
+      238.28,
+      579.86
+    ],
+    "text": "PRIME LENDING RATE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      98.16,
+      611.65,
+      385.16,
+      623.93
+    ],
+    "text": "1985 1986 1987 1988 1989 1990",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      381.12,
+      525.97,
+      419.03,
+      538.25
+    ],
+    "text": "\u2014 5",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      326.4,
+      665.9,
+      421.21,
+      673.72
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      233.04,
+      697.41,
+      249.89,
+      708.48
+    ],
+    "text": "150",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      61.2,
+      84.21,
+      422.2,
+      119.28
+    ],
+    "text": "rates in 1990 continued to remain high, as in the previous year. Bank rate was raised from 14 to IS per cent in July, 1990 while in other markets, interest rates woe influenced by market conditions.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      79.2,
+      128.85,
+      158.35,
+      139.92
+    ],
+    "text": "Short-term Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      60.48,
+      154.05,
+      422.52,
+      341.52
+    ],
+    "text": "Reflecting an enhanced demand for funds by the government, the interest rates in the primary Treasury bill market showed an increasing trend, especially during the second part of 1990. Accordingly, the weighted annual average yield on Treasury bills which decreased from a range of 18.10-19.10 per cent per annum in December, 1989 to a range of 15.4-16.9 per cent per annum in May, 1990 showed an increasing trend during the second part of 1990, ending the year at a range of 17.4-18.4 per cent per annum. Mean\u00adwhile, the discount and re-discount rates in the secondary Treasury bill market were revised during 1990 following the changes in interest rates in the primary Treasury bill market and at the end of year they remained more or less closer to rates prevailing in this market at the end of previous year. For instance, the discount and rediscount rates declined from 15.50 and 20.50 per cent by the end of 1989 to 12.75 and 17.75 per cent, respectively in May, 1990 but increased to the previous end year rates at the end of 1990. During the previous year ranges of the discount and rediscount rates in the secondary Treasury bill market were 12.50-15.75 and 17.50-20.75 per cent per annum, respectively, while those in 1990 remained at ranges of 12.75-15.75 and 17.75-20.75 per cent per annum, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      60.24,
+      353.97,
+      422.52,
+      425.04
+    ],
+    "text": "In contrast, interest rates in the interbank call money market showed substantial fluctuations during the year. For instance, by the end of the first quarter of 1990 the interest rates in this market declined to a range of 13-15 per cent per annum from a range of 13-25 per cent per annum experienced during the last quarter of 1989 and reached its highest range of 19-30 per cent per annum in August, 1990. The rates again declined to a range of 14-19 per cent per annum by the end of the fourth quarter of 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      60.0,
+      431.97,
+      422.05,
+      527.04
+    ],
+    "text": "The minimum and maximum rates on one year fixed deposits of commercial banks declined from 11.0-20.5 per cent at the end of 1989 to a range of 7.0-18.5 per cent in March, 1990 but increased thereafter reaching a range of 11.0-21.0 per cent at the end of 1990. Within this broad range, several commercial banks raised their one year fixed deposit rates from a range of 11-15 per cent to a range of 14-17 per cent during the year under review. The National Savings Bank (NSB) revised its rates upward on savings and fixed deposits by around 2 percentage points per annum in July, 1990 in order to preserve its competitiveness over commercial banks.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.909590721130371,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      60.0,
+      533.97,
+      422.28,
+      605.04
+    ],
+    "text": "The interest rates offered by commercial banks on Certificate of Deposits (CDs) remained at a range of 7-21.7 per cent per annum, during the year under review. Interest rates offered by finance companies on CDs also remained more or less static during the year at a range of 12-22 per cent per annum. Meanwhile, the ceilings on deposits rates of finance companies remained unchanged at 21 per cent and 24 per cent per annum for deposits with a maturity of less than 24 months and over 24 months, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      60.0,
+      612.21,
+      422.04,
+      670.32
+    ],
+    "text": "The Central Bank revised upward the interest rates applicable under the Agriculture Credit Refinance Scheme in April, 1990. Accordingly, the Central Bank refinance rate was raised from 1.5 per cent to 4.5 per cent per annum while the margin allowed to credit institutions was kept unchanged at 7.5 per cent raising the maximum applicable rate to borrowers from 9 per cent to 12 per cent per annum.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      233.28,
+      697.65,
+      250.22,
+      708.72
+    ],
+    "text": "151",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      58.8,
+      83.01,
+      419.06,
+      142.08
+    ],
+    "text": "Following the pattern recorded by the deposit rates, the average weighted prime lending rate (AWPR) of commercial banks computed by the Central Bank on a weekly basis showed a decreasing trend during first half of 1990 but an increasing trend during second half. The AWPR recorded its lowest rate for the year in June at 17.0 per cent per annum and reached its highest position in December at 18.6 per cent per annum.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.322741508483887
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      77.28,
+      152.13,
+      154.75,
+      163.2
+    ],
+    "text": "Long-term Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      59.52,
+      179.73,
+      419.88,
+      296.64
+    ],
+    "text": "During 1990, 8 series of government securities were issued. These securities had a maturity period of 4 years and carried an interest rate of 13 per cent per annum. These compared with interest rates of 11-12 per cent per annum on 5-6 year securities issued in 1989. In May, 1990 the Central Bank announced the issue of Treasury Certificates of Deposit (TCDs) to the public on behalf of the government of Sri Lanka. The yield rate on TCDs increased from a range of 14.6-16.5 per cent per annum in May, 1990 to a range of 17.1-19.0 per cent per annum in October and remained at the same level during the last two months of 1990. Meanwhile, in order to raise funds for meeting national defence expenditure, the Central Bank issued two series of National Defence Bonds at a rate of 15 per cent per annum with a maturity period of 3 years in July and October, 1990.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.891916275024414,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      60.48,
+      310.53,
+      420.6,
+      474.48
+    ],
+    "text": "In April 1990, the Central Bank revised the interest rates applicable for loans under the Medium and Long-term Credit Fund (MLCF). The margins permitted to the credit institutions under Category I (promotion or development of agriculture and fisheries approved by respective ministries carrying tax holidays) and Category II (promotion or development of exports) were raised, while the Central Bank refinance rates applicable to these categories were adjusted downward. Under Category I, the margin permitted to the credit institutions was increased from 4 to 7 percentage points, while the Central Bank refinance rate was reduced from 7.5 per cent to 7.0 per cent per annum. In the case of Category II, the margins permitted to credit institutions were increased from 2 to 4 percentage points, while the Central Bank refinance rates were reduced by 2 percentage points. Accordingly, the maximum interest rate applicable to loans under Category I increased from 11.5 per cent to 14.0 per cent per annum, while those under Category II remained at the previous levels, which were 9 per cent for loans less than Rs 5 million and 10 per cent for loans over Rs. 5 million.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      61.44,
+      489.33,
+      421.73,
+      665.04
+    ],
+    "text": "As in the previous year, the lending rates of the National Development Bank (NDB) continued to be linked to market rates of interest. Accordingly, its refinance rates under the Small and Medium Industries (SMI) Project HI were determined for each 6-month period by substracting 6 percentage points from the average weighted prime lending rate (AWPR) of commercial banks over the proceeding 6-month period. However, the lend\u00ading institutions were given the freedom of deciding their own margins based on opera\u00adtional costs and project risk. Meanwhile, by the end of 1990, the on-lending rate of the Development Finance Corporation of Ceylon (DFCC) to SMI customers stood at 17.5 per cent per annum compared to 16.5 per cent per annum in 1989 and 14.5 per cent per annum in 1988. The lending rates charged by the DFCC for equipment financing, construction of commercial buildings, and working capital and bridging finance ranged between 17.5-22.0 per cent per annum in 1990, as compared with a range of 15.0 -18.0 per cent per annum in 1989. The National Savings Bank and the State Mortgage and Investment Bank continued to provide housing loans at rates between 18 and 22 per cent per annum compared with rates between 13 and 20 per cent per annum in 1989.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      233.52,
+      697.41,
+      250.41,
+      708.48
+    ],
+    "text": "152",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      65.52,
+      85.17,
+      168.44,
+      96.24
+    ],
+    "text": "MONETARY POLICY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      65.04,
+      108.93,
+      428.05,
+      200.64
+    ],
+    "text": "Against a background of sustained expansion in liquidity due to domestic as well as external factors, in 1990 the authorities were obliged to continue with the restrictive mon\u00adetary policy stance adopted in 1989. The need for a restrictive policy was further strengthened by continuing high inflationary pressures that existed throughout the year. Hence, in addition to those in place by the end of 1989, the following policy measures were adopted during the year. First, Bank rate was raised upward by 1 percentage point to IS pa- cent in July, 1990. Second, the interest rates applicable to Central Bank refinance woe revised upward in respect of a number of facilities during the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      64.56,
+      208.77,
+      426.76,
+      358.08
+    ],
+    "text": "Following the recent trend, during 1990 also the main thrust of the monetary policy was on open market operations. Accordingly, the Central Bank intensified its open market operations during the year under review, mainly through the sale of Treasury bills, with a view to moderating the rate of growth of its domestic assets and therefore the overall liquidity in the economy. Meanwhile, the non-market oriented credit control policy measures such as the partial credit ceiling and the 100 per cent margin requirement against Letters of Credit on non-essential imports introduced in 1989 woe continued in 1990 as short-term corrective measures since the inflationary situation did not improve to a satisfactory level to discontinue them. However, in order to maintain the growth momentum, the Bank was obliged to continue to provide refinance facilities to priority and productive sectors of the economy. The total outstanding refinance extended by the Bank under different schemes expanded by Rs.2,759 million during 1990, to reach Rs.7,070 million by the end of the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.898283004760742,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      64.32,
+      366.69,
+      425.59,
+      469.92
+    ],
+    "text": "During the year under review, the yields on Treasury bills were allowed to be determined by market conditions. Accordingly, the yield on 3-months Treasury bills declined from 18.1 per cent by the end of 1989 to 15.5 per cent by the end June, 1990. Following a similar trend, yield on 6-months and 12-months Treasury bills declined from 18.2 per cent and 19.1 per cent to 15.7 per cent and 16.9 per cent, respectively over the same period. However, the yields moved up once again during the second half. For instnace, the yield on 3-months Treasury bills increased to 17.4 per cent and that on 6-months and 12-months bills to 18.0 per cent and 18.4 per cent, respectively by the end of the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0,
+      10.216604232788086
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      64.08,
+      476.37,
+      426.13,
+      533.52
+    ],
+    "text": "As in the past, the Central Bank continued to engage in secondary Treasury bill market activities providing an investment outlet for temporary surplus funds, particularly of financial institutions. During the year, the total sales of Treasury bills in this market amounted to Rs.67.2 billion and purchases to Rs.21.1 billion, resulting in a total turn-over of Rs.88.3 billion.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      63.6,
+      539.49,
+      424.92,
+      631.2
+    ],
+    "text": "In response to intensified activities both in the primary market and the secondary market, the holdings of Treasury bills by the non-bank sector further increased from Rs.15.5 billion at end 1989 to Rs.22.9 billion at end 1990. Consequently, the share of Treasury bills held by the non-bank sector in the total outstanding increased from 31 per cent to 37 per cent between the two years. Meanwhile, despite an increase in total Treasury bill issues by Rs.10.4 billion (book value) during 1990, the share of the Central Bank's holdings in the total declined from 57 per cent to 44 per cent over the same period reflecting the effectiveness of the open market operation activities.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      63.84,
+      638.85,
+      424.62,
+      673.92
+    ],
+    "text": "The resources available under the Medium and Long-term Credit Fund (MLCF) were raised by Rs.625 million in June, 1990 and further by Rs.750 million in October, 1990 to reach Rs.3,250 million by the end of the year. Reflecting these increases, the utilization",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      235.44,
+      696.45,
+      252.28,
+      707.52
+    ],
+    "text": "153",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      62.4,
+      88.77,
+      422.36,
+      193.92
+    ],
+    "text": "of funds under the MLCF increased from Rs. 1,572 million by end 1989 to Rs.2,545 million by end 1990. In addition, the volume of refinance extended to finance compa\u00adnies stood at Rs.684 million by the end of 1990, recording an increase of Rs.238 million during the year. Meanwhile, the outstanding levels under export refinance schemes (Categories I and IT) and the agricultural credit scheme increased by Rs.l 15 million and Rs.l75 million, respectively. A special short-term refinance facility amounting to Rs.1,500 million granted to the CWE during the year for the importation and holding of buffer stocks of essential food commodities was the major contributory factor for expan\u00adsion in overall refinance facilities in 1990.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.832903861999512,
+      9.949873924255371,
+      10.0
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      234.96,
+      700.05,
+      251.8,
+      711.12
+    ],
+    "text": "154",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  }
+]
