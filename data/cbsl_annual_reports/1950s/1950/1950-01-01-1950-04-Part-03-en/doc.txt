@@ -1,0 +1,105 @@
+( 5 )
+
+deposits and 5 per cent, of their time and sayings deposits. These were the minimum reserve requirements permitted under the Monetary Law Act. The maximum increase permitted by the Act in any one period of 30 days is 4 percentage points. In December, 1950, after full consideration of the matter by the Monetary Board, the commercial banks were notified that reserve requirements in respect of demand deposits would be increased from 10 per cent, to 14 per cent, with effect from January 5, 1951. This action reduced-the excess reserves of commercial banks from Rs. 84' 7 million to Rs. 57" 4 million at the beginning of 1951.
+
+20. Before the end of the financial year the Central Bank had not actually engaged in any open-market selling operations for the purpose of contracting credit, but just at the end of the year a decision was taken to do so. It will be clear on inspection of the Bank's balance sheet that the scope for such operations is strictly limited by the smallness of the Bank's portfolio of rupee securities.
+
+III. Cost of Living
+
+21. Coupled with the abnormal increase in money supply, there has been a marked rise in the cost of living. The monthly movements of the Colombo working class cost of living index are shown in statement 19. These changes are graphically depicted in chart 3. In analysing the cost of living, the Bank took the Colombo working class cost of living index as the most representative index available. The following table compares the percentage change in the cost of living of each month in 1950 with that of the corresponding month in the previous year :—
+
+Changes in Colombo Working Class Cost of Living Index
+
+November 1938—April 1939 = 100
+
+Per cent. increase over Month 1919 1950 corresponding
+
+month of precious year January .. 263 271 3-0 February 261 271 3-8 March 257 266 3-5 April 255 266 4 3 May 254 266 4-7 June 255 271 6-3 July 256 272 . 6:3 August. .! 256 274 • 7-0 September 256 283 10-5 October 259 279 7-7 November 262 277 5'7 December 264 273 3-4
+
+As will be seen from the table, at the time the Bank commenced business, the index had not shown an increase in any single month of as much as 10 per cent, above the preceding year. The fact that the percentage increase dropped back to 7" 7 per cent, at the end of October, to 5' 7 per cent, at the end of November, and to 3 - 4 per cent, at the end of December, was partly because the index dropped steadily as a result of increased subsidizing of the prices of flour and rationed rice as from October 1 and December 11*, and partly because there was a rise in the index from September to December of the pre­ceding year. Yet there is no room for complacency. The trend of the cost of living has been definitely upward since devaluation in September, 1949. The index has continued to rise in 1951, so that in February it was 4.8 per cent, above February, 1950.
+
+22. In order better to understand the forces at work in the Ceylon economy during the past year or so, especially since devaluation, a detailed analysis was made of the movement of various components of the cost of living index. In making this analysis
+
+* On October 1, 1950, the price of rationed rice was reduced from 36 cents per measure to.30 cents per measure and the price of flour from 28^ cents per lb. to 23 cents per lb. Again on December 11, the price of rationed rice was reduced from 30 cents per measure to 25 cents per measure. The landed cost of rice to Government in 1950 averaged approximately 36 cents per measure.
+
+in
+
+the Bank has been particularly concerned to discover whether the sharp rise in the money supply during the past few months has contributed significantly to the simultaneous rise in the cost of living.
+
+23. For this investigation the Central Bank took the various items included in the working class cost of living index for Colombo and divided them into three groups :—
+
+(i) an import group, consisting of articles entirely or almost entirely imported, such
+
+as rationed rice, flour, sugar, clothing, and kerosene oil;
+
+(ii) an export group, consisting of articles produced in Ceylon primarily for export
+
+but of which there is a significant domestic consumption, such as tea, coconuts, coconut oil, and pepper ; and
+
+(iii) a domestic group consisting of articles both produced and consumed primarily
+
+in Ceylon, such as " country " rice, vegetables, roots and yams, fresh fish, meat, firewood and housing.
+
+. The import group comprises about 47 per cent, of the total weights, the domestic group about 46 per cent, and the export group about 1\ per cent.
+
+24. The results of the analysis were revealing. Expressed in terms of the Novem­ber, 1938—April, 1939 base as 100, which is the base commonly used, the index has moved as follows :—
+
+Changes in Cost of Living by Commodity Groups
+
+November 1938—April 1939 = 100
+
+1949 1950
+
+' x Import Group Export Group Domestic Group Total Import Export Domestic Total , ^ s - - . . Group Group Group Index Index % Change* Index%Change* Index %Change*Irulex%Change* Index Index Index January . 261 523 . 240 . 271 . February — . — — — . . 260 —• 520 . — 241 . 271 March — . — — . 258 — 5.1 . — 235 . — 266 . April — . . — . — . 256 482 . — . . 240 . 266 . ' —. May — . . •— — . 255 — 49" . — 240 . — 266 . — June . . 253 . . 379 . 239 . 255 . . 256 . + 1-6.. 403 . . +30-1.. 249 . . +4-2.. •m . '. + 6-3 July . . 251 . . 383 '. 241 . 256 . . 260 . + 3-6.. 472 . . +23-2.. 250 . . +3-7.. 272 . . + fi-3 August . . 251 . . 380 . 241 . 256 . . 265 . + 5-6 487 . . +28-2. . 248 . . +2-9.. 274 . . + 7- 0 September . . 251 . . 392 . 237 . 266 . . 267 . + 6-4 564 . : +43-9.. 253 . + 6-8.. 283 . . +10-5 October . . 257 . . 419 . 235 . . 25B . . 253 .— 1-6.. 580 . . +38-4.. 256 . . +8-9.. 279 . . + 7'7 November . . 261 . . 434 . 235 . . 262 . . 255 .— 2-3 573 . . +32-0.. 250 . . +6-4.. 277 . . + 5'7 December . . 260 . . 465 . . 235 . . 264 . . 247 .— 5-0.. 566 . . +21-7. . 248 : . + 5- 5 . . 273 . . + 3-4
+
+« Over corresponding month of previous year.
+
+25. The index for the export group has risen from 380 in August, 1949, just prior to devaluation, to 566 in December, 1950. Quite in contrast to the sharp increase in the index for the export group has been the relative stability of the indexes for the domestic and import groups. The former has only risen from 241 to 248, or about 3 per cent., while the latter has actually dropped from 251 to 247, a fall of about 1 • 6 per cent., which is rather remarkable for an unusually inflationary period abroad. The latter index would have registered an increase, of course, had it not been for the additional rice and flour subsidies in October and December.
+
+26. Au analysis of this sort brings out clearly how sensitive living costs in Ceylon are to economic conditions in the outside world. The import and export groups together comprise more than half the total weights in the working class cost of living index, and imports are even more important to the middle classes than to the working classes. Over the past decade the rise in prices of imports has probably been the dominant factor in raising living costs. During 1950, however, the above figures indicate that the rise in working class living costs has been due principally to the boom in the export industries or, more specifically, to the rise in prices of domestically consumed export commodities.
+
+( 1 )
+
+27. During the period under review it does not appear that the increase in the domestic money supply has had an appreciable effect upon living costs. The increase in the money supply has, of course, been very serious ; there was an increase of almost 38 per cent, in 1950, and there have been further substantial increases in January and February, 1951. One of the first effects of an expanded money supply would ordinarily be upon prices of domestically produced and consumed goods. The prices of such goods have risen somewhat, but not more than was to be expected from higher prices of imports and exports being reflected in their costs. Another effect of an expanded money supply would be an increase in the demand for imports. This might result in shortages, and therefore, price rises, in particular imports in the short run. Over a longer period the flow of imports should increase, provided overseas supplies are available, the shortages should be eliminated, and prices should be restored to the level of prices abroad. There seem to have been isolated instances of such temporary shortages of imported cost of living items, but in general such items at the end of the year were selling in Ceylon markets at normal margins above their landed costs.
+
+28. Although the very great increase in the money supply does not as yet appear to have been a major factor in the rising cost of living, it cannot be looked upon with equa­nimity. There is frequently a lag between changes in money conditions and the effects of such changes on an economy. The potential effects of an .expanded money supply upon prices of domestically produced and consumed goods are very considerable.
+
+29. No matter how effectively the expansion of the money supply might be controlled, the cost of living could still rise because of the rise in world prices for our imports and exports. The immediate attack on the cost of living problem must, therefore, be made with that fundamental fact in mind.
+
+30. It is sound policy, under present inflationary conditions, to eliminate any taxes and controls that tend to increase prices of cost of living items in Ceylon. The Central Bank has examined the schedule of import duties, and has satisfied itself that there are no longer any duties of any significance on working class cost of living items. As for controls, there is now no current balance of payments reason for continuing import controls on goods from either the dollar or the non-dollar area. Ceylon, as a member of the sterling area, is nevertheless continuing to control imports of dollar goods both in • order to conserve the dollar resources of the area and to enable Ceylon itself to build up a dollar reserve. The relaxation of import controls tends to reduce the cost of imported goods to the consumer, because when the commodity is quantitatively restricted there is a strong tendency for those importers who are fortunate enough to obtain licences to use the opportunity to increase prices and reap windfall gains. These importers then have a strong vested interest in the continuance of the control at the expense of the'rest of the community. In ordinary times, if it is desired to limit the quantity of imports, the necessary restriction can be achieved as effectively by the imposition of import duties, with the added advantage that the proceeds of the duties accrue to the State.
+
+31. The present balance of payments situation justifies the relaxation of exchange controls. Relaxations of restrictions on foreign travel and remittances, however, are not likely to have any appreciable effect on the domestic cost of living.
+
+32. It should be noted that increases in export duties, in addition to helping reduce the money supply by reducing the budget deficit, have the beneficial effect of lowering the prices of export commodities to the domestic consumer, and hence his cost of living.
+
+33. One of the most direct and obvious measures for reducing the cost of living, of course, is that of additional subsidies on food and other cost of living items. The question of whether Ceylon can hope to swim against the rising tide of worldwide inflation by using subsidies is one of the greatest importance.
+
+34. The Government has one of two choices. It can attempt to subsidize enough cost of living items to stabilize the index, or it can permit an upward adjustment of incomes through the cost of living mechanism, even though this adjustment might not in
+
+( 8 )
+
+all cases be completely adequate. Increased subsidies are practicable when the expected rise in the cost of living index is small, but if there is a rise in prices outside Ceylon which is large and sustained, the subsidy weapon becomes unwieldy and impracticable, and its adverse effects on the Government budget, and ultimately on the balance of payments, far outweigh its advantages.
+
+35. Under such circumstances, the case against increasing subsidies is strong. Subsidies have an unfortunate tendency to worsen the Government's fiscal position just when it ought to improve. Subsidies tend to throw entirely upon the Government the burden of paying for the rising cost of essential commodities. This burden ought more properly to be borne by the private sector of the economy. For example, in the present situation it does not make economic sense for the Government to supply rice at less than halfprice to estate workers in order to keep living costs, and thus wages, down when the producers themselves are exceptionally prosperous. The producers do not need their profits subsidized, and since the cost of subsidies must be recovered somehow, the producers will have to pay in the end through higher taxes. Also subsidies are indiscri­minate in their benefits ; the high income groups receive the same benefits as the low. Cost of living allowances, on the other hand, tend to favour the lower income groups.
+
+36. As the number of commodities that are subsidized grows, an increasingly heavy load of work falls upon an already overburdened Government administration. At a time when development programmes must be manned, and every effort made to increase production, the Government's energies and personnel are needed on more constructive problems than that of re-distributing incomes. Moreover, unless an increasing number of commodities are subsidized, the burden of stabilizing the cost of living index must necessarily fall upon a very few commodities, which thus become ridiculously cheap as the others rise in price. Consumers rarely feel that the fact that they can obtain one or two essential commodities at very low prices is adequate compensation to them for paying very high prices for a score or more of others.
+
+37. From the economic point of view a widespread system of subsidies has a tendency to hide real costs, to distort the country's economy, and sometimes to act as a serious barrier to efficiency. Even before the decision to increase the subsidy on rice as of December 11, the cost of subsidies was so large as to be a heavy and seemingly unending drain upon the exchequer. Government policy could now be directed toward reducing subsidies. This is not to say that some existing subsidies are not justifiable. Rice, in particular, is a relatively homogeneous commodity and is consumed in such large quantities by all income groups that its purchase and distribution by the State is feasible. More­over, the subsidy applies only to imported rice, which is distributed by means of a rationing system under which the ration is usually inadequate. This has the salutary effect of tremendously stimulating the production of " country " rice, which is purchased and sold outside the ration in a free market at prices ordinarily somewhat higher than the c.i.f. cost of imported rice.
+
+38. But it is just as important to reduce the price of rice outside the ration as inside. Since the latest family budget surveys reveal that almost 50 per cent, of the rice consumed by working class families in a city like Colombo is purchased outside the ration, the cost of living could be more effectively reduced by selling more imported rice outside the ration at cost price whenever such rice can be made available. This would have the effect, of course, of bringing the price of " country " rice down to either the world price level or to the guaranteed price level, whichever was higher. Nor will production be dis­couraged, because the guaranteed price furnishes an adequate incentive.
+
+39. The alternative to an extension of the system of subsidies is an adjustment to changes in living costs by permitting a rise in incomes through the mechanism of the cost of living allowance. It may be objected that Government workers are only a small percentage of total workers, and those outside Government employment would not benefit. Government policy with respect to cost of living allowances, however, sets the pace for privtae enterprise, and Government scales are regarded by employers in general as the irreducible minimum. While there are numerous persons in Ceylon whose incomes do
+
+( 9 )
+
+not include cost of living allowances, the incomes themselves of many such persons are also variable and tend to increase with the general rise in prices and living costs. To the extent that this is true, there is no need to relieve them by means of subsidies. In any case, price fluctuations always result in alterations in relative shares of total income received by various groups. Even with the most extensive system of subsidies imagi­nable, it would be impossible for the Government to succeed in maintaining these shares according to some pre-existing pattern. The: best that the Government can hope to do is to minimize some of the more obvious injustices and inequities produced by price fluctuations,
+
+40. There are great advantages, on the other hand, both for employers and emplo­yees, as well as for the Ceylon economy as a whole, in a system of wage payments which gears wages rather closely to the cost of living. Flexible wages are advantageous to employers, because they enable them to compete more effectively with producers elsewhere in periods of depression when prices are low ; and they are advantageous to workers, because their wages will rise with the cost of living when prices are high. A flexible wage system tends to make the Ceylon economy resilient and more readily adaptable to changing • conditions in the outside world.
+
+41.. Domestic price stability is the goal of every government and of every central bank ; but it should be frankly recognized that the difficulties of achieving the goal are more formidable in Ceylon, where the economy is so dependent upon its international trade than in more self-sufficient economies. If recent experience is a guide, it: is not likely that Ceylon would enjoy a boom in exports without experiencing a rise in the cost of living. Several export commodities are at the same time important cost of living items. If these items rise, there will probably be a simultaneous rise in import prices. The present rise in prices is a worldwide phenomenon which we in Ceylon cannot control. It is enabling us to obtain high prices for what we sell: we must also expect to pay higher prices for what we buy.
+
+42. In the last analysis, of course, the surest and most effective cure in an inflationary situation is an increased supply of goods. In the Ceylon economy this supply is likely to come in approximately equal measure from imports and from increased domestic producr tion. It is obviously to our advantage to emphasize the contribution made by domestic production ; we would be improvident if we managed our monetary and fiscal affairs so as to stimulate a flow of imports beyond our capacity to pay for them out of the proceeds of current exports, and thus in a period of prosperity drew upon external assets which should be conserved for more difficult times. As explained in Section V, there has been on the whole a gratifying increase both in production and in exports, during the past year. Monetary conditions are such at the present time as to encourage this trend. In general, however, the problem of an increase in production is a long-term rather than a short-term problem, though it is always possible, by giving higher priority to projects which will result in greater production in the immediate future, to give even a long-term development programme a short-term emphasis.
+
+IV. Fiscal Policy in Relation to Monetary Policy
+
+43. As explained earlier, the financial operations of Government have contributed to the increase in the money supply during 1950. Although the financial accounts of Government for several years have disclosed a surplus on revenue account alone, the total of all expenditures of Government, including those sums charged to loan and other funds as well as those charged to revenue, have exceeded its total cash receipts, so that the overall result has been a cash operating deficit in each of the past four years. - This cash deficit may be financed by an increase of Government indebtedness, e.g., by borrowing . or by running down of accumulated cash balances, or by both. Unless it is entirely financed by borrowing from non-bank sources, one of its effects is an increase in the money supply. Statements 11, 12 and 13 describe Government revenue by sources, and Gov­ernment expenditure by source of finance and by objects for a series of years: The following table analyses the net cash operating surplus or deficit of Government since 1945-46:—

@@ -1,0 +1,2339 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      210.24,
+      26.12,
+      241.71,
+      36.31
+    ],
+    "text": "( 66 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.997769355773926,
+      9.779733657836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      129.12,
+      48.2,
+      316.5,
+      58.39
+    ],
+    "text": "(c) Prices, Wages and Employment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.9966402053833,
+      9.779733657836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      41.52,
+      70.52,
+      403.87,
+      141.19
+    ],
+    "text": "Prices-.' The Consumers' Price Index constructed by the Department of Census and Statistics in relation to working class family budgets in Colombo, is used as the measure of changes in the cost of living. The weightage of commodities included in the Index follows, the recommendations of Sessional Paper VI of 1953. The changes commoditywise and sectorwise in the Consumers' Price Index are shown in the following table for the last three years.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.3419189453125,
+      9.371499061584473,
+      9.430022239685059,
+      9.476089477539062,
+      9.620050430297852,
+      9.744880676269531,
+      9.779733657836914,
+      9.989564895629883,
+      10.059558868408203,
+      10.0623779296875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      147.84,
+      145.9,
+      299.98,
+      168.55
+    ],
+    "text": "T A B L E 11\u201423 Colombo Consumers' Price Index.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.261170387268066,
+      7.760006904602051,
+      9.513751029968262,
+      9.779733657836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      197.52,
+      174.22,
+      248.12,
+      182.3
+    ],
+    "text": "(1952=100,)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.619256496429443
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      173.76,
+      197.02,
+      366.86,
+      205.34
+    ],
+    "text": "Commoditywise Sectorwise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.546201705932617,
+      7.600628852844238
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.6,
+      223.9,
+      69.94,
+      231.98
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.5722503662109375
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      86.64,
+      215.98,
+      108.93,
+      231.98
+    ],
+    "text": "A l l Items",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      122.16,
+      231.82,
+      141.96,
+      239.9
+    ],
+    "text": "Food",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.429270267486572
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.76,
+      223.66,
+      181.19,
+      239.66
+    ],
+    "text": "Cloth\u00ading",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.603397846221924
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      189.6,
+      223.42,
+      250.25,
+      239.42
+    ],
+    "text": "Fuel and Light Rent",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.668301582336426,
+      7.708710670471191,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      262.56,
+      223.42,
+      293.19,
+      239.66
+    ],
+    "text": "Miscel\u00adlaneous",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4517951011657715,
+      7.710956573486328
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      296.88,
+      219.34,
+      325.55,
+      243.74
+    ],
+    "text": "Domes\u00adtic Group",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.463192462921143,
+      7.613973617553711
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      334.08,
+      223.18,
+      361.22,
+      239.66
+    ],
+    "text": "Import Group",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.613973617553711,
+      7.723662376403809
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      369.84,
+      223.42,
+      396.71,
+      239.66
+    ],
+    "text": "Export Group",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.613973617553711,
+      7.678580284118652
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      118.56,
+      247.9,
+      391.79,
+      256.7
+    ],
+    "text": "(61-9%) (9-4%) (4-3%) (5 -7%) (18-7%) (51%) (44%) (5%)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.643382549285889,
+      7.647111415863037
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      273.58,
+      391.43,
+      282.38
+    ],
+    "text": "1959 105-2 104-7 92-1 102 -4 101 -5 115-3 108-0 97-1 153-1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      52.08,
+      289.9,
+      391.81,
+      298.94
+    ],
+    "text": "1960 103-5 100-8 95-1 102-7 101-5 117-5 108 -9 93-7 138-4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      51.84,
+      305.98,
+      391.43,
+      315.02
+    ],
+    "text": "1961 104 -8 99 -8 103 -9 104-4 101-5 122-8 112-3 94-6 119-1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      243.36,
+      325.66,
+      394.91,
+      343.82
+    ],
+    "text": "Sources: Department of Census & Statistics and Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.4607648849487305,
+      7.539596080780029,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.44,
+      354.44,
+      291.58,
+      364.63
+    ],
+    "text": "The changes over the months have been as follows: \u2014",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.107535362243652,
+      9.199999809265137,
+      9.3419189453125,
+      9.779733657836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      120.96,
+      372.7,
+      322.18,
+      395.11
+    ],
+    "text": "T A B L E 11\u201424 Changes in the Colombo Consumers' Price Index",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.261170387268066,
+      7.760006904602051,
+      9.513751029968262,
+      9.779733657836914
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      190.8,
+      400.54,
+      241.12,
+      408.62
+    ],
+    "text": "( 1 9 5 2 = 1 0 0 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.619256496429443
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.2,
+      444.7,
+      70.03,
+      452.78
+    ],
+    "text": "Month",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.631800174713135
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.88,
+      428.14,
+      388.98,
+      436.46
+    ],
+    "text": "AU Items Import group Domestic Group Export Group",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      7.557104110717773,
+      7.678580284118652,
+      7.723662376403809,
+      7.760006904602051
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.2,
+      444.7,
+      70.03,
+      452.78
+    ],
+    "text": "Month",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.631800174713135
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      128.64,
+      456.98,
+      150.86,
+      462.62
+    ],
+    "text": "Change",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.421374320983887
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.92,
+      461.98,
+      203.44,
+      470.06
+    ],
+    "text": "1961",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.2,
+      456.98,
+      315.31,
+      463.1
+    ],
+    "text": "Chang* Change",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.421374320983887
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.44,
+      462.8,
+      313.53,
+      474.44
+    ],
+    "text": "%",
+    "fonts": [
+      "Courier"
+    ],
+    "sizes": [
+      10.1776704788208
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      77.04,
+      457.46,
+      398.92,
+      473.98
+    ],
+    "text": "Change 1960 1961 % 1960 1961 % 1960 1961",
+    "fonts": [
+      "Courier",
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.421374320983887,
+      7.2266316413879395,
+      10.1776704788208,
+      11.0983247756958
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      293.28,
+      457.46,
+      315.31,
+      463.1
+    ],
+    "text": "Change",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.421374320983887
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      301.44,
+      462.32,
+      397.05,
+      474.44
+    ],
+    "text": "% 1960 1961 %",
+    "fonts": [
+      "Courier",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2266316413879395,
+      10.1776704788208
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.68,
+      487.9,
+      400.64,
+      593.66
+    ],
+    "text": "Jan. 105-4 104-1 \u20141 \u20222 98-2 92-9 - 5 - 4 107-2 112-0 4-4-5 156-0 122-8 - 2 1 - 3 Feb. 105-3 103-9 \u20141 3 98-6 94 -0 \u20144-7 106-5 110-5 + 3-8 159 -0 126 -0 \u201420-8 Mar. 105-6 103-3 \u20142 \u20222 98-5 92 -0 \u20146-6 107 -3 111 -3 + 3-7 155-8 123-2 \u201420-9 April 104-0 103-9 \u20140 \u20221 93-6 93-6 \u2014 , 108-7 111 -o + 2-1 151-1 123-4 \u201418-3 May 102-4 104-0 + 1 6 90-4 93-9 + 3-9 108-8 111-1 + 2-1 148-7 123-3 - 1 7 - 1 June 102-5 104-5 + 2 \u20220 90-9 94-6 + 4-1 109-0 111-7 + 2-5 142-1 121 -2 - 1 4 - 7 July 101-2 104-5 + 3 \u20223 91 -6 95-6 + 4-4 107-1 111-2 + 3-8 128-1 114-8 \u201410-4 Aug. 100-7 105-4 + 4 \u20227 91 -8 96-5 + 5-1 106-6 112-3 \u2022+5-3 121 -7 113-2 \u2014 7-0 Sep. 102-6 105-4 + 2 \u20227 92-5 95-8 + 3-6 109-4 112-9 + 3-2 122 -8 114-7 \u2014 6-6 Oct. 103-2 105-9 + 2 6 91-9 95-6 +4-0 111-2 113-8 + 2-3 123-1 116-8 \u2014 5-1 Nov. 104-9 105 -9 + 1 0 93 -2 95-3 + 2-3 113-1 114-2 + 1-0 126-8 115-8 \u2014 8-7 Dec. 104-1 106-2 + 2 0 93-0 95-0 + 2-2 111-8 115-1 + 3-0 125-0 113-6 \u2014 9-1 Aver. 103-5 104-8 + 1 \u20223 93-7 94-6 + 1-0 108 -9 112-3 + 3-1 138-4 119-1 \u201413-9",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      5.048742294311523,
+      7.2266316413879395,
+      7.47521448135376,
+      7.5472612380981445,
+      7.572989463806152,
+      7.573447227478027,
+      7.6602020263671875,
+      7.6616621017456055,
+      7.760006904602051,
+      7.970951080322266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      242.4,
+      604.54,
+      392.78,
+      622.7
+    ],
+    "text": "Sources: Department of Census & Statistics and Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.539596080780029,
+      7.760006904602051,
+      8.049023628234863
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      192.0,
+      27.24,
+      223.54,
+      38.42
+    ],
+    "text": "( 67 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.315305709838867,
+      10.692009925842285
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.64,
+      49.64,
+      390.0,
+      100.15
+    ],
+    "text": "The level of retail prices as measured by the Colombo Consumers' Price Index was on the average 1.3 per cent higher than in 1960. This was due to a rise of 3.1 per cent in the domestic group, and 1.0 per cent in the import group, which more than offset a decline of 14.0 per cent in the export group, whose relative importance in the Index is 5 per cent.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.413358688354492,
+      9.640968322753906,
+      9.736364364624023,
+      10.07754898071289,
+      10.175383567810059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      26.4,
+      112.28,
+      390.55,
+      243.43
+    ],
+    "text": "An examination of the composite commodity group indices of table 11-23 shows that on the average food commodities were cheaper by 1.0 per, cent in 1961 than in 1960, while clothing, fuel and light and miscellaneous commodities were higher by 9.3 per cent, 1.7 per cent and 4. 5 per cent respectively. The large increase in prices in the clothing group was due both to increases in the import duties on textiles and the restrictions on the import of textiles whose c. i. f. value was over Rs 2/- per yard introduced on January 25, 1961. The main factors bringing about the increase in the fuel and light group were the increases in the duty on kerosene oil by 3 cents per gallon and the increase in the excise duty on a box of matches by If cents. In the miscellaneous group the increase in the import duty on tobacco by Rs. 8. 50 per pound and the raising of the excise duty on local tobacco by Rs. 8/- per pound to Rs. 28/- per pound on July 27, 1961, were mainly responsible for the rise.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.922576904296875,
+      9.232373237609863,
+      9.425712585449219,
+      9.4517183303833,
+      9.620050430297852,
+      9.651190757751465,
+      9.663679122924805,
+      9.714302062988281,
+      9.736364364624023,
+      10.004973411560059,
+      10.147187232971191,
+      10.175383567810059,
+      10.2935209274292
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      27.36,
+      244.28,
+      389.26,
+      264.55
+    ],
+    "text": "An examination of the food items according to their origin shows the following changes in the prices of the sub-groups.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.232373237609863,
+      9.4517183303833,
+      9.476089477539062,
+      9.736364364624023,
+      10.047057151794434
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      190.56,
+      284.79,
+      256.43,
+      292.65
+    ],
+    "text": "T A B L E 11\u201425",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.322231292724609,
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      115.92,
+      302.84,
+      296.88,
+      313.03
+    ],
+    "text": "Price Indices of the Food Sub-groups in the",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.276775360107422,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      131.76,
+      323.24,
+      282.52,
+      333.43
+    ],
+    "text": "Consumers' Price Index (1952=100)",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.01209020614624,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.52,
+      354.87,
+      378.91,
+      363.45
+    ],
+    "text": "Year All Food Domestic Food Export Food Import Food",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.24596643447876,
+      7.326841831207275,
+      7.452835559844971,
+      7.467836380004883,
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.12,
+      381.51,
+      363.26,
+      390.09
+    ],
+    "text": "1 9 5 9 104-7 104-4 153-1 97 -0",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.445764064788818,
+      7.450806140899658,
+      7.45456075668335,
+      7.475898742675781,
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.36,
+      397.35,
+      362.66,
+      406.17
+    ],
+    "text": "1 9 6 0 100-8 104-7 138-4 91-2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.410407066345215,
+      7.434313774108887,
+      7.445764064788818,
+      7.45456075668335,
+      7.48970890045166
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      63.36,
+      413.19,
+      363.32,
+      422.01
+    ],
+    "text": "1 9 6 1 99-8 110 -6 119-1 87-2",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.410407066345215,
+      7.434347629547119,
+      7.5018815994262695,
+      7.5139336585998535
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      223.92,
+      443.19,
+      380.43,
+      461.13
+    ],
+    "text": "Sources: Department of Census and Statistics and Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.435568332672119,
+      7.5139336585998535,
+      7.728472709655762
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.92,
+      471.56,
+      388.91,
+      522.07
+    ],
+    "text": "In 1961, the Price Index of domestic foodstuffs was 5.6 per cent higher than in the previous year reflecting, amongst other factors, the increased cost of transport of foodstuffs on account of the increase in the duty on petrol. The export food sub-group fell by 14.0 per cent due largely to the weakening export demand for coconut and the resultant fall in domestic prices.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.922576904296875,
+      9.232373237609863,
+      9.531439781188965,
+      9.736364364624023,
+      10.059349060058594,
+      10.111339569091797,
+      10.175383567810059
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      25.2,
+      531.8,
+      390.06,
+      622.63
+    ],
+    "text": "The group for imported foods declined by 4.4 per cent as the full effect of the reduction in the average price of rationed rice from 35 cents to 25 cents in April 1960 was felt throughout 1961. This price reduction together with a fall of 2.7 per cent in the prices of imported foodstuffs, other than those under goverment mono\u00adpoly in respect of import and sale, more than offset the effect of the price increases on July 27, 1961 of white sugar and flour. The price of white sugar was raised from 62 cents to 67 cents and the price of flour from 23 cents to 28 cents on that date. However, on December 4, 1961, the price of white sugar was reduced to its former level.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.388282775878906,
+      9.4595947265625,
+      9.46929931640625,
+      9.486578941345215,
+      9.52833080291748,
+      9.54616928100586,
+      9.595516204833984,
+      9.690923690795898,
+      9.736364364624023,
+      10.004973411560059,
+      10.175383567810059,
+      10.2935209274292
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      210.24,
+      29.48,
+      241.44,
+      39.67
+    ],
+    "text": "( 68 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.997769355773926,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      43.92,
+      52.04,
+      404.88,
+      134.23
+    ],
+    "text": "Wages:- The Central Bank has calculated an index number series relating to the movement in the wage rates of central government employees and govern\u00adment school teachers.* This index covers over 95 per cent of all government employees as at September 30, 1959 and includes government un-skilled workers who composed 19.1 per cent of all government employees in the same period. The following table gives the movements in the wage rates and real wages, of these workers since 1953.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.476089477539062,
+      9.47626781463623,
+      9.546656608581543,
+      9.614726066589355,
+      9.618070602416992,
+      9.67763900756836,
+      9.736364364624023,
+      9.9752779006958,
+      9.990920066833496,
+      10.0160493850708,
+      10.159648895263672
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      190.8,
+      148.3,
+      257.17,
+      156.38
+    ],
+    "text": "T A B L E 11\u201426",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.261170387268066,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.28,
+      167.0,
+      340.01,
+      177.19
+    ],
+    "text": "Wage Rate Index Numbers of Government Employees",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.55423355102539,
+      9.638948440551758,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      199.68,
+      189.1,
+      250.93,
+      197.18
+    ],
+    "text": "(1952=100 ).",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.147814750671387,
+      7.619955539703369
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.88,
+      243.34,
+      82.33,
+      251.42
+    ],
+    "text": "Period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.636372089385986
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.12,
+      216.94,
+      169.74,
+      233.18
+    ],
+    "text": "Clerical and Tech\u00adnical Employees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.499129295349121,
+      7.634068965911865,
+      7.675248146057129,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191.76,
+      216.7,
+      233.27,
+      232.94
+    ],
+    "text": "Minor Employees",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.55202579498291,
+      7.580374717712402
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.24,
+      216.7,
+      327.19,
+      232.94
+    ],
+    "text": "Central Govern\u00adment Employees(a]",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      327.84,
+      216.46,
+      404.28,
+      232.94
+    ],
+    "text": "Government School Teachers",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.426902770996094,
+      7.655747890472412,
+      7.696499347686768
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.88,
+      243.34,
+      82.33,
+      251.42
+    ],
+    "text": "Period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.636372089385986
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      103.44,
+      251.26,
+      126.48,
+      275.18
+    ],
+    "text": "Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.681182384490967,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      143.28,
+      251.02,
+      165.48,
+      275.42
+    ],
+    "text": "Real Wage Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.638256549835205,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      181.44,
+      251.26,
+      204.12,
+      275.18
+    ],
+    "text": "Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.681182384490967,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      220.32,
+      251.02,
+      242.34,
+      275.42
+    ],
+    "text": "Real Wage Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.638256549835205,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      257.76,
+      251.26,
+      280.25,
+      275.18
+    ],
+    "text": "Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.681182384490967,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      296.16,
+      251.26,
+      318.42,
+      275.18
+    ],
+    "text": "Real Wage Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.638256549835205,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.84,
+      251.02,
+      356.52,
+      274.94
+    ],
+    "text": "Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.681182384490967,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      372.24,
+      251.02,
+      394.63,
+      275.42
+    ],
+    "text": "Real Wage Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.638256549835205,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.36,
+      293.26,
+      396.59,
+      367.1
+    ],
+    "text": "1953 101-0 99-5 102-1 100 -5 101-6 100 -o 101-0 99-4 1954 101-4 100-3 102-4 101-3 101-9 100-8 101-2 100-1 1955 106 -9 106-4 110 -4 109 -9 108-7 108-2 110-2 109 -7 1956 108-7 108 -5 113-0 112-8 111 -o 110-8 113-2 113-0 1957 111-2 108-2 116-0 112-8 113-8 110-7 113 -9 110 -8 1958 122-3 116-5 130 -4 124-2 126-7 120-7 117 -4 111-8 1959 122 -3 116-3 130-4 124-0 126 -7 120-4 117 -4 111-6 1960 122-3 118-2 130-4 126 -0 126-7 122-4 117 -4 113-4 1961 122-3 116 -7 130 -4 124-4 126-7 120-9 117 -4 112 -0",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.882317066192627,
+      7.510135650634766,
+      7.528101921081543,
+      7.590140342712402,
+      7.612398624420166,
+      7.617087364196777,
+      7.624325275421143,
+      7.627748966217041,
+      7.637384414672852,
+      7.6419878005981445,
+      7.6429290771484375,
+      7.646345138549805,
+      7.652336120605469,
+      7.654077053070068,
+      7.6552605628967285,
+      7.6562700271606445,
+      7.6599578857421875,
+      7.6602020263671875,
+      7.661036014556885,
+      7.6616621017456055,
+      7.662497043609619,
+      7.6717753410339355,
+      7.6754913330078125,
+      7.676185607910156,
+      7.681147575378418,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.72,
+      377.98,
+      403.6,
+      395.9
+    ],
+    "text": "Source: Central Bank of Ceylon. (a) Combined index for clerical and technical employees and minor employees.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.436689853668213,
+      7.4607648849487305,
+      7.522259712219238,
+      7.538111209869385,
+      7.7255940437316895
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.48,
+      406.52,
+      405.29,
+      572.71
+    ],
+    "text": "Since 1952 the wage rates of clerical and technical employees and minor employees increased by 22.3 per cent and 30.4 per cent respectively, so that the combined index for central government employees was 126.7-(base 1952=100). The wage rate index of government school teachers increased by 17.4 per cent in the same period. These increases took place largely in two stages. With effect from April 1955, salary scales of all government employees were revised upwards and rent allowances were increased from 7.5 per cent to 8.5 per cent of the basic salary for unmar\u00adried employees and 15 per cent to 17 per cent of the basic salary for married employees. The next stage in the rise came about in October and November, 1957. In October, 1957, the salaries of a small group of employees were revised upwards following the recommendations of an Anomalies Commission. With effect from November, 1957, special living allowances payable to employees in the lower salary groups were",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.922576904296875,
+      9.4736328125,
+      9.476089477539062,
+      9.47626781463623,
+      9.486578941345215,
+      9.614726066589355,
+      9.645136833190918,
+      9.647154808044434,
+      9.67798900604248,
+      9.685856819152832,
+      9.736364364624023,
+      9.9863862991333,
+      10.013344764709473,
+      10.107446670532227,
+      10.159648895263672,
+      10.219083786010742,
+      10.2935209274292
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.96,
+      588.7,
+      402.53,
+      626.3
+    ],
+    "text": "* A note on the calculation of these index numbers is found in the February issue of the Central Bank Bulletin. Persons not included in the index are Administrative, Professional and Technical employees of Staff rank. See also Table 37 of Appendix II of the Annual Report.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.2335968017578125,
+      7.653242111206055,
+      7.7255940437316895,
+      7.926738262176514
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      193.44,
+      27.8,
+      224.59,
+      37.99
+    ],
+    "text": "( 69 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.997769355773926,
+      9.649041175842285
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      28.8,
+      50.12,
+      391.92,
+      108.31
+    ],
+    "text": "increased considerably, so that all those who were in receipt of an allow\u00adance of Rs. 5/- per month now received Rs. 17.50 per month whether married or unmarried. Cost of living allowances paid to all employees receiving less than Rs.300/- per month were also increased by Rs.5/- per month in the same period.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.649041175842285,
+      9.89515495300293,
+      9.926966667175293,
+      9.962882041931152,
+      10.175383567810059,
+      10.2935209274292
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.24,
+      120.44,
+      391.98,
+      154.63
+    ],
+    "text": "With the rise in wage rates there was also a rise in the indices of real wage rates. After October 1957 indices of real wage rates fluctuated solely in response to the changes in the cost of living.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.649041175842285,
+      9.935616493225098,
+      10.0160493850708,
+      10.0623779296875,
+      10.065027236938477,
+      10.159648895263672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      30.72,
+      167.0,
+      392.29,
+      201.67
+    ],
+    "text": "During 1961 there was no change in the wage rates of these employees. Their real wage rates, however, were 1.3 per cent lower due to the rise in the cost of living.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.539960861206055,
+      9.649041175842285,
+      9.935616493225098,
+      9.961437225341797,
+      10.0160493850708,
+      10.0623779296875,
+      10.065027236938477,
+      10.159648895263672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      31.44,
+      213.56,
+      392.52,
+      271.75
+    ],
+    "text": "Data on the movement of wage rates in the private sector are available only in respect of workers in those industries for which Wages Boards have been set up. Workers in agriculture constitute 89.4 per cent of all workers covered by Wages Boards. The following table gives the movement in the wage rates and real wage rates of workers in Wages Boards Trades since 1953.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.539694786071777,
+      9.550557136535645,
+      9.649041175842285,
+      9.907506942749023,
+      9.931015014648438,
+      9.936383247375488,
+      9.941237449645996,
+      9.952129364013672,
+      9.987530708312988,
+      10.0160493850708,
+      10.159648895263672
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.6,
+      287.5,
+      243.63,
+      295.58
+    ],
+    "text": "T A B L E 11\u201427",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.261170387268066,
+      7.656304836273193
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.16,
+      305.96,
+      370.11,
+      316.15
+    ],
+    "text": "Minimum Wage Rate Index Numbers of Workers in Wages Boards Trades",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.649041175842285,
+      9.712603569030762,
+      9.98507308959961
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      186.0,
+      327.58,
+      236.1,
+      335.66
+    ],
+    "text": "( 1 0 5 2 = 1 0 0 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.619256496429443
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      113.28,
+      355.42,
+      376.69,
+      372.38
+    ],
+    "text": "Workers in Workers in Industry Workers in Wages Agriculture and Commerce Boards Trades",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.630403995513916,
+      7.656304836273193,
+      7.862645626068115
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.56,
+      381.82,
+      72.01,
+      389.9
+    ],
+    "text": "Period",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.636372089385986
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      91.2,
+      389.74,
+      385.04,
+      415.1
+    ],
+    "text": "Minimum Index of Minimum Index of Minimum Index of Wage Rate Real Wage Wage Rate Real Wage Wage Rate Real Wage Index Rates Index Rates Index Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.505734920501709,
+      7.621214389801025,
+      7.638256549835205,
+      7.656304836273193
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      40.56,
+      430.8,
+      378.76,
+      505.34
+    ],
+    "text": "1953 101-5 99 -0 101 -o 99 -4 101 -5 99 -9 1954 103-1 102 -0 100 -7 99 -6 102-5 101 -4 1955 106 -6 106-1 101 -4 101-0 105 -9 105-4 1956 107-1 106-9 102 -9 102-7 106-4 106-2 1957 108-7 105 -6 104 -5 101 -5 107 -8 104-7 1958 110-2 105-2 116 -2 110-9 110-8 105 -6 1959 110-2 104-8 128 -8 122 -4 112-3 106 -7 1960 110-2 106 -5 128-1 123-8 111 -8 108 -0 1961 110-7 105 -6 128 -4 122 -5 112-3 107 -2",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.544644832611084,
+      7.461978912353516,
+      7.514285564422607,
+      7.520382404327393,
+      7.538218021392822,
+      7.538253307342529,
+      7.538571357727051,
+      7.54990816116333,
+      7.553930759429932,
+      7.554353713989258,
+      7.5551300048828125,
+      7.558832168579102,
+      7.559924602508545,
+      7.565949440002441,
+      7.572848320007324,
+      7.584275245666504,
+      7.594386100769043,
+      7.600313663482666,
+      7.613763809204102,
+      7.619570732116699,
+      7.656304836273193,
+      7.678788185119629,
+      7.741718292236328,
+      8.477521896362305
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      234.48,
+      524.14,
+      384.77,
+      542.3
+    ],
+    "text": "Sources: Department of Census & Statistics and Central Bank of Ceylon.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.4607648849487305,
+      7.539596080780029,
+      7.62054967880249,
+      7.656304836273193
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      33.12,
+      552.68,
+      393.47,
+      622.87
+    ],
+    "text": "In 1961 there was an increase of 0.5 per cent in the wage rates of workers in the Wages Boards Trade's, due to an increase of 0.5 per cent and 0.2 per cent in the minimum wage rates of workers in agriculture and workers in industry and commerce respectively on account of increased special allowances. Their real wage rates were, however, 0.8 per cent and 1.1 per cent lower respectively, as the rise in allowances did not fully offset the rise in the cost of living.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.649041175842285,
+      9.935616493225098,
+      9.936383247375488,
+      9.976380348205566,
+      10.0160493850708,
+      10.0623779296875,
+      10.159648895263672
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      204.72,
+      26.6,
+      235.68,
+      36.79
+    ],
+    "text": "( 70 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.997769355773926,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      39.6,
+      48.68,
+      399.59,
+      114.55
+    ],
+    "text": "Employment: No comprehensive data are available on the level of employ-ment, underemployment and un-employment in the country. The data on the number of registrants at the 21 Employment Exchanges in the Island serve as an indicator of the movements in the trend in the level of un-employment. The upward trend in the number of registrants at employment exchanges evident in",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.736364364624023,
+      10.03099536895752,
+      10.079731941223145,
+      10.104723930358887
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      39.84,
+      119.72,
+      400.27,
+      171.67
+    ],
+    "text": "1960 was continued in the first two months of 1961. Their numbers, however) fell slightly during the rest of the year. The number of such registrants at the end of December 1961 was 151,265 compared with 151,092 at the end of 1960. The increases at the beginning of the year were evident among all categories",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.4077277183532715,
+      9.529218673706055,
+      9.595516204833984,
+      9.63420581817627,
+      9.736364364624023,
+      10.075994491577148,
+      10.079731941223145
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.32,
+      175.4,
+      399.71,
+      185.59
+    ],
+    "text": "of registrants. Among skilled registrants whose numbers at the end of December",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.922576904296875,
+      9.736364364624023,
+      10.037322044372559,
+      10.079731941223145
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.08,
+      190.52,
+      399.83,
+      256.39
+    ],
+    "text": "1961 were 18,201 the upward trend in registratoin continued throughout the year and were 7.5 per cent higher than at the end of the previous year. In December 1961 the number of technical and clerical registrants were 5.3 per cent higher while the numbers registered as semi-skilled and un-skilled were 1.9 per cent and 2.5 per cent lower than in December 1960.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.614461898803711,
+      9.736364364624023,
+      10.03099536895752,
+      10.079731941223145,
+      10.175383567810059
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      40.08,
+      273.32,
+      400.36,
+      311.35
+    ],
+    "text": "The following table shows the number of persons who have been placed in employment in recent years together with the percentage of such placements to total registrants on the books in each category.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.476089477539062,
+      9.697471618652344,
+      9.736364364624023,
+      10.006495475769043,
+      10.079731941223145
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      187.68,
+      339.42,
+      253.76,
+      347.4
+    ],
+    "text": "T A B L E 11\u201428",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.373587131500244,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.72,
+      357.8,
+      342.09,
+      379.99
+    ],
+    "text": "The number of Persons Placed in Employment and their relative importance to total Registrants",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.436258316040039,
+      9.550823211669922,
+      9.736364364624023,
+      9.738581657409668,
+      10.006495475769043
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      60.24,
+      419.82,
+      78.4,
+      427.8
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.520226955413818
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      96.72,
+      403.26,
+      123.94,
+      435.72
+    ],
+    "text": "Techni-cal & Cleri\u00adcal",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.535892486572266,
+      7.538059234619141,
+      7.575002193450928,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      137.04,
+      419.58,
+      206.28,
+      429.0
+    ],
+    "text": "% Skilled %",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.569285869598389
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.72,
+      411.42,
+      266.52,
+      429.24
+    ],
+    "text": "Semi\u00adskilled %",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.533243656158447,
+      7.597620487213135
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      277.2,
+      411.9,
+      386.76,
+      429.96
+    ],
+    "text": "U n \u00adskilled % Total %",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.597620487213135,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      49.2,
+      453.42,
+      393.1,
+      527.16
+    ],
+    "text": "1953 1528 18-2 669 10-4 1371 10-0 2820 12-2 6388 12-4 1954 1097 9-4 879 11-1 922 5-7 4660 17 -0 7558 11-9 1955 2166 14 -9 1064 12-5 1187 5-9 3791 13 -6 8208 11-6 1956 1913 11-9 845 8-6 1565 6-1 4162 12-1 8485 9-9 1957 1176 6-3 709 5-3 1180 3-8 3053 6-4 6118 5-5 1958 1827 9-2 800 5-9 1006 3-1 2251 4-4 5884 5-0 1959 1667 8-0 1045 7-5 1275 3-8 3218 5-4 7205 5-6 1960 1400 5-3 771 4-6 1247 3-6 4744 6-5 8162 5-4 1961* 1257 4-6 631 3-5 964 2-8 2794 3 9 5648 3-7",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.353840351104736,
+      7.462340831756592,
+      7.4684858322143555,
+      7.486303329467773,
+      7.498135089874268,
+      7.50217866897583,
+      7.502420902252197,
+      7.503283977508545,
+      7.507014274597168,
+      7.507946491241455,
+      7.509085655212402,
+      7.510396957397461,
+      7.528631687164307,
+      7.532039165496826,
+      7.542081356048584,
+      7.547921657562256,
+      7.567264556884766,
+      7.573359489440918,
+      7.582423686981201,
+      7.588847637176514,
+      7.6197638511657715,
+      7.654585361480713
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      286.08,
+      540.06,
+      391.52,
+      548.04
+    ],
+    "text": "Source Department of Labour.",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.5051493644714355,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      39.6,
+      560.12,
+      400.62,
+      598.63
+    ],
+    "text": "The total number of persons placed in 1961 was lower than the numbers placed in the previous year. This decline has been due largely to a fall in the numbers of un-skilled persons placed, whose numbers fell from 4,744 in 1960",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.661795616149902,
+      9.736364364624023,
+      10.006495475769043,
+      10.175383567810059
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      63.6,
+      618.3,
+      115.25,
+      626.28
+    ],
+    "text": "* Provisional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      202.08,
+      30.68,
+      232.56,
+      40.87
+    ],
+    "text": "( 7 1 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.997769355773926,
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      34.32,
+      52.04,
+      396.23,
+      117.91
+    ],
+    "text": "to 2,794 in 1961. The numbers placed in the other categories have also been lower. The percentage of those placed to the number of registrants in each group was lowest among semi-skilled workers with a percentage of 2-8. These percentages have been lower than in the preceding years for all categories of workers.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.572774887084961,
+      9.712080955505371,
+      9.736364364624023,
+      10.079731941223145,
+      10.175383567810059
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      34.08,
+      130.76,
+      395.75,
+      182.71
+    ],
+    "text": "Labour Relations:- The data on strikes serve generally as an indicator of the changes in labour-management relations. The table below shows the number of strikes, the number of workers involved and the number of man-days lost as a result of strikes.",
+    "fonts": [
+      "Times-Italic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.444103240966797,
+      9.678776741027832,
+      9.736364364624023,
+      10.022343635559082,
+      10.02415943145752,
+      10.104723930358887
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      180.48,
+      204.47,
+      247.93,
+      213.43
+    ],
+    "text": "TABLE 11-29",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.332082748413086,
+      8.558476448059082
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      200.4,
+      223.4,
+      231.02,
+      233.59
+    ],
+    "text": "Strikes",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      9.736364364624023
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      144.0,
+      253.26,
+      358.22,
+      261.24
+    ],
+    "text": "Plantations Other Employments",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.6197638511657715,
+      7.804747104644775
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.24,
+      271.26,
+      72.04,
+      279.24
+    ],
+    "text": "Year",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.520226955413818
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.32,
+      279.18,
+      388.19,
+      295.8
+    ],
+    "text": "Number Workers Man-days Number Workers Man-days involved lost involved lost",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.463798999786377,
+      7.567298889160156,
+      7.577841758728027,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      47.76,
+      313.26,
+      394.31,
+      345.96
+    ],
+    "text": "1958 123 39,372 340,632 96 42,713 399,228 1959 177 47,318 352,095 71 42,453 460,141 1960 123 42,528 259,948 37 4,839 15.139J 1961* . . 89 24,864 315,491 38 21,758 115,248",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.353840351104736,
+      7.4720940589904785,
+      7.474522590637207,
+      7.486303329467773,
+      7.4957499504089355,
+      7.503283977508545,
+      7.514123439788818,
+      7.516502857208252,
+      7.519157886505127,
+      7.520984649658203,
+      7.523190021514893,
+      7.528631687164307,
+      7.530697345733643,
+      7.534103870391846,
+      7.542081356048584,
+      7.550599575042725,
+      7.553380012512207,
+      7.59564208984375,
+      7.600792407989502,
+      7.602224826812744,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      273.36,
+      357.18,
+      386.6,
+      365.16
+    ],
+    "text": "Source: Department of Labour.",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.486338138580322,
+      7.6197638511657715
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      33.36,
+      377.96,
+      395.95,
+      596.95
+    ],
+    "text": "In 1961 the number of strikes in the plantation sector was considerably lower than in the previous year, while in the rest of the economy their numbers showed a slight deterioration from the previous year. The largest number of strikes, however, took place in the plantation sector where the major part of the working population organised in unions are employed. About 64.6 per cent of plantation workers are members of unions and their numbers constitute about 59.7 per cent of all employees, who are members of unions. In 1961 the num\u00adber of strikes on plantations and other employments totalled 89* and 38* compared with 123 and 37 respectively in 1960. In the plantation sector the number of workers involved was also considerably less than in the previous year. In other employments too though the number of strikes compared closely with the numbers for the previous year they involved a much larger number of workers. A significant feature was that the number of man-days lost increased considerably as the average duration of strikes in the plantation and non-plantation sectors rose from 6.1 days and 3.1 days in 1960 to 10.9* days and 5.3* days in 1961, respectively.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.471711158752441,
+      9.476982116699219,
+      9.559990882873535,
+      9.607417106628418,
+      9.63113021850586,
+      9.678338050842285,
+      9.699260711669922,
+      9.706588745117188,
+      9.736364364624023,
+      9.979561805725098,
+      10.022343635559082,
+      10.047057151794434,
+      10.075994491577148,
+      10.157275199890137,
+      10.175383567810059,
+      10.2935209274292
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      58.32,
+      617.1,
+      106.66,
+      625.08
+    ],
+    "text": "\u2022Provisional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.60120153427124
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      201.84,
+      30.77,
+      232.79,
+      40.85
+    ],
+    "text": "( 72 )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.948729515075684,
+      9.673432350158691
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39.84,
+      53.33,
+      399.54,
+      148.37
+    ],
+    "text": "Looking at the reasons given for striking according to the classification made by the Department of Labour, estate rules, discipline, working arrange\u00adments etc, accounted for 29.9* per cent and wage disputes other than for wage increases for 12.6* per cent of strikes and took place mainly on plantations. Dismissal or loss of employment accounted for 17.3* per cent and demands for wage increases accounted for 4.7* per cent of the strikes. The relative importance of these reasons followed the pattern exhibited in previous years.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.350090026855469,
+      9.4338960647583,
+      9.50307559967041,
+      9.58835220336914,
+      9.673432350158691,
+      9.907012939453125,
+      9.93476676940918,
+      9.967595100402832,
+      10.031197547912598,
+      10.085904121398926,
+      10.119715690612793
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      39.36,
+      160.37,
+      399.41,
+      295.73
+    ],
+    "text": "However the largest number of man-days were lost owing to strikes resul\u00adting from general demands, which accounted for 36.6* per cent of all man-days lost; Demands for wage increases and other wage disputes such as delay in payment, cash advances etc resulted in a loss of 18.6* and 20.1* per cent of man-days lost respectively. Strikes resulting from demands for wage increases took place mainly in the non-plantation sector, where the number of man-days lost was 69.5* per cent of all man-days lost in this sector. Strike data, are how\u00adever, shown against the month in which strikes ended, so that where a strike began in 1961 but ended in the following year, the number of man-days lost in 1961 are not recorded.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.407790184020996,
+      9.415663719177246,
+      9.424454689025879,
+      9.49313735961914,
+      9.534873008728027,
+      9.646129608154297,
+      9.673432350158691,
+      9.91428279876709,
+      9.91457462310791,
+      9.915117263793945,
+      9.91645336151123,
+      9.920628547668457,
+      9.967595100402832,
+      9.983907699584961,
+      10.041717529296875,
+      10.043573379516602,
+      10.23731803894043
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      63.36,
+      619.11,
+      109.65,
+      626.97
+    ],
+    "text": "\u2022Provsional",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.547403335571289
+    ]
+  }
+]

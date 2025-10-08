@@ -1,0 +1,33 @@
+( 22 •)
+
+67. Government securities are " gilt-edged" investments carrying the full guarantee of the Government and are suitable for investors who want to minimize risk. The progressive increase in the volume of business in the Department of Public Debt of the Central Bank indicates that investors in Ceylon are appreciat­ing more and more the value of Ceylon Government securities as a medium of invest­ment. The following table shows the increase in the volume of business during the past five years :—,
+
+(In millions .of rupees)
+
+Loans'
+
+Value of 'Sinking Financial Loans' Loans Interest transfers, Fund Year raised repaid paid exchanges, Contributions etc. (RupecLoans)
+
+1946-47 31 -4 12-6 75-1 10-6 1947-48 24-0 29-4 13-2 72-0 11-7 1948-49 • 57-8 1 -7 13-9 109-3 12-8 1949-50 29-7 17-5 1 5 1 152-8 ' 15-1 1950-51 146 ;0 — 16-2 413-6 14-9
+
+IX. Ceylon's International and Domestic Financial Position
+
+68. Ceylon built up and. maintained its external assets in 1951—one of the most wholesome developments of the year. These 'assets rose by Rs. 358 million in the nine months following the outbreak of the Korean War, that is, from June, 1950 to March, 1951> the total reaching a high point of Rs. 1,240 million. A consider­able loss of external assets might have been expected affer March, simply because people ordinarily spend freely out of any increase in incomes. In addition, export prices weakened, import and exchange controls were relaxed, and some capital flowed out as many foreign investors took the opportunity to repatriate their invest­ments on relatively favourable terms. The actual loss of assets from March until the end of the year, however, was only Rs. 55 million, and in January, 1952, assets rose by Rs. 23 million, reducing even this loss. Thus Ceylon avoided the heavy losses of reserves suffered during this same period by other members of the Sterling Area, losses that precipitated the sterling crisis of late 1951 and early 1952.
+
+69. One reason for the strength of the Ceylon position was undoubtedly the combination of sound Government finances and the public debt and credit policies already described. But fully as important was the fact that there was a marked increase in the rate of saving by the people of Ceylon. Savings deposits increased by 'Rs. 64 million during the year. Post Office Savings Bank deposits were probably the most popular form of savings, and increased at the rate of almost Rs. 4 million per month. There were increases in the savings deposits of the Ceylon Savings Bank and the commercial banks, in premiums collected by insurance companies, in corporate savings, and in investments in Government securities by individuals. Finally, people were simply willing to hold more in the form of currency or demand deposits than they needed for transactions purposes, which means in effect that they were willing to save without earning interest.
+
+-70. The remarkable record of saving in 1951 is encouraging for the future. People in the aggregate preferred to save a considerable part of "their increased incomes rather than spend them on imported goods. Otherwise the higher level of
+
+( 23 )
+
+external assets could not have been maintained. The rise in assets meant that Ceylon, in effect, lent some Rs. 300 million to the United Kingdom following the outbreak of the Korean War. It indicates that, so far as the foreign balances are concerned, and without even taking into account the possibilities of foreign borrow­ing, Ceylon can carry on its development programme at a faster rate. And under the Colombo Plan a faster rate is, in fact, planned.
+
+71. Although Ceylon's financial reserves in relation to the present pace of development are adequate, increased foreign investment can play a useful role in accelerating the pace of development, not so much because of a present need for additional foreign exchange resources, as because of a continuing need of foreign . enterprise, technical skill and organizing ability. It is disconcerting, for example, to find that in 1951, when economic conditions were decidedly favourable for ex­panding production, the volume of new capital investment in the private sector was not larger. There are many profitable avenues for private enterprise, and capital is available, but Ceylonese do not enter them for lack of experience and training.
+
+72. Increased foreign investment will make the Ceylon economy more pro­ductive, and provide example and experience for Ceylonese enterprise. Yet capital flowed out rather than in during 1951. As Table 24A shows, the net outward movement is estimated at Rs. 38 million. This compares with a net outflow of Rs 19-4 million in 1950.
+
+• 73. This repatriation of capital should not be regarded as necessarily un­favourable to the national interest. It is. encouraging that Ceylonese show a greater willingness and capacity to take over and manage estates and other businesses hitherto managed by foreigners. Moreover•, the movement was readily financed from the large foreign exchange surplus. Liquidation of foreign ownership of existing enterprise reduces the future outflow of profits and dividends. Finally, a policy of freely permitting an export of capital actually encourages an inflow of Capital. Few investors would bring their capital into a country unless they had firm evidence that they could take it .out at will.
+
+74. Repatriation of foreign-owned capital on this scale would not have been possible without an active real estate and share market. There is no evidence that foreign investors liquidated their assets at low prices ; on the contrary some estates have been bought by Ceylonese at decidedly high prices. For example, the Colombo share market was active throughout the year and share prices rose significantly, especially in rubber, less so in tea. At the end of December, 1951, there were 186 companies on the share list of the Colombo Brokers' Association : 59 tea, 56 rubber, 28 tea-cum-rubber, 9 coconut, and 34 commercial companies.
+
+75. Ceylon's balance of payments, quarterly and annually, for 1951 is set out in Table 24A. As mentioned earlier, there was a surplus balance of Rs. 116 million on current account. External holdings of official and banking institutions increased by Rs. 107-2 million. The breakdown by currency areas is in Table 24B. Ceylon's net dollar earnings was the equivalent of Rs. 142 million. For reasons stated elsewhere, these earnings were smaller than in 1950. Ceylon con­tinues to be a net dollar earner.

@@ -1,0 +1,1764 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      59.76,
+      76.3,
+      336.77,
+      85.27
+    ],
+    "text": "Central Bank of Ceyl",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.76,
+      290.38,
+      325.26,
+      299.35
+    ],
+    "text": "Annual Report",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.4,
+      344.62,
+      328.87,
+      353.59
+    ],
+    "text": "O F T H E M O N E T A R Y B O A R D T O",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.495352745056152,
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.44,
+      364.78,
+      329.27,
+      373.75
+    ],
+    "text": "T H E M I N I S T E R O F F I N A N C E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.495352745056152,
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.32,
+      437.26,
+      335.72,
+      450.79
+    ],
+    "text": "f/r^Y 9 9 9 Q ?:! v. V rV & fy Q",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.100245475769043,
+      6.248538494110107,
+      6.5581374168396,
+      7.649537563323975,
+      8.334266662597656,
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.08,
+      584.62,
+      264.7,
+      593.59
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.440768241882324,
+      8.495352745056152,
+      8.761489868164062
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      198.72,
+      604.06,
+      233.18,
+      613.03
+    ],
+    "text": "1 9 5 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.495352745056152
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      180.96,
+      210.52,
+      261.42,
+      219.71
+    ],
+    "text": "Letter of Submittal",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.744592666625977,
+      9.144137382507324,
+      9.200953483581543
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.36,
+      252.21,
+      170.28,
+      272.99
+    ],
+    "text": "THE HON. J. R. JAYEWARDENE, Minister of Finance,",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.718843460083008,
+      6.848175048828125,
+      8.744592666625977,
+      8.95000171661377,
+      9.068371772766113
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      85.2,
+      277.0,
+      124.19,
+      286.19
+    ],
+    "text": "Colombo.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.392281532287598
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.6,
+      304.53,
+      82.68,
+      311.72
+    ],
+    "text": "DEAR SIH,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.772831916809082,
+      6.848175048828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.36,
+      319.0,
+      398.36,
+      341.15
+    ],
+    "text": "In accordance with, the provisions of Section 35 (1) of the Monetary Law Act I am submitting herewith the First Annual Report of the Monetary Board of the Central Bank",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.744592666625977,
+      8.933013916015625,
+      9.030613899230957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.6,
+      344.92,
+      296.48,
+      354.11
+    ],
+    "text": "of Ceylon covering the Bank's operations during the year 1950.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.989930152893066,
+      8.744592666625977
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      259.68,
+      377.08,
+      321.0,
+      386.27
+    ],
+    "text": "I am, dear Sir,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.744592666625977
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      277.68,
+      390.28,
+      346.92,
+      399.47
+    ],
+    "text": "Yours faithfully,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.594688415527344,
+      8.744592666625977
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.92,
+      407.97,
+      351.72,
+      415.16
+    ],
+    "text": "JOHN EXTER,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.848175048828125
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      332.4,
+      419.56,
+      375.49,
+      428.75
+    ],
+    "text": "Governor.",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.970799446105957
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.96,
+      441.4,
+      149.49,
+      450.59
+    ],
+    "text": "Central Bank of Ceylon,",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.744592666625977,
+      8.933013916015625
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      454.36,
+      161.6,
+      463.55
+    ],
+    "text": "Colombo 1, 31st March, 1951.",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.429752349853516,
+      8.744592666625977
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      196.8,
+      31.26,
+      235.24,
+      41.32
+    ],
+    "text": "( Hi )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.91124439239502,
+      10.488865852355957,
+      10.490018844604492
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      78.48,
+      109.89,
+      353.95,
+      127.82
+    ],
+    "text": "CENTRAL BANK OF CEYLON",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      16.75741195678711,
+      18.68275260925293
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      156.0,
+      153.88,
+      275.95,
+      163.07
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.585586547851562
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188.16,
+      196.77,
+      243.35,
+      217.31
+    ],
+    "text": "JOHN EXTER Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.723652362823486,
+      6.849532127380371,
+      8.956042289733887
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      144.0,
+      229.89,
+      288.12,
+      237.08
+    ],
+    "text": "A. G. RANASINHA, C.M.G., C.B.E.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.368673324584961,
+      6.723652362823486,
+      7.496166229248047
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      107.28,
+      245.56,
+      334.45,
+      254.75
+    ],
+    "text": "Acting Permanent Secretary to the Ministry of Finance",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.585586547851562,
+      8.955349922180176,
+      9.054231643676758,
+      9.061912536621094,
+      9.128679275512695,
+      9.572027206420898
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      185.28,
+      267.09,
+      246.13,
+      274.28
+    ],
+    "text": "J. TYAGARAJA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.723652362823486,
+      7.090662956237793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      180.96,
+      285.4,
+      252.11,
+      294.59
+    ],
+    "text": "Principal Officers",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.930314064025879,
+      9.054231643676758
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      35.76,
+      309.57,
+      362.29,
+      316.76
+    ],
+    "text": "JOHN EXTER Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.723652362823486,
+      6.849532127380371,
+      7.925523281097412
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.0,
+      323.56,
+      400.09,
+      332.75
+    ],
+    "text": "N. U . JAYAWARDENA Deputy Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.6070756912231445,
+      8.956042289733887,
+      9.054231643676758
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.0,
+      340.53,
+      362.18,
+      368.36
+    ],
+    "text": "A . MUTTON ) J. C. REID \\ Advisers G. H. SNEAD )",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.368673324584961,
+      6.723652362823486,
+      6.8795671463012695,
+      7.310257434844971,
+      7.496166229248047,
+      7.717718601226807,
+      8.604445457458496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      381.4,
+      211.12,
+      390.59
+    ],
+    "text": "Department of Banking and Currency.\u2014",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.984649658203125,
+      9.054231643676758,
+      9.09567928314209,
+      9.099162101745605,
+      9.572027206420898
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.96,
+      401.32,
+      397.59,
+      410.51
+    ],
+    "text": "W. TENNEKOON Chief Accountant",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.6070756912231445,
+      8.132306098937988,
+      8.801522254943848,
+      9.033817291259766
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      424.36,
+      194.29,
+      433.55
+    ],
+    "text": "Department of Economic Research.\u2014",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.880767822265625,
+      9.010757446289062,
+      9.054231643676758,
+      9.099162101745605
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.96,
+      444.79,
+      360.19,
+      453.05
+    ],
+    "text": "15. B. DAS GUPTA Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.838119029998779,
+      7.310257434844971,
+      7.717718601226807,
+      8.13899040222168,
+      8.604445457458496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.44,
+      466.84,
+      188.74,
+      476.03
+    ],
+    "text": "Department of Exchange Control.\u2014",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.920473098754883,
+      9.022638320922852,
+      9.054231643676758,
+      9.099162101745605
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.96,
+      486.76,
+      403.55,
+      495.95
+    ],
+    "text": "J. A. LEEMBRUGGEN Deputy Controller",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.6070756912231445,
+      8.132306098937988,
+      9.054231643676758,
+      9.100184440612793
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.68,
+      509.8,
+      164.21,
+      518.99
+    ],
+    "text": "Department of Public Debt.\u2014",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.974522590637207,
+      9.054231643676758,
+      9.099162101745605,
+      9.572027206420898
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.2,
+      530.23,
+      386.4,
+      538.49
+    ],
+    "text": "G. L . B. PERERA Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.310257434844971,
+      8.13899040222168,
+      8.604445457458496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      36.96,
+      552.52,
+      99.07,
+      561.71
+    ],
+    "text": "Secretariat.\u2014",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.269394874572754
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      37.68,
+      573.19,
+      364.18,
+      581.45
+    ],
+    "text": "D . C. GUNESEKERA Secretary",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.838119029998779,
+      7.310257434844971,
+      7.717718601226807,
+      8.604445457458496
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200.88,
+      600.04,
+      233.92,
+      609.23
+    ],
+    "text": "Auditor",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.887009620666504
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      166.8,
+      621.81,
+      266.99,
+      629.0
+    ],
+    "text": "E . ALLEN SMITH, C.B.E.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.723652362823486
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      135.12,
+      636.04,
+      311.18,
+      645.23
+    ],
+    "text": "Auditor-General to the Ceylon Government",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.585586547851562,
+      8.900758743286133,
+      8.954812049865723,
+      9.048027992248535,
+      9.054231643676758
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      211.2,
+      28.5,
+      244.9,
+      36.03
+    ],
+    "text": "( v )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.079646110534668,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      196.8,
+      47.46,
+      258.52,
+      54.99
+    ],
+    "text": "C 0 X T E N T S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.953743934631348,
+      7.28286075592041,
+      7.343276023864746,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.04,
+      204.42,
+      103.03,
+      211.95
+    ],
+    "text": "APPENDIX I.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.365533351898193,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      121.68,
+      305.7,
+      324.9,
+      415.71
+    ],
+    "text": "(i) Prescription of Legal Parities (ii) Prescription of Central Bank's Exchange Rates Circular No. 1 of 28th August. 1950 Circular No. 1/1 of 8th December, 1950 Circular No. 1 (Revised 30th December, 1950) (iii) Prescription of Commercial Banks' Exchange Rates : Circular No. 2 of 28th August, 1950 Circular No. 2/1 of 2nd October, 1950 (iv) Central Bank's Rate of Interest on Advances : Circular No. 4 of 28th August, 1950 (v) Regulation D (vi) Regulation E and Amendment to Regulation E .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.475578784942627,
+      7.525145530700684,
+      7.544660568237305,
+      7.544814109802246,
+      7.572159767150879,
+      7.751344203948975
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      60.72,
+      80.28,
+      406.02,
+      95.31
+    ],
+    "text": "PAGE 1 T. Introduction",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.319770812988281,
+      7.250949859619141,
+      7.2842254638671875,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.4,
+      98.82,
+      141.15,
+      106.35
+    ],
+    "text": "II. The Money Supply",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.211719989776611,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.8,
+      109.86,
+      125.13,
+      117.39
+    ],
+    "text": "III. Cost of Living",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.264806270599365,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.0,
+      120.9,
+      231.63,
+      128.43
+    ],
+    "text": "IV. Fiscal Policy in Relation to Monetary Policy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.2029948234558105,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      56.64,
+      131.94,
+      215.11,
+      139.47
+    ],
+    "text": "V. Production and International Trade . .",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.156075477600098,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      53.52,
+      142.98,
+      162.97,
+      150.51
+    ],
+    "text": "VI. Wages and Real Incomes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.064869403839111,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      50.4,
+      154.02,
+      398.99,
+      161.55
+    ],
+    "text": "VII. Ceylon's International and Domestic Financial Position . . 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.145567417144775,
+      7.572159767150879,
+      7.743346214294434
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      47.52,
+      165.06,
+      398.51,
+      172.59
+    ],
+    "text": "VIII. Operations and Accounts of the Central Bank . . . . 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.192587375640869,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.24,
+      213.52,
+      374.66,
+      220.48
+    ],
+    "text": "A\u2014MAJOR LEGAL ENACTMENTS ADOPTED BY THE GOVERNMENT IN 1950\u2014",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.285760402679443,
+      6.533450603485107,
+      6.539471626281738,
+      6.5396528244018555,
+      6.605545997619629,
+      6.609107971191406,
+      6.622170448303223,
+      6.690946102142334,
+      6.698832988739014
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124.08,
+      224.1,
+      402.92,
+      242.67
+    ],
+    "text": "(i) Bretton Woods Agreements Act, No. 2 0 of 1950 . . . . 2 3 (ii) Order made under the Supplies and Services (Transitional Powers Act,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.406993389129639,
+      7.383904933929443,
+      7.446450233459473,
+      7.544660568237305,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      122.16,
+      246.18,
+      406.54,
+      264.75
+    ],
+    "text": "1945), amending Defence (Finance) Regulations . . . . ' 2 6 (iii) Exchange and Securities Control (Continuation) Act, No. 3 5 of 1 9 5 0 . . 27",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.37566614151001,
+      6.611369609832764,
+      7.308624267578125,
+      7.572159767150879,
+      7.743824481964111
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      114.0,
+      280.95,
+      378.33,
+      296.19
+    ],
+    "text": "B\u2014-Main ADMINISTRATIVE MEASURES ADOPTED BY TUE MONETAEV BOARD IN 1950\u2014",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.460906505584717,
+      6.53432559967041,
+      6.541077613830566,
+      6.576148509979248,
+      6.624671936035156,
+      6.637507915496826,
+      6.68709659576416,
+      6.692511558532715,
+      6.965404510498047,
+      7.308023452758789
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.88,
+      305.52,
+      401.16,
+      311.78
+    ],
+    "text": "28",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.874573707580566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.4,
+      316.56,
+      401.52,
+      346.58
+    ],
+    "text": "28 28 2 8 29",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.872011661529541,
+      5.874573707580566
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.64,
+      359.52,
+      401.12,
+      373.94
+    ],
+    "text": "3 0 3 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.846442222595215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.4,
+      386.64,
+      400.88,
+      392.9
+    ],
+    "text": "3 0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.846442222595215
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.64,
+      397.68,
+      400.59,
+      403.94
+    ],
+    "text": "31",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.887637615203857
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      392.64,
+      408.72,
+      401.19,
+      414.98
+    ],
+    "text": "3 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.866557598114014
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      46.32,
+      433.38,
+      402.99,
+      440.91
+    ],
+    "text": "APPENDIX II.\u2014STATISTICAL STATEMENTS . . . . . . 3 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.258630275726318,
+      7.268624782562256,
+      7.365533351898193,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      123.84,
+      452.1,
+      220.87,
+      458.73
+    ],
+    "text": "I. M o n e y a n d B a n k i n g :",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.1933135986328125,
+      6.5064311027526855,
+      6.674635887145996
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      137.52,
+      469.38,
+      382.79,
+      476.91
+    ],
+    "text": "Statement Ia\u2014Money Supply.\u2014Its Composition (1938\u2014January,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.364874362945557,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      202.32,
+      481.86,
+      402.29,
+      489.39
+    ],
+    "text": "1951) . . . . . . 3 6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.300482273101807,
+      6.302709102630615,
+      7.372122287750244,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      7.44,
+      492.9,
+      384.47,
+      500.43
+    ],
+    "text": "* 1B\u2014Analysis of Changes in Money Supply since December,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.800000190734863,
+      7.46843147277832,
+      7.572159767150879,
+      7.599955081939697,
+      7.756473064422607
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.36,
+      503.94,
+      403.22,
+      535.95
+    ],
+    "text": "1949 . . . . . . 3 9 2 \u2014Statement of Assets and Liabilities of Commercial Banks (End of year figures : 1943-1948) . . 4 0 3 \u2014Detailed Statement of Assets and Liabilities of Com\u00ad",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.300482273101807,
+      6.302709102630615,
+      7.090708255767822,
+      7.1448235511779785,
+      7.379457473754883,
+      7.381493091583252,
+      7.393104553222656,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.12,
+      536.58,
+      402.59,
+      562.83
+    ],
+    "text": "mercial Banks (End of month figures : December, 1949\u2014December, 1950) 41 4 \u2014Reserve Position of Commercial Banks (Monthly",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.515276908874512,
+      7.554429531097412,
+      7.572159767150879,
+      7.743346214294434
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      201.12,
+      566.34,
+      403.64,
+      573.87
+    ],
+    "text": "Figures : December, 1949\u2014January, 1951) . . 4 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.12,
+      577.38,
+      403.25,
+      595.95
+    ],
+    "text": "5 \u2014Bank Clearings (Monthly Figures from 1939) 4 4 6a\u2014Accounts of the Central Bank as of 31st December,",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.042778491973877,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      177.12,
+      599.46,
+      402.82,
+      617.31
+    ],
+    "text": "1950 . . . . ..45 6B\u2014Monthly Movement of the Accounts of the Central",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.300482273101807,
+      6.302709102630615,
+      7.376699924468994,
+      7.4703192710876465,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      5.76,
+      620.58,
+      403.75,
+      655.95
+    ],
+    "text": "Bank (August, 1950\u2014December, 1950) . . 46 7 \u2014Purchases and Sales of Foreign Exchango by the ^ - Central Bank (August, 1950\u2014January, 1951) . . 4 8 8 \u2014Savings (1938-1950) . . . . 4!)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.800000190734863,
+      6.969452857971191,
+      7.220691204071045,
+      7.386972904205322,
+      7.516723155975342,
+      7.572159767150879
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      195.6,
+      26.64,
+      231.65,
+      35.59
+    ],
+    "text": "( \u2022 vi )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.951467514038086,
+      8.892399787902832,
+      8.893500328063965
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      108.0,
+      58.1,
+      316.34,
+      87.17
+    ],
+    "text": "11. EXTERNAL FINANCE : Statement 9\u2014External Assets of Ceylon (1939-1950) 10\u2014Balance of Payments for 1950",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.016842842102051,
+      6.490000247955322,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      105.6,
+      96.26,
+      212.15,
+      102.79
+    ],
+    "text": "III.\u2014GOVERNMENT FINANCE :",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.016842842102051,
+      6.490000247955322
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.28,
+      109.53,
+      389.69,
+      136.37
+    ],
+    "text": "Statement 11\u2014Government Revenue (Financial Year Figures : 1938-1940 ; 1944-1945 ; 1946-1951) . . . 5 3 12\u2014Government Revenue and Expenditure (Financial",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.438539028167725,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.6,
+      139.05,
+      389.55,
+      155.57
+    ],
+    "text": "Year Figures : 1938-1951) . . . . 54 13\u2014Distribution of Government Expenditure (Financial",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.441739082336426,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.84,
+      158.25,
+      389.77,
+      182.45
+    ],
+    "text": "Years, 1947-1951) . . 55 14\u2014Public Debt (Financial Years, 1938^1950) . . 57 15\u2014Government Treasury Bills (April, 1950\u20142nd March,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.471205711364746,
+      7.590000152587891,
+      7.764141082763672
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.84,
+      182.97,
+      389.26,
+      201.65
+    ],
+    "text": "1951) . . . . . . 5 8 16\u2014Government net Cash Operating Surplus and deficit.:",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.036646842956543,
+      7.590000152587891,
+      7.7661333084106445
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189.12,
+      204.33,
+      389.51,
+      211.97
+    ],
+    "text": "(September, 1949\u2014January, 1951) . . 59",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      106.56,
+      218.9,
+      213.11,
+      225.43
+    ],
+    "text": "IV. INTERNATIONAL TRADE :",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.016842842102051,
+      6.490000247955322
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.52,
+      232.17,
+      367.63,
+      239.81
+    ],
+    "text": "Statement 17\u2014Ceylon's International Trade in Merchandise (1938-",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.4012908935546875,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.6,
+      242.49,
+      389.28,
+      259.01
+    ],
+    "text": "1950) . . . . . . 6 0 18\u2014Ceylon's International Trade in Merchandise by",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.036646842956543,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      188.88,
+      259.53,
+      389.45,
+      267.17
+    ],
+    "text": "Regions and Monetary Areas (193S and 1947-1950) 63",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      276.02,
+      232.07,
+      282.55
+    ],
+    "text": "V . COST or LIVING AND WAGES :",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.961394786834717,
+      6.016842842102051,
+      6.490000247955322
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      125.52,
+      289.53,
+      369.83,
+      297.17
+    ],
+    "text": "Statement 19\u2014Cost of Living Index (Working Class\u2014Colombo",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      165.36,
+      299.13,
+      389.7,
+      328.85
+    ],
+    "text": "Town : 1939-1950) .. 65 20\u2014Cost of Living Index (Estate Labour : 1939-1950) . . 66 21\u2014Minimum Wage Rate Index (Tea and Rubber Estate",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.381355285644531,
+      7.525208473205566,
+      7.529066562652588,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189.36,
+      332.25,
+      389.4,
+      339.89
+    ],
+    "text": "Labour: 1939-1950) .. 67",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.517422676086426,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      33.6,
+      344.01,
+      389.76,
+      351.65
+    ],
+    "text": "APPEXDIX III.\u2014CHARTS . . . ... . . . . 6 9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.3331451416015625,
+      7.349132061004639,
+      7.590000152587891
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      102.24,
+      357.93,
+      393.79,
+      486.29
+    ],
+    "text": "CHART Money Supply . . . . . . 1 Cumulative Changes in Money Supply . . . . 2 Cost of Living Index\u2014Working Class\u2014Colombo Town 3 Government Net Cash Operating Surplus and Deficit . . 4 External Assets of Ceylon .'. . . ..5 Merchandise Exports and Imports . . . . 6 Balance of Trade with United States and Canada . 7 Cost of Living Index\u2014Estate Labour . . . . - . . 8 Minimum Wage Rate Index\u2014Tea and Rubber Estate Labour . . 9 Public Debt . . . . . . 10 Savings . . . . . . . . 1 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.923867225646973,
+      7.381355285644531,
+      7.523025035858154,
+      7.548391819000244,
+      7.565654277801514,
+      7.590000152587891,
+      7.790157794952393,
+      7.79141092300415
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      372.24,
+      46.58,
+      391.72,
+      53.11
+    ],
+    "text": "PAOK",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.953389644622803
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      379.2,
+      68.25,
+      388.17,
+      75.89
+    ],
+    "text": "50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.036646842956543
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      379.2,
+      79.05,
+      388.05,
+      86.69
+    ],
+    "text": "51",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.036646842956543
+    ]
+  }
+]

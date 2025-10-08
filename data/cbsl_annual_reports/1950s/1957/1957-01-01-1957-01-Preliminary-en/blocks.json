@@ -1,0 +1,1383 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      75.6,
+      24.53,
+      129.98,
+      32.49
+    ],
+    "text": "5 L 3 3 2 - I I",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.500067234039307
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      46.56,
+      73.69,
+      379.66,
+      99.15
+    ],
+    "text": "CENTRAL BANK OF CEYLON",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      21.388294219970703
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.68,
+      321.85,
+      324.24,
+      347.31
+    ],
+    "text": "ANNUAL REPORT",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      21.388294219970703,
+      22.1168212890625
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.64,
+      352.25,
+      322.4,
+      367.44
+    ],
+    "text": "OF THE MONETARY BOARD",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.679402351379395,
+      12.75793170928955
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.4,
+      372.41,
+      321.93,
+      387.6
+    ],
+    "text": "TO THE MINISTER OF FINANCE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.36934757232666,
+      12.75793170928955
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.84,
+      586.01,
+      268.06,
+      601.2
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.203603744506836,
+      12.444558143615723,
+      12.75793170928955
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.96,
+      610.09,
+      236.62,
+      635.55
+    ],
+    "text": "1957",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      21.388294219970703
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      207.36,
+      42.28,
+      241.69,
+      51.47
+    ],
+    "text": "( ii )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      232.56,
+      163.88,
+      345.47,
+      182.3
+    ],
+    "text": "*r? i m k,I",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      2.816502094268799,
+      8.047148704528809,
+      8.977822303771973,
+      17.836660385131836
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      315.84,
+      180.65,
+      340.18,
+      194.96
+    ],
+    "text": "/ i> i ... y.",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      5.13250207901001,
+      5.134665489196777,
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.08,
+      208.36,
+      404.74,
+      217.55
+    ],
+    "text": "THE HON. STANLEY DE ZOYSA, M.P., '\u2022.\"''./,\u2022-?'//",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.730459690093994,
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.52,
+      227.32,
+      315.12,
+      236.51
+    ],
+    "text": "Minister of Finance, V '^.^",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.96,
+      246.28,
+      125.85,
+      255.47
+    ],
+    "text": "Colombo.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.796472549438477
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.8,
+      278.68,
+      86.51,
+      287.87
+    ],
+    "text": "Dear Sir,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.924989700317383,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      66.0,
+      295.72,
+      405.0,
+      304.91
+    ],
+    "text": "In accordance with the provisions of Section 35 (1) of the Monetary Law Act",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      46.8,
+      314.92,
+      404.91,
+      324.11
+    ],
+    "text": "I submit herewith the Eighth Annual Report of the Monetary Board of the Central",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      47.28,
+      334.12,
+      347.24,
+      343.31
+    ],
+    "text": "Bank of Ceylon covering the Bank's operations during the year 1957.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.877741813659668,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      271.92,
+      365.32,
+      336.02,
+      374.51
+    ],
+    "text": "I am, dear Sir,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.64,
+      385.0,
+      356.75,
+      394.19
+    ],
+    "text": "Yours faithfully,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.793848991394043,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      322.08,
+      403.96,
+      405.17,
+      413.15
+    ],
+    "text": "A. G. RANASINHA,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.047148704528809,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      345.36,
+      420.52,
+      388.52,
+      429.71
+    ],
+    "text": "Governor.",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.96,
+      464.2,
+      152.03,
+      473.39
+    ],
+    "text": "Central Bank of Ceylon,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.917769432067871,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      48.72,
+      483.64,
+      167.73,
+      492.83
+    ],
+    "text": "Colombo, 31st March, 1958.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.735607147216797,
+      8.796472549438477,
+      8.977822303771973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      194.4,
+      42.69,
+      228.51,
+      52.8
+    ],
+    "text": "( 1 )",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.474031448364258,
+      9.876748085021973
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      178.56,
+      63.51,
+      240.55,
+      71.37
+    ],
+    "text": "C O N T E N T S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.4496564865112305
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      30.96,
+      101.19,
+      382.4,
+      150.81
+    ],
+    "text": "I. Introduction . . , , 3 II. The Economic and Financial Situation . . . . . . 4 III. Policies and Measures . . . . . . . . . . 7 IV. Basic Economic Data . . . . . . . . . . . . 17 V. Operations and Accounts of the Central Bank . . . . . . . . 37",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.240607738494873,
+      7.745185852050781,
+      7.9523162841796875
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      30.96,
+      169.83,
+      381.86,
+      177.69
+    ],
+    "text": "APPENDIX I. . . . . . . . . . . 39",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.526268005371094,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.64,
+      185.3,
+      381.01,
+      191.83
+    ],
+    "text": "A \u2014 M A J O R LEGAL ENACTMENTS ADOPTED BY GOVERNMENT IN 1957 . . . . 41",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.951927185058594,
+      6.016842842102051,
+      6.436140537261963
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.52,
+      198.63,
+      381.95,
+      206.49
+    ],
+    "text": "(i) Ceylon State Mortgage Bank (Amendment) Act, No. 18 of 1957 . . 41",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.240607738494873,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.88,
+      210.39,
+      382.14,
+      279.93
+    ],
+    "text": "(ii) Tax Reserve Certificates Act, No. 22 of 1957 . . . . . . 41 (iii) Bills of Exchange (Amendment) Act, No. 25 of 1957 . . . . 4 3 (iv) Foreign Loans Act, No. 29 of 1957 . . . . . . . . 43 (v) Bank Debits Tax Act, No. 42 of 1957 . . . . . . 4 4 (vi) Exchange Control (Amendment) Act, No. 47 of 1957 . . . . 47 (vii) Motor Transport Act, No. 48 of 1957 . . . . . . 47 (viii) Holidays (Amendment) Act, No. 57 of 1957 . . . . . . 47",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.240607738494873,
+      7.57487154006958,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.16,
+      289.7,
+      364.56,
+      296.23
+    ],
+    "text": "B\u2014MAJOB ADMINISTRATIVE MEASURES ADOPTED B Y THE MONETARY BOARD IN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.016842842102051,
+      6.182118892669678,
+      6.436140537261963
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.76,
+      298.95,
+      381.85,
+      317.85
+    ],
+    "text": "1957 . . . . . . 48 (i)\u2014Central Bank's Exchange Rates for U.S. Dollars . . . . 48",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.240607738494873,
+      7.7285380363464355,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      30.96,
+      330.15,
+      381.87,
+      338.01
+    ],
+    "text": "APPENDIX II\u2014STATISTICAL TABLES . . . . . . 49",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.240607738494873,
+      7.446508884429932,
+      7.526268005371094,
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.24,
+      348.26,
+      130.96,
+      354.79
+    ],
+    "text": "MONEY* AND BANKING",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.966530799865723,
+      6.016842842102051,
+      6.436140537261963
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.48,
+      361.35,
+      382.45,
+      500.97
+    ],
+    "text": "Table 1\u2014Money Supply . . . . . . . . 51 2\u2014Analysis of Changes in the Money Supply . . . . 52 3\u2014Currency Issue of the Central Bank . . . . . . 54 4\u2014Assets and Liabilities of Commercial Banks . . . . 56 5\u2014Assets and Liabilities of the Central Bank . . . . 60 6\u2014Accounts of the Central Bank of Ceylon as of 31st December, 1957 . . 64 7\u2014Money Rates . . . . . . 66 8\u2014Bank Clearings . . . . 68 9\u2014Reserve Position of Commercial Banks . . . . 70 10\u2014Purchases and Sales of Foreign Exchange by the Central Bank . . 70 11\u2014Development Finance Corporation of Ceylon\u2014Financial operations . . 71 12\u2014Bank Debits and Deposit Turnover . . . . . . 72 13\u2014State Mortgage Bank\u2014Loans granted, repaid and outstanding . . 73 14\u2014Agricultural and Industrial Credit Corporation\u2014-Loans granted, repaid",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.642219066619873,
+      7.658066749572754,
+      7.662179470062256,
+      7.706002712249756,
+      7.706427574157715,
+      7.709076404571533,
+      7.745185852050781,
+      7.912280082702637
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.52,
+      503.19,
+      381.87,
+      531.21
+    ],
+    "text": "and outstanding . . . . . . . . 74 15\u2014Savings Deposits and Savings Certificates . . . . 75 16\u2014Savings and Credit Institutions\u2014Current borrowing and lending rates.. 76",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.745185852050781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      48.0,
+      544.82,
+      134.29,
+      551.35
+    ],
+    "text": "GOVERNMENT FINANCE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.016842842102051
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.04,
+      557.67,
+      382.57,
+      636.57
+    ],
+    "text": "17\u2014Government Revenue and Expenditure . . . . 77 18\u2014Revenue of the Government of Ceylon . . . . 78 19\u2014Expenditure of the Government of Ceylon . . . . . . 78 20\u2014Receipts and Payments of the Government of Ceylon . . . . . 8 0 21\u2014Treasury Bills . . . . . . . . . . 84 22\u2014Net Cash Operating Surplus or Deficit . . 85 23\u2014Public Debt . . . . . . . . . . . . 86 24\u2014Prices and Yields of Selected Government Securities . . . . 88",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.685335636138916,
+      7.686254024505615,
+      7.698639392852783,
+      7.745185852050781,
+      7.912790298461914
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      370.32,
+      91.7,
+      390.3,
+      98.23
+    ],
+    "text": "PACE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.296463489532471
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      198.24,
+      46.08,
+      231.2,
+      53.83
+    ],
+    "text": "( 2 )",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.284978866577148,
+      7.636098384857178
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      372.96,
+      65.96,
+      392.71,
+      72.27
+    ],
+    "text": "PAGE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.947642803192139
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.8,
+      76.04,
+      128.56,
+      82.35
+    ],
+    "text": "EXTERNAL FINANCE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.923476219177246,
+      5.954085826873779
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.08,
+      88.8,
+      386.18,
+      127.51
+    ],
+    "text": "25A\u2014Balance of Payments for 1955-57 . . . . . . . . 00 25B\u2014Balance of Payments for 1957 by Quarters . . . . . . 92 25C\u2014Balance of Payments for 1957 by Regions and Monetary Areas . . 94 26\u2014External Assets of Ceylon . . . . \u2022 \u2022 . . 96",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.479689121246338,
+      7.619235515594482,
+      7.636098384857178
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      52.8,
+      143.72,
+      120.85,
+      150.03
+    ],
+    "text": "EXTERNAL TRADE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.910160541534424,
+      5.923476219177246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.52,
+      156.48,
+      387.51,
+      205.03
+    ],
+    "text": "27\u2014Total External Trade . . . . \u2022 \u2022 \u2022 \u2022 . . 97 28\u2014Central Bank Trade Indices . . . \u2022 \u2022 \u2022 . . 98 29\u2014Central Bank Trade Indices . . . \u2022 \u2022 \u2022 . . 100 30\u2014Central Bank Trade Indices . . . \u2022 \u2022 \u2022 . . 101 31\u2014Ceylon's International Trade in Merchandise by Regions and Monetary",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.585784435272217,
+      7.636098384857178
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      109.2,
+      208.08,
+      388.92,
+      215.83
+    ],
+    "text": "Areas . . . . \u2022\u2022 \u2022 \u2022 \u2022 \u2022 \u2022\u2022 '02",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.636098384857178
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.96,
+      229.16,
+      129.04,
+      235.47
+    ],
+    "text": "WAGES AND PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.808660507202148,
+      6.018508434295654,
+      6.217965602874756
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.48,
+      241.68,
+      388.01,
+      291.43
+    ],
+    "text": "32\u2014Cost of Living Index Numbers\u2014Colombo Town . . . . 1 0 3 33\u2014Minimum Wage Rate Index\u2014Tea and Rubber Estate Labour . . 103 34\u2014Colombo Market Prices of Selected Export Commodities . . . . 1 0 4 35\u2014F.o.b. Prices of Selected Export Commodities . . . . . . 106 36\u2014Indices of Share Prices . . . * \u2022 \u2022 . . 108",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.0,
+      7.343997955322266,
+      7.434678554534912,
+      7.572984218597412,
+      7.579613208770752,
+      7.583459377288818,
+      7.636098384857178,
+      7.83074426651001,
+      7.853550910949707
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      55.44,
+      306.68,
+      175.27,
+      312.99
+    ],
+    "text": "REGISTRANTS FOR EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.900092124938965,
+      5.971059322357178,
+      6.217965602874756
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.96,
+      319.2,
+      388.07,
+      326.95
+    ],
+    "text": "37\u2014Number of Registrants at Employment Exchanges . \u2022 . . 109",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.5961127281188965,
+      7.636098384857178
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      38.88,
+      341.76,
+      396.06,
+      349.51
+    ],
+    "text": "APPENDIX III\u2014CHARTS CHART",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.523346424102783,
+      7.386044979095459,
+      7.473069667816162
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.76,
+      355.92,
+      390.99,
+      514.63
+    ],
+    "text": "Money Supply . . . \u2022 \u2022 \u2022 . . 1 Sectoral Analysis of Money Supply . . . \u2022 . . 2 Savings . . . . . . . . . . . . 3 Government Net Cash Operating Surplus and Deficit . . . . 4 Public Debt . . . . . . 5 External Assets of Ceylon . . \u2022 \u2022 . . 6 Merchandise Exports and Imports . . . . . . 7 Export Price Index . . . \u2022 \u2022 \u2022 . . 8 Import Price Index . . . . \u2022 \u2022 . . 9 Terms of Trade . . \u2022\u2022 . . 1 0 Balance of Trade with United States and Canada . . . . 1 1 Cost of Living Index\u2014Lower Income Group, Colombo Town . . 12 Cost of Living Index\u2014Lower Income Group, Colombo Town by Com\u00admodity Groups . . \u2022. \u2022\u2022 . . 1 3 Minimum Wage rate Index, Tea and Rubber Estate Labour 14 Indices of Share Prices . . \u2022 \u2022 . . 1 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.434678554534912,
+      7.487186431884766,
+      7.5774149894714355,
+      7.602915287017822,
+      7.610548973083496,
+      7.618624687194824,
+      7.636098384857178,
+      7.8464035987854,
+      7.847652435302734,
+      7.853550910949707
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.72,
+      36.98,
+      235.67,
+      46.5
+    ],
+    "text": "( iii )",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.248830795288086,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      73.92,
+      64.92,
+      359.77,
+      76.1
+    ],
+    "text": "C E N T R A L B A N K O F C E Y L O N",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.55979061126709,
+      10.73644733428955,
+      11.950481414794922
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.44,
+      109.7,
+      280.72,
+      119.22
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      160.56,
+      122.9,
+      273.47,
+      132.42
+    ],
+    "text": "(As at December 31, 1957)",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.092034339904785,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.84,
+      163.59,
+      318.54,
+      171.45
+    ],
+    "text": "SIR ARTHUR RANASINHA, Kt., C.M.G., C.B.E:/",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.8100810050964355,
+      7.547403335571289,
+      8.400833129882812
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      195.36,
+      174.98,
+      406.48,
+      184.5
+    ],
+    "text": "Governor. \\ .",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.141925811767578,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      281.76,
+      180.36,
+      408.04,
+      204.96
+    ],
+    "text": "<[W if3 mar z r V",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.687580108642578,
+      12.417073249816895,
+      16.2840633392334,
+      18.751605987548828,
+      21.31938934326172
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.0,
+      207.89,
+      401.97,
+      229.38
+    ],
+    "text": "S. F. AMERASINGHE, O.B.E., ; ; J Permanent Secretary to the Ministry of Finqyice. \\.\\-y.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.547403335571289,
+      8.400833129882812,
+      8.846512794494629,
+      9.095410346984863,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      181.44,
+      238.95,
+      309.89,
+      246.81
+    ],
+    "text": "J. TYAGARAJA. \\ \\",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.547403335571289,
+      8.400833129882812
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      120.24,
+      263.78,
+      315.89,
+      273.3
+    ],
+    "text": "Principal Officers as at December 31, 1957",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.141925811767578,
+      9.534836769104004,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.76,
+      284.42,
+      394.94,
+      293.94
+    ],
+    "text": "D. W . RAJAPATIRANA, O.B.E Senior Deputy Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.52,
+      307.7,
+      395.18,
+      317.22
+    ],
+    "text": "W . TENNEKOON Deputy Governor",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.947628974914551,
+      8.248830795288086,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      332.31,
+      394.99,
+      340.17
+    ],
+    "text": "E. B. BENNETT Adviser",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.8100810050964355,
+      7.547403335571289,
+      8.400833129882812
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      354.26,
+      249.31,
+      363.78
+    ],
+    "text": "Department of Bank Supervision :\u2014 '",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.141925811767578,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      366.74,
+      394.94,
+      376.26
+    ],
+    "text": "P. V. M. FERNANDO Acting Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.141925811767578,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      34.8,
+      386.66,
+      395.97,
+      406.5
+    ],
+    "text": "Department of Banking and Currency :\u2014 S. D . AMERASLNGHE Acting Chief Accountant",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.141925811767578,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      419.78,
+      394.94,
+      438.9
+    ],
+    "text": "Department of Economic Research :\u2014 S. E . P. JANSZ Acting Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.141925811767578,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      452.9,
+      399.05,
+      472.5
+    ],
+    "text": "Department of Establishments .\u2014 C. L. B. PERERA Establishments Officer",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.248830795288086,
+      9.141925811767578,
+      9.145930290222168,
+      10.175657272338867
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      486.02,
+      395.0,
+      505.05
+    ],
+    "text": "Department of Exchange Control:\u2014 A. H . ABEYNATKE Controller",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      6.8100810050964355,
+      7.547403335571289,
+      8.400833129882812,
+      9.080231666564941,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.52,
+      519.14,
+      395.05,
+      537.93
+    ],
+    "text": "Department of Public Debt :\u2014 C. L. B. PERERA Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.547403335571289,
+      8.400833129882812,
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      35.28,
+      552.5,
+      395.39,
+      571.29
+    ],
+    "text": "Secretariat:\u2014 P. M. JAYARAJAN Secretary",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.547403335571289,
+      8.400833129882812,
+      9.435419082641602
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      198.48,
+      593.78,
+      232.27,
+      603.3
+    ],
+    "text": "Auditor",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      9.373093605041504
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      173.76,
+      611.19,
+      257.15,
+      619.05
+    ],
+    "text": "A. WEERASINGHE,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.8100810050964355,
+      7.547403335571289
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      126.72,
+      625.94,
+      305.82,
+      635.46
+    ],
+    "text": "Auditor-General to the Ceylon Government.",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      9.141925811767578
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      162.48,
+      141.53,
+      240.57,
+      156.78
+    ],
+    "text": "Mli' 2009 j \u2022,\u2022-;]",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.11408519744873,
+      9.61444091796875,
+      11.217568397521973,
+      11.948201179504395
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{ 50 )
+
+million. Total purchases (spot and deliveries under forward contracts) amounted, therefore, to Es. 555 • 6 million and total sales to Rs. 627 • 3 million.
+
+Income and Expenditure.—The income of the Central Bank for the year amounted to Rs. 20,646,598 • 54 and expenditure including an allocation to reserves of a sum of Rs. 9,171,594 05 in terms of Section 38 of the Monetary Law Act amounted to Rs. 14,646,598-54. The net profit of Rs. 6 million was credited to Surplus in terms of Section 39 (b) of the Monetary Law Act as the total of the Capital Accounts of the Bank as at the end of December, 1958, was less than 15 per cent of the difference between the total assets of the Bank and its assets in foreign currencies. The Surplus now stands at Rs. 18 million.
+
+Bank Supervision.—In the year 1958, 11 examinations of commercial banks were conducted by the Department of Bank Supervision in terms of Section 29(1) of the Monetary Law Act.
+
+This Department also continued to perform certain functions connected with the implementation of the Bank Debits Tax Act, No. 42 of 1957.
+
+VI. PERSONNEL
+
+Sir Arthur Ranasinha, Governor, left the island on September 22, 1958, to attend the Annual Meeting of the International Monetary Fund and the Interna­tional Bank for Reconstruction and Development which was held in New Delhi. Mr, D. W. Rajapatirana, Senior Deputy Governor, who had been nominated by the Government as a Ceylon Representative to the Thirteenth Session of the United Nations General Assembly at New York, left the island on September 10, 1958, and resumed duties in the Central Bank with effect from December 22, 1958. In terms of section 24 of the Monetary Law Act, Mr. W. Tennekoon, Deputy Governor,, was designated Senior, with effect from the date of Mr. D. W. Rajapatirana's depar­ture until his return from duty abroad.
+
+Dr. Michael Greenberg was appointed Director of Economic Research and assumed duties on May 8,1958. Consequent to the passing of the Employees' Provi­dent Fund Act No. 15 of 1958, a new Department of the Central Bank known as the Employees' Provident Fund Department was established with effect from August 1, 1958, in terms of section 33 of the Monetary Law Act, and Mr. H. L. D. Selvarat-nam was appointed to officiate as Superintendent of the Department. Mr. C. L. B. Perera, Superintendent of Public Debt, entered on leave prior to retirement on August 18, 1958, and Mr. 0. B. Gunawardana was appointed to officiate. The services of Mr. D. C. Gunesekera, Chief Accountant, were released for a further year from November 1, 1958, for appointment as Alternate Executive Director in the International Bank for Reconstruction and Development. Mr. P. M. Jayarajan, Secretary, was appointed as Assistant to the Governors with effect from December 8, 1958, and Mr. S. E. P. Jansz was appointed Secretary, with effect from the same date. Besides Dr. Gamani Corea, one other Staff Officer attached to the Economic Research Department continued to work full time in the Planning Secretariat. Other Staff Officers of the Research Department assisted various Ministries from time to time during the year on special assignments.

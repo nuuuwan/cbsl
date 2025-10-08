@@ -1,0 +1,39 @@
+( 82 );,
+
+(F) CENTRAL BANKING
+
+The international reserve of the Central Bank which stood at Rs. 152.1 million in December 1962, declined by Rs. 4.1 million in January 1963, but continued to expand steadily until it reached a peak of Rs. 249.4 million in June. Thereafter it fell steadily to Rs. 178.2 million in September, moved up to Rs. 194.5 million in October, and dropped sharply again to Rs. 114.2 million by December. Thus over the year the international reserve declined by Rs. 37.9 million or 24.9 per cent (reflecting entirely a fall in cash and balances abroad), compared with a similar contraction of Rs. 32.6 million or 17.7 per cent in 1962. At the end of 1963, the international reserve of the Central Bank constituted 24.7 per cent of the country's total external assets compared with 30.2 per cent in 1962. As a proportion of Central Bank's total currency and demand liabilities, the international reserve declined from 13.9 per cent in 1962 to 9.3 per cent in 1963.
+
+The domestic assets of the Central Bank, on the other hand, increased by Rs. 194.0 million or 17.6 per cent, to Rs. 1,294.4 million in 1963, reflecting mainly increases in the portfolio of Government and Government-guaranteed securities by Rs. 139.5 million or by 15.8 per cent, loans and advances to Government by Rs. 7.0 million, and Central Bank advances to commercial banks by Rs. 37.9 million. Thus in 1963, the total Government indebtedness to the Central Bank increased by Rs. 146.5 million as against Rs. 178.9 million in 1962.
+
+The total deposit liabilities of the Central Bank increased in 1963 by Rs. 24.3 million largely as a result of a rise of Rs. 21.1 million in the deposits of international organizations.
+
+The currency issue of the Central Bank rose steadily throughout 1963, at a much higher rate than during the preceding year. The increase in 1963 was Rs. 111.5 million or 14.1 per cent compared with Rs. 25.6 million or 3.3 per cent in 1962. The currency held by the Government and the banks declined by Rs. 1.2 million and Rs. 3.1 million but the holdings of the private sector rose sharply by Rs. 115.8 million or by 16.2 per cent.
+
+Credit Policy
+
+In 1963, particularly in the latter half of the year, there was a sharp increase in commercial bank credit to the private sector—largely through the medium of the Ceylonese banks. During the year the Central Bank did not further intensify the existing restraints both overall and selective on commercial bank credit. However, these developments were kept under continuous review. Although the long-term objectives of the extension of banking and credit facilities for productive purposes is important, it would clearly be undesirable if the total of credit creation assumed exces­sive proportions particularly in the context of prevailing inflationary trends. The scope available to the monetary authority to pursue long-term objectives is itself dependent on the success achieved by the Government in restraining the quantum of fiscal expansion.
+
+In 1963, there was no direct evidence of a channelling of loan funds into non­essential purposes on a substantial scale. Although the total volume of bank credit to all forms recorded an increase of Rs. 136.9 million in 1963 about Rs. 25 million
+
+( 83 )
+
+of this increase represented an addition to export and import bills purchased by commercial banks, a further Rs. 25 million represented other forms of export and import credit required for facilitating the movement of exports and imports permitted within the present stringent framework of import restrictions. About another Rs. 31 million of the increase was for financing other trading activities and Rs. 14 million consisted of short-term advances granted by Ceylonese banks under the Guaranteed Price Scheme necessary for the purpose of mobilising domestically produced stocks of rice.
+
+The balance of about Rs. 42 million is accounted for partly by loans connected directly with production and distribution—(bank accommodation for industrial production rose by Rs. 17 million) partly by accommodation provided to the co­operative societies and partly by loans which could be a direct substitution of bank credit for non-institutional forms of credit which are normally obtained on terms which are highly onerous to the borrower. Loans granted for consumption purposes and for financial purposes actually declined by Rs. 13 million and Rs. 15 million respectively.
+
+It is, of course, possible that some loans, particularly in the smaller categories, obtained for productive purposes might have been diverted to consumption. Moreover, even loans for productive purposes may have an inflationary impact in the short run. For these reasons, it is important that recent developments continue to be kept under close scrutiny so that the policy of the Central Bank could be directed, if necessary, towards restraining an excessive expansion in overall credit.
+
+The final stages of the scheme for amalgamating certain long-term credit institutions with the objective of expanding their scope of operations and of bringing them into closer alignment with the requirements of economic growth was further studied by the Central Bank in 1963. Proposals for ensuring an adequate supply of trained banking personnel necessary for the consolidation and the progressive extension of banking facilities, by the establishment of training programmes in association with commercial banks, were also under consideration.* Working arrange­ments were being finalized during the year for a scheme of stimulating the flow of medium and long-term credit both through long-term credit institutions and through the commercial banking system by providing refinance facilities at the Central Bank within the framework of amendments introduced by the Finance Act 1963 to the Monetary Law Act.
+
+For the latter purposes a "Medium and Long-term Credit Fund" is to be created at the Central Bank. The capital resources of this fund will come partly from capital repayments of loans granted out of the resources of the fund, from interest charges on loans granted, and from such funds which may be transferred to the fund out of the reserves of the Central Bank from time to time by the Monetary Board. The resources of the fund will be utilized by the Bank to provide financial accommodation to credit institutions in respect of advances made by such institutions for "productive purposes". The law requires that the accommodation provided by the Central
+
+'Classes under this training programme commenced in February, 1964.
+
+( 84 )
+
+Bank from this fund must be repayable within a period not exceeding 15 years and should be secured by an assignment to the Bank by way of pledge of debts owned to such institutions and of mortgages given as security to such institutions.
+
+Further the Monetary Board may prescribe such conditions as it may deem necessary subject to which loans and advances will be made available out of this fund. The Monetary Board may also prescribe the rate of interest to be charged by the Central Bank on such loans and advances, the rates of interest to be charged by the borrowing institutions, the purposes for which loans are made and any other matter connected with the credit policy of the borrowing institution.
+
+For purposes of this scheme "credit institutions" mean any banking institution as denned by the sub-section (1) of Section 127 of the Monetary Law Act and includes the Development Finance Corporation, while "productive purposes" mean any such purpose relating to the promotion and the development of agriculture, industry trade, commerce or business as the Monetary Board may from time to time determine.

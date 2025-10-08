@@ -1,0 +1,107 @@
+( 51 )
+
+III. POLICIES AND MEASURES
+
+In the Annual Report of 1958 attention was drawn to the inherent limits imposed upon Central Banking by the specific conditions of an under-developed economy such as that of Ceylon. The two most significant conditions inhibiting central banking in Ceylon, as stressed in last year's Report, are the rudimentary nature of the money market and the fact that important factors determining the level of economic activity are outside the Central Bank's control. In 1959 the Govern­ment 's fiscal policy which is such a factor assumed a magnitude much greater than in previous years. The ability of the Central Bank to take effective monetary action in 1959 was severely limited by fiscal and other policies to which the Government was committed. There is, of course, much theoretical argument in many countries about the efficacy of monetary weapons to accomplish their aims solely, without the support of Government measures in other fields. In the case of Ceylon during 1959, owing to the unsettled political situation the Government was unable effectively to support the aims of monetary policy.
+
+Central banking action in 1959 arose principally out of two distinct but related problems in the monetary sphere, the critical financial position of the Government and the rapid decline in external assets. These two problems are distinct in that the one was a budgetary and the other a balance of payments problem but related in that the rapid decline in external assets arose mainly out of the method by which the Government sought to overcome its financial difficulties. Apart from these two problems, liquidity conditions of the commercial banks required credit accommo­dation by the Central Bank but to a lesser extent than in the previous year.
+
+As has been discussed earlier in this Report, the Government's financial pro­blems in 1959 were brought about largely by the unrealistic approach to the financing of the budgetary deficit. The financial difficulties arising from the failure of Govern­ment's expectations in relation to foreign aid could have been met either by reducing the gap between revenue and expenditure, or by increased domestic borrowing, or both, which will be discussed presently.
+
+During the year the Central Bank as financial adviser to the Government re­peatedly suggested the consideration of a number of remedial measures to reduce the budgetary gap, but for various reasons the Government either postponed or could not carry out the suggestions. On the revenue side, apart from the budgetary proposals of July 1959, the only increase made in 1959 was in the export duty on rubber, which was raised twice—in September and in November. These changes in the rubber duty, coming as they did towards the end of the year, did not have an appreciable impact on the Government's financial position in 1959. On the expendi­ture side, there was in fact an increase in expenditure chargeable to revenue of about Rs. 85 million. A substantial shortfall in loan fund expenditure amounting to Rs. 176 million, however, helped to reduce the budgetary gap although it was not a satisfactory feature from the point of view of economic growth.
+
+The resulting actual net cash operating deficit for 1958/59 of Rs. 413 million was roughly twice that of the previous financial year. The Government's cash requirements in the first quarter of 1959/60 were also substantially higher than in the first quarter of 1958/59.
+
+Thus the fiscal situation in 1959 required a volume of government borrowing which was far in excess of the amount borrowed in 1958. While the non-bank sector could not cope with such an enormous demand for funds by the Government, it was nevertheless able to absorb a substantially greater volume of government paper than in 1958. The reasons for this remarkable increase have been analysed in earlier sections of this Report. One of these reasons was that in 1959 there wa.s no issue
+
+( 52 )
+
+of debentures by either the' State Mortgage Bank or the National Housing Fund which normally enter the market every year. In view of the magnitude of the Govern­ment's cash requirements in 1959 the Central Bank arranged that these institutions should not enter directly into the market but should obtain their requirements of cash from the Treasury, or by other means.
+
+The liquidity position of the commercial banks improved somewhat in relation to 1958 and they were able to increase their holdings of Government paper as com­pared with a reduction in 1958. But this liquidity position was not such as to enable them to absorb any big issues of Government paper. This still left a substantial budgetary gap for which finance was required. In the absence of other sources of borrowing the Government bridged this gap by borrowing from the Central Bank. Since the unused credit avaitable under Section 88 of the Monetary Law Act which limits the outstanding amount of Central Bank advances to Government to 10 per cent of estimated revenue, (which in 1959 was about Rs. 133 million), was relatively small, the Government obtained the required funds from the Central Bank through the issue of Treasury bills. The Government used this device on a substantial scale in 1959. Over the year the volume of Treasury bills outstanding increased by Rs. 255 million; over the same period the Central Bank's holdings of Government Treasury bills increased by Rs. 191.5 million. The statutory limit on Treasury bills was raised twice by Parliament during the year from Rs. 200 million to Rs. 350 million in April and, when this was exhausted, from Rs. 300 million to Rs. 450 million in October. At the end of 1959 the outstanding volume of Treasury bills was Rs. 420 million and by the end of January 1960 the statutory limit of Rs. 450 million had been reached.
+
+The effect on the economy of the Government's inflationary deficit financing on this scale was to swell the demand for goods and services. The expansion of demand arose from both the increased direct expenditure of Government on goods and services and indirectly through the resultant increase in private incomes. It is difficult to gauge the precise extent to which the domestic supply situation responded to the increased demand owing to the absence of adequate statistical data. On the other hand, however, the increased demand generated by Government clearly led to a substantial rise in the volume of imports. The volume of imports in 1959 was the largest on record. Consequently there was a substantial decline in external assets in spite of an improvement in export receipts. Over the year the total value of Ceylon's external assets declined by Rs. 194.5 million.
+
+Though the Central Bank was aware of the adverse effects of Government's fiscal policy on the balance of payments situation and external assets, the Central Bank in its statutory function as agent of the Government responsible for the manage­ment of the public debt could not abandon its role of co-operation with the Treasury to meet expenses as had been budgeted. The Central Bank had also to take into consideration that tax measures as had been introduced, novel as they were, would take some time to be fully effective, However, the Monetary Board, mindful of its statutory obligations, repeatedly advised the Government of the dangers inherent in the situation which was seen to be developing.
+
+Since the pressure on the balance of payments was essentially of fiscal origin— the increase in commercial bank lending to the private sector was small in relation to the inflationary deficit financing of the Government—the Central Bank felt that it was inappropriate to curb the supply of commercial bank credit to the private sector which in any event was not large. The Central Bank was also mindful of the fact that the restriction of credit to the private sector would have had adverse effects on the domestic economy involving higher costs, both of production and of living. In the circumstances the Central Bank was against restriction of credit to the private sector unless the external assets position became very grave.
+
+( 53 )
+
+The original budget estimates for 1959/60 presented to Parliament in July 1959 held forth prospects of a reduction in the level of deficit financing. Nevertheless the Government and the Central Bank were of opinion well before the close of the financial year 1958/59 that action on a number of fronts (in addition to some action on Exchange Control which had already been taken to limit certain capital and current remittances) would require to be considered early in the next financial year. However, the unsettled political conditions that prevailed between the end of September 1959 and the end of November 1959 rendered such positive action unattainable. In the meanwhile, in spite of a loan of Rs. 25 million floated in October 1959, the Treasury had to finance its expenditures increasingly by resort to three months' Treasury Bills . despite the fact that no significant tenders were forthcoming to absorb these additional issues of Treasury Bills, let alone the repayment of outstanding Treasury Bills as they fell due fortnightly. On December 15, 1959 the Treasury Bills rate rose to 2.03%, and on December 16, 1959, the Monetary Board taking account of the economic and financial situation, raised the Bank rate from 2\% to 3%. The Monetary Board had also in hand suggestions for floating a loan and certain other monetary measures of a selective nature. However, on December 23, 1959, the Minister of Finance who had earlier agreed to the increase in the Bank rate, issued a directive to the Monetary Board to restore the Bank Rate to its previous level in terms of Section 115(2) of the Monetary Law Act which states as follows :—
+
+' 'In the event of any difference of opinion between the Minister of Finance and the Monetary Board as to whether the monetary policy of the Board is directed to the greatest advantage of the people of Ceylon, the Minister of Finance and the Board shall endeavour to reach agreement. If the Minister of Finance and the Board are unable to reach agreement, the Minister of Finance ma> inform the Board that the Government, accepts responsibility for the adoption by the Board of a policy in accordance with the opinion of the Government and direct that such a policy be adopted by the Board. Where a direction is so given by the Minister of Finance, the Board shall carry out that direction."
+
+The Monetary Board thereupon reduced the Bank Rate to 2\ per cent with effect from December 24, 1959. With the restoration of the Bank rate and in view of the Government's attitude on financial policy, the Central Bank had to abandon the plans of monetary control which it had contemplated.
+
+In its public debt policy, the Central Bank continued to tap private lenders as far as possible. In 1959 the amount coming in from private sources increased but the need to stimulate savings further was considered imperative. In September 1959, the Central Bank had a discussion with the Commissioner, National Savings Movement and suggested certain improvements for ensuring the effectiveness of the national savings campaign as a strong arm of the Government in mobilising savings-
+
+In view of the increased demand for funds by the Government the Central Bank had been studying for some time the possible response of supply of funds to Govern­ment to a rise in yields. As far as short-term borrowing was concerned, general tightness prevailed in the money market and the Treasury Bill rate rose gradually from 1.71 percentin January to 2.00 per cent in June. After June, the market demand for Treasury Bills failed to keep up with the increasing supply and the Central Bank had to take up an increasing share of the fortnightly tender. During the period after June when the Central Bank was the main purchaser of Treasury Bills the Treasury Bill rate remained at 2.00 per cent. In December, however, the market support for Treasury Bills strengthened and the rate rose to 2.03 per cent on December 13th and 2.08 per cent at the end of the year.*
+
+While the Bank felt that higher rates would not generally evoke substantially more funds in the short-term market it was more inclined to explore the possible
+
+* The Treasury bill rate rose further to 2-43% on March 15, I960,
+
+( 54 )
+
+response at the long-end of the market. With this in view the Central Bank introduced a significant c h a n g e in 1959. The rate on a 16-20 year loan which had hitherto been at 3£% was increased to 3^ per cent in November 1959 in the issue of the Ceylon Government 3i per cent loan 1975/79. It remains a matter for consideration whether the long term requirements of a higher level of savings and investments will be achieved on the current interest pattern or on a different pattern.
+
+Central Bank Advances to Commercial Banks.—As pointed out earlier, liquidity conditions of commercial banks also required Central Bank action in 1959. The tightness in the money market led to frequent borrowing by commercial banks from the Central Bank—although to a lesser extent than in the previous year. As the increase in commercial bank credit during the year was small and the greater part of it was for the export and import trade in essential goods, the Central Bank per­mitted the commercial banks to borrow against Government securities at the prevailing Bank Rate.
+
+Foreign Loan Agreements- During the year 1959, the Central Bank's advice was sought in connection with the following foreign loan agreements concluded by the Ceylon Government:—
+
+1. An Agreement for a loan of $2.2 millon with the Export-Import Bank of the U. S. A. under P. L. 480, on March 25, 1959. The loan carries an interest rate of 4 per cent per annum if payment is made in U. S. dollars and 5 per cent per annum if payment is made in local currency. Repayment of principal is to be made in semi-annual instalments over a period of 26 years from October 1, 1963, commencing with $1,055 and progressing to $97,982 being the last instalment.
+
+2. Another loan for $5.86 million was concluded with the Export-Import Bank of the U. S. A. under P. L. 480 on September 23, 1959. The loan carries an interest rate of 3J per cent per annum. Repayment of principal commences 4 years after the end of the month in which the first disburse­ment is made. Payment is to be made in semi-annual instalments over a period of 30 years, starting with $2,957 and progressing to $254,804.
+
+3. A line of credit corresponding to the value of £ 5.5 million with the Federal People's Republic of Yugoslavia. The credit is to cover 90 per cent of the value of capital goods to be supplied to Ceylon by Yugoslavia; the balance 10 per cent being payable in cash by the importers between the date of signing of the contract and the final shipment of goods. The credits are to be repaid within a period not exceeding 8 years in semi-annual instal­ments, the first instalment being due six months from the final date of ship­ment under each contract. Interest will be payable on the amounts of credit utilised at a rate of 3 per cent per annum commencing from the date of the bill of lading. No utilization of the credit had yet been made during 1959.
+
+4. Negotiations were completed for a line of credit of £ 2,500,000 (approximate­ly Rs. 33 million) from the U. K. Government under the Commonwealth Assistance Loans scheme to be utilised for the purchase of equipment for the reconstruction of the Island's telephone system. The credit will carry interest at the rates at which the U. K. Government can itself borrow plus a management charge of one quarter of one per cent. The repayment of the loan is to be made in instalments within a period of 5 years from the date of delivery of the equipment,
+
+( 55 )
+
+International Monetary Developments.—During 1959 Ceylon's quota in the Inter­national Monetary Fund was increased by $30 million, 25 percent of which was paid in gold. The increase became effective in September, 1959 and Ceylon's quota in the Fund at present is $45 million. As far as Ceylon is concerned the importance in the enhanced quota lies in the fact that it provides for an added line of reserves against payments difficulties that may arise from possible swings in our balance of payments.
+
+In the international sphere an overall increase in quotas would enable the Fund to have a greater flexibility of action and assure members of support within a wider range of normal drawings and also provide the Fund with additional gold reserves. The increase in international liquidity resulting therefrom is certainly a welcome step in meeting some of the pressing problems of the member countries and so sustaining international economic activity.
+
+Pursuant to an increase in Ceylon's quota in the International Monetary Fund, Ceylon's subscription to the International Bank for Reconstruction and Develop­ment was increased to $60 million.
+
+IV. ACCOUNTS AND OPERATIONS OF THE CENTRAL BANK
+
+Financial accounts of the Central Bank for the year 1959 are given in Table 6 in Appendix II. The main changes in comparison with 1958 were—
+
+Change
+
+Rs. Million Per cent
+
+Total demand liabilities + 73-2 + 10 0 Currency circulation + 43 0 +' 7-4 Demand deposits' + 30-3 + 20 0 (of which commercial banks) + 3-9 : + : 4-3 .. International Reserve — 152 0 — 28-2 Domestic Assets + 252-8 + 96-9 Government and Government Guaranteed Securities + 191 0 + 124-5
+
++ Increase — Decrease
+
+The ratio of the International Reserve to currency and demand liabilities decreased from 73.8 per cent at the end of 1958 to 48.2 per cent at the end of 1959.
+
+The Central Bank's rates for U. S. dollars were changed from time to time (as shown in Appendix I) in alignment with movements in the Sterling-Dollar rate..
+
+There were no changes during the year in the Central Bank's rates for Sterling and the Indian rupee which were—
+
+Sterling (per Ceylon rupee) •••
+
+Indian rupees (per 100)
+
+Spot Forward (up to six months)
+
+Spot Forward (up to six months)
+
+T.T. Buying
+
+I sh. 6 3/64d. I /128c/. per month
+
+discount against spot. Rs. 99 3/4 . I /32 of a rupee per
+
+month discount against spot ;
+
+T X Selling
+
+\sh.6 l/32<f. I/I28d. per month premium against-.
+
+spot Rs. 99 13/16 I '32 of a rupee per month premium-'against spot ;.
