@@ -1,0 +1,4820 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      210.49,
+      180.09,
+      370.98,
+      193.27
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      477.24,
+      219.69,
+      524.6,
+      232.9
+    ],
+    "text": "Table No.",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      247.05,
+      136.5,
+      259.04
+    ],
+    "text": "1. REAL SECTOR",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      272.49,
+      510.42,
+      312.07
+    ],
+    "text": "Population and Labour Force 1 National Output 2 Prices 3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      325.05,
+      160.66,
+      337.04
+    ],
+    "text": "2. EXTERNAL SECTOR",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      350.49,
+      510.42,
+      376.87
+    ],
+    "text": "Balance of Payments 4 Reserves, Total Foreign Assets, External Debt and Exchange Rates 5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      389.85,
+      143.33,
+      401.84
+    ],
+    "text": "3. FISCAL SECTOR",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      415.29,
+      510.42,
+      441.67
+    ],
+    "text": "Government Fiscal Operations 6 Government Debt 7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      454.65,
+      510.42,
+      506.47
+    ],
+    "text": "4. MONETARY SECTOR Monetary Survey (M2) 8 Interest Rates 9",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.413000106811523,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      520.65,
+      232.19,
+      532.64
+    ],
+    "text": "5. SOCIO-ECONOMIC CONDITIONS",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      546.09,
+      276.82,
+      559.27
+    ],
+    "text": "Key Socio-economic Indicators in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      56.88,
+      559.29,
+      513.44,
+      673.38
+    ],
+    "text": "Based on Consumer Finances and Socio-economic Surveys - 1953 - 2003/04 10 Key Socio-economic Indicators by Province Based on Consumer Finances and Socio-economic Survey - 2003/04 11 Key Socio-economic Indicators by Province Based on Household Income and Expenditure Survey - 2012/13 12 Key Socio-economic Indicators by Sector Based on Household Income and Expenditure Survey 2006/07, 2009/10 & 2012/13 13",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.27,
+      80.42,
+      532.87,
+      106.58
+    ],
+    "text": "REAL SECTOR TABLE 1Population and Labour Force",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      51.27,
+      112.21,
+      104.54,
+      137.41
+    ],
+    "text": "YearMid YearPopulation(\u2018000)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      116.13,
+      112.21,
+      144.66,
+      137.41
+    ],
+    "text": "BirthRate(per \u2018000)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      147.32,
+      112.21,
+      175.84,
+      137.41
+    ],
+    "text": "DeathRate(per \u2018000)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      188.29,
+      109.38,
+      264.95,
+      137.97
+    ],
+    "text": "Life Expectancyat Birth (a)LiteracyRate(%) (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.55,
+      109.38,
+      498.78,
+      126.17
+    ],
+    "text": "Labour ForceParticipation Rate (%) (b)(c)UnemploymentRate (%) (b)(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      187.22,
+      131.09,
+      516.15,
+      139.48
+    ],
+    "text": "MaleFemale Total MaleFemaleTotalMaleFemale",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      49.95,
+      142.99,
+      536.73,
+      654.85
+    ],
+    "text": "19507,54439.7 (d)12.6---------19517,74239.8 (d)12.9---------19527,94038.8 (d)12.057.655.5-------19538,09838.7 (d)10.958.857.569.037.053.118.9---19548,38535.7 (d)10.4---------19558,58937.311.0---------19568,92936.49.8---------19579,16536.510.1---------19589,38835.89.7---------19599,62537.09.1---------19609,89636.68.6---------196110,16835.88.0---------196210,44335.58.561.961.4-------196310,58234.18.563.363.777.032.749.814.27.7 (d)7.3 (d)9.0 (d)196410,90333.28.8---------196511,16433.18.8 (d)---------196611,43932.38.3---------196711,70331.9 (d)7.5---------196811,99232.07.9---38.657.319.514.311.220.1196912,25230.48.1---------197012,51429.47.5---------197112,69030.47.764.0 (d) 66.9 (d)78.535.450.719.118.714.331.1197212,86130.08.1---------197313,09128.07.7--80.834.448.520.218.313.726.8197413,28427.59.0---------197513,49627.88.5---36.650.222.119.714.333.1197613,71727.87.8---------197713,94227.97.4---------197814,19028.56.6---38.050.426.214.89.224.9197914,47228.96.5--86.2------198014,74728.46.2---------198114,84728.25.967.772.187.233.849.417.117.913.0 (d)32.9 (d)198215,19626.96.1---34.349.719.411.77.821.3198315,41726.36.2---------198415,60325.16.5---------198515,84224.66.2---38.952.725.413.2 (d)9.8 (d)20.3 (d)198616,12722.46.0------15.511.323.6198716,37321.86.0--88.6------198816,59920.75.8---------198916,82521.66.3---------199017,01520.86.0---51.9 (e)67.7 (e)36.2 (e)15.9 (e)11.1 (e)23.4 (e)199117,26721.75.869.574.286.649.8 (e)65.2 (e)31.1 (e)14.7 (e)10.1 (e)23.0 (e)199217,42621.5 (d)5.9 (d)---48.2 (e)64.3 (e)31.1 (e)14.6 (e)10.7 (e)22.8 (e)199317,64620.8 (d)5.7 (d)---49.1 (e)65.3 (e)33.1 (e)13.8 (e)9.7 (e)21.7 (e)199417,89120.8 (d)5.9 (d)--90.148.7 (e)65.4 (e)32.0 (e)13.1 (e)9.7 (e)20.1 (e)199518,13619.9 (d)6.0 (d)---47.9 (e)64.4 (e)31.7 (e)12.3 (e)9.0 (e)18.7 (e)199618,33619.5 (d)7.0 (d)70.775.4-48.6 (e)65.9 (e)31.6 (e)11.3 (e)8.2 (e)17.7 (e)199718,56818.8 (d)6.4 (d)--91.848.7 (e)65.7 (e)32.0 (e)10.5 (e)7.7 (e)16.1 (e)199818,78418.2 (d)6.2 (d)---51.7 (e)67.3 (e)36.4 (e)9.2 (e)6.5 (e)14.6 (e)199919,05618.1 (d)6.3 (d)---50.7 (e)67.7 (e)34.1 (e)8.9 (e)6.7 (e)13.0 (d)200019,10218.26.1---50.3 (e)67.2 (e)33.9 (e)7.6 (e)5.8 (e)11.0 (e)200118,797 (f)19.16.068.8 (d)77.2 (d)90.748.8 (e)66.2 (e)31.9 (e)7.9 (e)6.2 (e)11.5 (e)200218,921 (f)19.45.9---50.3 (e)67.9 (e)33.6 (e)8.8 (e)6.6 (e)12.9 (e)200319,173 (f)19.36.0---48.9 (g)67.2 (g)31.4 (g)8.4 (g)6.0 (g)13.2 (g)200419,435 (f)18.85.9--92.548.6 (h)66.7 (h)31.5 (h)8.3 (h)6.0 (h)12.8 (h)200519,644 (f)18.96.775.667.990.748.3 (i)(j)67.1 (i)(j)30.9 (i)(j)7.7 (i)(j)5.5 (i)(j)11.9 (i)(j)200619,858 (f)18.85.9--91.551.2 (e)68.1 (e)35.7 (e)6.5 (e)4.7 (e)9.7 (e)200720,039 (f)19.35.970.377.991.149.8 (e)67.8 (e)33.4 (e)6.0 (e)4.3 (e)9.0 (e)200820,246 (f)18.5 (d)6.1 (d)--91.349.5 (g)67.8 (g)33.2 (g)5.4 (g)3.7 (g)8.4 (g)200920,476 (f)18.0 (d)6.2 (d)--91.448.7 (g)66.6 (g)32.8 (g)5.8 (g)4.3 (g)8.6 (g)201020,675 (f)17.66.3 (d)--91.948.1 (g)67.1 (g)31.2 (g)4.9 (g)3.5 (g)7.7 (g)201120,892 (d)(f)17.3 (d) 5.9 (d)--92.2 (d)52.9 (d)(j)(k)(l)74.0 (d)(j)(k)(l)34.3 (d)(j)(k)(l)4.2 (d)(j)(k)(l)2.7 (d)(j)(k)(l)7.1 (d)(j)(k)(l)201220,425 (d)(m)17.6 (d)6.0 (d)72.078.6 92.7 (d)52.5 (d)(j)(k)(l)74.9 (d)(j)(k)(l)32.9 (d)(j)(k)(l)4.0 (d)(j)(k)(l)2.8 (d)(j)(k)(l)6.3 (d)(j)(k)(l)201320,585 (d)(m)17.8 (d)6.2 (d)--92.4 (d)53.7 (d)(j)(k)(l)74.9 (d)(j)(k)(l)35.4 (d)(j)(k)(l)4.4 (d)(j)(k)(l)3.2 (d)(j)(k)(l)6.6 (d)(j)(k)(l)201420,771 (k)(m)16.9 (k)6.2 (k)--93.2 (d)53.2 (d)(j)(k)(l)74.6 (d)(j)(k)(l)34.6 (d)(j)(k)(l)4.3 (d)(j)(k)(l)3.1 (d)(j)(k)(l)6.5 (d)(j)(k)(l)2015 20,966 (k)(m)16.0 (k)6.3 (k)--93.253.8 (d)(j)(k)(l)74.7 (d)(j)(k)(l)35.9 (d)(j)(k)(l)4.7 (d)(j)(k)(l)3.0 (d)(j)(k)(l)7.6 (d)(j)(k)(l)2016 (k) 21,203 (m)15.66.2---53.8 (j)(l)75.1 (j)(l)35.9 (j)(l)4.4 (j)(l)2.9 (j)(l)7.0 (j)(l)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      45.63,
+      656.72,
+      401.9,
+      757.52
+    ],
+    "text": "(a) From 2006, based on Quarterly Labour Force Survey (QLFS) of the DCS. Up to 2005, data are available only in census years and some survey years.(b) From 1990, based on QLFS of the DCS. Up to 1989, based on other surveys in which the definitions may differ.(c) Data up to 2010 are for household population aged 10 years and above and from 2011 onwards are for those aged 15 years and above.(d) Revised(e) Data excluding both Northern and Eastern provinces.(f) Based on Census of Population and Housing - 2001. (g) Data excluding the Northern province. (h) Data excluding both Mullaitivu and Killinochchi districts. (i) QLFS was conducted as a one-off survey in August 2005.(j) Data covers the entire island.(k) Provisional(l) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.(m) Based on the Census of Population and Housing - 2012.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      415.23,
+      656.8,
+      517.13,
+      676.6
+    ],
+    "text": "Sources: Registrar General\u2019s Department Department of Census and Statistics Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      59.77,
+      79.46,
+      539.09,
+      103.4
+    ],
+    "text": "REAL SECTOR TABLE 2National Output (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      63.92,
+      123.02,
+      74.66,
+      130.21
+    ],
+    "text": "Year",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      95.85,
+      103.91,
+      115.61,
+      139.91
+    ],
+    "text": "GDP atCurrentMarketPrices(Rs. mn)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      129.64,
+      103.91,
+      152.69,
+      139.91
+    ],
+    "text": "GDP atCurrentMarketPrices(US$ mn)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      161.74,
+      103.91,
+      189.64,
+      139.91
+    ],
+    "text": "Per Capita GDP at CurrentMarketPrices (Rs.)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      171.97,
+      143.92,
+      178.39,
+      151.11
+    ],
+    "text": "(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      195.83,
+      103.91,
+      220.63,
+      141.11
+    ],
+    "text": "Per Capita GDP at CurrentMarketPrices(US$)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.366563320159912
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      204.57,
+      143.91,
+      210.98,
+      151.11
+    ],
+    "text": "(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.78,
+      103.91,
+      248.14,
+      123.1
+    ],
+    "text": "GDPGrowthRate",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      235.18,
+      143.91,
+      242.73,
+      151.11
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      285.6,
+      104.71,
+      531.15,
+      117.91
+    ],
+    "text": "Share of GDP(at Current Market Prices) Share of GDP(at Current Market Prices) GDP Deflator (1996=100) (c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      258.24,
+      129.7,
+      285.2,
+      136.9
+    ],
+    "text": "Agriculture",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      267.95,
+      144.7,
+      275.5,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      290.32,
+      129.7,
+      309.82,
+      136.9
+    ],
+    "text": "Industry",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      296.29,
+      144.7,
+      303.84,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      318.58,
+      129.7,
+      338.25,
+      136.9
+    ],
+    "text": "Services",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      324.64,
+      144.7,
+      332.19,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      344.18,
+      123.1,
+      376.65,
+      151.9
+    ],
+    "text": "Taxes less Subsidies on Products(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      384.22,
+      123.7,
+      406.97,
+      136.9
+    ],
+    "text": "Con- sumption",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.82,
+      144.7,
+      399.37,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      413.41,
+      129.7,
+      440.15,
+      136.9
+    ],
+    "text": "Investment",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      423.0,
+      144.7,
+      430.55,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      447.24,
+      123.7,
+      468.68,
+      136.9
+    ],
+    "text": "NationalSavings",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      454.18,
+      144.7,
+      461.73,
+      151.9
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      485.63,
+      124.58,
+      540.23,
+      138.97
+    ],
+    "text": "Annual IndexAnnual Change",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      525.18,
+      143.78,
+      534.36,
+      150.97
+    ],
+    "text": "(%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      58.45,
+      159.34,
+      536.35,
+      652.83
+    ],
+    "text": "195046.319.636.919516.245.820.236.819524.645.517.039.54.119531.945.218.338.74.319542.746.517.938.14.419555.945.916.539.64.419560.743.017.640.94.519571.539.618.042.94.719582.939.216.944.04.919596,4161,3486671401.538.817.343.885.117.313.45.019606,7111,4106781426.737.816.845.488.414.610.65.019616,8751,4446761422.138.716.844.584.916.014.24.919626,9701,4646671404.636.517.346.285.915.513.14.819637,3821,5516981472.838.016.945.286.015.713.04.919647,7931,6377151506.436.416.647.087.814.311.34.919658,0841,6987241522.333.617.449.087.112.512.54.919668,3371,7517291533.833.816.749.689.114.310.14.919679,0371,8597721595.135.316.648.187.615.211.15.0196810,7181,8018941508.237.217.944.987.115.912.35.5196911,6951,9669551604.834.419.446.287.019.312.15.7197013,6642,2961,0921844.328.323.847.984.218.915.05.9197114,0502,3651,1071860.227.124.748.284.917.114.76.23.7197215,2472,5541,1861993.226.324.249.584.317.314.86.44.1197318,4042,8761,4062203.727.325.447.387.513.711.57.517.6197423,7713,5751,7892693.233.225.141.891.815.77.59.525.9197526,5773,7911,9692812.830.426.443.291.915.67.410.27.5197630,2033,5912,2022623.029.027.143.986.116.213.110.85.9197736,4074,1052,6112944.230.728.740.681.914.417.712.818.8197842,6652,7333,0071938.230.527.242.384.720.015.513.87.8197952,3873,3653,6202326.326.928.244.886.225.814.816.015.8198066,5274,0254,5112735.827.629.642.888.833.814.018.918.1198185,0054,4165,7252975.827.728.044.388.327.814.322.820.6198299,2384,7696,5313145.126.426.347.388.130.815.425.19.91983121,6015,1687,8873355.028.326.345.486.228.916.428.714.61984153,7466,0439,8543875.128.726.345.080.125.822.233.617.11985162,3755,97810,2503775.027.726.246.188.123.814.233.90.91986179,4746,40511,1293974.327.126.646.388.023.714.535.95.81987196,7236,68012,0154081.527.027.445.687.223.315.338.47.01988221,9826,97813,3734202.726.326.747.088.022.814.242.811.51989251,8916,98714,9714152.325.626.847.687.821.714.646.99.61990321,7848,03318,9124726.226.326.047.785.722.216.856.320.01991372,3459,00021,5645214.626.825.647.787.222.915.262.511.01992425,2839,70324,4055574.325.925.648.585.024.317.968.810.01993499,56510,35428,3105876.924.625.649.884.025.620.275.39.51994579,08411,71832,3676555.623.826.250.184.827.019.182.39.31995667,77213,03036,8207185.523.026.550.584.725.719.589.28.41996768,12813,89841,8927583.822.426.451.184.724.219.0100.012.11997890,27215,09247,9478136.321.926.951.282.724.421.5108.68.619981,017,98615,76154,1948394.721.127.551.480.925.123.4117.88.419991,105,96315,71158,0388244.320.727.352.080.527.323.5123.14.420001,257,63616,59665,8388696.019.927.352.882.628.021.5131.36.720011,407,39815,75074,874838-1.520.126.853.184.222.020.3147.612.420021,581,88516,53683,6058744.020.526.353.285.621.219.5160.08.420031,822,46818,88295,0549855.913.228.458.384.022.021.5168.25.120042,090,84120,663107,5811,0635.412.528.658.883.625.322.0183.08.820052,452,78224,406124,8621,2426.211.830.258.082.126.823.8202.110.420062,938,68028,267147,9851,4237.711.330.658.083.028.022.3224.911.320073,578,68832,350178,5861,6146.811.729.958.482.428.023.3256.414.020084,410,68240,714217,8552,0116.013.429.457.286.127.617.8298.316.320094,835,29342,066236,1442,0543.512.729.757.682.124.423.7315.85.920106,413,66856,726310,2142,7448.08.526.654.610.276.930.428.5338.97.320117,219,10665,293345,5443,1258.48.828.055.18.079.833.426.3351.83.820128,732,46368,434427,5383,3519.17.430.155.66.872.839.133.3389.910.820139,592,12574,294465,9763,6093.47.729.256.46.875.433.229.9414.36.22014(d)10,361,15179,359498,8283,8215.08.028.356.96.875.832.329.8426.32.92015(d)(e) 10,951,69580,564522,3553,8434.88.227.357.37.379.128.426.0429.80.82016(e)11,838,97581,311558,3633,8354.47.527.157.08.476.231.528.9445.23.6",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Light-SC700"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      54.1,
+      654.61,
+      472.44,
+      768.64
+    ],
+    "text": "(a) The Central Bank began publishing National Accounts estimates in 1959. Estimates for the period 1950 - 1958 have been computed using the growth rates in \u201cEstimates of Sri Lanka\u2019s Gross National Product from 1950 - 1981\u201d, T. Savundranayagam, Staff Studies Vol. 12 No.2 September 1982 and Vol. 13 No.1 and 2 April - September, 1983. Therefore, from 1950-1958 the sum of sectoral shares does not add to 100%. National Accounts data from 2003 onwards are based on the estimates of the Department of Census and Statistics (DCS) with base year 2002. From 2010 onwards, data is based on the base year 2010 GDP estimates of the Department of Census and Statistics. National Accounts estimates were revised in 1970, 1982, and 1996 by the Central Bank and in 2002 and 2010 by the DCS. The GDP and GNI estimates of the Central Bank before the base year revisions are given below. 1970: GDP (current factor cost prices) = Rs. 11,705 mn, GNI (current factor cost prices) = Rs. 12,671 mn 1982: GDP (current factor cost prices) = Rs. 91,943 mn, GNI (current factor cost prices) = Rs. 89,609 mn 1996: GDP (current factor cost prices) = Rs.695,934 mn, GNI (current factor cost prices) = Rs. 684,676 mn GDP and GNI estimates of DCS after the 2002 base year revision is given below. 2002: GDP (current market prices) = Rs. 1,636,037 mn, GNI (current market prices) = Rs. 1,611,994 mn GDP and GNI estimates of DCS before the 2010 base year revision is given below. 2010: GDP (current market prices) = Rs. 5,604,104 mn, GNI (current market prices) = Rs. 5,534,327 mn(b) Estimates updated with latest population figures.(c) This series has been computed by splicing several series of implicit GDP deflators obtained with different base years. Hence, it would differ from a series compiled using the current and constant values of GDP.(d) Revised(e) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.800000190734863
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      479.57,
+      654.57,
+      547.87,
+      690.56
+    ],
+    "text": "Sources: Department of Census and Statistics Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      51.27,
+      80.88,
+      546.65,
+      107.65
+    ],
+    "text": "REAL SECTOR TABLE 3Prices",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      48.74,
+      126.44,
+      59.48,
+      133.63
+    ],
+    "text": "Year",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      139.8,
+      109.74,
+      488.25,
+      119.33
+    ],
+    "text": "Annual Average Price IndexAnnual Average Percentage Change",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.589466094970703
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      75.29,
+      123.75,
+      88.32,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.59,
+      132.75,
+      95.49,
+      139.95
+    ],
+    "text": "(1952=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.01,
+      141.75,
+      84.07,
+      148.95
+    ],
+    "text": "(a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.48,
+      123.75,
+      120.97,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      100.77,
+      132.75,
+      129.67,
+      139.95
+    ],
+    "text": "(2002=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.19,
+      141.75,
+      118.25,
+      148.95
+    ],
+    "text": "(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      147.91,
+      123.75,
+      159.4,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      135.02,
+      132.75,
+      172.29,
+      139.95
+    ],
+    "text": "(2006/07=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      150.95,
+      141.75,
+      156.36,
+      148.95
+    ],
+    "text": "(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      186.34,
+      123.75,
+      197.84,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      177.64,
+      132.75,
+      206.54,
+      139.95
+    ],
+    "text": "(2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      189.06,
+      141.75,
+      195.12,
+      148.95
+    ],
+    "text": "(d)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220.31,
+      123.75,
+      232.23,
+      130.95
+    ],
+    "text": "NCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      211.81,
+      132.75,
+      240.72,
+      139.95
+    ],
+    "text": "(2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      223.3,
+      141.75,
+      229.23,
+      148.95
+    ],
+    "text": "(e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      255.97,
+      123.76,
+      264.92,
+      130.95
+    ],
+    "text": "WPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      245.99,
+      132.76,
+      274.89,
+      139.95
+    ],
+    "text": "(1974=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      288.55,
+      123.76,
+      295.02,
+      130.95
+    ],
+    "text": "PPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      285.26,
+      132.76,
+      298.31,
+      139.95
+    ],
+    "text": "(2013",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      281.13,
+      141.76,
+      302.44,
+      148.95
+    ],
+    "text": "Q4=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      317.38,
+      123.75,
+      330.41,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      308.68,
+      132.75,
+      337.58,
+      139.95
+    ],
+    "text": "(1952=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      320.1,
+      141.75,
+      326.16,
+      148.95
+    ],
+    "text": "(a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      354.41,
+      123.75,
+      367.44,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.7,
+      132.75,
+      374.6,
+      139.95
+    ],
+    "text": "(2002=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      357.12,
+      141.75,
+      363.18,
+      148.95
+    ],
+    "text": "(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      395.67,
+      123.75,
+      407.16,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      382.78,
+      132.75,
+      420.05,
+      139.95
+    ],
+    "text": "(2006/07=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      398.71,
+      141.75,
+      404.11,
+      148.95
+    ],
+    "text": "(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      434.1,
+      123.75,
+      445.59,
+      130.95
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      425.4,
+      132.75,
+      454.3,
+      139.95
+    ],
+    "text": "(2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      436.82,
+      141.75,
+      442.88,
+      148.95
+    ],
+    "text": "(d)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      468.07,
+      123.75,
+      479.99,
+      130.95
+    ],
+    "text": "NCPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      459.58,
+      132.75,
+      488.48,
+      139.95
+    ],
+    "text": "(2013=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      471.06,
+      141.75,
+      476.99,
+      148.95
+    ],
+    "text": "(e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      503.73,
+      123.76,
+      512.68,
+      130.95
+    ],
+    "text": "WPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      493.75,
+      132.76,
+      522.65,
+      139.95
+    ],
+    "text": "(1974=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      534.77,
+      123.76,
+      541.24,
+      130.95
+    ],
+    "text": "PPI",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      531.48,
+      132.76,
+      544.53,
+      139.95
+    ],
+    "text": "(2013",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      527.35,
+      141.76,
+      548.66,
+      148.95
+    ],
+    "text": "Q4=100)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.531726360321045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45.53,
+      152.64,
+      542.27,
+      676.79
+    ],
+    "text": "1953101.61.61954101.1-0.51955100.5-0.61956100.2-0.31957102.82.61958105.02.11959105.20.21960103.5-1.61961104.81.31962106.31.41963108.82.41964112.23.11965112.50.31966112.3-0.21967114.82.21968121.55.81969130.57.41970138.25.91971141.92.71972150.96.31973165.49.61974185.812.31975198.3103.46.71976200.7111.91.28.21977203.2135.51.221.11978227.8156.712.115.61979252.3171.610.89.51980318.2229.526.133.71981375.4268.518.017.01982416.1283.310.85.51983474.2354.114.025.01984553.1444.716.625.61985561.2377.11.5-15.21986606.0366.08.0-2.91987652.8414.97.713.41988744.1488.714.017.81989830.2532.911.69.019901,008.6651.121.522.219911,131.5710.812.29.219921,260.4773.011.48.819931,408.4831.811.77.619941,527.4873.48.45.019951,644.6950.37.78.819961,906.71,145.115.920.519972,089.11,224.39.66.919982,284.91,298.79.46.119992,392.11,295.34.7-0.320002,539.81,317.26.21.720012,899.41,471.214.211.720023,176.41,628.99.610.720033,377.0105.81,679.16.33.120043,632.8115.31,889.07.69.012.520054,055.5128.02,105.911.611.011.520064,610.8140.82,351.513.710.011.720075,416.1163.12,924.417.515.824.42008199.9129.23,653.622.624.92009206.8133.63,500.93.43.5-4.22010219.1141.93,893.05.96.211.22011226.5 151.54,306.56.9 6.710.62012162.94,457.37.63.52013174.24,867.96.99.22014179.9105.1105.55,022.1101.63.33.22015181.5107.4109.55,072.7105.30.92.23.81.03.62016 (f)188.3111.7113.85,284.0107.13.74.04.04.21.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      45.52,
+      678.95,
+      373.65,
+      743.74
+    ],
+    "text": "(a) Represents the consumption basket of low income households in the Colombo Municipality. Compilation of this index was discontinued since May 2008.(b) Represents the consumption basket of urban households within the Colombo District. Compilation of this index was discontinued since June 2011.(c) Represents the consumption basket of urban households within the Colombo District. Compilation of this index was discontinued since January 2017.(d) Represents the consumption basket of urban households within the Colombo District.(e) Represents the consumption basket of households in the entire island.(f) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      418.18,
+      678.95,
+      530.68,
+      693.34
+    ],
+    "text": "Sources: Department of Census and Statistics Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.1,
+      80.87,
+      544.26,
+      107.65
+    ],
+    "text": "EXTERNAL SECTOR TABLE 4 Balance of PaymentsValues in US$ million",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      66.32,
+      123.23,
+      77.06,
+      130.42
+    ],
+    "text": "Year",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      167.06,
+      109.12,
+      314.82,
+      136.42
+    ],
+    "text": "Current AccountCapitalAccount(Net)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      365.14,
+      109.12,
+      479.79,
+      139.42
+    ],
+    "text": "Financial AccountFinancialAccountBalance(f)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      490.86,
+      109.58,
+      542.79,
+      134.77
+    ],
+    "text": "OverallBalanceTerms ofTrade(% change)(g)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      100.91,
+      118.76,
+      188.0,
+      137.95
+    ],
+    "text": "ExportsImportsServices& Income(Net)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      196.06,
+      118.76,
+      217.92,
+      139.95
+    ],
+    "text": "Transfers(Net)(a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      228.35,
+      118.76,
+      247.99,
+      137.95
+    ],
+    "text": "CurrentAccountBalance",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      262.33,
+      118.76,
+      273.53,
+      143.95
+    ],
+    "text": "As a% ofGDP(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      323.49,
+      118.76,
+      449.3,
+      144.19
+    ],
+    "text": "Long-term Capital (Net)Short-term(Net)(e)DirectInvestmentOtherPrivate (c)Government(d)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      63.76,
+      146.05,
+      533.9,
+      694.71
+    ],
+    "text": "1950 296.5 246.3 -6.9-14.528.83.5--0.4-5.0-0.8-35.0-1951 387.0 317.9 -34.2-16.218.71.9--10.2-3.3-4.9-19.6-10.21952 309.3 352.0 -29.2-21.8-93.6-9.9--1.0-2.5-8.8--79.3-23.81953 314.4 342.9 4.8-9.4-33.2-3.5--1.5-2.9-0.2-3.6--44.60.01954 362.0 290.6 1.9-9.064.36.4--2.7-1.514.7-6.1-66.823.71955 397.5 310.4 -6.5-12.867.86.2--5.2-5.21.7-1.5-58.517.31956 372.1 331.0 -12.4-11.517.21.6--5.2-5.01.96.1-10.9-5.31957 350.5 370.4 -12.8-8.2-40.9-3.8--8.0-0.64.80.6--46.2-15.01958 341.0 359.7 -8.6-4.8-32.1-2.8--2.5-0.64.42.3--32.711.11959 372.3 411.2 -2.3-2.5-43.7-3.2--1.90.612.02.1--29.80.01960 377.2 421.3 -6.74.6-46.2-3.3-0.6-0.21.5-1.5--40.30.01961 358.5 376.7 -3.82.3-19.7-1.4--1.3-0.45.22.9--16.5-5.91962 370.2 400.3 -0.61.6-29.1-2.0--0.40.09.2-0.2--14.20.01963 358.7 392.5 -4.42.9-35.3-2.3-1.00.016.6-0.8--16.8-10.01964 371.1 411.6 -1.58.4-33.6-2.1--0.20.48.8-1.9--26.6-16.71965 400.9 403.6 6.58.412.20.7-0.0-0.613.2-3.8-19.79.11966 351.5 423.8 3.67.8-60.9-3.5--2.9-0.422.9-3.8--49.0-6.31967 339.4 408.4 5.14.5-59.2-3.2--1.0-0.435.81.6-87.9-6.71968 332.0 395.8 1.72.5-59.6-3.4--2.00.237.0-1.2--29.427.51969 320.7 446.1 -15.16.6-133.9-7.0--1.80.278.5-1.7--53.2-30.21970 338.7 391.8 -17.511.8-58.8-2.6--0.30.057.6-0.7--7.0-6.31971 325.4 373.7 -2.414.3-36.4-1.5-0.30.074.0-3.9-32.9-5.81972 317.9 360.6 -2.512.4-32.8-1.3-0.3-0.248.6-6.4-69.5-5.61973 366.4 412.9 8.113.3-25.1-0.9-0.5-0.368.9-1.7-45.9-11.81974 511.2 701.1 11.442.1-136.4-3.8-1.4-0.284.6-2.3--57.0-11.41975 563.4 767.3 12.779.9-111.4-2.9--0.10.062.7-4.3-10.4-19.81976 558.8 643.1 13.365.1-5.8-0.2-0.0-5.783.1-7.1-118.330.51977 767.1 726.2 34.369.0144.13.5--1.0-3.351.1-10.0-360.931.91978 845.1 1,025.4 7.679.6-93.1-3.4-1.50.5157.27.3-120.1-1.81979 981.4 1,449.4 47.5192.2-228.4-6.8-47.09.1156.20.1-51.9-28.31980 1,064.7 2,051.2 52.0274.6-660.0-16.4-42.940.3157.5157.5--191.9-19.01981 1,065.5 1,876.9 4.3364.8-442.3-10.0-50.252.9266.031.4-19.9-21.31982 1,013.7 1,994.1 -15.1427.3-568.1-11.9-63.6194.5261.27.1--48.0-5.71983 1,064.1 1,921.3 -60.0444.3-472.8-9.1-37.594.9281.037.6-18.021.61984 1,462.3 1,928.1 -68.2479.4-54.7-0.9-32.6-4.7341.7-25.5-269.322.41985 1,315.3 2,044.3 -134.3443.8-419.5-7.0-24.431.2273.04.4--49.3-17.81986 1,209.7 1,973.2 -129.1466.4-426.1-6.7-28.218.3291.7-13.5--70.3-4.31987 1,395.7 2,075.1 -156.9492.9-343.4-5.1-58.2-13.0198.039.0--67.32.41988 1,477.2 2,240.2 -153.2526.9-389.3-5.6-43.0-43.0245.016.0--90.7-10.31989 1,547.1 2,226.5 -157.7518.7-318.3-4.6-17.9-50.0217.092.0--88.00.51990 1,983.9 2,686.4 -97.9423.4-377.0-4.7117.541.6-44.6405.3-5.7-118.7-12.51991 2,039.5 3,036.6 -91.2468.9-619.4-6.9134.662.7-24.4500.2184.6-290.21.11992 2,460.8 3,505.4 -32.6522.6-554.6-5.7121.6121.125.4266.2130.1-189.619.81993 2,863.7 4,011.3 39.4612.7-495.5-4.8108.6187.2187.9264.8359.7-660.94.31994 3,208.6 4,767.3 17.8680.6-860.3-7.3113.1158.2294.5252.8124.3-239.7-0.71995 3,806.6 5,311.1 -18.0736.0-786.5-6.0117.353.190.7358.379.2-51.5-0.91996 4,095.1 5,438.8 -92.3759.1-676.9-4.995.9119.91.6259.2-17.6--67.82.31997 4,639.0 5,863.8 -0.4832.3-392.9-2.687.1429.847.4238.6-200.7-162.92.31998 4,797.8 5,889.5 -34.9900.7-225.9-1.479.6193.01.7203.1-64.0-36.813.51999 4,610.1 5,979.3 -106.6912.8-563.0-3.680.3176.9196.062.1-142.4--263.2-5.02000 5,522.3 7,319.8 -267.0997.8-1,066.0-6.450.2176.082.147.088.5393.2-521.9-6.12001 4,816.9 5,974.4 -62.61,005.2-215.1-1.4197.5172.0-257.1249.0200.9364.4219.8-1.72002 4,699.0 6,105.6 42.51,128.0-236.5-1.465.0185.0-21.0162.053.0379.3338.04.62003 5,133.3 6,671.9 227.01,241.0-71.0-0.474.0201.0-33.0554.0-75.0648.4502.0-7.42004 5,757.2 7,999.8 215.01,380.0-648.0-3.164.0227.014.0439.0-112.0567.4-205.0-5.22005 6,346.7 8,863.2 38.21,828.1-650.2-2.7249.8233.810.8553.5176.1974.1501.4-4.22006 6,882.7 10,253.0 -132.32,004.1-1,498.6-5.3290.6451.1-35.0490.5610.41,517.4203.6-3.52007 7,640.0 11,296.5 -55.52,310.6-1,401.5-4.3268.8548.330.6671.9577.01,828.0530.5-1.02008 8,110.6 14,091.2 -571.12,666.1-3,885.6-9.5290.6690.573.9252.0466.21,483.2-1,384.83.02009 7,084.5 10,206.6 -96.83,004.5-214.3-0.5232.9384.079.3840.31,057.62,361.32,725.3-2.72010 8,625.8 13,450.9 89.83,660.3-1,075.0-1.9163.9435.1148.71,795.5333.52,713.3921.027.42011 10,558.8 20,268.8 451.84,642.8-4,615.4-7.1164.4895.9175.32,236.7790.04,098.1-1,059.4-8.92012 9,773.5 19,190.2 42.95,392.0-3,981.7-5.8130.3871.4723.5992.41,676.14,263.4151.2-1.52013 (e) 10,394.3 18,002.8 -571.65,639.5-2,540.6-3.470.9867.5605.2841.4749.63,063.7985.44.62014 (e)11,130.119,416.872.06,227.0-1,987.7-2.558.3893.6428.7645.7-431.9-1,536.11,368.94.32015 (e)(h) 10,546.518,934.6312.06,193.3-1,882.8-2.346.3679.78.6469.61,154.4-2,312.3-1,488.72.72016 (e)(i)10,309.719,400.1695.26,453.0-1,942.1-2.425.5898.196.41,287.1-164.3-2,117.2-499.83.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      54.1,
+      696.86,
+      373.77,
+      761.66
+    ],
+    "text": "(a) Replaced with Secondary Income (net) based on the BPM6 format, from 2012.(b) From 2010 onwards, data is based on the base year (2010) GDP estimates of the Department of Census and Statistics.(c) Replaced with \u2018Loans - other sector - long term\u2019 under \u2018Net Incurrence of Liabilities\u2019 based on the BPM6 format, from 2012.(d) Replaced with \u2018Loans - government - long term\u2019 under \u2018Net Incurrence of Liabilities\u2019 based on the BPM6 format, from 2012.(e) Based on the BPM6 format, from 2012. (f) Includes net increase/decrease in reserve assets and reserve related liabilities based on the BPM6 format, from 2012.(g) Trade indices have been calculated with a wider coverage using 2010 as the base year, from 2007.(h) Revised(i) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      460.11,
+      696.86,
+      544.27,
+      704.06
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      51.27,
+      80.88,
+      533.04,
+      107.04
+    ],
+    "text": "EXTERNAL SECTORTABLE 5 Reserves, Total Foreign Assets, External Debt and Exchange Rates",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      55.35,
+      128.56,
+      67.29,
+      135.76
+    ],
+    "text": "Year",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      82.65,
+      113.56,
+      106.07,
+      144.76
+    ],
+    "text": "GrossOfficialReserves(US$million)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      118.59,
+      114.29,
+      253.27,
+      134.45
+    ],
+    "text": "Total ForeignAssets (a)Total ExternalDebt (b)DebtServiceRatio (d)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      351.92,
+      110.04,
+      482.51,
+      123.23
+    ],
+    "text": "Exchange Rates(Sri Lanka Rupees per Unit of Foreign Currency)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      263.21,
+      125.74,
+      439.21,
+      132.93
+    ],
+    "text": "Year EndAnnual Average",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      111.95,
+      135.1,
+      159.67,
+      154.3
+    ],
+    "text": "(US$million)MonthsofImports",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      174.72,
+      135.1,
+      226.22,
+      154.3
+    ],
+    "text": "(US$million)as a % ofGDP(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      262.48,
+      135.1,
+      527.68,
+      148.3
+    ],
+    "text": "US dollarUS dollarPoundsterlingEuroJapaneseyenIndianrupeeDeutschemarkFrenchfrankSDR(e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      54.33,
+      156.97,
+      531.44,
+      715.85
+    ],
+    "text": "1950190.4237.611.626.33.2-4.774.7613.33-0.011.001.141.36-1951216.4254.49.626.22.73.14.784.7613.33-0.011.001.141.36-1952163.8184.06.326.42.82.64.754.7613.33-0.011.001.141.36-1953114.3134.84.726.42.82.04.754.7613.33-0.011.001.131.36-1954170.8197.48.240.24.01.44.784.7613.33-0.011.001.131.36-1955210.9258.210.043.13.91.84.764.7613.33-0.011.001.131.36-1956232.9266.49.744.24.12.04.794.7613.33-0.011.001.131.36-1957200.1223.27.248.74.51.14.764.7613.33-0.011.001.131.29-1958172.7196.56.654.34.70.94.754.7613.33-0.011.001.131.13-1959133.1154.34.558.34.30.84.764.7613.33-0.011.001.130.96-196090.3114.03.261.84.41.04.754.7613.33-0.011.001.130.96-196189.5111.73.664.54.50.94.764.7613.33-0.011.001.130.96-1962127.7106.03.272.65.01.14.764.7613.33-0.011.001.180.96-196375.097.13.085.55.51.54.764.7613.33-0.011.001.190.96-196451.173.52.186.35.34.74.784.7613.33-0.011.001.190.96-196572.992.12.7102.56.03.34.784.7613.33-0.011.001.190.96-196642.966.51.9114.96.65.54.784.7613.33-0.010.751.190.96-196755.575.72.2124.76.74.35.934.8613.45-0.010.651.220.98-196851.678.12.4181.210.39.35.935.9514.28-0.020.791.491.21-196940.063.31.7230.912.015.95.965.9514.28-0.020.791.511.15-197042.367.62.1419.218.320.15.965.9514.28-0.020.791.631.075.95197152.483.62.7465.919.721.95.965.9414.45-0.020.791.701.075.95197260.6108.53.6485.119.021.86.705.9714.94-0.020.791.871.186.48197382.3126.13.7552.019.223.06.756.4015.70-0.020.832.401.447.63197473.9132.82.3648.918.217.86.696.6515.56-0.020.822.571.388.00197556.9108.11.7729.319.223.07.717.0115.57-0.020.842.851.638.51197694.0158.83.0773.221.520.18.838.4115.19-0.030.943.341.769.711977278.4358.15.9856.120.916.015.568.8715.49-0.031.023.821.8110.361978397.3482.25.61,114.340.815.515.5115.6129.97-0.071.917.773.4619.551979516.1624.95.21,245.737.013.015.4515.5733.04-0.071.928.503.6620.121980245.5375.92.21,666.841.412.418.0016.5338.46-0.072.109.103.9121.521981334.7448.82.92,060.446.716.820.5519.2539.03-0.092.228.523.5422.691982358.8526.93.22,500.052.418.621.3220.8136.43-0.082.208.583.1722.981983316.0521.03.32,651.751.321.625.0023.5335.69-0.102.339.223.0925.151984522.2720.84.52,983.849.417.526.2825.4433.99-0.112.248.942.9126.071985461.2672.03.93,440.757.621.027.4127.1635.21-0.112.209.233.0227.581986362.9606.93.74,082.463.726.228.5228.0241.10-0.172.2212.904.0532.871987299.5600.73.54,770.671.427.530.7629.4548.26-0.202.2716.383.2738.101988277.5576.03.14,908.970.328.633.0331.8156.66-0.252.2918.115.3442.761989291.4584.63.25,146.073.624.240.0036.0559.11-0.262.2219.175.6546.191990435.0856.73.85,783.172.017.840.2440.0671.50-0.282.2924.807.3654.421991718.41,156.04.66,489.472.118.542.5841.3773.20-0.311.8225.107.3356.611992936.41,439.94.96,831.770.417.146.0043.8377.38-0.351.6928.148.3061.7519931,674.72,123.86.47,602.073.413.849.5648.2572.47-0.441.5829.198.5267.391994 (f)2,022.02,874.47.28,298.070.813.749.9849.4275.68-0.481.5830.508.9270.7519952,063.02,901.96.68,694.066.716.554.0551.2580.88-0.551.5835.8110.2977.7419961,937.02,717.06.08,486.061.115.356.7155.2786.34-0.511.5636.7510.8180.2319972,029.03,132.06.48,197.054.313.361.2958.9996.69-0.491.6334.0710.1281.1719981,984.02,907.05.98,749.055.513.367.7864.59107.05-0.501.5736.8010.9887.6619991,639.02,582.05.29,088.057.815.272.1270.39113.91-0.621.6438.3911.4596.2520001,049.02,131.23.59,031.054.514.780.0675.78114.7874.320.701.6835.7610.6699.9020011,338.02,238.04.58,372.053.213.293.1689.36128.6682.270.741.8940.9012.19113.7520021,700.02,495.04.99,333.056.313.296.7395.66143.74101.380.761.9746.3713.79123.9320032,329.03,218.05.810,735.056.911.696.7496.52157.71121.600.832.07--135.2220042,195.83,439.05.211,346.054.911.6104.61101.19185.35125.790.942.23--149.8820052,735.04,200.55.711,353.846.57.9102.12100.50182.87125.100.912.28--148.4520062,836.74,005.44.711,981.442.412.7107.71103.96191.53130.630.892.30--153.0020073,508.24,956.45.313,989.543.213.1108.72110.62221.46151.630.942.69--169.3720082,560.93,639.83.115,106.637.118.0113.14108.33200.73159.321.052.52--171.2420095,357.47,030.48.318,662.144.422.4114.38114.94179.87160.211.232.39--177.2220107,196.58,620.87.721,437.937.816.7110.95113.06174.81150.101.292.49--172.5020116,749.37,990.74.732,747.9 50.213.2113.90110.57177.23153.861.392.39--174.5420127,105.98,585.95.437,098.154.219.7127.16127.60202.28164.011.602.39--195.3820137,495.38,573.75.739,905.353.726.8130.75129.11202.08171.511.322.21--196.1920148,208.49,884.46.142,914.154.120.8131.05130.56215.16173.471.242.14--198.352015 (g)7,303.69,336.95.944,839.455.727.3144.06135.94207.99150.841.122.12--190.162016 (h)6,019.18,433.05.246,585.757.325.0149.80145.60197.15161.161.342.17--202.39",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Light-SC700"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      45.6,
+      718.14,
+      403.17,
+      768.73
+    ],
+    "text": "(a) Excludes foreign assets in the form of \u2018Direct investment abroad\u2019 and \u2018Trade credit and advances granted\u2019.(b) Total external debt includes banking sector liabilities, from 2011.(c) From 2010 onwards, data is based on the base year (2010) GDP estimates of the Department of Census and Statistics.(d) As a percentage of earnings from exports of goods and services. Debt service payments were reclassified to capture debt servicing of foreign holding of Treasury bills and bonds in accordance with External Debt Statistics Manual (2003) of the International Monetary Fund (IMF), from 2008.(e) Special Drawing Rights (SDR), the unit of account of the International Monetary Fund. (f) Offshore Banking Units have been treated as a part of the domestic banking system, from 1994.(g) Revised(h) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      416.12,
+      718.04,
+      531.1,
+      732.43
+    ],
+    "text": "Sources: International Financial Statistics (IFS) Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      59.78,
+      80.88,
+      538.83,
+      107.04
+    ],
+    "text": "FISCAL SECTORTABLE 6Government Fiscal Operations (a)Values in rupees million",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.11,
+      138.99,
+      67.85,
+      153.39
+    ],
+    "text": "Year (b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      95.57,
+      112.04,
+      193.02,
+      134.01
+    ],
+    "text": "RevenueGrantsRevenueandGrants",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      228.86,
+      112.04,
+      261.08,
+      119.24
+    ],
+    "text": "Expenditure",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      295.75,
+      128.01,
+      326.92,
+      156.8
+    ],
+    "text": "Current Account Surplus(+)/Deficit(-)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      332.6,
+      128.01,
+      365.58,
+      149.6
+    ],
+    "text": "Overall Surplus(+)/ Deficit(-)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      409.45,
+      112.04,
+      538.6,
+      119.24
+    ],
+    "text": "FinancingAs a % of GDP (c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      92.89,
+      127.44,
+      133.4,
+      149.03
+    ],
+    "text": "TaxTotal(Tax andNon Tax)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      200.82,
+      127.44,
+      255.88,
+      149.03
+    ],
+    "text": "RecurrentCapitaland NetLending",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      275.15,
+      127.44,
+      288.01,
+      134.63
+    ],
+    "text": "Total",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      385.22,
+      143.14,
+      392.42,
+      163.95
+    ],
+    "text": "Foreign",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      413.0,
+      140.93,
+      420.2,
+      166.16
+    ],
+    "text": "Domestic",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      433.5,
+      135.2,
+      447.89,
+      170.09
+    ],
+    "text": "Privatisation Proceeds",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      460.43,
+      140.26,
+      474.82,
+      166.84
+    ],
+    "text": "TotalFinancing",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      485.39,
+      134.0,
+      499.79,
+      171.29
+    ],
+    "text": "Revenue and Grants",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      510.25,
+      137.44,
+      517.45,
+      169.66
+    ],
+    "text": "Expenditure",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      528.76,
+      127.23,
+      543.15,
+      179.87
+    ],
+    "text": "Overall Surplus (+)/Deficit (-)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.11,
+      184.81,
+      545.91,
+      715.6
+    ],
+    "text": "1950544623-623461325786162-163-163-16316.120.3-4.11951736910-910691269960219-50-50-5019.720.8-1.1195277095479618663571,22388-263-263-26321.327.1-5.8195376895339567884021,190164-234-234-23421.326.5-5.219548291,026191,0456733481,0213532463-87--2422.021.50.519559371,159261,1857623061,06839611712-129--11722.620.42.219561,0271,257231,2808634601,323394-42537-4225.226.0-0.819571,1021,261111,2719775291,506284-23519216-23524.429.0-4.519581,0171,280131,2931,1183841,502162-20920189-20923.527.3-3.819591,0581,330181,3491,2744691,74456-39530365-39521.027.2-6.219601,1201,40491,4131,3654561,82138-40824385-40821.127.1-6.119611,2241,514131,5271,4715051,97643-44910439-44922.228.7-6.519621,4881,621181,6391,4985792,077123-43835403-43823.529.8-6.319631,4621,593311,6251,5344511,98559-36161300-36122.026.9-4.919641,4581,759321,7911,7544672,2215-43064366-43023.028.5-5.519651,6251,816241,8411,7325152,24785-40676331-40622.827.8-5.019661,6101,833421,8751,7926072,39941-52577448-52522.528.8-6.319671,7651,955191,9741,8197432,562136-588189398-58821.828.3-6.519681,9672,156292,1852,1866852,871-30-686161525-68620.426.8-6.419692,2782,497202,5172,3849013,285113-769334434-76921.528.1-6.619702,5072,736632,7992,6591,0133,67277-873163710-87320.526.9-6.419712,3542,815602,8752,9819183,899-166-1,024175849-1,02420.527.8-7.319722,6763,282753,3573,3869314,317-104-961209752-96122.028.3-6.319733,3314,034474,0813,8571,1695,026177-945132813-94522.227.3-5.119744,0134,7872525,0394,5061,3165,822281-783126657-78321.224.5-3.319754,2585,0844045,4885,1532,0337,186-69-1,6983101,388-1,69820.627.0-6.419764,7265,7393676,1065,5543,0988,652185-2,5475911,956-2,54720.228.6-8.419775,5096,6865017,1876,1482,6658,813538-1,626754872-1,62619.724.2-4.5197810,32011,68866112,34910,4087,28017,6881,280-5,3393,2922,047-5,33928.941.5-12.5197911,01511,9661,39013,35610,8258,36719,1921,141-5,8362,3483,488-5,83625.536.6-11.1198012,15813,0222,62015,64212,31916,06928,388703-12,7463,5169,230-12,74623.542.7-19.2198113,69614,7752,72117,49614,64913,36528,014126-10,5184,8805,638-10,51820.633.0-12.4198214,73716,2103,37619,58618,34115,17133,512-2,131-13,9264,7449,182-13,92619.733.8-14.0198319,91223,3173,47326,79022,00217,63539,6371,315-12,8476,3726,475-12,84722.032.6-10.6198429,93934,0613,29337,35424,63023,20747,8379,431-10,4836,4923,991-10,48324.331.1-6.8198530,44236,2493,30739,55632,64522,58955,2343,604-15,6787,1098,569-15,67824.434.0-9.7198631,27237,2383,75340,99133,96625,22759,1933,272-18,2029,0619,141-18,20222.833.0-10.1198735,11942,1454,67746,82239,56024,33463,8942,585-17,0725,71611,356-17,07223.832.5-8.7198835,94641,7496,58848,33746,13230,40076,532-4,383-28,1957,12821,067-28,19521.834.5-12.7198947,51353,9796,40760,38656,88425,28082,164-2,905-21,7785,92615,852-21,77824.032.6-8.6199061,20667,9646,69874,66271,77128,04399,814-3,807-25,15211,64413,508-25,15223.231.0-7.8199168,15776,1797,87084,04983,75636,613120,369-7,577-36,32019,32916,14984136,32022.632.3-9.8199276,35385,7818,28094,06189,63930,186119,824-3,858-25,7637,36115,5512,85025,76322.128.2-6.1199385,89198,3398,025106,364102,28839,371141,659-3,949-35,2959,85524,2411,20035,29521.328.4-7.1199499,417110,0388,257118,295127,08443,680170,764-17,046-52,47011,77837,6962,99552,47020.429.5-9.11995118,543136,2589,028145,286154,15949,325203,484-17,90158,19821,22433,9723,00158,19821.830.5-8.71996130,202146,2797,739154,018175,14843,512218,660-28,869-64,64210,16049,7544,72864,64220.128.5-8.41997142,512165,0367,329172,365184,74950,348235,097-19,713-62,7329,95830,27522,49962,73219.426.4-7.01998147,368175,0327,200182,232199,64868,531268,179-24,616-85,94710,19771,3624,38985,94717.926.3-8.41999166,029195,9056,761202,666207,27171,888279,159-11,366-76,4931,48474,87613476,49318.325.2-6.92000182,392211,2825,145216,427254,27981,544335,823-42,997-119,396495118,500401119,39617.226.7-9.52001205,840234,2965,500239,796303,36183,157386,518-69,065-146,72214,538123,5958,589146,72217.027.5-10.42002221,839261,8887,079268,967330,84772,142402,990-68,959-134,0221,978126,3515,693134,02217.025.4-8.52003231,597276,4657,956284,421334,69482,979417,673-58,229-133,25143,11779,91110,223133,25115.622.9-7.32004281,552311,4738,681320,154389,67987,228476,907-78,206-156,75237,071117,2432,437156,75215.322.8-7.52005336,828379,74632,640412,387443,350141,433584,783-63,603-172,39647,773123,6041,020172,39616.823.8-7.02006428,378477,83330,068507,901547,960165,687713,646-70,127-205,74541,942163,805-205,74517.324.3-7.02007508,947565,05130,508595,559622,758218,846841,604-57,707-246,045100,907145,137-246,04516.623.5-6.92008585,621655,25931,222686,482743,710252,416996,126-88,450-309,644-4,643314,287-309,64315.622.6-7.02009618,933699,64425,922725,566879,575322,3521,201,927-179,931-476,361230,807245,554-476,36115.024.9-9.92010724,747817,27916,909834,188937,094343,1111,280,205-119,815-446,017243,788202,229-446,01713.020.0-7.02011845,697967,86215,141983,0031,024,906408,2761,433,182-57,043-450,180218,956231,224-450,18013.619.9-6.22012908,913 1,051,46016,0711,067,5321,131,023425,4761,556,499-79,563-488,967286,455202,511-488,96712.217.8-5.620131,005,895 1,137,44715,8591,153,3061,205,180464,2161,669,396-67,733-516,090123,700392,390-516,09012.017.4-5.420141,050,362 1,195,2069,4151,204,6211,322,898472,9671,795,865-127,692-591,244212,523378,721-591,24411.6(d) 17.3(d)-5.7(d)20151,355,779 1,454,8786,0141,460,8921,701,658588,7372,290,394-246,779-829,502236,803592,699-829,50213.3(d) 20.9(d)-7.6(d)2016 (e) 1,463,689 1,686,0627,4961,693,5581,757,782576,1012,333,883-71,719-640,325391,914248,411-640,32514.319.7-5.4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.848076343536377,
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      54.11,
+      717.61,
+      422.51,
+      760.81
+    ],
+    "text": "(a) Data from 1979 are based on the economic format.(b) Financial year was from 1st October to 30th September until 1973. From 1973, it was changed to the calender year.(c) From 2003, based on GDP estimates compiled by the Department of Census and Statistics and rebased GDP estimates (base year 2010) of the Department of Census and Statistics have been used from 2010 onwards.(d) Based on revised GDP estimates for 2014 and 2015 made available on 15 March 2017 by the Department of Census and Statistics.(e) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      442.01,
+      717.61,
+      546.7,
+      746.41
+    ],
+    "text": "Sources: Ministry of Finance Ministry of National Policies and Economic Affairs Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45.6,
+      79.58,
+      535.48,
+      105.74
+    ],
+    "text": "FISCAL SECTORTABLE 7Government DebtValues in rupees million",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.59,
+      120.06,
+      78.46,
+      127.25
+    ],
+    "text": "Year (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      184.9,
+      110.2,
+      398.49,
+      130.85
+    ],
+    "text": "Domestic DebtForeignDebt (b)(c)TotalDebt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      450.44,
+      110.2,
+      499.06,
+      117.39
+    ],
+    "text": "As a % of GDP (e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      111.38,
+      122.07,
+      524.62,
+      136.46
+    ],
+    "text": "TreasuryBills (b)RupeeLoansTreasuryBonds (c) (d)OtherTotalDomesticForeignTotal",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61.82,
+      140.03,
+      524.15,
+      214.55
+    ],
+    "text": "195079436-1452912565413.73.216.9195130582-1462612575113.62.716.3195293684-758521921,04418.94.323.21953184731-1291,0442051,24923.24.627.81954105782-669532111,16420.14.424.5195560829--8892321,12117.04.421.4195668882--9502581,20818.65.123.7195765962-1051,1322781,41021.85.327.119581401,007-911,2382931,53122.55.327.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61.83,
+      216.42,
+      524.15,
+      223.62
+    ],
+    "text": "19593201,102-1381,5603071,86724.34.829.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      61.83,
+      225.5,
+      529.12,
+      708.73
+    ],
+    "text": "19605501,217-1701,9373452,28228.95.134.019617501,397-1982,3454072,75234.15.940.019621,0001,515-1792,6944123,10638.75.944.619631,1251,684-2223,0314893,52041.16.647.719641,2501,909-2163,3755493,92443.37.050.419651,3002,150-2463,6967394,43545.79.154.919661,4252,475-2954,1951,0745,26950.312.963.219671,5002,785-2984,5831,3765,95950.715.265.919681,7503,118-3295,1971,5786,77548.514.763.219691,7503,409-3545,5131,8007,31347.115.462.519701,9503,925-4206,2952,3948,68946.117.563.619712,0254,512-4466,9832,7959,77849.719.969.619722,3255,103-4987,9262,93610,86252.019.371.219732,2505,812-5228,5843,70512,28946.620.166.819742,2506,591-6049,4452,85912,30439.712.051.819752,3507,560-94910,8593,70514,56440.913.954.819762,7009,001-99012,6914,96817,65942.016.458.519772,50010,391-1,50114,39210,59324,98539.529.168.619782,63512,049-1,68416,36814,58330,95138.434.272.519793,00014,929-1,70519,63415,84035,47437.530.267.719809,80017,611-1,65929,07022,27651,34643.733.577.2198113,92020,025-1,57335,51829,17264,69041.834.376.1198217,32025,800-2,14745,26735,26780,53445.635.581.2198317,40031,953-2,41651,76946,68898,45742.638.481.0198414,86033,228-3,56451,65253,681105,33333.634.968.5198522,28036,570-3,76162,61167,673130,28438.641.780.2198626,17339,130-4,19669,49986,208155,70738.748.086.8198729,85044,957-4,19078,997111,812190,80940.256.897.0198843,70049,797-5,09998,596125,657224,25344.456.6101.0198957,24654,217-6,099117,562156,298273,86046.762.0108.7199067,96854,677-11,251133,896176,883310,77941.655.096.6199172,96866,823-12,328152,119214,579366,69840.957.698.5199287,09669,180-13,744170,020235,539405,55940.055.495.4199397,196105,707-10,782213,685270,224483,90942.854.196.9199498,896137,554-12,669249,119301,812550,93143.052.195.11995113,771157,928-17,711289,410346,286635,69643.351.995.21996124,996205,975-25,731356,703359,685716,38846.446.893.31997114,996239,47510,00023,269387,740376,331764,07143.642.385.81998119,996250,57048,91543,945463,426461,273924,69945.545.390.81999124,996262,056104,86751,546543,465507,8661,051,33149.145.995.12000134,996263,888204,12473,652676,660542,0401,218,70053.843.196.92001170,995292,813229,174122,983815,965636,7411,452,70658.045.3103.32002210,995287,701347,128102,562948,386721,9571,670,34360.045.6105.62003219,295248,414483,10769,1531,019,969843,8821,863,85156.046.3102.32004243,886164,758643,34991,3961,143,389996,1382,139,52754.747.6102.32005234,174140,563751,569139,4151,265,722956,6202,222,34151.639.090.62006257,732116,713885,972218,8131,479,2301,103,4182,582,64850.337.587.92007307,012131,5091,018,852257,8251,715,1981,326,4873,041,68547.937.185.02008402,600130,0091,281,978325,6412,140,2281,448,7343,588,96248.532.881.42009441,032112,2921,513,512334,1192,400,9551,760,4674,161,42249.736.586.22010514,44287,7091,643,887319,6242,565,6622,024,5834,590,24540.031.671.62011590,88561,9611,819,251331,9882,804,0852,329,2805,133,36538.832.371.12012629,07058,3862,095,054450,3043,232,8132,767,2996,000,11237.031.768.72013700,13755,5182,452,360624,8113,832,8252,960,4246,793,24940.030.970.82014694,76755,5182,844,054683,4444,277,7833,113,1167,390,89941.3(f)30.0(f)71.3(f)2015658,24024,0883,305,248971,6204,959,1963,544,0318,503,22745.3(f)32.4(f)77.6(f)2016 (g)779,58124,0883,714,787823,0515,341,5074,045,7969,387,30345.134.279.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45.77,
+      711.03,
+      407.68,
+      775.83
+    ],
+    "text": "(a) From 1950 to 1973, outstanding position as at end September and since then as at end December.(b) Rupee denominated Treasury bills issued to foreign investors from 2008 are excluded from domestic debt and included in foreign debt.(c) Rupee denominated Treasury bonds issued to foreign investors from 2007 are excluded from domestic debt and included in foreign debt.(d) Excludes Rs. 78,447 million issued to settle dues to CPC in January 2012 and Rs. 13,125 million issued to capitalise SriLankan Airlines in March 2013.(e) From 2003, based on GDP estimates compiled by the Department of Census and Statistics and rebased GDP estimates (base year 2010) of the Department of Census and Statistics have been used from 2010 onwards.(f) Based on revised GDP estimates for 2014 and 2015 made available on 15 March 2017 by the Department of Census and Statistics.(g) Provisional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      434.03,
+      711.03,
+      538.71,
+      739.83
+    ],
+    "text": "Sources: Ministry of Finance Ministry of National Policies and Economic Affairs Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.77,
+      80.88,
+      544.12,
+      108.09
+    ],
+    "text": "MONETARY SECTORTABLE 8Monetary Survey (M2) Values in rupees million",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.757195472717285,
+      5.925082206726074,
+      9.875120162963867
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      52.73,
+      126.59,
+      69.42,
+      140.98
+    ],
+    "text": "EndPeriod",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      249.11,
+      108.78,
+      422.59,
+      115.97
+    ],
+    "text": "Net Foreign AssetsNet Domestic Assets (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      465.44,
+      126.38,
+      485.78,
+      140.77
+    ],
+    "text": "ReserveMoney",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      493.34,
+      109.43,
+      518.55,
+      123.83
+    ],
+    "text": "MoneyMultiplier",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      525.59,
+      126.59,
+      545.83,
+      155.38
+    ],
+    "text": "Velocityof Money(f)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      228.49,
+      126.59,
+      257.19,
+      148.18
+    ],
+    "text": "MonetaryAuthorities(d)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      259.53,
+      126.59,
+      313.24,
+      140.98
+    ],
+    "text": "CommercialBanksTotal",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      361.34,
+      117.22,
+      388.28,
+      124.42
+    ],
+    "text": "Claims on",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      80.72,
+      126.59,
+      452.65,
+      148.18
+    ],
+    "text": "TotalCurrency DemandDeposits(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      137.93,
+      126.59,
+      158.17,
+      156.79
+    ],
+    "text": "NarrowMoneySupply(M1)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      3.454327344894409,
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      165.84,
+      126.59,
+      192.51,
+      155.38
+    ],
+    "text": "Time and Savings Deposits(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      202.07,
+      126.59,
+      220.01,
+      156.79
+    ],
+    "text": "BroadMoneySupply(M2)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      3.454327344894409,
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      324.95,
+      126.59,
+      358.29,
+      148.18
+    ],
+    "text": "Government(Net)(e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      366.32,
+      126.59,
+      390.89,
+      148.18
+    ],
+    "text": "PublicCorpora-tions",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      407.08,
+      126.59,
+      518.92,
+      140.98
+    ],
+    "text": "PrivateSectorM1M2",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      3.454327344894409,
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.14,
+      159.58,
+      541.22,
+      690.37
+    ],
+    "text": "19503255859116897855218773966n.a1482395331.711.844.2619513776291,006841,090656146802123n.a2242886151.641.774.66195235753989610099640039439404n.a2035575221.721.914.35195333549282710092724463307455n.a2216204331.912.144.9119543426159571361,093524125649268n.a2574444961.932.204.9519553856881,0731521,225654214868186n.a2703575761.862.134.8419564017261,1271871,314735153888180n.a3634256011.882.194.2419574356051,0402161,256579101679297n.a4185775691.832.214.3619585305471,0772611,338491106597396n.a4727416711.612.004.5819595656131,1782991,47731290402743464351,0757211.632.054.5219605956141,2093631,5721311012321,004464681,3407911.531.994.3819616925961,2893541,64356971531,177464801,4908511.511.934.1619627136301,3434051,748-3698621,351465221,6868991.491.954.1319638286781,5064681,974-9510491,509466471,9651,0131.491.953.9719648537691,6225202,142-80106261,640467292,1161,0831.501.983.7919659018141,7165672,28318881061,711547322,1771,1541.491.983.6519668837761,6595852,244-200109-911,768827922,3351,0891.522.063.6819679808281,8086872,495-299117-1822,022938862,6771,2251.482.043.8119681,0668471,9138112,724-445147-2982,1441841,0593,0221,3311.442.054.1119691,0837991,8829692,851-723126-5982,3342541,2153,4491,3531.392.114.2019709351,0321,9671,1483,115-744145-5992,5592971,3203,7141,3241.492.354.5819711,1151,0342,1491,2863,435-577178-3992,7173591,4003,8341,4951.442.304.2919721,2021,2792,4811,4933,974-551233-3182,7645631,6244,2921,7731.402.244.1219731,4371,3412,7781,3764,154-251283322,6604191,7454,1212,1581.291.924.5319741,5391,4062,9461,6234,569-530383-1472,5261,0602,1754,7152,2561.312.035.4519751,6101,4783,0881,6894,777-738376-3622,8101,0132,3905,1392,1441.442.235.6919762,0812,0854,1662,1556,321-4335411093,2671,0562,9296,2122,7001.542.345.4419772,7922,5745,3663,3518,7172,5171,1893,7062,9891,6704,1165,0113,8401.402.274.8419783,0162,9215,9364,95510,8914,4081,1825,5901,8632,3636,4495,3024,2621.392.564.3519793,7743,8957,6697,38815,0575,3621,4456,8082,9203,3478,7058,2505,2991.452.844.0419804,1815,2479,42810,43219,8601,6022,0293,6318,9724,12312,70916,2306,2861.503.163.8119814,8235,20210,02414,42224,4471,0491,8912,94012,7894,48816,69021,5077,5051.343.263.8419825,9885,77211,76018,75030,5101312,2412,37217,1504,67720,57028,1389,1191.293.353.6119837,2007,54814,74822,50937,2574802,7073,18717,5334,38527,37534,07011,6421.273.203.5919848,5618,26316,82426,60443,4277,4762,4899,96414,5544,14831,22433,46313,7101.233.173.8119859,8168,94618,76129,64848,4097,3151,9589,27320,3484,43834,44139,13616,8951.112.873.54198611,5709,60921,17929,68150,8607,0761,7838,85922,5464,73936,82442,00118,0311.172.823.62198713,49511,58825,08333,25258,3356,4552,8369,29127,0487,36641,15249,04419,2731.303.033.60198818,48713,89232,37935,56767,9464,7482,3117,05936,06510,78750,01660,88725,5641.272.663.52198919,65015,68835,33841,09676,4342,9641,7684,73236,11913,86252,34071,70126,7911.322.853.491990 (g)22,12017,47739,59750,94990,546-1,6395,0583,41935,35715,63664,97087,12731,5791.252.873.85199124,85221,74846,60063,975110,5759,8362,42212,25835,39314,07778,28298,31740,0561.162.763.70199227,28122,77650,05779,742129,79918,7302,21020,94033,06514,75096,188108,85944,8581.122.893.54199332,13327,22259,355100,781160,13652,978-4,86148,11926,9937,775115,929112,01956,4681.052.843.45199438,90631,55570,461121,209191,67065,864-1,39764,46728,6285,163140,004127,20368,0551.042.823.29199542,19833,01975,217153,319228,53674,301-7,76966,53235,4478,527179,825162,00478,5860.962.913.18199642,56535,63878,203174,998253,20173,786-11,92561,86148,5379,938193,842191,33985,5090.912.963.19199745,67940,17285,852202,406288,25889,936-64489,29246,36510,278216,090198,96683,7361.033.443.29199851,76744,50296,269219,906316,174101,744-8,02093,72458,5918,681244,353222,45192,8661.043.403.37199958,48150,074108,555249,522358,07689,287-5,39583,89285,88112,707275,532274,185100,4441.083.563.28200062,64655,831118,477286,192404,66957,9471,50159,448134,48426,986307,613345,221105,1631.133.853.35200165,53656,674122,210328,516450,72684,346-4,32780,019161,60222,934328,788370,709112,5221.094.013.39200275,29264,069139,361371,033510,395117,377-15,660101,717153,17128,010367,397408,678126,4111.104.043.30200385,60176,034161,635419,111580,747164,596-35,109129,487143,44428,879430,575451,259141,4471.144.113.36200499,66988,784188,453499,511687,964151,694-22,542129,152181,11127,258526,236558,812170,9671.104.023.322005114,070116,632230,702592,230822,931196,925-29,778167,147168,04815,651680,693655,784197,9321.174.163.252006135,019124,666259,685733,580993,264229,860-44,855185,005256,55325,410856,842808,260239,8631.084.143.262007147,183119,409266,592881,1501,147,742292,927-66,938225,989261,65411,6591,029,993921,754264,4191.014.343.342008155,023122,300277,3231,004,8711,282,194148,157-59,39788,760471,83915,0851,095,4161,193,434268,4251.034.783.642009181,840154,870336,7101,200,0451,536,755412,202-53,648358,554513,84373,2331,043,7821,178,201303,5371.115.063.452010216,549190,643407,1921,405,8081,813,000505,463-115,179390,284494,80491,9271,333,7841,422,715360,5111.135.033.862011242,871195,836438,7071,753,8962,192,603340,090-189,175150,916735,56271,3851,821,4722,041,688439,5041.004.993.592012251,539198,510450,0492,143,1362,593,185396,468-284,073112,395912,85091,2582,172,0762,480,789484,3620.935.353.642013264,607219,971484,5782,574,2153,058,793529,128-395,320133,8081,109,663164,6742,327,3762,924,984488,5860.996.263.362014329,426282,729612,1552,848,4023,460,558688,007-369,804318,2031,227,794192,1372,503,2703,142,355577,9121.065.993.192015388,057326,931714,9883,342,2244,057,212576,187-369,264206,9231,387,792254,1123,186,0753,850,289673,4321.066.022.942016429,502347,123776,6244,046,9354,823,559558,589-391,478167,1111,667,525289,7283,891,8514,656,448856,1470.915.632.69",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.925082206726074,
+      5.925132751464844
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      54.1,
+      692.38,
+      424.66,
+      764.58
+    ],
+    "text": "(a) Net domestic assets (NDA) are equal to the sum of net credit to government (NCG), claims on public corporations, claims on private sector and other items (net). (b) Demand deposits held by the public (c) Time and savings deposits held by the public (d) The Central Bank adopted International Accounting Standards in January 2002. Accordingly, since then foreign assets have been recorded at market values, which reflects its impact in NFA and NDA of Monetary Authorities. Therefore, the values for the period prior to January 2002 are not comparable with the values thereafter.(e) Credit extended to the government by the banking system, net of government deposits with banks and government\u2019s cash balances(f) Velocity of money has been revised from 2010 based on rebased GDP figures(g) Monetary data from 1990 have been reclassifed to be consistent with standard international practices. Accordingly, rupee deposits held by non-residents are excluded from the total demand, time and savings deposits held by public. The excluded amount is classified under foreign liabilities.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      461.98,
+      692.39,
+      544.04,
+      699.58
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.925082206726074
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51.27,
+      80.88,
+      529.49,
+      92.87
+    ],
+    "text": "MONETARY SECTORTABLE 9",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      259.2,
+      99.18,
+      535.17,
+      114.37
+    ],
+    "text": "Interest RatesPer cent per annum",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      51.79,
+      126.34,
+      102.57,
+      147.94
+    ],
+    "text": "EndPeriodBankRate(a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      152.48,
+      117.04,
+      440.42,
+      155.14
+    ],
+    "text": "Government SecuritiesCommercial BanksPrimary MarketInter-bankCallMoney rates(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      362.42,
+      125.48,
+      534.82,
+      132.67
+    ],
+    "text": "Deposit RatesLending Rates on Loans Secured by",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      117.52,
+      134.84,
+      150.23,
+      156.44
+    ],
+    "text": "91-dayTreasury BillYield",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      157.6,
+      134.84,
+      190.31,
+      156.44
+    ],
+    "text": "182-dayTreasury BillYield",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      197.01,
+      134.84,
+      229.71,
+      156.44
+    ],
+    "text": "364-dayTreasury BillYield",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      253.53,
+      134.84,
+      422.67,
+      156.44
+    ],
+    "text": "RupeeSecuritiesSavingsDeposits12-monthFixedDeposits",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      453.03,
+      134.84,
+      534.63,
+      149.24
+    ],
+    "text": "Stock inTradeImmovableProperty",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.2,
+      159.62,
+      535.19,
+      719.25
+    ],
+    "text": "1951 2.50 0.40--3.000 .501.00-2.500.50-2.753.00-8.003.00-12.001952 2.50 0.92--2.25-3.000 .501.00-2.000.753.00-8.004.00-7.001953 3.00 2.48--3.00-3.501.00-2.001.00-2.002.004.00-8.004.50-7.501954 2.50 0.87--3.00-3.250 .501.00-2.001.254.00-8.004.50-7.501955 2.50 0.76--2.75-3.000 .502.001.004.00-8.004.50-7.501956 2.50 0.64--2.50-3.250 .502.001.004.00-8.004.50-7.501957 2.50 1.22--2.50-3.251.502.001.50-2.504.50-8.004.50-7.501958 2.50 1.76--2.50-3.501.252.001.50-2.504.50-8.004.50-7.501959 2.50 2.02--2.25-3.501.502.001.50-2.504.50-8.004.50-7.501960 4.00 2.60--2.50-3.502.002.002.504.50-8.005.50-8.001961 4.00 2.68--3.00-4.252.002.00-2.502.505.50-8.005.50-8.001962 4.00 2.80--3.25-4.252.75-3.002.00-2.502.506.00-8.006.00-9.001963 4.00 2.80--3.50-4.502.75-3.002.00-2.502.506.00-8.006.00-9.001964 4.00 2.80--3.75-4.752.75-3.002.00-2.502.506.00-8.006.00-9.001965 5.00 3.00--3.50-4.503.002.00-3.002.50-3.256.00-9.007.00-9.501966 5.00 3.00--3.50-4.503.002.00-3.002.50-3.256.00-9.007.00-9.501967 5.00 3.20--3.50-4.503.002.00-3.003.00-3.256.00-9.006.50-9.501968 5.50 3.64--5.503.503.00-3.253.25-3.507.00-9.507.00-9.501969 5.50 4.10--5.504.003.753.75-4.007.50-11.007.00-10.001970 6.50 4.76--5.50-6.504.504.504.50-4.758.50-12.008.00-11.001971 6.50 5.00--6.50-9.005.004.504.50-4.758.50-12.008.00-11.001972 6.50 5.00--9.005.004.504.50-4.758.50-12.008.00-11.001973 6.50 5.00--9.005.004.504.50-4.758.50-12.008.00-11.001974 6.50 5.00--9.005.004.504.50-4.758.50-12.508.00-12.001975 6.50 5.00--9.005.00-8.005.507.00-7.508.50-13.008.50-12.001976 6.50 5.00--9.005.00-8.005.507.00-7.508.50-14.008.50-14.001977 10.00 9.00--9.00-10.007.00-9.507.2014.00-15.0013.00-19.0013.00-19.001978 10.00 9.00--10.007.00-9.507.2014.00-15.0013.00-19.0013.00-19.001979 10.00 9.00--10.009.00-11.005.00-9.0014.00-15.0013.00-20.0013.00-19.001980 12.00 13.00--10.00-16.0021.50-25.0010.00-14.0020.0015.00-28.0013.00-28.001981 14.00 13.00--16.0015.00-18.0010.00-14.0020.00-22.0015.00-28.0013.00-28.001982 14.00 13.00--16.0015.75-18.5010.00-14.5015.00-22.0016.00-30.0016.00-30.001983 13.00 12.00--12.00-16.0020.00-37.0010.00-15.0016.00-25.0013.00-30.0018.00-28.001984 13.00 14.00--14.00-16.0014.00-15.5010.00-15.0014.00-22.0013.00-30.0016.00-30.001985 11.00 11.50--14.00-16.0011.00-14.0010.00-13.5012.00-18.0013.00-28.0011.00-30.001986 11.00 11.31--12.0012.00-12.756.00-12.008.50-14.0012.00-30.0012.00-30.001987 10.00 10.77--12.0011.00-14.006.00-11.008.50-14.0014.00-30.0012.00-30.001988 10.00 18.86--11.00-12.0016.00-21.005.00-11.009.00-15.5010.00-28.009.00-26.001989 14.00 18.1018.2019.1011.00-13.0013.00-25.005.00-14.0011.00-20.509.80-30.009.80-28.001990 15.00 17.4118.0218.3613.0010.00-32.005.00-14.0011.00-21.0010.00-30.009.00-28.001991 17.00 16.3316.3817.4314.00-18.0014.00-19.006.50-14.0010.00-20.009.80-30.009.80-28.001992 17.00 17.6718.0518.9915.00-17.0013.00-27.006.50-14.0013.50-20.0010.00-30.009.00-30.001993 17.00 18.0918.4719.3816.00-18.5016.50-28.005.50-14.0013.50-17.5016.50-30.0016.50-28.001994 17.00 18.7319.2919.4314.00-16.0014.00-28.005.50-13.0010.00-17.0015.00-30.0016.50-28.001995 17.00 19.2618.9118.9714.0016.00-102.005.00-13.0010.00-17.0017.00-30.0017.00-28.001996 17.00 17.4517.4017.3813.00-15.0013.00-31.004.50-13.0012.00-17.7515.00-30.0015.00-28.001997 17.00 9.9710.0910.2111.25-14.509.00-20.003.00-11.008.50-15.2514.00-28.0014.00-29.001998 17.00 12.0112.3412.5911.25-12.2511.25-16.502.00-10.009.00-13.007.70-30.007.50-33.001999 16.00 11.7912.2912.7712.00-12.509.75-14.252.00-10.009.00-12.5012.00-28.0013.00-29.002000 25.00 17.7717.9018.2211.00-12.0020.25-32.002.00-11.009.00-15.0014.00-28.5010.00-29.002001 18.00 12.9213.2713.7413.00-15.0012.25-13.504.00-12.009.50-14.5012.00-26.5012.00-30.002002 18.00 9.929.899.9113.0010.13-11.253.50-11.007.50-11.0012.00-25.0010.00-29.002003 15.00 7.357.307.248.00-13.007.35-8.502.10-7.255.00-7.757.00-23.007.00-29.002004 15.00 7.257.657.658.907.75-11.003.00-7.755.50-9.759.00-23.008.00-22.002005 15.00 10.1010.3210.378.90-11.009.90-11.133.00-10.255.50-11.509.00-23.0010.00-22.502006 15.00 12.7612.7812.9610.6011.50-15.383.00-10.505.50-14.008.36-27.007.86-27.002007 15.00 21.3019.9919.9611.00-19.0012.50-40.003.00-16.508.50-20.0010.00-30.0010.00-30.002008 15.00 17.3318.5719.12-12.25-20.303.00-16.508.50-20.2510.00-30.0010.00-30.002009 15.00 7.738.739.3314.007.00-9.501.50-10.507.25-19.009.50-30.009.15-30.002010 15.00 7.247.357.55-7.00-8.351.50-9.505.05-17.008.20-25.008.00-28.002011 15.00 8.688.719.31-8.00-9.751.00-8.505.55-11.005.15-24.004.50-26.002012 15.00 10.0011.3211.69-9.50-10.600.75-10.505.00-17.009.50-25.004.50-26.00201315.007.547.858.29-7.50-7.800.75-9.146.00-16.008.50-23.005.00-26.00201415.005.745.846.01-5.85-6.500.50-8.003.95-12.005.90-24.004.75-24.00201515.006.456.837.30-6.25-6.450.50-8.003.95-15.006.00-24.004.74-24.00201615.008.729.6310.17-8.35-8.440.50-9.004.50-15.003.00-24.001.50-24.00",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      45.37,
+      721.55,
+      534.94,
+      735.95
+    ],
+    "text": "(a) The rate at which the Central Bank grants advances to banking institutions as the lender of last resort.(b) Minimum and maximum rates of average weighted call money rate (AWCMR) during the month of December each year.Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      59.78,
+      80.88,
+      538.86,
+      119.76
+    ],
+    "text": "SOCIO-ECONOMIC CONDITIONSTABLE 10Key Socio-economic Indicators in Sri LankaBased on Consumer Finances and Socio-economic Surveys - 1953 - 2003/04",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      68.28,
+      124.17,
+      542.69,
+      131.37
+    ],
+    "text": "Item1953196319731978/791981/821986/87(a)1996/97(a)2003/04(a)2003/04(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.94,
+      134.19,
+      538.02,
+      727.78
+    ],
+    "text": "Household Characteristics Number of Individuals per HouseholdUrbann.a. 5.97 5.78 5.67 5.50 5.17 4.89 4.40 4.44 Ruraln.a. 5.70 5.63 5.49 5.20 5.09 4.56 4.24 4.28 Estaten.a. 5.80 5.24 4.73 4.80 4.78 4.74 4.56 4.56 Alln.a. 5.75 5.62 5.46 5.20 5.10 4.61 4.27 4.31 Number of Spending Units per HouseholdUrbann.a. 1.21 1.09 1.20 1.15 1.22 1.16 1.26 1.23 Ruraln.a. 1.07 1.05 1.08 1.04 1.05 1.07 1.10 1.10 Estaten.a. 1.02 1.01 1.01 1.01 1.01 1.02 1.04 1.04 Alln.a. 1.08 1.05 1.10 1.06 1.08 1.08 1.12 1.11 Number of Income Receivers per HouseholdUrbann.a.n.a. 1.12 1.63 1.60 1.78 1.80 1.76 1.73 Ruraln.a.n.a. 1.30 1.54 1.50 1.51 1.59 1.56 1.55 Estaten.a.n.a. 2.50 2.40 2.50 2.39 2.06 1.87 1.87 Alln.a.n.a. 1.40 1.64 1.60 1.62 1.64 1.60 1.59 Population DistributionBy Gender, %Male 51.7 50.7 50.1 48.9 49.0 48.548.447.747.6Female 48.3 49.3 49.9 51.1 51.0 51.551.652.352.4By Age Groups, %0-13 Yearsn.a. 40.5 38.4 34.2 34.0 30.8 25.1 23.4 24.2 14-18 Yearsn.a. 11.5 11.5 12.3 11.3 11.7 11.5 9.9 10.0 19-25 Yearsn.a. 10.9 13.1 13.7 13.5 12.5 11.7 12.0 12.0 26-35 Yearsn.a. 12.4 12.3 13.7 14.4 14.3 14.4 13.7 13.6 36-45 Yearsn.a. 10.1 9.9 9.6 9.9 11.2 13.3 14.1 13.9 46-55 Yearsn.a. 7.3 6.4 7.6 8.0 8.4 10.7 12.7 12.5 Above 55 Yearsn.a. 7.2 8.4 8.9 8.9 11.1 13.3 14.1 13.8 Education and HealthEducation, % of Population Aged 5 years and above Literacy Rate, %n.a. 79.4 80.8 86.2 85.4 88.6 91.8 93.0 92.5 Malen.a. 87.1 86.9 90.9 89.9 92.2 94.3 94.9 94.5 Femalen.a. 71.4 74.7 81.9 81.1 85.2 89.4 91.3 90.6 Educational Attainment, %No Schooling 41.8 26.8 22.9 14.9 15.1 11.8 8.6 7.4 7.9 Primary 46.8 45.5 43.2 43.8 42.9 41.1 35.2 29.1 29.9 Secondary 9.8 22.7 27.3 29.8 29.2 32.1 35.5 42.2 41.0 Post Secondary 1.8 5.0 6.6 11.5 12.8 15.0 20.7 21.3 21.2 Health Persons in ill Health, % of PopulationUrbann.a.n.a.n.a. 7.5 9.3 10.9 12.8 12.3 12.2 Ruraln.a.n.a.n.a. 8.6 10.9 12.6 13.5 13.8 13.7 Estaten.a.n.a.n.a. 9.7 11.4 8.8 8.5 10.1 10.1 Alln.a.n.a.n.a. 9.7 10.6 12.0 13.2 13.4 13.3 Labour Force, Employment and Unemployment (c)Labour Force, % of Population 40.0 31.7 33.9 38.0 34.3 38.1 39.7 40.2 38.9 Male 56.0 n.a. 48.0 50.1 49.7 51.7 53.0 55.4 54.3 Female 22.9 n.a. 19.8 26.0 19.4 25.4 27.3 26.3 24.9 Employment by Industrial Sector, % of EmployedAgriculture, Forestry and Fishingn.a. 53.0 54.5 48.3 51.2 47.7 37.7 32.8 32.8 Industryn.a. 10.0 11.7 20.9 19.5 21.6 25.6 26.8 26.0 Servicesn.a. 37.0 33.8 30.8 29.3 30.7 36.7 40.4 41.2 Unemployment, % of Labour Force Aged 14 and above 16.6 13.8 24.0 14.7 11.7 15.5 10.4 9.0 8.9 By GenderMale 15.3 n.a. 18.9 9.2 7.8 11.3 6.4 6.5 6.3 Female 20.0 n.a. 36.4 24.9 21.3 23.6 17.5 13.9 14.2 By Age Groups14-18 Yearsn.a. 47.5 65.8 30.7 30.8 48.0 35.6 36.7 35.3 19-25 Yearsn.a. 30.3 47.8 31.1 28.8 35.3 30.4 28.9 28.6 26-35 Yearsn.a. 7.8 15.2 13.1 8.8 10.6 8.8 6.9 7.0 36-45 Yearsn.a. 2.4 3.9 2.7 1.7 3.2 2.4 2.0 1.9 46-55 Yearsn.a. 2.7 1.2 0.8 0.5 0.7 1.0 0.8 0.7 Above 55 Yearsn.a. 1.9 0.8 0.2 0.1 0.6 0.4 0.5 0.5 By Education LevelNo Schooling - Illiterate No Schooling - Literate16.6 6.3 8.4 3.5 2.4 3.0 0.7 0.8 0.8 5.7 6.8 2.8 1.9 1.3 0.0 1.6 1.5 Primary 16.4 10.5 14.1 6.6 4.8 5.0 2.3 2.0 1.9 Secondary 17.9 23.0 37.1 21.3 14.6 19.8 11.4 8.9 8.7 Passed GCE (O/L)/SSC 25.0 39.3 47.4 27.6 24.5 28.5 18.9 13.8 13.8 Passed GCE (A/L)/HSC Graduate 2.9 13.9 44.4 36.4 34.8 34.8 27.8 18.8 19.3 16.2 5.3 9.7 7.6 9.3 11.9 12.4 By SectorUrbann.a. 17.8 32.1 20.7 14.2 17.3 13.4 9.0 8.8 Ruraln.a. 14.6 24.5 14.6 12.0 16.0 10.2 9.0 8.9 Estaten.a. 7.5 12.0 5.6 5.0 9.7 6.9 9.2 9.2",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      522.84,
+      731.24,
+      543.38,
+      738.44
+    ],
+    "text": "(contd.)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      51.27,
+      80.88,
+      530.36,
+      119.0
+    ],
+    "text": "SOCIO-ECONOMIC CONDITIONS TABLE 10 (Contd.)Key Socio-economic Indicators in Sri LankaBased on Consumer Finances and Socio-economic Surveys - 1953 - 2003/04",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59.78,
+      122.65,
+      535.91,
+      129.85
+    ],
+    "text": "Item1953196319731978/791981/821986/87(a)1996/97(a)2003/04(a)2003/04(b)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48.46,
+      141.68,
+      529.52,
+      675.94
+    ],
+    "text": "Housing and Household AmenitiesHousing Conditions, % of HouseholdsWattle and Daub Walls 59.5 54.9 44.2 38.9 43.4 39.7 23.3 12.0 12.5 Brick Walls 28.9 34.3 25.0 25.2 26.2 35.0 54.0 55.4 55.4 Clay Floors 50.7 40.3 44.9 45.4 41.9 39.3 25.9 14.6 14.5 Cement Floors 24.7 38.6 45.0 54.4 52.5 58.5 73.2 77.7 77.9 Thatched Roof 56.7 49.3 35.1 31.7 36.3 25.0 10.5 4.5 5.6 Tiled Roof 27.6 36.6 33.6 42.9 39.1 45.4 58.3 58.5 58.6 Availability of Electricity, % of Households 4.1 7.0 8.0 13.1 15.8 26.5 56.8 76.1 74.9 Water Supply & Sanitation, % of HouseholdsPipe Borne Water 11.3 5.0 21.0 21.8 18.4 22.6 31.0 41.4 38.9 Separate Toilets 53.8 37.6 58.7 56.5 60.5 76.5 88.3 92.1 90.1 Common Toilets 27.7 30.5 n.a 14.9 9.6 6.6 5.2 4.5 4.4 Without Toilets 18.5 31.9 41.3 28.6 29.9 16.9 6.5 3.4 5.6 Availability of Household Equipment,% of HouseholdsRadion.a. 20.0 25.4 49.9 60.7 67.1 73.6 79.9 78.3 Televisionn.a.n.a.n.a.n.a. 3.8 19.6 50.6 73.4 70.8 Telephone /Cellular Phonen.a.0.80.3 0.7 0.9 1.4 4.5 25.5 24.5 Bicyclen.a.n.a.n.a. 21.5 31.5 34.0 40.5 43.1 46.6 Motor Cycle/Scootern.a.n.a.n.a. 0.9 2.4 5.3 12.0 16.1 16.3 Motor Car/Vann.a.n.a.n.a. 1.9 2.3 3.0 3.4 6.2 5.8 Refrigerator0.9 1.0 1.3 2.3 2.9 8.1 16.8 31.4 29.7 Sewing Machinen.a. 22.0 26.2 31.3 30.7 37.2 41.5 45.8 43.6 Washing Machinen.a.n.a.n.a.n.a.n.a. 0.8 2.9 8.0 7.6 Air Conditionern.a.n.a.n.a.n.a.n.a.n.a.0.30.90.9Personal Computern.a.n.a.n.a.n.a.n.a.n.a.0.44.44.1Income DistributionMean Income, Rs. Per MonthPer Spending Unit 169 193 311 921 1,652 2,728 8,744 15,624 15,400 Per Income Receiver 108 134 228 606 1,108 1,817 5,760 10,907 10,754 Income Shares by Deciles of Income Receivers %1st Decile 1.5 1.2 1.8 1.2 1.2 1.1 1.3 1.2 1.1 2nd Decile 3.6 2.7 3.2 2.6 2.5 2.5 2.8 2.6 2.5 3rd Decile 3.6 3.6 4.4 3.6 3.4 3.4 3.9 3.8 4.1 4th Decile 4.4 4.6 5.7 4.8 4.5 4.4 4.9 4.5 4.2 5th Decile 5.7 5.6 7.1 5.9 5.5 5.7 6.1 5.8 5.8 6th Decile 6.3 6.8 8.8 7.4 6.9 6.8 7.4 7.2 7.3 7th Decile 7.9 9.0 10.6 9.1 8.5 8.4 9.1 8.9 8.7 8th Decile 10.4 11.5 12.7 11.4 10.7 11.1 11.6 11.3 11.2 9th Decile 14.2 16.0 15.9 15.4 14.9 15.4 15.7 15.3 15.4 10th Decile 42.5 39.2 30.0 38.7 41.9 41.4 37.3 39.4 39.7 Gini Coefficient, One Month IncomeSpending Units 0.46 0.45 0.35 0.43 0.45 0.46 0.43 0.46 0.46 Income Receivers 0.50 0.49 0.41 0.50 0.52 0.52 0.48 0.50 0.50 Expenditure, Rs. per MonthPer Spending Unit 162 191 310 877 1,570 2,175 8,592 15,405 15,278 Per Person 34 36 58 179 318 534 2,012 4,032 3,936 Expenditure Shares, %Food 59.9 56.3 55.4 56.7 56.5 52.2 48.4 37.0 37.9 Clothing and Apparel 7.9 9.6 7.6 10.6 7.7 7.6 6.3 8.1 8.3 Housing 3.6 7.3 6.8 5.8 5.9 7.8 10.8 11.2 10.7 Medical 1.3 2.8 1.6 1.7 1.6 2.2 2.4 3.5 3.4 Education 2.0 1.8 2.2 1.6 1.6 2.1 2.3 3.0 3.0 Transport and Communication 2.6 2.3 3.4 4.5 3.9 4.9 5.3 9.0 8.8 Fuel and Light 2.0 4.4 4.2 3.9 5.2 4.6 3.9 4.3 4.4 Consumer Durables 3.2 0.4 6.0 4.6 6.4 5.2 6.7 9.1 8.9 Interest on Debt 0.7 0.8 0.1 0.4 0.5 0.9 2.1 1.6 1.5 Other 16.8 14.3 12.7 10.2 10.7 12.5 11.8 13.2 13.1 Savings and BorrowingsSavings Rate, % of Incomen.a.n.a. 18.4 13.0 11.7 13.0 10.4 12.0 11.1 Distribution of Number of Loans, %Institutional Sourcesn.a. 7.6 11.5 10.7 9.7 16.6 43.1 45.0 44.4 Non-Institutional Sourcesn.a. 92.4 88.5 89.3 90.3 83.4 56.9 55.0 55.6",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45.72,
+      678.24,
+      420.57,
+      714.23
+    ],
+    "text": "(a) Excluding Northern and Eastern Provinces(b) Excluding Kilinochchi, Mannar and Mullaitivu Districts(c) Household members who worked more than one hour as paid employee, employer, own account worker (self-employed) or unpaid family worker during the reference period were considered as employed only for CFS 2003/04 n.a. - Not available",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      451.99,
+      677.82,
+      536.15,
+      685.01
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      59.58,
+      80.87,
+      538.33,
+      118.77
+    ],
+    "text": "SOCIO-ECONOMIC CONDITIONSTable 11Key Socio-economic Indicators by ProvinceBased on Consumer Finances and Socio-economic Survey - 2003/04",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      68.08,
+      122.13,
+      541.15,
+      136.52
+    ],
+    "text": "ItemWesternCentralSouthernNorthern(a)EasternNorthWesternNorthCentralUvaSabara-gamuwaAll Island",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51.4,
+      139.68,
+      537.3,
+      321.44
+    ],
+    "text": "Household CharacteristicsNumber of Individuals per Household 4.27 4.35 4.49 4.74 4.61 4.08 4.10 4.35 4.22 4.31 Number of Spending Units per Household 1.21 1.08 1.11 1.07 1.04 1.07 1.07 1.04 1.08 1.11 Number of Income Receivers per Household 1.72 1.59 1.60 1.65 1.43 1.54 1.41 1.39 1.64 1.59 Population Distribution By Gender, %Male 46.7 48.5 47.2 45.7 46.4 48.2 48.8 48.3 48.6 47.6 Female 53.3 51.5 52.8 54.3 53.6 51.8 51.2 51.7 51.4 52.4 By Age Group, %0 - 4 Years 7.8 8.1 6.8 7.2 10.3 8.0 8.6 7.9 7.4 7.9 5 - 9 Years 7.6 7.6 9.0 10.4 11.2 7.6 7.1 9.0 7.7 8.2 10 - 14 Years 8.2 10.0 11.3 10.8 12.3 9.4 10.9 12.3 9.9 10.0 15 - 18 Years 6.7 8.1 8.8 8.0 9.0 7.8 8.2 10.2 8.1 8.0 19 - 24 Years 10.2 10.8 9.9 12.2 10.4 10.6 11.0 9.6 10.8 10.5 25 - 34 Years 15.4 13.5 12.4 12.3 13.3 14.2 15.0 11.6 13.7 13.9 35 - 44 Years 14.4 13.3 13.0 10.2 13.3 13.9 14.2 15.1 13.5 13.7 45 - 54 Years 12.5 13.7 12.1 11.8 9.9 13.6 12.7 11.8 13.4 12.6 55 - 64 Years 9.0 7.9 7.7 8.9 5.8 8.0 6.8 7.3 8.1 8.0 Over 64 Years 8.1 7.0 9.1 8.3 4.5 7.0 5.6 5.3 7.4 7.3 Migration, Persons per 1,000 HouseholdsInternal, within last 12 months 15.6 19.6 32.5 91.7 82.6 19.9 27.5 25.5 30.6 29.0 External, within last 24 months 62.5 47.7 34.5 72.2 118.1 105.6 68.1 24.3 22.3 60.5 Education and Health",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.76,
+      322.19,
+      537.46,
+      622.74
+    ],
+    "text": "Education, % of Population Aged 5 years and above Literacy Rate, % 96.4 89.3 92.7 92.5 86.6 93.5 92.6 88.3 91.5 92.5 Male 97.5 92.7 94.3 93.5 90.0 95.3 94.5 91.4 94.3 94.5 Female 95.4 86.1 91.4 91.8 83.5 91.8 90.8 85.5 88.9 90.6 Educational Attainment, %No Schooling 3.9 11.1 7.7 7.6 13.8 6.7 7.6 11.9 9.0 7.9 Primary 23.6 31.6 31.6 32.1 37.9 30.4 30.7 35.6 30.6 29.9 Secondary 45.5 39.6 38.3 31.8 31.3 42.4 44.4 38.7 43.1 41.0 Post Secondary 27.0 17.7 22.4 28.5 17.0 20.6 17.3 13.8 17.2 21.2 Tuition for Formal Education, % of Students in Formal EducationPrimary 55.7 32.9 41.5 56.7 41.9 36.0 29.4 30.5 37.3 41.7 Secondary 63.2 46.1 53.8 71.1 57.2 51.9 40.3 50.3 49.6 54.0 Post Secondary 72.0 72.3 70.8 65.4 61.4 67.8 73.0 77.1 68.5 70.1 All 60.4 42.1 50.3 62.8 48.6 46.2 38.1 42.2 45.7 49.6 Extra Curricular Activities, % of Students in Formal Education 24.2 8.0 8.0 3.7 3.4 14.4 5.1 9.2 7.9 11.8 Health Persons in ill Health by Age Group, % of Population0 - 14 Years 17.7 10.8 17.1 6.6 9.1 14.5 13.6 15.1 13.7 14.2 15 - 34 Years 9.7 6.4 9.7 6.5 9.2 9.6 9.1 8.7 6.5 8.7 35 - 54 Years 15.0 10.7 13.3 16.3 17.6 16.5 11.5 15.2 12.2 14.1 55 - 64 Years 22.1 11.3 15.3 24.5 20.7 19.3 18.4 19.6 15.0 18.4 Over 64 Years 23.2 13.5 21.2 31.2 22.3 26.6 20.1 30.2 19.1 22.1 All 15.2 9.6 14.1 12.3 12.4 14.7 12.2 14.2 11.5 13.3 Labour Force, Employment and Unemployment (b) Labour Force, % of Population Aged 10 and above 47.2 47.4 46.7 32.9 37.2 46.1 48.3 48.1 51.4 46.4 Male 67.2 65.3 62.2 51.9 59.2 67.9 68.2 64.0 68.1 65.3 Female 30.0 30.8 33.2 17.5 18.2 26.5 28.8 33.4 35.7 29.5 Employment by Industrial Sector, % of EmployedAgriculture, Forestry and Fishing 9.3 43.8 39.8 25.9 36.1 28.5 50.9 63.7 44.9 32.8 Industry 35.9 19.1 24.1 17.7 16.6 32.5 15.6 9.2 27.4 26.0 Services 54.8 37.1 36.1 56.4 47.3 39.0 33.5 27.2 27.8 41.2 Unemployment, % of Labour Force 8.5 10.8 11.7 5.8 8.4 8.0 8.5 8.1 7.1 8.9",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.48,
+      624.63,
+      537.34,
+      711.08
+    ],
+    "text": "By GenderMale 6.6 6.9 8.2 3.1 3.9 5.4 6.5 5.5 5.7 6.3 Female 12.0 18.4 17.4 12.5 21.1 14.1 13.3 12.7 9.5 14.2 By Age Groups15 - 18 Years 34.1 46.0 45.1 0.0 25.6 33.3 32.7 40.3 24.2 36.0 19 - 24 Years 28.2 34.5 37.3 14.6 32.6 28.3 26.5 31.3 25.2 30.0 25 - 34 Years 8.0 9.3 13.0 13.4 7.7 8.2 8.5 7.3 8.1 8.9 35 - 44 Years 1.9 3.2 3.8 0.0 0.7 1.1 2.6 0.5 2.4 2.1 45 - 54 Years 1.3 0.7 1.4 0.00.0 0.2 0.4 0.7 0.4 0.8 55 - 64 Years 0.6 0.4 0.4 0.0 1.1 0.5 0.0 0.9 0.4 0.5 Over 64 Years 0.6 0.0 0.8 0.00.00.00.00.00.0 0.3",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      523.57,
+      713.1,
+      544.11,
+      720.29
+    ],
+    "text": "(contd.)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51.27,
+      80.88,
+      529.94,
+      92.87
+    ],
+    "text": "SOCIO-ECONOMIC CONDITIONSTable 11 (Contd.)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      133.27,
+      96.14,
+      447.93,
+      120.13
+    ],
+    "text": "Key Socio-economic Indicators by ProvinceBased on Consumer Finances and Socio-economic Survey - 2003/04",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.78,
+      124.96,
+      535.45,
+      139.36
+    ],
+    "text": "ItemWesternCentralSouthernNorthern(a)EasternNorthWesternNorthCentralUvaSabara-gamuwaAll Island",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      45.6,
+      142.43,
+      531.75,
+      241.37
+    ],
+    "text": "Housing, Household Amenities and Land Ownership Housing Conditions, % of Households Own House 90.5 76.4 94.9 63.3 91.5 95.1 97.6 85.4 90.6 89.2 Brick/Cement Block /Cabook /Stone Wall 90.4 86.2 85.1 83.7 77.1 82.1 80.1 81.7 80.1 84.6 Cement/Terrazo/Tiled Floor 94.0 75.5 81.9 82.2 80.9 82.7 66.2 64.5 78.0 81.8 Tiles/Asbestos /Concrete Roof 90.9 62.9 91.6 78.1 77.2 78.5 77.7 72.4 79.2 81.1 Availability of Electricity, % of Households 92.4 72.7 78.4 63.6 65.6 68.5 62.0 56.7 64.7 74.9 Water Supply and Sanitation, % of Households Pipe Borne Water to House 51.7 29.8 34.1 3.1 17.4 15.5 15.2 21.3 25.1 30.8 Own Well 30.8 16.1 32.5 36.7 45.1 43.2 37.7 24.1 22.7 31.1 Separate Water Seal Toilet 84.6 69.6 86.4 42.8 42.6 83.2 71.7 72.7 79.3 76.5 Without Toilet 1.0 5.0 3.4 14.4 29.2 4.6 7.3 4.6 2.7 5.6",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51.27,
+      243.68,
+      531.75,
+      250.87
+    ],
+    "text": "Household Ownership of Land, % of Households 93.0 77.8 95.3 82.2 95.7 96.5 97.5 85.2 89.5 91.0",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      45.59,
+      253.18,
+      531.66,
+      719.5
+    ],
+    "text": "Availability of Household Equipment, %of Households Radio 84.1 78.1 79.4 68.9 62.7 78.1 75.7 76.6 78.2 78.3 Television 85.8 70.6 67.7 43.9 49.2 72.6 65.7 57.3 67.6 70.8 Telephone/Cellular Phone 45.3 17.1 18.3 19.7 13.9 23.1 13.9 9.1 13.4 24.5 Bicycle 39.4 16.7 55.5 86.7 73.8 71.2 80.1 31.5 19.7 46.6 Motor Cycle / Scooter 19.9 6.6 14.8 20.3 16.1 27.2 20.9 6.5 9.4 16.3 Motor Car / Van 12.1 3.5 2.8 3.1 2.7 5.5 3.8 2.3 2.7 5.8 Refrigerator 53.6 21.8 24.1 12.8 16.9 27.6 19.4 11.1 18.9 29.7 Sewing Machine 58.4 38.8 45.7 25.6 23.8 44.1 36.9 28.5 39.9 43.6 Washing Machine 17.8 5.5 3.7 0.8 5.4 4.3 2.4 2.0 2.2 7.6 Air Conditioner 2.1 0.4 0.3 0.6 0.5 0.7 0.9 0.1 0.1 0.9 Personal Computer 9.9 2.6 2.5 2.8 1.2 2.5 1.2 0.5 1.6 4.1 Income Distribution Mean Income, Rs. Per Month Per Household 25,602 14,029 13,733 15,201 13,395 15,792 15,624 11,178 12,225 17,109 Per Person 5,999 3,222 3,060 3,208 2,905 3,872 3,814 2,570 2,894 3,968 Per Income Receiver 14,892 8,830 8,559 9,228 9,377 10,276 11,093 8,022 7,438 10,754 Median Income, Rs. Per Month Per Household 17,810 9,835 10,550 10,430 8,500 11,322 10,395 7,800 8,923 11,350 Per Income Receiver 9,475 5,976 6,177 6,500 5,908 7,173 6,820 5,362 5,271 6,975 Income Shares by Deciles of Income Receivers, %1st Decile 1.4 1.6 1.1 0.5 0.5 1.2 1.2 1.7 1.3 1.1 2nd Decile 2.5 3.2 2.7 1.8 1.8 2.9 2.9 3.2 2.9 2.5 3rd Decile 3.7 3.9 4.2 2.9 3.4 4.1 3.6 4.0 4.2 4.1 4th Decile 4.2 4.9 5.3 5.2 3.9 5.2 4.6 4.9 5.4 4.2 5th Decile 5.6 6.1 6.6 5.7 5.5 6.4 5.6 6.1 6.5 5.8 6th Decile 7.0 7.4 8.0 8.0 7.0 7.7 6.8 7.6 7.8 7.3 7th Decile 8.6 9.3 9.8 9.5 8.6 9.3 8.0 9.4 9.7 8.7 8th Decile 11.1 11.8 12.3 11.7 10.6 11.7 10.5 11.5 11.9 11.2 9th Decile 16.0 15.6 16.0 15.0 14.7 15.5 14.8 15.3 16.1 15.4 10th Decile 39.8 36.4 34.0 39.8 43.9 36.0 42.0 36.3 34.2 39.7 Gini Coefficient, One Month Income Household 0.44 0.43 0.39 0.44 0.51 0.42 0.47 0.43 0.41 0.46 Spending Units 0.47 0.42 0.39 0.44 0.51 0.42 0.48 0.43 0.40 0.46 Income Receivers 0.51 0.47 0.46 0.52 0.55 0.47 0.51 0.46 0.45 0.50 Expenditure and Consumption Expenditure, Rs. per Month Per Household 25,274 13,449 14,461 15,425 14,461 16,365 12,943 11,152 11,796 16,974 Per Person 5,922 3,089 3,222 3,255 3,136 4,012 3,159 2,564 2,793 3,936 Per Capita Consumption Expenditure Shares, % Food and Non-Alcoholic Beverages 27.2 39.7 38.4 42.9 42.4 34.4 40.3 43.3 42.2 34.4 Alcoholic Beverages, Tobacco and Narcotics 1.7 2.9 2.4 2.1 2.6 2.4 2.7 2.8 2.7 2.2 Clothing and Footwear 6.0 8.3 6.0 4.5 8.4 6.2 6.7 6.7 7.4 6.6 Housing, Water, Electricity, Gas and Other Fuels 19.2 15.1 11.9 10.6 10.3 10.9 11.0 12.2 12.2 15.0 Furnishings, Household Equipment and Maintenance 5.4 5.6 6.0 5.4 6.2 6.5 7.5 5.9 4.9 5.8 Health 4.1 2.8 3.7 2.5 3.1 3.1 2.4 2.6 2.8 3.4 Transport 10.8 6.5 8.5 9.2 7.1 14.8 7.9 7.6 7.5 9.8 Communication 2.7 1.9 2.0 2.4 1.6 2.3 1.4 1.2 1.3 2.2 Recreation and Culture 7.6 7.0 8.3 8.1 6.7 7.7 6.5 8.1 8.4 7.6 Education 2.8 2.0 2.2 2.7 2.2 1.7 1.4 1.7 1.7 2.3 Restaurants and Hotels 1.9 1.0 1.0 1.9 2.8 1.0 0.8 0.7 0.8 1.5 Miscellaneous Goods and Services 8.7 6.2 7.9 7.0 5.9 7.8 9.6 6.3 6.9 7.8 Interest on Debt 1.9 1.0 1.8 0.8 0.8 1.2 1.9 0.8 1.1 1.5 Nutritional Intake Energy, calories 2,262 2,317 2,259 2,426 2,274 2,465 2,468 2,349 2,329 2,325 Protein, grams 66 64 60 72 66 70 70 58 61 65 Savings and Borrowings Savings Rate, % of Household Income 11.5 10.5 6.4 7.6 -0.9 14.5 26.2 8.2 11.4 11.1 Net Investment Rate, % of Household Income 20.0 18.8 10.5 37.4 30.2 28.6 83.2 21.5 22.0 24.9 Borrowing Rate, % of Household Income 19.1 18.4 31.3 39.0 43.6 22.3 14.2 21.3 14.7 22.1",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      45.59,
+      721.37,
+      408.98,
+      742.97
+    ],
+    "text": "a) Excluding Kilinochchi, Mannar and Mullaitivu districts.b) Household members who worked more than one hour as paid employees, employers, own account workers (self employed) or unpaid family workers during the reference period were considered as being employed.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      451.43,
+      720.64,
+      535.59,
+      727.83
+    ],
+    "text": "Source: Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51.02,
+      47.43,
+      550.04,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.28,
+      80.88,
+      538.33,
+      121.09
+    ],
+    "text": "SOCIO-ECONOMIC CONDITIONSTABLE 12Key Socio-economic Indicators by Province Based on Household Income and Expenditure Survey - 2012/13",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      212.64,
+      126.38,
+      542.34,
+      140.77
+    ],
+    "text": "WesternCentral SouthernNorthernEasternNorth WesternNorth CentralUvaSabaraga-muwaAll Island",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52.18,
+      144.99,
+      539.73,
+      166.23
+    ],
+    "text": "Household CharacteristicsNumber of Individuals per Household4.04.03.84.14.03.73.73.83.83.9Number of Income Receivers per Household1.91.81.81.81.61.71.71.61.81.8",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52.16,
+      173.2,
+      539.7,
+      201.66
+    ],
+    "text": "Population Distribution By Gender, %Male47.546.647.047.046.447.047.147.147.447.1Female52.553.453.053.053.653.052.952.952.652.9",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.22,
+      208.63,
+      539.68,
+      237.09
+    ],
+    "text": "By Age Group, %0 - 14 years23.826.725.726.931.225.827.228.224.125.915 - 59 years61.459.659.160.660.061.361.559.860.760.6Over 59 years14.713.815.212.58.912.911.211.915.213.6",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.19,
+      244.06,
+      539.65,
+      286.69
+    ],
+    "text": "By Educational Attainment, %No Schooling2.25.24.02.14.43.53.66.34.53.7Up to Grade 518.327.025.427.133.825.128.329.725.724.7Grade 6 - 1041.542.743.147.740.746.347.345.545.043.6Passed G.C.E(O/L)19.513.615.613.913.114.313.410.814.615.5Passed G.C.E(A/L) and above18.411.511.89.38.010.77.47.710.112.4",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      52.05,
+      293.67,
+      539.59,
+      414.24
+    ],
+    "text": "Income DistributionMean Income, Rs. Per MonthPer Household64,15240,14641,83434,28630,67642,75636,63235,63840,37545,878Per Person 16,124 10,104 10,973 8,339 7,622 11,596 9,877 9,382 10,718 11,819Per Income Receiver33,56422,29223,60618,91619,83625,85421,84821,90923,13425,963Median Income, Rs. Per MonthPer Household42,10028,90028,92123,57122,71029,34329,70724,228 27,775 30,814Per Person 10,567 7,150 7,624 5,540 5,385 7,927 7,824 6,110 7,229 7,881Per Income Receiver20,50015,08316,00012,69215,00016,61215,93013,86715,00016,667Income Share by Households, %Richest 20%53.149.650.953.049.852.044.553.851.952.9Poorest 20%5.05.05.23.84.24.45.54.15.14.5Middle 60%41.945.443.943.246.043.650.142.143.042.6Gini Coefficient, One Month IncomeHouseholds0.470.440.450.480.450.470.390.480.460.48Per Person0.460.430.440.470.440.470.380.470.440.46Income Receivers0.540.500.510.570.500.530.470.540.520.53",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51.91,
+      421.21,
+      539.46,
+      435.49
+    ],
+    "text": "Expenditure, Rs. Per MonthPer Household 58,298 38,989 36,430 34,562 30,886 37,665 33,935 28,867 32,376 41,444",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      51.9,
+      442.47,
+      148.78,
+      449.67
+    ],
+    "text": "Household Expenditure Share, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.98,
+      456.64,
+      539.74,
+      563.08
+    ],
+    "text": "All Food100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0Cereal13.220.315.920.515.816.419.822.519.016.7Prepared Foods16.28.29.28.89.610.26.27.510.111.3Pulses3.24.33.83.31.93.23.94.64.23.5Vegetables7.48.68.56.27.48.59.610.78.88.2Meat4.64.42.04.97.34.94.02.93.04.3Fish10.24.910.513.113.39.48.85.45.39.1Dried Fish4.54.14.50.52.15.54.63.75.24.2Coconut5.55.97.16.45.86.47.35.17.76.2Condiments8.19.010.58.711.29.19.78.39.19.0Milk and Milk Products10.09.79.57.86.97.57.18.48.48.9Fat and Oil1.73.22.03.33.02.33.23.62.72.4Sugar, Jaggery & Treacle2.53.23.34.03.53.13.62.93.13.0Fruits3.22.83.32.72.73.02.52.92.52.9Other9.711.59.79.99.310.69.711.410.810.2",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.2,
+      570.05,
+      539.66,
+      669.37
+    ],
+    "text": "All Non-Food100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0Housing20.818.017.39.315.014.614.016.817.918.1Fuel and Light6.86.25.710.612.35.76.16.36.66.8Personal Care and Health Expenses8.77.47.89.512.08.28.25.59.08.5Transport 13.013.111.711.011.615.514.714.614.413.3Communication3.53.43.14.13.83.33.43.53.43.5Education6.45.35.44.94.94.94.24.55.45.6Cultural Activities and Entertainment2.22.32.21.81.21.32.21.61.62.0Non Durable Household Goods and Services2.01.81.72.52.32.02.12.41.72.0Clothing, Textile and Footwear3.45.44.96.28.45.05.96.05.34.6Durable Household Goods3.13.94.64.54.54.55.66.04.63.9Other Miscellaneous Expenses17.317.018.215.811.719.521.514.218.417.5Other Rare Expenses11.012.714.017.08.912.39.112.67.611.5Liquor, Narcotic Drugs and Tobacco1.73.53.32.73.43.23.06.04.02.7",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      308.47,
+      677.92,
+      543.3,
+      685.11
+    ],
+    "text": "Source : Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      42.52,
+      47.43,
+      541.54,
+      59.44
+    ],
+    "text": "Special Statistical AppendixTrends in Key Economic Variables",
+    "fonts": [
+      "FuturaBT-MediumItalic"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.27,
+      80.88,
+      530.32,
+      92.87
+    ],
+    "text": "SOCIO ECONOMIC CONDITIONSTABLE 13",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      98.5,
+      96.2,
+      483.1,
+      120.19
+    ],
+    "text": "Key Socio-economic Indicators by SectorBased on Household Income and Expenditure Survey 2006/07, 2009/10 & 2012/13",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.78,
+      122.82,
+      494.31,
+      137.17
+    ],
+    "text": "Item2006/07(a)2009/10(b)2012/13",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.59,
+      130.56,
+      532.82,
+      153.25
+    ],
+    "text": "UrbanRuralEstateAll IslandUrbanRuralEstateAll IslandUrbanRuralEstateAll IslandHousehold Characteristics",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.76,
+      155.35,
+      533.12,
+      162.54
+    ],
+    "text": "Number of Individuals per Household 4.3 4.0 4.2 4.1 4.3 4.0 4.2 4.0 4.03.84.33.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.74,
+      164.7,
+      533.09,
+      171.9
+    ],
+    "text": "Number of Income Receivers per Household 1.9 1.8 2.0 1.8 1.9 1.7 2.1 1.8 1.81.72.11.8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.54,
+      174.06,
+      108.02,
+      181.25
+    ],
+    "text": "Population Distribution",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.21,
+      183.41,
+      87.8,
+      190.6
+    ],
+    "text": "By Gender, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.71,
+      192.76,
+      533.07,
+      199.96
+    ],
+    "text": "Male 47.6 48.0 47.9 47.9 47.7 47.4 47.6 47.4 47.447.048.047.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.69,
+      202.12,
+      533.05,
+      209.31
+    ],
+    "text": "Female 52.4 52.0 52.1 52.1 52.3 52.6 52.4 52.6 52.653.052.052.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.16,
+      211.47,
+      97.82,
+      218.67
+    ],
+    "text": "By Age Group, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.66,
+      220.83,
+      533.02,
+      228.02
+    ],
+    "text": "0 - 14 Years 24.6 25.5 29.2 25.6 25.3 25.9 29.7 26.0 24.226.031.125.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.64,
+      230.18,
+      533.0,
+      237.37
+    ],
+    "text": "15 - 59 Years 64.4 63.1 61.0 63.2 61.9 61.8 59.9 61.8 61.560.657.060.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.62,
+      239.53,
+      532.98,
+      246.73
+    ],
+    "text": "Over 59 Years 11.0 11.4 9.8 11.3 12.8 12.3 10.5 12.3 14.313.511.913.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.1,
+      248.89,
+      131.45,
+      256.08
+    ],
+    "text": "By Educational Attainment, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.6,
+      258.24,
+      532.97,
+      265.44
+    ],
+    "text": "No Schooling 3.2 4.6 15.8 4.9 2.5 4.0 13.1 4.2 2.23.512.23.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.59,
+      267.6,
+      532.95,
+      274.79
+    ],
+    "text": "Up to Grade 5 21.2 25.9 43.5 26.1 21.6 24.6 43.0 25.1 19.225.042.024.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.57,
+      276.95,
+      532.93,
+      284.14
+    ],
+    "text": "Grade 6 - 10 40.2 44.2 35.6 43.1 42.1 45.5 37.7 44.6 39.844.838.743.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.54,
+      286.3,
+      532.92,
+      293.5
+    ],
+    "text": "Passed G.C.E (O/L) 20.2 15.0 3.4 15.1 17.5 14.9 3.8 14.7 18.215.54.915.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.54,
+      295.66,
+      532.91,
+      302.85
+    ],
+    "text": "Passed G.C.E (A/L) and Above 15.2 10.4 1.7 10.6 16.2 10.8 2.3 11.2 20.511.12.212.4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.36,
+      305.01,
+      98.88,
+      312.21
+    ],
+    "text": "Income Distribution",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.03,
+      314.37,
+      130.04,
+      321.56
+    ],
+    "text": "Mean Income, Rs. per Month",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.53,
+      323.72,
+      532.89,
+      330.91
+    ],
+    "text": "Per Household 41,928 24,039 19,292 26,286 47,783 35,228 24,162 36,451 69,88041,47830,22045,878",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.51,
+      333.07,
+      532.88,
+      340.27
+    ],
+    "text": "Per Person 9,653 5,993 4,589 6,463 11,245 8,916 5,782 9,104 17,26210,8437,10011,819",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      50.99,
+      342.43,
+      135.07,
+      349.62
+    ],
+    "text": "Median Income, Rs. per Month",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.5,
+      351.78,
+      532.85,
+      358.98
+    ],
+    "text": "Per Household 23,642 16,379 10,480 16,735 31,000 23,126 17,366 23,746 42,26729,37624,08730,814",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.47,
+      361.14,
+      532.84,
+      368.33
+    ],
+    "text": "Per Person 5,240 4,007 2,400 4,043 6,925 5,758 4,161 5,803 10,4207,6575,5037,881",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      50.95,
+      370.49,
+      170.21,
+      377.68
+    ],
+    "text": "Income Shares by Deciles of Households, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.45,
+      379.84,
+      532.81,
+      387.04
+    ],
+    "text": "1st Decile 1.5 1.7 1.7 1.6 1.71.62.1 1.6 1.51.51.91.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.43,
+      389.2,
+      532.79,
+      396.39
+    ],
+    "text": "2nd Decile 2.7 3.1 2.9 2.9 2.92.93.8 2.9 2.83.23.73.0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.4,
+      398.55,
+      532.76,
+      405.75
+    ],
+    "text": "3rd Decile 3.5 4.2 3.7 3.9 4.04.04.8 3.9 3.74.45.14.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.38,
+      407.91,
+      532.74,
+      415.1
+    ],
+    "text": "4th Decile 4.2 5.1 4.4 4.8 5.04.95.7 4.9 4.65.46.45.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.36,
+      417.26,
+      532.71,
+      424.45
+    ],
+    "text": "5th Decile 5.1 6.2 5.1 5.8 6.06.06.7 6.0 5.66.57.46.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.33,
+      426.61,
+      532.69,
+      433.81
+    ],
+    "text": "6th Decile 6.3 7.5 5.8 7.0 7.27.27.8 7.1 6.77.78.77.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.31,
+      435.97,
+      532.67,
+      443.16
+    ],
+    "text": "7th Decile 7.4 9.1 6.8 8.5 8.88.79.1 8.7 8.39.29.98.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.28,
+      445.32,
+      532.65,
+      452.52
+    ],
+    "text": "8th Decile 9.7 11.3 7.9 10.8 11.110.910.6 10.8 10.311.411.810.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.27,
+      454.68,
+      532.63,
+      461.87
+    ],
+    "text": "9th Decile 13.2 15.2 9.7 14.6 15.114.513.4 14.6 14.515.114.814.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.25,
+      464.03,
+      532.61,
+      471.22
+    ],
+    "text": "10th Decile 46.2 36.5 52.0 40.1 38.239.336.0 39.5 42.035.630.338.0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      50.72,
+      473.38,
+      141.45,
+      480.58
+    ],
+    "text": "Income Shares by Households, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.22,
+      482.74,
+      532.58,
+      489.93
+    ],
+    "text": "Richest 20% 59.5 51.8 61.7 54.7 53.3 53.8 49.4 54.1 56.550.745.152.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.2,
+      492.09,
+      532.56,
+      499.29
+    ],
+    "text": "Poorest 20% 4.2 4.8 4.5 4.6 4.7 4.5 5.9 4.5 4.44.75.74.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.18,
+      501.45,
+      533.14,
+      508.65
+    ],
+    "text": "Middle 60% 36.3 43.3 33.8 40.7 42.1 41.7 44.7 41.4 39.244.649.342.6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.26,
+      510.81,
+      150.88,
+      518.01
+    ],
+    "text": "Gini Coefficient, One Month Income",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.76,
+      520.17,
+      533.12,
+      527.36
+    ],
+    "text": "Households 0.54 0.46 0.57 0.49 0.48 0.49 0.43 0.49 0.510.450.390.48",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.74,
+      529.52,
+      533.09,
+      536.72
+    ],
+    "text": "Per Person0.550.460.570.490.490.480.420.490.510.440.370.46",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.71,
+      538.88,
+      533.07,
+      546.07
+    ],
+    "text": "Income Receivers 0.60 0.52 0.46 0.55 0.54 0.54 0.50 0.55 0.560.510.440.53",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.52,
+      548.23,
+      119.33,
+      555.42
+    ],
+    "text": "Expenditure, Rs. per Month",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.19,
+      557.58,
+      533.05,
+      564.78
+    ],
+    "text": "Per Household 35,274 21,440 13,456 22,952 44,928 29,423 23,988 31,331 58,93038,27429,37941,444",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.16,
+      566.94,
+      140.8,
+      574.13
+    ],
+    "text": "Household Expenditure Share, %",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.66,
+      576.29,
+      533.02,
+      583.49
+    ],
+    "text": "Food 31.2 38.7 55.8 37.6 35.6 43.7 50.8 42.3 32.139.249.837.8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.64,
+      585.65,
+      533.02,
+      592.84
+    ],
+    "text": "Housing 16.8 10.2 6.3 11.5 16.9 9.8 4.3 11.0 17.59.45.011.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.63,
+      595.0,
+      532.99,
+      602.19
+    ],
+    "text": "Fuel and Light 5.1 4.4 5.1 4.5 5.0 3.8 4.0 4.1 5.53.84.14.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.61,
+      604.35,
+      532.97,
+      611.55
+    ],
+    "text": "Personal Care and Health Expenses 3.9 4.4 4.5 4.3 5.4 4.4 3.7 4.6 5.35.33.55.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.59,
+      613.71,
+      532.94,
+      620.9
+    ],
+    "text": "Transport8.78.13.78.16.77.74.67.48.98.15.68.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.56,
+      623.06,
+      532.92,
+      630.26
+    ],
+    "text": "Communication3.02.21.32.32.82.31.72.42.72.01.72.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.54,
+      632.42,
+      532.9,
+      639.61
+    ],
+    "text": "Education 3.0 2.7 1.9 2.8 4.0 3.1 1.6 3.2 4.73.21.83.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.51,
+      641.77,
+      532.87,
+      648.96
+    ],
+    "text": "Cultural Activities and Entertainment 1.4 1.1 0.6 1.1 1.1 1.3 2.1 1.3 1.41.21.01.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.49,
+      651.12,
+      532.85,
+      658.32
+    ],
+    "text": "Non Durable Household Goods and Services 1.4 1.3 1.1 1.3 1.4 1.1 1.2 1.2 1.61.11.11.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.47,
+      660.48,
+      532.82,
+      667.67
+    ],
+    "text": "Clothing Textile and Footwear 2.6 3.1 3.9 3.0 2.3 3.0 3.7 2.9 2.43.03.02.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.44,
+      669.83,
+      532.8,
+      677.03
+    ],
+    "text": "Durable Household Goods 2.9 3.7 1.7 3.4 2.0 2.6 2.1 2.5 1.52.82.32.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.42,
+      679.19,
+      532.79,
+      686.38
+    ],
+    "text": "Other Miscellaneous Expenses 10.8 9.9 5.9 10.0 10.8 9.3 8.4 9.5 9.211.510.110.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.41,
+      688.54,
+      532.76,
+      695.73
+    ],
+    "text": "Other Rare Expenses 7.7 8.1 2.4 7.8 4.2 5.7 6.7 5.5 6.47.55.77.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      59.38,
+      697.77,
+      532.74,
+      704.96
+    ],
+    "text": "Liquor, Narcotic Drugs and Tobacco 1.4 2.2 5.9 2.1 1.5 2.1 5.1 2.1 1.01.85.41.7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.19,
+      707.69,
+      279.35,
+      722.08
+    ],
+    "text": "(a) Excluding Northern Province and Trincomalee district in Eastern Province. (b) Excluding Mannar, Kilinochchi and Mullaitivu districts.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      425.36,
+      706.95,
+      535.58,
+      714.14
+    ],
+    "text": "Source: Department of Census and Statistics",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]

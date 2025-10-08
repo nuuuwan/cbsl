@@ -1,0 +1,3555 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      18.76,
+      123.08,
+      43.72,
+      171.08
+    ],
+    "text": "6",
+    "fonts": [
+      "AGaramond-Bold"
+    ],
+    "sizes": [
+      48.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.99,
+      756.46,
+      318.55,
+      767.46
+    ],
+    "text": "xxiv",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      109.24,
+      190.65,
+      118.24
+    ],
+    "text": "ACUAsian Clearing Union",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      125.23,
+      181.61,
+      134.23
+    ],
+    "text": "ADAggregate Demand",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      141.22,
+      204.81,
+      150.22
+    ],
+    "text": "ADBAsian Development Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      157.24,
+      229.7,
+      166.24
+    ],
+    "text": "ALFEAAssociation of Licensed Foreign",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.29,
+      173.24,
+      204.94,
+      182.24
+    ],
+    "text": "Employment Agencies",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      189.23,
+      248.48,
+      198.23
+    ],
+    "text": "APMAAgriculture Product Marketing Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      205.25,
+      221.21,
+      214.25
+    ],
+    "text": "APTAAsia-Pacific Trade Agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      221.24,
+      189.45,
+      230.24
+    ],
+    "text": "ASPIAll Share Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      237.24,
+      208.66,
+      246.24
+    ],
+    "text": "ATMAutomated Teller Machine",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      253.26,
+      227.44,
+      262.26
+    ],
+    "text": "AWDRAverage Weighted Deposit Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      269.25,
+      229.44,
+      278.25
+    ],
+    "text": "AWLRAverage Weighted Lending Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      285.24,
+      253.65,
+      294.24
+    ],
+    "text": "AWPRAverage Weighted Prime Lending Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      301.26,
+      202.94,
+      310.26
+    ],
+    "text": "BCPBusiness Continuity Plan",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      317.26,
+      233.3,
+      326.26
+    ],
+    "text": "BISBank for International Settlement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      333.25,
+      210.79,
+      342.25
+    ],
+    "text": "BISBureau of Indian Standards",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      349.27,
+      168.24,
+      358.27
+    ],
+    "text": "BOCBank of Ceylon",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      365.26,
+      185.58,
+      374.26
+    ],
+    "text": "BOIBoard of Investment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      381.25,
+      187.54,
+      390.25
+    ],
+    "text": "BOPBalance of Payments",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      397.27,
+      220.74,
+      406.27
+    ],
+    "text": "BPOBusiness Process Outsourcing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      413.27,
+      155.34,
+      422.27
+    ],
+    "text": "bpsBasis Points",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      429.26,
+      251.52,
+      438.26
+    ],
+    "text": "CAARPConflict Affected Areas Rehabilitation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.29,
+      445.28,
+      152.47,
+      454.28
+    ],
+    "text": "Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      461.27,
+      207.03,
+      470.27
+    ],
+    "text": "CBSLCentral Bank of Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      477.27,
+      209.51,
+      486.27
+    ],
+    "text": "CCBCoconut Cultivation Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      493.29,
+      234.47,
+      502.29
+    ],
+    "text": "CCPIColombo Consumers\u2019 Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      509.28,
+      230.31,
+      518.28
+    ],
+    "text": "CDACoconut Development Authority",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      525.27,
+      264.37,
+      534.27
+    ],
+    "text": "CDCPIColombo District Consumers\u2019 Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      541.29,
+      231.51,
+      550.29
+    ],
+    "text": "CEACentral Environmental Authority",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      557.29,
+      201.95,
+      566.29
+    ],
+    "text": "CEBCeylon Electricity Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      573.28,
+      295.91,
+      582.28
+    ],
+    "text": "CEPAComprehensive Economic Partnership Agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      589.3,
+      286.23,
+      598.3
+    ],
+    "text": "CFSConsumer Finance and Socio-Economic Survey",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      605.29,
+      275.9,
+      614.29
+    ],
+    "text": "CIDACanadian International Development Agency",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      621.28,
+      228.57,
+      630.28
+    ],
+    "text": "CITCheque Imaging and Truncation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      637.3,
+      250.4,
+      646.3
+    ],
+    "text": "CISCommonwealth of Independent States",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      653.3,
+      178.58,
+      662.3
+    ],
+    "text": "CPCommercial Paper",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      669.29,
+      223.26,
+      678.29
+    ],
+    "text": "CPCCeylon Petroleum Corporation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      685.31,
+      210.05,
+      694.31
+    ],
+    "text": "CPFContributory Pension Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      701.3,
+      192.14,
+      710.3
+    ],
+    "text": "CPIConsumer Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.11,
+      717.3,
+      191.11,
+      726.3
+    ],
+    "text": "CPOCentral Project Office",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      253.24,
+      77.19,
+      355.03,
+      91.19
+    ],
+    "text": "List of Acronyms",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      107.23,
+      458.53,
+      116.23
+    ],
+    "text": "CRIBCredit Information Bureau",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      123.22,
+      456.29,
+      132.22
+    ],
+    "text": "CSEColombo Stock Exchange",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      139.24,
+      428.7,
+      148.24
+    ],
+    "text": "CTCCut, Tear and Curl",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      155.23,
+      447.74,
+      164.23
+    ],
+    "text": "DBUDomestic Banking Unit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      171.23,
+      471.68,
+      180.23
+    ],
+    "text": "DADocument against Acceptance",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      187.25,
+      434.27,
+      196.25
+    ],
+    "text": "DCDesiccated Coconut",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      203.24,
+      493.76,
+      212.24
+    ],
+    "text": "DCSDepartment of Census and Statistics",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      219.23,
+      526.62,
+      228.23
+    ],
+    "text": "DFCCDevelopment Finance Corporation of Ceylon",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      235.25,
+      467.0,
+      244.25
+    ],
+    "text": "DHFDengue Haemorrhagic Fever",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      251.25,
+      458.03,
+      260.25
+    ],
+    "text": "DOADepartment of Agriculture",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      267.24,
+      444.8,
+      276.24
+    ],
+    "text": "DRSDisaster Recovery Site",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      283.26,
+      452.84,
+      292.26
+    ],
+    "text": "DvPDelivery versus Payment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      299.25,
+      484.86,
+      308.25
+    ],
+    "text": "ECBExternal Commercial Borrowings",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      315.25,
+      532.68,
+      324.25
+    ],
+    "text": "EFTPOSElectronic Fund Transfer Facilities at the Point",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      379.21,
+      331.27,
+      404.86,
+      340.27
+    ],
+    "text": "of Sale",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      347.26,
+      460.44,
+      356.26
+    ],
+    "text": "EIBEuropean Investment Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      363.25,
+      462.85,
+      372.25
+    ],
+    "text": "EPFEmployees\u2019 Provident Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      379.27,
+      456.22,
+      388.27
+    ],
+    "text": "ESCEconomic Service Charge",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      395.26,
+      526.31,
+      404.26
+    ],
+    "text": "ESDFPEducational Sector Development Framework",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.79,
+      411.26,
+      403.36,
+      420.26
+    ],
+    "text": "Programme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      427.28,
+      446.09,
+      436.28
+    ],
+    "text": "ETFEmployees\u2019 Trust Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      443.27,
+      420.96,
+      452.27
+    ],
+    "text": "EUEuropean Union",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      459.26,
+      427.53,
+      468.26
+    ],
+    "text": "FCFinance Company",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      475.28,
+      457.5,
+      484.28
+    ],
+    "text": "FDIForeign Direct Investment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      491.28,
+      509.18,
+      500.28
+    ],
+    "text": "FMRAFiscal Management (Responsibility) Act",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      507.27,
+      507.87,
+      516.27
+    ],
+    "text": "FMRPFiscal Management Reform Programme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      523.29,
+      518.97,
+      532.29
+    ],
+    "text": "G-8Group of Eight (Canada, France, Germany,",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.79,
+      539.28,
+      481.91,
+      548.28
+    ],
+    "text": "Italy, Japan, Russia, UK and US)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      555.28,
+      507.94,
+      564.28
+    ],
+    "text": "GAMSGovernment Asset Management System",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      571.3,
+      466.58,
+      580.3
+    ],
+    "text": "GDEGross Domestic Expenditure",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      587.29,
+      450.3,
+      596.29
+    ],
+    "text": "GDPGross Domestic Product",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      603.28,
+      446.8,
+      612.28
+    ],
+    "text": "GNPGross National Product",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      619.3,
+      488.79,
+      628.3
+    ],
+    "text": "GSPGeneralised System of Preferences",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      635.29,
+      518.5,
+      644.29
+    ],
+    "text": "HACCPHazard Analysis and Critical Control Point",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      651.29,
+      545.17,
+      660.29
+    ],
+    "text": "HDFC Bank Housing Development Finance Corporation Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      667.31,
+      521.01,
+      676.31
+    ],
+    "text": "HIESHousehold Income and Expenditure Survey",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      683.3,
+      490.66,
+      692.3
+    ],
+    "text": "IASInternational Accounting Standards",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      699.29,
+      469.22,
+      708.29
+    ],
+    "text": "IBSLInsurance Board of Sri Lanka",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.61,
+      715.31,
+      548.63,
+      724.31
+    ],
+    "text": "ICTADInstitute for Construction Training and Development",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      567.35,
+      122.62,
+      594.52,
+      172.73
+    ],
+    "text": "26",
+    "fonts": [
+      "AGaramond-Bold"
+    ],
+    "sizes": [
+      48.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.55,
+      756.46,
+      317.05,
+      767.46
+    ],
+    "text": "xxv",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      66.28,
+      238.32,
+      75.28
+    ],
+    "text": "IFADInternational Fund for Agricultural",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      129.1,
+      82.27,
+      178.31,
+      91.27
+    ],
+    "text": "Development",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      98.29,
+      211.59,
+      107.29
+    ],
+    "text": "IFFInvestor Facilitation Forum",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      114.28,
+      271.47,
+      123.28
+    ],
+    "text": "IFRSInternational Financial Reporting Standards",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      130.28,
+      216.56,
+      139.28
+    ],
+    "text": "IMFInternational Monetary Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      146.3,
+      220.58,
+      155.3
+    ],
+    "text": "IPPIndependent Power Producers",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      162.29,
+      180.4,
+      171.29
+    ],
+    "text": "IPOInitial Public Offer",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      178.28,
+      250.62,
+      187.28
+    ],
+    "text": "ISLFTAIndo-Sri Lanka Free Trade Agreement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      194.3,
+      199.66,
+      203.3
+    ],
+    "text": "ITInformation Technology",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      210.3,
+      249.96,
+      219.3
+    ],
+    "text": "ITEIntra-group Transaction and Exposure",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      226.29,
+      200.46,
+      235.29
+    ],
+    "text": "JCTJaya Container Terminal",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      242.31,
+      171.39,
+      251.31
+    ],
+    "text": "LCLetters of Credit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      258.3,
+      212.84,
+      267.3
+    ],
+    "text": "LCBLicensed Commercial Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      274.3,
+      233.64,
+      283.3
+    ],
+    "text": "LIBORLondon Inter Bank Offered Rates",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      290.32,
+      239.85,
+      299.32
+    ],
+    "text": "LMFILicensed Micro Finance Institution",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      306.31,
+      209.43,
+      315.31
+    ],
+    "text": "LSBLicensed Specialised Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      322.3,
+      207.39,
+      331.3
+    ],
+    "text": "MBIsMarket Based Instruments",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      338.32,
+      203.49,
+      347.32
+    ],
+    "text": "MFAMulti-Fibre Arrangement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      354.31,
+      204.41,
+      363.31
+    ],
+    "text": "MFIMicro Finance Institution",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      370.31,
+      250.2,
+      379.31
+    ],
+    "text": "MLCPIMatale District Consumer Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      386.33,
+      238.95,
+      395.33
+    ],
+    "text": "MLGPMinistry of Local Government and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      110.71,
+      402.32,
+      185.57,
+      411.32
+    ],
+    "text": "Provincial Councils",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      418.31,
+      227.81,
+      427.31
+    ],
+    "text": "MOFPMinistry of Finance & Planning",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      434.33,
+      176.35,
+      443.33
+    ],
+    "text": "MOPMuriate of Potash",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      450.33,
+      263.61,
+      459.33
+    ],
+    "text": "MPCCMonetary Policy Consultative Committee",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      466.32,
+      185.47,
+      475.32
+    ],
+    "text": "MPIMilanka Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      482.34,
+      250.74,
+      491.34
+    ],
+    "text": "MRCPIMatara District Consumer Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      498.33,
+      170.1,
+      507.33
+    ],
+    "text": "MSLMean Sea Level",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      514.33,
+      257.77,
+      523.33
+    ],
+    "text": "MTMFFMedium Term Macro Fiscal Framework",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      530.35,
+      220.14,
+      539.35
+    ],
+    "text": "NCGNet Credit to the Government",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      546.34,
+      266.78,
+      555.34
+    ],
+    "text": "NCRCSNew Comprehensive Rural Credit Scheme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      562.33,
+      248.36,
+      571.33
+    ],
+    "text": "NCRENon-conventional Renewable Energy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      578.35,
+      282.81,
+      587.35
+    ],
+    "text": "NCSDNational Council for Sustainable Development",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      594.34,
+      187.01,
+      603.34
+    ],
+    "text": "NDANet Domestic Assets",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      610.34,
+      200.21,
+      619.34
+    ],
+    "text": "NDFNet Domestic Financing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      626.36,
+      212.93,
+      635.36
+    ],
+    "text": "NECNational Economic Council",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      642.35,
+      235.92,
+      651.35
+    ],
+    "text": "NEERNominal Effective Exchange Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      658.34,
+      180.4,
+      667.34
+    ],
+    "text": "NFANet Foreign Assets",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      674.36,
+      193.67,
+      683.36
+    ],
+    "text": "NFFNet Foreign Financing",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      690.36,
+      228.71,
+      699.36
+    ],
+    "text": "NFIANet Factor Income from Abroad",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      706.35,
+      264.66,
+      715.35
+    ],
+    "text": "NHDANational Housing Development Authority",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      722.37,
+      188.71,
+      731.37
+    ],
+    "text": "NPLNon-performing loan",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      62.5,
+      738.36,
+      195.17,
+      747.36
+    ],
+    "text": "NSBNational Savings Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      68.47,
+      521.37,
+      77.47
+    ],
+    "text": "NSDSNational Sustainable Development Strategy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      84.46,
+      447.43,
+      93.46
+    ],
+    "text": "OBUOff shore Banking Unit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      100.48,
+      448.18,
+      109.48
+    ],
+    "text": "OMOOpen Market Operation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      116.47,
+      518.51,
+      125.47
+    ],
+    "text": "PAFMISPublic Accounting and Fiscal Management",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      360.79,
+      132.46,
+      433.74,
+      141.46
+    ],
+    "text": "Information System",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      148.48,
+      493.12,
+      157.48
+    ],
+    "text": "PALPort and Airport Development Levy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      164.48,
+      413.38,
+      173.48
+    ],
+    "text": "PBPeople\u2019s Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      180.47,
+      429.73,
+      189.47
+    ],
+    "text": "PCProvincial Council",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      196.49,
+      485.45,
+      205.49
+    ],
+    "text": "PCEPrivate Consumption Expenditure",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      212.48,
+      416.92,
+      221.48
+    ],
+    "text": "PDPrimary Dealer",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      228.48,
+      442.2,
+      237.48
+    ],
+    "text": "PDOProject District Office",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      244.5,
+      445.81,
+      253.5
+    ],
+    "text": "PPFPrivate Provident Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      260.49,
+      466.01,
+      269.49
+    ],
+    "text": "PPPPublic & Private Partnership",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      276.48,
+      431.12,
+      285.48
+    ],
+    "text": "PSPradesheeya Sabha",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      292.5,
+      504.03,
+      301.5
+    ],
+    "text": "PSDGProvince Specific Development Grants",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      308.5,
+      509.13,
+      317.5
+    ],
+    "text": "PSDPProvince Specific Development Projects",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      324.49,
+      513.64,
+      333.49
+    ],
+    "text": "RADAReconstruction and Development Agency",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      340.51,
+      525.4,
+      349.51
+    ],
+    "text": "RAMISRevenue Administration Information System",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      356.5,
+      461.4,
+      365.5
+    ],
+    "text": "R&DResearch and Development",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      372.49,
+      469.11,
+      381.49
+    ],
+    "text": "RDARoad Development Authority",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      388.51,
+      467.0,
+      397.51
+    ],
+    "text": "RDBRegional Development Bank",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      404.51,
+      484.8,
+      413.51
+    ],
+    "text": "RDDRubber Development Department",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      420.5,
+      455.67,
+      429.5
+    ],
+    "text": "REELReal Estate Exchange Ltd",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      436.52,
+      470.79,
+      445.52
+    ],
+    "text": "REERReal Effective Exchange Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      452.51,
+      469.07,
+      461.51
+    ],
+    "text": "RFCRegistered Finance Company",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      468.51,
+      523.22,
+      477.51
+    ],
+    "text": "RFSDPRural Financial Sector Development Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      484.53,
+      422.9,
+      493.53
+    ],
+    "text": "ROAReturn on Assets",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      500.52,
+      423.85,
+      509.52
+    ],
+    "text": "ROEReturn on Equity",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      516.51,
+      417.79,
+      525.51
+    ],
+    "text": "ROORules of Origin",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      532.53,
+      427.0,
+      541.53
+    ],
+    "text": "RPIRetail Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      548.53,
+      487.38,
+      557.53
+    ],
+    "text": "RPPFRoad Projects Preparatory Facility",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      564.52,
+      485.69,
+      573.52
+    ],
+    "text": "RSDPRoad Sector Development Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      580.54,
+      493.11,
+      589.54
+    ],
+    "text": "RTGSReal Time Gross Settlement System",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      596.53,
+      504.43,
+      605.53
+    ],
+    "text": "RWCARRisk Weighted Capital Adequacy Ratio",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      612.52,
+      548.54,
+      621.52
+    ],
+    "text": "SAARCSouth Asian Association for Regional Co-operation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      628.54,
+      466.66,
+      637.54
+    ],
+    "text": "SAFTASouth Asian Free Trade Area",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      644.54,
+      491.45,
+      653.54
+    ],
+    "text": "SAGTSouth Asia Gateway Terminals Ltd.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      660.53,
+      531.36,
+      669.53
+    ],
+    "text": "SAPTASouth Asian Preferential Trading Arrangement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      676.55,
+      444.24,
+      685.55
+    ],
+    "text": "SBLSingle Borrower Limit",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      692.54,
+      476.14,
+      701.54
+    ],
+    "text": "SBRPSmall Business Revival Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      708.54,
+      448.29,
+      717.54
+    ],
+    "text": "SDRSpecial Drawing Rights",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      724.56,
+      499.4,
+      733.56
+    ],
+    "text": "SECSecurities and Exchange Commission",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      312.61,
+      740.55,
+      517.26,
+      749.55
+    ],
+    "text": "SEMAStrategic Enterprises Management Agency",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      18.76,
+      123.08,
+      43.72,
+      171.08
+    ],
+    "text": "6",
+    "fonts": [
+      "AGaramond-Bold"
+    ],
+    "sizes": [
+      48.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      298.99,
+      756.46,
+      318.55,
+      767.46
+    ],
+    "text": "xxvi",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      78.37,
+      476.47,
+      87.37
+    ],
+    "text": "SRRStatutory Reserve Requirement",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      94.39,
+      502.34,
+      103.39
+    ],
+    "text": "SSS system Scripless Securities Settlement system",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      110.38,
+      503.85,
+      119.38
+    ],
+    "text": "SSDSScripless Securities Depository System",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      126.37,
+      525.07,
+      135.37
+    ],
+    "text": "STAARTSri Lanka Tsunami Affected Areas Recovery",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.45,
+      142.39,
+      447.62,
+      151.39
+    ],
+    "text": "and Take-Off Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      158.39,
+      486.81,
+      167.39
+    ],
+    "text": "SVARStructural Vector Auto Regression",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      174.38,
+      503.98,
+      183.38
+    ],
+    "text": "TAARPTsunami Affected Areas Rehabilitation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.45,
+      190.4,
+      415.68,
+      199.4
+    ],
+    "text": "Programme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      206.39,
+      491.54,
+      215.39
+    ],
+    "text": "TAARRehabilitation of Roads in Tsunami",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.45,
+      222.39,
+      425.24,
+      231.39
+    ],
+    "text": "Affected Areas",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      238.41,
+      408.43,
+      247.41
+    ],
+    "text": "TBTuberculosis",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      254.4,
+      503.58,
+      263.4
+    ],
+    "text": "TCCSThrift and Credit Co-operative Society",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      270.39,
+      515.97,
+      279.39
+    ],
+    "text": "TDPRFTea Development Project Revolving Fund",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      286.41,
+      518.93,
+      295.41
+    ],
+    "text": "TERPTsunami Emergency Recovery Programme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      302.41,
+      447.15,
+      311.41
+    ],
+    "text": "TSPTriple Super Phosphate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      318.4,
+      542.07,
+      327.4
+    ],
+    "text": "TVETTechnical and Vocational Education and Training",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      334.42,
+      419.82,
+      343.42
+    ],
+    "text": "TYVTen Year Vision",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      350.41,
+      423.17,
+      359.41
+    ],
+    "text": "UKUnited Kingdom",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      366.4,
+      518.89,
+      375.4
+    ],
+    "text": "UNEPUnited Nations Environmental Programme",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      382.42,
+      549.17,
+      391.42
+    ],
+    "text": "UNIDOUnited Nations Industrial Development Organization",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      398.42,
+      453.88,
+      407.42
+    ],
+    "text": "USA/USUnited States of America",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      414.41,
+      424.16,
+      423.41
+    ],
+    "text": "VATValue Added Tax",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      430.43,
+      438.79,
+      439.43
+    ],
+    "text": "VCFVenture Capital Firm",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      446.42,
+      444.36,
+      455.42
+    ],
+    "text": "WPIWholesale Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      313.24,
+      462.42,
+      457.2,
+      471.42
+    ],
+    "text": "WTOWorld Trade Organization",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      79.38,
+      271.03,
+      88.38
+    ],
+    "text": "SFLCPSmall Farmers and Landless Credit Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      95.37,
+      173.9,
+      104.37
+    ],
+    "text": "SHGSelf Help Group",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      111.39,
+      279.05,
+      120.39
+    ],
+    "text": "SIRUPSmall Scale Infrastructure Rehabilitation and",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      113.41,
+      127.38,
+      192.42,
+      136.38
+    ],
+    "text": "Upgrading Project",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      143.38,
+      268.3,
+      152.38
+    ],
+    "text": "SLBFESri Lanka Bureau of Foreign Employment",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      159.4,
+      224.28,
+      168.4
+    ],
+    "text": "SLCSpecialised Leasing Company",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      175.39,
+      183.57,
+      184.39
+    ],
+    "text": "SLCSri Lanka Customs",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      191.38,
+      239.47,
+      200.38
+    ],
+    "text": "SLCPISri Lanka Consumers\u2019 Price Index",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      207.4,
+      211.36,
+      216.4
+    ],
+    "text": "SLTBSri Lanka Transport Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      223.39,
+      223.0,
+      232.39
+    ],
+    "text": "SLDBSri Lanka Development Bond",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      239.39,
+      286.31,
+      248.39
+    ],
+    "text": "SLECICSri Lanka Export Credit Insurance Corporation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      255.41,
+      252.76,
+      264.41
+    ],
+    "text": "SLEDBSri Lanka Export Development Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      271.4,
+      240.87,
+      280.4
+    ],
+    "text": "SLIBORSri Lanka Inter-Bank Offered Rate",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      287.39,
+      283.02,
+      296.39
+    ],
+    "text": "SLIITSri Lanka Institute of Information Technology",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      303.41,
+      253.15,
+      312.41
+    ],
+    "text": "SLIPSSri Lanka Inter-bank Payment System",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      319.41,
+      233.03,
+      328.41
+    ],
+    "text": "SLNBBSri Lanka Nation Building Bond",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      335.4,
+      207.88,
+      344.4
+    ],
+    "text": "SLPASri Lanka Ports Authority",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      351.42,
+      185.63,
+      360.42
+    ],
+    "text": "SLRSri Lanka Railways",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      367.41,
+      227.84,
+      376.41
+    ],
+    "text": "SLSISri Lanka Standards Institution",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      383.41,
+      256.07,
+      392.41
+    ],
+    "text": "SLSPCSri Lanka State Plantation Corporation",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      399.43,
+      200.12,
+      408.43
+    ],
+    "text": "SLTSri Lanka Telecom Ltd.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      415.42,
+      189.15,
+      424.42
+    ],
+    "text": "SLTBSri Lanka Tea Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      431.41,
+      245.66,
+      440.41
+    ],
+    "text": "SMESmall and Medium Scale Enterprise",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      447.43,
+      209.46,
+      456.43
+    ],
+    "text": "SNGSub National Government",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      463.42,
+      227.97,
+      472.42
+    ],
+    "text": "SNBFINon-Bank Financial Institution",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.2,
+      479.42,
+      212.72,
+      488.42
+    ],
+    "text": "SRLSocial Responsibility Levy",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  }
+]

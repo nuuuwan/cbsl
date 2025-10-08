@@ -1,0 +1,1303 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      10.33,
+      314.14,
+      42.62,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2019",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.09,
+      732.39,
+      47.09,
+      745.86
+    ],
+    "text": "152",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.7,
+      99.41,
+      280.31,
+      215.96
+    ],
+    "text": "The traditional role of statisticians has evolved over time gradually without major changes. The process of statistics generally includes stages of data collection, data processing and dissemination of final estimates/outcome (Figure B 8.1). Until recently, the most common advancements in the field of statistics focused mainly on the use of statistical software in data processing, while stages of data collection and dissemination of final results remained static. Rapid developments in information technology, however, challenged the traditional role of statisticians as certain statistical functions are becoming increasingly complex.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.7,
+      488.93,
+      280.32,
+      647.55
+    ],
+    "text": "Meanwhile, data collection methods continued to evolve over time without being a limiting factor in the process of statistics. Traditional methods such as survey through questionnaires, one-to-one or phone interviews and secondary data from published sources are still being used as official sources for statistics produced by any organisation due to their reliability and customisability. However, over time, these traditional data collection methods experienced constraints not because of intrinsic features of such methods, but due to the widening horizons of digitalisation coupled with high frequency data generated through various means and platforms. These high frequency data get accumulated in various formats around cyber space, but, until recently, alternative uses of such data have not been adequately explored.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.7,
+      658.02,
+      280.29,
+      700.96
+    ],
+    "text": "Data processing plays a vital role in obtaining a refined set of estimates, which is used for decision-making. Data collected using traditional methods and processed manually are currently being analysed using",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.17,
+      61.0,
+      503.91,
+      84.99
+    ],
+    "text": "BOX 8Breaking Stereotypes: How Digitalisation will Impact the Traditional Process of Statistics",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.22,
+      99.41,
+      521.82,
+      226.58
+    ],
+    "text": "various statistical packages. Mathematical modelling software is commonly being used to build up statistical relationships among variables. 'Official Statistics', which are national level statistical outcomes, comprise key economic indicators and a series of estimates related to economic activities. Around the world, this process of compiling official statistics is followed under various limitations and assumptions in assessing the status of an economy. Despite its limitations, the traditional process of compiling statistics has gained validation and reliability over time as it is based on scientific methodology.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.22,
+      237.05,
+      521.82,
+      490.53
+    ],
+    "text": "The term \u2018Big Data\u2019 came to light in this backdrop when the traditional statistical process was challenged by a wave of digitalisation, coupled with the rise of information and communication technologies. In simple terms, digitalisation of the economy refers to the use of digital technology for various economic activities and Big Data refers to the accumulation of high frequency data from non-traditional sources for the use of economic agents. Despite that these concepts originated in early 2000\u2019s, most of the terminology used in relation to Big Data lack universally accepted definitions1. Nevertheless, its usage seems to have encompassed over a wider spectrum as different online platforms on the World Wide Web generate a large part of Big Data while cashier terminals of supermarkets, automated vending machines, surveillance camera units, etc., also gather massive volumes of data on a daily basis. This data is originally recorded for a particular purpose and Big Data becomes a by-product of that process. Because of its recording frequency, such data becomes an incredible source, which outperforms most of the traditional data sources used in the statistical process in terms of volume and speed.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.22,
+      500.51,
+      522.06,
+      523.03
+    ],
+    "text": "How digitalisation has influenced official statistics",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.22,
+      527.71,
+      521.82,
+      675.94
+    ],
+    "text": "With the emergence of Big Data, one of the concerns raised by users was its eligibility to replace official statistics. As most of the data used in the statistical processes are primarily collected for a designated purpose, relying on secondary data through unorthodox means is still a challenging move to be taken by statisticians. In the present context, statistics generated using these unconventional data is called \u2018Smart Statistics\u2019 and are used as an alternative stream to complement official statistics. One of the benefits of maintaining a supportive stream of statistics is that it can help to validate official statistics, and also over time smart statistics will contribute towards continuously improving the quality of the entire statistical process",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      300.22,
+      685.76,
+      507.09,
+      700.16
+    ],
+    "text": "1 History of Big Data - Available at: https://www.sas.com/en_us/insights/big-data/what-is-big-data.html",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      81.3,
+      405.87,
+      105.44,
+      417.89
+    ],
+    "text": "DIGITAL/ SMART",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.84,
+      283.56,
+      245.9,
+      294.23
+    ],
+    "text": "132",
+    "fonts": [
+      "Calibri-Light",
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.588899612426758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.81,
+      350.92,
+      117.56,
+      369.77
+    ],
+    "text": "\u2022\u2022\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      116.33,
+      258.76,
+      161.71,
+      275.92
+    ],
+    "text": "DATA COLLECTION",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      7.150300025939941
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.75,
+      350.97,
+      174.5,
+      363.81
+    ],
+    "text": "\u2022\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      168.76,
+      258.76,
+      215.37,
+      275.92
+    ],
+    "text": "DATAPROCESSING",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      7.150300025939941
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.61,
+      350.95,
+      231.36,
+      357.78
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      224.58,
+      259.05,
+      262.48,
+      276.21
+    ],
+    "text": "OUTPUT/ESTIMATES",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      7.150300025939941
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      115.81,
+      436.95,
+      117.56,
+      449.79
+    ],
+    "text": "\u2022\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.46,
+      437.21,
+      173.21,
+      444.04
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.46,
+      449.36,
+      173.21,
+      462.35
+    ],
+    "text": "\u2022\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      224.62,
+      437.21,
+      226.37,
+      444.04
+    ],
+    "text": "\u2022",
+    "fonts": [
+      "ArialMT"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.36,
+      318.65,
+      110.83,
+      330.67
+    ],
+    "text": "TRADITIONAL/ OFFICIAL",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      174.69,
+      437.6,
+      224.77,
+      473.61
+    ],
+    "text": "Programming Languages Machine LearningSoftware Bots(Data Lake/Warehouse Concepts)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      227.84,
+      437.6,
+      266.21,
+      461.61
+    ],
+    "text": "Data Visualising Tools (Dashboards/ Storyboards)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.03,
+      437.33,
+      150.78,
+      455.34
+    ],
+    "text": "Web ScrapingText Mining(Big Data)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.97,
+      351.34,
+      273.81,
+      369.36
+    ],
+    "text": "Official Statistical Reports/TablesStatistical PackagesMathematical Modelling Software",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.03,
+      351.3,
+      169.79,
+      369.31
+    ],
+    "text": "Survey Questionnaires InterviewsMarket Reports",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.002999782562256
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.48,
+      229.56,
+      226.29,
+      250.69
+    ],
+    "text": "Figure B 8.1Traditional vs. Smart Statistics",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      538.98,
+      314.14,
+      571.26,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      295.72,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "153",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      61.44,
+      283.38,
+      115.2
+    ],
+    "text": "within an organisation. For instance, a survey on Big Data in central banks2 carried out in 2019 shows that central banks around the world have identified Big Data as an auxiliary input into policy-making processes (Figure B 8.2).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      125.75,
+      283.38,
+      285.48
+    ],
+    "text": "The biggest impact of digitalisation on the statistical universe is its capability to transform a highly fractionalised and disconnected organisation in terms of data sharing into a centralised data warehouse, which promotes a brand new \u2018data culture\u2019 among all the members. Digitalisation demands everyone who uses the data to know the entire process of statistics, which extends from data collection to final estimates. In the case of central banks, the analytical departments will need to equip their staff with necessary programming skills to exploit the Big Data available in their \u2018Data Lake\u20193. Anyone who has access to the Data Lake, irrespective of their area of expertise, will need the skill-set of a data analyst to get the maximum benefit from digitalisation.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      463.55,
+      283.62,
+      475.54
+    ],
+    "text": "What digitalisation has in offer for statisticians",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      483.13,
+      283.38,
+      653.41
+    ],
+    "text": "Digitalisation contributes to the field of statistics at each stage of its traditional process, from data collection to the final outcome. The traditional data collection methods would be replaced/supported by data digitally collected using methods such as Web Scraping and Text Mining. Web Scraping, in simple terms, refers to the process of extracting specific data available on relevant web sites by using programming software. Central banks around the world have started projects on scraping price and other data recorded on various web sites to support their monetary policy-setting process, which include forecasting inflation using price data, labour force dynamics of the economy through various job market web sites, and identifying the unorganised sector contribution to the national output through web sites related to Barter/Sharing economy.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      663.3,
+      280.73,
+      684.89
+    ],
+    "text": "2 Big data in central banks (2019 Survey results). Available at: https://www.centralbanking.com/central-banks/economics/data/4508326/big-data-in-central-banks-2019-survey-results",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.8,
+      689.04,
+      282.38,
+      703.43
+    ],
+    "text": "3 Data Lake \u2013 A system or a repository of data stored in its natural/raw format. Available at: https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.31,
+      60.02,
+      524.89,
+      161.78
+    ],
+    "text": "Text Mining is another digital technique, which is commonly used to evaluate the momentum of a community before or after a certain policy change takes place. This technique can identify a pool of key words related to people\u2019s sentiments and track such words on various social media platforms to identify the frequency of their use. This will provide an estimate on the direction of public expectations of a policy or any other targeted phenomenon.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.31,
+      173.03,
+      524.89,
+      410.33
+    ],
+    "text": "Ongoing projects of central banks, which use web scraping and text mining are focused on different areas. The Sveriges Riksbank (Central Bank of Sweden) uses data scraped from grocery retailers\u2019 websites as a tool of error correction in inflation forecasting. The Central Bank of Armenia collects house prices displayed online by real estate agents to compile a house price index. The Deutsche Bundesbank (Central Bank of Germany) uses web data to capture depositors\u2019 sentiments by means of text mining the queries related to the term \u201cdeposit insurance\u201d, which provides them with an understanding about the depositors\u2019 confidence in the banking sector of Germany. The European Central Bank, the Bank of England (Central Bank of the United Kingdom), the Banque de France (Central Bank of France) and other regulatory institutions around the world have started various projects in the area of Big Data and digitalisation, as the use of Big Data collected through web scraping and text mining is often advantageous over the conventional survey data because of the high velocity and high volume.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.31,
+      421.57,
+      524.9,
+      557.22
+    ],
+    "text": "The contribution of digitalisation to the data processing stage is the most sophisticated and complicated element of the entire process of smart statistics. One of the differences between the traditional job of statisticians and the digital process is that both data collection and processing run on software using programming languages thereby leading to limited manual intervention in the digital process. In an advanced setting, the human element would be further reduced with the use of \u2018Machine Learning\u2019 and \u2018Artificial Intelligence\u2019 that will capture algorithms in data and carryout analytical tasks autonomously.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      303.31,
+      568.46,
+      524.9,
+      704.1
+    ],
+    "text": "Data visualisation is the final stage of the statistical process, which converts the statistical estimates to graphical and other means of presentation. Official statistics, which are traditionally presented through tables, reports and graphs will be generated using tools such as visualising dashboards, which graphically and illustratively present the key statistical estimates. These dashboards are interactive and could be tailored to the needs of individual users. Central banks in their transformation towards being digital are exploring the potential of using these visualising dashboards for managerial decision-making in the policy-setting process.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.65,
+      297.9,
+      274.13,
+      317.79
+    ],
+    "text": "Figure B 8.2Big Data in central banks - Central Banking Survey (2019)",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.760103225708008,
+      8.730103492736816
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.36,
+      408.66,
+      77.13,
+      415.39
+    ],
+    "text": "0%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      400.29,
+      78.42,
+      407.01
+    ],
+    "text": "10%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      391.92,
+      78.42,
+      398.64
+    ],
+    "text": "20%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      383.54,
+      78.42,
+      390.27
+    ],
+    "text": "30%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      375.17,
+      78.42,
+      381.89
+    ],
+    "text": "40%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      366.79,
+      78.42,
+      373.52
+    ],
+    "text": "50%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      358.42,
+      78.42,
+      365.14
+    ],
+    "text": "60%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      350.05,
+      78.42,
+      356.77
+    ],
+    "text": "70%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      341.67,
+      78.42,
+      348.4
+    ],
+    "text": "80%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.26,
+      333.3,
+      78.42,
+      340.02
+    ],
+    "text": "90%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.17,
+      324.93,
+      79.71,
+      331.65
+    ],
+    "text": "100%",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      97.37,
+      413.72,
+      259.62,
+      420.44
+    ],
+    "text": "2016201720182019",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.98,
+      422.33,
+      124.25,
+      435.26
+    ],
+    "text": "An interesting area of research",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      145.93,
+      422.33,
+      202.74,
+      435.26
+    ],
+    "text": "An auxiliary input into policy-making",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      216.3,
+      422.33,
+      257.75,
+      435.26
+    ],
+    "text": "A core input into policy-making",
+    "fonts": [
+      "FuturaLT-Book"
+    ],
+    "sizes": [
+      5.335077285766602
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      208.8,
+      438.55,
+      275.33,
+      444.19
+    ],
+    "text": "Source: Central Banking (2019)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.850051403045654
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      10.33,
+      314.14,
+      42.62,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2019",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      32.09,
+      732.39,
+      47.09,
+      745.86
+    ],
+    "text": "154",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.96,
+      59.92,
+      280.81,
+      83.1
+    ],
+    "text": "Digital footprint: Smart statistics in the Central Bank of Sri Lanka",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.96,
+      94.13,
+      280.55,
+      239.81
+    ],
+    "text": "The Central Bank of Sri Lanka (CBSL) also embarked on its digitalisation journey in the field of statistics with a few pilot projects (Figure B 8.3). The high exchange rate volatility observed during the latter part of 2018, underscored the need to assess the degree of exchange rate pass-through to the consumer items. In this regard, CBSL took initiatives to adopt web scraping to collect prices of imported food and beverage items posted online on a daily basis. With the success of this project, CBSL increased the number of food and beverage items, of which the prices are collected by web scraping daily, as a pilot project to develop a leading indicator to strengthen the inflation forecasting process.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.96,
+      361.45,
+      280.55,
+      571.65
+    ],
+    "text": "Since early 2019, in order to overcome the bottlenecks in data collection for compilation of the Land Price Index, which was based on valuations obtained from the Government Valuation Department semi-annually for residential, commercial and industrial lands in Colombo District, CBSL launched a pilot project to collect the market prices of properties advertised online, through web scraping on a monthly basis. Accordingly, CBSL is developing an Asking Price Index for lands in Colombo District and intends to expand it to the entire country. Moreover, a House Price Index for residential housing properties covering the entire country and a Condominium Price Index covering properties in the Colombo District are being compiled using scraped data. Additionally, a House Rental Price Index is also expected to be constructed using web scraped data to understand the status of the rental market and its impact on household expenditure dynamics.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.96,
+      574.78,
+      280.54,
+      679.73
+    ],
+    "text": "CBSL has initiated another pilot project for forecasting near-term inflation using Machine Learning by employing a multi-step time series with Long Short-Term Memory (LSTM). The bank further uses visualisation dashboards to present the national accounting estimates, which are annually compiled for the provincial level. The use of visualisation dashboards is becoming popular within CBSL as they complement the official statistical reports used for decision-making.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      59.92,
+      507.78,
+      71.91
+    ],
+    "text": "Challenges for central banks and Way forward",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      79.74,
+      522.07,
+      199.53
+    ],
+    "text": "With the rise of digitalisation across economies, central banks are concerned with the use of data analytics and other technologies for the policy-setting process. One of the key challenges in digitalising the statistical processes is to develop the skill-set within organisations for economists, statisticians, mathematicians to use the specific software/programming languages and the top management to be \u2018tech-savvy\u2019. Digitalisation of statistics will demand individuals with a strong mathematical background to solve complex issues and open up opportunities for data scientists to be a part of statistical departments.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      204.65,
+      522.08,
+      313.6
+    ],
+    "text": "Digitalisation will require changes to the existing regulatory and infrastructure frameworks to facilitate adoption of new technologies. Access rights to privately owned web spaces in terms of legality and possible blockage imposed by the administrators of such web sites are also key concerns. Access rights to some domains are already given at a premium and the cost effectiveness of paying for such data is another concern for statisticians as traditional data collection methods could be relatively inexpensive in certain instances.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      318.72,
+      522.05,
+      416.82
+    ],
+    "text": "Another commonly discussed issue is the reliability of data extracted from secondary sources. Irrespective of the high volumes and velocity, regulators are reluctant to base policy decisions entirely on digital sources. It is identified that statisticians in public agencies have an agitation towards using certain web-based technologies mostly because of disclosure risks and cyber security threats. Most of these technologies demand \u2018Cloud-based\u2019 data warehousing, which may enhance exposure to data security risk.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      424.78,
+      522.08,
+      577.08
+    ],
+    "text": "Developing economies such as Sri Lanka will have to focus on establishing digital infrastructure platforms and regularising the use of digital technology in economic activities by introducing governance frameworks, which is a priority area even for CBSL at present. Considering these limitations and challenges faced by the central banks worldwide, digitalisation of statistical processes is still at its early stages of the life cycle, and central banks carry the view of using it as an alternative stream rather than fully migrating to smart statistics. However, the transformation is already happening at a faster rate. Therefore, conventional statistical processes will need to be geared to embrace the new challenges ahead, to ride the tide together with the rest of the world.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      585.49,
+      331.11,
+      592.68
+    ],
+    "text": "References",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.47,
+      596.66,
+      521.04,
+      678.92
+    ],
+    "text": "1. Hinge, D. and Karolina, S. (2019) \u2018Big Data in Central Banks: 2019 Survey Results\u2019, Central Banking.2. Reimsbach-Kounatze, C. (2015) \u2018The Proliferation of \"Big Data\" and Implications for Official Statistics and Statistical Agencies: A Preliminary Analysis\u2019, OECD Digital Economy Papers, Paris: OECD Publishing.3. Tissot, B. (2015) \u2018Big Data and Central Banking\u2019, IFC Bulletin 44, March 2015.4. Weydert, N. (2019) \u2018Preparing the Future: The Impact of Digitalisation on Official Statistics\u2019, SLS/STATEC joint event, 17 May 2019.5. Wuermeling, J. (2019) \u2018The Deutsche Bundesbank's digital transformation\u2019, Central Banking.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.73,
+      283.0,
+      247.57,
+      321.5
+    ],
+    "text": "\u2022 Supermarket Price Indices\u2022 Evaluating Exchange Rate Pass-through\u2022 Leading Indicator for Inflation Forecasting\u2022 Residential Property Price Indices\u2022 Asking Price Index for Lands",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      5.670300006866455,
+      6.609099864959717
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.83,
+      292.48,
+      123.85,
+      313.18
+    ],
+    "text": "Big Data(Web Scraping)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.88,
+      323.9,
+      239.82,
+      333.49
+    ],
+    "text": "\u2022 Near Term Inflation ForecastingMachine Learning",
+    "fonts": [
+      "FuturaBT-Medium",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.609099864959717,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      65.06,
+      335.99,
+      220.2,
+      345.58
+    ],
+    "text": "\u2022 Visualisation DashboardsData Visualisation",
+    "fonts": [
+      "FuturaBT-Medium",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.609099864959717,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.05,
+      249.19,
+      213.71,
+      270.32
+    ],
+    "text": "Figure B 8.3Smart Statistics Projects",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  }
+]

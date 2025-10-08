@@ -1,0 +1,387 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      140.39,
+      78.14,
+      436.05,
+      102.12
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      20.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.74,
+      343.03,
+      359.69,
+      385.41
+    ],
+    "text": "ANNUAL REPORT(Volume II)",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.01,
+      458.88,
+      396.41,
+      492.47
+    ],
+    "text": "OF THE MONETARY BOARD TO THEHON. MINISTER OF FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      248.07,
+      585.84,
+      328.36,
+      600.23
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.35,
+      638.36,
+      320.1,
+      669.54
+    ],
+    "text": "2017",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      26.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      290.78,
+      229.68,
+      302.77
+    ],
+    "text": "Price per copy (for both Volumes)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      306.78,
+      382.32,
+      318.77
+    ],
+    "text": "Counter sales \u2013 Rs. 500 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      322.78,
+      382.32,
+      334.77
+    ],
+    "text": "Despatch by ordinary mail \u2013 Rs. 750 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      338.78,
+      382.32,
+      350.77
+    ],
+    "text": "Despatch by registered mail \u2013 Rs. 775 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      386.78,
+      156.6,
+      398.77
+    ],
+    "text": "Despatch abroad",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      402.78,
+      453.34,
+      414.77
+    ],
+    "text": "Air mail (1st Class) \u2013 US $ 40 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      418.78,
+      453.34,
+      430.77
+    ],
+    "text": "Air mail (2nd Class) \u2013 US $ 35 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      434.78,
+      453.34,
+      446.77
+    ],
+    "text": "Sea mail \u2013 US $ 25 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      552.91,
+      202.2,
+      567.38
+    ],
+    "text": "ISBN 978-955-575-363-0",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      572.91,
+      161.28,
+      587.38
+    ],
+    "text": "ISSN 1391-359X",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      676.84,
+      520.63,
+      714.77
+    ],
+    "text": "Printed at Sharp Graphic House (Pvt.) Ltd. , No. 47, Old Kottawa Road, Pannipitiya, and published by the Central Bank of Sri Lanka, No. 30, Janadhipathi Mawatha, Colombo 01.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      264.98,
+      50.0,
+      330.29,
+      64.4
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.48,
+      86.17,
+      323.78,
+      100.56
+    ],
+    "text": "Volume II",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.4,
+      111.4,
+      84.61,
+      122.19
+    ],
+    "text": "PART II",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.4,
+      133.4,
+      524.22,
+      144.19
+    ],
+    "text": "ACCOUNTS AND OPERATIONS OF THE CENTRAL BANK OF SRI LANKA 1-120",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.4,
+      155.39,
+      87.18,
+      166.19
+    ],
+    "text": "PART III",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.4,
+      177.39,
+      524.23,
+      210.18
+    ],
+    "text": "ADMINISTRATIVE MEASURES ADOPTED BY THE GOVERNMENT AND THE MONETARYBOARD DURING THE YEAR RELATING TO THE FUNCTIONS AND OPERATIONS OFTHE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA 1-149",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.41,
+      221.38,
+      87.62,
+      232.17
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      56.41,
+      243.38,
+      524.23,
+      265.17
+    ],
+    "text": "MAJOR LEGISLATIVE ENACTMENTS OF 2017 RELATING TO THE FUNCTIONS ANDOPERATIONS OF THE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA 1-20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  }
+]

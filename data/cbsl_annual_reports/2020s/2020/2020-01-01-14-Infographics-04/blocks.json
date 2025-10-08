@@ -1,0 +1,987 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      538.98,
+      314.14,
+      571.26,
+      380.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      295.72,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "151",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      255.4,
+      92.42,
+      302.35,
+      105.01
+    ],
+    "text": "Employed",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.551722526550293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.31,
+      144.93,
+      298.3,
+      157.72
+    ],
+    "text": "8.18 mnServices",
+    "fonts": [
+      "Calibri,Bold",
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957,
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      222.08,
+      157.49,
+      241.48,
+      165.88
+    ],
+    "text": "47.1%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.99,
+      116.41,
+      339.72,
+      126.0
+    ],
+    "text": "Agriculture",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      311.33,
+      126.45,
+      330.95,
+      134.84
+    ],
+    "text": "25.3%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.65,
+      174.48,
+      330.95,
+      184.07
+    ],
+    "text": "Industry",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      308.56,
+      183.86,
+      328.04,
+      192.31
+    ],
+    "text": "27.6%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.082364082336426
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      129.09,
+      142.63,
+      157.66,
+      162.31
+    ],
+    "text": "Male5.55 mn",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      129.2,
+      116.83,
+      157.78,
+      136.51
+    ],
+    "text": "Female3.04 mn",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      90.97,
+      170.87,
+      132.6,
+      191.99
+    ],
+    "text": "8.59 mnLFPR 52.3%",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.039402961730957,
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      143.13,
+      248.5,
+      177.34,
+      258.09
+    ],
+    "text": "Male LFPR",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.0,
+      217.8,
+      102.66,
+      229.79
+    ],
+    "text": "34.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.85,
+      248.2,
+      114.03,
+      257.79
+    ],
+    "text": "Female LFPR",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.59,
+      92.49,
+      172.56,
+      105.08
+    ],
+    "text": "Economically Active",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.551722526550293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      102.52,
+      217.76,
+      173.83,
+      229.89
+    ],
+    "text": "%73.0%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.98,
+      271.98,
+      176.57,
+      284.57
+    ],
+    "text": "Economically Inactive",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.551722526550293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      96.02,
+      347.0,
+      133.8,
+      358.99
+    ],
+    "text": "7.83 mn",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      131.12,
+      293.22,
+      159.42,
+      312.9
+    ],
+    "text": "Male2.06 mn",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      130.73,
+      319.87,
+      159.02,
+      339.53
+    ],
+    "text": "Female5.78 mn",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.18,
+      211.38,
+      359.98,
+      222.77
+    ],
+    "text": "Departures for Foreign Employment",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.546833992004395
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.32,
+      347.79,
+      297.57,
+      359.78
+    ],
+    "text": "203,186",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      262.91,
+      226.22,
+      303.09,
+      235.81
+    ],
+    "text": "Professional",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      273.59,
+      235.75,
+      292.11,
+      244.15
+    ],
+    "text": "9,860",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      313.95,
+      250.73,
+      354.7,
+      260.32
+    ],
+    "text": "Middle level",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.64,
+      260.25,
+      343.17,
+      268.65
+    ],
+    "text": "5,725",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.84,
+      285.1,
+      359.31,
+      303.77
+    ],
+    "text": "Clerical &related",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      330.03,
+      303.71,
+      348.55,
+      312.11
+    ],
+    "text": "9,163",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.58,
+      327.32,
+      325.97,
+      345.08
+    ],
+    "text": "Skilled62,719Semi-skilled",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.78,
+      336.86,
+      249.31,
+      345.25
+    ],
+    "text": "2,950",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      207.87,
+      286.1,
+      240.75,
+      295.7
+    ],
+    "text": "Unskilled",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.43,
+      296.15,
+      234.07,
+      304.54
+    ],
+    "text": "51,200",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      211.6,
+      249.75,
+      253.16,
+      259.34
+    ],
+    "text": "Housemaids",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      220.58,
+      259.85,
+      243.23,
+      268.24
+    ],
+    "text": "61,569",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      417.68,
+      92.49,
+      479.21,
+      105.08
+    ],
+    "text": "Unemployed",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.551722526550293
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      397.55,
+      231.99,
+      416.29,
+      240.38
+    ],
+    "text": "15-24",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      397.27,
+      305.62,
+      416.01,
+      314.02
+    ],
+    "text": "30-39",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      386.29,
+      334.03,
+      427.0,
+      342.42
+    ],
+    "text": "40 and above",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.45,
+      115.79,
+      514.6,
+      134.97
+    ],
+    "text": "7.4%Female unemployment rate",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.039402961730957,
+      10.049278259277344,
+      16.078855514526367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      423.58,
+      155.08,
+      507.62,
+      164.68
+    ],
+    "text": "Male unemployment rate",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.55,
+      182.32,
+      423.91,
+      191.39
+    ],
+    "text": "Age group",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.605108261108398
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.36,
+      147.75,
+      415.8,
+      166.93
+    ],
+    "text": "3.3%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.049278259277344,
+      16.078855514526367
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.78,
+      182.37,
+      515.77,
+      191.42
+    ],
+    "text": "Level of education",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.588208198547363
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      452.26,
+      231.47,
+      512.27,
+      239.86
+    ],
+    "text": "GCE A/L and above",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      467.03,
+      273.07,
+      497.51,
+      281.46
+    ],
+    "text": "GCE O/L",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.02,
+      206.23,
+      417.53,
+      217.26
+    ],
+    "text": "21.5 %",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      396.28,
+      252.38,
+      417.23,
+      264.0
+    ],
+    "text": "11.0%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      399.62,
+      290.78,
+      415.37,
+      300.96
+    ],
+    "text": "3.1%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      474.92,
+      206.51,
+      492.37,
+      217.54
+    ],
+    "text": "8.5 %",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      475.0,
+      253.22,
+      491.57,
+      263.69
+    ],
+    "text": "6.5%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      474.9,
+      290.48,
+      490.65,
+      300.68
+    ],
+    "text": "3.3%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.029577255249023,
+      8.039402961730957
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      414.53,
+      348.03,
+      483.66,
+      360.02
+    ],
+    "text": "0.41 mn (4.8 )",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.049278259277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      399.77,
+      322.1,
+      413.48,
+      330.58
+    ],
+    "text": "1.2%",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.024639129638672,
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      464.15,
+      307.28,
+      500.02,
+      315.68
+    ],
+    "text": "Grade 6-10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      397.26,
+      272.55,
+      416.0,
+      280.94
+    ],
+    "text": "25-29",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      7.034514904022217
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      475.24,
+      348.84,
+      480.04,
+      356.04
+    ],
+    "text": "%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.029577255249023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      59.64,
+      364.28,
+      523.09,
+      378.81
+    ],
+    "text": "(a) ProvisionalSources: Department of Census and Statistics Sri Lanka Bureau of Foreign Employment",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.029577255249023
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      238.11,
+      58.47,
+      345.87,
+      79.73
+    ],
+    "text": "Figure 4.8Labour Market - 2019 (a)",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  }
+]

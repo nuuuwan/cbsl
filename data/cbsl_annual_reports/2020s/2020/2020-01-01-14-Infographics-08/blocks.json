@@ -1,0 +1,447 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      256.73,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.64,
+      745.86
+    ],
+    "text": "267",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      540.4,
+      639.03,
+      572.68,
+      705.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      88.62,
+      179.79,
+      243.85,
+      190.52
+    ],
+    "text": "4'71'428'9",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.71,
+      110.94,
+      491.0,
+      121.67
+    ],
+    "text": "326'216'51911'0157'2",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      325.17,
+      179.79,
+      345.67,
+      190.52
+    ],
+    "text": "126'3",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.7,
+      298.34,
+      148.78,
+      326.62
+    ],
+    "text": "62]Licensed Banks",
+    "fonts": [
+      "FMGanganeex",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      110.51,
+      415.35,
+      131.96,
+      443.64
+    ],
+    "text": "2]Other",
+    "fonts": [
+      "FMGanganeex",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      193.53,
+      524.27,
+      416.22,
+      553.96
+    ],
+    "text": "3]8]InsuranceLFCs and SLCs",
+    "fonts": [
+      "FMGanganeex",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.7376484870910645,
+      8.0,
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      445.05,
+      415.35,
+      492.58,
+      443.64
+    ],
+    "text": "10]Central Bank",
+    "fonts": [
+      "FMGanganeex",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      106.44,
+      247.85,
+      458.14,
+      259.69
+    ],
+    "text": "Performance of the Banking SectorPerformance of the EPF",
+    "fonts": [
+      "AgencyFB-Reg"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      112.97,
+      587.68,
+      467.82,
+      599.52
+    ],
+    "text": "Performance of the Insurance SectorPerformance of the LFCs and SLCs Sector",
+    "fonts": [
+      "AgencyFB-Reg"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      438.98,
+      303.98,
+      497.47,
+      332.78
+    ],
+    "text": "EPF and OtherSuperannuationFunds",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      455.05,
+      284.69,
+      481.46,
+      305.08
+    ],
+    "text": "15]",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      19.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      403.28,
+      179.79,
+      487.14,
+      190.52
+    ],
+    "text": "10'79'3",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.13,
+      142.52,
+      501.21,
+      159.31
+    ],
+    "text": "No. ofLicensed BanksY-o-Y Growth inTotal Assets (%)No. of MemberAccounts (mn)Y-o-Y Growth inTotal Assets (%)Contributions (Rs. Bn)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.58,
+      213.42,
+      516.03,
+      230.21
+    ],
+    "text": "Refunds (Rs. Bn)Return on Investment (%)Interest Paid onMember Balances (%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      223.62,
+      142.52,
+      246.55,
+      150.91
+    ],
+    "text": "CAR (%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.95,
+      213.42,
+      257.91,
+      230.21
+    ],
+    "text": "Gross NPLRatio (%)ROA (BT, %)Liquid Assets toTotal Assets ( %)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      360.3,
+      667.69,
+      511.22,
+      684.49
+    ],
+    "text": "CAR (%)Gross NPLRatio (%)ROA (BT,%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      364.13,
+      634.06,
+      441.45,
+      644.79
+    ],
+    "text": "10'612'5",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.52,
+      667.7,
+      332.37,
+      684.49
+    ],
+    "text": "Y-o-Y Growth inTotal Assets (%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.67,
+      634.06,
+      501.53,
+      645.52
+    ],
+    "text": "0'12'28'411'628",
+    "fonts": [
+      "FMGanganeex"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.99,
+      668.42,
+      253.32,
+      685.22
+    ],
+    "text": "Y-o-Y Growth inGWP (%)Y-o-Y Growth inTotal Assets (%)No. of Insurance Companies",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      66.7,
+      479.29,
+      162.9,
+      530.27
+    ],
+    "text": "The other group comprises of Unit trusts, Standalone Primary Dealers, Stock Brokers, Venture Capital Companies, etc.",
+    "fonts": [
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      231.96,
+      332.53,
+      353.19,
+      436.51
+    ],
+    "text": "TOTAL ASSETS OFTHE FINANCIAL SECTOR atEND-2019Rs. 20.2 Tn",
+    "fonts": [
+      "FuturaBT-Medium",
+      "Impact"
+    ],
+    "sizes": [
+      14.5,
+      22.743099212646484
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      217.9,
+      60.97,
+      368.89,
+      82.23
+    ],
+    "text": "Figure 8.1Performance of the Financial Sector",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  }
+]

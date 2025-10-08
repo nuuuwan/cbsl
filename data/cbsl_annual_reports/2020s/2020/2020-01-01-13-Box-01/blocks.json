@@ -1,0 +1,975 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      537.64,
+      745.86
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      169.73,
+      31.54,
+      527.25,
+      44.42
+    ],
+    "text": "ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      540.88,
+      68.0,
+      573.16,
+      134.16
+    ],
+    "text": "1",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      88.7,
+      283.14,
+      551.56
+    ],
+    "text": "Sri Lanka graduated to the upper middle income country status as per the World Bank classification of countries published in July 2019. The World Bank classifies countries based on per capita Gross National Income (GNI) into income categories of low income, lower middle income, upper middle income and high income1 (Figure B 1.1). As per this classification, Sri Lanka transitioned from the low income country status to the lower middle income country status in 1997. Since then, the country has progressed through challenging periods, including the catastrophic Tsunami disaster in 2004, the escalation of the civil conflict until its end in 2009, periods of extreme weather conditions and related natural disasters, and socio-economic and political changes. Despite the adverse impacts of such disturbances on the macroeconomy, the country recorded above five per cent GDP growth on average since the graduation to a lower middle income country, and reached the upper middle income level. However, Sri Lanka took 21 years to graduate from the lower middle income category to the next level, thereby spending a relatively long period compared to some other emerging market economies. In this context, it is essential that Sri Lanka introduces the necessary structural reforms in a timely manner in order to ensure that a strong growth momentum is sustained in the period ahead, and thereby to avoid possible stagnation in the middle income levels for a longer period, i.e., the middle income trap.2 Table B 1.1 exhibits the time taken by selected countries to move from the upper middle income level to high income level, which ranges between 7 \u2013 40 years.3 Although there is a lack of consensus as to why countries get trapped in middle income levels, literature points to the slowdown in productivity as the major contributory factor caused by lack of economic diversification, rigid and inefficient labour markets, lack of access to advanced infrastructure, weak institutions, low levels of innovation, etc. For instance, Pruchnik and Zowczak (2017) highlighted seven factors, which are often associated with growth slowdowns, namely, unfavourable demographics, low level of economic diversification, inefficient financial markets, insufficient advanced infrastructure, low levels of innovation, weak institutions and inefficient labour markets. According",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      132.62,
+      55.75,
+      451.01,
+      79.74
+    ],
+    "text": "BOX 1Sri Lanka's Graduation to the Upper Middle Income Country Status",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      283.7,
+      524.64,
+      379.07
+    ],
+    "text": "to the classification of Pruchnik and Zowczak (2017), Sri Lanka remained in the bottom 20 per cent in the level of economic diversification and labour market efficiency. Against this backdrop, measures are required to address the challenges emanating from these areas, while also placing emphasis on addressing issues such as income inequality and poverty alleviation to ensure sustainable growth and shared prosperity in the period ahead.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.8,
+      561.52,
+      282.66,
+      626.32
+    ],
+    "text": "1 For the classifications using data for 2018, the World Bank categorises countries based on their GNI per capita as follows; low income \u2013 US dollars 1,025 or less, lower middle income \u2013 between US dollars 1,026 and US dollars 3,995, upper middle income \u2013 between US dollars 3,996 and US dollars 12,375, high income - US dollars 12,376 or more. These thresholds are updated by the World Bank in the month of July, each year. The World Bank uses the Atlas method to convert national currency GNI to US dollars by applying the Atlas conversion factor, which is the three year moving average exchange rate, after adjusting for the differences between inflation of the country and international inflation.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.8,
+      629.15,
+      282.67,
+      693.95
+    ],
+    "text": "2 As per some classifications, Sri Lanka is caught in a so-called middle income trap. Economists use this term to represent a scenario where countries that move with speed into middle income levels failing to continue such growth momentum so as to reach high income levels. The definition of middle income trap is not consistent among different studies conducted in this literature, making the number of countries recognised as caught in a middle income trap to differ across different authors. For instance, Pruchnik and Zowczak (2017) compare such different contributions in the middle income trap literature, suggesting that Sri Lanka is caught in the middle income trap as per two studies, thus highlighting the need for measures to avoid such stagnation.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.8,
+      696.79,
+      168.37,
+      703.98
+    ],
+    "text": "3 Source: Felipe, Abdon and Kumar (2012).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      306.64,
+      387.67,
+      520.62,
+      418.06
+    ],
+    "text": "Table B 1.1Number of Years Selected Economies Required to Graduate from Upper Middle Income to High Income Level",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.5,
+      422.82,
+      418.53,
+      444.41
+    ],
+    "text": "CountryYear of graduation to the Upper Middle Income category",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      422.01,
+      422.82,
+      476.64,
+      444.41
+    ],
+    "text": "Year of graduation to the High Income Category",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      478.98,
+      422.82,
+      521.18,
+      444.41
+    ],
+    "text": "No. of years in Upper Middle Income Category",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      5.6921000480651855
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.94,
+      446.97,
+      503.53,
+      624.14
+    ],
+    "text": "Hong Kong, China197619837Rep. of Korea198819957Japan196819779Singapore1978198810France1960197111Austria1964197612Belgium1961197312Germany1960197313Chile1992200513Norway1961197514Sweden1954196814Denmark1953196815Finland1964197915Ireland1975199015Italy1963197815Netherlands1955197015Spain1973199017Israel1969198617Portugal1978199618Greece1972200028Argentina1970201040",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.82,
+      628.11,
+      523.31,
+      642.51
+    ],
+    "text": "Source: Estimates of Felipe, Abdon and Kumar (2012)Note: Income groups in this study are different from the World Bank classifications",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.79,
+      91.61,
+      505.11,
+      123.74
+    ],
+    "text": "Figure B 1.1GNI of Selected Economies and the Evolution of World Bank Income Classification Thresholds",
+    "fonts": [
+      "Futura-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.2,
+      231.28,
+      316.5,
+      236.07
+    ],
+    "text": "0",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.2,
+      210.71,
+      316.5,
+      215.51
+    ],
+    "text": "3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.2,
+      190.15,
+      316.5,
+      194.94
+    ],
+    "text": "6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      314.2,
+      169.58,
+      316.5,
+      174.38
+    ],
+    "text": "9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.36,
+      149.01,
+      316.96,
+      153.8
+    ],
+    "text": "12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      312.36,
+      128.44,
+      316.96,
+      133.24
+    ],
+    "text": "15",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      318.13,
+      237.33,
+      322.93,
+      246.55
+    ],
+    "text": "1987",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      324.43,
+      237.33,
+      329.23,
+      246.55
+    ],
+    "text": "1988",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      330.73,
+      237.33,
+      335.53,
+      246.55
+    ],
+    "text": "1989",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      337.03,
+      237.33,
+      341.82,
+      246.55
+    ],
+    "text": "1990",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      343.33,
+      237.33,
+      348.12,
+      246.55
+    ],
+    "text": "1991",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      349.62,
+      237.33,
+      354.42,
+      246.55
+    ],
+    "text": "1992",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      355.92,
+      237.33,
+      360.71,
+      246.55
+    ],
+    "text": "1993",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      362.22,
+      237.33,
+      367.01,
+      246.55
+    ],
+    "text": "1994",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      368.51,
+      237.33,
+      373.31,
+      246.55
+    ],
+    "text": "1995",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      374.81,
+      237.33,
+      379.61,
+      246.55
+    ],
+    "text": "1996",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      381.11,
+      237.33,
+      385.9,
+      246.55
+    ],
+    "text": "1997",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.4,
+      237.33,
+      392.2,
+      246.55
+    ],
+    "text": "1998",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      393.7,
+      237.33,
+      398.5,
+      246.55
+    ],
+    "text": "1999",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      400.0,
+      237.33,
+      404.79,
+      246.55
+    ],
+    "text": "2000",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      406.29,
+      237.33,
+      411.09,
+      246.55
+    ],
+    "text": "2001",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.59,
+      237.33,
+      417.39,
+      246.55
+    ],
+    "text": "2002",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      418.89,
+      237.33,
+      423.69,
+      246.55
+    ],
+    "text": "2003",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      425.19,
+      237.33,
+      429.98,
+      246.55
+    ],
+    "text": "2004",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      431.49,
+      237.33,
+      436.28,
+      246.55
+    ],
+    "text": "2005",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      437.78,
+      237.33,
+      442.58,
+      246.55
+    ],
+    "text": "2006",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      444.08,
+      237.33,
+      448.87,
+      246.55
+    ],
+    "text": "2007",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      450.37,
+      237.33,
+      455.17,
+      246.55
+    ],
+    "text": "2008",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      456.67,
+      237.33,
+      461.47,
+      246.55
+    ],
+    "text": "2009",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      462.97,
+      237.33,
+      467.76,
+      246.55
+    ],
+    "text": "2010",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      469.26,
+      237.33,
+      474.06,
+      246.55
+    ],
+    "text": "2011",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      475.56,
+      237.33,
+      480.36,
+      246.55
+    ],
+    "text": "2012",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      481.86,
+      237.33,
+      486.66,
+      246.55
+    ],
+    "text": "2013",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      488.16,
+      237.33,
+      492.95,
+      246.55
+    ],
+    "text": "2014",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      494.45,
+      237.33,
+      499.25,
+      246.55
+    ],
+    "text": "2015",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      500.75,
+      237.33,
+      505.55,
+      246.55
+    ],
+    "text": "2016",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      507.05,
+      237.33,
+      511.84,
+      246.55
+    ],
+    "text": "2017",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      513.34,
+      237.33,
+      518.14,
+      246.55
+    ],
+    "text": "2018",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      4.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      305.14,
+      158.59,
+      311.14,
+      209.91
+    ],
+    "text": "Current US$ thousand",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.999899864196777
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      326.16,
+      251.28,
+      515.8,
+      262.97
+    ],
+    "text": "High IncomeUpper Middle IncomeLower Middle IncomeLow IncomeSri LankaIndiaPakistanChinaMalaysiaThailand",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      4.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      464.65,
+      267.24,
+      516.73,
+      273.24
+    ],
+    "text": "Source: World Bank data",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      5.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.77,
+      656.54,
+      332.33,
+      663.73
+    ],
+    "text": "References",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.77,
+      670.21,
+      523.61,
+      685.4
+    ],
+    "text": "1. Felipe, J., Abdon, A. and Kumar, U. (2012). \"Tracking the middle-income trap: What is it, who is in it, and why?\", Levy Economics Institute, Working Paper No. 715.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      302.77,
+      689.04,
+      523.63,
+      704.23
+    ],
+    "text": "2. Pruchnik, K. and Zowczak, J. (2017). \"Middle-income trap: Review of the conceptual framework\", ADBI Working Paper No. 760.",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-LightItalic"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]

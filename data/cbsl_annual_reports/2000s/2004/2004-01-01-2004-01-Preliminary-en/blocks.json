@@ -1,0 +1,10051 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      122.4,
+      94.97,
+      434.08,
+      124.93
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.5,
+      21.0,
+      21.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      186.12,
+      376.13,
+      367.92,
+      405.67
+    ],
+    "text": "ANNUAL REPORT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      20.0,
+      21.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      157.32,
+      488.41,
+      396.7,
+      508.34
+    ],
+    "text": "OF THE MONETARY BOARD TO THE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5,
+      13.5,
+      14.0,
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      181.62,
+      510.55,
+      373.21,
+      529.64
+    ],
+    "text": "HON. MINISTER OF.FINANGE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      224.28,
+      634.21,
+      329.08,
+      654.14
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      13.5,
+      14.0,
+      14.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      253.62,
+      664.13,
+      303.66,
+      695.05
+    ],
+    "text": "2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      22.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      502.02,
+      695.4,
+      508.97,
+      712.58
+    ],
+    "text": "p",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      67.14,
+      408.67,
+      179.69,
+      444.5
+    ],
+    "text": "fsBN 955-575-102-1lssN 1391-3581",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      12.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.58,
+      480.65,
+      128.63,
+      494.09
+    ],
+    "text": "Price per copy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.64,
+      493.27,
+      292.97,
+      513.89
+    ],
+    "text": "Counter sales Rs. 200 per copy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.46,
+      511.27,
+      292.79,
+      531.88
+    ],
+    "text": "De.spatch by ordinary mail Rs. 235 per copy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.28,
+      529.27,
+      292.79,
+      549.88
+    ],
+    "text": "Despatch by registered mail Rs. 250 per copy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.22,
+      576.59,
+      139.19,
+      589.82
+    ],
+    "text": "Dmpatch abroad",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.1,
+      589.21,
+      364.93,
+      624.4
+    ],
+    "text": "Air mail (lst Class) US $ 35 per copy (Registered post)Air mail (2nd Class) - US $ 30 per copy (Registered pos$",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.28,
+      618.73,
+      363.24,
+      639.34
+    ],
+    "text": "Sea mail US $ 2O pet copy (Registered post)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      101.52,
+      695.02,
+      441.34,
+      716.87
+    ],
+    "text": "hinted at the Central Bank Printing Press, 58, Sri Jayewardenepura Mawatha, Rajagiriya and. published by the Central Bank of Sri Lanka, 30, Janadhipathi Mawatha, Colombo, 00100.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      81.54,
+      116.69,
+      296.95,
+      158.78
+    ],
+    "text": "HON. MIMSTER OF FTNANCE AND PLANMNGMIMSTRY OF FINANCE AND PLANNINGcoLoMBo, 00100.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      11.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.08,
+      198.41,
+      118.98,
+      210.77
+    ],
+    "text": "Dear Sir,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.62,
+      222.89,
+      474.7,
+      239.3
+    ],
+    "text": "Section 35 of the Monetary Law Act (Chapter 422) requires the Monetary Board of the Central",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.44,
+      239.09,
+      475.86,
+      256.37
+    ],
+    "text": "Bank of Sri Lanka to submit an Annual Report to the Minister of Finance on the state of the",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.62,
+      256.91,
+      476.22,
+      272.12
+    ],
+    "text": "econony, the condition of the Central Bank and a review of the policies and measures adopted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.62,
+      272.57,
+      475.68,
+      288.83
+    ],
+    "text": "by the Monetary Board, within four months after the end of each financial year. The Fifty Fifth",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      82.98,
+      289.67,
+      475.87,
+      304.91
+    ],
+    "text": "Annual Report of the Monetary Board of the Central Bank, in respect of the year 2004, is submitted",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      83.16,
+      307.49,
+      243.52,
+      321.47
+    ],
+    "text": "herewith in fulfilment of this obligation.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      377.28,
+      358.97,
+      446.2,
+      372.2
+    ],
+    "text": "Yours sincerely,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      367.92,
+      397.31,
+      449.79,
+      427.21
+    ],
+    "text": "SI'NIL MENDIS. Governor",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0,
+      10.5,
+      11.0,
+      16.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.06,
+      428.27,
+      187.13,
+      441.32
+    ],
+    "text": "Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.6,
+      442.12,
+      186.22,
+      454.19
+    ],
+    "text": "30, Janadhipathi Mawatha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.24,
+      455.27,
+      152.35,
+      467.63
+    ],
+    "text": "Colombo, 00100.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      84.6,
+      491.81,
+      141.66,
+      506.24
+    ],
+    "text": "29 April 2005",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      130.32,
+      47.62,
+      428.26,
+      76.0
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      19.5,
+      20.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.08,
+      94.37,
+      339.6,
+      122.36
+    ],
+    "text": "THE MONETARY BOARD(as at 3l December 2004)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      245.52,
+      126.59,
+      312.64,
+      141.71
+    ],
+    "text": "SuNtt MBNUs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      260.28,
+      142.61,
+      299.34,
+      155.66
+    ],
+    "text": "Govenrcr",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233.46,
+      160.43,
+      325.16,
+      175.07
+    ],
+    "text": "P. B. JavesuNDERA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      178.74,
+      175.19,
+      379.72,
+      188.66
+    ],
+    "text": "Secretary to the Ministry of Finarrce and Planning",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.4,
+      192.83,
+      318.85,
+      234.29
+    ],
+    "text": "C. CUaNMUGAMP. D. RourucoTrlax'Dr Zovsa",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      10.0,
+      10.5,
+      11.0,
+      11.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      238.68,
+      235.12,
+      318.57,
+      247.49
+    ],
+    "text": "Appointed Mentbers",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.32,
+      257.81,
+      291.24,
+      271.55
+    ],
+    "text": "Principal Officers as at 31 December 2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.14,
+      270.79,
+      350.89,
+      339.2
+    ],
+    "text": "W. A. WtlewnRDENA - Deputy GovennrMns. R. JnyananuR - Deputy GoventorR. A. Jeynrlsse - Assistant GoventorMns. M. A. R. C. CoonRv - Assistant GovenrcrK. G. D. D. DHeeRnstNGHE - Assistant Goventor attd",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      13.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.5,
+      334.14,
+      387.79,
+      365.2
+    ],
+    "text": "P D. r. Fen*nnoo t;:,;:::,7';\"'::,,Y#etary Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      11.0,
+      12.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.68,
+      357.19,
+      383.5,
+      400.94
+    ],
+    "text": "A. G. KnRuNnseNR - Assistant GoventorY. M. W. B. Wnennsg,KERA - Assistant GovernorU. VIoaNAPATHIRANA - Asslstant Goventor (on release)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      11.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      112.68,
+      416.57,
+      395.72,
+      480.32
+    ],
+    "text": "Bank Supervision DepartmentMs. J. P. T. De ZLvn, - DirectorP. SenannASIRI - Acting Atlditiorwl. DirectorCurrency DepartmentA. JneweNDARA - Acting Superirtendent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.04,
+      479.75,
+      395.9,
+      517.22
+    ],
+    "text": "Domestic Operations DepartmentD. S. WtreslNcue - DirectorA. KnUnIASIRI - Acting Additional Director",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.04,
+      516.47,
+      320.35,
+      543.14
+    ],
+    "text": "Economic Research DepartmentH. N. TuENuwnnR - Director",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.22,
+      542.39,
+      393.45,
+      580.04
+    ],
+    "text": "Employees' Provident Fund DepartmentN. J. Penenn - Superinte,ulentS. Souepnln - Additional Superintertdent",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.22,
+      579.29,
+      373.45,
+      616.76
+    ],
+    "text": "Exchange Control DepartmentH. A. G. HemnRACHcHI - ControllerH. M. P. HnnnrH - Additional Controller",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.22,
+      616.55,
+      402.86,
+      653.84
+    ],
+    "text": "Finance DepartmentD. L. KntuwRwn LR - Chief AccotutantE. A. HerrlnRRCHcHl - Additional Chief Accountalfi",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      113.4,
+      653.27,
+      394.87,
+      727.64
+    ],
+    "text": "Human Resources DepartmentM. A. NeNonstRl - DirectorS. H. A. M. AsevRetxe - Additional DirectorInformation DepartmentMns. C. K. N.lnevnrKARA - DirectorMs. K. SRnnvnNAMUTT(, - Acting Adclitiotml Director",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.88,
+      48.65,
+      392.89,
+      221.3
+    ],
+    "text": "Information Technology DepartmentMns. J. P. MnuptrlyA - Acting DirectorInternational Operations DepartmentMns. P. LtyeNnCe - Actittg DirectorLegal DepartmentMns. S. KnnunucAMUwA - DirectorManagement Audit DepartmentW. M. J. RarrunpRtyA - DirectorMns. J. A. N. DtssnNlyere - Actittg Additional DirectorManagement Development CentreMns. P. P. SInrseNn - Actirtg DirectorNon-Bank Financial Institutions Supervision DepartmentMns. L. K. GunRrlr-exe - Directo -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.0,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.16,
+      220.01,
+      416.93,
+      565.64
+    ],
+    "text": "Payments & Settlements DepartmentMns. K. R. M. StntweRDENA - DirectoK. B. DtsslrnnuxR - Actirtg Atlditional DirectorPremises DepartmentG. L. AnannnseNn - DirectoY. A. DE STLVA - Actirtg Additional DirectorPublic Debt DepartmentMns. C. PneUnRATHNE - Superintendent and Registrarw. M. HelvIncHnNDRA - Acting Additional SuperintendentRegional Development DepartmentM. M. Artnl.tRyere - DirectoW. M. KnRunnnATNE - Additional DirectorSecretariat DepartmentW. S. L. FnnnRruno - SecretatnSecurity Services DepartmentW. P. P. FenNlNoo - DirectoStatistics DepartmentMns. ANII-n D. BnNoIRANATKE - DirectoD. WnseNrHn - Acting Additional DirectorThe Centre for Banking StudiesK. JecnxATHAN - DirectoC. K. PRRnNnvtTHANA - Additional DirectorM. V. M. FennnNoo - Acting Additional DirectorTraining DepartmentMns. P, P. Stntssun - Directo\"Welfare DepartmentL. Y. DunRuRseNn - Directo \"",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.5,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      11.0,
+      13.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.34,
+      564.71,
+      343.42,
+      592.28
+    ],
+    "text": "Special OflicerMns. P. T. Penenl - Legal Reforms",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      110.16,
+      592.43,
+      356.86,
+      672.2
+    ],
+    "text": "Heads of Department on ReleaseP. W. R. B. A. U. HennrConsultantsG. WeennKooN - I-abourAdvisorsHownRo ScHunanN - Huntan esources",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      274.5,
+      679.73,
+      350.73,
+      716.36
+    ],
+    "text": "AuditorS. C. MnynouNueAuditor-Generol",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      242.82,
+      50.64,
+      308.82,
+      67.13
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      42.66,
+      68.12,
+      301.44,
+      143.63
+    ],
+    "text": "PART II. ECONOMIC PERFORMANCE, OUTLOOK AND POLICIESl.l Overview1.2 External Economic Environment1.3 Macroeconomic Performance and Policies in 2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.0,
+      13.0,
+      13.5,
+      15.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.56,
+      142.06,
+      319.71,
+      154.64
+    ],
+    "text": "Economic Growth, National Income and Income Distribution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.74,
+      155.02,
+      267.32,
+      215.45
+    ],
+    "text": "Production and Sectoral PerformanceAgricultureIndustryServicesConsumption, Savings and Investment .'.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.92,
+      214.78,
+      283.07,
+      251.09
+    ],
+    "text": "Economic and Social InfrastructurePrices, Wages and EmploymentInternational Trade and the Balance of Payments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.88,
+      250.42,
+      339.56,
+      300.23
+    ],
+    "text": "Fiscal Policy, Budgetary Operations and Public DebtMonetary Policy, Monetary Aggregates and Interest RatesFinancial Sector Developments and Stability1.4 Medium Term Macroeconomic Framework, Issues and Policies ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      43.92,
+      306.23,
+      268.34,
+      403.76
+    ],
+    "text": "2. NATIONAL OUTPUT AND EXPENDITURE2.L Overview2.2 Sectoral Policies and Institutional SupportAgricultural Policy and Institutional Support...Industrial Policy and Institutional Support2.3 OutputAgriculture .Industry",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      8.0,
+      8.5,
+      9.0,
+      10.5,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.7,
+      404.86,
+      245.95,
+      489.32
+    ],
+    "text": "Services2.4 ExpenditureConsumptionInvestment .Availability and Utilisation of ResourcesSavings :..2.5 Issues and Policies .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.5,
+      5.0,
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      45.0,
+      492.89,
+      344.59,
+      531.14
+    ],
+    "text": "3. ECONOMIC AND SOCIAL INFRASTRUCTURE3.1 Overview3.2 Economic Infrastructure Policies, Institutional Setup and Performance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.36,
+      529.96,
+      196.76,
+      541.64
+    ],
+    "text": "Communications Services ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.36,
+      542.92,
+      145.16,
+      565.4
+    ],
+    "text": "Ener-eyTransportation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      57.42,
+      565.78,
+      340.68,
+      602.96
+    ],
+    "text": "Road TransportationWater Supply & Irrigation ..3.3 Social Infrastructure Policies, Institutional Setup and Performance...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.0,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      90.72,
+      601.78,
+      218.19,
+      661.52
+    ],
+    "text": "HealthEducationHousing and Urban DevelopmentSafety NetsEnvironment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      45.36,
+      668.75,
+      245.05,
+      718.4
+    ],
+    "text": "4. PRICES, WAGES AND EMPLOYMENT4.1 Overview4.2 PricesPrice Movements of Goods and Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      491.22,
+      77.44,
+      508.73,
+      87.74
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      503.1,
+      91.85,
+      505.6,
+      116.27
+    ],
+    "text": "tI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      502.2,
+      118.3,
+      506.09,
+      127.91
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      502.38,
+      130.89,
+      505.99,
+      139.82
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      498.24,
+      142.95,
+      507.05,
+      237.2
+    ],
+    "text": "8t0r0l0t2t2l3r6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      9.5,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      497.88,
+      238.9,
+      507.33,
+      296.84
+    ],
+    "text": "L7l8l92l22",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.5,
+      10.0,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      498.42,
+      307.48,
+      506.76,
+      317.78
+    ],
+    "text": "35",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      498.42,
+      319.36,
+      507.32,
+      341.69
+    ],
+    "text": "3540",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      498.42,
+      342.76,
+      507.5,
+      401.81
+    ],
+    "text": "404l4l4l45",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      498.78,
+      402.88,
+      507.68,
+      413.87
+    ],
+    "text": "48",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.14,
+      415.12,
+      508.04,
+      426.11
+    ],
+    "text": "50",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.14,
+      427.18,
+      508.04,
+      438.17
+    ],
+    "text": "50",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.14,
+      439.6,
+      507.48,
+      449.9
+    ],
+    "text": "53",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.32,
+      451.66,
+      507.66,
+      461.96
+    ],
+    "text": "55",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.32,
+      463.18,
+      508.22,
+      486.05
+    ],
+    "text": "5656",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.32,
+      493.06,
+      508.22,
+      504.05
+    ],
+    "text": "59",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.5,
+      505.48,
+      508.4,
+      527.81
+    ],
+    "text": "5960",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.5,
+      528.88,
+      508.4,
+      539.87
+    ],
+    "text": "60",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.5,
+      540.94,
+      508.4,
+      563.81
+    ],
+    "text": "6264",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.68,
+      565.24,
+      508.02,
+      575.54
+    ],
+    "text": "65",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      499.68,
+      577.12,
+      508.13,
+      612.29
+    ],
+    "text": "687r7l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.04,
+      613.12,
+      508.38,
+      623.42
+    ],
+    "text": "72",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.04,
+      625.36,
+      508.94,
+      647.69
+    ],
+    "text": "7374",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.22,
+      649.3,
+      508.56,
+      659.6
+    ],
+    "text": "75",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.22,
+      669.82,
+      509.12,
+      680.81
+    ],
+    "text": "76",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.22,
+      681.88,
+      509.3,
+      704.57
+    ],
+    "text": "7677",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      500.4,
+      706.18,
+      508.74,
+      716.48
+    ],
+    "text": "77",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94.68,
+      72.94,
+      196.37,
+      84.8
+    ],
+    "text": "Provincial Price Variations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.9,
+      85.36,
+      201.44,
+      121.88
+    ],
+    "text": "Consumer Price IndicesRegional Price Indices ;..,Wholesale Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      94.5,
+      121.54,
+      146.53,
+      133.91
+    ],
+    "text": "GDP Deflator",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      82.26,
+      136.47,
+      246.31,
+      280.13
+    ],
+    "text": "Wa-eesPublic SectorFormal Private SectorInformal Private SectorPopulation, Labour Force and EmploymentPopulationLabour ForceEmploymentUnemploymentForeign EmploymentLabour ProductivityPolicies and Issues",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.14,
+      288.05,
+      289.05,
+      411.5
+    ],
+    "text": "5. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES5.1 Overview5.2 External Sector Policies and Institutional Support5.3 Trade in Goods and Trade BalanceExport PerformanceImport PerformanceDirection of Trade5.4 Trade in Services, Income, TransfersTrade in Transportation ServicesTravel and Tourism",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      93.42,
+      411.34,
+      219.26,
+      436.46
+    ],
+    "text": "Trade in Telecommunication andInflows and Outflows of Income",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      61.02,
+      268.78,
+      72.14,
+      279.77
+    ],
+    "text": "4.5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      61.56,
+      134.86,
+      72.68,
+      145.85
+    ],
+    "text": "4.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      61.38,
+      183.82,
+      72.5,
+      194.81
+    ],
+    "text": "4.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.84,
+      449.32,
+      71.26,
+      459.62
+    ],
+    "text": "5.5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.48,
+      558.22,
+      71.6,
+      569.21
+    ],
+    "text": "5.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.42,
+      53.86,
+      517.1,
+      64.85
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.72,
+      72.05,
+      513.89,
+      87.17
+    ],
+    "text": "t9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.72,
+      87.52,
+      513.62,
+      123.92
+    ],
+    "text": "798l8l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.9,
+      124.96,
+      513.24,
+      135.26
+    ],
+    "text": "82",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.72,
+      136.84,
+      513.62,
+      147.83
+    ],
+    "text": "82",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.72,
+      149.08,
+      513.62,
+      160.07
+    ],
+    "text": "82",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.54,
+      161.86,
+      512.88,
+      172.16
+    ],
+    "text": "83",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.54,
+      173.56,
+      513.44,
+      184.55
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.54,
+      185.8,
+      513.44,
+      196.79
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.18,
+      198.04,
+      513.08,
+      209.03
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.18,
+      210.28,
+      513.08,
+      221.27
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.18,
+      222.52,
+      512.63,
+      233.51
+    ],
+    "text": "8s",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.0,
+      234.58,
+      512.9,
+      245.57
+    ],
+    "text": "86",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.18,
+      246.82,
+      513.08,
+      257.81
+    ],
+    "text": "87",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.0,
+      259.6,
+      512.34,
+      269.9
+    ],
+    "text": "88",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.0,
+      271.12,
+      512.9,
+      282.11
+    ],
+    "text": "88",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      504.0,
+      292.18,
+      512.9,
+      303.17
+    ],
+    "text": "89",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.64,
+      304.42,
+      512.72,
+      328.37
+    ],
+    "text": "899l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.46,
+      329.26,
+      512.91,
+      352.1
+    ],
+    "text": "9394",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.46,
+      353.02,
+      512.36,
+      364.01
+    ],
+    "text": "95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.46,
+      365.44,
+      512.36,
+      376.43
+    ],
+    "text": "97",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.46,
+      377.68,
+      512.36,
+      388.67
+    ],
+    "text": "98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.28,
+      389.74,
+      512.18,
+      400.73
+    ],
+    "text": "98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.28,
+      401.98,
+      512.18,
+      412.97
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.28,
+      414.22,
+      512.18,
+      425.21
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.28,
+      426.28,
+      512.18,
+      437.27
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      503.28,
+      438.52,
+      512.18,
+      449.51
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      499.32,
+      451.3,
+      511.83,
+      461.6
+    ],
+    "text": "100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      499.14,
+      462.82,
+      512.48,
+      473.81
+    ],
+    "text": "100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      499.32,
+      475.42,
+      511.83,
+      485.72
+    ],
+    "text": "100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      499.14,
+      487.66,
+      511.65,
+      497.96
+    ],
+    "text": "100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      499.14,
+      499.72,
+      513.22,
+      559.4
+    ],
+    "text": "100l0ll0lt02r02",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5,
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.96,
+      560.56,
+      511.47,
+      570.86
+    ],
+    "text": "103",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.96,
+      572.62,
+      511.47,
+      582.92
+    ],
+    "text": "103",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.96,
+      584.86,
+      512.17,
+      608.0
+    ],
+    "text": "103I04",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.96,
+      609.16,
+      511.97,
+      632.33
+    ],
+    "text": "105r06",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.96,
+      642.82,
+      512.15,
+      665.45
+    ],
+    "text": "107r07",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.78,
+      666.94,
+      511.29,
+      677.24
+    ],
+    "text": "108",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      498.78,
+      679.18,
+      513.33,
+      726.74
+    ],
+    "text": "109r09ll0l12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.0,
+      10.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      225.54,
+      374.45,
+      335.8,
+      388.19
+    ],
+    "text": "and Current A..ount Balance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222.66,
+      412.42,
+      347.47,
+      424.49
+    ],
+    "text": "Information Technology Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.3,
+      436.18,
+      310.92,
+      631.28
+    ],
+    "text": "Current TransfersCapital and Financial Accounts and Balance of PaymentsCapital and Financial AccountsForeign Direct Investment ..Privatisation Proceeds ...Loan Capital to the GovernmentLoan Capital to the Private SectorShort-term CapitalBalance of Payments and External Reserves ...External ReservesExternal Debt and Debt Service PavmentsExternal DebtForeign Debt Service Payments5.7 Exchange Rate Regime and Exchange Rate MovementsNominal and Real Effective Exchange Rates...Developments in the Domestic Foreign Exchange Market",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.0,
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      11.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.24,
+      638.15,
+      270.92,
+      725.03
+    ],
+    "text": "6. FISCAL POLICY AND GOVERNMENT FINANCE ...6.1 Overview6.2 Fiscal Policy Measures and Policy Direction6.3 Central Government Budgetary OperationsRevenueExpenditureFinancing the Budget Deficit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.06,
+      72.24,
+      262.87,
+      100.58
+    ],
+    "text": "6.4 Sub National Covernment Budgetary OperationsPerformance of Provincial Councils",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.24,
+      99.59,
+      269.3,
+      125.78
+    ],
+    "text": "Performance of Local Governments6.5 Public Sector Debt and Debt Service Payments ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.72,
+      124.96,
+      240.82,
+      172.82
+    ],
+    "text": "Central Government Debt ...Non-Financial Public Corporation DebtPublic Sector DebtDebt Service Payments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45.36,
+      180.77,
+      319.35,
+      231.26
+    ],
+    "text": "7. MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES7.1 Overview7.2 Monetary Policy7.3 Developments in Money and Credit Aggregates ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      90.9,
+      230.26,
+      169.39,
+      253.97
+    ],
+    "text": "Reserve MoneyNarrow Money (M1)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      57.78,
+      252.41,
+      227.18,
+      363.02
+    ],
+    "text": "Broad Money (MzJFinancial Survey7.4 Interest RatesCentral Bank Policy RatesMoney Market RatesLending and Deposit RatesYields on Government SecuritiesYields on Corporate Debt Securities7.5 Issues in Conducting Monetary Policy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      45.9,
+      369.23,
+      293.96,
+      468.26
+    ],
+    "text": "8. FINANCIAL SECTOR DEVELOPMENTS AND STABILITY8.1 Overview8.2 Developments in Financial Institutions ...The Central Bank of Sri LankaLicensed Commercial BanksLicensed Specialised BanksFinance CompaniesOther Financial Institutions ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.32,
+      461.59,
+      270.44,
+      538.76
+    ],
+    "text": "Contractual Savings Institutions ...8.3 Developments in Financial MarketsInter Bank Call Money MarketDomestic Foreign Exchange MarketGovernment Securities MarketCorporate Debt Securities Market",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5,
+      9.0,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.5,
+      538.6,
+      249.86,
+      574.91
+    ],
+    "text": "Share Market8.4 Development Finance and Access to FinanceDevelopment Finance ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      58.68,
+      574.06,
+      231.88,
+      659.66
+    ],
+    "text": "Enhancement of Access to Finance8.5 Financial InfrastructurePayments and Settlement SystemLegislative ReformsRegulation and SupervistonCredit Rating and Credit Information8.6 Financial System Stability",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      493.56,
+      55.48,
+      511.07,
+      65.78
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.26,
+      72.96,
+      508.49,
+      88.07
+    ],
+    "text": "n2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.26,
+      89.14,
+      508.67,
+      148.37
+    ],
+    "text": "113ll3ll3ll3n4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      11.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.44,
+      149.08,
+      509.58,
+      172.64
+    ],
+    "text": "114lr4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      11.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.26,
+      176.82,
+      508.94,
+      206.06
+    ],
+    "text": "ll6ll6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.44,
+      206.32,
+      510.17,
+      289.04
+    ],
+    "text": "116tt7tt7n7ll8r20r20",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5,
+      11.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.44,
+      289.66,
+      509.96,
+      360.89
+    ],
+    "text": "12012lt2lt22r22r23",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.62,
+      369.05,
+      510.53,
+      393.98
+    ],
+    "text": "r24r24",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.62,
+      395.32,
+      510.8,
+      417.8
+    ],
+    "text": "125126",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.98,
+      418.9,
+      510.5,
+      442.07
+    ],
+    "text": "126t29",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.8,
+      443.2,
+      509.31,
+      453.5
+    ],
+    "text": "130",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.8,
+      455.26,
+      510.71,
+      514.04
+    ],
+    "text": "130l3lr32r32r32",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5,
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.98,
+      515.74,
+      508.66,
+      525.35
+    ],
+    "text": "133",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.98,
+      527.62,
+      508.66,
+      537.23
+    ],
+    "text": "133",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.8,
+      538.78,
+      510.88,
+      573.41
+    ],
+    "text": "133134t34",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      497.34,
+      573.88,
+      510.68,
+      584.87
+    ],
+    "text": "134",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      496.98,
+      587.02,
+      508.66,
+      596.63
+    ],
+    "text": "135",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      497.16,
+      598.9,
+      509.62,
+      633.08
+    ],
+    "text": "135r37r37",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      497.34,
+      634.36,
+      510.39,
+      657.53
+    ],
+    "text": "139t39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.7,
+      60.18,
+      82.55,
+      77.36
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.7,
+      70.09,
+      514.0,
+      92.6
+    ],
+    "text": "ACCOITNTS AND OPERAIIONS OF TrrE CENTRAL BANK OF SRI LANKA .. 0) - ()ovD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      10.5,
+      13.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.7,
+      100.12,
+      513.81,
+      128.81
+    ],
+    "text": "PART TIIMAIOR ADMINISTRATIVE MEASIJRES ADOPTED BY THE MONETARY BOARD IN 2004 (i) - (lxiv)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      10.0,
+      13.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.52,
+      135.59,
+      513.39,
+      176.72
+    ],
+    "text": "PART IVMAJOR LEGISLATTVE ENACTMENTS OF 2OO4 RELATING TO TI{E FIJNCTIONS AND OPERATIONSOF TTIE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA .. I - )OfiVII",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      11.0,
+      12.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.52,
+      183.47,
+      156.78,
+      197.21
+    ],
+    "text": "STATISTICAL APPEMIX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.52,
+      201.65,
+      201.03,
+      215.39
+    ],
+    "text": "SPECHL STATISTICAL APPENDIX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      46.98,
+      89.14,
+      51.43,
+      100.13
+    ],
+    "text": "L",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      226.44,
+      47.23,
+      328.8,
+      69.25
+    ],
+    "text": "PART I - TABLES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      13.0,
+      13.5,
+      15.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57.24,
+      86.45,
+      319.47,
+      149.42
+    ],
+    "text": "ECONOMIC PERFORMANCE, OUTLOOK AND POLICIESl.l Global Economic Developments and Outlook1.2 Gross National Product at Constant (1996) Prices1.3 Ag_eregate Demand and Savings - Investment Gap : 2003 and 20041.4 Medium Term Macroeconomic Framework : 2005 - 2008",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.5,
+      11.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      57.24,
+      154.12,
+      395.96,
+      275.9
+    ],
+    "text": "NATIONAL OUTPUT AND EXPENDITURE2.1 Sectoral Composition and Increase in Gross Domestic Product at Constant (1996) Prices2.2 Agriculture Production Index (1997-2000=100)2.3 Trends in PrincipalAgricultural Crops2.4 Paddy Sector Statistics2.5 Fish Production2.6 Value of Industrial Production (1990 Constant Prices)2.7 Ex-Factory Profit Ratios of Non-BOI Private Sector Industries2.8 Domestic Cost Structure of Non-BOI Private Sector Industries2.9 Labour Productivity Index in the Non-BOI Private Sector Industries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      58.86,
+      274.55,
+      472.66,
+      311.45
+    ],
+    "text": "2.10 A-egregate Demand2.lI Composition of Private Consumption Expenditure at Cunent Market Prices2.l2 Investment and Employment in the Enterprises Registered under Board of Investment of Sri Lanka (BOI) and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      11.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.6,
+      492.7,
+      52.49,
+      502.31
+    ],
+    "text": "4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      89.64,
+      308.92,
+      285.4,
+      322.4
+    ],
+    "text": "Ministry of Industry and Investment Promotion (MIIP)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.4,
+      320.99,
+      286.87,
+      346.67
+    ],
+    "text": "2.13 Total Resources and Their Uses at Constant (1996) hices2.14 National Savings at Current Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.22,
+      352.12,
+      267.64,
+      485.09
+    ],
+    "text": "ECONOMIC AND SOCIAL INFRASTRUCTURE3.1 Government Investment in Infrastructure3.2 Growth of Postal and Telecommunication Services3.3 Power Sector Perfbrmance ...3.4 Petroleum Sector Performance '3.5 Salient Features of the Transport Sector3.6 Port Services3.7 Water Supply by NWSDB3.8 Health Services3.9 General and University Education3.10 Samurdhi Welfare Programme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      12.0,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.76,
+      490.19,
+      275.58,
+      527.72
+    ],
+    "text": "PRICES, WAGES AND EMPLOYMENT4.1 Price Behaviour in 2003 and20044.2 Administered Price Revisions in2002,2003 and2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.76,
+      164.56,
+      509.1,
+      174.86
+    ],
+    "text": "36",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.58,
+      176.08,
+      509.48,
+      187.07
+    ],
+    "text": "42",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.58,
+      188.14,
+      509.48,
+      199.13
+    ],
+    "text": "42",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.76,
+      200.74,
+      509.1,
+      211.04
+    ],
+    "text": "43",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.94,
+      212.8,
+      509.84,
+      235.13
+    ],
+    "text": "4546",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      500.94,
+      236.92,
+      509.28,
+      247.22
+    ],
+    "text": "47",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      501.3,
+      248.8,
+      509.64,
+      259.1
+    ],
+    "text": "47",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      501.3,
+      260.86,
+      509.64,
+      271.16
+    ],
+    "text": "48",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      501.66,
+      272.92,
+      510.0,
+      283.22
+    ],
+    "text": "50",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      501.66,
+      284.8,
+      510.0,
+      295.1
+    ],
+    "text": "53",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.02,
+      308.92,
+      510.36,
+      319.22
+    ],
+    "text": "54",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.02,
+      333.04,
+      510.36,
+      343.34
+    ],
+    "text": "56",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.38,
+      363.1,
+      510.72,
+      386.21
+    ],
+    "text": "606l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.56,
+      387.04,
+      510.9,
+      397.34
+    ],
+    "text": "62",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.56,
+      399.28,
+      510.9,
+      409.58
+    ],
+    "text": "64",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.74,
+      411.34,
+      511.08,
+      421.64
+    ],
+    "text": "66",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.74,
+      423.4,
+      511.08,
+      433.7
+    ],
+    "text": "67",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.92,
+      435.82,
+      510.7,
+      445.43
+    ],
+    "text": "68",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.92,
+      448.41,
+      510.51,
+      457.34
+    ],
+    "text": "7T",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.92,
+      459.4,
+      511.26,
+      469.7
+    ],
+    "text": "73",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      502.92,
+      471.28,
+      511.26,
+      481.58
+    ],
+    "text": "74",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.28,
+      498.64,
+      511.62,
+      508.94
+    ],
+    "text": "11",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.28,
+      513.22,
+      511.62,
+      523.52
+    ],
+    "text": "79",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.64,
+      525.1,
+      511.98,
+      535.4
+    ],
+    "text": "80",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.64,
+      537.16,
+      511.98,
+      547.46
+    ],
+    "text": "82",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.64,
+      549.58,
+      511.42,
+      559.19
+    ],
+    "text": "83",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.64,
+      561.1,
+      511.98,
+      571.4
+    ],
+    "text": "83",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.82,
+      573.16,
+      512.16,
+      583.46
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      503.82,
+      585.58,
+      511.6,
+      595.19
+    ],
+    "text": "85",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.0,
+      597.1,
+      512.34,
+      607.4
+    ],
+    "text": "86",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.18,
+      609.16,
+      512.52,
+      619.46
+    ],
+    "text": "86",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.18,
+      621.04,
+      512.52,
+      631.34
+    ],
+    "text": "87",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.18,
+      633.28,
+      512.52,
+      643.58
+    ],
+    "text": "87",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.36,
+      645.16,
+      512.7,
+      655.46
+    ],
+    "text": "88",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.36,
+      673.06,
+      513.26,
+      684.05
+    ],
+    "text": "90",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.54,
+      685.48,
+      512.88,
+      695.78
+    ],
+    "text": "92",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.54,
+      697.72,
+      512.88,
+      708.02
+    ],
+    "text": "93",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      504.54,
+      709.42,
+      513.44,
+      720.41
+    ],
+    "text": "94",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      60.66,
+      522.42,
+      293.21,
+      658.76
+    ],
+    "text": "4.3 Chan-ees in Price Indices4.4 GDP Deflator4.5 Wa-ee Rate Index Numbers (December 1978=100) ...4.6 Informal Private Sector Daily Wa-ees by Sector and Gender4.7 Population by District4.8 Labour Force Participation4.9 Employment by Economic Activity4.10 Public Sector Employment4.1I Unemployment Rate4.12 Foreign Employment4.13 Labour Productivity by Major Economic Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.0,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      49.86,
+      662.27,
+      278.64,
+      724.31
+    ],
+    "text": "5. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES5.t Balance of Payments Analytical Presentation5.2 Average Import Duty Collection Rate5.3 Trade Indices5.4 Composition of Exports ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5,
+      9.5,
+      12.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.42,
+      61.26,
+      317.37,
+      175.07
+    ],
+    "text": "5,5 End-Use Classification of Imports5.6 Volume of Major Imports5.7 Net Services, Income and Transfers5.8 Tourism Statistics: 2000 -2Cf.45.9 Major Projects Financed by Foreign Lendin-e during 20045.10 External Assets of Sri Lanka5.1I Outstanding External Debt and Banking Sector External Liabilities5.12 ExtemalDebt Service Payments5.13 Exchange Rate Movements ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      10.5,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45.18,
+      178.61,
+      256.76,
+      217.4
+    ],
+    "text": "6. FISCAL POLICY AND GOVERNMENT FINANCE6.1 Summary of Government Fiscal Operations6.2 Economic Classification of Revenue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      494.82,
+      52.96,
+      512.33,
+      63.26
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      501.3,
+      70.6,
+      510.2,
+      81.59
+    ],
+    "text": "96",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      500.94,
+      82.66,
+      509.84,
+      93.65
+    ],
+    "text": "97",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      500.94,
+      95.44,
+      509.28,
+      105.74
+    ],
+    "text": "98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      496.98,
+      107.5,
+      510.17,
+      142.37
+    ],
+    "text": "98l0lr02",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.0,
+      11.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      496.8,
+      144.21,
+      508.48,
+      153.83
+    ],
+    "text": "104",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      496.62,
+      156.45,
+      508.3,
+      166.07
+    ],
+    "text": "105",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      496.44,
+      168.33,
+      508.12,
+      177.95
+    ],
+    "text": "105",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      495.54,
+      198.57,
+      508.75,
+      304.4
+    ],
+    "text": "108ll0llllll|2ll3lt4lr5l15",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.5,
+      10.5,
+      11.5,
+      12.0,
+      14.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      494.46,
+      319.56,
+      508.03,
+      394.88
+    ],
+    "text": "ll8l19t20r2012lt22",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      11.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      494.28,
+      412.42,
+      506.79,
+      424.79
+    ],
+    "text": "t25",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      494.1,
+      426.1,
+      506.61,
+      436.4
+    ],
+    "text": "125",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      493.74,
+      438.16,
+      506.61,
+      472.7
+    ],
+    "text": "126r27t27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      493.56,
+      474.16,
+      506.07,
+      484.46
+    ],
+    "text": "129",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      493.38,
+      486.57,
+      506.39,
+      520.4
+    ],
+    "text": "130r32r33",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      493.02,
+      522.39,
+      505.45,
+      545.12
+    ],
+    "text": "135t4r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.16,
+      212.1,
+      336.64,
+      300.77
+    ],
+    "text": "6.3 Economic Classification of Expenditure and Lending Minus Repayment6.4 Functional Classification of Expenditure6.5 Sources of Domestic Financing6.6 Budget Outturn for Provincial Councils ,6.7 Outstanding Public Sector Debt (ar end year)6.8 Government Debt Service Payments6.9 Government Debt Indicators",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      12.0,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.28,
+      304.97,
+      303.83,
+      355.04
+    ],
+    "text": "7. MONETARY POLICX MONEX CREDITAND INTEREST RATES7.1 Developments in Monetary Aggregates7.2 Underlying Factors of Reserve Money and Broad Money7.3 Financial Survey and Underlying Factors",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      55.44,
+      348.55,
+      265.55,
+      391.4
+    ],
+    "text": "7 .4 Changes in Policy Interest Rates of the Central Bank7.5 Money Market Interest Rates7.6 Average Interest Rates of Commercial Banks",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.5,
+      7.5,
+      8.0,
+      8.5,
+      12.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      54.0,
+      395.5,
+      354.54,
+      541.49
+    ],
+    "text": "FINANCIAL SECTOR DEVELOPMENTS AND STABILITY8.1 Total Assets of the Financial System8.2 Distribution of Banks and Bank Branches8,3 Assets and Liabilities of Licensed Commercial Banks8.4 Sectoral Distribution of Loans and Advances by Commercial Banks8.5 Credit Cards Operations by Commercial Banks8.6 Sectoral Distribution of Loans Approved by Licensed Specialised Banks8.7 Specialised Leasing Companies - Sectoral Classification of Leasing Facilities8.8 Money Market Operations :2002-20048.9 Share Market Indicators8.10 Non-Cash Payments : Volume and Value of Transactions8.1I soundness Indicators of selected Financial Institutions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      10.5,
+      11.0,
+      12.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      227.16,
+      49.04,
+      332.65,
+      71.71
+    ],
+    "text": "PART I - CHARTS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.5,
+      13.5,
+      16.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47.88,
+      86.82,
+      308.64,
+      199.91
+    ],
+    "text": "I. ECONOMIC PERFORMANCE, OUTLOOK AND POLICIESLl Real GDP Growth and Inf'lation...1.2 Savings and Investment1.3 Exports and Impofis .1.4 Trade Balance, Current Account Balance and Overall Balance1.5 Revenue, Expenditure and Budget Deficit1.6 Government Debt1.7 Growth of Reserve Money and Broad Money (MzJ...1.8 Interest Rates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      12.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      46.44,
+      203.63,
+      244.32,
+      242.36
+    ],
+    "text": "2. NATIONAL OUTPUT AND EXPENDITURE2.1 Annual Growth Rates2.2 The Economy in 2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      58.32,
+      237.13,
+      266.85,
+      314.12
+    ],
+    "text": "Supply of Goods and Services .Demand for Goods and Services .2.3 Rice : Supply and Demand2.4 Composition of Industrial Production - 20042.5 Investment in Approved and Contracted BOI ProjectsNumber of Projects",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.0,
+      5.0,
+      7.5,
+      8.0,
+      8.5,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      85.5,
+      314.32,
+      156.67,
+      326.0
+    ],
+    "text": "Value of Investment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      46.26,
+      329.63,
+      259.07,
+      416.6
+    ],
+    "text": "3. ECONOMIC AND SOCIAL INFRASTRUCTURE3.1 Government Expenditure on Health and Education3.2 Telephone Density3.3 Average Tariff and Cost of Electricity3.4 International Crude Oil Prices :2003 -2W43.5 Total Container Handling and Transshipments3.6 SamurdhiWelfare Programme ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      45.54,
+      420.17,
+      268.76,
+      470.03
+    ],
+    "text": "4. PRICES, WAGES AND EMPLOYMENT4.1 Trends in Price Indices4.2 Retail Prices of Selected Commodities by Province ...Kelulu Rice (Red)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      84.42,
+      471.27,
+      132.02,
+      493.07
+    ],
+    "text": "BeansFish (Balaya)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      57.06,
+      493.6,
+      316.42,
+      532.31
+    ],
+    "text": "Coconut4.3 Point to Point Changes in hice Indices4.4 Trends in the Labour Force and Unemployment : 2000 - 2004 (Q3)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.34,
+      533.56,
+      273.96,
+      557.36
+    ],
+    "text": "EXTERNAL SECTOR -DEVELOPMENTS AND POLICIES5.1 ExternalTrade",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.34,
+      556.96,
+      351.1,
+      720.41
+    ],
+    "text": "Value of Imports and Exports...Volume Indices of Imports and Exports (1997=100) ...Unit Value Indices of Imports and Exports and Terms of Trade (1997=100)5.2 Balance of Payments5.3 Share of Exports by Major Categories5.4 Share of Imports by Major Categories5.5 Direction of TradeExports by DestinationImports by Origin5.6 Monthly Tourist Anivals5.7 Official and Private Capital Inflows5.8 Quarterly External Assets5.9 External Debt5.10 Exchange Rate Movements ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.5,
+      11.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      495.18,
+      81.76,
+      512.69,
+      92.06
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      506.16,
+      103.9,
+      509.82,
+      139.01
+    ],
+    "text": "II)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      506.16,
+      142.05,
+      510.05,
+      151.67
+    ],
+    "text": "2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      505.98,
+      154.11,
+      509.87,
+      163.73
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      505.98,
+      167.07,
+      509.59,
+      176.0
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      505.98,
+      179.31,
+      509.59,
+      188.24
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      505.8,
+      191.37,
+      509.69,
+      200.99
+    ],
+    "text": "3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      501.3,
+      220.72,
+      509.64,
+      231.02
+    ],
+    "text": "35",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      501.3,
+      232.96,
+      509.64,
+      243.26
+    ],
+    "text": "39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      501.3,
+      245.2,
+      509.64,
+      255.5
+    ],
+    "text": "39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.76,
+      256.9,
+      509.66,
+      290.93
+    ],
+    "text": "394446",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      501.12,
+      293.61,
+      508.9,
+      303.23
+    ],
+    "text": "55",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      305.32,
+      509.28,
+      315.62
+    ],
+    "text": "55",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      317.02,
+      509.28,
+      327.32
+    ],
+    "text": "55",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      346.54,
+      509.28,
+      369.29
+    ],
+    "text": "606l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      370.47,
+      508.72,
+      380.09
+    ],
+    "text": "63",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      382.36,
+      509.28,
+      392.66
+    ],
+    "text": "64",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.94,
+      394.96,
+      509.28,
+      405.26
+    ],
+    "text": "68",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.86,
+      407.02,
+      508.76,
+      418.01
+    ],
+    "text": "75",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.58,
+      437.8,
+      508.92,
+      448.1
+    ],
+    "text": "76",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.4,
+      449.86,
+      508.74,
+      460.16
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      461.56,
+      508.56,
+      471.86
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      473.08,
+      508.56,
+      483.38
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      484.6,
+      508.56,
+      494.9
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.04,
+      496.48,
+      508.38,
+      506.78
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      508.36,
+      508.56,
+      518.66
+    ],
+    "text": "80",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      520.42,
+      508.56,
+      530.72
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.22,
+      549.21,
+      508.0,
+      558.83
+    ],
+    "text": "89",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.04,
+      560.2,
+      508.38,
+      570.5
+    ],
+    "text": "89",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      500.04,
+      571.9,
+      508.38,
+      582.2
+    ],
+    "text": "89",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.68,
+      583.42,
+      508.2,
+      605.72
+    ],
+    "text": "899r",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.5,
+      606.64,
+      507.84,
+      616.94
+    ],
+    "text": "95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.5,
+      618.34,
+      507.84,
+      628.64
+    ],
+    "text": "95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.5,
+      630.04,
+      507.84,
+      640.34
+    ],
+    "text": "97",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.5,
+      641.74,
+      507.84,
+      652.04
+    ],
+    "text": "97",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.32,
+      653.26,
+      507.66,
+      663.56
+    ],
+    "text": "97",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      499.32,
+      664.96,
+      507.66,
+      675.26
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      495.54,
+      676.48,
+      509.1,
+      698.9
+    ],
+    "text": "100t02",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      495.54,
+      700.05,
+      507.22,
+      709.67
+    ],
+    "text": "103",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      495.54,
+      711.57,
+      507.22,
+      721.19
+    ],
+    "text": "106",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      46.8,
+      112.9,
+      53.89,
+      124.58
+    ],
+    "text": "6.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58.86,
+      71.14,
+      298.54,
+      107.69
+    ],
+    "text": "Exchange Rate Movements in 2003 and 2004Effective Exchange Rate Indices - 24-currency (1999=100)5.ll Inter Bank Forwatd Transactions in 2003 and 20f,4 ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58.86,
+      111.47,
+      282.39,
+      207.8
+    ],
+    "text": "FISCAL POLICY AND GOVERNMENT FINANCE6.t Major Fiscal Indicators (as a%o of GDP)6.2 Composition of Government Revenue - 20046.3 Composition of Government Current Expenditure - 20046.4 Total Expenditure by Function - 20M6.5 DeficitFinancing (asa7o of GDP)6.6 GovernmentDelt (asa%o of GDP)6.7 Government Debt Service Payments (wa% of GDP)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0,
+      10.5,
+      11.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      58.5,
+      212.62,
+      308.55,
+      225.2
+    ],
+    "text": "MONETARY POLICY, MONEX CREDN AND INTEREST RATES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      59.4,
+      219.85,
+      279.64,
+      285.92
+    ],
+    "text": "7 .l Reserve Money Growth and Sources of Reserve Money7.2 Growth in Mro and its Sources ...7.3 Money Market Interest Rates7.4 Commercial Bank Lending and Deposit Rates7.5 Government Securities - Secondary Market Yield Curve",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      59.58,
+      288.95,
+      315.12,
+      314.54
+    ],
+    "text": "FINANCIAL SECTOR DEVELOPMENTS AND STABILITY8.1 Sources and Uses of Funds of CommercialBanks (as at end 20f,4)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      86.94,
+      313.96,
+      228.74,
+      325.64
+    ],
+    "text": "Sources of Funds of Commercial Banks",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      60.12,
+      326.02,
+      231.06,
+      350.39
+    ],
+    "text": "Uses of Funds of Commercial Banks8.2 Turnover and Foreign Participation at CSE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      495.72,
+      53.5,
+      513.23,
+      63.8
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      498.6,
+      71.32,
+      511.11,
+      81.62
+    ],
+    "text": "106",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      498.6,
+      83.02,
+      511.11,
+      93.32
+    ],
+    "text": "106",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      498.6,
+      94.54,
+      511.11,
+      104.84
+    ],
+    "text": "106",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      498.78,
+      124.6,
+      511.14,
+      206.36
+    ],
+    "text": "107ll0ll0llln2u3n4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      10.0,
+      10.5,
+      12.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      498.96,
+      221.81,
+      512.14,
+      282.77
+    ],
+    "text": "n7ll8tzlr2lr22",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      10.5,
+      11.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      499.14,
+      299.75,
+      512.48,
+      348.35
+    ],
+    "text": "t28r28t28134",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      47.34,
+      215.14,
+      53.18,
+      224.75
+    ],
+    "text": "7.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      229.86,
+      51.73,
+      327.01,
+      70.97
+    ],
+    "text": "PART I _ BOXES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.5,
+      12.0,
+      12.5,
+      14.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      493.74,
+      77.26,
+      511.25,
+      87.56
+    ],
+    "text": "Page",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.42,
+      87.38,
+      508.99,
+      108.52
+    ],
+    "text": "The Tsunami Disaster . .. 4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.42,
+      102.67,
+      509.07,
+      123.28
+    ],
+    "text": "A Regional Comparison of the Interest Spread and the Interest Margin in the Commercial Banking Sector 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.42,
+      117.98,
+      508.44,
+      138.59
+    ],
+    "text": "Promoting Competitiveness in Sri Lanka I I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.78,
+      133.46,
+      509.28,
+      154.07
+    ],
+    "text": "lmplications of Oil Price Shocks 14",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5,
+      9.0,
+      9.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.6,
+      148.04,
+      508.94,
+      169.88
+    ],
+    "text": "Major Economic Policy Changes and Me asures : 2004 - 2005 27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      12.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.6,
+      163.16,
+      508.56,
+      183.77
+    ],
+    "text": "Reclassification of the Gross National Product Account 37",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.6,
+      178.28,
+      508.21,
+      198.89
+    ],
+    "text": "Changing Lifestyles in Sri Lanka 5l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5,
+      10.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.6,
+      192.86,
+      508.94,
+      214.91
+    ],
+    "text": "Maintenance of Mahaweli Reservoirs - Cunent Status and Emerging Threats . .. 69",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      12.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.78,
+      208.34,
+      508.59,
+      228.95
+    ],
+    "text": "Cheque Imaging and Truncation 136",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.78,
+      223.46,
+      508.59,
+      244.07
+    ],
+    "text": "The New Basel Capital Accord 138",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.78,
+      237.86,
+      508.77,
+      258.89
+    ],
+    "text": "The Economic Impact of Pyramid Schemes .. .. 140",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5,
+      9.0,
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      205.38,
+      51.01,
+      352.46,
+      68.87
+    ],
+    "text": "STATISTICAL APPENDIX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      45.72,
+      104.09,
+      221.55,
+      117.17
+    ],
+    "text": "NATIONAL OUTPUT AND EXPENDITURE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      117.94,
+      247.63,
+      129.11
+    ],
+    "text": "Gross National Product at Cunent Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      130.0,
+      247.82,
+      141.17
+    ],
+    "text": "Gross National Product at Cunent Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      141.34,
+      278.42,
+      153.26
+    ],
+    "text": "Gross National Product at Constant (1996) Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      153.58,
+      278.42,
+      165.47
+    ],
+    "text": "Gross National Product at Constant (1996) Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      166.36,
+      254.48,
+      178.97
+    ],
+    "text": "Quarterly Gross National Product at Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      178.42,
+      296.78,
+      189.59
+    ],
+    "text": "Gross Doemstic Product by Province at Current Factor Cost Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      190.12,
+      168.6,
+      201.8
+    ],
+    "text": "Resources and their Utilisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      202.54,
+      248.0,
+      213.71
+    ],
+    "text": "Gross National Expenditure at Current Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      214.42,
+      273.38,
+      225.77
+    ],
+    "text": "Gross Domestic Capital Formation at Current Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      226.12,
+      328.28,
+      237.8
+    ],
+    "text": "Composition of Private Consumption Expenditure at Current Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      238.54,
+      289.76,
+      249.71
+    ],
+    "text": "Expenditure on Gross National Product at Cunent Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.14,
+      250.06,
+      270.2,
+      261.74
+    ],
+    "text": "Gross Domestic Expenditure and Availability of Resources",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.14,
+      262.66,
+      233.77,
+      273.65
+    ],
+    "text": "Investment and Savines at Cunent Market Prices",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      57.96,
+      274.54,
+      195.68,
+      297.74
+    ],
+    "text": "Real National IncomeTrends in Principal Agricultural Crops",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.14,
+      298.3,
+      275.96,
+      309.65
+    ],
+    "text": "Production of Tea, Rubber, Coconut and Other Export Crops",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.14,
+      310.0,
+      221.84,
+      333.74
+    ],
+    "text": "Annual Rainfall and Rainy DaysDistrictwise Performance of the Paddy Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.32,
+      334.48,
+      121.4,
+      345.47
+    ],
+    "text": "Paddy Production",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.32,
+      346.36,
+      179.84,
+      358.04
+    ],
+    "text": "Pertbrmance of Other Field Crops",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.5,
+      358.96,
+      161.54,
+      370.64
+    ],
+    "text": "Statistics of the Sugar Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.32,
+      371.56,
+      184.92,
+      383.24
+    ],
+    "text": "Annual Usage of Fertiliser by Crop",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.5,
+      383.98,
+      170.35,
+      395.69
+    ],
+    "text": "Statistics of the Forestry Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      396.04,
+      251.03,
+      407.9
+    ],
+    "text": "Value of Industrial Production (1990 Constant Prices)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      403.98,
+      198.56,
+      421.16
+    ],
+    "text": "Value of Industrial Production ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5,
+      12.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.5,
+      420.16,
+      325.17,
+      432.05
+    ],
+    "text": "Investment Approvals in Industry by the Board of Investment of Sn Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.5,
+      431.5,
+      294.25,
+      444.08
+    ],
+    "text": "Realised Investment in the Board of Investment (BOI) Enterprises",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      444.64,
+      277.32,
+      455.99
+    ],
+    "text": "Relative Composition of Private and Public Sector Industries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      456.16,
+      206.03,
+      468.02
+    ],
+    "text": "Value Added in Industry (Cunent Prices)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.5,
+      468.58,
+      171.38,
+      480.26
+    ],
+    "text": "Capacity Utilisation in Industry",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      479.92,
+      304.49,
+      491.99
+    ],
+    "text": "Annual Capacity, Production and Sales (Quantity) of State Industries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      492.34,
+      223.51,
+      527.96
+    ],
+    "text": "Employment in State IndustriesAvailability and Utilisation of Quota...Regional Distribution of Industrial Enterprises",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.68,
+      528.34,
+      241.33,
+      540.08
+    ],
+    "text": "Private Sector Industrial Production Volume Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      46.98,
+      545.45,
+      238.47,
+      559.19
+    ],
+    "text": "ECONOMIC AND SOCIAL INFRASTRUCTURE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.86,
+      559.66,
+      139.63,
+      570.65
+    ],
+    "text": "Public Health Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.86,
+      571.18,
+      180.84,
+      582.89
+    ],
+    "text": "General and University Education",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      58.86,
+      583.78,
+      205.15,
+      594.77
+    ],
+    "text": "Telecommunications and Postal Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.04,
+      589.75,
+      194.65,
+      608.3
+    ],
+    "text": "Energy Sector Pedormance .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      3.5,
+      8.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.04,
+      603.78,
+      199.28,
+      619.58
+    ],
+    "text": "Transport Sector Performance ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      11.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.22,
+      619.24,
+      176.89,
+      630.92
+    ],
+    "text": "Performance of the Port Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.22,
+      631.48,
+      283.79,
+      642.83
+    ],
+    "text": "Land Cultivated under the Mahaweli Development Programme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      47.34,
+      648.59,
+      204.95,
+      661.64
+    ],
+    "text": "PRICES, WAGES AND EMPLOYMENT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.4,
+      662.08,
+      181.39,
+      685.31
+    ],
+    "text": "Consumer Price IndicesColombo Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.4,
+      685.66,
+      204.07,
+      697.37
+    ],
+    "text": "Colombo District Consumer Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.4,
+      697.72,
+      228.73,
+      709.4
+    ],
+    "text": "Anuradhapura District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.76,
+      709.6,
+      202.09,
+      721.28
+    ],
+    "text": "Matale District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      490.68,
+      89.14,
+      511.94,
+      100.82
+    ],
+    "text": "Table",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      502.92,
+      117.94,
+      512.37,
+      141.59
+    ],
+    "text": "IIA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      502.02,
+      143.32,
+      512.42,
+      165.44
+    ],
+    "text": "22A",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      507.96,
+      167.97,
+      512.41,
+      189.23
+    ],
+    "text": "34",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      508.32,
+      192.09,
+      511.93,
+      201.02
+    ],
+    "text": "5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      508.32,
+      202.9,
+      512.49,
+      213.2
+    ],
+    "text": "6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      508.5,
+      216.21,
+      512.11,
+      225.14
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      508.5,
+      228.09,
+      512.11,
+      237.02
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      239.62,
+      512.68,
+      274.82
+    ],
+    "text": "9l0u",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      10.0,
+      12.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      275.79,
+      512.29,
+      297.68
+    ],
+    "text": "L2l3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      299.73,
+      512.49,
+      321.62
+    ],
+    "text": "T4l5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.72,
+      323.32,
+      512.68,
+      346.91
+    ],
+    "text": "16t]",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      14.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      347.97,
+      512.31,
+      370.4
+    ],
+    "text": "18l9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.18,
+      372.1,
+      512.52,
+      395.57
+    ],
+    "text": "202l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.36,
+      396.76,
+      512.7,
+      407.06
+    ],
+    "text": "22",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.18,
+      408.82,
+      513.08,
+      431.15
+    ],
+    "text": "2324",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.36,
+      432.76,
+      512.7,
+      443.06
+    ],
+    "text": "25",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.36,
+      444.28,
+      513.26,
+      455.27
+    ],
+    "text": "26",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.36,
+      456.7,
+      512.7,
+      467.0
+    ],
+    "text": "27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.54,
+      468.58,
+      512.88,
+      478.88
+    ],
+    "text": "28",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.54,
+      480.64,
+      512.88,
+      490.94
+    ],
+    "text": "29",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.72,
+      492.7,
+      513.06,
+      515.63
+    ],
+    "text": "303l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.72,
+      516.46,
+      513.06,
+      526.76
+    ],
+    "text": "32",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      527.98,
+      512.9,
+      538.97
+    ],
+    "text": "JJ",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      504.9,
+      558.76,
+      513.8,
+      569.75
+    ],
+    "text": "34",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.08,
+      571.72,
+      512.86,
+      581.33
+    ],
+    "text": "35",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.08,
+      582.7,
+      513.98,
+      593.69
+    ],
+    "text": "36",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.08,
+      595.3,
+      513.42,
+      605.6
+    ],
+    "text": "31",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.26,
+      607.18,
+      513.6,
+      617.48
+    ],
+    "text": "38",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.26,
+      619.24,
+      514.16,
+      641.57
+    ],
+    "text": "3940",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.44,
+      658.49,
+      514.34,
+      684.05
+    ],
+    "text": "4l42",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.44,
+      685.66,
+      514.34,
+      707.99
+    ],
+    "text": "4344",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      505.62,
+      709.42,
+      513.96,
+      719.72
+    ],
+    "text": "45",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.78,
+      70.6,
+      201.55,
+      106.43
+    ],
+    "text": "Matara District Consumers' Price IndexSri Lanka Consumers' hice IndexWholesale Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.78,
+      105.9,
+      350.43,
+      130.88
+    ],
+    "text": "Avera,ee Retail Prices of Selected Food items by Province (Rs./kg) - 2003 - 2004Wholesale Prices of Selected Commodities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      11.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.6,
+      131.98,
+      203.66,
+      180.23
+    ],
+    "text": "Wage Rate Index NumbersDaily Wages in the Agriculture SectorDaily Wa-ees in the Constrsuction SectorDemography",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.6,
+      181.12,
+      172.28,
+      204.53
+    ],
+    "text": "Population by DistrictLabour Force Participation Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.6,
+      205.06,
+      185.46,
+      252.59
+    ],
+    "text": "Status of EmploymentEmployment by Economic ActivityLabour Force TrendsPublic Sector Employment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.42,
+      253.66,
+      158.27,
+      288.59
+    ],
+    "text": "Forei-gn EmploymentEmployees' Provident FundEmployees' Trust Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.6,
+      289.66,
+      181.92,
+      300.83
+    ],
+    "text": "Strikes in Private Sector Industries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      45.54,
+      306.41,
+      273.06,
+      346.19
+    ],
+    "text": "EXTERNAL SECTOR DEVELOPMENTS AND POLICIESCentral Bank Trade Indices - Value ...Central Bank Trade Indices - Volume",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.24,
+      343.31,
+      204.42,
+      367.25
+    ],
+    "text": "Central Bank Trade Indices - Unit ValueForeign Trade",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.24,
+      368.32,
+      84.36,
+      379.31
+    ],
+    "text": "Exports",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.88,
+      380.38,
+      264.23,
+      475.94
+    ],
+    "text": "Tea Exports, Sales and PricesVolume and Value of Tea ExportsCountry Classification of Tea Exports .Rubber Exports and PricesCountry Classification of Rubber ExportsCountry Classification of Garment ExportsMajor Coconut Products, Exports and PricesVolume and Value of Exports of Other Agricultural",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.7,
+      476.14,
+      213.71,
+      511.76
+    ],
+    "text": "Selected Industrial and Mineral ExportsImports by Major Cate_{onesImports and Exports of Major Commodities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      493.38,
+      55.3,
+      512.14,
+      65.6
+    ],
+    "text": "Table",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      71.86,
+      512.36,
+      82.85
+    ],
+    "text": "46",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      84.64,
+      511.8,
+      94.94
+    ],
+    "text": "47",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      96.7,
+      511.8,
+      107.0
+    ],
+    "text": "48",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      108.76,
+      511.8,
+      119.06
+    ],
+    "text": "49",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.64,
+      121.0,
+      511.98,
+      144.5
+    ],
+    "text": "505l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.64,
+      146.2,
+      511.98,
+      156.5
+    ],
+    "text": "52",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.64,
+      159.33,
+      511.42,
+      168.95
+    ],
+    "text": "53",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      171.04,
+      511.8,
+      181.34
+    ],
+    "text": "54",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      183.63,
+      511.24,
+      193.25
+    ],
+    "text": "55",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      195.16,
+      511.8,
+      205.46
+    ],
+    "text": "56",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.46,
+      207.22,
+      511.8,
+      217.52
+    ],
+    "text": "57",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.28,
+      219.1,
+      511.62,
+      229.4
+    ],
+    "text": "58",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.1,
+      231.16,
+      512.0,
+      266.18
+    ],
+    "text": "59606I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.1,
+      267.16,
+      511.44,
+      277.46
+    ],
+    "text": "62",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.1,
+      279.04,
+      511.44,
+      289.34
+    ],
+    "text": "63",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      503.1,
+      291.28,
+      511.44,
+      301.58
+    ],
+    "text": "64",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      322.24,
+      511.26,
+      332.54
+    ],
+    "text": "65",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      334.12,
+      511.26,
+      344.42
+    ],
+    "text": "66",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      346.18,
+      511.26,
+      356.48
+    ],
+    "text": "67",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      358.24,
+      511.26,
+      368.54
+    ],
+    "text": "68",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      370.3,
+      511.26,
+      380.6
+    ],
+    "text": "69",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.92,
+      382.36,
+      511.26,
+      405.29
+    ],
+    "text": "107l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.74,
+      406.48,
+      511.08,
+      416.78
+    ],
+    "text": "72",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.74,
+      418.36,
+      511.08,
+      428.66
+    ],
+    "text": "73",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.74,
+      430.6,
+      511.08,
+      440.9
+    ],
+    "text": "74",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.74,
+      442.48,
+      511.08,
+      452.78
+    ],
+    "text": "75",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.74,
+      454.36,
+      511.08,
+      464.66
+    ],
+    "text": "76",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      466.42,
+      510.9,
+      476.72
+    ],
+    "text": "77",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      478.48,
+      510.9,
+      488.78
+    ],
+    "text": "78",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      490.36,
+      510.9,
+      500.66
+    ],
+    "text": "79",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      502.24,
+      510.9,
+      512.54
+    ],
+    "text": "80",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      514.83,
+      510.34,
+      524.45
+    ],
+    "text": "81",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.56,
+      526.36,
+      510.9,
+      536.66
+    ],
+    "text": "82",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.38,
+      538.77,
+      510.16,
+      548.39
+    ],
+    "text": "83",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.38,
+      550.12,
+      510.72,
+      560.42
+    ],
+    "text": "84",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.38,
+      562.53,
+      510.16,
+      572.15
+    ],
+    "text": "85",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.2,
+      574.06,
+      510.54,
+      584.36
+    ],
+    "text": "86",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.2,
+      586.12,
+      510.54,
+      596.42
+    ],
+    "text": "87",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      502.2,
+      598.18,
+      510.54,
+      608.48
+    ],
+    "text": "88",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      501.84,
+      622.12,
+      510.74,
+      657.26
+    ],
+    "text": "89909l",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      501.84,
+      658.48,
+      510.18,
+      668.78
+    ],
+    "text": "92",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      245.7,
+      465.52,
+      275.3,
+      475.82
+    ],
+    "text": "Products",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.34,
+      512.14,
+      351.08,
+      607.16
+    ],
+    "text": "Expenditure on ImportsDirection of TradeTourist Arrivals, Employment and Accommodation Capacity in the Tourist SectorSome Indicators of Regional Distribution of the Tourist TradeBalance of PaymentsServices, Income and TransfersPrivate Remittances .End of Period Exchange Rates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.34,
+      607.72,
+      447.21,
+      644.84
+    ],
+    "text": "Avera-ee Exchange Rates of Major Currencies and Monthly Indices of Nominal Effective Exchange Rate andReal Eft'ective Exchange RateInterbank Forward Market Transactions .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.0,
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      55.98,
+      644.26,
+      357.65,
+      668.18
+    ],
+    "text": "Purchase and Sales of Forei,en Exchange by the Central BankExternal Debt Outstanding and Banking Sector External Liabilities (Disbursements)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      44.1,
+      673.25,
+      245.21,
+      709.79
+    ],
+    "text": "FISCAL POLICY AND GOVERNMENT FINANCESummary of Government Fiscal OperationsGovernment Revenue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      55.98,
+      710.32,
+      207.55,
+      722.18
+    ],
+    "text": "Payments of the Government of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      501.48,
+      689.08,
+      510.38,
+      711.23
+    ],
+    "text": "9394",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      501.48,
+      712.84,
+      509.82,
+      723.14
+    ],
+    "text": "95",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      71.86,
+      269.27,
+      98.15
+    ],
+    "text": "Voted Expenditure of the Govelnment of Sri Lanka -2004Voted Expenditure of the Government of Sri Lanka - 2005",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.7,
+      96.52,
+      261.08,
+      107.87
+    ],
+    "text": "Current Transfers to Public Corporations and Instttuttons",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.7,
+      108.58,
+      268.58,
+      132.14
+    ],
+    "text": "Capital Transfers to Public Corporations and Institutions ...Acquisition of Financial Assets (Loans Outlay)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      132.34,
+      224.31,
+      144.23
+    ],
+    "text": "Financing of the Government Net Cash Deficit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      145.12,
+      234.13,
+      156.29
+    ],
+    "text": "Economic Classification of Government Revenue",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      156.28,
+      364.66,
+      168.35
+    ],
+    "text": "Economic Classification of Government Expenditure and Lending Minus Repayments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      169.06,
+      264.74,
+      180.41
+    ],
+    "text": "Economic Classification of Government Fiscal Operations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      56.88,
+      180.76,
+      225.7,
+      192.47
+    ],
+    "text": "Composition of Outstanding Government Debt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.06,
+      193.0,
+      172.42,
+      204.68
+    ],
+    "text": "Ownership of Government Debt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.06,
+      204.88,
+      158.5,
+      216.59
+    ],
+    "text": "Ownership of Treasury Bills",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.06,
+      216.76,
+      164.18,
+      228.47
+    ],
+    "text": "Ownership of Treasury Bonds",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.24,
+      228.82,
+      154.35,
+      240.53
+    ],
+    "text": "Ownership of Rupee Loans",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.24,
+      240.88,
+      201.58,
+      252.59
+    ],
+    "text": "Ownership of Outstanding Foreign Debt",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.06,
+      253.48,
+      197.12,
+      276.5
+    ],
+    "text": "Foreign Loans -20fl,4Net Receipts of Foreign Assistance ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.24,
+      276.52,
+      275.57,
+      288.41
+    ],
+    "text": "Outstanding Central Government Debt (as at end of the year)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.42,
+      283.39,
+      264.77,
+      301.94
+    ],
+    "text": "Budget Outturn for Provincial Councils .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      8.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.42,
+      295.27,
+      264.77,
+      313.82
+    ],
+    "text": "Performance of the Privatisation Programme .",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      4.5,
+      7.5,
+      8.0,
+      8.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.54,
+      318.82,
+      223.6,
+      330.86
+    ],
+    "text": "MONEY, CREDIT AND MONETARY POLICY",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.24,
+      329.27,
+      184.27,
+      345.47
+    ],
+    "text": "Monetary A-egregates - Mt and M,",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      9.5,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.42,
+      342.94,
+      252.9,
+      354.83
+    ],
+    "text": "Cunency Issue of the Central Bank (by Denomination)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      355.0,
+      216.95,
+      366.71
+    ],
+    "text": "Monetary Survey (Domestic Banking Units)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.42,
+      366.36,
+      272.47,
+      381.47
+    ],
+    "text": "Consolidated Monetary Survey (inclusive of FCBUs) - Mzu",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      492.84,
+      55.66,
+      511.6,
+      65.96
+    ],
+    "text": "Table",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      503.28,
+      72.22,
+      512.18,
+      83.21
+    ],
+    "text": "96",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      503.28,
+      84.82,
+      511.62,
+      95.12
+    ],
+    "text": "91",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      503.28,
+      96.88,
+      511.62,
+      107.18
+    ],
+    "text": "98",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      503.46,
+      109.12,
+      511.8,
+      119.42
+    ],
+    "text": "99",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.86,
+      121.54,
+      513.23,
+      155.87
+    ],
+    "text": "100t0lr02",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.68,
+      157.9,
+      511.36,
+      167.51
+    ],
+    "text": "103",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.5,
+      169.24,
+      512.01,
+      203.96
+    ],
+    "text": "104t05r06",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.68,
+      206.14,
+      511.36,
+      215.75
+    ],
+    "text": "107",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.68,
+      218.02,
+      511.36,
+      227.63
+    ],
+    "text": "108",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.68,
+      229.9,
+      511.36,
+      239.51
+    ],
+    "text": "109",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.5,
+      241.96,
+      512.84,
+      312.86
+    ],
+    "text": "110lilt12ll3lL4ll5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      10.0,
+      11.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.86,
+      326.76,
+      511.86,
+      343.25
+    ],
+    "text": "ll6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      499.68,
+      344.55,
+      513.04,
+      390.23
+    ],
+    "text": "TT7ll8l19r20",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.04,
+      392.08,
+      513.24,
+      426.41
+    ],
+    "text": "T2Lt22t23",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.22,
+      427.54,
+      512.73,
+      450.2
+    ],
+    "text": "124r25",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.4,
+      451.48,
+      512.91,
+      461.78
+    ],
+    "text": "126",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.22,
+      463.0,
+      511.78,
+      473.99
+    ],
+    "text": "r27",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.4,
+      493.96,
+      512.91,
+      504.26
+    ],
+    "text": "128",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.58,
+      507.45,
+      513.4,
+      515.69
+    ],
+    "text": "129',",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      433.98,
+      518.26,
+      513.45,
+      554.21
+    ],
+    "text": "130l3lInstitutions ... 132",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.5,
+      11.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.58,
+      554.08,
+      512.26,
+      563.69
+    ],
+    "text": "133",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.76,
+      565.06,
+      514.1,
+      587.93
+    ],
+    "text": "134r35",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      500.76,
+      589.9,
+      512.44,
+      599.51
+    ],
+    "text": "136",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.6,
+      427.54,
+      264.86,
+      451.1
+    ],
+    "text": "Money Rates : Savings and Long-Term Credit InstitutionsYield Rates on Government Paper",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      451.3,
+      234.1,
+      463.19
+    ],
+    "text": "Commercial Bank Advances by Type of Security",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      463.18,
+      254.69,
+      475.07
+    ],
+    "text": "Commercial Banks Advances by Purpose and Matunty",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.9,
+      480.47,
+      282.8,
+      493.88
+    ],
+    "text": "FINANCIAL SECTOR DEVELOPMENTS AND STABILITY",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      493.78,
+      207.23,
+      505.64
+    ],
+    "text": "Assets and Liabilities of the Central Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.96,
+      505.66,
+      216.27,
+      517.52
+    ],
+    "text": "Assets and Liabilities of Commercial Banks",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.14,
+      517.36,
+      298.76,
+      529.4
+    ],
+    "text": "Assets and Liabilities of Foreign Currency Banking Units (FCBUs)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.14,
+      529.6,
+      269.66,
+      541.46
+    ],
+    "text": "Assets and Liabilities of Registered Finance Compantes ...",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.14,
+      541.48,
+      430.35,
+      553.19
+    ],
+    "text": "Savings and Fixed Deposits of Commercial Banks and other Licensed Non-Commercial Bank Financial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      378.6,
+      139.09,
+      393.71
+    ],
+    "text": "Financial Survey - Mo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      391.9,
+      133.21,
+      402.89
+    ],
+    "text": "Monetary Aggregates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      403.78,
+      173.16,
+      414.95
+    ],
+    "text": "Reserve Position of Commercial",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      57.78,
+      416.02,
+      105.27,
+      427.01
+    ],
+    "text": "Money Rates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.14,
+      553.54,
+      128.93,
+      565.22
+    ],
+    "text": "Insurance Activities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.32,
+      566.14,
+      157.37,
+      577.16
+    ],
+    "text": "Share Market Developments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      176.94,
+      404.32,
+      197.78,
+      414.62
+    ],
+    "text": "Banks",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.14,
+      577.84,
+      255.02,
+      601.4
+    ],
+    "text": "Listed Debenture Issues during the year 2004Total Cultivation Loans Granted by the Lending Banks",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.5,
+      600.54,
+      381.42,
+      615.65
+    ],
+    "text": "New Comprehensive Rural Credit Scheme - Loans Granted for Subsidiary Food Crops by",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      64.44,
+      613.48,
+      189.78,
+      625.19
+    ],
+    "text": "People's Bank and Bank of Ceylon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.5,
+      625.36,
+      377.37,
+      637.22
+    ],
+    "text": "Deposits and Advances of Bank of Ceylon Sub-Offices at Agrarian Services Centres and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      64.62,
+      637.24,
+      361.77,
+      651.23
+    ],
+    "text": "Co-operative Rural Banks (1993 -2004) and District-wise Classification for 2004",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.68,
+      648.95,
+      277.82,
+      663.38
+    ],
+    "text": "Operations of the Crop Insurance Programme - Paddy Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      58.68,
+      660.64,
+      420.92,
+      673.43
+    ],
+    "text": "Deposits and Advances of District Co-operative Rural Banks' Unions (199G2004) and District-wise",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      67.68,
+      673.43,
+      149.98,
+      685.79
+    ],
+    "text": "Classification for 20M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      501.48,
+      614.02,
+      513.16,
+      623.63
+    ],
+    "text": "137",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      501.48,
+      636.88,
+      514.17,
+      660.23
+    ],
+    "text": "r38t39",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      501.48,
+      673.78,
+      513.99,
+      684.08
+    ],
+    "text": "140",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      178.2,
+      49.92,
+      382.7,
+      67.79
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      12.0,
+      12.5,
+      13.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119.34,
+      100.13,
+      222.66,
+      113.87
+    ],
+    "text": "Trends in Key Variables",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      120.24,
+      114.52,
+      447.33,
+      139.55
+    ],
+    "text": "Tablel. Real Sector :1946-zUJ/.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.5,
+      14.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.4,
+      134.35,
+      440.9,
+      154.96
+    ],
+    "text": "Population and Labour Force I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      10.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.4,
+      149.47,
+      441.67,
+      170.08
+    ],
+    "text": "National Output and hices 2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119.34,
+      175.37,
+      241.42,
+      191.93
+    ],
+    "text": "2. External Sector: 1950 -20M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      10.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      185.47,
+      441.29,
+      206.08
+    ],
+    "text": "Balance of Payments 3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      200.59,
+      441.77,
+      221.2
+    ],
+    "text": "External Assets, External Debt and Exchange Rates 4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119.7,
+      227.03,
+      231.01,
+      242.3
+    ],
+    "text": "3. Fiscal Sector: 1950 -200r'.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      236.59,
+      441.29,
+      257.2
+    ],
+    "text": "Government Fiscal Operations 5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      251.53,
+      441.85,
+      272.14
+    ],
+    "text": "Govemment Debt 6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119.34,
+      277.25,
+      244.61,
+      293.33
+    ],
+    "text": "4. Financial Sector: 1950 -2ffJ4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      294.34,
+      202.5,
+      306.02
+    ],
+    "text": "Monetary Suruey",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.58,
+      310.0,
+      190.41,
+      320.99
+    ],
+    "text": "Interest Rates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      119.88,
+      328.73,
+      297.34,
+      344.24
+    ],
+    "text": "5. Socio-economic Conditions :1953 -2W3lM",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.76,
+      345.28,
+      298.27,
+      356.99
+    ],
+    "text": "Key Socio-economic Indictors in Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149.58,
+      351.97,
+      441.15,
+      370.52
+    ],
+    "text": "based on Consumer Finances and Socio-economic Surveys I",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      13.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      140.76,
+      372.46,
+      300.62,
+      384.14
+    ],
+    "text": "Key Socio-economic Indictors by Provinces",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      149.58,
+      376.81,
+      442.15,
+      396.44
+    ],
+    "text": "based on Consumer Finances and Socio-economic Suruey '2WilM l0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      10.5,
+      13.5
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      437.58,
+      295.96,
+      441.47,
+      305.57
+    ],
+    "text": "7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      437.58,
+      310.9,
+      441.47,
+      320.51
+    ],
+    "text": "8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  }
+]

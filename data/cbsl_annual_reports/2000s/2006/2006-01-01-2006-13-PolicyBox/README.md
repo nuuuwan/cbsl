@@ -1,0 +1,391 @@
+Central Bank of Sri Lanka Annual Report 2006
+
+130
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+An Evaluation of the Small Farmersand the Landless Credit ProjectBox 11
+
+In 2005, the Central Bank conducted an ImpactAssessment Survey of the Small Farmers and theLandless Credit Project (SFLCP). to evaluate the successof the SFLCP in lifting beneficiaries out of poverty andimproving their living standards from a holisticstandpoint. After being in operation for 15 years, acomprehensive Impact Assessment Survey wasconducted in 2005 covering a sample of 1,200 beneficiaryhouseholds which had been in the SFLCP for at least 5years. Information collected included demographic andsocio-economic characteristics, ownership of land,capital goods and consumer durables, housing conditionsand amenities, income, indebtedness, loans, savings,investment, client satisfaction, and social capital ofbeneficiaries.
+
+The SFLCP is a pilot poverty alleviation schemeoperated by the Central Bank. Initial funding for thisproject was obtained from the International Fund forAgricultural Development (IFAD), the CanadianInternational Development Agency (CIDA) and theCentral Bank (on behalf of the Government of Sri Lanka).The Project was managed by a Central Project Office(CPO) established in the Regional DevelopmentDepartment of the Central Bank and Project DistrictOffices (PDOs) established in the districts of Kandy,Puttalam, Galle and Matara in which the project operated.This scheme has been in operation since 1990.
+
+Under the SFLCP, field officers attached to the PDOsidentify eligible poor beneficiaries and facilitate 4-6beneficiaries to form Self Help Groups (SHGs).Members of SHGs are required to make regular weeklysavings and are subject to social mobilization andtraining. Through this social mobilization process andtraining received, beneficiaries are in a position toidentify potential income generating activities they wouldbe able to pursue. Once an SHG has demonstrated theability to save for a period of around six months, itsmembers are allowed to borrow funds for incomegenerating activities that could be undertaken by anindividual beneficiary or as a group. Initial loans givencannot exceed Rs. 20,000 and are in practice usually aslow as Rs.5,000. Once a loan is fully settled, a beneficiaryis entitled to a larger loan in the next cycle of borrowing.The maximum loan provided under this scheme isRs.50,000.Findings of the Impact Assessment Survey
+
+The average monthly household income (one monthaverage of 12 months income) among beneficiaries wasfound to be Rs.13,101. There was district-wise variation,however, with average income levels in Puttalam
+
+(Rs.16,444) and Matara (Rs.16,294) being significantlyhigher than the corresponding figures inGalle(Rs.11,030) and Kandy(Rs. 9281) districts. Further,when district-wise poverty lines computed by theDepartment of Census and Statistics adjusted forinflation were used as thresholds for poverty, it was foundthat the proportion of households in poverty was around37 per cent, implying that around 63 per cent ofbeneficiary households had moved out of poverty.Although this cannot be attributed solely to participationin the project, the fact that rural poverty had declined byonly 5 percentage points during the period 1990/91-2002in the country as a whole, according to data of theHousehold Income and Expenditure Survey, implies thatSFLCP had been largely responsible for the reductionof poverty of 63 per cent of beneficiary households.There was district-wise variation, however, with theproportion of households in poverty being low in theMatara and Puttalam districts at 23 per cent and 24 percent, respectively, and higher in the Galle and Kandydistricts at 45 per cent and 52 per cent, respectively(Chart B 11.1 below).
+
+The undermentioned findings also support theconclusion that income levels have risen, poverty hasreduced and living standards have improved.
+
+(a) The quality of housing in which beneficiariesreside had improved.(b) Access to amenities such as electricity andavailability of latrine facilities had improved.
+
+Chart B 11.1
+
+Major Legislative Enactments of 2006
+
+131
+
+Central Bank of Sri Lanka Annual Report 2006
+
+2
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+8
+
+The Real Time Gross Settlement (RTGS) System: TheRTGS system operated by the Central Bank is maininter-bank fund transfer system for large value and timecritical rupee payments, accounting for 81 per cent of thetotal value of non-cash payments in Sri Lanka. The totalnumber of transactions settled through the RTGS increasedby 17 per cent, while the total value of transactions settledincreased by 3 per cent to Rs.18,110 billion in 2006. Themajority of the RTGS transactions were in relation totransactions in the inter-bank call money market, thegovernment securities market, the foreign exchange market(rupee leg), open market operations, urgent payments ofcustomers of LCBs and settlements of net obligations underthe clearing systems operated by LankaClear. The CentralBank continued to provide the intra-day liquidity facility (ILF)to participating institutions in the RTGS system against thecollateral of government securities. The use of the ILFdeclined marginally reflecting improved liquiditymanagement by participants.
+
+The LankaSecure System: The LankaSecure Systemcomprises of the Scripless Securities Settlement (SSS)system and Scripless Securities Depository System(SSDS). The LankaSecure facilitates the issue ofGovernment securities in electronic or scripless form andthe settlement of trades of such scripless securities on a
+
+DvP basis. The total value of scripless securities held byLankaSecure at the end of 2006 amounted to Rs. 1,134 billion,accounting for 98.8 per cent of the total value of Treasurybills and Treasury bonds outstanding. These scriplesssecurities consisted of Rs. 258 billion Treasury bills and Rs.876 billion Treasury bonds. At the end of the year,LankaSecure maintained 26,936 accounts through dealerdirect participants, covering both individuals and corporatecustomers.
+
+The introduction of the Cheque Imaging and Truncation(CIT) System in 2006 by LankaClear (Pvt.) Ltd., whichhandles the inter-bank cheque clearing function, was amajor improvement in the processing of retail and lowvalue payments. The CIT system, which facilitates theelectronic presentment of cheque images, ensures thatcheques deposited in a bank in any part of the country arecleared and settled within 2 working days (T+1).
+
+The total value of cheques processed through the maincheque clearing system operated by LankaClearaccounted for 17 per cent of the total value of non-cashpayments. The total number of cheques cleared byLankaClear increased by 11 per cent to 44 million in 2006and the total value of cheques cleared increased by 13 percent to Rs.3, 823 billion in 2006.
+
+(c) Ownership of consumer durable items comparedfavourably with all island availability as revealedin the Consumer Finance and Socio-EconomicSurvey (CFS 2003/2004).(d) Ownership of agricultural implements andcapital goods had improved.(e) A notable number of children from beneficiaryhouseholds attended private tuition and weekendreligious instruction classes.(f) Around 63 per cent of households stated thatSFLCP has been responsible for lifting them outof poverty.(g) Around 2/3rds of beneficiaries were satisfied withtheir living conditions.
+
+A very important fact observed revealed in thesurvey was that, compared to overall borrowing patternsrevealed in the CFS 2003/2004, beneficiaries had verylow dependence on informal sources for loans, due tothe availability of project finance under the scheme. Thescheme had thus freed them from the clutches of moneylenders who charged exorbitant interest rates and fromborrowing from friends and relations which could alsoinvolve a hidden cost. Further, when compared to theaverage borrowing patterns, a much greater proportionof loans had been devoted to productive activities bySFLCP beneficiaries.
+
+Policy Implications of Survey Findings(a) There is a need to encourage beneficiaries who requireloans over and above the Rs.50,000 upper limit toresort to commercial borrowing. A notable proportionof beneficiaries stated that loans provided wereinsufficient for their present capital needs. This provesthat their enterprises have developed beyond micro-enterprises and, therefore, are in need of commercialcredit.
+
+(b) More relevant training should be given and greaterawareness created on marketing prospects. There wasa high failure rate of project amog beneficiaries andmarketing problems were a prominent reason for suchfailure. Therefore, before embarking on an incomegenerating activity, beneficiaries require access tomarkets for their products.
+
+(c) Steps should be taken to encourage beneficiaries todiversify their economic activities. Most beneficiarieswere involved in agricultural, industrial and tradingactivities. Very few were involved in service activitiesother than trade. As the services sector is an expandingarea, beneficiaries should be encouraged to move intothis sector.
+
+(d) To promote transparency of the scheme, the povertythresholds used for targeting of beneficiaries shouldbe regularly revised upward in line with inflation.
+
+Central Bank of Sri Lanka Annual Report 2006
+
+132
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+LankaClear also operates SLIPS, an off-line retail fundtransfer system for the Central Bank and LCBs and theircustomers. The value of transactions cleared by SLIPSdeclined marginally to Rs. 85 billion in 2006, reflecting thepopularity of other electronic retail banking services, suchas phone banking, internet banking and electronic paymentcards.
+
+To facilitate the formulation of a national paymentspolicy for the country and to take forward themodernization of the payments and settlementsinfrastructure, the Central Bank set up a NationalPayments Council in 2006 comprising representativesof all major stakeholders. The payments and settlementspolicy framework will address risk management andefficiency improvements and has provided a road map forthe next four-year period - 2007 to 2010.
+
+Legislative Enactments and Reforms
+
+The Central Bank continued to review and initiatereforms to strengthen the existing legal framework andto introduce new legislation to facilitate the smoothfunctioning of the financial system. To widen the scopeof the regulatory framework relating to the banking sectorand to address ambiguities in the existing law, the Banking(Amendment) Act No. 46 of 2006 was enacted in 2006. Themain amendments dealt with the provision of flexibility tothe Monetary Board to determine the minimum equity capitalrequirements of licensed specialised banks, permitting aspecialised bank whose licence has been suspended tomerge with another specialised bank, subject to the approvalof the Monetary Board and clarifying the provisions relatingto the share ownership of banks.
+
+The Monetary Law Act was amended to fix the minimumpercentage of loans to be extended to any specifiedsectors of the economy by licensed banks. Thisamendment was made to give effect to the Budget proposalto make it mandatory that credit extended by banks foragriculture should be increased to 10 per cent of total creditover the next three years, as the volume of credit channelledto the rural agricultural sector was considered to beinadequate.
+
+To promote the integrity of and confidence in thefinancial system and recognising the risks posed bymoney laundering, Sri Lanka introduced comprehensiveanti money laundering legislation to combat this threat.In addition to the Suppression of the Financing of TerrorismAct, which was enacted in 2005, two laws were passed in2006 to deal with the prevention of money laundering. Whilethe Prevention of Money Laundering Act defines the offenceof money laundering, the Financial Reporting TransactionsAct provides for the mechanism to monitor and reportfinancial transactions to ensure that the offences of moneylaundering and terrorist financing are dealt with effectively.
+
+The payments system was further strengthened by theintroduction of a law to deter illegal and hazardouspractices relating to payment devices. The PaymentDevices Frauds Act, which was enacted in 2006, prohibitsthe fraudulent and unauthorised production, trafficking,possession and use of payment devices. The law covers allcards, plates, codes, account numbers, microchips, opticalinstruments or documents using magnetised encoding.Offenders can be arrested without a warrant and can beextradited.
+
+Regulation and Supervision
+
+The Central Bank, which is responsible for regulatingand supervising all major financial institutions andoverseeing the payment and settlement system,implemented several regulatory and supervisoryinitiatives in 2006 to enhance the safety, soundness andefficiency of the financial system. The institutions regulatedand supervised by the Central Bank are LCBs, LSBs, RFCs,Registered Finance Leasing Establishments and AuthorisedPrimary Dealers in government securities. In addition, theCentral Bank is also responsible for regulatingmoneychangers. The Securities and Exchange Commission(SEC) is responsible for licensing and regulating stockexchanges, stockbrokers, stock dealers and unit trustcompanies. The SEC also registers underwriters, marginproviders, credit rating agencies, investment managers andsecurities clearing houses. The Insurance Board of Sri Lanka(IBSL) regulates and supervises the insurance industry,insurance companies and their agents and insurance brokers.In addition, the Central Bank in co-ordination with otherregulatory agencies is involved in developing an effectivesystem for the supervision of domestic financialconglomerates in a consolidated manner.
+
+The supervision of banking institutions wasstrengthened with the issue and application of severalprudential directions and guidelines. A capital charge formarket risk was introduced in 2006 in line with the BaselCapital Accord which requires all banks to maintain aminimum capital adequacy ratio of 10 per cent in relation torisk weighted assets covering both credit and market risk.The risk weights applicable to loans secured by primarymortgage over residential property and other loans andadvances were increased from 50 to 55 per cent and 100 to110 per cent respectively. A direction was also introduced onthe classification and valuation of the investment portfoliointo investment account and trading account.
+
+The preparation for the implementation of Basel II CapitalAdequacy Framework was facilitated by issuingguidelines to banks for the parallel computation of thecapital charge. The Basel II framework will be introducedfrom January 2008 using the simplest approaches and bankswill be required to maintain adequate capital to cover credit,market and operational risk.
+
+Major Legislative Enactments of 2006
+
+133
+
+Central Bank of Sri Lanka Annual Report 2006
+
+2
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+8
+
+Regulation of Share Ownership in BanksBox 12
+
+Banks are highly leveraged business enterprises thatoperate with a low level of capital or shareholders’ fundsbecause their core business is taking deposits from thepublic and lending and investing such money. Forinstance, in the Sri Lankan banking system, shareholders’funds constitute only 8 per cent of assets or liabilitieswhile 70 per cent of assets accounts for deposits acceptedfrom public. Therefore, it is customary for the bankregulators globally to impose several prudentialrequirements on shareholders’ funds or capital of bankswith the objective to protect depositors’ interests and topromote the banking sector stability. The maximum limitof share ownership is one such measure. Minimum equitycapital and minimum capital adequacy under the BaselCapital Accord are two other key prudentialrequirements.
+
+Background in Regulation
+
+Largely diversified share ownership in banks, i.e.,shareholdings in small proportions by a large number ofshareholders, is generally believed to be desirablebecause it prevents large shareholder-control in banksand promotes competition in the bank share market.However, share ownership concentration, i.e., majorityholding of shares by a few shareholders, is alsoconsidered necessary in instances where some banksrequire restructuring through recapitalisation to resolvefinancial problems because such banks are unable to raisecapital from the market at a fair price due to their weakfinancial condition. Therefore, both diversified shareownership and concentration in share ownership in banksare alternative means adopted by the regulators topromote banking and financial system stability. Principle4 of the Basel Core Principles for Effective BankingSupervision (principles recommended by the BaselCommittee of the Bank for International Settlementsbased in Basel as international best practice for guidanceof the bank regulators) requires that bank regulators havethe authority to review and reject any proposal to transfersignificant ownership of controlling interest in banks. Inline with this principle, many regulatory authoritiesworldwide determine the maximum limits of shareownership in a bank while specifying conditions andrequirements for granting permission for acquisition ofshares in excess of the maximum limits to ensure thatthe shareholders who acquire such large or controllinginterest in banks are fit and proper persons and risks oncorporate governance arising from such largeshareholding are adequately mitigated. These limits willapply to shareholding by a single shareholder (anindividual or entity) as well as shareholding by a group
+
+of connected shareholders (shareholding by acting inconcert or indirect holding) through nominees or groupedcompanies. Such regulations of maximum shareownership in banks are implemented in many countriesthrough several methods, i.e., specific provisions in thebanking laws specifying the limits, regulations issued bythe regulators specifying the limits in terms of bankinglaws and guidelines issued by the regulators. However,country practices in regulation of share ownership showdiverse literature where it is difficult to derive a standardinternational practice. There are a large number ofcountries without such regulation as well. According to asurvey of 157 countries conducted by the World Bank in2003, 112 countries (71 per cent) did not have anylimitations on bank ownership. The remaining 45countries (29 per cent) implemented ownership limitsranging from 5 per cent to 50 per cent.
+
+Provisions in the Banking Act
+
+In terms of the Banking Act which containsprovisions relating to regulation of share ownership, themaximum limit of ownership in shares carrying votingrights that can be acquired or held by a single shareholderor a group of connected shareholders in a commercialbank without regulatory approval is 10 per cent of theissued shares carrying voting rights. However, theMonetary Board of the Central Bank with the concurrenceof the Hon. Minister of Finance is empowered to permitany acquisition of shares in excess of 10 per cent if suchacquisition is in the interest of promotion of a safe, soundand stable banking system and fair competition prevailingin the banking system and such party or parties acquiringmaterial interest are fit and proper persons. However, inthe case of specialised bank, there is no such legalthreshold for share ownership and the Monetary Board isempowered to determine such limits.
+
+New Policy in Sri Lanka
+
+In order to address some issues arising fromacquisition of material interest in banks at various levels,the Monetary Board issued directions on a new policyfor regulation of share ownership in banks on January19, 2007. The highlights are as follows.
+
+The maximum percentage of ownership permitted inthe issued share capital carrying voting rights in a bankwill be 15 per cent of the issued share capital (carryingvoting rights). This limit will apply to acquisition orholding of shares by all categories of shareholders,individually or in a group (as specified in the BankingAct) whether acquired/held directly or indirectly orthrough a nominee or acting in concert with any other
+
+Central Bank of Sri Lanka Annual Report 2006
+
+134
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+categories of shareholders. However, in the case oflicensed commercial banks, to acquire shares carryingvoting rights in excess of 10 per cent requires priorapproval of the Monetary Board given with theconcurrence of Hon. Minister of Finance.
+
+The Monetary Board may grant permission toacquire shares in excess of 15 per cent in the case of alicensed bank which requires restructuring to avoidinadequacy of capital, insolvency or potential failure,subject to the condition that the ownership of shares soacquired shall be reduced to 15 per cent within a specifiedperiod as may be determined by the Monetary Board on acase-by-case basis, provided also that such period shallnot exceed five years from the date of granting permission.
+
+Names of any shareholders who acquire shares ofa bank in excess of the specified thresholds (10 per centfor commercial banks and 15 per cent for specialisedbanks) without the prior approval of the Monetary Boardshall not be entered in the share register of the bank.
+
+All shareholders who now hold shares carryingvoting rights in excess of 15 per cent will be required todispose of and/or reduce their shareholding to 15 per centduring the period not exceeding five years specified bythe Monetary Board on a case-by-case basis. Voting rightsof any category of shareholders who fail to comply withthis will be limited to 10 per cent.
+
+Need for Good Corporate Governance
+
+It should however be noted that this regulation byitself cannot resolve all issues that may arise fromshareholders’ behaviour which may tend to influence themanagement of banks through directors appointed by
+
+them. For example, under the current legal provision,ten shareholders can own a commercial bank (by eachholding 10 per cent legally permitted), appoint the Boardof Directors and influence the management. It will be clearthat this situation, even though legal, can be actuallyconsidered as a concentrated ownership of the Bank byjust a few shareholders. Further, such shareholders maypurchase shares of other banks within permissible limitsand consolidate their position in the banking sector.Therefore, what is essentially and critically required toprevent possible management issues connected with shareownership is the speedy implementation of moderncorporate governance principles effectively. It is true thatshareholders have interests in the affairs of their bank. Atthe same time and even more importantly, depositors andcreditors too have interests in banks, and the stability ofbanks depend on their confidence in banks. Moderncorporate governance principles require that institutionsmanage their affairs in a transparent and accountablemanner to safeguard of interests of all stakeholders suchas shareholders, customers, employees and the generalpublic.
+
+In June 2002, the Central Bank issued a code ofcorporate governance to banks for their voluntarycompliance. Good corporate governance principles arenow well known to the corporate sector globally.Therefore, banks are expected to follow these principleswithout calling for corporate governance rules imposedby the regulators. However, in view of the recentdevelopments in the domestic and international bankingindustry, the Central Bank has announced in its Road Mapfor 2007 and Beyond that a mandatory code of corporategovernance will be introduced shortly.
+
+Enhancement of the minimum entry capital requirementof banks. The Central Bank proposed to further enhancethe minimum capital requirement of banks to promote theconsolidation in the banking sector. In 2005, the Central bankincreased the minimum equity capital requirement for LCBsto Rs.2,500 million from Rs.500 million and for LSBs (exceptRegional Development Banks) to Rs.1,500 million fromRs.200 million. The existing banks were given time till end2006 to meet 50 per cent of the shortfall in capital and thebalance 50 per cent by end 2007. The majority of banks havealready complied with this requirement. However, a furtherextension of time was granted to banks to infuse 50 per centof the shortfall of capital by 2008 and the balance 50 percent by 2009, on a case by case basis, provided such bankssubmit a time-bound capital infusion plan committing to meetthe minimum capital requirement by the new dates.
+
+A general provision for loans was introduced at the endof 2006. All banks are required to maintain a general provisionof 1 per cent of total performing loans and advances and nonperforming loans in the overdue category (loans and
+
+advances in arrears for 3 to 6 months.) The requirement willbe implemented on a staggered basis during ten quarterscommencing from the last quarter of 2006.
+
+The prudential norms relating to registered financecompanies (RFCs) were further strengthened by theimposition of new minimum core capital requirement anda capital adequacy ratio. In terms of these directions, financecompanies are required to maintain unimpaired core capitalof Rs.200 million by June 2008 ( Rs.100 million by February2007) and a risk weighted capital adequacy ratio of 10 percent.
+
+A further series of directions were issued to RFCs toimprove the regulatory framework. The directionscomprised the prudential requirements relating to the baddebt provisioning, investments, single borrower limits,accommodation to related parties, business transactions withdirectors and their relatives, advertisements and thepublication of financial statements and branch officeexpansion.
+
+Major Legislative Enactments of 2006
+
+135
+
+Central Bank of Sri Lanka Annual Report 2006
+
+2
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+8
+
+Draft Micro Finance Institutions Act (MFI Act)Box 13
+
+Many diverse entities including Cooperative RuralBanks (CRBs), Thrift and Credit Cooperative Societies(TCCSs), Samurdhi Banking Societies, SarvodayaDevelopment Finance Centres and several NonGovernment Organisations have been carrying out microfinance services in Sri Lanka. As a result, theestablishment of a regulatory and supervisorymechanism for this sector has been a long felt need. Itis necessary to regulate Micro Finance Institutions(MFIs) as the funds held by them are those of the poorand vulnerable, and if such persons lose their savings,they will inevitably sink further into poverty. Further,the poor will lose confidence in the financial system insuch circumstances, which would impede their savingsactivities. Also, if the micro-credit sector is sufficientlylarge, failure of several MFIs could pose a threat tofinancial system stability. Therefore, regulation isnecessary to safeguard the interests of the depositors onthe one hand, and to develop an efficient, viable andsustainable MFI sector, on the other.
+
+On these considerations, a few years ago, the RuralFinance Sector Development Programme initiated actionto establish a regulatory mechanism for rural sectorfinancial institutions. In the immediate post-tsunami
+
+period in particular, a large volume of funds becameavailable to NGOs for post-tsunami reconstruction andrehabilitation work, including livelihood development,and the number of NGOs involved in micro financebusiness grew sharply. As a result, establishing aregulatory mechanism for such entities becameimportant in order to ensure effective utilisation ofresources to achieve the desired objective. It was inthis background that the MFI Act was formulated.
+
+Micro Finance Business for the purpose of this Actis defined to be the “acceptance of deposits or receivingand/or obtaining external funds and providing financialaccommodation in any form and other financial services,particularly to low income persons and to small andmicro-enterprises”. The Act comprises 53 sectionsorganised under the following 14 parts:
+
+Part I prevents any entity commencing orcarrying out micro finance business without a licence.However, several categories of institutions, namelylicensed commercial banks, licensed specialized banks,finance companies, cooperative societies registeredunder the Cooperative Societies Law and non-profitorganisations which accept deposits only from registered
+
+Licensing MFIs
+
+Functions and powers of the Monetary Board to impose restrictions on Licensed Micro FinanceInstitutions (LMFI)
+
+Relevant authority for supervision
+
+Power to issue directions
+
+Management of LMFI
+
+Provision of documents and audit
+
+Provision of documents and information
+
+Powers of scrutiny and action against carrying on micro finance business without a licence
+
+Power to examine a LMFI
+
+Protection of deposits
+
+Cancellation or suspension of a licence of a MFI
+
+Immunity
+
+Offences
+
+Miscellaneous
+
+Part I
+
+Part II
+
+Part III
+
+Part IV
+
+Part V
+
+Part VI
+
+Part VII
+
+Part VIII
+
+Part IX
+
+Part X
+
+Part XI
+
+Part XII
+
+Part XIII
+
+Part XIV
+
+Structure of the Proposed Micro Finance Act
+
+Table B 13.1
+
+Central Bank of Sri Lanka Annual Report 2006
+
+136
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+136
+
+The regulation and supervision of specialised leasingcompanies were intensified in 2006. Several prudentialnorms were issued to SLCs covering minimum capital,gearing ratio, provisions for bad and doubtful debts, singleborrower limit, reserve fund requirements, preparation offinancial statements and reporting of corporate andoperational information. It is expected that compliance withthese Directions will significantly improve financial disciplineand stability of SLCs. SLCs are closely supervised throughregular off-site surveillance and on-site examinationsconducted on a selected basis.
+
+The major development in the micro finance sector wasthe progress made in formulating the proposed MicroFinance Institutions (MFI) Act by the Central Bank. Takinginto account the concerns of the stakeholders, the draft Actunderwent several revisions and it is expected to be finalisedin 2007. Once enacted, this law will put in place a soundregulatory regime for MFIs. The resultant greatertransparency and accountability of the sector will inevitablycreate more development partner confidence in the microfinance sector and promote the flow of funds to that sector.
+
+The Central Bank conducted a series of public awarenesscampaigns to warn the public on the dangers of investing inillegal deposit taking institutions and participating in pyramid,multi-level marketing and other unauthorised schemes.
+
+The proposed amendments to the insurance law tostrengthen the supervision of the industry were finalisedin 2006. The revisions will empower the Insurance Board tostipulate the minimum share capital for insurance companies,make rules and determinations and to initiate action for non-compliance with regulations. The other provisions relate tothe introduction of a fit and proper criteria for directors ofinsurance companies and brokers and the appointment ofcorporate agents and loss adjusters. In order to reduce theindustry-wide regulatory risk, Insurance Amendment Act mayneed to be enacted without further delay.
+
+Several measures were taken to mitigate risks and toincrease stability of the PD system. The minimum capitalrequirement was increased to Rs.300 million from Rs. 250million and the risk weighted capital adequacy ratio (RWCAR)was increased to 8 per cent from 5 per cent. All PDs compliedwith the enhanced minimum capital and RWCAR.
+
+members with the approval of the Monetary Board ofthe Central Bank are exempted from the licensingrequirement. Cooperative societies, however, arerequired to comply with certain requirements of theAct. All entities carrying out micro finance businesswhen the Act comes into force are given a two yearphase-in period for obtaining a licence, provided thatwithin 6 months of the Act coming in to force, theyfurnish the Monetary Board with their name, addressand other information and declare whether or not theyintend to obtain a licence within 2 years. In order to beeligible for a licence, the institution is required to be alimited liability public company. Further, the Actrecognizes MFIs operating at 4 different levels, namelythe national level, provincial level, district level anddivisional secretariat level, and specifies the minimumcapital requirements for operating at each level. Thecore capital requirement for operating at a national levelis Rs. 50 million.
+
+In terms of Part III of the Act, theresponsibility of supervision of LMFIs vests with thedirector of the Department of the Central Bank to whichthe subject of micro finance is assigned by the Board.The Board has decided to assign this subject to theDepartment of Supervision of Non Bank FinancialInstitutions (SNBFI). This Part also permits theappointment of agents for supervision of micro financeinstitutions.
+
+Management of LMFIs is dealt with in Part Vwhich requires that such management be vested in aboard of directors or its equivalent of the respectiveinstitution. An important aspect with regard totransparency and accountability of LMFIs is dealt within Part VI which requires every LMFI to prepare abalance sheet, a profit and loss account, a cash flowstatement for each financial year containing theminimum requirements stipulated in the Act. TheLMFIs are required to publish such financial statementswithin 5 months after the expiry of each financial year.The power for the Director SNBFI to obtainany relevant information is granted in Part VII, whilethe power to penalise entities carrying out MicroFinance business without a licence is granted in PartVIII. The penalty stipulated here is a fine not exceedingone million rupees. Another important aspect of theAct is the requirement that LMFIs maintain a DepositProtection Fund and the power given to the Board totake necessary action to safeguard the depositorsthrough deposit insurance (Part X). The Act also givesthe Board the power to cancel or suspend a licence ofan LMFI (Part XI) and provides immunity for theBoard, the Director, SNBFI, and any other officers withregard to acts done in good faith (Part XII).
+
+The MFI Act is now being finalised by theLegal Draftsman and is expected to become law in2007.
+
+Major Legislative Enactments of 2006
+
+137
+
+Central Bank of Sri Lanka Annual Report 2006
+
+2
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+8
+
+Credit Rating and Credit Information
+
+The sovereign rating of the Government of Sri Lanka for2006 was maintained at the same level as in the previousyear. Fitch Ratings assigned a long-term foreign and localcurrency rating of “BB-”(BB minus), while Standard and Poor’sassigned a rating of “B+” (B plus). Sri Lanka’s sovereign ratingis on par with other countries, such as Vietnam, Indonesia,Brazil and Turkey. The number of credit rating agenciesoperating in Sri Lanka remained at two in 2006. The CentralBank requires all deposit-taking institutions (licensed banksand registered finance companies) to obtain a credit ratingfrom an independent rating agency and to disclose it to thepublic, in order to assist depositors and investors to assessthe financial performance and capacity of these institutionsand to further improve confidence in the financial system. In2006, 20 of the 23 commercial banks and 12 of the 14specialised banks had obtained investment grade ratings,while 26 of the 29 finance companies had also obtainedratings.
+
+Credit Information
+
+The Credit Information Bureau (CRIB), which providescredit information reports on borrowers, recorded aconsiderable increase in the number of reports suppliedto lending institutions. CRIB issued 801,508 credit reportson corporate and individual borrowers in 2006 compared with607,990 reports in 2005.With the expansion of credit to theprivate sector, the demand for credit reports has increased,as it has become an essential part of the credit appraisalprocedure of lending institutions. CRIB currently collects bothpositive (regular) and negative (irregular) information onadvances which are Rs.500,000 and over and informationon credit cards with outstanding balances of Rs.5,000 andover which are more than 90 days overdue from lendinginstitutions, such as commercial and specialised banks,registered finance companies and specialised leasingcompanies. The number of positive (regular) advancesreported to CRIB increased by 38 per cent over 2005 andthe number of negative (irregular) advances reported to CRIBdeclined by 56 per cent in 2006.
+
+Measures are being taken to modernise and widen thescope and improve the coverage of CRIB. A modernisationproject has commenced to provide on-line access to CRIBcredit information reports. In addition, amendments to CRIBAct have been proposed that will enable CRIB to servicemore diverse user groups and to provide value addedservices, such as credit scoring, fraud prevention andconsumer protection.
+
+8.6Financial System Stability
+
+The financial system continued to be robust, resilientand stable in 2006 sustained by strong economic growth,expansion of the financial services sector, improvements inthe profits and soundness of the main financial institutions
+
+and the safe operation of the payments and settlementsystem. Risks to the financial system in the short-term remainsubdued.
+
+The soundness of the major financial institutionsimproved during the year. The financial performance of thebanking sector and finance companies improved in terms ofprofitability, asset quality and capital levels. Credit risk, whichis the main risk faced by banks continued to be at manageablelevels with the decline in non-performing loans. The bankingsector was not adversely affected by market risk in the risinginterest rate environment. Liquidity risk management was alsosatisfactory. The capital levels and capital adequacy ratiosof financial institutions increased, signifying their improvedhealth and soundness. There is a concentration of credit byfinancial institutions in the areas of housing and construction,vehicles and consumption that will have to be closelysupervised and risk mitigation measures, such as loan-specific capital buffers or increasing provisions for fastgrowing credit categories may have to be introduced.
+
+To enhance business continuity and to mitigateoperational risks, the Central Bank has implemented acomprehensive business continuity plan (BCP) for theLankaSettle system. The BCP includes a fully equipped
+
+Table 8.10
+
+Soundness Indicators ofSystemically Important FinancialInstitutions
+
+Lisensed Commercial BanksNon Performing Loans to Gross Loans 6.85.4Non Performing Loans net of Provisons to Capital16.512.6Regulatory Capital to Risk Weighted Assets 12.811.7Return on Assets (ROA) 1.71.8Return on Equity (ROE) 16.818.5Interest Margin to Gross Income 38.437.6Non Interest Expense to Gross Income 33.731.9Statutory Liquidity Ratio (DBUs) 24.223.9Licensed Specilised BanksNon Performing Loans to Gross Loans 8.87.3Non Performing Loans net of Provisons to Capital 21.122.9Regulatory Capital to Risk Weighted Assets 20.020.3Return on Assets (ROA) 2.52.0Return on Equity (ROE) 15.312.6Interest Margin to Gross Income 37.536.1Non Interest Expense to Gross Income 17.818.1Statutory Liquidity Ratio 69.461.8
+
+Finance CompaniesNon Performing Loans to Gross Loans8.45.3Non Performing Loans net of Provisons to Capital15.59.4Regulatory Capital to Risk Weighted Assets17.415.0Return on Assets (ROA)2.92.5Return on Equity (ROE)17.617.0Interest Margin to Gross Income29.333.0Non Interest Expense to Gross Income38.731.0Statutory Liquidity Ratio18.616.9
+
+Per cent
+
+Institution and Indicator2005 (a)2006(b)
+
+(a) Revised(b) Provisional
+
+Source : Central Bank of Sri Lanka
+
+Central Bank of Sri Lanka Annual Report 2006
+
+138
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+What are Financial Conglomerates?
+
+A financial conglomerate is a group of entities ora holding company which undertakes financial servicesbusiness in at least two different financial sectors, i.e.,banking, finance, insurance and securities trading witha significant presence in any one sector. Financialconglomerates have evolved with the diversification oftraditional specialised activities. Technologicalinnovation, liberalisation of financial markets andremoval of legal and trade barriers have encouraged thedevelopment of diversified financial conglomerates withcomplex management and corporate structures. Inaddition, many conglomerates are organised along globalbusiness lines and manage some or all of their majorrisks across the various entities within the group, in amanner that cuts across legal entity lines. The rapidevolution of such financial conglomerates which offera comprehensive range of financial services, includingbanking, securities and insurance services on a globalbasis poses significant challenges to both themanagement of these firms and the supervisors withresponsibility for regulating these entities within theconglomerate.
+
+Financial Conglomerates in Sri Lanka
+
+According to a preliminary study conducted bythe Central Bank, 11 conglomerates are identifiedoperating through 141 entities with assets of Rs. 1,896billion representing nearly 68 per cent of assets of allfinancial institutions in Sri Lanka. Assets of individualconglomerates range from 3 per cent to 18 per cent oftotal assets of all conglomerates. Six conglomerates withsignificant presence in banking business hold 81 per centof total assets while three of these conglomeratesrepresenting 46 per cent of assets are owned by thegovernment. Out of the 141 entities identified, thereare 69 entities which are not regulated and supervisedby financial regulators, i.e., the Central Bank, Securitiesand Exchange Commission of Sri Lanka and theInsurance Board of Sri Lanka. However, assets of suchunregulated entities constitute only 7 per cent of totalassets of all conglomerates, indicating operations at alow key. Intra-group transactions and exposures willpose various operational risks to the regulated entitiesas well as regulators. In view of the significant share inthe financial system, and the linkages with systemicallyimportant banks financial conglomerates aresystemically important entities.
+
+Supervisory concerns of operations of financialconglomerates
+
+•Intra-group transactions and exposures orrelated party transactions: Intra-group transactions andexposures (ITEs) can genecate synergy among differententities of the conglomerate by operating with efficientcost structures, profit maximisation, improvements inrisk management and more effective control of capitaland funding. However, material ITEs are the sources ofcontagion within the conglomerate and they have thepotential to complicate the resolution or failures ofinstitutions. ITEs can take the form of direct and indirectclaims between companies within a financialconglomerate and originate from a variety oftransactions, i.e., (a) cross shareholdings; (b) tradingoperations whereby one group company deals with, oron behalf of, another group company; (c) centralmanagement of short-term liquidity within theconglomerate; (d) guarantees, loans and commitmentsprovided to, or received from, other companies in thegroup; (e) the provision of management and other servicearrangements, e.g., back office services; (f) exposuresto major shareholders (including loans and off-balancesheet exposures such as commitments and guarantees);(g) exposures arising through the placement of clientassets with other group companies; (h) purchases or salesof assets with other group companies; (i) transfer of riskthrough reinsurance; and (j) transactions to shift thirdparty-related risk exposures between entities within theconglomerate.
+
+ITEs also give rise to conflicts of interest amongthe entities in the conglomerate through (i) directors,(ii) preferential treatment to group companies and relatedparties of the group, (iii) obtaining services fromcompanies within the group and payments of servicefees in large sums, (iv) same staff engaged in differentsectors of financial business operations within the groupand (v) reporting lines and information flows betweenthe parent and subsidiaries or between two companieswithin the group that lead to share potential proprietary,confidential or otherwise sensitive information amongdifferent companies within the group (lack of internalbarriers or Chinese Walls).
+
+•Poor application of modern corporategovernance principles. At present, there exists avoluntary code of corporate governance for banks issuedby the Central Bank in 2002. Further, the Central Bankhas issued prudential requirements under the Banking
+
+Monitoring Financial ConglomeratesBox 14
+
+Major Legislative Enactments of 2006
+
+139
+
+Central Bank of Sri Lanka Annual Report 2006
+
+2
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+8
+
+Act with regard to certain areas connected with corporategovernance such as ownership of shares andaccommodation granted to bank directors, their relationsand entities in which directors have substantial interest.In addition, a few corporate governance rules wereintroduced to listing rules at the Colombo Stock Exchangein April 2007 which will become mandatory from April2008. The poor corporate governance is a general issueon the governance of the corporate sector in Sri Lankaand in many other countries as the banks and financialinstitutions do not give much attention to the voluntarycodes.•Setting up companies or entities in financial andnon financial business areas to benefit from regulatoryarbitrage.•Lack of disclosure of financial information on thegroup and individual companies in the group togetherwith exposure to group companies.
+
+Coordinated Approach by Multiple Regulators
+
+As in many other countries, Sri Lanka too has a multi-regulatory system as opposed to a single regulatorysystem in some other countries.•The Central Bank regulates banks, financecompanies, leasing companies and primary dealers ingovernment securities.•The Securities and Exchange Commission regulatessecurities firms (licensing stock exchanges, stock brokersand unit trust management companies), listed securitiesand listed companies.•The Insurance Board of Sri Lanka regulatesinsurance companies.•The Commissioner of Co-operative Developmentand Provincial Commissioners of Co-operativeDevelopment regulate co-operative societies and thriftsocieties.•In addition, the Consumer Affairs Authority,Registrar of Companies and Sri Lanka Accounting and
+
+Auditing Standards Monitoring Board also havespecific regulatory purview in terms of their statutes.
+
+There are no specific regulators for merchant/investment banking institutions and NGOs undertakingmicro-finance business although they may have beenregistered under the Companies Act or Social ServicesAct.
+
+However, some countries have already set up singleregulator systems. According to a report of the WorldBank on a survey of 77 countries, 22 (or 28 per cent)countries have single regulators while the rest (72 percent) have multiple regulatory systems. Singapore, Korea,Japan, Germany, Sweden, Austria, Denmark, Ireland andUK are among the single regulators. USA, India,Malaysia, Philippines, Thailand, Indonesia, Hong Kongand France are some of the countries with multipleregulators.
+
+The Central Bank formed a Working Group ofRegulators in October 2005 as a workable solution withinthe multiple regulator system for the purpose ofmonitoring systemic risks of financial conglomerates andpromoting consolidated supervision. In order to addressthe supervisory concerns, the Working Group has alreadymade recommendations relating to (i) framework forsupervisory information sharing among the regulators,(ii) framework for application of capital requirement todetect and restrict double or multiple gearing, i.e., wherethe same capital is used simultaneously as a buffer againstrisk in two or more entities, (iii) framework for fit andproper principles for directors and managers of all entities,(iv) introduction of modern corporate governanceprinciples and v) introduction of disclosure requirements.
+
+In addition, a high level committee (Inter-Regulatory Institutions Council) chaired by the Governorof the Central Bank and represented by the Heads of otherRegulatory Authorities was also established in January2007 to take appropriate policy decisions to facilitate theprocess for consolidated supervision.
+
+disaster recovery site, which can accommodate a prolongeddisruption. To ensure that participants of the LankaSettleand LankaClear systems have effective BCPs, in 2006, theCentral Bank in consultation with LankaClear, issuedguidelines to financial institutions outlining the minimumstandards of BCPs.
+
+The supervisory system was strengthened and furthermeasures are in the pipeline to develop the financialsystem and to enhance its resilience. The mainimprovement to the supervisory framework will be theadoption of Basel II in 2008. Basel II will better align a bank’s
+
+capital with its risk profile, enhance risk management andincrease market discipline. Banks will also be required to setup integrated risk management systems and begin stresstesting to assess their resilience to extreme shocks and toinitiate corrective measures. A revised format for thepublication of banks’ financial statements will be introducedto improve disclosure requirements and to provide moreinformation to market participants. The Central Bank will alsofacilitate the adoption of internationally accepted accountingand reporting standards, such as IAS 32, IAS 39 and IFRS7. In view of the potential systemic risks posed by financial
+
+Central Bank of Sri Lanka Annual Report 2006
+
+140
+
+8
+
+FINANCIAL SECTOR DEVELOPMENTS AND STABILITY
+
+conglomerates, the Central Bank, with the representationsfrom other Regulatory Authorities, set up an Inter-RegulatoryInstitutions Council and working group for the purpose ofmonitoring systemic risks of financial conglomerates andpromoting consolidated supervision and to take appropriatepolicy decisions to facilitate the process for consolidatedsupervision. In addition, the Central Bank revised itsprudential requirements on single borrower limit of licensedbanks with the objective of mitigating the banks’ creditconcentration risk arising from granting loans and otherfacilities to large customers and promoting the banks’ riskmanagement further.
+
+The risk levels in the two largest superannuation fundsi.e. EPF and the ETF remained low with adequate levelsof liquidity and low levels of credit and market risk. TheEPF managed to mitigate interest rate risks as a large part ofthe investments of the EPF were in marketable government
+
+securities. Since receipts continued to remain above cashflows, the EPF did not face a liquidity risk in 2006. The creditrisk of the EPF is negligible as almost all its funds are investedin government securities. The installation of a new IT systemenabled the EPF to mitigate its operational risk by facilitatingsingle data point entry and streamlining the accounting andinvestment process.
+
+A number of other laws to reinforce the legal andregulatory framework supporting financial system havebeen prepared. These include the Asset ManagementCompany law to enable the speedy resolution of non-performing loans, the Debt Recovery law to expedite the loanrecovery process of distressed banks and to create a creditorfriendly environment, the Credit Information Bureau Act towiden the scope of CRIB and a Computer Crimes law toreduce the potential risks that may arise through computerfrauds.

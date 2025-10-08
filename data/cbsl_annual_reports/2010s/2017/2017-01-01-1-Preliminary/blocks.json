@@ -1,0 +1,7589 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      140.39,
+      78.14,
+      436.05,
+      102.12
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      20.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      216.74,
+      343.03,
+      359.69,
+      363.41
+    ],
+    "text": "ANNUAL REPORT",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      180.01,
+      460.88,
+      396.41,
+      494.47
+    ],
+    "text": "OF THE MONETARY BOARD TO THEHON. MINISTER OF FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      248.07,
+      587.84,
+      328.36,
+      602.23
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.35,
+      640.36,
+      320.1,
+      671.54
+    ],
+    "text": "2016",
+    "fonts": [
+      "FuturaBT-Heavy"
+    ],
+    "sizes": [
+      26.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      290.78,
+      142.2,
+      302.77
+    ],
+    "text": "Price per copy",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      306.78,
+      382.32,
+      318.77
+    ],
+    "text": "Counter sales \u2013 Rs. 500 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      322.78,
+      382.32,
+      334.77
+    ],
+    "text": "Despatch by ordinary mail \u2013 Rs. 750 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      338.78,
+      382.32,
+      350.77
+    ],
+    "text": "Despatch by registered mail \u2013 Rs. 775 per copy",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      386.78,
+      156.6,
+      398.77
+    ],
+    "text": "Despatch abroad",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      402.78,
+      453.34,
+      414.77
+    ],
+    "text": "Air mail (1st Class) \u2013 US $ 40 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      418.78,
+      453.34,
+      430.77
+    ],
+    "text": "Air mail (2nd Class) \u2013 US $ 35 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      434.78,
+      453.34,
+      446.77
+    ],
+    "text": "Sea mail \u2013 US $ 25 per copy (Registered post)",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      552.91,
+      202.2,
+      567.38
+    ],
+    "text": "ISBN 978-955-575-341-8",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      572.91,
+      161.28,
+      587.38
+    ],
+    "text": "ISSN 1391-359X",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.43,
+      676.84,
+      520.63,
+      714.77
+    ],
+    "text": "Printed at Sharp Graphic House (Pvt.) Ltd. , No. 47, Old Kottawa Road, Pannipitiya, and published by the Central Bank of Sri Lanka, No. 30, Janadhipathi Mawatha, Colombo 01.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      200.91,
+      154.29,
+      380.18,
+      186.92
+    ],
+    "text": "Dr. Indrajit CoomaraswamyGovernor",
+    "fonts": [
+      "BookAntiqua-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      195.45,
+      200.44,
+      385.66,
+      253.16
+    ],
+    "text": "Central Bank of Sri Lanka30, Janadhipathi MawathaColombo 01, Sri Lanka.",
+    "fonts": [
+      "BookAntiqua",
+      "BookAntiqua-Bold"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      283.78,
+      152.85,
+      301.17
+    ],
+    "text": "19 April 2017",
+    "fonts": [
+      "BookAntiqua"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      320.29,
+      304.96,
+      385.17
+    ],
+    "text": "The Honourable Minister of FinanceMinistry of FinanceThe SecretariatColombo 01.",
+    "fonts": [
+      "BookAntiqua",
+      "BookAntiqua-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      403.77,
+      124.89,
+      421.16
+    ],
+    "text": "Dear Sir,",
+    "fonts": [
+      "BookAntiqua"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      436.3,
+      345.44,
+      452.93
+    ],
+    "text": "Annual Report of the Monetary Board 2016",
+    "fonts": [
+      "BookAntiqua-Bold"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      467.78,
+      513.77,
+      581.18
+    ],
+    "text": "In terms of Section 35 of the Monetary Law Act (Chapter 422), within four months after the end of each financial year, the Monetary Board of the Central Bank of Sri Lanka is required to submit an Annual Report to the Honourable Minister of Finance on the condition of the Central Bank and a review of the policies and measures adopted by the Monetary Board during the financial year and an analysis of the economic and financial circumstances which prompted those policies and measures.",
+    "fonts": [
+      "BookAntiqua"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      595.8,
+      513.77,
+      645.19
+    ],
+    "text": "The Sixty Seventh Annual Report of the Monetary Board of the Central Bank, in respect of the year 2016, is submitted herewith in fulfilment of this obligation.",
+    "fonts": [
+      "BookAntiqua"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.87,
+      659.81,
+      172.24,
+      677.19
+    ],
+    "text": "Yours faithfully,",
+    "fonts": [
+      "BookAntiqua"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      151.53,
+      58.92,
+      429.54,
+      82.91
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      181.04,
+      94.92,
+      400.04,
+      118.91
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      204.05,
+      144.07,
+      377.03,
+      174.07
+    ],
+    "text": "INDRAJIT COOMARASWAMYGovernor",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      203.4,
+      187.08,
+      377.72,
+      217.08
+    ],
+    "text": "R. H. S. SAMARATUNGASecretary to the Ministry of Finance",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      220.89,
+      230.09,
+      360.2,
+      260.09
+    ],
+    "text": "MRS. M. RAMANATHANAppointed Member",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.4,
+      273.1,
+      336.71,
+      303.1
+    ],
+    "text": "C. P. R. PERERAAppointed Member",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.4,
+      316.11,
+      336.71,
+      346.11
+    ],
+    "text": "A. N. FONSEKAAppointed Member",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      78.53,
+      373.92,
+      502.56,
+      397.91
+    ],
+    "text": "PRINCIPAL OFFICERS AS AT 31 December 2016",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.1,
+      402.55,
+      342.01,
+      419.88
+    ],
+    "text": "Deputy Governors",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      213.1,
+      426.81,
+      367.99,
+      441.27
+    ],
+    "text": "P. NANDALAL WEERASINGHE",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      250.82,
+      448.81,
+      330.27,
+      463.27
+    ],
+    "text": "P. SAMARASIRI",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.67,
+      470.81,
+      339.42,
+      485.27
+    ],
+    "text": "S. LANKATHILAKE",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234.04,
+      501.16,
+      347.06,
+      518.49
+    ],
+    "text": "Assistant Governors",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      233.71,
+      525.42,
+      347.38,
+      539.88
+    ],
+    "text": "MRS. J. P. MAMPITIYA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      234.32,
+      547.42,
+      346.76,
+      561.88
+    ],
+    "text": "C. J. P. SIRIWARDANA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.35,
+      569.42,
+      339.72,
+      583.88
+    ],
+    "text": "K. D. RANASINGHE",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      244.71,
+      591.42,
+      336.37,
+      605.88
+    ],
+    "text": "S. S. RATNAYAKE",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      216.51,
+      613.42,
+      364.59,
+      627.88
+    ],
+    "text": "S. R. ATTYGALLE (On Release)",
+    "fonts": [
+      "FuturaBT-Medium",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      221.13,
+      635.42,
+      359.99,
+      661.57
+    ],
+    "text": "H. A. KARUNARATNE(Secretary to the Monetary Board)",
+    "fonts": [
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      218.13,
+      669.42,
+      362.95,
+      683.88
+    ],
+    "text": "MISS. K. SARAVANAMUTTU",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.96,
+      691.42,
+      339.12,
+      705.88
+    ],
+    "text": "R. A. A. JAYALATH",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      229.44,
+      713.42,
+      351.65,
+      727.88
+    ],
+    "text": "K. M. M. SIRIWARDANA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      236.46,
+      735.42,
+      344.62,
+      749.88
+    ],
+    "text": "S. J. A. HANDAGAMA",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      201.49,
+      59.62,
+      396.61,
+      80.94
+    ],
+    "text": "DEPARTMENTAL HEADS",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      90.8,
+      455.61,
+      147.25
+    ],
+    "text": "Bank Supervision DepartmentA. A. M. THASSIM - DirectorMRS. U. L. MUTHUGALA - Additional DirectorM. R. M. ABEYRATNE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      160.94,
+      455.61,
+      203.35
+    ],
+    "text": "Centre for Banking StudiesU. H. E. SILVA - DirectorD. M. D. B. DISSANAYAKE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      217.05,
+      455.61,
+      259.47
+    ],
+    "text": "Communications DepartmentMISS. S. H. GUNAWARDENA - DirectorT. D. H. KARUNARATHNE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      273.16,
+      482.84,
+      315.58
+    ],
+    "text": "Currency DepartmentJ. P. R. KARUNARATNE - SuperintendentMRS. H. P. T. WIJESURIYA - Additional Superintendent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      329.27,
+      455.61,
+      371.69
+    ],
+    "text": "Department of Supervision of Microfinance Institutions D. A. G. K. WIJETUNGA - DirectorV. BASKARAN - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      385.39,
+      455.61,
+      455.86
+    ],
+    "text": "Department of Supervision of Non-Bank Financial Institutions U. P. ALAWATTAGE - DirectorMRS. N. H. E. R. SIRIWARDENA - Additional DirectorR. D. W. PALLEGAMA - Additional DirectorW. RANAWEERA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      467.55,
+      455.61,
+      509.97
+    ],
+    "text": "Domestic Operations DepartmentP. W. D. N. R. RODRIGO - Directorc. a. abeysinghe - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      523.66,
+      455.61,
+      594.14
+    ],
+    "text": "Economic Research DepartmentK. M. M. SIRIWARDANA - DirectorMRS. Y. M. INDRARATNE - Additional DirectorMRS. W. A. DILRUKSHINI - Additional DirectorC. AMARASEKARA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      607.83,
+      482.84,
+      664.27
+    ],
+    "text": "Employees\u2019 Provident Fund Department MRS. K. N. N. M. BANDARA - Superintendent A. G. U. THILAKARATHNA - Additional SuperintendentJ. D. S. J. NANAYAKKARA - Additional Superintendent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      65.2,
+      677.97,
+      516.16,
+      734.41
+    ],
+    "text": "Exchange Control DepartmentMRS. T. M. J. Y. P. FERNANDO - Controller of ExchangeB. L. J. S. BALASOORIYA - Additional Controller of ExchangeR. R. JAYARATNE - Additional Controller of Exchange",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      61.51,
+      447.1,
+      104.02
+    ],
+    "text": "Facilities Management Department H. B. D. KARUNARATNE - DirectorK. D. R. PIYATILLEKE - Additional Director",
+    "fonts": [
+      "FuturaBT-Medium",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      118.82,
+      439.32,
+      147.25
+    ],
+    "text": "Finance Department M. I. SUFIYAN - Chief Accountant",
+    "fonts": [
+      "FuturaBT-Medium",
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      162.05,
+      447.1,
+      204.56
+    ],
+    "text": "Financial Intelligence UnitH. AMARATHUNGA - DirectorD. K. WIJESURIYA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      219.36,
+      401.82,
+      247.79
+    ],
+    "text": "Human Resources DepartmentK. M. ABEYKOON - Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      262.59,
+      447.1,
+      305.1
+    ],
+    "text": "Information Technology DepartmentMRS. C. M. D. N. K. SENEVIRATNE - DirectorK. V. K. ALWIS - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      319.89,
+      447.1,
+      362.41
+    ],
+    "text": "Internal Audit DepartmentMRS. K. GUNATILAKE - DirectorA. A. CHANDRASENA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      377.2,
+      447.1,
+      419.72
+    ],
+    "text": "International Operations DepartmentC. N. WIJAYASEKERA - DirectorJ. P. GAMALATH - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      434.51,
+      447.1,
+      477.02
+    ],
+    "text": "Legal and Compliance DepartmentP. V. L. NANDASIRI - DirectorK. G. P. SIRIKUMARA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      491.82,
+      447.1,
+      534.33
+    ],
+    "text": "Macroprudential Surveillance DepartmentN. W. G. R. D. NANAYAKKARA - DirectorT. M. Z. MUTALIPH - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      549.13,
+      447.1,
+      605.72
+    ],
+    "text": "Payments and Settlements DepartmentD. KUMARATUNGE - DirectorR. M. JAYAWARDENA - Additional DirectorA. M. GUNATHILAKE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      620.51,
+      447.1,
+      663.03
+    ],
+    "text": "Policy Review and Monitoring DepartmentA. M. N. GUNAWARDANA - DirectorS. R. SUMANASEKARA - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      56.69,
+      677.82,
+      485.15,
+      734.41
+    ],
+    "text": "Public Debt DepartmentT. H. B. SARATHCHANDRA - Superintendent and RegistrarC. P. S. BANDARA - Additional SuperintendentMRS. R. D. T. GUNASEKARA - Additional Superintendent",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      62.27,
+      455.61,
+      132.62
+    ],
+    "text": "Regional Development DepartmentMRS. D. V. S. DAYAWANSA - DirectorA. M. R. K. ATTANAYAKE - Additional DirectorM. S. K. DHARMAWARDENA - Additional DirectorU. L. TILAKARATNE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      147.27,
+      410.33,
+      203.62
+    ],
+    "text": "Regional Office Management DepartmentD. M. RUPASINGHE - DirectorMRS. R. B. WEERASINGHE - Director(On Leave Prior to Retirement)",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      218.27,
+      410.33,
+      246.62
+    ],
+    "text": "Risk Management DepartmentMRS. K. DASSANAYAKE - Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      261.27,
+      414.77,
+      289.62
+    ],
+    "text": "Secretariat DepartmentK. H. A. S. ARIYARATNA - Secretary",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      303.27,
+      410.33,
+      331.62
+    ],
+    "text": "Security Services DepartmentA. D. G. A. JAYAWARDANE - Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      345.27,
+      455.61,
+      387.62
+    ],
+    "text": "Staff Services Management DepartmentB. W. JINASENA - DirectorMISS. K. G. R. K. DHEERASINGHE - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      401.27,
+      455.61,
+      443.62
+    ],
+    "text": "Statistics DepartmentA. R. K. WIJESEKERA - DirectorM. Z. M. AAZIM - Additional Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      457.27,
+      410.33,
+      485.62
+    ],
+    "text": "Training and Development DepartmentS. K. RANASINGHE - Director",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      65.2,
+      528.48,
+      471.71,
+      555.62
+    ],
+    "text": "MRS. K. M. A. N. DAULAGALA - Deputy Secretary to the Monetary Board",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      217.38,
+      598.09,
+      380.73,
+      653.23
+    ],
+    "text": "AUDITORH. M. GAMINI WIJESINGHEAuditor General",
+    "fonts": [
+      "TimesNewRomanPS-BoldMT",
+      "TimesNewRomanPS-ItalicMT"
+    ],
+    "sizes": [
+      12.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      264.98,
+      50.0,
+      330.29,
+      64.4
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      280.54,
+      94.01,
+      318.49,
+      108.41
+    ],
+    "text": "PART I",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.4,
+      118.89,
+      524.22,
+      129.68
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      47.89,
+      135.89,
+      401.95,
+      146.68
+    ],
+    "text": "1. ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      56.4,
+      152.46,
+      526.83,
+      261.44
+    ],
+    "text": "1.1 Overview \u2026 \u2026 \u2026 \u2026 1 1.2 Macroeconomic Developments, Stability and Policy Responses in 2016 \u2026 \u2026 \u2026 2 Real Sector Developments and Inflation ... \u2026 \u2026 \u2026 2 External Sector Developments ... \u2026 \u2026 \u2026 9 Fiscal Sector Developments ... \u2026 \u2026 \u2026 12 Monetary Sector Developments ... \u2026 \u2026 \u2026 14 Financial Sector Developments ... \u2026 \u2026 \u2026 181.3 Global Economic Environment and Outlook \u2026 \u2026 \u2026 \u2026 191.4 Medium Term Macroeconomic Outlook \u2026 \u2026 \u2026 \u2026 211.5 Issues and Policies \u2026 \u2026 \u2026 \u2026 27",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      47.95,
+      271.65,
+      266.6,
+      282.44
+    ],
+    "text": "2. NATIONAL OUTPUT, EXPENDITURE AND INCOME",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      53.68,
+      288.32,
+      526.94,
+      724.27
+    ],
+    "text": "2.1 Overview \u2026 \u2026 \u2026 \u2026 452.2 GDP, GDP Per Capita and Gross National Income (GNI) \u2026 \u2026 \u2026 \u2026 472.3 Contribution from Institutional Sectors \u2026 \u2026 \u2026 \u2026 472.4 Output, Policies, Institutional Support and Issues \u2026 \u2026 \u2026 \u2026 49 Agriculture \u2026 \u2026 \u2026 \u2026 49 Agriculture Production Index \u2026 \u2026 \u2026 \u2026 49 Paddy \u2026 \u2026 \u2026 \u2026 49 Tea \u2026 \u2026 \u2026 \u2026 51 Rubber \u2026 \u2026 \u2026 \u2026 52 Coconut \u2026 \u2026 \u2026 \u2026 52 Minor Export Crops \u2026 \u2026 \u2026 \u2026 53 Other Field Crops \u2026 \u2026 \u2026 \u2026 54 Vegetables \u2026 \u2026 \u2026 \u2026 54 Fruits \u2026 \u2026 \u2026 \u2026 55 Sugar \u2026 \u2026 \u2026 \u2026 55 Fisheries \u2026 \u2026 \u2026 \u2026 56 Livestock \u2026 \u2026 \u2026 \u2026 56 Forestry \u2026 \u2026 \u2026 \u2026 57 Agriculture Policies and Institutional Support \u2026 \u2026 \u2026 \u2026 58 Industries \u2026 \u2026 \u2026 \u2026 64 Mining and Quarrying \u2026 \u2026 \u2026 \u2026 65 Manufacturing \u2026 \u2026 \u2026 \u2026 65 Factory Industry Production Index \u2026 \u2026 \u2026 \u2026 65 Industrial Policies and Institutional Support \u2026 \u2026 \u2026 \u2026 73 Electricity, Water and Waste Treatment \u2026 \u2026 \u2026 \u2026 76 Construction \u2026 \u2026 \u2026 \u2026 76 Services \u2026 \u2026 \u2026 \u2026 77 Wholesale and Retail Trade \u2026 \u2026 \u2026 \u2026 77 Transportation and Storage \u2026 \u2026 \u2026 \u2026 78 Accommodation and Food Service Activities \u2026 \u2026 \u2026 \u2026 78 Information and Communication \u2026 \u2026 \u2026 \u2026 78 Financial, Insurance and Real Estate Activities including Ownership of Dwellings \u2026 79 Professional Services and Other Personal Service Activities \u2026 \u2026 \u2026 79 Public Administration, Defence, Education, Human Health and Social Work Activities \u2026 79 2.5 Expenditure \u2026 \u2026 \u2026 \u2026 82 Consumption \u2026 \u2026 \u2026 \u2026 83 Investment \u2026 \u2026 \u2026 \u2026 86 Availability and Utilisation of Resources \u2026 \u2026 \u2026 \u2026 87 Savings \u2026 \u2026 \u2026 \u2026 88 2.6 Income \u2026 \u2026 \u2026 89",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.2,
+      43.36,
+      533.02,
+      54.15
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.2,
+      60.36,
+      261.22,
+      71.15
+    ],
+    "text": "3. ECONOMIC AND SOCIAL INFRASTRUCTURE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.2,
+      77.03,
+      535.63,
+      285.78
+    ],
+    "text": "3.1 Overview \u2026 \u2026 \u2026 \u2026 913.2 Economic Infrastructure Policies, Institutional Framework and Performance \u2026 \u2026 94 Communication Services \u2026 \u2026 \u2026 \u2026 94 Petroleum \u2026 \u2026 \u2026 \u2026 97 Electricity \u2026 \u2026 \u2026 \u2026 99 Road Development ... \u2026 \u2026 \u2026 103 Road Passenger Transportation ... ... ... \u2026 105 Rail Transportation \u2026 \u2026 \u2026 \u2026 107 Civil Aviation \u2026 \u2026 \u2026 \u2026 108 Port Services ... \u2026 \u2026 \u2026 109 Water Supply and Irrigation \u2026 \u2026 \u2026 \u2026 1113.3 Social Infrastructure Policies, Institutional Framework and Performance \u2026 \u2026 \u2026 112 Health \u2026 \u2026 \u2026 \u2026 112 Education \u2026 \u2026 \u2026 \u2026 115 Housing and Urban Development \u2026 \u2026 \u2026 \u2026 119 Poverty Alleviation and Safety Nets \u2026 \u2026 \u2026 \u2026 121 Environment \u2026 \u2026 \u2026 \u2026 123 4. PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.24,
+      290.0,
+      533.1,
+      520.75
+    ],
+    "text": "4.1 Overview ... \u2026 \u2026 \u2026 1254.2 Prices \u2026 \u2026 \u2026 \u2026 125 Price Movements and Contributory Factors \u2026 \u2026 \u2026 \u2026 125 National Consumer Price Index (NCPI) \u2026 \u2026 \u2026 \u2026 125 Colombo Consumer Price Index (CCPI) \u2026 \u2026 \u2026 \u2026 126 Price Movements in the Food Category \u2026 \u2026 \u2026 \u2026 128 Price Movements in Non-food and other Categories \u2026 \u2026 \u2026 129 Core Inflation \u2026 \u2026 \u2026 \u2026 129 Producer\u2019s Price Index (PPI) \u2026 \u2026 \u2026 \u2026 131 GDP Deflator \u2026 \u2026 \u2026 \u2026 1314.3 Wages \u2026 \u2026 \u2026 \u2026 131 Public Sector Wages \u2026 \u2026 \u2026 \u2026 133 Private Sector Wages \u2026 \u2026 \u2026 \u2026 1344.4 Population, Labour Force and Employment \u2026 \u2026 \u2026 \u2026 134 Population \u2026 \u2026 \u2026 \u2026 134 Labour Force \u2026 \u2026 \u2026 \u2026 135 Employment \u2026 \u2026 \u2026 \u2026 136 Unemployment \u2026 \u2026 \u2026 \u2026 138 Foreign Employment \u2026 \u2026 \u2026 \u2026 139 Labour Relations and Labour Market Reforms \u2026 \u2026 \u2026 \u2026 141 Labour Productivity \u2026 \u2026 \u2026 \u2026 142",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      56.69,
+      523.92,
+      279.69,
+      542.82
+    ],
+    "text": "5. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      65.2,
+      547.03,
+      533.07,
+      733.79
+    ],
+    "text": "5.1 Overview \u2026 \u2026 \u2026 \u2026 1455.2 External Trade Policies, Developments and Institutional Support \u2026 \u2026 \u2026 1475.3 Trade in Goods, Trade Balance, Terms of Trade and Direction of Trade \u2026 \u2026 \u2026 153 Export Performance \u2026 \u2026 \u2026 \u2026 153 Import Performance \u2026 \u2026 \u2026 \u2026 159 Trade Balance \u2026 \u2026 \u2026 \u2026 162 Terms of Trade \u2026 \u2026 \u2026 \u2026 163 Direction of Trade \u2026 \u2026 \u2026 \u2026 1645.4 Current and Capital Account \u2026 \u2026 \u2026 \u2026 166 Trade in Services \u2026 \u2026 \u2026 \u2026 166 Transport Services \u2026 \u2026 \u2026 \u2026 166 Travel and Tourism \u2026 \u2026 \u2026 \u2026 167 Telecommunications, Computer and Information Services \u2026 \u2026 \u2026 170 Primary Income \u2026 \u2026 \u2026 \u2026 171 Secondary Income \u2026 \u2026 \u2026 \u2026 1715.5 Current Account Balance \u2026 \u2026 \u2026 \u2026 1725.6 Capital Account Balance \u2026 \u2026 \u2026 \u2026 172",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.69,
+      42.69,
+      527.24,
+      53.48
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.69,
+      67.52,
+      524.57,
+      350.89
+    ],
+    "text": "5.7 Financial Account \u2026 \u2026 \u2026 \u2026 172 Direct Investment \u2026 \u2026 \u2026 \u2026 173 Portfolio Investment \u2026 \u2026 \u2026 \u2026 174 Equity \u2026 \u2026 \u2026 \u2026 174 Debt Securities \u2026 \u2026 \u2026 \u2026 174 Other Investment \u2026 \u2026 \u2026 \u2026 174 Currency and Deposits \u2026 \u2026 \u2026 \u2026 174 Loans \u2026 \u2026 \u2026 \u2026 175 Trade Credit and Advances and Other Accounts Receivable/Payable \u2026 \u2026 177 Reserve Assets \u2026 \u2026 \u2026 \u2026 1775.8 Overall Balance \u2026 \u2026 \u2026 \u2026 1775.9 International Investment Position \u2026 \u2026 \u2026 \u2026 177 Direct Investment Position \u2026 \u2026 \u2026 \u2026 178 Portfolio Investment Position \u2026 \u2026 \u2026 \u2026 178 Other Investment Position \u2026 \u2026 \u2026 \u2026 179 Currency and Deposits \u2026 \u2026 \u2026 \u2026 179 Loans \u2026 \u2026 \u2026 \u2026 179 Trade Credit and Advances \u2026 \u2026 \u2026 \u2026 179 Other Accounts Receivable/Payable and Special Drawing Rights \u2026 \u2026 \u2026 179 Reserve Asset Position \u2026 \u2026 \u2026 \u2026 1805.10 External Debt and Debt Servicing \u2026 \u2026 \u2026 \u2026 181 External Debt \u2026 \u2026 \u2026 \u2026 181 Foreign Debt Service Payments \u2026 \u2026 \u2026 \u2026 1825.11 Exchange Rate Movements \u2026 \u2026 \u2026 \u2026 183 Nominal and Real Effective Exchange Rates \u2026 \u2026 \u2026 \u2026 184 Developments in the Domestic Foreign Exchange Market \u2026 \u2026 \u2026 \u2026 185",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.24,
+      362.09,
+      250.84,
+      372.88
+    ],
+    "text": "6. FISCAL POLICY AND GOVERNMENT FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      48.19,
+      378.76,
+      527.19,
+      576.59
+    ],
+    "text": "6.1 Overview \u2026 \u2026 \u2026 \u2026 1896.2 Fiscal Policy Direction and Measures \u2026 \u2026 \u2026 \u2026 1926.3 Government Budgetary Operations \u2026 \u2026 \u2026 \u2026 204 Revenue and Grants \u2026 \u2026 \u2026 \u2026 204 Revenue \u2026 \u2026 \u2026 \u2026 204 Grants \u2026 \u2026 \u2026 \u2026 207 Expenditure and Net Lending \u2026 \u2026 \u2026 \u2026 208 Key Fiscal Balances \u2026 \u2026 \u2026 \u2026 211 Financing the Budget Deficit \u2026 \u2026 \u2026 \u2026 2126.4 Government Debt and Debt Service Payments \u2026 \u2026 \u2026 \u2026 214 Government Debt \u2026 \u2026 \u2026 \u2026 214 Debt Service Payments \u2026 \u2026 \u2026 \u2026 216 Outstanding Debt of Major Public Nonfinancial Corporations \u2026 \u2026 \u2026 2176.5 Budgetary Operations in Sub National Governments ... \u2026 \u2026 \u2026 218 Policy Direction and Measures taken by Sub National Governments \u2026 \u2026 \u2026 218 Budgetary Operations in Provincial Councils \u2026 \u2026 \u2026 \u2026 219 7. MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      56.69,
+      582.46,
+      527.14,
+      736.25
+    ],
+    "text": "7.1 Overview \u2026 \u2026 \u2026 \u2026 221 7.2 Monetary Policy Stance of the Central Bank of Sri Lanka \u2026 \u2026 \u2026 \u2026 2227.3 Movements of Interest Rates \u2026 \u2026 \u2026 \u2026 225 Market Liquidity, Market Operations and Short Term Interest Rates \u2026 \u2026 \u2026 225 Yields on Government Securities \u2026 \u2026 \u2026 \u2026 227 Deposit and Lending Interest Rates \u2026 \u2026 \u2026 \u2026 228 Interest Rates on Debt Instruments \u2026 \u2026 \u2026 \u2026 230 Interest Rates on Foreign Currency Deposits \u2026 \u2026 \u2026 \u2026 2307.4 Movements of Monetary and Credit Aggregates \u2026 \u2026 \u2026 \u2026 231 Reserve Money \u2026 \u2026 \u2026 \u2026 231 Narrow Money (M1) \u2026 \u2026 \u2026 \u2026 233 Broad Money (M2b) and Domestic Credit \u2026 \u2026 \u2026 \u2026 233 Broad Money (M4) \u2026 \u2026 \u2026 \u2026 2397.5 Future Developments, Challenges and Outlook \u2026 \u2026 \u2026 \u2026 240",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.69,
+      45.94,
+      533.02,
+      56.73
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.69,
+      67.94,
+      318.2,
+      78.73
+    ],
+    "text": "8. FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      88.61,
+      535.62,
+      541.32
+    ],
+    "text": "8.1 Overview \u2026 \u2026 \u2026 \u2026 243 8.2 Performance of the Banking sector \u2026 \u2026 \u2026 \u2026 244 Business Growth \u2026 \u2026 \u2026 \u2026 245 Risks in the Banking Sector \u2026 \u2026 \u2026 \u2026 247 Profitability and Capital Resources \u2026 \u2026 \u2026 \u2026 249 Supervisory and Regulatory Developments \u2026 \u2026 \u2026 \u2026 2528.3 Performance of Non-Banking Financial Institutions \u2026 \u2026 \u2026 \u2026 253 Licensed Finance Companies and Specialised Leasing Companies (LFCs/SLCs) sector \u2026 ... 253 Business Growth \u2026 \u2026 \u2026 \u2026 253 Risks in the LFCs/SLCs sector \u2026 \u2026 \u2026 \u2026 255 Profitability and Capital Resources \u2026 \u2026 \u2026 \u2026 256 Action on Distressed Licensed Finance Companies \u2026 \u2026 \u2026 \u2026 256 Supervisory and Regulatory Developments \u2026 \u2026 \u2026 \u2026 257 Microfinance Institutions Sector \u2026 \u2026 \u2026 \u2026 257 Primary Dealers in Government Securities \u2026 \u2026 \u2026 \u2026 260 Assets and Liabilities \u2026 \u2026 \u2026 \u2026 260 Risks in PD Sector \u2026 \u2026 \u2026 \u2026 260 Profitability and Capital \u2026 \u2026 \u2026 \u2026 261 Market Participation \u2026 \u2026 \u2026 \u2026 261 Unit Trusts \u2026 \u2026 \u2026 \u2026 261 Business Growth \u2026 \u2026 \u2026 \u2026 262 Investment \u2026 \u2026 \u2026 \u2026 262 Insurance Sector \u2026 \u2026 \u2026 \u2026 262 Business Growth \u2026 \u2026 \u2026 \u2026 263 Earnings \u2026 \u2026 \u2026 \u2026 263 Capital and Investment \u2026 \u2026 \u2026 \u2026 264 Supervisory and Regulatory Developments \u2026 \u2026 \u2026 \u2026 264 Superannuation Funds \u2026 \u2026 \u2026 \u2026 265 Employees\u2019 Provident Fund \u2026 \u2026 \u2026 \u2026 265 Employees\u2019 Trust Fund \u2026 \u2026 \u2026 \u2026 266 Other Superannuation Funds \u2026 \u2026 \u2026 \u2026 2668.4 Performance of Financial Markets \u2026 \u2026 \u2026 \u2026 267 Money Market \u2026 \u2026 \u2026 ... 267 Domestic Foreign Exchange Market \u2026 \u2026 \u2026 ... 268 Government Securities Market \u2026 \u2026 \u2026 ... 269 Corporate Debt Securities Market \u2026 \u2026 \u2026 ... 270 Colombo Stock Market \u2026 \u2026 \u2026 ... 2708.5 Development Finance and Access to Finance \u2026 \u2026 \u2026 \u2026 2718.6 Financial Infrastructure \u2026 \u2026 \u2026 \u2026 277 Payment and Settlement Systems \u2026 \u2026 \u2026 \u2026 277 Credit Information \u2026 \u2026 \u2026 \u2026 280",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      545.54,
+      93.41,
+      565.4
+    ],
+    "text": "PART II",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      576.61,
+      533.02,
+      587.4
+    ],
+    "text": "ACCOUNTS AND OPERATIONS OF THE CENTRAL BANK OF SRI LANKA 1-112",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      598.6,
+      95.98,
+      609.39
+    ],
+    "text": "PART III",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      620.6,
+      533.02,
+      631.39
+    ],
+    "text": "MAJOR ADMINISTRATIVE MEASURES ADOPTED BY THE MONETARY BOARD IN 2016 1-131",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      642.6,
+      96.41,
+      653.39
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      664.59,
+      533.02,
+      686.38
+    ],
+    "text": "MAJOR LEGISLATIVE ENACTMENTS OF 2016 RELATING TO THE FUNCTIONS ANDOPERATIONS OF THE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA 1-12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      692.26,
+      161.2,
+      703.05
+    ],
+    "text": "STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      65.2,
+      711.76,
+      197.65,
+      722.55
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      249.75,
+      53.45,
+      345.52,
+      67.85
+    ],
+    "text": "PART I \u2013 TABLES",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.31,
+      78.67,
+      524.13,
+      89.47
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47.8,
+      102.68,
+      401.86,
+      113.47
+    ],
+    "text": "1. ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.31,
+      122.48,
+      524.14,
+      133.27
+    ],
+    "text": "1.1 Macroeconomic Performance (2012-2016) \u2026 \u2026 \u2026 \u2026 3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.31,
+      136.62,
+      524.14,
+      147.41
+    ],
+    "text": "1.2 Aggregate Demand and Savings-Investment Gap at Current Market Prices \u2026 \u2026 \u2026 4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.32,
+      150.76,
+      524.15,
+      161.55
+    ],
+    "text": "1.3 Gross National Income by Industrial Origin at Constant (2010) Prices \u2026 \u2026 \u2026 7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.32,
+      164.89,
+      524.15,
+      175.69
+    ],
+    "text": "1.4 Global Economic Developments and Outlook ... \u2026 \u2026 \u2026 20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.33,
+      179.03,
+      524.16,
+      189.82
+    ],
+    "text": "1.5 Medium Term Macroeconomic Framework \u2026 \u2026 \u2026 \u2026 22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47.83,
+      201.63,
+      266.49,
+      212.42
+    ],
+    "text": "2. NATIONAL OUTPUT, EXPENDITURE AND INCOME",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.34,
+      221.43,
+      524.17,
+      232.22
+    ],
+    "text": "2.1 Gross Domestic Product by Industrial Origin at Constant (2010) Prices \u2026 \u2026 \u2026 46",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.35,
+      235.57,
+      524.17,
+      246.36
+    ],
+    "text": "2.2 Gross Value Added by Institutional Sector at Current Prices \u2026 \u2026 \u2026 \u2026 48",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.35,
+      249.71,
+      524.18,
+      260.5
+    ],
+    "text": "2.3 Agriculture Production Index (2007-2010=100) \u2026 \u2026 \u2026 \u2026 49",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.36,
+      263.85,
+      524.19,
+      274.64
+    ],
+    "text": "2.4 Paddy Sector Statistics \u2026 \u2026 \u2026 \u2026 50",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.37,
+      277.99,
+      524.2,
+      288.78
+    ],
+    "text": "2.5 Trends in Principal Agricultural Crops \u2026 \u2026 \u2026 \u2026 53",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.38,
+      292.13,
+      524.21,
+      302.92
+    ],
+    "text": "2.6 Fish Production \u2026 \u2026 \u2026 \u2026 56",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.39,
+      306.27,
+      524.22,
+      317.06
+    ],
+    "text": "2.7 Livestock Sector Statistics \u2026 \u2026 \u2026 \u2026 57",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.4,
+      320.41,
+      524.23,
+      331.2
+    ],
+    "text": "2.8 Food Balance Sheet with Regards to Major Food Commodities \u2026 \u2026 \u2026 \u2026 59",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.41,
+      334.54,
+      524.24,
+      345.34
+    ],
+    "text": "2.9 Factory Industry Production Index (FIPI) 2010=100 \u2026 \u2026 \u2026 \u2026 66",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.42,
+      348.68,
+      524.25,
+      359.47
+    ],
+    "text": "2.10 Aggregate Demand \u2026 \u2026 \u2026 \u2026 83",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.43,
+      362.82,
+      524.25,
+      373.61
+    ],
+    "text": "2.11 Composition of Private Consumption Expenditure at Current Market Prices \u2026 \u2026 \u2026 84",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.43,
+      376.96,
+      380.85,
+      387.75
+    ],
+    "text": "2.12 Investment and Employment in Enterprises Registered under Board of",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.43,
+      391.1,
+      524.26,
+      401.89
+    ],
+    "text": "Investment of Sri Lanka (BOI) and Ministry of Industry and Commerce (MIC) \u2026 ... 87",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.44,
+      405.24,
+      524.27,
+      416.03
+    ],
+    "text": "2.13 Total Resources and Their Uses at Current Market Prices \u2026 \u2026 \u2026 \u2026 88",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.45,
+      419.38,
+      524.28,
+      430.17
+    ],
+    "text": "2.14 Consumption, Investment and Savings at Current Market Prices \u2026 \u2026 \u2026 \u2026 89",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.46,
+      433.52,
+      524.29,
+      444.31
+    ],
+    "text": "2.15 Income Components by Institutional Sector at Current Market Prices \u2026 \u2026 \u2026 90",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      47.97,
+      458.95,
+      243.99,
+      469.74
+    ],
+    "text": "3. ECONOMIC AND SOCIAL INFRASTRUCTURE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.47,
+      478.75,
+      524.3,
+      489.54
+    ],
+    "text": "3.1 Government Investment in Infrastructure \u2026 .... \u2026 \u2026 92",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.48,
+      492.89,
+      524.31,
+      503.68
+    ],
+    "text": "3.2 Telecommunication Sector Performance ... \u2026 \u2026 \u2026 95",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.49,
+      507.03,
+      524.32,
+      517.82
+    ],
+    "text": "3.3 Petroleum Sector Performance \u2026 ... \u2026 \u2026 98",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.5,
+      521.17,
+      524.33,
+      531.96
+    ],
+    "text": "3.4 Electricity Sector Performance \u2026 ... \u2026 \u2026 100",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.51,
+      535.31,
+      524.34,
+      546.1
+    ],
+    "text": "3.5 Salient Features of the Transport Sector \u2026 ... \u2026 \u2026 107",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.52,
+      549.45,
+      524.34,
+      560.24
+    ],
+    "text": "3.6 Performance of Port Services \u2026 ... \u2026 \u2026 110",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.52,
+      563.59,
+      524.35,
+      574.38
+    ],
+    "text": "3.7 Water Supply by National Water Supply & Drainage Board \u2026 \u2026 \u2026 \u2026 112",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.53,
+      577.72,
+      524.36,
+      588.52
+    ],
+    "text": "3.8 Salient Features of Health Services \u2026 ... \u2026 \u2026 113",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.54,
+      591.86,
+      524.37,
+      602.65
+    ],
+    "text": "3.9 Salient Features of General Education ... \u2026 \u2026 \u2026 116",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.55,
+      606.0,
+      526.97,
+      616.79
+    ],
+    "text": "3.10 Salient Features of University Education ... \u2026 \u2026 \u2026 118",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.56,
+      620.14,
+      524.39,
+      630.93
+    ],
+    "text": "3.11 Salient Features of Tertiary and Vocational Education and Training \u2026 \u2026 \u2026 119",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.57,
+      634.28,
+      532.17,
+      645.07
+    ],
+    "text": "3.12 Poverty Head Count Ratio \u2026 \u2026 \u2026 \u2026 121",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.58,
+      648.42,
+      524.41,
+      659.21
+    ],
+    "text": "3.13 Main Welfare Programmes - Number of Beneficiary Families and Value of Grants \u2026 \u2026 123",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      48.08,
+      671.02,
+      276.75,
+      681.81
+    ],
+    "text": "4. PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.59,
+      690.82,
+      524.42,
+      701.61
+    ],
+    "text": "4.1 Changes in Price Indices \u2026 ... \u2026 \u2026 126",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.6,
+      704.96,
+      524.43,
+      715.75
+    ],
+    "text": "4.2 Contribution to Annual Average Inflation by Sub-category - 2016 ... \u2026 \u2026 128",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      56.61,
+      719.1,
+      524.43,
+      729.89
+    ],
+    "text": "4.3 Retail Prices of Key Imported and Domestically Produced Items \u2026 \u2026 \u2026 \u2026 129",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.2,
+      40.69,
+      533.02,
+      51.48
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.2,
+      68.96,
+      533.03,
+      79.75
+    ],
+    "text": "4.4 Key Items with Administered Prices \u2026 ... \u2026 \u2026 130",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.21,
+      82.81,
+      535.63,
+      93.6
+    ],
+    "text": "4.5 Sectoral Deflators and GDP Deflator \u2026 ... \u2026 \u2026 131",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.21,
+      96.66,
+      533.04,
+      107.45
+    ],
+    "text": "4.6 Wage Rate Indices \u2026 ... \u2026 \u2026 134",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.22,
+      110.51,
+      533.05,
+      121.3
+    ],
+    "text": "4.7 District-wise Population and Density \u2026 ... \u2026 \u2026 135",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.23,
+      124.36,
+      533.06,
+      135.15
+    ],
+    "text": "4.8 Household Population, Labour Force and Labour Force Participation \u2026 \u2026 \u2026 136",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.24,
+      138.21,
+      533.07,
+      149.01
+    ],
+    "text": "4.9 Employment by Economic Activity \u2026 ... \u2026 \u2026 137",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.25,
+      152.07,
+      533.08,
+      162.86
+    ],
+    "text": "4.10 Status of Employment \u2026 ... \u2026 \u2026 138",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.26,
+      165.92,
+      533.09,
+      176.71
+    ],
+    "text": "4.11 Public Sector Employment \u2026 ... \u2026 \u2026 138",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.27,
+      179.77,
+      535.69,
+      190.56
+    ],
+    "text": "4.12 Unemployment Rate \u2026 \u2026 \u2026 \u2026 139",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.28,
+      193.62,
+      533.11,
+      204.41
+    ],
+    "text": "4.13 Departures for Foreign Employment \u2026 ... \u2026 \u2026 140",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.29,
+      207.47,
+      533.12,
+      218.26
+    ],
+    "text": "4.14 Foreign Employment Departures by Destination \u2026 ... \u2026 \u2026 141",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.3,
+      221.32,
+      533.13,
+      232.11
+    ],
+    "text": "4.15 Strikes in Private Sector Industries \u2026 ... \u2026 \u2026 142",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.3,
+      235.17,
+      533.13,
+      245.96
+    ],
+    "text": "4.16 Labour Productivity by Major Economic Sectors \u2026 ... \u2026 \u2026 142",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.81,
+      259.41,
+      279.81,
+      270.2
+    ],
+    "text": "5. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.31,
+      278.64,
+      533.13,
+      289.43
+    ],
+    "text": "5.1 Balance of Payments Analytical Presentation \u2026 \u2026 \u2026 \u2026 147",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.31,
+      292.21,
+      533.14,
+      303.0
+    ],
+    "text": "5.2 Composition of Exports \u2026 \u2026 \u2026 \u2026 154",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.32,
+      305.79,
+      533.15,
+      316.58
+    ],
+    "text": "5.3 Composition of Imports \u2026 \u2026 \u2026 \u2026 160",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.33,
+      319.36,
+      533.16,
+      330.15
+    ],
+    "text": "5.4 Volume of Major Imports \u2026 \u2026 \u2026 \u2026 161",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.34,
+      332.93,
+      533.17,
+      343.72
+    ],
+    "text": "5.5 Trade Indices \u2026 \u2026 \u2026 \u2026 163",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.35,
+      346.5,
+      533.18,
+      357.29
+    ],
+    "text": "5.6 Current and Capital Account \u2026 \u2026 \u2026 \u2026 166",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.36,
+      360.07,
+      533.19,
+      370.86
+    ],
+    "text": "5.7 Performance in the Tourism Sector \u2026 \u2026 \u2026 \u2026 170",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.37,
+      373.65,
+      533.2,
+      384.44
+    ],
+    "text": "5.8.A Financial Account \u2026 \u2026 \u2026 \u2026 173",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.38,
+      387.22,
+      533.21,
+      398.01
+    ],
+    "text": "5.8.B Financial Account \u2026 \u2026 \u2026 \u2026 175",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.39,
+      400.79,
+      533.22,
+      411.58
+    ],
+    "text": "5.9 Major Projects Financed with Foreign Borrowings during 2016 \u2026 \u2026 \u2026 \u2026 176",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.4,
+      414.36,
+      533.22,
+      425.15
+    ],
+    "text": "5.10 International Investment Position \u2026 \u2026 \u2026 \u2026 178",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.4,
+      427.93,
+      533.23,
+      438.72
+    ],
+    "text": "5.11 Gross Official Reserves, Total Foreign Assets and Overall Balance \u2026 \u2026 \u2026 180",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.41,
+      441.51,
+      533.24,
+      452.3
+    ],
+    "text": "5.12 Outstanding External Debt Position \u2026 \u2026 \u2026 \u2026 181",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.42,
+      455.08,
+      533.25,
+      465.87
+    ],
+    "text": "5.13 External Debt Service Payments \u2026 \u2026 \u2026 \u2026 182",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.43,
+      468.65,
+      533.26,
+      479.44
+    ],
+    "text": "5.14 Exchange Rate Movements \u2026 \u2026 \u2026 \u2026 184",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      56.94,
+      490.05,
+      259.53,
+      500.84
+    ],
+    "text": "6. FISCAL POLICY AND GOVERNMENT FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.44,
+      509.28,
+      533.27,
+      520.08
+    ],
+    "text": "6.1 Summary of Government Fiscal Operations \u2026 \u2026 \u2026 \u2026 193",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.45,
+      522.86,
+      533.28,
+      533.65
+    ],
+    "text": "6.2 Economic Classification of Government Revenue \u2026 \u2026 \u2026 \u2026 206",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.46,
+      536.43,
+      533.29,
+      547.22
+    ],
+    "text": "6.3 Economic Classification of Expenditure and Lending Minus Repayments \u2026 \u2026 \u2026 209",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.47,
+      550.0,
+      533.3,
+      560.79
+    ],
+    "text": "6.4 Functional Classification of Expenditure \u2026 \u2026 \u2026 \u2026 210",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.48,
+      563.57,
+      533.31,
+      574.36
+    ],
+    "text": "6.5 Sources of Domestic Financing \u2026 \u2026 \u2026 \u2026 212",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.49,
+      577.14,
+      533.31,
+      587.94
+    ],
+    "text": "6.6 Outstanding Central Government Debt (as at end year) \u2026 \u2026 \u2026 \u2026 214",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.49,
+      590.72,
+      533.32,
+      601.51
+    ],
+    "text": "6.7 Government Debt Service Payments \u2026 \u2026 \u2026 \u2026 216",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.5,
+      604.29,
+      533.33,
+      615.08
+    ],
+    "text": "6.8 Central Government Debt Indicators \u2026 \u2026 \u2026 \u2026 217",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.51,
+      617.86,
+      533.34,
+      628.65
+    ],
+    "text": "6.9 Outstanding Debt of Major Public Nonfinancial Corporations (as at end year) \u2026 \u2026 218",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.52,
+      631.43,
+      533.35,
+      642.22
+    ],
+    "text": "6.10 Budget Outturn for Provincial Councils \u2026 \u2026 \u2026 \u2026 220",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      57.03,
+      652.83,
+      315.98,
+      663.63
+    ],
+    "text": "7. MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.53,
+      673.2,
+      533.36,
+      683.99
+    ],
+    "text": "7.1 Recent Monetary Policy Measures \u2026 \u2026 \u2026 \u2026 224",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.54,
+      687.91,
+      533.37,
+      698.7
+    ],
+    "text": "7.2 Selected Money Market Rates \u2026 \u2026 \u2026 \u2026 226",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.55,
+      702.61,
+      535.97,
+      713.4
+    ],
+    "text": "7.3 Movements of Interest Rates \u2026 \u2026 \u2026 \u2026 231",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.56,
+      717.32,
+      533.39,
+      728.11
+    ],
+    "text": "7.4 Developments in Monetary Aggregates \u2026 \u2026 \u2026 \u2026 234",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.57,
+      731.92,
+      533.02,
+      744.82
+    ],
+    "text": "7.5 Assets Side of Reserve Money and Broad Money (M2b) \u2026 \u2026 \u2026 \u2026 235",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.69,
+      40.69,
+      524.51,
+      51.48
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.69,
+      69.51,
+      524.52,
+      80.3
+    ],
+    "text": "7.6 Classification of Outstanding Credit to the Private Sector Granted by Commercial Banks \u2026 \u2026 238",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.7,
+      83.92,
+      524.53,
+      94.71
+    ],
+    "text": "7.7 Maturity Analysis of Outstanding Credit to the Private Sector by Commercial Banks \u2026 \u2026 239",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.71,
+      98.32,
+      524.51,
+      111.22
+    ],
+    "text": "7.8 Assets Side of Broad Money (M4) \u2026 \u2026 \u2026 \u2026 240",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      48.19,
+      123.17,
+      309.69,
+      133.96
+    ],
+    "text": "8. FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.69,
+      142.98,
+      524.52,
+      153.77
+    ],
+    "text": "8.1 Total Assets of the Financial System \u2026 \u2026 ... \u2026 244",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.7,
+      157.12,
+      524.53,
+      167.91
+    ],
+    "text": "8.2 Distribution of Banks and Bank Branches ... \u2026 ... \u2026 245",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.71,
+      171.25,
+      524.54,
+      182.05
+    ],
+    "text": "8.3 Composition of Assets and Liabilities of the Banking Sector ... \u2026 ... \u2026 246",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.72,
+      185.39,
+      524.55,
+      196.18
+    ],
+    "text": "8.4 Composition of Deposits of the Banking Sector ... \u2026 ... \u2026 246",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.73,
+      199.53,
+      524.56,
+      210.32
+    ],
+    "text": "8.5 Composition of Statutory Liquid Assets of the Banking Sector \u2026 ... \u2026 \u2026 248",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.74,
+      213.67,
+      524.57,
+      224.46
+    ],
+    "text": "8.6 Profit of the Banking Sector \u2026 ... \u2026 \u2026 249",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.75,
+      227.81,
+      527.17,
+      238.6
+    ],
+    "text": "8.7 Composition of Regulatory Capital of the Banking Sector \u2026 \u2026 \u2026 ... 252",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.75,
+      241.95,
+      524.58,
+      252.74
+    ],
+    "text": "8.8 Distribution of Branches of the LFCs/SLCs Sector by Province \u2026 \u2026 \u2026 \u2026 254",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.76,
+      256.09,
+      524.59,
+      266.88
+    ],
+    "text": "8.9 Composition of Assets and Liabilities of the LFCs/SLCs Sector \u2026 \u2026 \u2026 ... 254",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.77,
+      270.23,
+      524.6,
+      281.02
+    ],
+    "text": "8.10 Composition of Income and Expenses of the LFCs/SLCs Sector \u2026 \u2026 \u2026 ... 256",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.78,
+      284.37,
+      524.61,
+      295.16
+    ],
+    "text": "8.11 Composition of Regulatory Capital of the LFCs/SLCs Sector \u2026 \u2026 \u2026 ... 257",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.79,
+      298.51,
+      527.21,
+      309.3
+    ],
+    "text": "8.12 Performance of Primary Dealers \u2026 \u2026 \u2026 ... 260",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.8,
+      312.64,
+      524.63,
+      323.44
+    ],
+    "text": "8.13 Performance of UT Sector \u2026 \u2026 ... \u2026 262",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.81,
+      326.78,
+      527.23,
+      337.57
+    ],
+    "text": "8.14 Performance of the Insurance Sector \u2026 \u2026 \u2026 ... 262",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.82,
+      340.92,
+      524.65,
+      351.71
+    ],
+    "text": "8.15 Performance of EPF and ETF ... \u2026 ... \u2026 266",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.83,
+      355.06,
+      524.66,
+      365.85
+    ],
+    "text": "8.16 Money Market Transactions ... \u2026 ... \u2026 267",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.84,
+      369.2,
+      524.66,
+      379.99
+    ],
+    "text": "8.17 Primary Market Treasury Bond Issuances ... \u2026 ... \u2026 269",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.84,
+      383.34,
+      524.67,
+      394.13
+    ],
+    "text": "8.18 Primary Market Weighted Average Yield Rates of Treasury Bills ... \u2026 ... \u2026 269",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.85,
+      397.48,
+      524.68,
+      408.27
+    ],
+    "text": "8.19 Yield Rates of Government Securities ... \u2026 ... \u2026 269",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.86,
+      411.62,
+      524.69,
+      422.41
+    ],
+    "text": "8.20 Selected Indicators of CSE ... \u2026 ... \u2026 271",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      56.87,
+      425.76,
+      524.7,
+      436.55
+    ],
+    "text": "8.21 Transactions through Payment Systems ... \u2026 ... \u2026 277",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      256.49,
+      52.08,
+      355.79,
+      66.48
+    ],
+    "text": "PART I \u2013 CHARTS",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.2,
+      76.97,
+      533.02,
+      87.76
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.69,
+      95.64,
+      410.75,
+      106.43
+    ],
+    "text": "1. ECONOMIC, PRICE AND FINANCIAL SYSTEM STABILITY, OUTLOOK AND POLICIES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.2,
+      114.79,
+      535.66,
+      256.35
+    ],
+    "text": "1.1 Activity-wise Contribution to GDP Growth \u2026 \u2026 \u2026 ... 3 1.2 Savings, Investment and the Savings-Investment Gap (as a percentage of GDP) \u2026 ... 41.3 Unemployment \u2026 \u2026 \u2026 ... 71.4 Headline Inflation (Year-on-Year) \u2026 \u2026 \u2026 ... 81.5 Balance of Payments \u2026 \u2026 \u2026 ... 91.6 Central Bank Intervention in the Domestic Foreign Exchange Market and the Exchange Rate ... 121.7 Revenue, Expenditure and Overall Fiscal Balance (as a percentage of GDP) \u2026 \u2026 ... 13 1.8 Central Government Debt (as a percentage of GDP) \u2026 \u2026 \u2026 ... 141.9 Standing Rate Corridor and Selected Market Interest Rates \u2026 \u2026 \u2026 \u2026 151.10 Broad Money Growth and Contribution \u2026 \u2026 ... ... 171.11 Credit granted by Commercial Banks to the Private Sector \u2026 \u2026 \u2026 \u2026 17",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.78,
+      266.76,
+      275.44,
+      277.55
+    ],
+    "text": "2. NATIONAL OUTPUT, EXPENDITURE AND INCOME",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.29,
+      285.87,
+      535.77,
+      401.32
+    ],
+    "text": "2.1 Annual Growth Rate \u2026 \u2026 \u2026 ... 47 2.2 Rice: Supply and Demand \u2026 \u2026 \u2026 ... 512.3 Gross Value Addition in Industries (2010 Constant Prices) \u2026 \u2026 \u2026 ... 642.4 Purchasing Managers\u2019 Index \u2026 \u2026 \u2026 ... 652.5 Factory Industry Production Index (2010 =100) \u2026 \u2026 \u2026 ... 672.6 Composition of Factory Industry Production Index (FIPI) - 2016 \u2026 \u2026 \u2026 ... 722.7 Year-on-Year Change in Major Divisions of FIPI \u2026 \u2026 \u2026 ... 732.8 Foreign Direct Investment of BOI Enterprises (US$ million) \u2026 \u2026 \u2026 ... 86 2.9 The Economy in 2016 (at Current Market Prices) \u2026 \u2026 \u2026 ... 88",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.86,
+      411.73,
+      252.88,
+      422.52
+    ],
+    "text": "3. ECONOMIC AND SOCIAL INFRASTRUCTURE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.37,
+      430.84,
+      535.85,
+      546.29
+    ],
+    "text": "3.1 Telephone Penetration \u2026 \u2026 \u2026 ... 943.2 Average Price of Crude Oil (Brent) in the International Market and the Crude Oil Import Price of the CPC \u2026 \u2026 \u2026 ... 973.3 Electricity Generation Mix \u2026 \u2026 \u2026 ... 1003.4 Average Cost and Average Tariff of Electricity \u2026 \u2026 ... ... 1013.5 New Registration of Motor Vehicles \u2026 \u2026 \u2026 ... 1063.6 Air Passenger and Air Cargo Handling \u2026 \u2026 \u2026 ... 1083.7 Container Handling, Transshipment Volume and Ship Arrivals \u2026 \u2026 \u2026 ... 1103.8 Government Expenditure on Health and Education \u2026 \u2026 \u2026 ... 115",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.93,
+      556.71,
+      285.61,
+      567.5
+    ],
+    "text": "4. PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      56.96,
+      576.51,
+      535.87,
+      634.97
+    ],
+    "text": "4.1 Movements of Inflation (NCPI (2013=100) and CCPI (2013=100)) ... ... \u2026 1264.2 Movements of Year-on-Year Core Inflation \u2026 \u2026 \u2026 ... 131 4.3 Trends in Labour Force & Unemployment (2012-2016) \u2026 \u2026 ... \u2026 136 5. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.47,
+      643.29,
+      535.91,
+      745.3
+    ],
+    "text": "5.1 Balance of Payments \u2026 \u2026 \u2026 \u2026 1465.2 Composition of Exports - 2016 \u2026 \u2026 \u2026 \u2026 1535.3 Composition of Imports - 2016 \u2026 \u2026 \u2026 \u2026 1605.4 Exports, Imports and Trade Balance \u2026 \u2026 \u2026 \u2026 162 5.5 Terms of Trade and Trade Indices \u2026 \u2026 \u2026 \u2026 1635.6 Exports by Destination \u2026 \u2026 \u2026 \u2026 1655.7 Imports by Origin \u2026 \u2026 \u2026 \u2026 1655.8 Tourist Arrivals by Country - 2016 \u2026 \u2026 \u2026 \u2026 167",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.69,
+      40.11,
+      524.51,
+      50.9
+    ],
+    "text": "Page",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.69,
+      66.18,
+      524.56,
+      129.1
+    ],
+    "text": "5.9 Tourist Arrivals and Earnings from Tourism \u2026 \u2026 \u2026 \u2026 1685.10 Financial Account \u2026 \u2026 \u2026 \u2026 1725.11 Quarterly Gross Official Reserves and Total Foreign Assets \u2026 \u2026 \u2026 \u2026 1805.12 External Debt \u2026 \u2026 \u2026 ... 1815.13 Exchange Rate Movements \u2026 \u2026 \u2026 ... 183",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.74,
+      132.45,
+      527.16,
+      143.24
+    ],
+    "text": "5.14 Quarterly Inter-Bank Forward Transaction Volumes \u2026 \u2026 \u2026 \u2026 185",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48.24,
+      149.41,
+      250.84,
+      160.2
+    ],
+    "text": "6. FISCAL POLICY AND GOVERNMENT FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.75,
+      166.38,
+      527.23,
+      294.46
+    ],
+    "text": "6.1 Major Fiscal Indicators (as a percentage of GDP) \u2026 \u2026 \u2026 \u2026 1926.2 Composition of Government Revenue \u2013 2016 \u2026 \u2026 \u2026 \u2026 2056.3 Composition of Government Recurrent Expenditure \u2013 2016 \u2026 \u2026 \u2026 \u2026 2096.4 Total Expenditure by Function \u2013 2016 \u2026 \u2026 \u2026 \u2026 2106.5 Deficit Financing (as a percentage of GDP) \u2026 \u2026 \u2026 \u2026 212 6.6 Sources of Bank Financing \u2026 \u2026 \u2026 \u2026 2136.7 Outstanding Central Government Debt \u2026 \u2026 \u2026 \u2026 2146.8 Composition of Outstanding Domestic Debt - 2016 \u2026 \u2026 \u2026 \u2026 215 6.9 Composition of Outstanding Foreign Debt - 2016 \u2026 \u2026 \u2026 \u2026 2156.10 Currency Composition of Total Outstanding Debt - 2016 \u2026 \u2026 \u2026 \u2026 216",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.84,
+      297.8,
+      524.67,
+      308.6
+    ],
+    "text": "6.11 Government Debt Service Payments (as a percentage of GDP) \u2026 \u2026 \u2026 \u2026 217",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48.34,
+      314.77,
+      307.3,
+      325.56
+    ],
+    "text": "7. MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.69,
+      331.73,
+      527.13,
+      525.14
+    ],
+    "text": "7.1 Policy Interest Rates and Average Weighted Call Money Rate (AWCMR) \u2026 \u2026 \u2026 2227.2 Rupee Liquidity in the Domestic Money Market and Liquidity Management \u2026 \u2026 \u2026 2267.3 Movements of Sri Lanka Interbank Offered Rates (SLIBOR) \u2026 \u2026 \u2026 \u2026 2277.4 Primary Market Treasury Bill Yields \u2026 \u2026 \u2026 2287.5 Secondary Market Yield Curve for Government Securities \u2026 \u2026 \u2026 2287.6 Selected Market Interest Rates \u2026 \u2026 \u2026 \u2026 2297.7 Average Weighted Lending Rates by Type of Security (%) \u2026 \u2026 \u2026 \u2026 2297.8 Spread Between Average Lending and Deposit Rates \u2026 \u2026 \u2026 2307.9 Currency in Circulation \u2026 \u2026 \u2026 \u2026 2327.10 Central Bank Treasury Bill Holdings and Provisional Advances to the Government \u2026 \u2026 2327.11 Year-on-Year Growth of Monetary Aggregates \u2026 \u2026 \u2026 \u2026 2337.12 Contribution to Year-on-Year Change in Broad Money - M2b (Assets Side) \u2026 \u2026 \u2026 2357.13 Annual Increase in Domestic Credit \u2026 \u2026 \u2026 \u2026 2367.14 Credit to the Private Sector by Commercial Banks \u2026 \u2026 \u2026 \u2026 2377.15 Year-on-Year Growth of Private Sector Credit to Key Sectors (%) \u2026 \u2026 \u2026 238",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      48.22,
+      531.31,
+      309.72,
+      542.11
+    ],
+    "text": "8. FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.72,
+      548.28,
+      527.16,
+      741.52
+    ],
+    "text": "8.1 Off-Balance Sheet Exposures of the Banking Sector (as at end 2016) \u2026 \u2026 \u2026 2468.2 NPLs of the Banking Sector ... ... \u2026 \u2026 2478.3 Provisioning for NPLs of the Banking Sector \u2026 \u2026 \u2026 \u2026 2478.4 Credit Exposure of the Banking Sector (as at end 2016) \u2026 \u2026 \u2026 \u2026 247 8.5 Liquidity Ratios of the Banking Sector \u2026 \u2026 \u2026 \u2026 2488.6 Cumulative Maturity Gap as a percentage of Cumulative Liabilities of the Banking Sector \u2026 \u2026 \u2026 \u2026 2488.7 Profitability Indicators of the Banking Sector \u2026 \u2026 \u2026 \u2026 2498.8 Capital Adequacy of the Banking Sector \u2026 \u2026 \u2026 \u2026 2498.9 Product wise Loans & Advances of the LFCs/SLCs Sector \u2026 \u2026 \u2026 \u2026 2558.10 Non-performing Loans and Provision Coverage of the LFCs/SLCs Sector \u2026 \u2026 \u2026 2558.11 Profitability Indicators of the LFCs/SLCs Sector \u2026 \u2026 \u2026 \u2026 2568.12 Categorisation of the UT Sector in terms of the Net Asset Value \u2026 \u2026 \u2026 \u2026 2628.13 Gross Written Premium of the Insurance Sector \u2026 \u2026 \u2026 \u2026 2638.14 ASPI, S&P SL20 Index & Daily Turnover at the CSE \u2026 \u2026 \u2026 \u2026 271",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      56.85,
+      744.56,
+      524.68,
+      755.35
+    ],
+    "text": "8.15 Foreign Participation at the CSE \u2026 \u2026 \u2026 \u2026 271",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      259.99,
+      50.98,
+      352.29,
+      65.38
+    ],
+    "text": "PART I - BOXES",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.2,
+      92.56,
+      533.03,
+      103.35
+    ],
+    "text": "1. Model Based Approach to Monetary Policy Analysis in Sri Lanka \u2026 \u2026 \u2026 24",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.21,
+      106.4,
+      533.03,
+      117.2
+    ],
+    "text": "2. Improving Sri Lanka\u2019s Competitiveness within Global Markets \u2026 \u2026 \u2026 \u2026 30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.21,
+      120.25,
+      533.04,
+      131.04
+    ],
+    "text": "3. Towards a Manufacturing Sector Development Strategy \u2026 \u2026 \u2026 \u2026 68",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.22,
+      134.09,
+      533.04,
+      144.88
+    ],
+    "text": "4. Business Intelligence and Big Data: A New Dimension of Central Bank Statistics ... ... 80",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.22,
+      147.93,
+      533.05,
+      158.72
+    ],
+    "text": "5. Evolution of Consumer Price Indices in Sri Lanka \u2026 \u2026 ... ... 127",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.23,
+      161.77,
+      533.05,
+      172.56
+    ],
+    "text": "6. Measuring Wage Trends in the Economy ... ... ... ... 132",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.23,
+      175.61,
+      533.06,
+      186.41
+    ],
+    "text": "7. National Strategy towards Export Promotion \u2026 \u2026 ... ... 155",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.24,
+      189.46,
+      358.61,
+      200.25
+    ],
+    "text": "8. Sri Lankan Experience in Foreign Exchange Transactions - Evolution of",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.24,
+      203.3,
+      533.06,
+      214.09
+    ],
+    "text": "Exchange Controls, Relaxations and Way Forward \u2026 \u2026 ... ... 186",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.24,
+      217.14,
+      533.07,
+      227.93
+    ],
+    "text": "9. Revenue Based Fiscal Consolidation towards Sustainable Level of Debt ... ... ... 201",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.25,
+      230.98,
+      533.08,
+      241.77
+    ],
+    "text": "10. Strengthening Capital Regulations to enhance the Resilience of Banks ... ... ... 250",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.26,
+      244.82,
+      533.09,
+      255.62
+    ],
+    "text": "11. Regulatory Framework under the Microfinance Act, No. 6 of 2016 \u2026 ... ... 258",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.27,
+      258.67,
+      533.1,
+      269.46
+    ],
+    "text": "12. Promoting Sustainable Finance for Sustainable Development \u2026 \u2026 ... ... 273",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.28,
+      272.51,
+      533.1,
+      283.3
+    ],
+    "text": "13. The Role of the Central Bank of Sri Lanka in the Regulation of Payment Systems ... ... 278",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.28,
+      286.35,
+      533.11,
+      297.14
+    ],
+    "text": "14. Sri Lanka\u2019s Compliance with International AML/CFT Standards \u2026 \u2026 ... ... 281",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      228.87,
+      314.91,
+      369.23,
+      329.31
+    ],
+    "text": "STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.2,
+      345.49,
+      540.23,
+      356.28
+    ],
+    "text": "Table",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.19,
+      360.75,
+      272.97,
+      371.54
+    ],
+    "text": "NATIONAL OUTPUT, EXPENDITURE AND INCOME",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.19,
+      380.26,
+      533.01,
+      391.05
+    ],
+    "text": "Gross National Income by Industrial Origin at Current Market Prices \u2026 \u2026 \u2026 1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.18,
+      394.11,
+      533.0,
+      404.9
+    ],
+    "text": "Gross National Income by Industrial Origin at Constant (2010) Prices \u2026 \u2026 \u2026 2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.17,
+      407.95,
+      535.59,
+      418.74
+    ],
+    "text": "Gross National Income by Industrial Origin \u2026 \u2026 \u2026 \u2026 3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.17,
+      421.79,
+      532.99,
+      432.58
+    ],
+    "text": "Provincial Gross Domestic Product by Industrial Origin at Current Market Prices (2011-2015) \u2026 4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.16,
+      435.63,
+      532.98,
+      446.42
+    ],
+    "text": "Resources and their Utilisation \u2026 \u2026 \u2026 \u2026 5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.15,
+      449.47,
+      532.97,
+      460.26
+    ],
+    "text": "Reconciliation of Key Aggregates at Current Market Prices \u2026 \u2026 \u2026 \u2026 6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.14,
+      463.32,
+      532.96,
+      474.11
+    ],
+    "text": "Gross Domestic Capital Formation at Current Market Prices \u2026 \u2026 \u2026 \u2026 7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.13,
+      477.16,
+      532.95,
+      487.95
+    ],
+    "text": "Composition of Private Consumption Expenditure at Current Market Prices \u2026 \u2026 \u2026 8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.13,
+      491.0,
+      532.95,
+      501.79
+    ],
+    "text": "Expenditure on Gross National Income at Current Market Prices \u2026 \u2026 \u2026 \u2026 9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      504.84,
+      532.94,
+      515.63
+    ],
+    "text": "Gross Domestic Expenditure and Availability of Resources at Current Market Prices \u2026 \u2026 10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      518.68,
+      532.94,
+      529.47
+    ],
+    "text": "Investment and Savings at Current Market Prices \u2026 \u2026 \u2026 \u2026 11",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      532.53,
+      532.94,
+      543.32
+    ],
+    "text": "Real National Income \u2026 \u2026 \u2026 \u2026 12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      546.37,
+      532.94,
+      557.16
+    ],
+    "text": "Income Components of Gross Domestic Product \u2026 \u2026 \u2026 \u2026 13",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      560.21,
+      532.94,
+      571.0
+    ],
+    "text": "Trends in Principal Agricultural Crops \u2026 \u2026 \u2026 \u2026 14",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      574.05,
+      532.94,
+      584.84
+    ],
+    "text": "Production of Tea, Rubber, Coconut and Other Export Agriculture Crops \u2026 \u2026 \u2026 15",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      587.89,
+      532.94,
+      598.68
+    ],
+    "text": "Annual Rainfall and Rainy Days \u2026 \u2026 \u2026 \u2026 16",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      601.74,
+      532.94,
+      612.53
+    ],
+    "text": "District-wise Performance of the Paddy Sector \u2026 \u2026 \u2026 \u2026 17",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      615.58,
+      532.94,
+      626.37
+    ],
+    "text": "Paddy Production \u2026 \u2026 \u2026 \u2026 18",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      629.42,
+      532.94,
+      640.21
+    ],
+    "text": "Performance of Other Field Crops \u2026 \u2026 \u2026 \u2026 19",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      643.26,
+      532.94,
+      654.05
+    ],
+    "text": "Land Cultivated under the Mahaweli Development Programme \u2026 \u2026 \u2026 \u2026 20",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      657.1,
+      532.94,
+      667.89
+    ],
+    "text": "Statistics of the Sugar Sector \u2026 \u2026 \u2026 \u2026 21",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      670.95,
+      532.94,
+      681.74
+    ],
+    "text": "Statistics on the Forestry Sector \u2026 \u2026 \u2026 \u2026 22",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      684.79,
+      532.94,
+      695.58
+    ],
+    "text": "Investment Approvals in Industry by the Board of Investment (BOI) of Sri Lanka \u2026 \u2026 \u2026 23",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      698.63,
+      532.94,
+      709.42
+    ],
+    "text": "Realised Investments in the BOI Enterprises \u2026 \u2026 \u2026 \u2026 24",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      65.12,
+      712.47,
+      532.94,
+      723.26
+    ],
+    "text": "Foreign Direct Investment of BOI Enterprises by Sector \u2026 \u2026 \u2026 \u2026 25",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      40.69,
+      524.99,
+      51.48
+    ],
+    "text": "Table",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      68.36,
+      524.99,
+      79.15
+    ],
+    "text": "Capacity Utilisation in Factory Industry \u2026 \u2026 \u2026 \u2026 26",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      82.19,
+      524.99,
+      92.98
+    ],
+    "text": "Employment in Selected State Owned Industrial Enterprises \u2026 \u2026 \u2026 \u2026 27",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      95.73,
+      524.99,
+      106.52
+    ],
+    "text": "Performance of Selected State Owned Industrial Enterprises \u2026 \u2026 \u2026 \u2026 28",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      109.26,
+      524.99,
+      120.05
+    ],
+    "text": "Regional Distribution of Industrial Enterprises \u2026 \u2026 \u2026 \u2026 29",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      122.8,
+      524.99,
+      133.59
+    ],
+    "text": "Major Divisions of Factory Industry Production Index (FIPI) \u2026 \u2026 \u2026 \u2026 30",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      136.33,
+      524.99,
+      147.12
+    ],
+    "text": "Factory Industry Production Index (FIPI) \u2026 \u2026 \u2026 \u2026 31",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      163.41,
+      244.91,
+      174.2
+    ],
+    "text": "ECONOMIC AND SOCIAL INFRASTRUCTURE",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      176.94,
+      524.99,
+      187.73
+    ],
+    "text": "Performance of Telecommunications and Postal Services \u2026 \u2026 \u2026 \u2026 32",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      190.48,
+      524.99,
+      201.27
+    ],
+    "text": "Performance of the Energy Sector \u2026 \u2026 \u2026 \u2026 33",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      204.01,
+      524.99,
+      214.8
+    ],
+    "text": "Salient Features of the Transport Sector \u2026 \u2026 \u2026 \u2026 34",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      217.55,
+      524.99,
+      228.34
+    ],
+    "text": "Performance of the Port Services \u2026 \u2026 \u2026 \u2026 35",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      231.09,
+      524.99,
+      241.88
+    ],
+    "text": "Salient Features of Government Health Services \u2026 \u2026 \u2026 \u2026 36",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      244.62,
+      524.99,
+      255.41
+    ],
+    "text": "Salient Features of General and University Education \u2026 \u2026 \u2026 \u2026 37",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      258.16,
+      274.97,
+      279.65
+    ],
+    "text": "PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      288.06,
+      524.99,
+      298.86
+    ],
+    "text": "Movement of the National Consumer Price Index (2013=100) \u2026 \u2026 \u2026 \u2026 38",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      301.6,
+      524.99,
+      312.39
+    ],
+    "text": "Movement of the Colombo Consumer Price Index (2013=100) \u2026 \u2026 \u2026 \u2026 39",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      315.14,
+      524.99,
+      325.93
+    ],
+    "text": "Movement of the Colombo Consumer Price Index (2006/07=100) \u2026 \u2026 \u2026 \u2026 40",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      328.67,
+      530.17,
+      339.46
+    ],
+    "text": "National Consumer Price Index (2013=100) \u2026 \u2026 \u2026 \u2026 41",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      342.21,
+      527.58,
+      353.0
+    ],
+    "text": "Colombo Consumer Price Index (2013=100) \u2026 \u2026 \u2026 \u2026 42",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      355.74,
+      524.99,
+      366.54
+    ],
+    "text": "Colombo Consumer Price Index (2006/07=100) \u2026 \u2026 \u2026 \u2026 43",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      369.28,
+      524.99,
+      380.07
+    ],
+    "text": "Producer\u2019s Price Index \u2026 \u2026 \u2026 \u2026 44",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      382.82,
+      524.99,
+      393.61
+    ],
+    "text": "Average Retail Prices of Selected Food Items by Province 2015-2016 \u2026 \u2026 \u2026 45",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      396.35,
+      527.58,
+      407.14
+    ],
+    "text": "Wholesale Prices of Selected Commodities \u2026 \u2026 \u2026 \u2026 46",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      409.89,
+      524.99,
+      420.68
+    ],
+    "text": "Wage Rate Indices (Government Employees) \u2026 \u2026 \u2026 \u2026 47",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      423.42,
+      524.99,
+      434.22
+    ],
+    "text": "Wage Rate Indices (Workers in Wages Boards Trades) \u2026 \u2026 \u2026 \u2026 48",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      436.96,
+      524.99,
+      447.75
+    ],
+    "text": "Wage Rate Indices (Informal Private Sector Employees) \u2026 \u2026 \u2026 \u2026 49",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      450.5,
+      527.58,
+      461.29
+    ],
+    "text": "Average Daily Wages in the Informal Sector \u2026 \u2026 \u2026 \u2026 50",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      464.03,
+      524.99,
+      474.82
+    ],
+    "text": "Average Daily Wages of Informal Sector by Province 2015-2016 \u2026 \u2026 \u2026 \u2026 51",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      477.57,
+      524.99,
+      488.36
+    ],
+    "text": "Demography \u2026 \u2026 \u2026 \u2026 52",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      491.1,
+      527.58,
+      501.9
+    ],
+    "text": "Population by District \u2026 \u2026 \u2026 \u2026 53",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      504.64,
+      527.58,
+      515.43
+    ],
+    "text": "Labour Force Participation Rate \u2026 \u2026 \u2026 \u2026 54",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      518.18,
+      524.99,
+      528.97
+    ],
+    "text": "Status of Employment \u2026 \u2026 \u2026 \u2026 55",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      531.71,
+      524.99,
+      542.5
+    ],
+    "text": "Employment by Economic Activity \u2026 \u2026 \u2026 \u2026 56",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      545.25,
+      524.99,
+      556.04
+    ],
+    "text": "Labour Force Trends \u2026 \u2026 \u2026 \u2026 57",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      558.78,
+      524.99,
+      569.58
+    ],
+    "text": "Public Sector Employment \u2026 \u2026 \u2026 \u2026 58",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      572.32,
+      524.99,
+      583.11
+    ],
+    "text": "Foreign Employment \u2026 \u2026 \u2026 \u2026 59",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      585.86,
+      527.58,
+      596.65
+    ],
+    "text": "Employees\u2019 Provident Fund \u2026 \u2026 \u2026 \u2026 60",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      599.39,
+      524.99,
+      610.18
+    ],
+    "text": "Employees\u2019 Trust Fund \u2026 \u2026 \u2026 \u2026 61",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      612.93,
+      524.99,
+      623.72
+    ],
+    "text": "Strikes in Private Sector Industries \u2026 \u2026 \u2026 \u2026 62",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      634.97,
+      269.3,
+      645.76
+    ],
+    "text": "EXTERNAL SECTOR DEVELOPMENTS AND POLICIES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      654.18,
+      524.99,
+      664.97
+    ],
+    "text": "Central Bank Trade Indices \u2013 Value \u2026 \u2026 \u2026 \u2026 63",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      667.71,
+      527.58,
+      678.5
+    ],
+    "text": "Central Bank Trade Indices \u2013 Volume \u2026 \u2026 \u2026 \u2026 64",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      681.25,
+      524.99,
+      692.04
+    ],
+    "text": "Central Bank Trade Indices \u2013 Unit Value \u2026 \u2026 \u2026 \u2026 65",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      694.78,
+      524.99,
+      705.57
+    ],
+    "text": "Foreign Trade \u2026 \u2026 \u2026 \u2026 66",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      708.32,
+      524.99,
+      719.11
+    ],
+    "text": "Composition of Exports \u2026 \u2026 \u2026 \u2026 67",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      721.86,
+      524.99,
+      732.65
+    ],
+    "text": "Tea Exports, Sales and Prices \u2026 \u2026 \u2026 \u2026 68",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      57.17,
+      735.39,
+      527.58,
+      746.18
+    ],
+    "text": "Volume and Value of Tea Exports \u2026 \u2026 \u2026 \u2026 69",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      44.69,
+      533.02,
+      55.48
+    ],
+    "text": "Table",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      72.07,
+      533.02,
+      82.86
+    ],
+    "text": "Country Classification of Tea Exports \u2026 \u2026 \u2026 \u2026 70",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      85.76,
+      533.02,
+      96.55
+    ],
+    "text": "Rubber Exports and Prices \u2026 \u2026 \u2026 \u2026 71",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      99.45,
+      533.02,
+      110.24
+    ],
+    "text": "Major Rubber Export Destinations \u2026 \u2026 \u2026 \u2026 72",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      113.44,
+      535.61,
+      124.23
+    ],
+    "text": "Country Classification of Garment Exports \u2026 \u2026 \u2026 \u2026 73",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      127.13,
+      533.02,
+      137.92
+    ],
+    "text": "Export Volume, Values and Prices of Major Coconut Products \u2026 \u2026 \u2026 \u2026 74",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      140.82,
+      535.61,
+      151.61
+    ],
+    "text": "Export Volume and Values of Other Agricultural Products \u2026 \u2026 \u2026 \u2026 75",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      154.51,
+      533.02,
+      165.3
+    ],
+    "text": "Selected Industrial and Mineral Exports \u2026 \u2026 \u2026 \u2026 76",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      168.2,
+      535.61,
+      178.99
+    ],
+    "text": "Imports by Major Categories \u2026 \u2026 \u2026 \u2026 77",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      181.89,
+      533.02,
+      192.68
+    ],
+    "text": "Composition of Imports \u2026 \u2026 \u2026 \u2026 78",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      195.58,
+      533.02,
+      206.37
+    ],
+    "text": "Exports and Imports of Major Commodities \u2026 \u2026 \u2026 \u2026 79",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      209.26,
+      533.02,
+      220.06
+    ],
+    "text": "Direction of Trade - Exports \u2026 \u2026 \u2026 \u2026 80",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      222.95,
+      535.61,
+      233.74
+    ],
+    "text": "Direction of Trade - Imports ... ... ... ... 81",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      236.64,
+      533.02,
+      247.43
+    ],
+    "text": "Performance in the Tourism Sector \u2026 \u2026 \u2026 \u2026 82",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      250.33,
+      533.02,
+      261.12
+    ],
+    "text": "Some Indicators of the Regional Distribution of Tourism \u2026 \u2026 \u2026 \u2026 83",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      264.02,
+      533.02,
+      274.81
+    ],
+    "text": "Balance of Payments - Standard Presentation under BPM6 Format \u2026 \u2026 \u2026 \u2026 84",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      277.71,
+      533.02,
+      288.5
+    ],
+    "text": "International Investment Position - Standard Presentation under BPM6 Format \u2026 \u2026 \u2026 85",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      291.4,
+      533.02,
+      302.19
+    ],
+    "text": "Services and Income \u2026 \u2026 \u2026 \u2026 86",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      305.09,
+      533.02,
+      315.88
+    ],
+    "text": "Workers\u2019 Remittances \u2026 \u2026 \u2026 \u2026 87",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.2,
+      318.78,
+      533.03,
+      329.57
+    ],
+    "text": "Outstanding External Debt ... \u2026 \u2026 \u2026 88",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      332.47,
+      533.03,
+      343.26
+    ],
+    "text": "End of Period Exchange Rates \u2026 \u2026 \u2026 \u2026 89",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      346.15,
+      441.62,
+      356.95
+    ],
+    "text": "Average Exchange Rates of Major Currencies and Monthly Indices of Nominal Effective",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      359.84,
+      533.03,
+      370.63
+    ],
+    "text": "Exchange Rate (NEER) and Real Effective Exchange Rate (REER) \u2026 ... \u2026 90",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      373.53,
+      533.03,
+      384.32
+    ],
+    "text": "Interbank Forward Market Transactions \u2026 \u2026 \u2026 \u2026 91",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      387.22,
+      533.03,
+      398.01
+    ],
+    "text": "Absorption and Supply of Foreign Exchange by the Central Bank \u2026 \u2026 \u2026 \u2026 92",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      408.93,
+      256.93,
+      419.72
+    ],
+    "text": "FISCAL POLICY AND GOVERNMENT FINANCE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      425.45,
+      535.62,
+      436.24
+    ],
+    "text": "Summary of Government Fiscal Operations \u2026 \u2026 \u2026 \u2026 93",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      439.14,
+      535.62,
+      449.93
+    ],
+    "text": "Government Revenue \u2026 \u2026 \u2026 \u2026 94",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      452.83,
+      535.62,
+      463.62
+    ],
+    "text": "Payments of the Government of Sri Lanka \u2026 \u2026 \u2026 \u2026 95",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      466.52,
+      533.03,
+      477.31
+    ],
+    "text": "Voted Expenditure of the Government of Sri Lanka \u2013 2016 \u2026 \u2026 \u2026 \u2026 96",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      480.21,
+      533.03,
+      491.0
+    ],
+    "text": "Voted Expenditure of the Government of Sri Lanka \u2013 2017 \u2026 \u2026 \u2026 \u2026 97",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      493.9,
+      533.03,
+      504.69
+    ],
+    "text": "Current Transfers to Public Corporations and Institutions \u2026 \u2026 \u2026 \u2026 98",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      507.59,
+      533.03,
+      518.38
+    ],
+    "text": "Capital Transfers to Public Corporations and Institutions \u2026 \u2026 \u2026 \u2026 99",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      521.28,
+      533.03,
+      532.07
+    ],
+    "text": "Acquisition of Financial Assets (Loan Outlays) \u2026 \u2026 \u2026 \u2026 100",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      534.97,
+      535.62,
+      545.76
+    ],
+    "text": "Financing of the Government Net Cash Deficit \u2026 \u2026 \u2026 \u2026 101",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      548.65,
+      533.03,
+      559.45
+    ],
+    "text": "Economic Classification of Government Revenue \u2026 \u2026 \u2026 \u2026 102",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      562.34,
+      533.03,
+      573.13
+    ],
+    "text": "Economic Classification of Government Expenditure and Lending Minus Repayments \u2026 \u2026 103",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      576.03,
+      535.62,
+      586.82
+    ],
+    "text": "Economic Classification of Government Fiscal Operations \u2026 \u2026 \u2026 \u2026 104",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      589.72,
+      533.03,
+      600.51
+    ],
+    "text": "Composition of Outstanding Government Debt \u2026 \u2026 \u2026 \u2026 105",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      603.41,
+      533.03,
+      614.2
+    ],
+    "text": "Ownership of Government Debt (as at end of the year) \u2026 \u2026 \u2026 \u2026 106",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      617.1,
+      533.03,
+      627.89
+    ],
+    "text": "Ownership of Treasury Bills \u2026 \u2026 \u2026 \u2026 107",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      630.79,
+      535.62,
+      641.58
+    ],
+    "text": "Ownership of Treasury Bonds \u2026 \u2026 \u2026 \u2026 108",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      644.48,
+      533.03,
+      655.27
+    ],
+    "text": "Ownership of Rupee Loans \u2026 \u2026 \u2026 \u2026 109",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      658.17,
+      533.03,
+      668.96
+    ],
+    "text": "Ownership of Outstanding Foreign Debt \u2026 \u2026 \u2026 \u2026 110",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      671.86,
+      533.03,
+      682.65
+    ],
+    "text": "Foreign Loans \u2013 2016 \u2026 \u2026 \u2026 ... 111",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      685.54,
+      533.03,
+      696.34
+    ],
+    "text": "Net Receipts of Foreign Assistance \u2026 \u2026 \u2026 \u2026 112",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      699.23,
+      533.03,
+      710.02
+    ],
+    "text": "Outstanding Central Government Debt (as at end of the year) \u2026 \u2026 \u2026 \u2026 113",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      712.92,
+      533.03,
+      723.71
+    ],
+    "text": "Budget Outturn for Provincial Councils \u2026 \u2026 \u2026 \u2026 114",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      65.21,
+      726.61,
+      533.03,
+      737.4
+    ],
+    "text": "Consolidated Budget \u2026 \u2026 \u2026 \u2026 115",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      44.69,
+      524.99,
+      55.48
+    ],
+    "text": "Table",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      65.23,
+      305.25,
+      76.02
+    ],
+    "text": "MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      84.73,
+      524.99,
+      95.52
+    ],
+    "text": "Currency Issued by the Central Bank (by Denomination) \u2026 \u2026 \u2026 \u2026 116",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      98.56,
+      524.98,
+      111.47
+    ],
+    "text": "Monetary Aggregates \u2013 M1 and M2 \u2026 \u2026 \u2026 \u2026 117",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.16,
+      112.4,
+      524.99,
+      125.3
+    ],
+    "text": "Monetary Survey \u2013 M2 \u2026 \u2026 \u2026 \u2026 118",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      126.23,
+      524.99,
+      139.14
+    ],
+    "text": "Consolidated Monetary Survey \u2013 M2b \u2026 \u2026 \u2026 \u2026 119",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      140.07,
+      524.99,
+      152.97
+    ],
+    "text": "Financial Survey \u2013 M4 \u2026 \u2026 \u2026 \u2026 120",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      153.9,
+      524.99,
+      164.69
+    ],
+    "text": "Monetary Aggregates - Summary \u2026 \u2026 \u2026 \u2026 121",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      167.73,
+      524.99,
+      178.52
+    ],
+    "text": "Reserve Position of Commercial Banks \u2026 \u2026 \u2026 \u2026 122",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      181.57,
+      524.99,
+      192.36
+    ],
+    "text": "Money Rates: The Central Bank and Commercial Banks \u2026 \u2026 \u2026 \u2026 123",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      195.4,
+      524.99,
+      206.19
+    ],
+    "text": "Money Rates: Savings and Long Term Credit Institutions \u2026 \u2026 \u2026 \u2026 124",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      209.23,
+      524.99,
+      220.02
+    ],
+    "text": "Yield Rates on Government Securities \u2026 \u2026 \u2026 \u2026 125",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      223.07,
+      524.99,
+      233.86
+    ],
+    "text": "Commercial Banks\u2019 Loans and Advances by Type of Security (End of Period) \u2026 \u2026 \u2026 126",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      236.9,
+      524.99,
+      247.69
+    ],
+    "text": "Commercial Banks\u2019 Loans and Advances to the Private Sector \u2026 \u2026 \u2026 \u2026 127",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      258.89,
+      307.8,
+      269.69
+    ],
+    "text": "FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      275.56,
+      524.99,
+      286.35
+    ],
+    "text": "Assets and Liabilities of the Central Bank \u2026 \u2026 \u2026 \u2026 128",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      289.4,
+      524.99,
+      300.19
+    ],
+    "text": "Assets and Liabilities of Domestic Banking Units (DBUs) of Commercial Banks \u2026 \u2026 \u2026 129",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      303.23,
+      524.99,
+      314.02
+    ],
+    "text": "Assets and Liabilities of Offshore Banking Units (OBUs) of Commercial Banks \u2026 \u2026 \u2026 130",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      317.06,
+      524.99,
+      327.85
+    ],
+    "text": "Financial Soundness Indicators - Banking Industry \u2026 \u2026 \u2026 \u2026 131",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      330.89,
+      524.99,
+      341.69
+    ],
+    "text": "Financial Soundness Indicators - Licensed Commercial Banks (LCBs) \u2026 \u2026 \u2026 132",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      344.73,
+      524.99,
+      355.52
+    ],
+    "text": "Financial Soundness Indicators - Licensed Specialised Banks (LSBs) \u2026 \u2026 \u2026 133",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      358.56,
+      524.99,
+      369.35
+    ],
+    "text": "Assets and Liabilities of Non-Bank Financial Institutions \u2026 \u2026 \u2026 \u2026 134",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      372.39,
+      524.99,
+      383.18
+    ],
+    "text": "Financial Soundness Indicators - LFCs and SLCs Sector \u2026 \u2026 \u2026 \u2026 135",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      386.23,
+      524.99,
+      397.02
+    ],
+    "text": "Financial Soundness Indicators - Licensed Finance Companies \u2026 \u2026 \u2026 \u2026 136",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      400.06,
+      524.99,
+      410.85
+    ],
+    "text": "Financial Soundness Indicators - Specialised Leasing Companies \u2026 \u2026 \u2026 \u2026 137",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      413.89,
+      524.99,
+      424.68
+    ],
+    "text": "Savings and Fixed Deposits of Deposit-taking Institutions \u2026 \u2026 \u2026 \u2026 138",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      427.73,
+      524.99,
+      438.52
+    ],
+    "text": "Insurance Activities \u2026 \u2026 \u2026 \u2026 139",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      441.56,
+      524.99,
+      452.35
+    ],
+    "text": "Share Market Performance \u2026 \u2026 \u2026 \u2026 140",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      455.39,
+      524.99,
+      466.18
+    ],
+    "text": "Debentures Listed on Colombo Stock Exchange (CSE) in 2016 \u2026 \u2026 \u2026 \u2026 141",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      469.22,
+      524.99,
+      480.02
+    ],
+    "text": "Total Cultivation Loans Granted by the Lending Banks (Position as at 31 December 2016) \u2026 \u2026 142",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      483.06,
+      406.15,
+      493.85
+    ],
+    "text": "New Comprehensive Rural Credit Scheme \u2013 Loans Granted for Subsidiary Food Crops by",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      496.89,
+      524.99,
+      507.68
+    ],
+    "text": "the Lending Banks (Position as at 31 December 2016) \u2026 \u2026 \u2026 \u2026 143",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      510.72,
+      303.03,
+      521.51
+    ],
+    "text": "Operations of the Crop Insurance Programme \u2013 Paddy Sector",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.17,
+      524.56,
+      525.0,
+      535.35
+    ],
+    "text": "(Position as at 31 December 2016) \u2026 \u2026 \u2026 \u2026 144",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.18,
+      538.39,
+      370.97,
+      549.18
+    ],
+    "text": "Deposits and Advances of District Co-operative Rural Banks (2006 \u2013 2016) and",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.18,
+      552.22,
+      525.01,
+      563.01
+    ],
+    "text": "District-wise Classification for 2016 \u2026 \u2026 \u2026 ... 145",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.19,
+      566.06,
+      402.3,
+      576.85
+    ],
+    "text": "Deposits and Advances of District Co-operative Rural Banks\u2019 Unions (2008 \u2013 2016) and",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.19,
+      579.89,
+      525.02,
+      590.68
+    ],
+    "text": "District-wise Classification for 2016 \u2026 \u2026 \u2026 \u2026 146",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      57.2,
+      593.72,
+      393.83,
+      614.29
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      140.55,
+      481.87,
+      471.73,
+      496.27
+    ],
+    "text": "Definitions and Explanatory Notes on Statistical Tables",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.23,
+      513.79,
+      452.21,
+      525.78
+    ],
+    "text": "The following general notes supplement the footnotes given below the individual tables:",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      531.79,
+      508.63,
+      543.78
+    ],
+    "text": "1. In an attempt to bring the material up-to-date, provisional figures are included in some tables.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      549.79,
+      505.7,
+      561.78
+    ],
+    "text": "2. Figures in some tables have been rounded off to the nearest final digit. Hence, there may be",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      567.79,
+      446.74,
+      579.78
+    ],
+    "text": "a slight discrepancy between the total as shown and the sum of its components.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      585.79,
+      493.32,
+      597.78
+    ],
+    "text": "3. Differences as compared with previously published figures are due to subsequent revisions.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      603.79,
+      346.84,
+      615.78
+    ],
+    "text": "4. Values indicated within parenthesis are negative values.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      99.57,
+      621.79,
+      331.71,
+      633.78
+    ],
+    "text": "5. The following symbols have been used throughout:-",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      648.29,
+      225.38,
+      660.28
+    ],
+    "text": "... = negligible",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      664.29,
+      194.61,
+      676.28
+    ],
+    "text": "- = nil",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      680.29,
+      238.73,
+      692.28
+    ],
+    "text": "n.a. = not available",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      696.29,
+      282.15,
+      708.28
+    ],
+    "text": "n.e.c. = not elsewhere classified",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      712.29,
+      281.01,
+      724.28
+    ],
+    "text": "n.e.s. = not elsewhere specified",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      88.56,
+      728.29,
+      280.1,
+      740.28
+    ],
+    "text": "n.i.e. = not included elsewhere",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      202.86,
+      50.45,
+      395.24,
+      64.85
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      75.34,
+      540.23,
+      86.13
+    ],
+    "text": "Table",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.19,
+      93.34,
+      124.5,
+      104.13
+    ],
+    "text": "1. Real Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.19,
+      112.85,
+      533.01,
+      123.64
+    ],
+    "text": "Population and Labour Force \u2026 \u2026 \u2026 ... 1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.18,
+      126.68,
+      533.02,
+      137.47
+    ],
+    "text": "National Output \u2026 \u2026 \u2026 ... 2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.19,
+      140.51,
+      533.03,
+      151.3
+    ],
+    "text": "Prices \u2026 \u2026 \u2026 ... 3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      160.51,
+      136.94,
+      171.3
+    ],
+    "text": "2. External Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      177.18,
+      533.03,
+      187.97
+    ],
+    "text": "Balance of Payments \u2026 \u2026 \u2026 ... 4",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      191.01,
+      533.03,
+      201.8
+    ],
+    "text": "Reserves, Total Foreign Assets, External Debt and Exchange Rates \u2026 \u2026 ... 5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.21,
+      213.01,
+      129.47,
+      223.8
+    ],
+    "text": "3. Fiscal Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.21,
+      232.51,
+      533.04,
+      243.3
+    ],
+    "text": "Government Fiscal Operations \u2026 \u2026 \u2026 ... 6",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.21,
+      246.34,
+      533.05,
+      257.13
+    ],
+    "text": "Government Debt \u2026 \u2026 \u2026 ... 7",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.22,
+      268.34,
+      145.76,
+      279.13
+    ],
+    "text": "4. Monetary Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.22,
+      287.84,
+      533.03,
+      300.77
+    ],
+    "text": "Monetary Survey (M2) \u2026 \u2026 \u2026 ... 8",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.247000217437744,
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      301.7,
+      533.03,
+      312.49
+    ],
+    "text": "Interest Rates \u2026 \u2026 \u2026 ... 9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.21,
+      318.7,
+      187.84,
+      329.49
+    ],
+    "text": "5. Socio-economic Conditions",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.21,
+      338.2,
+      292.44,
+      348.99
+    ],
+    "text": "Key Socio-economic Indicators in Sri Lanka Based on",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      352.03,
+      535.61,
+      362.82
+    ],
+    "text": "Consumer Finances and Socio-economic Surveys -1953 - 2003/04 ... ... ... 10",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      365.87,
+      291.47,
+      376.66
+    ],
+    "text": "Key Socio-economic Indicators by Province Based on",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      379.7,
+      533.02,
+      390.49
+    ],
+    "text": "Consumer Finances and Socio-economic Survey - 2003/04 ... ... ... 11",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      393.53,
+      291.47,
+      404.32
+    ],
+    "text": "Key Socio-economic Indicators by Province Based on",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      407.37,
+      533.02,
+      418.16
+    ],
+    "text": "Household Income and Expenditure Survey - 2012/13 \u2026 ... ... ... 12",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      421.2,
+      245.56,
+      431.99
+    ],
+    "text": "Key Socio-economic Indicators by Sector",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      435.03,
+      305.62,
+      445.82
+    ],
+    "text": "Based on Household Income and Expenditure Survey",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      65.2,
+      448.86,
+      533.02,
+      459.66
+    ],
+    "text": "2006/07, 2009/10 & 2012/13 \u2026 ... ... ... 13",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.0
+    ]
+  }
+]

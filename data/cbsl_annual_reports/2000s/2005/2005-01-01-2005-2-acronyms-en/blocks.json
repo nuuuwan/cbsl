@@ -1,0 +1,8089 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      231.3,
+      58.2,
+      321.9,
+      76.07
+    ],
+    "text": "List of Acronyms",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      11.0,
+      12.0,
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      100.66,
+      61.86,
+      112.34
+    ],
+    "text": "ACU",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      115.42,
+      56.42,
+      127.79
+    ],
+    "text": "AD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      130.54,
+      62.42,
+      142.91
+    ],
+    "text": "ADB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      146.92,
+      59.48,
+      157.91
+    ],
+    "text": "AFP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      160.78,
+      61.42,
+      173.15
+    ],
+    "text": "ALR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      176.44,
+      69.25,
+      188.12
+    ],
+    "text": "APCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      192.64,
+      68.75,
+      202.94
+    ],
+    "text": "APSES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      206.68,
+      63.11,
+      218.36
+    ],
+    "text": "ASPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      221.08,
+      62.74,
+      233.45
+    ],
+    "text": "ATM",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      236.74,
+      69.89,
+      248.42
+    ],
+    "text": "AWDR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      251.32,
+      69.74,
+      263.69
+    ],
+    "text": "AWLR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      266.62,
+      69.24,
+      278.3
+    ],
+    "text": "AWPR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      282.28,
+      60.37,
+      293.27
+    ],
+    "text": "BCP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      296.14,
+      58.43,
+      308.51
+    ],
+    "text": "BIA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      311.62,
+      84.35,
+      323.3
+    ],
+    "text": "BIMST-EC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      339.16,
+      56.64,
+      350.15
+    ],
+    "text": "BIS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      354.28,
+      61.08,
+      365.27
+    ],
+    "text": "BOC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      368.86,
+      58.39,
+      380.54
+    ],
+    "text": "BOI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      384.34,
+      60.64,
+      395.33
+    ],
+    "text": "BOP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.92,
+      399.46,
+      60.82,
+      410.45
+    ],
+    "text": "BPO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      415.12,
+      55.65,
+      425.42
+    ],
+    "text": "bps",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      428.44,
+      76.74,
+      440.81
+    ],
+    "text": "BRAWA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      444.64,
+      60.19,
+      455.63
+    ],
+    "text": "BRP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      459.76,
+      80.9,
+      470.75
+    ],
+    "text": "CALPERS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      486.22,
+      61.5,
+      497.9
+    ],
+    "text": "CAR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      501.52,
+      60.9,
+      512.51
+    ],
+    "text": "CBO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      516.64,
+      60.45,
+      527.63
+    ],
+    "text": "CCB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      531.4,
+      62.67,
+      542.39
+    ],
+    "text": "CCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      545.98,
+      61.5,
+      557.66
+    ],
+    "text": "CDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      561.46,
+      68.45,
+      572.45
+    ],
+    "text": "CDCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      575.86,
+      68.76,
+      587.54
+    ],
+    "text": "CDMA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      591.52,
+      60.19,
+      602.51
+    ],
+    "text": "CEA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      606.46,
+      60.19,
+      617.45
+    ],
+    "text": "CEB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      621.4,
+      65.52,
+      632.39
+    ],
+    "text": "CEPA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      648.04,
+      57.43,
+      659.72
+    ],
+    "text": "CIT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      664.06,
+      54.16,
+      674.36
+    ],
+    "text": "CP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      679.18,
+      54.16,
+      689.48
+    ],
+    "text": "CP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.56,
+      693.94,
+      59.39,
+      704.24
+    ],
+    "text": "CPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      43.74,
+      708.52,
+      59.74,
+      719.51
+    ],
+    "text": "CPF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.38,
+      102.1,
+      299.72,
+      113.09
+    ],
+    "text": "CPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.38,
+      117.22,
+      303.27,
+      128.21
+    ],
+    "text": "CRB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.38,
+      131.98,
+      306.69,
+      143.66
+    ],
+    "text": "CRIB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      147.64,
+      302.65,
+      158.63
+    ],
+    "text": "CSE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      162.04,
+      300.37,
+      173.72
+    ],
+    "text": "CSI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      177.7,
+      302.64,
+      188.69
+    ],
+    "text": "CTC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      192.28,
+      298.01,
+      203.96
+    ],
+    "text": "CV",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      207.94,
+      316.42,
+      218.93
+    ],
+    "text": "CWDCS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      221.8,
+      311.02,
+      234.17
+    ],
+    "text": "DAPH",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      237.82,
+      297.75,
+      248.81
+    ],
+    "text": "DC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      252.76,
+      302.91,
+      263.75
+    ],
+    "text": "DCS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      267.16,
+      303.68,
+      278.84
+    ],
+    "text": "DEA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      282.64,
+      308.24,
+      293.63
+    ],
+    "text": "DFCC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      296.68,
+      305.52,
+      309.05
+    ],
+    "text": "DOA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      312.7,
+      303.36,
+      323.69
+    ],
+    "text": "DOP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      327.64,
+      302.91,
+      338.63
+    ],
+    "text": "DRS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      342.22,
+      308.21,
+      353.9
+    ],
+    "text": "DTET",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      369.22,
+      303.5,
+      380.9
+    ],
+    "text": "EDB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      384.88,
+      318.03,
+      395.87
+    ],
+    "text": "EFTPOS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      411.88,
+      301.58,
+      422.87
+    ],
+    "text": "EPF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.84,
+      427.0,
+      302.29,
+      437.99
+    ],
+    "text": "ESC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      441.58,
+      302.08,
+      453.26
+    ],
+    "text": "ETF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.84,
+      456.52,
+      297.65,
+      468.2
+    ],
+    "text": "EU",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.84,
+      471.46,
+      303.32,
+      483.14
+    ],
+    "text": "FAO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      487.66,
+      296.02,
+      497.96
+    ],
+    "text": "FC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      501.34,
+      309.16,
+      513.02
+    ],
+    "text": "FCBU",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.84,
+      515.74,
+      300.34,
+      528.11
+    ],
+    "text": "FDI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      530.68,
+      311.52,
+      543.05
+    ],
+    "text": "FMRA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      546.16,
+      310.1,
+      557.84
+    ],
+    "text": "FMRP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      561.64,
+      302.47,
+      572.63
+    ],
+    "text": "FOB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      576.22,
+      302.08,
+      587.9
+    ],
+    "text": "FTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      591.34,
+      309.17,
+      603.02
+    ],
+    "text": "GATS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      606.82,
+      303.36,
+      617.81
+    ],
+    "text": "GCE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      621.22,
+      304.44,
+      632.9
+    ],
+    "text": "GDE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      636.88,
+      303.36,
+      647.87
+    ],
+    "text": "GDP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      652.0,
+      303.36,
+      662.99
+    ],
+    "text": "GNP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      666.22,
+      309.64,
+      677.9
+    ],
+    "text": "GOSL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      682.42,
+      301.86,
+      692.72
+    ],
+    "text": "GSP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.02,
+      696.82,
+      307.8,
+      707.81
+    ],
+    "text": "GSTP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      286.2,
+      711.22,
+      315.95,
+      722.9
+    ],
+    "text": "HACCP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.52,
+      101.02,
+      181.68,
+      112.88
+    ],
+    "text": "Asian Clearing Union",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.52,
+      116.5,
+      172.79,
+      127.85
+    ],
+    "text": "Aggregate Demand",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.52,
+      131.8,
+      195.53,
+      142.97
+    ],
+    "text": "Asian Development Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.52,
+      146.38,
+      174.47,
+      158.24
+    ],
+    "text": "Avian Flu Pendemic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      161.14,
+      211.18,
+      173.51
+    ],
+    "text": "Academy of Labour Relations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      176.8,
+      267.25,
+      188.51
+    ],
+    "text": "Anuradhapura District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      191.74,
+      256.38,
+      218.99
+    ],
+    "text": "Annual Public Sector Employment SurveyAll Share Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      221.8,
+      199.25,
+      233.51
+    ],
+    "text": "Automated Teller Machine",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      237.28,
+      219.42,
+      248.45
+    ],
+    "text": "Average Weighted Deposit Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      252.4,
+      221.4,
+      263.57
+    ],
+    "text": "Average Weighted Lending Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      267.34,
+      244.98,
+      278.51
+    ],
+    "text": "Average Weighted Prime Lending Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      281.92,
+      194.21,
+      293.6
+    ],
+    "text": "Business Continuity Plan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      297.22,
+      228.94,
+      308.57
+    ],
+    "text": "B andaranaike Internati onal Ai rporl",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      310.19,
+      267.39,
+      335.57
+    ],
+    "text": "Bay of Bengal Initiative for Multi SectorTechnical and Economic Co-operation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      338.26,
+      221.97,
+      350.63
+    ],
+    "text": "Bank for International Settlement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      353.38,
+      157.92,
+      365.75
+    ],
+    "text": "Bank of Ceylon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      368.5,
+      175.57,
+      380.87
+    ],
+    "text": "Board of Investment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      383.44,
+      176.81,
+      395.81
+    ],
+    "text": "Balance of Payments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      399.46,
+      210.35,
+      410.81
+    ],
+    "text": "Business Process Outsourcine",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      414.58,
+      145.71,
+      425.57
+    ],
+    "text": "Basis Points",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      429.16,
+      264.28,
+      441.2
+    ],
+    "text": "Budgetary Relief Allowance of Workers Act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      444.64,
+      204.01,
+      455.81
+    ],
+    "text": "Business Restructuring Plan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      458.15,
+      265.49,
+      471.23
+    ],
+    "text": "California Public Employees' Retirement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.44,
+      472.36,
+      134.45,
+      482.66
+    ],
+    "text": "System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      486.76,
+      188.59,
+      497.93
+    ],
+    "text": "Capital Adequacy Ratio",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      501.16,
+      217.97,
+      512.84
+    ],
+    "text": "Community Based Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      516.28,
+      199.9,
+      527.96
+    ],
+    "text": "Coconut Cultivation Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.98,
+      531.22,
+      224.27,
+      542.9
+    ],
+    "text": "Colombo Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.98,
+      545.98,
+      220.38,
+      557.66
+    ],
+    "text": "Coconut Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.98,
+      560.92,
+      254.47,
+      572.63
+    ],
+    "text": "Colombo District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.98,
+      575.5,
+      215.51,
+      587.87
+    ],
+    "text": "Code Division Multiple Access",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      591.16,
+      221.64,
+      602.84
+    ],
+    "text": "Central Environmental Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      605.38,
+      192.7,
+      617.75
+    ],
+    "text": "Ceylon Electricity Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      619.43,
+      267.24,
+      633.17
+    ],
+    "text": "Comprehensive Economic Partnership",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      109.26,
+      633.64,
+      148.39,
+      644.63
+    ],
+    "text": "Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      648.22,
+      218.33,
+      659.9
+    ],
+    "text": "Cheque Imaging and Truncation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.34,
+      663.7,
+      170.54,
+      674.69
+    ],
+    "text": "Cleaner Production",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      678.1,
+      169.23,
+      689.78
+    ],
+    "text": "Commercial Paper",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      693.58,
+      212.43,
+      704.57
+    ],
+    "text": "Ceylon Petroleum Corporation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      101.16,
+      708.16,
+      200.15,
+      719.84
+    ],
+    "text": "Conh'ibutory Pension Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.68,
+      102.28,
+      427.45,
+      113.27
+    ],
+    "text": "Consumer Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.68,
+      117.4,
+      434.39,
+      128.39
+    ],
+    "text": "Cooperative Rural Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.68,
+      131.98,
+      442.14,
+      143.66
+    ],
+    "text": "Credit Information Bureau",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.68,
+      147.64,
+      439.43,
+      158.81
+    ],
+    "text": "Colombo Stock Exchange",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.68,
+      162.22,
+      448.78,
+      173.9
+    ],
+    "text": "Container Security Initiative",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.5,
+      177.88,
+      413.54,
+      188.87
+    ],
+    "text": "Cut, Tear and Curl",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      191.92,
+      433.68,
+      204.29
+    ],
+    "text": "Coefficient of Variation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      207.4,
+      485.8,
+      219.26
+    ],
+    "text": "Country Wide Data Collection System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      222.52,
+      509.48,
+      234.41
+    ],
+    "text": "Department of Animal Production and Health",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.5,
+      238.0,
+      418.41,
+      248.99
+    ],
+    "text": "Desiccated Coconut",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      252.58,
+      478.05,
+      264.29
+    ],
+    "text": "Department of Census and Statistics",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      266.8,
+      469.56,
+      279.2
+    ],
+    "text": "Department of Export Agriculture",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      282.64,
+      509.28,
+      294.32
+    ],
+    "text": "Development Finance Corporation of Ceylon",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      296.86,
+      442.56,
+      309.23
+    ],
+    "text": "Department of Agriculture",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      312.34,
+      419.09,
+      324.02
+    ],
+    "text": "Department of Posts",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      327.82,
+      429.4,
+      338.99
+    ],
+    "text": "Disaster Recovery Site",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      340.79,
+      509.96,
+      365.96
+    ],
+    "text": "Department of Technical Education andTraining",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      369.76,
+      446.14,
+      381.11
+    ],
+    "text": "Export Development Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      384.88,
+      509.03,
+      396.05
+    ],
+    "text": "Electronic Fund Transfer Facilities at the Point",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      352.26,
+      397.12,
+      376.81,
+      408.11
+    ],
+    "text": "of Sale",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      412.06,
+      448.07,
+      423.23
+    ],
+    "text": "Employees' Provident Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      427.18,
+      439.67,
+      438.35
+    ],
+    "text": "Economic Service Charge",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      442.12,
+      431.51,
+      453.11
+    ],
+    "text": "Employees' Trust Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      456.7,
+      405.42,
+      468.38
+    ],
+    "text": "European Union",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      471.64,
+      475.19,
+      483.35
+    ],
+    "text": "Food and Agricultural Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      487.12,
+      411.33,
+      498.11
+    ],
+    "text": "Finance Company",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      500.98,
+      462.4,
+      513.35
+    ],
+    "text": "Foreign Currency Banking Unit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      517.0,
+      440.83,
+      527.99
+    ],
+    "text": "Forei-en Di rect Inve stment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      530.86,
+      494.33,
+      543.23
+    ],
+    "text": "Fiscal Mana-eement (Responsibil ity) Act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      546.34,
+      492.32,
+      558.02
+    ],
+    "text": "Fiscal Management Reform Programme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      561.82,
+      397.36,
+      572.81
+    ],
+    "text": "Free on Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      576.76,
+      427.39,
+      587.75
+    ],
+    "text": "Free Trade Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      591.34,
+      493.88,
+      603.02
+    ],
+    "text": "General Agreement on Trade in Services",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.14,
+      605.74,
+      463.98,
+      618.14
+    ],
+    "text": "General Certificate of Education",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      621.76,
+      449.67,
+      632.93
+    ],
+    "text": "Gross Domestic Expenditure",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      636.88,
+      434.55,
+      647.87
+    ],
+    "text": "Gross Domestic Product",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      651.46,
+      431.31,
+      663.14
+    ],
+    "text": "Gross National Product",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      666.94,
+      438.49,
+      677.93
+    ],
+    "text": "Government clf Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      680.8,
+      471.89,
+      693.17
+    ],
+    "text": "Generalised System of Preferences",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.32,
+      696.46,
+      477.17,
+      708.14
+    ],
+    "text": "Global System of Trade Plef'erences",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      346.5,
+      710.86,
+      502.97,
+      723.23
+    ],
+    "text": "Hazard Analysis and Critical Control Point",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.78,
+      54.04,
+      54.42,
+      65.72
+    ],
+    "text": "HDI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.78,
+      69.16,
+      58.21,
+      80.84
+    ],
+    "text": "IBSL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.78,
+      84.28,
+      53.47,
+      95.96
+    ],
+    "text": "ICT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      99.22,
+      65.46,
+      110.9
+    ],
+    "text": "ICTAD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      126.04,
+      54.96,
+      138.41
+    ],
+    "text": "IDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      141.7,
+      52.71,
+      153.38
+    ],
+    "text": "IFF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      156.64,
+      53.65,
+      168.32
+    ],
+    "text": "IFN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.14,
+      171.76,
+      52.42,
+      183.44
+    ],
+    "text": "ILF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      185.27,
+      53.86,
+      199.01
+    ],
+    "text": "ILo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      39.96,
+      201.28,
+      55.46,
+      213.65
+    ],
+    "text": "IMF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.14,
+      217.3,
+      65.92,
+      228.29
+    ],
+    "text": "IOSCO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.14,
+      244.3,
+      53.92,
+      255.29
+    ],
+    "text": "IPO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.14,
+      258.88,
+      54.78,
+      270.56
+    ],
+    "text": "IRD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      274.72,
+      57.83,
+      285.02
+    ],
+    "text": "IRSS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      288.76,
+      69.14,
+      300.44
+    ],
+    "text": "ISLFTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      303.7,
+      47.88,
+      315.38
+    ],
+    "text": "IT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.14,
+      318.82,
+      60.92,
+      330.5
+    ],
+    "text": "JAAF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      334.3,
+      57.66,
+      345.29
+    ],
+    "text": "JBIC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.32,
+      349.24,
+      60.77,
+      360.23
+    ],
+    "text": "JEDB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.5,
+      364.36,
+      57.84,
+      375.35
+    ],
+    "text": "JICA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.68,
+      378.76,
+      58.16,
+      390.44
+    ],
+    "text": "KYC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.68,
+      393.7,
+      57.21,
+      405.38
+    ],
+    "text": "LCB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.68,
+      408.82,
+      57.68,
+      420.5
+    ],
+    "text": "LDC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.68,
+      424.48,
+      61.13,
+      435.47
+    ],
+    "text": "LFPR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.68,
+      439.42,
+      51.35,
+      450.41
+    ],
+    "text": "LG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.86,
+      453.82,
+      60.7,
+      465.5
+    ],
+    "text": "LIOC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.86,
+      469.3,
+      50.64,
+      480.29
+    ],
+    "text": "LP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.86,
+      484.24,
+      56.87,
+      495.23
+    ],
+    "text": "LPG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      40.86,
+      499.18,
+      55.98,
+      510.17
+    ],
+    "text": "LSB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      514.12,
+      53.48,
+      525.11
+    ],
+    "text": "MC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      529.06,
+      63.7,
+      540.05
+    ],
+    "text": "MDGs",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      543.64,
+      66.06,
+      555.32
+    ],
+    "text": "MENR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      558.04,
+      60.04,
+      570.41
+    ],
+    "text": "MFA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.22,
+      573.52,
+      65.3,
+      585.2
+    ],
+    "text": "MFAR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.04,
+      587.92,
+      57.54,
+      600.29
+    ],
+    "text": "MID",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.22,
+      603.4,
+      67.2,
+      615.08
+    ],
+    "text": "MLCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.22,
+      618.52,
+      70.03,
+      630.2
+    ],
+    "text": "MLRFE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.4,
+      645.7,
+      71.63,
+      657.38
+    ],
+    "text": "MPCLG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.58,
+      672.52,
+      56.69,
+      684.2
+    ],
+    "text": "MPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.4,
+      687.46,
+      68.79,
+      699.14
+    ],
+    "text": "MRCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      41.76,
+      702.58,
+      67.26,
+      714.26
+    ],
+    "text": "MSME",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      53.68,
+      303.84,
+      64.67
+    ],
+    "text": "MTFS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      67.72,
+      308.05,
+      80.09
+    ],
+    "text": "MTMF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      281.88,
+      82.84,
+      311.38,
+      95.21
+    ],
+    "text": "NAFTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      97.43,
+      309.51,
+      110.48
+    ],
+    "text": "NAMA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      113.44,
+      306.14,
+      125.12
+    ],
+    "text": "NCED",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      128.74,
+      300.95,
+      140.42
+    ],
+    "text": "NCG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      144.4,
+      310.5,
+      155.39
+    ],
+    "text": "NCRCS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      158.26,
+      301.06,
+      170.63
+    ],
+    "text": "NDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      173.92,
+      304.72,
+      185.6
+    ],
+    "text": "NDTF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.06,
+      189.4,
+      304.28,
+      200.39
+    ],
+    "text": "NEER",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.24,
+      203.98,
+      299.24,
+      215.66
+    ],
+    "text": "NFA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.24,
+      218.38,
+      302.74,
+      230.75
+    ],
+    "text": "NFIA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.42,
+      234.4,
+      304.2,
+      245.39
+    ],
+    "text": "NFPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.24,
+      249.52,
+      304.02,
+      260.51
+    ],
+    "text": "NFPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.24,
+      263.92,
+      301.6,
+      275.6
+    ],
+    "text": "NGO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.42,
+      278.32,
+      306.42,
+      290.69
+    ],
+    "text": "NLAC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.42,
+      293.8,
+      299.9,
+      305.48
+    ],
+    "text": "NPA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.42,
+      308.74,
+      298.95,
+      320.42
+    ],
+    "text": "NPL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.42,
+      324.22,
+      298.87,
+      335.21
+    ],
+    "text": "NSB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.6,
+      338.62,
+      300.07,
+      350.3
+    ],
+    "text": "NTC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.6,
+      353.74,
+      314.24,
+      381.14
+    ],
+    "text": "NWSDBoMo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.78,
+      383.26,
+      299.79,
+      395.63
+    ],
+    "text": "PAL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.78,
+      398.74,
+      306.87,
+      410.42
+    ],
+    "text": "PAMP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.96,
+      414.94,
+      292.96,
+      425.24
+    ],
+    "text": "PB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.96,
+      429.52,
+      299.41,
+      440.51
+    ],
+    "text": "PCE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.96,
+      444.46,
+      294.07,
+      455.45
+    ],
+    "text": "PD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.96,
+      458.86,
+      306.1,
+      470.54
+    ],
+    "text": "PHDT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.14,
+      475.06,
+      297.73,
+      485.36
+    ],
+    "text": "PPF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.14,
+      489.82,
+      298.56,
+      500.12
+    ],
+    "text": "PRP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      282.96,
+      505.29,
+      292.3,
+      514.91
+    ],
+    "text": "PS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.14,
+      519.16,
+      305.81,
+      530.15
+    ],
+    "text": "PSDG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.14,
+      534.82,
+      303.56,
+      545.12
+    ],
+    "text": "PSDP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.32,
+      548.5,
+      315.44,
+      560.18
+    ],
+    "text": "PSLFTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.14,
+      564.52,
+      302.73,
+      574.82
+    ],
+    "text": "PSPF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.32,
+      578.38,
+      299.85,
+      590.06
+    ],
+    "text": "PTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.5,
+      594.04,
+      298.61,
+      605.03
+    ],
+    "text": "PTF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.5,
+      610.6,
+      308.5,
+      635.39
+    ],
+    "text": "QLFSRADA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.86,
+      638.5,
+      301.8,
+      650.18
+    ],
+    "text": "RDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.68,
+      653.62,
+      301.62,
+      665.3
+    ],
+    "text": "RDB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.68,
+      668.56,
+      302.09,
+      680.24
+    ],
+    "text": "RDD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      284.04,
+      684.04,
+      306.26,
+      695.03
+    ],
+    "text": "REER",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      283.86,
+      699.16,
+      300.3,
+      710.15
+    ],
+    "text": "RFC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      54.4,
+      199.42,
+      65.39
+    ],
+    "text": "Human Development Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      68.26,
+      207.01,
+      80.63
+    ],
+    "text": "Insurance Board of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      84.1,
+      261.85,
+      95.78
+    ],
+    "text": "Information and Communication Technology",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      96.71,
+      263.54,
+      111.17
+    ],
+    "text": "Institute for Construction Training and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0,
+      10.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.48,
+      111.64,
+      152.61,
+      122.63
+    ],
+    "text": "Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      126.22,
+      241.06,
+      137.9
+    ],
+    "text": "International Development Association",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      141.34,
+      198.61,
+      153.2
+    ],
+    "text": "Investor Facilitation Forum",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      156.28,
+      215.28,
+      168.14
+    ],
+    "text": "Innovation Facilitation Network",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      171.04,
+      199.06,
+      183.41
+    ],
+    "text": "Intra-day Liquidity Facility",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.54,
+      186.34,
+      223.91,
+      198.2
+    ],
+    "text": "International Labour Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.72,
+      201.64,
+      203.93,
+      213.32
+    ],
+    "text": "International Monetary Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.72,
+      214.07,
+      263.43,
+      228.74
+    ],
+    "text": "International Organisation of Securities",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      105.84,
+      229.18,
+      153.84,
+      240.17
+    ],
+    "text": "Commissions",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      243.04,
+      169.56,
+      255.41
+    ],
+    "text": "Initial Public Offer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.72,
+      258.52,
+      199.92,
+      270.2
+    ],
+    "text": "Inland Revenue Department",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      273.64,
+      261.71,
+      285.32
+    ],
+    "text": "International Relations and Strategic Studies",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      288.4,
+      239.29,
+      300.08
+    ],
+    "text": "Indo-Sri Lanka Free Trade Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      303.52,
+      188.05,
+      315.2
+    ],
+    "text": "Information Technology",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      318.46,
+      220.57,
+      330.32
+    ],
+    "text": "Joint Apparel Association Forum",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.9,
+      332.68,
+      253.42,
+      345.05
+    ],
+    "text": "Japan Bank for International Co-operation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.08,
+      348.52,
+      227.62,
+      359.9
+    ],
+    "text": "Janatha Estate Development Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.08,
+      363.64,
+      249.88,
+      375.17
+    ],
+    "text": "Japan International Co-operation Agency",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      377.87,
+      181.37,
+      390.23
+    ],
+    "text": "Know Your Customer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.26,
+      394.06,
+      200.87,
+      405.05
+    ],
+    "text": "Licensed Commercial Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.26,
+      409.18,
+      197.51,
+      420.17
+    ],
+    "text": "Least Developed Countries",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      423.76,
+      217.08,
+      435.44
+    ],
+    "text": "Labour Force Participation Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      438.52,
+      168.58,
+      450.23
+    ],
+    "text": "Local Government",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      452.93,
+      208.11,
+      465.32
+    ],
+    "text": "Lanka Indian Oil Corporation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      468.58,
+      175.42,
+      480.26
+    ],
+    "text": "Liquefied Petroleum",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.44,
+      483.52,
+      191.2,
+      495.2
+    ],
+    "text": "Liquefied Petroleum Gas",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.62,
+      499.0,
+      197.99,
+      509.99
+    ],
+    "text": "Licensed Specialised Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.62,
+      513.4,
+      167.79,
+      525.08
+    ],
+    "text": "Municipal Council",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.8,
+      527.81,
+      217.23,
+      540.17
+    ],
+    "text": "Millennium Development Goals",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.62,
+      542.39,
+      264.26,
+      554.96
+    ],
+    "text": "Ministry of Environment & Natural Resources",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.8,
+      558.22,
+      191.88,
+      569.9
+    ],
+    "text": "Multi -Fibre Anangement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.8,
+      572.63,
+      256.34,
+      585.02
+    ],
+    "text": "Ministry of Fisheries & Aquatic Resources",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.8,
+      587.57,
+      230.01,
+      600.11
+    ],
+    "text": "Ministry of Industrial Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.98,
+      603.04,
+      245.65,
+      614.9
+    ],
+    "text": "Matale District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      100.98,
+      617.09,
+      264.61,
+      642.08
+    ],
+    "text": "Ministry of Labour Relations and ForeignEmployment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.16,
+      643.73,
+      264.57,
+      657.47
+    ],
+    "text": "Ministry of Provincial Councils and Local",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      107.46,
+      657.94,
+      155.48,
+      668.93
+    ],
+    "text": "Governments",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.34,
+      672.16,
+      175.81,
+      683.84
+    ],
+    "text": "Milanka Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.52,
+      687.1,
+      246.55,
+      698.81
+    ],
+    "text": "Matara District Consumers' Price Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      101.52,
+      701.69,
+      259.12,
+      714.05
+    ],
+    "text": "Micro, Small and Medium Scale Enterprise",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      53.14,
+      449.49,
+      64.82
+    ],
+    "text": "Medium Term Fiscal Strategy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      68.08,
+      499.18,
+      79.76
+    ],
+    "text": "Medium Term Macroeconomic Framework",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.46,
+      83.2,
+      485.35,
+      95.06
+    ],
+    "text": "North American Free Trade Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      98.14,
+      460.67,
+      110.0
+    ],
+    "text": "Non-Agricultural Market Access",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      113.26,
+      505.05,
+      125.12
+    ],
+    "text": "National Council for Economic Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      128.56,
+      435.79,
+      140.24
+    ],
+    "text": "Net Credit to Govemment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.82,
+      143.32,
+      496.41,
+      155.39
+    ],
+    "text": "New Comprehensive Rural Credit Scheme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      159.16,
+      417.07,
+      170.15
+    ],
+    "text": "Net Domestic Assets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      173.38,
+      466.19,
+      185.42
+    ],
+    "text": "National Development Trust Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.64,
+      188.68,
+      466.38,
+      200.36
+    ],
+    "text": "Nominal Effective Exchange Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.82,
+      204.34,
+      410.59,
+      215.33
+    ],
+    "text": "Net Foreign Assets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.82,
+      218.56,
+      458.69,
+      230.27
+    ],
+    "text": "Net Factor Income from Abroad",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.82,
+      233.5,
+      463.89,
+      245.39
+    ],
+    "text": "National Fisheries Policy Council",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      341.82,
+      248.62,
+      468.97,
+      260.48
+    ],
+    "text": "Non-Financial Public Corporations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      263.92,
+      462.12,
+      274.97
+    ],
+    "text": "Non -Governmental Or-eani sati on",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.0,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      278.5,
+      468.03,
+      290.36
+    ],
+    "text": "National Labour Advisory Council",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      293.62,
+      451.84,
+      305.3
+    ],
+    "text": "National Procurement Agency",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      308.56,
+      422.61,
+      320.24
+    ],
+    "text": "Non-Performing Loan",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      323.68,
+      425.75,
+      335.36
+    ],
+    "text": "National Savings Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.0,
+      338.44,
+      458.36,
+      350.12
+    ],
+    "text": "National Transpoft Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.18,
+      353.56,
+      501.76,
+      365.24
+    ],
+    "text": "National Water Supply and Drainage Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.36,
+      368.68,
+      432.61,
+      380.36
+    ],
+    "text": "Open Market Operations",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.36,
+      383.09,
+      473.56,
+      395.45
+    ],
+    "text": "Port and Airport Development Levy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.36,
+      398.38,
+      506.4,
+      410.24
+    ],
+    "text": "Poverty Alleviation and Microfinance Project",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.36,
+      414.04,
+      394.61,
+      425.21
+    ],
+    "text": "People's Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.36,
+      428.98,
+      465.33,
+      440.33
+    ],
+    "text": "Private Consumption Expenditure",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.54,
+      443.56,
+      397.96,
+      455.24
+    ],
+    "text": "Primary Dealer",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.54,
+      458.68,
+      481.18,
+      470.21
+    ],
+    "text": "Plantation Human Development Trust",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.54,
+      474.16,
+      426.23,
+      485.15
+    ],
+    "text": "Private Provident Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.54,
+      488.38,
+      461.58,
+      500.09
+    ],
+    "text": "Plantation Rehabilitation Project",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.72,
+      504.4,
+      412.46,
+      514.7
+    ],
+    "text": "Pradesheeya Sabha",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.72,
+      518.26,
+      484.39,
+      529.97
+    ],
+    "text": "Province Specific Development Grants",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.72,
+      533.38,
+      486.78,
+      545.06
+    ],
+    "text": "Province Specific Development Project",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.72,
+      548.14,
+      496.33,
+      559.85
+    ],
+    "text": "Pakistan Sri Lanka Free Trade Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.9,
+      563.26,
+      454.73,
+      574.94
+    ],
+    "text": "Public Service Provident Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.9,
+      578.38,
+      460.04,
+      589.58
+    ],
+    "text": "Preferenti al Tradi n-e Agree ment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.5,
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      342.9,
+      593.68,
+      428.13,
+      604.85
+    ],
+    "text": "Presidential Task Force",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.08,
+      608.44,
+      457.62,
+      621.41
+    ],
+    "text": "Quarterly Labour Force Survey",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.08,
+      623.56,
+      495.33,
+      634.73
+    ],
+    "text": "Reconstruction and Development A-eency",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.08,
+      637.96,
+      450.24,
+      649.85
+    ],
+    "text": "Road Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.26,
+      653.62,
+      448.79,
+      664.97
+    ],
+    "text": "Regional Development Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.44,
+      668.56,
+      466.23,
+      679.73
+    ],
+    "text": "Rubber Development Department",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.26,
+      683.14,
+      452.88,
+      694.85
+    ],
+    "text": "Real Effective Exchange Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      343.44,
+      698.62,
+      450.75,
+      709.79
+    ],
+    "text": "Registered Finance Company",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      55.12,
+      70.67,
+      66.11
+    ],
+    "text": "RFI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      69.7,
+      76.67,
+      81.38
+    ],
+    "text": "RGD",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      84.82,
+      76.2,
+      96.5
+    ],
+    "text": "ROA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      100.3,
+      75.12,
+      111.29
+    ],
+    "text": "ROE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      115.42,
+      76.0,
+      126.41
+    ],
+    "text": "ROO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      131.26,
+      73.61,
+      141.56
+    ],
+    "text": "RPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.78,
+      145.3,
+      72.42,
+      156.98
+    ],
+    "text": "RRI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      161.5,
+      73.38,
+      171.8
+    ],
+    "text": "RSS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      57.96,
+      175.9,
+      80.18,
+      186.89
+    ],
+    "text": "RTGS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      190.66,
+      87.42,
+      202.34
+    ],
+    "text": "SAARC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.14,
+      217.66,
+      85.54,
+      229.34
+    ],
+    "text": "SATTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      232.6,
+      81.47,
+      244.28
+    ],
+    "text": "SAGT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.32,
+      247.72,
+      86.19,
+      259.4
+    ],
+    "text": "SAPTA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.5,
+      274.54,
+      80.23,
+      286.22
+    ],
+    "text": "SASL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.5,
+      289.66,
+      74.57,
+      301.34
+    ],
+    "text": "SBL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.68,
+      305.68,
+      74.1,
+      315.98
+    ],
+    "text": "SDP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.68,
+      320.08,
+      75.57,
+      331.07
+    ],
+    "text": "SDR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.5,
+      335.74,
+      73.92,
+      346.04
+    ],
+    "text": "SEC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.68,
+      349.78,
+      82.77,
+      361.46
+    ],
+    "text": "SEMA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.68,
+      365.44,
+      84.46,
+      376.43
+    ],
+    "text": "SFLCP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.68,
+      379.66,
+      74.27,
+      391.34
+    ],
+    "text": "SIFI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.86,
+      394.78,
+      85.79,
+      406.46
+    ],
+    "text": "SLBFE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.86,
+      410.44,
+      74.42,
+      421.43
+    ],
+    "text": "SLC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      425.02,
+      83.61,
+      436.7
+    ],
+    "text": "SLCPI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      440.14,
+      86.44,
+      451.82
+    ],
+    "text": "SLCTB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      455.26,
+      81.24,
+      466.94
+    ],
+    "text": "SLDB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      470.74,
+      87.94,
+      481.73
+    ],
+    "text": "SLECIC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.04,
+      497.02,
+      86.91,
+      508.7
+    ],
+    "text": "SLEDB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.22,
+      512.68,
+      79.23,
+      523.67
+    ],
+    "text": "SLFS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.22,
+      527.08,
+      90.4,
+      538.76
+    ],
+    "text": "SLIBOR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.22,
+      542.56,
+      81.9,
+      553.55
+    ],
+    "text": "SLIPS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.4,
+      557.14,
+      81.13,
+      568.82
+    ],
+    "text": "SLPA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.4,
+      572.62,
+      74.96,
+      583.61
+    ],
+    "text": "SLR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.58,
+      587.56,
+      76.92,
+      598.55
+    ],
+    "text": "SLSI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.58,
+      602.68,
+      85.81,
+      613.67
+    ],
+    "text": "SLSPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.58,
+      617.26,
+      75.17,
+      628.94
+    ],
+    "text": "SLT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.76,
+      632.2,
+      81.02,
+      643.88
+    ],
+    "text": "SLTB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.76,
+      647.32,
+      81.02,
+      659.0
+    ],
+    "text": "SLTB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      54.22,
+      318.48,
+      65.9
+    ],
+    "text": "SME",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      69.16,
+      320.84,
+      80.84
+    ],
+    "text": "SMIB",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      85.0,
+      317.4,
+      95.99
+    ],
+    "text": "SNG",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      99.4,
+      316.59,
+      111.08
+    ],
+    "text": "SRL",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      115.06,
+      316.95,
+      126.05
+    ],
+    "text": "SRR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      130.9,
+      341.81,
+      141.2
+    ],
+    "text": "SSS system",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      144.4,
+      335.56,
+      156.77
+    ],
+    "text": "STAART",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.88,
+      172.12,
+      323.02,
+      183.8
+    ],
+    "text": "TACC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.88,
+      187.24,
+      328.69,
+      198.92
+    ],
+    "text": "TAFOR",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      202.36,
+      334.06,
+      214.04
+    ],
+    "text": "TAFREN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.88,
+      216.58,
+      316.88,
+      228.95
+    ],
+    "text": "TBT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      299.88,
+      232.24,
+      316.88,
+      243.92
+    ],
+    "text": "TEU",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      246.82,
+      326.06,
+      259.19
+    ],
+    "text": "TEWA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      261.76,
+      325.05,
+      274.13
+    ],
+    "text": "THRU",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.06,
+      276.7,
+      319.56,
+      289.07
+    ],
+    "text": "TIFA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.24,
+      292.9,
+      323.8,
+      303.89
+    ],
+    "text": "TRIPS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.24,
+      319.36,
+      329.05,
+      331.04
+    ],
+    "text": "TSHDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.42,
+      334.3,
+      323.09,
+      345.98
+    ],
+    "text": "TVEC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.42,
+      348.88,
+      318.92,
+      361.25
+    ],
+    "text": "UAE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.42,
+      364.54,
+      320.26,
+      376.22
+    ],
+    "text": "UBIS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.42,
+      379.48,
+      312.69,
+      391.16
+    ],
+    "text": "UC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.42,
+      394.6,
+      317.89,
+      406.28
+    ],
+    "text": "UCT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.6,
+      409.18,
+      319.6,
+      421.55
+    ],
+    "text": "UDA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.6,
+      424.84,
+      319.49,
+      436.52
+    ],
+    "text": "UGC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.6,
+      438.71,
+      313.8,
+      451.76
+    ],
+    "text": "UK",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      454.9,
+      324.86,
+      466.58
+    ],
+    "text": "UNDP",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      469.84,
+      332.42,
+      481.52
+    ],
+    "text": "UNICEF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      484.42,
+      329.78,
+      496.79
+    ],
+    "text": "UNIDO",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.96,
+      511.78,
+      331.66,
+      523.46
+    ],
+    "text": "USAruS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      525.47,
+      319.62,
+      538.52
+    ],
+    "text": "VAT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      541.66,
+      318.14,
+      553.34
+    ],
+    "text": "VCF",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      557.14,
+      317.59,
+      568.13
+    ],
+    "text": "VRS",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      300.78,
+      571.18,
+      321.78,
+      598.94
+    ],
+    "text": "WBAwHo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      10.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      602.32,
+      319.8,
+      613.31
+    ],
+    "text": "WPC",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      301.14,
+      616.72,
+      321.92,
+      644.27
+    ],
+    "text": "WPIwTo",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      54.4,
+      208.28,
+      66.08
+    ],
+    "text": "Rural Finance Institution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      70.06,
+      231.78,
+      81.05
+    ],
+    "text": "Registrar-General's Department",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      85.18,
+      178.93,
+      96.17
+    ],
+    "text": "Return on Assets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      99.58,
+      180.04,
+      111.29
+    ],
+    "text": "Return on Equity",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      114.34,
+      172.93,
+      126.71
+    ],
+    "text": "Rules of Ori,ein",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      130.54,
+      225.23,
+      141.53
+    ],
+    "text": "Regional Plantation Company",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.54,
+      145.66,
+      201.0,
+      156.65
+    ],
+    "text": "Rice Research Institute",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.72,
+      160.78,
+      204.79,
+      171.77
+    ],
+    "text": "Ribbed, Smoked Sheets",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.72,
+      175.36,
+      248.74,
+      187.04
+    ],
+    "text": "Real Time Gross Settlement System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.9,
+      190.3,
+      253.33,
+      202.16
+    ],
+    "text": "South Asian Association for Regional",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      123.66,
+      203.08,
+      169.9,
+      214.07
+    ],
+    "text": "Co-operation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.9,
+      217.84,
+      224.62,
+      229.19
+    ],
+    "text": "South Asian Free Trade Area",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      117.72,
+      232.24,
+      248.18,
+      244.31
+    ],
+    "text": "South Asia Gateway Terminals Ltd.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.08,
+      247.54,
+      237.72,
+      259.22
+    ],
+    "text": "South Asian Preferential Trading",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.02,
+      260.14,
+      169.38,
+      271.13
+    ],
+    "text": "Anangement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.08,
+      274.0,
+      237.69,
+      286.37
+    ],
+    "text": "Samurdhi Authority of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.08,
+      288.41,
+      201.31,
+      301.46
+    ],
+    "text": "Single Bonower Limit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.08,
+      304.42,
+      224.0,
+      316.13
+    ],
+    "text": "Special Development Prqect",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.26,
+      319.54,
+      201.82,
+      331.25
+    ],
+    "text": "Special Drawing Right",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.26,
+      335.02,
+      254.96,
+      346.19
+    ],
+    "text": "Securities and Exchange Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.26,
+      349.96,
+      272.92,
+      361.13
+    ],
+    "text": "Strategic Enterprises Management Agency",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.44,
+      365.08,
+      274.2,
+      376.25
+    ],
+    "text": "Small Farmers and Landless Credit Project",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.44,
+      379.48,
+      278.66,
+      391.34
+    ],
+    "text": "Systemically Important Financial Institution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.62,
+      394.24,
+      270.54,
+      406.61
+    ],
+    "text": "Sri Lanka Bureau of Foreign Employment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.44,
+      410.44,
+      226.31,
+      421.61
+    ],
+    "text": "Specialised Leasing Company",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.62,
+      423.95,
+      242.8,
+      437.0
+    ],
+    "text": "Sri Lanka Consumers' hice Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.62,
+      440.5,
+      244.29,
+      451.67
+    ],
+    "text": "Sri Lanka Central Transport Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.62,
+      455.08,
+      227.3,
+      466.76
+    ],
+    "text": "Sri Lanka Development Bond",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.62,
+      470.2,
+      242.63,
+      481.88
+    ],
+    "text": "Sri Lanka Export Credit Insurance",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      124.56,
+      482.8,
+      166.35,
+      493.79
+    ],
+    "text": "Corporation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.8,
+      497.02,
+      256.42,
+      508.7
+    ],
+    "text": "Sri Lanka Export Development Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.8,
+      512.5,
+      223.86,
+      523.67
+    ],
+    "text": "Special Labour Force Survey",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.98,
+      526.9,
+      244.98,
+      538.61
+    ],
+    "text": "Sri Lanka Inter-Bank Offered Rate",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.98,
+      542.56,
+      256.3,
+      553.55
+    ],
+    "text": "Sri Lanka Inter-bank Payment System",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.98,
+      556.96,
+      211.92,
+      568.64
+    ],
+    "text": "Sri Lanka Ports Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.16,
+      572.44,
+      189.32,
+      583.61
+    ],
+    "text": "Sri Lanka Railways",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.98,
+      587.02,
+      230.62,
+      598.7
+    ],
+    "text": "Sri Lanka Standards Institution",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.16,
+      602.14,
+      259.77,
+      613.82
+    ],
+    "text": "Sn Lanka State Plantation Corporation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.34,
+      617.62,
+      205.4,
+      628.79
+    ],
+    "text": "Sri Lanka Telecom Ltd.",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.52,
+      632.74,
+      194.86,
+      643.73
+    ],
+    "text": "Sri Lanka Tea Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      119.34,
+      647.32,
+      207.82,
+      659.0
+    ],
+    "text": "Sri Lanka Tourist Board",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      54.22,
+      491.68,
+      65.9
+    ],
+    "text": "Small and Medium Scale Enterprise",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      69.7,
+      496.13,
+      80.69
+    ],
+    "text": "State Mortgage and Investment Bank",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      84.28,
+      453.97,
+      95.99
+    ],
+    "text": "Sub National Govemment",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      99.4,
+      458.59,
+      111.08
+    ],
+    "text": "Social Responsibility Levy",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      115.06,
+      473.65,
+      126.05
+    ],
+    "text": "Statutory Reserve Requirement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      130.18,
+      500.21,
+      141.35
+    ],
+    "text": "Scripless Securities Settlement system",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      144.4,
+      524.1,
+      156.77
+    ],
+    "text": "Sri Lanka Tsunami Affected Area Recovery",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      366.3,
+      157.0,
+      414.67,
+      168.68
+    ],
+    "text": "and Take-Off",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      171.94,
+      465.42,
+      183.98
+    ],
+    "text": "Textile and Clothing College",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.18,
+      186.52,
+      433.75,
+      198.89
+    ],
+    "text": "Taskforce for Relief",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.18,
+      201.64,
+      492.38,
+      214.01
+    ],
+    "text": "Taskforce for Rebuilding the Nation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      217.12,
+      460.82,
+      228.98
+    ],
+    "text": "Technical Baniers to Trade",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      231.88,
+      466.72,
+      244.25
+    ],
+    "text": "Twenty-foot Equivalent Unit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.5,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.36,
+      247.36,
+      525.1,
+      259.04
+    ],
+    "text": "Termination of Employment of Workmen Act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      261.94,
+      502.18,
+      274.31
+    ],
+    "text": "Tsunami Housing Reconstruction Unit",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      277.6,
+      524.59,
+      288.77
+    ],
+    "text": "Trade and Investment Framework Agreement",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      292.72,
+      525.23,
+      303.89
+    ],
+    "text": "Trade Related Aspects of Intellectual Property",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      366.48,
+      304.78,
+      389.15,
+      315.77
+    ],
+    "text": "Rights",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.72,
+      319.18,
+      521.88,
+      331.04
+    ],
+    "text": "Tea Small Holdings Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.54,
+      333.76,
+      524.42,
+      346.13
+    ],
+    "text": "Tertiary & Vocational Education Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.72,
+      349.24,
+      439.8,
+      360.95
+    ],
+    "text": "United Arab Emirates",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.72,
+      364.36,
+      515.13,
+      376.04
+    ],
+    "text": "Unemployment Benefit Insurance Scheme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.72,
+      380.02,
+      412.23,
+      391.01
+    ],
+    "text": "Urban Council",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.9,
+      394.6,
+      454.98,
+      406.28
+    ],
+    "text": "Unity Container Terminal",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.9,
+      409.18,
+      472.91,
+      421.55
+    ],
+    "text": "Urban Development Authority",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.9,
+      424.84,
+      472.4,
+      436.52
+    ],
+    "text": "University Grants Commission",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.08,
+      439.78,
+      421.44,
+      451.46
+    ],
+    "text": "United Kingdom",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      360.9,
+      455.08,
+      512.84,
+      466.43
+    ],
+    "text": "United Nations Development Programme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.08,
+      469.84,
+      478.49,
+      481.52
+    ],
+    "text": "United Nations Children's Fund",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.08,
+      483.17,
+      524.8,
+      496.94
+    ],
+    "text": "United Nations Industrial Development",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.0,
+      9.5,
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      367.02,
+      497.38,
+      412.37,
+      508.37
+    ],
+    "text": "Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.44,
+      511.78,
+      453.27,
+      523.46
+    ],
+    "text": "United States of America",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.26,
+      527.08,
+      424.82,
+      538.25
+    ],
+    "text": "Value Added Tax",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.26,
+      541.66,
+      438.19,
+      553.37
+    ],
+    "text": "Venture Capital Firm",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.44,
+      556.6,
+      471.21,
+      568.31
+    ],
+    "text": "Voluntary Retirement Scheme",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.5,
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.26,
+      571.72,
+      434.2,
+      583.4
+    ],
+    "text": "Welfare Benefit Act",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.26,
+      586.66,
+      458.99,
+      598.37
+    ],
+    "text": "World Health Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.44,
+      601.78,
+      462.32,
+      613.64
+    ],
+    "text": "Western Provincial Council",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.62,
+      615.83,
+      442.75,
+      628.88
+    ],
+    "text": "Wholesale hice Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      9.5
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      361.62,
+      631.84,
+      456.11,
+      643.55
+    ],
+    "text": "World Trade Organisation",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.0,
+      8.5
+    ]
+  }
+]

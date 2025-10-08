@@ -1,0 +1,459 @@
+7.1 OverviewI
+
+nﬂ ation, on a year-on-year basis, decelerated to 14.4 per cent by end 2008, from its peak of 28.2 per cent in June 2008 and 18.8 per cent recorded at the end of 2007. The deceleration in the inﬂ ation rate could be attributed to the tight monetary policy stance, which, during much of the year 2008, was directed at preventing the onset of second-round effects of commodity price increases worldwide becoming more broad-based in the domestic economy. The sharp decline in international commodity prices from around mid-2008 and the healthy domestic supply side conditions too contributed to check the increases in the individual prices.
+
+With the intention of containing the second-round effects of increases in prices of imported items, the monetary policy stance of the Central Bank was made increasingly tighter during the ﬁ rst three quarters of the year. This was done primarily by revising downwards the targets for reserve money and allowing market interest rates to adjust upwards in line with the decline in market liquidity. While the Central Bank successfully achieved the stipulated targets for reserve money, the resulting monetary contraction was clearly reﬂ ected in monetary aggregates including credit and Broad money, which decelerated signiﬁ cantly throughout 2008.
+
+The direction of monetary policy however, changed towards the latter part of 2008. From around mid-September 2008, as the global ﬁ nancial crisis deepened, drying up liquidity in financial markets world-over, the Central Bank of Sri Lanka
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+Chapter 7
+
+148
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+too had to take some measures to ease conditions in the domestic ﬁ nancial markets. While turbulent external economic conditions led to a draining of liquidity from the domestic foreign exchange market, the consequent intervention of the Central Bank in the domestic foreign exchange market, by way of supplying foreign exchange, drained rupee liquidity from the market. Therefore, to augment rupee liquidity and thereby stabilise domestic money and credit markets, the Central Bank injected rupee liquidity by reducing the Statutory Reserve Ratio (SRR) applicable to all rupee deposit liabilities of commercial banks, on two occasions, in October and November 2008. The Central Bank also purchased Treasury bills, both in the primary and secondary markets for government securities, in order to enhance rupee liquidity in the market. As an additional measure to boost market liquidity, the restrictions on access to the Central Bank’s reverse repurchase facility were relaxed temporarily, to be effective during October 2008.
+
+Further deceleration in inﬂ ation during the ﬁ rst quarter of 2009, at a faster rate than expected, with inﬂ ation reaching single digit levels by end February, conﬁ rms that the Central Bank’s strategy of focusing more on quantitative targets is more effective in a high inﬂ ation environment. Since inﬂ ation is now stabilising at more manageable levels, the Central Bank will be once again using the policy rate corridor formed by the Repurchase and Reverse Repurchase rates more effectively in its monetary policy operations.
+
+7.2 Monetary Policy
+
+The Central Bank continued its tight monetary policy stance in 2008 by resorting to the more direct approach of curtailing market liquidity under the Bank’s strategy of conducting monetary operations within the monetary targeting policy framework. Under this strategy, a greater focus was placed on the more stringent quantitative controls on reserve money thereby allowing market interest rates to adjust upward. In 2008, the quarterly targets for reserve money were based on quarterly averages of daily reserve money, unlike the strategy pursued in 2007, where
+
+targets were set in terms of end-quarter levels of reserve money. This new framework ensured greater discipline in the movements of reserve money as the stock as at a given point of time could include transitory components as well. Following the international ﬁ nancial crisis due to the bursting of the credit bubble, many central banks have realised that, irrespective of any volatility in demand for money, credit and other monetary aggregates have to be monitored and controlled, alongside controlling the cost of money to manage inﬂ ation. Doing so would enable them to address early, any developing imbalances in the macroeconomy, so as to manage emerging risks to economic stability. In Sri Lanka too monetary aggregates will continue to be accorded high priority even within an inﬂ ation targeting framework.
+
+On the basis of projected macroeconomic performance in 2008, the target for annual average growth in reserve money in 2008 was initially stipulated at 14.7 per cent and was announced in the Road Map for Monetary and Financial Sector Policies for 2008 and beyond. However, the target was revised downwards on three occasions during the year, making it even more stringent in order to further tighten monetary policy to contain inﬂ ation and inﬂ ation expectations and particularly to maintain the policy stance amidst the changes in SRR. The ﬁ rst and second revisions were made in April and July 2008, when it was noted that the increase in the administered prices of several commodities, particularly fuel, had a pronounced second-round impact on inﬂ ation, partly through rising inﬂ ation expectations. Accordingly, the annual
+
+149
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+average reserve money growth target was brought down to 12.5 per cent in April and further to 11.75 per cent in July. With the last revision in November, it was brought down further to 9.7 per cent with the intention of neutralising the expansionary impact of the reduction in the SRR during the last quarter. Commensurate with these changes in targeted levels of reserve money and policy action aimed at managing liquidity to maintain those targets, market interest rates continued to remain at relatively high levels.
+
+The Central Bank also relied on aggressive open market operations to maintain market liquidity at a level consistent with the reserve money targets. Therefore, to streamline open market operations, restrictions were imposed on market participants’ access to the Central Bank’s standing facility. Commercial banks and primary dealers were allowed to access the Central Bank’s reverse repurchase facility at the Reverse Repurchase rate only 4 times per calendar month with effect from 3 December 2007. Their access was limited further from 22 February 2008 to 3 times per calendar month. Also, the funds extended on any given day under reverse repurchase agreements, at the Reverse Repurchase rate, were limited by the Central Bank to an amount equivalent to the liquidity shortfall as estimated by the Central Bank. Access to the Central Bank’s reverse repurchase window beyond these limits was allowed at a penal rate of 19 per cent. To enforce its tight monetary policy stance, the Central Bank also refrained from subscribing to Treasury bills at primary market auctions and special issues, except to mitigate the liquidity shortage which arose due to a decline in foreign assets.
+
+In the face of the severe adverse developments in the global ﬁ nancial markets, the Central Bank took several measures to mitigate their impact on the domestic ﬁ nancial market, particularly during the last quarter of the year. The Bank eased the limits placed on the reverse repurchase facility for commercial banks and primary dealers, temporarily, from 3 times to 6 times per calendar month with effect from 2 October 2008, and further to 10 times with effect from 15 October 2008 in order to ease the liquidity constraints that arose due to the supply
+
+of foreign exchange by the Central Bank to ease the pressure in the foreign exchange market. However, this was reduced again to 3 times with effect from 1 November 2008 when the situation eased. Also, to address the increased shortage in liquidity in the market, the SRR on all rupee deposit liabilities of commercial banks was reduced in two steps, in October and November 2008, by 75 basis points, and 150 basis points, respectively, to 7.75 per cent. This enabled the Bank to release around Rs.24.5 billion of additional liquidity to the market and thereby restrain any excessive increase in market interest rates. In addition, several prudential measures were introduced to limit the demand for credit for certain categories of imports. Increasing the margin deposit requirement on Letters of Credit (LCs) for the import of certain categories of vehicles from 100 per cent to 200 per cent, imposing a margin deposit requirement of 100 per cent against LCs for the import of 44 categories of non-essential items as well as the import of the same items on DA terms were some of these measures. Banks were not allowed to grant any credit to meet these margin requirements.
+
+Despite the signiﬁ cant increase in inﬂ ation as a result of the pass-through of external supply shocks to domestic prices, the stringent monetary policy stance adopted by the Central Bank enabled it to contain inﬂ ationary pressures in the economy. Inflation as measured by the Colombo Consumers’ Price Index (base = 2002), was on a steady upward path during the ﬁ rst half and reached 28.2 per cent by June 2008, from 18.8 per cent at end 2007. This was largely due to the upward adjustments in administered prices of certain items such as kerosene, petrol and diesel, prices of which were hiked in line with the sharp increase in international fuel prices, and these price changes in turn led to upward adjustments in transport fares. The continued increases in other commodity prices, particularly prices of food items, in the international market, until around April, also had a signiﬁ cant impact on domestic prices. However, a reversal of the increasing trend in world commodity prices was observed during the second half of 2008. This and the continued tight demand management policies helped bring down headline inﬂ ation gradually from
+
+150
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+July to reach 14.4 per cent by December 2008. Inﬂ ation, on a year-on-year basis, has moderated further to 7.6 per cent by February 2009. Meanwhile, core inﬂ ation calculated as per the exclusion method, whereby prices of food and energy categories are excluded from the Colombo Consumers’ Price Index (CCPI), also declined from its peak of 18.7 per cent in September 2008 to 15.7 per cent by end 2008. It declined further to 14.1 per cent by February 2009.
+
+Given these favourable developments in respect of inflation, the Central Bank is moving towards re-establishing the policy rate corridor formed by its Repurchase and Reverse Repurchase rates. Accordingly, the Central Bank has reduced its Penal rate of interest charged on reverse repurchase transactions on three occasions in 2009, so far, by a total of 425 basis points, to 14.75 per cent. The Bank also reduced its Repurchase rate and Reverse Repurchase rate by 25 basis points each, in February 2009, to 10.25 per cent and 11.75 per cent, respectively.
+
+During the year, the Bank further pursued its policy of communicating to the public, in a timely manner, about its policy decisions, giving the rationale for such decisions. Such communication helps narrow the gap between market expectations and the Central Bank’s own views, and increases near-term predictability, from the perspective of markets, resulting in the smooth adjustment of markets to policy initiatives. Communication, when coupled with credibility, also helps anchor inﬂ ation expectations. In addition to communication through press releases, the Bank’s publications, which deal
+
+with numerous topics in economics and ﬁ nance, were made available to the general public. Further, ofﬁ cers of the Central Bank have been resource persons at various fora, including public lectures held by the Bank, with a view to enhancing public understanding and awareness of economic issues and developments. In carrying out its responsibilities, the Bank also continued its policy of engaging in dialogue with market participants and stakeholders. In this regard, the views of the Monetary Policy Consultative Committee (MPCC) were also taken into consideration by the Bank, in formulating its monetary policy.
+
+The effectiveness of the Central Bank’s communication strategies is exhibited by the trends in inﬂ ation expectations of the public. Findings of the inﬂ ation expectations survey show a gradual decline in the expected future inﬂ ation as perceived by the public. The expected level of inflation as per the survey is now gradually converging towards the Bank’s own inflation forecasts. Recent surveys show a further decline in the expected levels of inﬂ ation in the coming months, indicating expectations of a low and stable level of inﬂ ation during 2009.
+
+7.3 Developments in Money and Credit Aggregates
+
+Money Market Liquidity
+
+Money market liquidity was maintained at a level consistent with the stringent reserve money targets. The money market had excess liquidity during most of the ﬁ rst eight months of 2008, mainly due to the inﬂ ux of foreign exchange through foreign investments in government securities and an increase in the limit on provisional advances to
+
+151
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+the government by the Central Bank. Absorbing the excess liquidity therefore, necessitated aggressive open market operations (OMO) both on temporary and permanent bases. During this period, Treasury bills amounting to Rs.26.6 billion was sold outright to absorb excess liquidity on a permanent basis, in addition to temporary absorption on an overnight basis through repurchase transactions. In the absence of an adequate stock of Treasury bills held by the Central Bank, the Bank’s own securities with very short maturities were also issued to mop up excess liquidity from the market.
+
+The liquidity condition, however, reversed in September 2008, inﬂ uenced by the exacerbating liquidity constraints in the global financial markets. There was an outﬂ ow of foreign currency from the country by way of withdrawals of foreign investments in Treasury bills and Treasury bonds following the outbreak of the global ﬁ nancial crisis. Also, the government could not obtain foreign financing to the extent expected. The resulting pressure in the foreign exchange market warranted Central Bank intervention in the foreign exchange market through supplies of foreign exchange to prevent a sharp depreciation of the exchange rate. The supply of foreign exchange by the Central Bank dried up rupee liquidity in the money market, creating a liquidity shortfall during most of the fourth quarter of 2008. To address this shortfall in liquidity, the Central
+
+Bank injected Rs. 24.5 billion through reductions in the SRR. The Central Bank also injected liquidity through purchases of Treasury bills in the primary and secondary markets while the remaining shortfall was accommodated through reverse repurchase transactions. Though initiatives were taken to offer liquidity through term reverse repurchase facilities, the demand was basically for overnight liquidity.
+
+Reserve Money
+
+The Central Bank was successful in maintaining reserve money well within the quarterly targets in 2008. The quarterly targets were revised on three occasions, leading to a downward revision in the target for annual average reserve money growth to 9.7 per cent. However, reserve money expansion decelerated at a faster rate than that targeted during the latter part of the year, as the impact of the demand management policies were re-imposed by the ﬁ nancial constraints that arose with the unfolding of the global ﬁ nancial crisis. Hence, by end 2008, annual average reserve money growth was only 8.5 per cent. Following these developments, only Rs.4.0 billion of new money had been injected in 2008, in comparison to the Rs. 24.6 billion injected in 2007.
+
+The main source of reserve money expansion during the ﬁ rst three quarters, was an expansion in Net Foreign Assets (NFA) of the Central Bank,
+
+Table 7.1Underlying Factors of Reserve Money and Broad Money
+
+ItemEnd2007End2008(a)
+
+Change
+
+20072008AmountAmount%%
+
+Source: Central Bank of Sri Lanka.
+
+Rs. billion
+
+Reserve Money 264.4 268.4 24.6 10.2 4.0 1.5 Net Foreign Assets of the Central Bank 292.9 167.7 63.1 27.4 -125.2 -42.7 Net Domestic Assets of the Central Bank -28.5 100.7 -38.5 -384.9 129.2 453.2
+
+Broad Money (M2b) 1,404.0 1,522.8 199.5 16.6 118.8 8.5 Net Foreign Assets 228.0 97.3 56.8 33.2 -130.7 -57.3 Monetary Authorities 292.9 167.7 63.1 27.4 -125.2 -42.7 Commercial Banks -64.9 -70.5 -6.2 10.6 -5.5 -8.5
+
+Net Domestic Assets 1,176.0 1,425.5 142.6 13.8 249.5 21.2 Domestic Credit 1,607.8 1,897.5 225.8 16.3 289.7 18.0 Net Credit to the Government 374.1 572.0 16.8 4.7 197.9 52.9 Monetary Authorities 101.1 217.4 -11.9 -10.5 116.3 115.0 Commercial Banks 273.0 354.7 28.7 11.7 81.6 29.9 Credit to Public Corporations 49.2 47.0 17.6 55.8 -2.2 -4.4 Credit to the Private Sector 1,184.5 1,278.5 191.3 19.3 94.0 7.9
+
+Other Items (net) -431.8 -472.0 -83.2 -23.8 -40.2 -9.3
+
+(a) Provisional
+
+152
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+as net domestic assets (NDA) declined during that period. This trend reversed in the fourth quarter with NDA reporting a signiﬁ cant increase, while NFA was declining. The expansion in NFA during the ﬁ rst three quarters was mainly due to the Central Bank’s purchases of proceeds to the government from a syndicated loan of US dollars 150 million obtained from an overseas bank, loans obtained from Offshore Banking Units (OBUs) amounting to US dollars 75 million, the net sale of SLDBs amounting to US dollars 25 million, the disbursement of scheduled foreign loans and grants; and the absorption of excess foreign exchange from the market arising from the sale of Treasury bills and bonds to foreign investors. NDA of the Central Bank declined substantially during this period as the Bank absorbed surplus liquidity from the market by selling Treasury bills out of its holdings through open market operations, to maintain reserve money along the planned path. By June 2008, the Bank’s Treasury bill holdings declined to a near zero level, and the Central Bank had to issue its own securities to absorb excess liquidity. During the last quarter however, the NFA of the Central Bank declined notably due to the repercussions of the global ﬁ nancial crisis and resulting liquidity constraints. This was largely a result of an outﬂ ow of foreign investments in Treasury bills and Treasury bonds, the settlement of foreign loans and the provision of foreign exchange to the market, mainly to settle Ceylon Petroleum Corporation (CPC) bills in order to avoid undue pressure on the exchange rate arising from the withdrawal of suppliers’ credit facilities
+
+enjoyed by the CPC prior to the crisis. Corresponding to the decline in NFA, NDA increased, by a marginally higher amount. The increase in NDA was mainly reﬂ ected in the increase in Treasury bill holdings of the Central Bank by around Rs. 100 billion by end 2008.
+
+On the use side of reserve money, currency in circulation increased, while commercial banks’ deposits with the Central Bank declined. The decline in deposits of commercial banks with the Central Bank was due to the reduction of the SRR by 225 basis points. The actual increase in currency in circulation however, was only around Rs.12.7 billion. This is likely to be due to reduced demand for currency by the public in view of the slow-down in economic activity towards the end of the year.
+
+Narrow Money (M1)
+
+The narrow money supply, which consists of currency and demand deposits held by the public, continued to maintain low growth following the signiﬁ cant deceleration observed over the previous years. Monthly year-on-year growth in the narrow money supply ranged from 1-7 per cent during 2008, indicating that it had stabilised to a great extent, compared with the continued decelerating trend observed since end 2005.
+
+Currency held by the public expanded at a moderate rate of 5.3 per cent during the year compared with the growth of 9 per cent in 2007. Meanwhile, year-on-year growth in demand deposits was 2.4 per cent by December 2008. This could
+
+153
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+be attributed to the prevalent high interest rate environment, which has shifted public preference from non-interest bearing demand deposits to interest bearing term deposits.
+
+Broad Money (M2b)
+
+Expansion in the broad money supply declined considerably during the year in line with the more restrictive reserve money growth and resulting high interest rates which helped decelerate credit expansion. Growth in the broad money supply declined from 16.6 per cent at end 2007 to 8.5 per cent by end 2008, compared to the expected growth of around 11 per cent. The annual average growth in broad money was 12.1 per cent. The expansion in broad money was largely on account of the increase in the growth of quasi money, which consists of both time and savings deposits held by the public. Quasi money expanded by 9.5 per cent during the year as a result of an expansion in rupee denominated term deposits. Foreign currency deposits, which grew at a healthy rate through 2007 and the ﬁ rst half of 2008 reversed this trend since July. As a result, foreign currency deposits declined by around 9 per cent year-on-year in dollar terms, in 2008. This is attributable to the drop of around 13 per cent in non-resident foreign currency (NRFC) accounts, which account for two thirds of foreign currency deposits. A reversal of the worldwide monetary policy tightening
+
+that prevailed prior to the ﬁ nancial crisis, resulting in lower interest rates for foreign currency deposits, could have prompted this development as foreign currency deposits may have been converted into rupee deposits in order to beneﬁ t by the advantage of high rupee interest rates.
+
+On the asset front, the expansion in the broad money supply is entirely due to the increase in net domestic assets (NDA) of the banking system as net foreign assets (NFA) declined during the year. NFA of the banking system eroded on account of the decline in foreign assets of both the Central Bank and commercial banks by end 2008. NFA of the Central Bank declined primarily as it supplied foreign exchange to accommodate the withdrawal of foreign investments in Treasury bills and Treasury bonds, large petroleum bills, and amortisation and interest
+
+Table 7.2Developments in Monetary Aggregates
+
+1. Currency Outstanding 173.4 186.1 16.2 10.3 12.7 7.3 1.1 Currency held by the Public 147.2 155.0 12.1 9.0 7.8 5.3 1.2 Currency with Commercial Banks 26.2 31.1 4.0 18.0 4.9 18.72. Commercial Banks Deposits’ with the Central Bank 91.1 82.3 8.4 10.2 -8.7 -9.63. Government Agencies’ Deposits with the Central Bank … … … … … 4. Reserve Money (1+2+3) 264.4 268.4 24.6 10.2 4.0 1.55. Demand Deposits held by the Public with Commercial Banks 119.4 122.3 -5.3 -4.2 2.9 2.46. Narrow Money Supply, M1 (1.1+5) 266.6 277.3 6.9 2.7 10.7 4.07. Time and Savings Deposits held by the Public 881.2 1,004.9 147.6 20.1 123.7 14.0 with Commercial Banks 8. Broad Money Supply, M2 (6+7) 1,147.7 1,282.2 154.5 15.6 134.5 11.79. Foreign Currency Deposits (b) 256.3 240.6 45.0 21.3 -15.7 -6.110. Consolidated Broad Money Supply, M2b (8+9) 1,404.0 1,522.8 199.5 16.6 118.8 8.5 Money Multiplier M2b 5.31 5.67 Velocity, M2b (c) 2.73 3.01
+
+ItemEnd2007End2008(a)
+
+Change20072008AmountAmount%%
+
+Rs. billion
+
+Source: Central Bank of Sri Lanka.(a) Provisional (b) Includes deposits of Resident Category of Offshore Banking Units and a part of foreign currency deposits with Domestic Banking Units (c) During the year. Based on national accounts estimates by the Department of Census and Statistics.
+
+154
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+payment of foreign loans. A key reason for the downturn in foreign assets of commercial banks is the conversion of foreign assets to domestic assets. This includes the conversion of banks’ investments abroad to extend a syndicated loan of US dollars 75 million to the government and a net increase of US dollars 25 million in their holdings of Sri Lanka Development Bonds (SLDB).
+
+NDA of the banking system, which declined during the ﬁ rst half, picked up considerably during the latter half of the year. The high rate of domestic credit expansion, particularly credit to the private sector, posed a concern in monetary management over the past few years. However, it showed signs of responding to the tightened monetary policy and prudential measures adopted by the Central Bank with a view to containing the expansion in credit. The major component of domestic credit, credit to the private sector, decelerated during the year. But, net credit to the government (NCG) increased considerably towards the end of the year, thereby thrusting NDA upwards.
+
+Credit to the private sector continued to decelerate, reaching single digit levels by the third quarter of the year. Compared to the growth in the range of 19 – 27 per cent observed in the previous year, credit to the private sector showed a signiﬁ cant slowdown reaching 7.9 per cent by end 2008. The slowdown in credit growth was brought on by several factors. Firstly, the rise in market interest rates in step with the restricting of liquidity helped
+
+contain credit growth during the ﬁ rst three quarters of the year. The negative outlook for the global economy, its impact on the prospects of domestic businesses and the resulting downturn in domestic economic activities during the latter part of the year as well as the banks restraining from extending credit due to liquidity constraints could also have spurred the decline in credit growth. The share of credit extended by the Domestic Banking Units (DBUs) from the total credit meanwhile remained broadly unchanged from the previous year at around 86 per cent.
+
+As per the purpose-wise distribution of bank credit, the highest share of credit was absorbed by commercial activity. Around 28 per cent of the credit extended by commercial banks has been taken up by commercial activities, that is, export and import trade and domestic trade activities. This was followed by consumption, that is, loans obtained for personal needs and the purchase of consumer durables, as well as loans obtained through credit cards. While credit for consumption related purposes accounted for 24 per cent of the total bank credit, housing activities accounted for 15 per cent. In line with the moderation in demand for credit, credit absorbed by these sectors also showed a decline. Credit for commercial activities contracted by around 1 per cent during the year compared to a growth of 28.0 per cent in the previous year, particularly due to a
+
+Table 7.3Sectoral Distribution of Loans and Advances by Commercial Banks (a)
+
+Change %End2007Sector
+
+As a % of TotalEnd 2008
+
+(a) Loans and advances by DBUs of Commercial Banks only. Advances include loans, overdrafts and bills discounted and exclude cash items in the process of collection.(b) Includes advances granted for engineering and building trade, mining and ﬁ shing.
+
+Source: Central Bank of Sri Lanka
+
+2007 2008
+
+Rs. billion
+
+End2008
+
+Commercial 307.3 304.4 28.1 28.0 -0.9 Exports 72.3 63.2 5.8 56.1 -12.6 Imports 93.3 104.6 9.6 24.6 12.0Financial 65.1 62.3 5.8 28.3 -4.2Agricultural 40.6 45.1 4.2 26.1 11.1Industrial (b) 82.6 90.6 8.4 13.6 9.7Tourism 11.9 13.1 1.2 -3.6 9.5Housing 166.6 164.2 15.2 24.7 -1.4Consumption 207.2 264.1 24.4 29.2 27.5Services 52.2 63.4 5.9 20.3 21.4Other 71.6 76.5 7.1 -10.8 6.8
+
+Total 1,005.1 1,083.7 100.0 21.7 7.8
+
+155
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+considerable decline in credit for export activities. Similarly, growth in credit for consumption activities, which grew at 29.2 per cent in 2007, declined to 27.5 per cent in 2008 while credit extended for housing purposes, which grew at 24.7 per cent in the previous year, declined by 1.4 per cent in 2008.
+
+NCG, which remained below end 2007 levels during the first quarter, escalated thereafter supported by credit from both the Central Bank as well as commercial banks. The overall increase in NCG during the year stood at Rs. 198 billion. This increase is accounted for by an increase in the holdings of Treasury bills by the Central Bank as well as provisional advances to the government, which together accounted for Rs. 116 billion; and Rs.82 billion provided by commercial banks. The Central Bank’s purchases of Treasury bills in the primary and secondary markets to offset the liquidity shortfall in the money market was a key reason for the increase in its holding of Treasury bills during the year. The higher borrowings from commercial banks are reﬂ ected in the increases in their holding of Treasury bills and Treasury bonds, SLDBs and the government overdraft balance within their portfolio. The overrun in the government’s domestic credit utilisation is predominantly due to the non-realisation of expected foreign inﬂ ows, the difﬁ culties in raising funds abroad due to the turbulent conditions in international financial markets, and the lower revenue collection.
+
+Credit to public corporations showed some decline during 2008, although it was less than expected. Credit absorbed by the public corporations declined to Rs. 47 billion by end December indicating a net
+
+repayment of about Rs. 2 billion during the year. This was in line with the decline in credit utilised by the Ceylon Petroleum Corporation (CPC), which accounts for the largest share of credit in this segment. During the year, the overall credit supplied to the CPC declined by Rs. 5 billion bringing down its total outstanding amount to Rs.33 billion. The Ceylon Electricity Board (CEB), the second largest borrower, continued to repay its debt obligations to the banking sector, although the decline in its debt obligations was marginal. Meanwhile, credit utilised by the State Pharmaceuticals Corporation and the Ceylon Fertiliser Corporation increased during the year, bringing down the overall decline in credit utilised by the public corporations.
+
+Financial Survey (M4)
+
+Following the declining trend in the year-on-year growth in broad money (M2b), the growth in broad money as measured by the ﬁ nancial survey (M4)1 also shows a downward trend. Growth in M4 began to decelerate from September 2007, with a signiﬁ cant deceleration throughout 2008. Accordingly, year-on-year growth in M4, which was about 20 per cent by September 2007, and 16.7 per cent at end 2007, had declined to 9.5 per cent by end 2008. Given the decline in the NFA of the banking system, this growth was entirely due to an increase in the NDA of the banking system and registered ﬁ nance companies, on account of an increase in their claims on both the government and the private sector. With respect to finance
+
+1 The ﬁ nancial survey provides a broader measure of liquidity, covering licensed specialised banks and registered ﬁ nance companies, in addition to licensed commercial banks and the Central Bank.
+
+Table 7.4 Financial Survey and Underlying Factors
+
+ItemEnd2007
+
+Change 2007Amount%
+
+Source: Central Bank of Sri Lanka.
+
+(a) Provisional
+
+Rs. billion
+
+2008Amount%
+
+Financial Survey (M4) 1,752.3 1,918.7 250.7 16.7 166.4 9.5
+
+Underlying Factors Net Foreign Assets 204.7 75.8 53.7 35.9 -128.9 -63.0 Net Domestic Assets 1,547.6 1,842.9 197.0 14.6 294.9 19.1 Domestic Credit 2,094.7 2,429.4 296.7 16.5 334.7 16.0 Net Credit to the Government 545.4 764.9 34.7 6.8 219.5 40.2 Credit to Public Corporations 49.2 47.0 17.6 55.7 -2.2 -4.5 Credit to the Private Sector 1,500.0 1,617.5 244.4 19.5 117.5 7.8 Other Items (net) -547.1 -586.5 -99.7 22.3 -39.4 7.2
+
+End2008(a)
+
+156
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+companies, which account for about 5 per cent of the assets covered by the Financial Survey, year-on-year growth in credit extended by them to the private sector remained relatively high at above 20 per cent during most of the year 2008, although it declined to 16.7 per cent by end 2008. Savings and time deposits with registered ﬁ nance companies also expanded at a very high rate of around 32 per cent during 2008. With respect to licensed specialised banks however, there has been a deceleration in the expansion of credit aggregates, namely, credit to the private sector, as well as deposits held with them, similar to that of commercial banks.
+
+7.4 Interest Rates
+
+The Central Bank kept its policy interest rates unchanged during 2008 as it relied more on quantity control strategies through which market interest rates were allowed to adjust upward. Accordingly, the Repurchase rate and the Reverse Repurchase rate of the Central Bank remained at 10.50 per cent and 12 per cent, respectively. The Penal rate, introduced in November 2007, at which commercial banks and primary dealers were allowed access to the reverse repurchase window when they exhausted their quota at the Reverse Repurchase rate, also remained unchanged at 19 per cent throughout 2008. The upward adjustments in market interest rates through tight monetary policy helped contain the excessive expansion in credit as expected. With the decline in inﬂ ation during the second half of the year, real interest rates in many market segments turned positive.
+
+Money Market Rates
+
+During 2008, short-term money market rates moved in a narrower range than in the previous year, although with some volatility, due to ﬂ uctuations in market liquidity. The Central Bank, by allowing market participants to access its reverse repurchase facility at the penal rate of 19 per cent, minimised volatility in call market rates and brought in some stability to the inter-bank money market. However, call rates increased when market liquidity was short, particularly during much of the period from September to November 2008, pushing up the weighted average call money rate to a range of around 17 – 19 per cent. They moved in a range of around 13 – 15 per cent when the money market had surplus liquidity. The reduction in the SRR and the relaxing of access to the reverse repurchase facility for participating institutions from mid October 2008 eased liquidity constraints in the money market. Hence, call money rates declined towards the end of the year, reﬂ ecting the improvement in market
+
+Table 7.5Changes in Policy Interest Rates of the Central Bank
+
+Source: Central Bank of Sri Lanka
+
+Per cent
+
+10.11.2004 (Close of Business) 7.50 9.00 15.00 13.05.2005 7.75 9.25 15.00 15.06.2005 8.25 9.75 15.00 13.09.2005 8.50 10.00 15.00 22.12.2005 8.75 10.25 15.00 16.06.2006 9.00 10.50 15.00 24.07.2006 9.125 10.625 15.00 28.07.2006 9.625 11.125 15.00 15.12.2006 10.00 11.50 15.00 23.02.2007 10.50 12.00 15.00 03.12.2007 10.50 12.00 15.00 19.00
+
+DateRepo Rate
+
+Reverse Repo Rate
+
+Bank Rate
+
+Penal Rate on Reverse Repo
+
+Table 7.6Money Market Rates
+
+Per cent
+
+Dec-06 10.00 11.06 14.47 13.55 14.73 13.80Dec-07 10.50 11.98 24.99 15.40 21.75 15.69Mar-08 10.50 11.90 17.58 15.69 18.58 16.13Jun-08 10.50 11.68 13.11 15.31 13.31 15.60Sep-08 10.50 - 19.34 17.18 19.53 17.62Dec-08 10.50 10.96 14.66 15.13 13.74 15.57
+
+Central Bank Repo Rate
+
+Weighted Average Repo Auction Rate
+
+Weighted Average Call Money Rate
+
+Source: Central Bank of Sri Lanka
+
+Average for the monthEndPeriodAverage for the monthEndPeriod
+
+SLIBOR-Overnight
+
+157
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+liquidity. The Sri Lanka Inter Bank Offered Rates (SLIBOR), which are the average of offered rates for inter-bank rupee transactions, also moved in line with the availability of liquidity and have shown similar movements to those of call money market rates.
+
+The Central Bank conducted open market operations to mop up the excess liquidity during the first eight months of 2008. The weighted average rate at daily OMO auctions during this period ﬂ uctuated in a range of 11.09 - 11.99 per cent, while the weighted average rate at outright sale auctions was in the range of 14.54 - 18.67 per cent. The Central Bank also issued its own securities to absorb excess liquidity in the market during this period, as its holdings of Treasury bills reached near zero levels towards mid-year. Interest rates pertaining to these securities at term auctions, which had maturities ranging from 14 - 21 days, varied in a range of 14.40 -16.52 per cent per annum, while those pertaining to Central Bank securities issued at overnight auctions hovered in the range of 11.64 - 11.95 per cent.
+
+Deposit and Lending Rates
+
+Deposit and lending rates were on an upward path during 2008 as well. The Central Bank tightening its monetary policy stance resulted in higher borrowing costs while banks have adjusted upward their deposit rates in order to attract more deposits from the public. The Average Weighted Lending Rate (AWLR), which reﬂ ects the movement of interest rates pertaining to the entire loan portfolio of commercial banks, was on a gradual upward path in 2008. The Average Weighted Prime Lending Rate (AWPR), which reﬂ ects the borrowing costs of prime
+
+customers, that is, the most creditworthy customers, also moved up gradually. Lending rates of long-term ﬁ nancial institutions, although showing some variation among institutions, generally increased during the year. The penal interest rates charged by commercial banks on outstanding payments through credit cards were in the range of 30-48 per cent compared to 30-42 per cent in 2007. With respect to rates of interest paid on rupee deposits with commercial banks, those on ﬁ xed deposits, on average, increased by a slightly higher margin than those on savings deposits. The Legal rate and the Market rate reﬂ ected the upward trend observed in deposit rates. Deposit rates of long-term ﬁ nancial institutions also increased in line with the increase in deposit rates of the banking sector.
+
+The interest rates on foreign currency denominated deposits of commercial banks have decreased during 2008 in line with the signiﬁ cant downward adjustments in policy interest rates in a number of advanced economies. Interest rates pertaining to US dollar denominated savings deposits have decreased from a range of 0.20-5.06 per cent at end 2007 to 0.20-3.93 per
+
+Interest Rates on Deposits and Lending (a)
+
+InstitutionEnd 2007
+
+Source: Central Bank of Sri Lanka
+
+Table 7.7
+
+(a) Based on the rates quoted by commercial banks and non-commercial bank ﬁ nancial institutions(b) Lending for housing purposes only.
+
+Per cent
+
+End 2008Commercial Banks
+
+Interest Rates on Deposits One year ﬁ xed deposits 8.50-20.00 8.50-20.25 Savings Deposits 3.0-16.50 3.0-16.50 Average Weighted Deposit Rate (AWDR) 10.31 11.63 Average Weighted Fixed Deposit Rate (AWFDR) 15.49 16.89
+
+Interest Rates on Lending Average Weighted Prime Lending Rate (AWPR) 17.95 18.50 Average Weighted Lending Rate (AWLR) 18.08 20.17
+
+Non-Commercial Bank Institutions Interest Rates on Deposits National Savings Bank Savings Deposits 5.00 5.00 One year Fixed Deposits 15.00 15.00 State Mortgage and Investment Bank One year Fixed Deposits 16.00 20.00 DFCC Bank One year Fixed Deposits 18.00 18.00
+
+Interest Rates on Lending National Savings Bank (b) 17.00-18.00 19.00-20.00 State Mortgage and Investment Bank (b) 15.00-16.50 23.00-24.00 DFCC Bank 20.00-25.00 22.50-23.00 National Housing Development Authority (b) 11.00 11.00
+
+158
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+cent by end 2008 while those pertaining to US dollar denominated time deposits have decreased from 1.13-6.53 per cent at end 2007 to 1.13-6.0 per cent by end 2008.
+
+Yields on Government Securities
+
+Yields on government securities followed a different path compared to other interest rates in the domestic market. This was primarily due to the opening up of Treasury bills for foreign investment and inﬂ ows of foreign investments into both Treasury bills and Treasury bonds during the ﬁ rst half of the year and the subsequent sudden withdrawal of these foreign investments with the onset of the global ﬁ nancial crisis. Accordingly, yields on government securities, which declined considerably during most of the ﬁ rst three quarters of the year 2008, increased thereafter.
+
+Yields on Treasury bonds, which declined till mid 2008 increased thereafter. The yield rate on 2-year Treasury bonds declined from 18.58 per cent in January 2008 to 17.79 per cent by mid-May 2008 and increased thereafter to reach 20.53 per cent by end 2008. Similar movements were seen in 3-year Treasury bonds as well. Several issues of 4-year Treasury bonds also have been made during the second half of the year. Outﬂ ows of foreign money invested in Treasury bonds during the latter part of the year and a shortage in market liquidity are likely to have contributed to the upward pressure on their yields.
+
+The secondary market yield curve for government securities remained relatively short during 2008, although some improvement
+
+was seen during the third quarter. The market for Treasury bonds with medium to long-term maturities was relatively inactive during the ﬁ rst half of the
+
+year due to the high inﬂ ationary environment. This
+
+resulted in the secondary market yield curve for
+
+government securities remaining short during that
+
+period. However, with the gradual deceleration in
+
+inﬂ ation and inﬂ ation expectations thereafter, the
+
+yield curve extended from two years as at end 2007
+
+to ﬁ ve years as at the end of the third quarter. But,
+
+a reversal was seen in this trend in the last quarter,
+
+due to unfavourable developments in financial
+
+markets.
+
+Yields on Corporate Debt Securities
+
+Coupon rates pertaining to listed corporate
+
+debt securities issued in 2008 were in a range of
+
+17.0-24.0 per cent compared to a lower range of
+
+13.50-17.50 per cent in 2007. In 2008, reﬂ ecting the
+
+high interest rate environment, yields on commercial
+
+paper with a maturity of 1-3 months, at the time of
+
+issue, increased to a range of 18.25-27.0 per cent
+
+from a range of 15.0-24.24 per cent in 2007.
+
+Table 7.8Yield Rates of Government Securities
+
+Per cent
+
+Source: Central Bank of Sri Lanka
+
+End December 2007
+
+(a) Th e last auction for 2-year Treasury bonds was held in November 2007. (b) Th e last auction for 3-year Treasury bonds was held at end October 2007. (c) Th e last auction for 4-year Treasury bonds was held at end April 2007.
+
+Primary Market
+
+Treasury bills 91 days 21.30 17.33 182 days 19.99 18.57 364 days 19.96 19.12
+
+Treasury bonds 2 years 15.50 (a) 20.53 3 years 15.99 (b) 20.34 4 years 14.32 (c) 19.60
+
+Rupee Securities 18.40 18.40
+
+Secondary Market
+
+Treasury bills 91 days 20.37 - 182 day 20.13 18.36 364 days 20.11 19.03
+
+Treasury bonds 2 years 19.34 21.06 3 years - - 4 years - -
+
+End December 2008
+
+159
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+7.5 Further Developments, Challenges and Outlook
+
+The Department of Census and Statistics (DCS) commenced publishing core inﬂ ation in 2008 as it was considered an important element in gauging underlying inﬂ ation, which is inﬂ ation driven by demand pressures in the economy. The purpose of measuring core inflation is to identify the underlying long-term trend in inﬂ ation, which the Central Bank could address through its monetary policy measures. Among various methods of compiling core inﬂ ation, the exclusion of food and energy prices from overall inﬂ ation is used in a number of countries, and the DCS introduced this measure in 2008. The present core inﬂ ation index is based on the CCPI (2002=100), and is calculated by removing the food and energy components entirely from the overall price index. Inﬂ ation arising from these components, that is, food and energy, is usually transitory and central banks do not respond to transitory changes in inﬂ ation as, if responded to, it could lead to even higher volatility in inﬂ ation and output growth. However, the Central Bank perceives that deriving a core inﬂ ation index based on the exclusion of the entire food and energy components, which together comprise almost 49 per cent of the consumer basket, may be subject to some shortcomings. In particular, the gap between core and headline inﬂ ation has been too wide due to the removal of a large component of the consumption basket and the sharp rise in food and energy prices in 2008. While such a core inﬂ ation measure may be a useful indicator of demand driven inﬂ ation, the large disparity between the two indicators would make it difﬁ cult to build public conﬁ dence in the core inﬂ ation measure and therefore, diminishes its usefulness in managing inﬂ ation expectations. Hence, the Central Bank is exploring alternative methods of calculating core inﬂ ation measures with a view to introducing an improved index of core inﬂ ation.
+
+Aligning inﬂ ation expectations of the general public with the expected inﬂ ation path of the Central Bank is imperative to achieving and maintaining price stability. Considering the vital importance of measuring and assessing expected inﬂ ation in the conduct of monetary policy, the Central
+
+Bank conducted inﬂ ation expectation surveys on a regular basis from March 2007. Currently, the results of such expectation surveys are used by the Central Bank for its monetary policy purposes. However, some issues in measuring inflation expectations remain, which need to be resolved in order to obtain optimum results that can be used in guiding monetary policy. These include expanding the coverage of the survey, promoting the awareness on the usefulness of such surveys and thereby inducing the response of economic units, introducing a blend of survey based and professional forecaster based expectations to improve the methodology, and increasing the awareness, particularly of households, to improve the quality of the inﬂ ation expectations survey.
+
+Financial system stability is of prime importance for effective monetary policy transmission and hence, monetary management. The Central Bank took several measures in 2008 and early 2009 to ensure stability in domestic ﬁ nancial institutions and markets and thereby the ﬁ nancial system as a whole. One such measure was to inject liquidity to address liquidity difﬁ culties in some ﬁ nancial institutions with a view to ensuring the smooth functioning of the ﬁ nancial system and mitigating any systematic risk. However, such liquidity injections naturally increase liquidity in the market thereby increasing inﬂ ationary pressures unless excess liquidity is absorbed by the Central Bank on a permanent basis. Meanwhile, increases in excess liquidity in the market pose difﬁ culties in monetary management as it would require immediate absorption, thus impacting on market interest rates. Hence, it is important that stability in the ﬁ nancial system, that is, in institutions and markets, is preserved through enhanced supervision and prudential measures, which would help effective monetary management. This would also strengthen monetary policy transmission, thereby supporting the conduct of monetary policy.
+
+Exchange rate management may also pose difﬁ culties to the monetary operations of the Central Bank. The conduct of exchange rate policy and management of the official foreign reserves of Sri Lanka are considered as prime
+
+160
+
+Central Bank of Sri Lanka Annual Report - 2008
+
+MONETARY POLICY, MONEY, CREDIT AND INTEREST RATES
+
+7
+
+functions of the Central Bank. Exchange rate management particularly in turbulent periods stemming from external shocks poses difﬁ culties to the Central Bank’s monetary operations, particularly to maintaining stability in all markets. Pressures emanating from external shocks require the Central Bank to intervene in the foreign exchange market in order to mute violent ﬂ uctuations in the exchange rate and thereby reduce the adverse impact on other macroeconomic variables. Although such interventions by the Central Bank bring stability to the foreign exchange market, it may pose a threat to the smooth operation of the domestic money market. For instance, if foreign exchange is provided to the market, the resultant decline in rupee liquidity could create upward pressure on interest rates, which may not be consistent with the desired monetary policy stance. In such circumstances, the Central Bank may be required to inject liquidity to the domestic market to replace the liquidity absorbed through interventions and maintain monetary expansion on the desired path. However, if the liquidity shortfall is large in magnitude, it may pose difﬁ culties to the Bank to attain the monetary policy objective set out as banks are faced with a liquidity constraint and may not wish to expand their operations though such an expansion is warranted by the monetary policy stance.
+
+The realisation of monetary targets in 2009 would largely depend on the expected performance in the external and ﬁ scal sectors. During 2009, Broad Money is targeted to expand by a conservative 14 per cent, on average, commensurate with the expected economic growth of around 5 per cent and inﬂ ation of 9 per cent as measured by the GDP deﬂ ator. The average growth of reserve money in 2009 has also been
+
+projected at 5 per cent, which is set to neutralise the expansionary impact of the reduction in SRR during 2008 and 2009. The monetary programme assumes a Balance of Payments (BOP) surplus of around US dollars 450 million and an increase in net credit to the government of around Rs. 17.5 billion. At the same time, credit to the private sector is expected to expand in a higher range of 15-16 per cent during the year when compared to 2008. However, the realisation of these targets would largely depend on external sector and ﬁ scal sector performance. As in the past, the Central Bank would carefully monitor the developments during the year, and if any notable deviations in such variables are observed, monetary targets may be revised appropriately.
+
+The conduct of monetary policy in 2009 would be even more challenging in view of several considerations. Inﬂ ation is on a decelerating trend creating room for a considerable easing of monetary policy. There is increasing demand for monetary easing, particularly in view of the declining external demand due to global recessionary conditions, to support domestic economic activities. In fact, the monetary programme for 2009 also expects an easing. However, monetary policy easing needs to be carefully assessed in view of its possible impact on the external sector, which is under pressure as a consequence of the global ﬁ nancial crisis. At the same time, there is a risk of the government resorting to borrow substantially from the banking system, until anticipated ﬁ nancial ﬂ ows are forthcoming, which may lead to monetary expansion even without easing monetary policy through an interest rate reduction. While there is a lack of demand for credit, there is also reluctance on the part of banks to extend credit, in view of their need to safeguard liquidity and avoid loan losses in the present stressful environment.

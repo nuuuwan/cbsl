@@ -1,0 +1,488 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      256.73,
+      31.54,
+      527.41,
+      44.42
+    ],
+    "text": "FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      532.64,
+      732.39,
+      547.27,
+      745.86
+    ],
+    "text": "311",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      540.4,
+      639.03,
+      572.68,
+      705.2
+    ],
+    "text": "8",
+    "fonts": [
+      "Capitals"
+    ],
+    "sizes": [
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      99.31,
+      118.7,
+      111.3
+    ],
+    "text": "Introduction",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      116.58,
+      283.14,
+      250.34
+    ],
+    "text": "Moneylending can be described as lending of money at an interest, with or without a security, by a moneylender to a borrower. In Sri Lanka, moneylending is mainly carried out by the Licensed Banks and other financial institutions such as the Licensed Finance Companies, Licensed Microfinance Companies, Microfinance Non-Governmental Organizations, Co-operative Rural Banks and Thrift and Credit Co-operative Societies, and Samurdhi Community-Based Banks. However, there are informal moneylenders as well, who operate throughout the country in the forms of individuals, sole proprietors, partnerships or companies.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      255.73,
+      283.14,
+      445.06
+    ],
+    "text": "Although the moneylending activities of licensed banks and other financial institutions are regulated, 1the informal moneylenders are not regulated or supervised by any regulatory authority in Sri Lanka. The existing legal framework is mainly focused on financial institutions, which are engaged in financial intermediation and important from the view point of financial system stability. Further, the Money Lending Ordinance, No. 2 of 1918 (the Money Lending Ordinance), which provides protection for customers of moneylenders coming under its purview, does not mandate a specific regulator nor a licensing/registration requirement for moneylenders. Thus, a customer, who intends to seek redress under the Money Lending Ordinance, needs to initiate legal procedure, which could involve considerable amount of financial and other resources.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      450.46,
+      283.13,
+      539.72
+    ],
+    "text": "In this background, the Central Bank of Sri Lanka (CBSL) identifies the need to establish a prudential regulatory framework in the informal moneylending business in the country. Such need was amply justified by the amount of evidence collected through the field visits by the CBSL, and complaints received in relation to various malpractices and customer harassment incidents by moneylenders.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      544.54,
+      283.38,
+      567.65
+    ],
+    "text": "Importance of Regulating the Informal Moneylending Business",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      572.93,
+      283.13,
+      639.95
+    ],
+    "text": "a) Regulation of informal moneylenders is important from the view point of customer protection. As informal moneylenders are not subject to any customer protection regulations, customers of such moneylenders are often subjected to unfair terms and conditions, as well as harassment. Thus,",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      61.53,
+      649.76,
+      282.12,
+      700.16
+    ],
+    "text": "1 The Licensed Banks and Licensed Finance Companies and Licensed Microfinance Companies are regulated by the Central Bank of Sri Lanka; the Non-Governmental Organizations engaged in microfinance business are regulated by the Registrar of Voluntary Social Services Organizations; Co-operative Rural Banks and Thrift and Credit Co-operative Societies are regulated by the Department of Co-Operative Development; and the Samurdhi Community Based Banks are regulated by the Department of Samurdhi Development.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.54,
+      61.0,
+      482.19,
+      84.99
+    ],
+    "text": "BOX 13Requirement for Regulating the Informal Moneylending Business in Sri Lanka",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      317.23,
+      99.41,
+      524.64,
+      133.71
+    ],
+    "text": "the customers of informal moneylenders may lose trust and confidence, and eventually end up with no access to financial services .",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      145.12,
+      524.65,
+      339.9
+    ],
+    "text": "b) At present, the informal moneylending businesses do not report information on their borrowers to the Credit Information Bureau of Sri Lanka (CRIB). Therefore, formal moneylending institutions tend to lack comprehensive information on their customers when assessing creditworthiness. Further, non existence of CRIB reporting by informal moneylenders encourages some borrowers, particularly with a default history, to access the unregulated moneylenders for their financial requirements. The absence of a proper assessment of creditworthiness by unregulated moneylenders results in granting multiple-loans to the same customer, leading to over-indebtedness,2 which could lead to various socio-economic costs such as disruption of education of children, increase in malnutrition, loss of livelihood etc.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      5.53849983215332,
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      351.3,
+      524.64,
+      408.52
+    ],
+    "text": "c) Existence of a larger number of informal moneylenders in the country could sometimes lead to severe competition in the formal money lending businesses as well, resulting in unethical practices and harassment of customers.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      419.93,
+      524.63,
+      465.69
+    ],
+    "text": "d) Collecting information on the microfinance industry of Sri Lanka is a challenge when informal moneylenders are not required to report information to any formal authority.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      477.1,
+      524.64,
+      522.86
+    ],
+    "text": "e) Existence of a large number of unregulated money lending businesses could create issues in designing and implementing credit policies, particularly for small and medium scale enterprises.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      533.85,
+      524.89,
+      557.3
+    ],
+    "text": "Regional Experience on Regulating the Moneylending Business",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      565.76,
+      524.65,
+      588.61
+    ],
+    "text": "Several countries in the region regulate the moneylending business, as indicated below.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      600.02,
+      524.64,
+      668.7
+    ],
+    "text": "(a) In Malaysia, moneylenders are required to obtain a licence under the Moneylenders Act 1951 (as amended). The Moneylenders Act provides for regulation of moneylending business, including protection of customers of moneylending businesses.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      303.06,
+      678.56,
+      513.26,
+      700.16
+    ],
+    "text": "2 Over-indebtedness has been defined by the Consultative Group to Assist the Poor (CGAP), as the inability to repay all debts fully and on time.https://www.cgap.org/blog/over-indebtedness-roles-and-responsibilities-all-actors",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      53.86,
+      31.6,
+      276.71,
+      45.48
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA | ANNUAL REPORT 2019",
+    "fonts": [
+      "Calibri",
+      "Calibri-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      8.9,
+      639.03,
+      47.09,
+      745.86
+    ],
+    "text": "3128",
+    "fonts": [
+      "Capitals",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.0,
+      46.423648834228516
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      63.27,
+      280.51,
+      118.66
+    ],
+    "text": "(b) In Bangladesh, microcredit institutions are required to obtain a license under the Microcredit Regulatory Authority Act, No.32 of 2006, to conduct micro credit programs, and are regulated by the Microcredit Regulatory Authority of Bangladesh.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      129.6,
+      280.54,
+      174.0
+    ],
+    "text": "(c) The Central Bank of Philippines regulates the business of extending credit by creditors in the customer protection perspective under the Truth in Lending Act, (Republic Act No. 3765).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      184.94,
+      280.55,
+      229.34
+    ],
+    "text": "(d) The Reserve Bank of India regulates systemically important, non-deposit taking, non-bank finance companies, under the Reserve Bank of India Act of 1934.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      239.8,
+      280.8,
+      262.79
+    ],
+    "text": "The Proposed Microfinance Credit Regulatory Authority Act (proposed Act)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      58.96,
+      273.62,
+      280.57,
+      395.02
+    ],
+    "text": "With a view to addressing some of the issues highlighted above, the CBSL proposed the enactment of the proposed Act. The proposed Act which was approved by the Monetary Board of the CBSL enables the establishment of the Microfinance and Credit Regulatory Authority (the Authority), which is a statutory body to be set up within the Ministry of Finance (MOF). This Authority, which consists of ex-officio representatives from the MOF, the CBSL, and nominees of the Governor of CBSL and the Minister of Finance, is mandated to regulate the microfinance institutions and unregulated moneylenders.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      63.27,
+      522.06,
+      130.52
+    ],
+    "text": "The proposed Act further provides protection for customers of microfinance and moneylending business while necessitating the reporting requirement to the CRIB by the regulated institutions. The proposed Act would repeal and replace the Microfinance Act, No.6 of 2016 (Microfinance Act).",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      9.5
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      142.18,
+      396.99,
+      154.17
+    ],
+    "text": "Concluding Remarks",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      300.47,
+      165.69,
+      522.21,
+      396.92
+    ],
+    "text": "The issues associated with the informal moneylenders such as the over-indebtedness of customers, lack of reporting of credit information to authorities, and lack of protection for customers etc., could lead to significant socio-economic costs, unless appropriate measures are initiated on a priority basis. In that context, the proposed Act is expected to address such issues identified in the informal and unregulated moneylending business in the country. The proposed Act could also assist in addressing some of the shortcomings identified in the existing Microfinance Act, where there could be a possibility of a regulatory arbitrage due to the existence of different regulators for Licensed Microfinance Companies and Microfinance Non-Governmental Organizations, and also more emphasis given to regulation of deposit taking microfinance institutions over micro-credit institutions, which could result in lack of protection for small time borrow.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0
+    ]
+  }
+]

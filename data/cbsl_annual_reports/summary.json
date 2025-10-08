@@ -2,13 +2,13 @@
   "doc_class_label": "cbsl_annual_reports",
   "doc_class_emoji": "\ud83d\udcd9",
   "doc_class_description": "Annual Reports of the Central Bank of Sri Lanka (CBSL).It has been discountinued since 2023and replaced with swo separate reports,namely, the Annual Economic Reviewand Financial Statementsand Operations of the Central Bank.",
-  "time_updated": "2025-10-08 14:02:06",
+  "time_updated": "2025-10-08 14:27:46",
   "n_docs": 1137,
-  "n_docs_with_pdfs": 48,
-  "n_docs_with_text": 48,
+  "n_docs_with_pdfs": 298,
+  "n_docs_with_text": 298,
   "date_str_min": "1950-01-01",
   "date_str_max": "2023-01-01",
-  "dataset_size": 154623333,
+  "dataset_size": 688773562,
   "url_source_list": [
     "https://www.cbsl.gov.lk"
   ],

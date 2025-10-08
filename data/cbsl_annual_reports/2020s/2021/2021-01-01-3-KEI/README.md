@@ -1,0 +1,65 @@
+KEY ECONOMIC INDICATORS
+
+2014 2015 2016 2017 20182019 2020 (a)
+
+DEMOGRAPHY
+
+Mid-year population (‘000 persons) (b)(c)20,77820,97021,203(a)21,444(a)21,670(a)21,803(a)21,919Growth of mid-year population (per cent) (b)0.90.91.1(a)1.1(a)1.1 (a)0.6 (a)0.5Population density (persons per sq.km.) (b)331334338342346348350Labour force (‘000 persons) (d)(e)8,0498,2148,3118,5678,3888,5928,467(f)Labour force participation rate (per cent) (d)(e)53.253.853.854.151.852.350.6(f)Unemployment rate (per cent of labour force) (d)(e)4.34.74.44.24.44.85.5(f)
+
+OUTPUT (g)
+
+GDP at current market price (Rs. billion) 10,361 10,951 11,996 13,328 14,291 (h) 15,013 (a)(h) 14,973 GNI at current market price (Rs. billion) 10,125 10,676 11,676 12,975 13,901 (h) 14,581 (a)(h) 14,568 GDP at current market price (US$ billion) 79.4 80.6 82.4 87.4 87.9 (h) 84.0 (a)(h) 80.7 GNI at current market price (US$ billion) 77.6 78.5 80.2 85.1 85.5 (h) 81.6 (a)(h) 78.5 Per capita GDP at current market price (Rs.) (i) 498,660 522,204 565,773 621,531 659,479(h) 688,573 (a)(h) 683,106 Per capita GNI at current market price (Rs.) (i) 487,298 509,103 550,697 605,076 641,500(h) 668,748 (a)(h) 664,620 Per capita GDP at current market price (US$) (i) 3,819 3,841 3,886 4,077 4,057 (h) 3,852 (a)(h) 3,682 Per capita GNI at current market price (US$) (i) 3,732 3,745 3,782 3,969 3,947 (h) 3,741 (a)(h) 3,582
+
+REAL OUTPUT (percentage change) (g)
+
+GDP5.05.0 4.53.63.3 (h)2.3(a)(h)-3.6Major economic activities of GDPAgriculture4.64.7-3.7-0.4 5.8 (h)1.0(a)(h)-2.4Industry4.72.25.74.71.3(h)2.6(a)(h)-6.9Services4.86.04.83.64.6(h)2.2(a)(h)-1.5GNI5.14.84.33.63.2(h)2.1(a)(h)-5.0
+
+AGGREGATE DEMAND AND SAVINGS (per cent of GDP) (g)
+
+Consumption75.876.4 79.4 75.6 77.6 (h)79.3(a)(h)81.1Private67.4 67.4 71.0 67.1 68.4 (h)69.8(a)(h)70.7Government8.4 9.0 8.5 8.5 9.2 (h)9.4(a)(h)10.4Investment32.3 31.2 27.9 31.6 29.9 (h)26.8(a)(h)25.2Net exports of goods and services-8.1 -7.5 -7.3 -7.2 -7.4 (h)-6.1(a)(h)-6.4Exports of goods and services21.1 21.0 21.2 21.8 23.0 (h)23.1(a)(h)16.6Imports of goods and services29.2 28.5 28.5 29.1 30.5 (h)29.3(a)(h)22.9Domestic savings24.2 23.6 20.6 24.4 22.4 (h)20.7(a)(h)18.9Net primary and secondary income from rest of the world5.6 5.2 5.2 4.6 4.3 (h)4.0(a)(h)5.0National savings29.8 28.8 25.7 29.0 26.7 (h)24.7(a)(h)23.9
+
+PRICES AND WAGES (percentage change)
+
+National Consumer Price Index (2013 = 100) - annual average - 3.8 4.07.72.13.56.2National Consumer Price Index (2013 = 100) - year-on-year (end period) - 4.2 4.27.30.46.24.6Colombo Consumer Price Index (2013 = 100) - annual average - 2.2 4.06.64.34.34.6Colombo Consumer Price Index (2013 = 100) - year-on-year (end period) - 4.6 4.57.12.84.84.2Colombo Consumer Price Index (2006/07 = 100) - annual average (j)3.3 0.9 3.7----Colombo Consumer Price Index (2006/07 = 100) - year-on-year (end period) (j)2.1 2.8 4.1----Producer's Price Index (2013 Q4 = 100) - annual average- 3.6 1.717.06.3 2.95.8GDP deflator (g)2.90.64.87.3 3.8 (h)2.7(a)(h)3.4GNI deflator (g)2.90.64.97.3 3.8 (h)2.7(a)(h)5.1Nominal wage rate index for workers in all wages boards (1978 Dec =100)3.7 2.9 0.00.0 0.62.90.2Nominal wage rate index for public sector employees (2016 =100)---- 0.24.79.2Nominal wage rate index for public sector employees (2012 =100)10.5 31.7 3.90.0 0.13.2-Nominal wage rate index for informal private sector employees (2012 =100)7.6 7.3 7.99.513.26.23.3
+
+EXTERNAL TRADE
+
+Trade balance (US$ million)-8,287 -8,388 -8,873 -9,619 -10,343-7,997-6,008Exports11,130 10,546 10,310 11,360 11,89011,94010,047Imports19,417 18,935 19,183 20,980 22,23319,93716,055Terms of trade (percentage change)4.3 2.7 4.01.20.02-1.62.5Export unit value index (2010 = 100) (percentage change)2.7 -9.4 -1.5 2.4 4.2-6.3-6.8Import unit value index (2010 = 100) (percentage change)-1.5 -11.8 -5.3 1.2 4.1-4.8-9.1Export volume index (2010 = 100) (percentage change)4.3 4.6 -0.7 7.6 0.57.2-9.7Import volume index (2010 = 100) (percentage change)9.5 10.6 7.0 8.1 1.8-5.8-11.4
+
+EXTERNAL FINANCE (US$ million)
+
+Services and primary income account (net) 72 312 6789841,381388(h)-1,282Current private transfers (net) 6,199 6,167 6,4346,3166,1555,7576,194Current official transfers (net) 28 27 19118913Current account balance -1,988 -1,883 -1,742-2,309-2,799-1,843(h)-1,083Overall balance 1,369 -1,489 -5002,068-1,103377-2,328
+
+(a) Provisional(b) As reported by Registrar General’s Department(c) Based on the Census of Population and Housing - 2012(d) Household population aged 15 and above is considered for the calculation of labour force.(e) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.
+
+(f) Average of four quarters of 2020(g) Rebased GDP estimates (base year 2010) of the Department of Census and Statistics have been used.(h) Revised(i) Estimates are updated with the latest population figures(j) Compilation of this index was discontinued since January 2017.
+
+KEY ECONOMIC INDICATORS (Contd.)
+
+2014201520162017201820192020 (a)
+
+Current account balance (per cent of GDP) (g)(k)-2.5-2.3-2.1-2.6-3.2-2.2-1.3Total foreign assets (months of the same year imports) (l)6.15.95.36.05.26.36.4Gross official reserves (months of the same year imports) 5.14.63.84.63.74.64.2Overall debt service ratio (m)As a percentage of export of goods and services21.728.225.623.928.929.733.5As a percentage of current receipts15.219.818.017.321.321.8(h)21.5Total external debt (per cent of GDP) (g)(k)54.155.756.859.059.5(h)65.3(h)60.9
+
+EXCHANGE RATES
+
+Annual averageRs/US$130.56135.94145.60152.46162.54178.78185.52Rs/SDR (n)198.35190.16202.39211.49229.90246.97258.61NEER (2017 = 100) (24 - currency basket) (o)105.29109.46104.91100.0094.0588.1785.93REER (2017 = 100) (24 - currency basket) (o)(p)98.92103.01100.55100.0095.4590.4291.36Year endRs/US$131.05144.06149.80152.85182.75181.63186.41Rs/SDR (n)189.86199.63201.38217.69253.51251.17268.48
+
+GOVERNMENT FINANCE (per cent of GDP) (g)(q)(r)
+
+Revenue and grants11.613.314.1 13.8 13.5 12.6 9.2Revenue11.513.314.1 13.7 13.4 12.6 9.1 o/w Tax revenue10.112.412.2 12.5 12.0 11.6 8.1Grants0.10.10.1 0.1 0.1 0.1 0.04Expenditure and net lending17.320.919.5 19.3 18.8 22.220.3Recurrent expenditure12.815.514.7 14.5 14.6 16.117.0Capital expenditure and net lending4.65.44.8 4.8 4.2 6.13.3Current account balance-1.2-2.3-0.6 -0.7 -1.2-3.6-7.9Primary balance-1.5-2.9-0.2 0.02 0.6 -3.6-4.6Overall fiscal balance-5.7-7.6-5.3 -5.5 -5.3-9.6-11.1Deficit financing5.77.65.3 5.5 5.3 9.611.1Foreign2.12.23.3 3.3 2.3 3.6-0.6Domestic3.75.42.1 2.2 3.1 6.011.7Central government debt (s)72.378.579.0 77.9 84.2 86.8 101.0Foreign 30.032.433.7 35.4 41.7 41.3 40.4Domestic (t)42.246.245.3 42.5 42.5 45.5 60.6
+
+MONETARY AGGREGATES (year-on-year percentage change)
+
+Reserve money18.316.527.19.82.3-3.03.4Narrow money (M1)26.316.88.62.14.74.236.0Broad money (M2b) (u)13.417.818.416.713.07.023.4Net foreign assets of the banking system119.8-2,071.222.4152.6-155.1250.3 (h)-308.0Net domestic assets of the banking system10.526.015.99.816.34.6 (h)27.8Domestic credit from the banking system toGovernment (net) 10.322.512.110.016.111.1 (h)62.7Public corporations23.517.7-3.24.540.78.322.5Private sector8.625.021.614.715.94.2 (h)6.5Money multiplier for M2b (end year)6.716.786.316.717.428.189.75Velocity of M2b (average for the year) (g)2.852.622.432.262.11(h)2.041.76
+
+INTEREST RATES (per cent per annum at year end)
+
+Standing Deposit Facility Rate (SDFR) (v)6.506.007.007.258.007.004.50Standing Lending Facility Rate (SLFR) (v)8.007.508.508.759.008.005.50Bank Rate (w)15.0015.0015.0015.0015.0015.008.50Legal Rate of Interest / Market Rate of Interest (x)10.347.765.987.069.0811.5011.64Money market ratesAverage weighted call money rate (AWCMR)6.216.408.428.158.957.454.55Treasury bill yields91-day5.746.458.727.6910.017.514.69364-day6.017.3010.178.9011.208.455.05Deposit ratesCommercial banks’ average weighted deposit rate (AWDR)6.206.208.179.078.818.205.80Commercial banks’ average weighted fixed deposit rate (AWFDR)7.337.5710.4611.4810.8510.057.14Commercial banks’ average weighted new deposit rate (AWNDR)5.456.9611.1710.0610.948.894.93Commercial banks’ average weighted new fixed deposit rate (AWNFDR)5.587.1311.4410.6511.279.175.08NSB savings rate5.005.004.254.004.004.003.50NSB 12 month fixed deposit rate6.507.2511.0011.0010.509.835.25Lending ratesCommercial banks’ average weighted prime lending rate (AWPR)-Weekly6.267.5311.5211.5512.099.745.81Commercial banks’ average weighted lending rate (AWLR)11.9111.0013.2013.8814.4013.5910.29Commercial banks’ average weighted new lending rate (AWNLR)10.2610.1913.9414.3114.5412.808.38
+
+CAPITAL MARKET
+
+All share price index (ASPI) (1985 = 100)7,299.06,894.56,228.36,369.36,052.46,129.26,774.2S&P SL 20 index (2004 Dec = 1,000)4,089.13,625.73,496.43,671.73,135.22,937.02,638.1Value of shares traded (Rs. million)340,917253,251176,935220,591200,069171,408396,882Net purchases by non nationals (Rs. million)21,217-5,37233817,655-23,239-11,735-51,356Market capitalisation (Rs. billion)3,104.92,938.02,745.42,899.32,839.52,851.32,960.7
+
+(k) Based on GDP estimates in US dollars(l) Excludes foreign assets in the form of direct investments abroad and trade credit and advances received(m) Overall debt service ratios were reclassified to capture debt servicing in accordance with the External Debt Statistics Manual (2003) of the International Monetary Fund (IMF).(n) Special Drawing Rights (SDR), the unit of account of the IMF(o) Exchange rates have been defined in terms of indices so that the appreciation/depreciation of the rupee relative to other currencies is reflected by a rise/fall in the values of the effective exchange rate indices.(p) CCPI is used for the computation of the Real Effective Exchange Rate (REER). The REER is computed by adjusting the Nominal Effective Exchange Rate (NEER) for inflation differentials with the countries whose currencies are included in the basket.(q) Based on the revised GDP estimates for 2018 and 2019 released on 16 March 2021 by the Department of Census and Statistics(r) According to the Ministry of Finance, some fiscal sector statistics of 2019 have been restated as announced in the Budget Speech for 2020 (s) As per the guidelines of compiling government debt statistics in the Manual of Government Finance Statistics published by the IMF in 2014, non resident holdings of outstanding SLDBs have been classified under foreign debt and resident holdings of outstanding ISBs of the Sri Lankan Government have been classified under domestic debt from 2019 onwards.
+
+(t) Outstanding balance of Treasury bonds issued to State Owned Business Enterprises (SOBEs) has been included.(u) Values from 2015 include assets/ liabilities of DFCC Bank PLC, which merged with DFCC Vardhana Bank, with effect from 1 October 2015.(v) Repurchase rate and Reverse Repurchase rate renamed as Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR), respectively, with effect from 2 January 2014.(w) The rate at which the Central Bank grants advances to banking institutions as the lender of last resort.(x) The Legal rate is defined under the Civil Procedure Code (Amendment) Act No. 6 of 1990 and is applicable to any legal action for the recovery of a sum of money. The Market rate is defined under the Debt Recovery (Special Provisions) Act No. 2 of 1990 and is applicable only in relation to legal actions instituted by lending institutions for the recovery of debt exceeding Rs. 150,000 arising out of commercial transactions, where there is no agreed rate of interest. The Monetary Board of the Central Bank determines the Legal rate and Market rate for each year and publishes in the Government Gazette in the month of December to be applicable for the forthcoming year. The Legal rate and the Market rate for the year 2021 is 10.12 per cent per annum.

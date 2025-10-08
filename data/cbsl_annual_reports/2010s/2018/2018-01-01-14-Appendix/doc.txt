@@ -1,0 +1,7453 @@
+STATISTICAL APPENDIX
+
+Table No.
+
+1. NATIONAL OUTPUT, EXPENDITURE AND INCOME 1 - 31
+
+2. ECONOMIC AND SOCIAL INFRASTRUCTURE 32 - 37
+
+3. PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY 38 - 62
+
+4. EXTERNAL SECTOR DEVELOPMENTS AND POLICIES 63 - 97
+
+5. FISCAL POLICY AND GOVERNMENT FINANCE 98 - 120
+
+6. Monetary Policy, Interest Rates, Money and Credit 121 - 132
+
+7. FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITY 133 - 151
+
+WEIGHTS AND MEASURESConversion Factors
+
+British to Metric Units 1 acre = 0.405 hectares (ha) 1 pound (Ib) = 0.454 kilogrammes (kg) 1 long ton (2,240 Ibs) = 1.016 metric tons (mt) 1 hundred weight (cwt) = 50.802 kg 1 mile = 1.609 kilometres (km) 1 long ton mile = 1.635 mt km 1 Ib/acre = 1.121 kg/ha 1 cwt/acre = 125.536 kg/ha 1 pint = 0.75 litres 1 imperial gallon = 4.55 litres
+
+Metric to British Units 1 hectare = 2.471 acres 1 kilogram = 2.205 lbs 1 mt ton (1,000 kg) = 0.984 long ton 1 metre = 3.281 feet 1 kilometre = 0.621 mile 1 mt kilometre = 0.612 long ton mile 1 litre = 1.76 pints = 0.219 imp. gallons 1 kg/ha = 0.892 Ib/acre
+
+Paddy/Rice Conversions 1 bushel of paddy (46 Ibs) = 20.87 kg 1 mt paddy = 47.92 bushels paddy = 0.7 mt rice 1 mt rice = 68.46 bushels paddy = 1.43 mt paddy 1 bushel paddy/acre = 51.55 kg paddy/ha
+
+Coconut and Coconut Product Conversions 1 mt of desiccated coconuts = 7,797 nuts 1 mt of coconut oil = 8,690 nuts 1 mt ton of copra = 5,230 nuts 1 mt of coconut milk = 3,250 nuts
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 1
+
+Gross National Income by Industrial Origin at Current Market Prices (a)Rs. million
+
+Economic Activity 201320142015 (b)2016 (b)(c) 2017 (c)
+
+Agriculture, Forestry and Fishing 735,382 829,577 896,229 890,602 1,024,117
+
+1. Growing of Cereals (Except Rice) 17,592 18,454 20,385 16,503 14,640
+
+2. Growing of Rice 66,851 100,931 118,098 72,809 110,418
+
+3. Growing of Vegetables 69,065 73,091 90,546 85,842 66,363
+
+4. Growing of Sugar Cane, Tobacco and Other Non-perennial Crops 3,263 3,431 2,801 3,194 3,200
+
+5. Growing of Fruits 44,839 45,697 55,258 64,559 84,327
+
+6. Growing of Oleaginous Fruits (Coconut, King Coconut, Oil Palm) 74,654 79,820 95,586 75,804 104,575
+
+7. Growing of Tea (Green Leaves) 90,921 91,533 75,789 82,133 116,694
+
+8. Growing of Other Beverage Crops (Coffee, Cocoa etc.) 1,263 1,622 1,366 2,096 2,044
+
+9. Growing of Spices, Aromatic, Drug and Pharmaceutical Crops 49,507 75,735 80,564 86,459 87,676
+
+10. Growing of Rubber 31,493 17,437 14,226 10,717 17,788
+
+11. Growing of Other Perennial Crops 19,251 22,636 24,507 25,674 24,227
+
+12. Animal Production 40,334 57,284 65,517 92,499 99,486
+
+13. Plant Propagation and Support Activities to Agriculture 11,166 12,110 13,808 14,889 14,852
+
+14. Forestry and Logging 64,072 71,767 75,549 83,816 100,094
+
+15. Marine Fishing and Marine Aquaculture 137,651 141,987 146,923 159,302 159,130
+
+16. Fresh Water Fishing and Fresh Water Aquaculture 13,460 16,043 15,305 14,307 18,603
+
+Industries 2,797,328 2,931,998 2,975,232 3,248,987 3,614,916
+
+17. Mining and Quarrying 245,382 254,392 249,098 315,122 341,219
+
+18. Manufacture of Food, Beverages and Tobacco Products 801,748 759,354 823,461 866,921 976,820
+
+19. Manufacture of Textiles, Wearing Apparel and Leather Related Products 365,685 415,363 399,291 402,540 477,409
+
+20. Manufacture of Wood and of Products of Wood and Cork, except Furniture 27,365 22,269 29,023 27,771 24,793
+
+21. Manufacture of Paper Products, Printing and Reproduction of Media Products 28,261 36,585 39,575 43,487 44,682
+
+22. Manufacture of Coke and Refined Petroleum Products 66,064 66,690 20,399 5,049 4,688
+
+23. Manufacture of Chemical Products and Basic Pharmaceutical Products 62,740 74,134 73,804 87,444 87,769
+
+24. Manufacture of Rubber and Plastic Products 74,995 77,754 81,853 94,206 107,076
+
+25. Manufacture of Other Non- metallic Mineral Products 124,831 110,571 92,862 97,618 102,960
+
+26. Manufacture of Basic Metals and Fabricated Metal Products 34,300 33,635 39,298 53,537 68,943
+
+27. Manufacture of Machinery and Equipment 34,584 33,421 46,309 51,049 62,953
+
+28. Manufacture of Furniture 57,966 78,967 78,569 80,714 87,215
+
+29. Other Manufacturing, and Repair and Installation of Machinery and Equipment 44,553 49,971 56,342 64,615 74,461
+
+30. Electricity, Gas, Steam and Air Conditioning Supply 90,539 77,639 82,966 86,874 88,102
+
+31. Water Collection, Treatment and Supply 11,189 14,425 15,098 17,819 17,733
+
+32. Sewerage, Waste Treatment and Disposal Activities 11,671 13,140 16,873 19,517 20,231
+
+33. Construction 715,455 813,689 830,412 934,706 1,027,860
+
+Services 5,406,544 5,895,618 6,283,379 6,770,667 7,412,033
+
+34. Wholesale and Retail Trade 1,047,793 1,117,234 1,193,649 1,269,831 1,404,435
+
+35. Transportation of Goods and Passengers including Warehousing 1,162,834 1,288,124 1,302,310 1,425,908 1,476,433
+
+36. Postal and Courier Activities 4,695 4,821 5,001 4,890 5,036
+
+37. Accommodation, Food and Beverage Service Activities 155,197 166,608 171,356 185,039 207,053
+
+38. Programming and Broadcasting Activities and Audio Video Productions 4,198 3,680 4,426 4,809 4,883
+
+39. Telecommunication 41,986 44,733 56,181 66,805 76,702
+
+40. IT Programming Consultancy and Related Activities 11,902 13,405 15,532 17,271 19,180
+
+41. Financial Service Activities and Auxiliary Financial Services 308,810 340,727 347,909 406,769 499,149
+
+42. Insurance, Reinsurance and Pension Funding 81,712 92,938 102,319 120,722 143,843
+
+43. Real Estate Activities, including Ownership of Dwelling 512,063 562,687 625,695 690,146 770,243
+
+44. Professional Services 198,873 210,966 197,247 201,975 224,429
+
+45. Public Administration and Defence; Compulsory Social Security 501,755 563,280 637,473 678,675 746,439
+
+46. Education 189,298 212,148 250,174 256,884 266,317
+
+47. Human Health Activities, Residential Care and Social Work Activities 198,796 210,304 257,206 266,170 276,132
+
+48. Other Personal Service Activities 986,633 1,063,962 1,116,902 1,174,775 1,291,758
+
+Equals Gross Value Added (GVA) at Basic Price 8,939,254 9,657,194 10,154,839 10,910,257 12,051,065
+
+Taxes less Subsidies on Products 652,871 703,957 795,782 996,495 1,238,401
+
+Equals Gross Domestic Product (GDP) at Market Price 9,592,125 10,361,151 10,950,621 11,906,752 13,289,466
+
+Net Primary Income from Rest of the World-226,086-236,073-274,740-321,260 (d)-356,282 (d)
+
+Gross National Income at Market Price 9,366,039 10,125,078 10,675,880 11,585,492 12,933,185
+
+(a) The data is based on the base year 2010 GDP estimates of Department of Census and Statistics.(b) Revised(c) Provisional(d) The difference with the BOP estimates is due to the time lag in compilation.
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 2
+
+Gross National Income by Industrial Origin at Constant (2010) Prices (a)Rs. million
+
+Economic Activity 201320142015 (b)2016 (b)(c) 2017 (c)
+
+Agriculture, Forestry and Fishing 611,676 639,696 669,725 644,262 639,273
+
+1. Growing of Cereals (Except Rice) 14,307 13,969 14,984 13,149 11,799
+
+2. Growing of Rice 65,607 61,019 76,293 52,387 50,269
+
+3. Growing of Vegetables 54,153 55,244 56,730 58,705 49,198
+
+4. Growing of Sugar Cane, Tobacco and Other Non-perennial Crops 2,441 2,287 1,882 2,168 1,863
+
+5. Growing of Fruits 37,385 40,888 48,038 46,511 49,960
+
+6. Growing of Oleaginous Fruits (Coconut, King Coconut, Oil Palm) 53,424 64,158 67,514 66,970 53,929
+
+7. Growing of Tea (Green Leaves) 74,734 73,936 72,051 63,970 67,019
+
+8. Growing of Other Beverage Crops (Coffee, Cocoa etc.) 1,321 1,538 1,259 1,354 1,268
+
+9. Growing of Spices, Aromatic, Drug and Pharmaceutical Crops 50,833 57,505 60,797 62,197 62,499
+
+10. Growing of Rubber 37,987 28,688 25,783 23,028 24,167
+
+11. Growing of Other Perennial Crops 14,344 15,402 16,839 16,484 16,739
+
+12. Animal Production 36,599 47,950 51,857 55,629 57,809
+
+13. Plant Propagation and Support Activities to Agriculture 9,183 9,767 10,421 10,210 10,250
+
+14. Forestry and Logging 43,044 47,450 48,362 52,669 64,261
+
+15. Marine Fishing and Marine Aquaculture 103,879 105,822 104,413 105,094 103,036
+
+16. Fresh Water Fishing and Fresh Water Aquaculture 12,435 14,072 12,503 13,735 15,208
+
+Industries 2,119,080 2,218,711 2,267,725 2,399,285 2,492,286
+
+17. Mining and Quarrying 198,447 201,613 191,145 218,587 231,516
+
+18. Manufacture of Food, Beverages & Tobacco Products 507,127 513,960 528,821 527,794 535,966
+
+19. Manufacture of Textiles, Wearing Apparel and Leather Related Products 264,527 276,800 282,719 287,760 304,244
+
+20. Manufacture of Wood and of Products of Wood and Cork, except Furniture 25,258 23,139 27,320 31,666 31,556
+
+21. Manufacture of Paper Products, Printing and Reproduction of Media Products 24,925 24,968 27,728 30,504 33,236
+
+22. Manufacture of Coke and Refined Petroleum Products 27,514 28,723 29,075 31,245 29,743
+
+23. Manufacture of Chemical Products and Basic Pharmaceutical Products 81,982 82,243 83,179 86,929 89,174
+
+24. Manufacture of Rubber and Plastic Products 82,187 71,909 76,144 88,635 96,366
+
+25. Manufacture of Other Non- metallic Mineral Products 81,037 78,671 75,191 67,168 72,783
+
+26. Manufacture of Basic Metals and Fabricated Metal Products 26,589 24,882 28,953 36,186 39,312
+
+27. Manufacture of Machinery and Equipment 30,845 32,064 38,848 45,087 48,104
+
+28. Manufacture of Furniture 67,488 82,748 94,489 97,958 102,714
+
+29. Other Manufacturing, and Repair and Installation of Machinery and Equipment 44,443 55,993 68,509 72,973 75,873
+
+30. Electricity, Gas, Steam and Air Conditioning Supply 76,789 80,298 85,202 92,350 94,816
+
+31. Water Collection, Treatment and Supply 10,975 11,504 12,023 12,971 13,569
+
+32. Sewerage, Waste Treatment and Disposal Activities 15,511 17,355 21,681 25,539 27,567
+
+33. Construction 553,438 611,842 596,697 645,933 665,747
+
+Services 4,405,644 4,618,501 4,894,717 5,124,016 5,289,227
+
+34. Wholesale and Retail Trade 859,977 884,094 933,216 956,918 993,429
+
+35. Transportation of Goods and Passengers including Warehousing 849,539 885,506 931,529 982,643 991,703
+
+36. Postal and Courier Activities 4,364 4,056 4,052 4,260 4,425
+
+37. Accommodation, Food and Beverage Service Activities 126,392 131,481 134,017 139,442 146,431
+
+38. Programming and Broadcasting Activities and Audio Video Productions 2,422 2,513 2,624 2,831 3,205
+
+39. Telecommunication 27,395 30,986 34,146 36,982 41,434
+
+40. IT Programming Consultancy and Related Activities 9,693 10,579 12,148 13,015 13,564
+
+41. Financial Service Activities and Auxiliary Financial Services 386,009 420,223 493,785 554,521 606,448
+
+42. Insurance, Reinsurance and Pension Funding 70,854 74,978 82,013 88,999 94,087
+
+43. Real Estate Activities, including Ownership of Dwelling 417,024 444,049 489,352 520,080 544,726
+
+44. Professional Services 161,963 166,486 154,266 152,228 158,720
+
+45. Public Administration and Defence; Compulsory Social Security 382,470 402,205 430,105 452,586 430,671
+
+46. Education 157,477 173,751 159,875 171,826 172,696
+
+47. Human Health Activities, Residential Care and Social Work Activities 146,551 147,962 160,056 162,400 174,148
+
+48. Other Personal Service Activities 803,514 839,633 873,534 885,286 913,540
+
+Equals Gross Value Added (GVA) at Basic Price 7,136,401 7,476,908 7,832,167 8,167,563 8,420,786
+
+Taxes less Subsidies on Products 709,801 758,521 815,667 866,727 894,702
+
+Equals Gross Domestic Product (GDP) at Market Price 7,846,202 8,235,429 8,647,833 9,034,290 9,315,488
+
+Net Primary Income from Rest of the World-184,198-186,344-214,835-239,263-252,040
+
+Gross National Income at Market Price 7,662,004 8,049,085 8,432,998 8,795,027 9,063,448
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics. (b) Revised(c) Provisional
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 3
+
+Gross National Income by Industrial Origin (a)Rs. million
+
+PeriodAgriculture IndustryServicesTaxes lessSubsidieson ProductsGDPGNI
+
+Current Market Prices
+
+2013735,3822,797,3285,406,544652,8719,592,1259,366,039
+
+2014829,5772,931,9985,895,618703,95710,361,15110,125,078
+
+2015 (b)896,2292,975,2326,283,379795,78210,950,62110,675,880
+
+2016 (b)(c) 890,6023,248,9876,770,667996,49511,906,75211,585,492
+
+2017 (c)1,024,1173,614,9167,412,0331,238,40113,289,46612,933,185
+
+2015 (b) 1st Quarter 210,393 771,881 1,478,628 192,5292,653,4312,585,204
+
+2nd Quarter 217,648 681,798 1,552,202 221,5372,673,1862,625,714
+
+3rd Quarter 214,297 758,247 1,583,560 229,2962,785,4002,721,196
+
+4th Quarter 253,891 763,305 1,668,988 152,4202,838,6042,743,767
+
+2016 (b)(c) 1st Quarter 209,710 887,211 1,556,014 254,3072,907,2412,832,127
+
+2nd Quarter 224,672 721,796 1,636,936 288,9692,872,3742,807,290
+
+3rd Quarter 218,266 811,866 1,729,456 182,4942,942,0832,865,439
+
+4th Quarter 237,954 828,114 1,848,262 270,7243,185,0543,080,636
+
+2017 (c) 1st Quarter (b) 219,695 992,862 1,730,614 318,6673,261,8383,175,601
+
+2nd Quarter (b) 259,521 812,774 1,788,334 293,0153,153,6453,088,870
+
+3rd Quarter (b) 251,153 912,489 1,892,029 272,7903,328,4623,244,658
+
+4th Quarter 293,747 896,790 2,001,055 353,9293,545,5223,424,055
+
+Constant (2010) Prices
+
+2013611,6762,119,0804,405,644709,8017,846,2027,662,004
+
+2014639,6962,218,7114,618,501758,5218,235,4298,049,085
+
+2015 (b)669,7252,267,7254,894,717815,6678,647,8338,432,998
+
+2016 (b)(c) 644,2622,399,2855,124,016866,7279,034,2908,795,027
+
+2017 (c)639,2732,492,2865,289,227894,7029,315,4889,063,448
+
+2015 (b) 1st Quarter 161,828 585,377 1,127,754 93,1491,968,1081,914,241
+
+2nd Quarter 168,217 519,743 1,231,457 159,3642,078,7812,041,257
+
+3rd Quarter 162,079 581,753 1,253,787 192,2872,189,9062,139,746
+
+4th Quarter 177,601 580,852 1,281,719 370,8662,411,0382,337,754
+
+2016 (b)(c) 1st Quarter 154,640 666,641 1,165,176 98,6142,085,0712,027,276
+
+2nd Quarter 158,749 523,134 1,272,550 164,2612,118,6942,069,844
+
+3rd Quarter 164,358 595,941 1,324,877 203,2612,288,4362,231,307
+
+4th Quarter 166,515 613,569 1,361,414 400,5922,542,0902,466,601
+
+2017 (c) 1st Quarter (b) 147,783 690,910 1,215,384 100,8932,154,9712,092,226
+
+2nd Quarter (b) 153,751 552,224 1,307,179 169,7652,182,9192,136,922
+
+3rd Quarter (b) 159,476 618,912 1,361,348 214,3212,354,0572,294,865
+
+4th Quarter 178,263 630,240 1,405,315 409,7232,623,5412,539,434
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics. (b) Revised(c) Provisional
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 4
+
+Provincial Gross Domestic Product by Industrial Origin (Current Markert Prices) (2012-2016)
+
+Year / ProvinceWesternCentralSouth-ernNorth-ernEasternNorth WesternNorth CentralUvaSabarag-amuwaTotal
+
+GDP (Rs. mn)
+
+20123,243,854775,580834,287277,828478,401760,148379,243361,975467,2387,578,554
+
+2013 (a)4,049,3101,003,984967,872324,340544,3701,045,953489,622499,534667,1409,592,125
+
+2014 (a)(b)4,295,2281,088,8251,033,443407,074568,2191,112,474561,261562,679731,95010,361,151
+
+2015 (a)(b)4,364,6601,160,9511,105,559452,154624,8011,162,892643,673611,097824,83610,950,621
+
+2016 (a)(c)4,723,8101,254,9341,196,923497,950684,4651,269,511690,728691,011897,41711,906,752
+
+GDP Shares (Percentage)201242.810.211.03.76.310.05.04.86.2100.0
+
+2013 (a)42.210.510.13.45.710.95.15.27.0100.0
+
+2014 (a)(b)41.510.510.03.95.510.75.45.47.1100.0
+
+2015 (a)(b)39.910.610.14.15.710.65.95.67.5100.0
+
+2016 (a)(c)39.710.510.14.25.710.75.85.87.5100.0
+
+GDP By Sector (Rs. mn)
+
+2012
+
+Agriculture93,187117,963114,18759,91185,452111,77274,00994,58182,414833,477
+
+Industry1,135,586224,035287,88149,467150,339230,93198,04680,391131,5652,388,241
+
+Services 2,015,081433,583432,218168,450242,610417,445207,188187,003253,2594,356,837
+
+GDP3,243,854775,580834,287277,828478,401760,148379,243361,975467,2387,578,554
+
+2013 (a)
+
+Agriculture87,42795,261120,27547,91868,055113,52660,45170,03072,438735,382
+
+Industry1,420,948234,143229,38761,274166,192301,476104,018124,486155,4032,797,328
+
+Services2,265,326606,246552,334193,073273,071559,760291,827271,017393,8915,406,544
+
+GDP (d)4,049,3101,003,984967,872324,340544,3701,045,953489,622499,534667,1409,592,125
+
+2014 (a)(b)
+
+Agriculture88,570117,727157,77647,28076,944123,59271,68279,64766,359829,577
+
+Industry1,517,626240,849185,879104,305148,383314,744104,514145,778169,9202,931,998
+
+Services2,397,206656,272619,574227,831304,286598,554346,932299,025445,9405,895,618
+
+GDP (d)4,295,2281,088,8251,033,443407,074568,2191,112,474561,261562,679731,95010,361,151
+
+2015 (a)(b)
+
+Agriculture93,211125,544160,93355,40082,356134,41582,10790,25372,009896,229
+
+Industry1,502,682246,585186,268103,067153,312308,940121,752154,180198,4442,975,232
+
+Services2,449,353704,954678,833260,968343,835635,061393,420322,324494,6316,283,379
+
+GDP (d)4,364,6601,160,9511,105,559452,154624,8011,162,892643,673611,097824,83610,950,621
+
+2016 (a)(c)
+
+Agriculture96,569130,894160,10862,16382,700126,41773,64090,03268,081890,602
+
+Industry1,584,187265,382207,220123,441171,580339,250134,287190,393233,2473,248,987
+
+Services2,651,267752,827728,122270,464372,643697,407424,443352,612520,8816,770,667
+
+GDP (d)4,723,8101,254,9341,196,923497,950684,4651,269,511690,728691,011897,41711,906,752
+
+(a) The data is based on the base year 2010 GDP estimates of Department of Census and Statistics.(b) Revised(c) Provisional(d) Since the tax and subsides on product adjustment is not included, the addition of Agriculture, Industry and Services sectors will not be equal to GDP.
+
+Source: Central Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 5
+
+Resources and their Utilisation (a) Rs. million
+
+ItemAt Current Market Prices At Constant (2010) Prices
+
+201320142015 (b)2016 (b)(c)2017 (c)201320142015 (b)2016 (b)(c)2017 (c)
+
+A. Resources
+
+Gross Domestic Product 9,592,125 10,361,151 10,950,621 11,906,752 13,289,466 7,846,202 8,235,429 8,647,833 9,034,290 9,315,488
+
+Import of Goods and Services 2,775,711 3,021,531 3,125,931 3,414,338 3,872,521 2,103,077 2,304,271 2,548,455 2,749,649 3,281,024
+
+TOTAL 12,367,836 13,382,682 14,076,551 15,321,089 17,161,987 9,949,279 10,539,700 11,196,288 11,783,939 12,596,511
+
+B. Utilisation
+
+Consumption 7,229,352 7,850,006 8,360,930 8,616,150 9,393,491 5,881,197 6,109,435 6,584,691 6,369,395 6,405,552
+
+Gross Domestic Fixed Capital Formation 2,809,789 2,874,377 2,814,288 3,175,779 3,502,124 2,174,090 2,137,668 2,138,922 2,335,255 2,425,383
+
+Change in Inventories and Acquisition less Disposals of Valuables 379,536 473,260 600,267 989,111 1,352,063 423,024 758,928 867,527 1,486,054 2,053,010
+
+Export of Goods and Services 1,949,158 2,185,039 2,301,065 2,540,049 2,914,309 1,470,967 1,533,668 1,605,147 1,593,234 1,712,567
+
+TOTAL 12,367,836 13,382,682 14,076,551 15,321,089 17,161,987 9,949,279 10,539,700 11,196,288 11,783,939 12,596,511
+
+(a) The data is based on the base year 2010 GDP estimates of Department of Census and Statistics.(b) Revised(c) Provisional
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 6
+
+Reconciliation of Key Aggregates at Current Market Prices (a)
+
+Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Gross Domestic Product 9,592,12510,361,15110,950,62111,906,75213,289,466
+
+Plus: Primary Income from Rest of the World17,00320,26317,25318,194 (d)24,402 (d)
+
+Less: Primary Income to Rest of the World243,090256,336291,994339,454 (d)380,684 (d)
+
+2. Gross National Income 9,366,03910,125,07810,675,88011,585,49212,933,185
+
+Plus: Current Transfers from Rest of the World830,407920,035952,5681,057,2811,093,607
+
+Less: Current Transfers to Rest of the World101,728106,906110,486117,498130,650 (d)
+
+3. Gross National Disposable Income10,094,71710,938,20711,517,96212,525,27413,896,141
+
+Less: Final Consumption7,229,3527,850,0068,360,9308,616,1509,393,491
+
+4. National Savings2,865,3653,088,2013,157,0323,909,1244,502,650
+
+Plus: Deficit to Nation on Current Account323,961259,437257,524255,767351,537
+
+5. Gross Domestic Capital Formation3,189,3263,347,6383,414,5564,164,8904,854,187
+
+(a) The data is based on the base year 2010 GDP estimates of Department of Census and Statistics(b) Revised(c) Provisional(d) The difference with the BOP estimates is due to the time lag in compilation.
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 8
+
+Composition of Private Consumption Expenditure at Current Market Prices (a) Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Food and Non-alcoholic Beverages1,705,7161,796,8372,337,7102,279,8092,402,791
+
+2. Alcoholic Beverages, Tobacco and Narcotics121,724132,665141,466154,587168,738
+
+3. Clothing and Footwear280,409275,522401,991411,687326,678
+
+4. Housing, Water, Electricity, Gas and Other Fuels688,512749,919769,723874,956925,011
+
+5. Furnishings, Household Equipment and
+
+Routine Household Maintenance82,31390,70994,717113,419114,977
+
+6. Health179,631181,913208,437232,343251,493
+
+7. Transport1,353,7181,548,4761,363,3181,422,9711,786,623
+
+8. Communication61,30865,33177,31784,86288,616
+
+9. Recreation and Culture73,55889,919167,778142,898150,869
+
+10. Education105,562123,691101,80099,96998,171
+
+11. Restaurants and Hotels285,457306,230312,315337,108376,845
+
+12. Miscellaneous Goods and Services1,608,2641,767,4421,605,5531,729,7281,921,101
+
+13. Direct Purchases Abroad by Residents162,890174,842203,723234,285254,216
+
+14. Less: Direct Purchases in Domestic Market by Non-residents225,394321,550409,670517,216603,311
+
+Total Private Consumption Expenditure6,483,6696,981,9477,376,176 7,601,405 8,262,817
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics. (b) Revised(c) Provisional
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 7
+
+Gross Domestic Capital Formation at Current Market Prices (a)Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+GROSS Domestic CAPITAL FORMATION
+
+1. Gross Domestic Fixed Capital Formation by Asset 2,809,789 2,874,377 2,814,288 3,175,779 3,502,124
+
+1.1 Construction 1,254,493 1,250,116 1,160,410 1,368,928 1,527,680
+
+1.2 Machinery and Equipment and Weapons Systems 1,111,166 1,135,486 1,152,229 1,258,247 1,399,962
+
+1.3 Transport Equipment 378,368 415,652 420,229 460,112 476,415
+
+1.4 Information and Communication Technology (ICT) Equipment 32,271 36,347 42,114 46,828 52,005
+
+1.5 Cultivated Biological Resources 6,761 7,627 8,239 8,188 9,415
+
+1.6 Intellectual Property Products 26,732 29,150 31,067 33,476 36,647
+
+2. Change in Inventories and Acquisition less Disposals of Valuables 379,536 473,260 600,267 989,111 1,352,063
+
+2.1 Change in Inventories 305,057 428,615 563,196 901,724 1,217,426
+
+2.2 Acquisitions less Disposals of Valuables 74,479 44,646 37,071 87,388 134,638
+
+TOTAL 3,189,326 3,347,638 3,414,556 4,164,890 4,854,187
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics. (b) Revised (c) Provisional
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 9
+
+Expenditure on Gross National Income at Current Market Prices (a)Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Consumption Expenditure7,229,3527,850,0068,360,9308,616,1509,393,491
+
+1.1 Private6,483,6696,981,9477,376,1767,601,4058,262,817
+
+1.2 Government745,684868,059984,7551,014,7461,130,674
+
+2. Gross Domestic Capital Formation3,189,3263,347,6383,414,5564,164,8904,854,187
+
+3. Gross Domestic Expenditure (1+2)10,418,67811,197,64411,775,48612,781,04014,247,678
+
+4. Export of Goods and Services1,949,1582,185,0392,301,0652,540,0492,914,309
+
+5. Import of Goods and Services2,775,7113,021,5313,125,9313,414,3383,872,521
+
+6. Gross Domestic Product (3+4-5)9,592,12510,361,15110,950,62111,906,75213,289,466
+
+7. Net Primary Income from Rest of the World-226,086-236,073-274,740-321,260 (d)-356,282 (d)
+
+8. Gross National Income (6+7)9,366,03910,125,07810,675,88011,585,49212,933,185
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics.(b) Revised(c) Provisional(d) The difference with the BOP estimates is due to the time lag in compilation.
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 10
+
+Gross Domestic Expenditure and Availability of Resources at Current Market Prices (a)
+
+Item
+
+201320142015 (b)2016 (b)(c) 2017 (c)
+
+Rs. mn% ofRs. mn% ofRs. mn% ofRs. mn% ofRs. mn% of
+
+GNIGNIGNIGNIGNI
+
+1. Consumption Expenditure
+
+Private6,483,66969.26,981,94769.07,376,17669.17,601,40565.68,262,81763.9
+
+2. Consumption Expenditure
+
+Government745,6848.0868,0598.6984,7559.21,014,7468.81,130,6748.7
+
+3. Gross Domestic Capital Formation3,189,32634.13,347,63833.13,414,55632.04,164,89035.94,854,18737.5
+
+4. Gross Domestic Expenditure 10,418,678111.211,197,644110.611,775,486110.312,781,040110.314,247,678110.2
+
+5. Gross National Income9,366,039100.010,125,078100.010,675,880100.011,585,492100.012,933,185100.0
+
+6. Excess, of (4) over (5) met by1,052,63911.21,072,56510.61,099,60610.31,195,54910.31,314,49410.2
+
+(i) Net Disinvestment Abroad323,961 3.5259,4372.6257,5242.4255,7672.2351,5372.7
+
+(ii) Net Current Transfers from Rest of the World728,6787.8813,1288.0842,0827.9939,7828.1962,957 (d)7.4
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics.(b) Revised(c) Provisional(d) The difference with the BOP estimates is due to the time lag in compilation.
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 11
+
+Investment and Savings at Current Market Prices (a)Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Gross Domestic Product 9,592,125 10,361,151 10,950,621 11,906,752 13,289,466
+
+2. Investment 3,189,326 3,347,638 3,414,556 4,164,890 4,854,187
+
+3. Private Savings 2,430,506 2,638,836 2,836,4693,362,3213,992,138
+
+4. Government Savings-67,733 -127,692 -246,779-71,719-96,162
+
+5. Domestic Savings (3+4) 2,362,773 2,511,145 2,589,690 3,290,601 3,895,975
+
+6. Net Primary Income from Rest of the World-226,086 -236,073 -274,740 -321,260 (d)-356,282 (d)
+
+7. Net Current Transfers from Rest of the World 728,678 813,128 842,082 939,782 962,957 (d)
+
+8. National Savings (5+6+7) 2,865,365 3,088,201 3,157,031 3,909,124 4,502,650
+
+9. Investment Ratio (2 as a % of 1)33.2 32.3 31.2 35.0 36.5
+
+10.Domestic Savings Ratio (5 as a % of 1)24.6 24.2 23.6 27.6 29.3
+
+11. National Savings Ratio (8 as a % of 1)29.9 29.8 28.8 32.8 33.9
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics.(b) Revised(c) Provisional(d) The difference with the BOP estimates is due to the time lag in compilation.
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 12
+
+Real National Income (a) Rs. million
+
+Item201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Gross National Income at Constant (2010) Prices 7,662,004 8,049,085 8,432,998 8,795,027 9,063,448
+
+2. Terms of Trade Effect (d) due to Export of:
+
+2.1 Tea 4,585 10,046 10,409 18,551 47,186
+
+2.2 Rubber-1,569 -1,585 -1,018 -1,230 -1,343
+
+2.3 Three Major Coconut Products 39 5,303 11,855 13,221 14,133
+
+2.4 Other Products-73,873 -41,876 -18,755 21,675 14,076
+
+Total-70,818-28,1122,49152,217 74,052
+
+3. Real National Income at Constant (2010) Prices (1+2) 7,591,186 8,020,973 8,435,489 8,847,244 9,137,500
+
+4. Percentage Change over Previous Year 3.4 5.7 5.2 4.9 3.3
+
+(a) The data is based on the base year 2010 GDP estimates of the Department of Census and Statistics.(b) Revised(c) Provisional (d) Based on Latest Export and Import Price Indices (2010=100)
+
+Sources: Department of Census and StatisticsCentral Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 13
+
+Income Components of Gross Domestic Product (a)Rs. million
+
+ItemAt Current Market Prices At Constant (2010) Prices
+
+201320142015 (b)2016 (b)(c)2017 (c)201320142015 (b)2016 (b)(c)2017 (c)
+
+1. Compensation of Employees 2,551,513 2,786,394 3,179,519 3,431,025 3,686,953 2,089,513 2,194,755 2,450,779 2,575,534 2,586,373
+
+2. Gross Operating Surplus 6,357,836 6,832,465 6,934,960 7,434,521 8,322,727 5,014,513 5,247,744 5,344,139 5,553,031 5,794,024
+
+2.1 Net Operating Surplus 5,051,310 5,392,946 5,448,270 5,823,269 6,499,669 3,973,801 4,142,805 4,233,331 4,371,811 4,555,990
+
+2.2 Mixed Income 644,982 681,589 723,723 768,220 839,670 529,634 529,404 543,591 553,380 556,410
+
+2.3 Consumption of Fixed Capital 661,545 757,930 762,967 843,032 983,389 511,078 575,536 567,217 627,840 681,624
+
+3. Other Taxes less Subsidies on Production 29,905 38,334 40,360 44,710 41,385 32,376 34,408 37,248 38,998 40,389
+
+4. Equals Gross Value Added (GVA) at Basic Price 8,939,254 9,657,194 10,154,839 10,910,257 12,051,065 7,136,401 7,476,908 7,832,167 8,167,563 8,420,786
+
+Taxes less Subsidies on Products 652,871 703,957 795,782 996,495 1,238,401 709,801 758,521 815,667 866,727 894,702
+
+5. Equals Gross Domestic Product (GDP) at Market Price 9,592,125 10,361,151 10,950,621 11,906,752 13,289,466 7,846,202 8,235,429 8,647,833 9,034,290 9,315,488
+
+(a) The data is based on the base year 2010 GDP estimates of Department of Census and Statistics. Source: Department of Census and Statistics
+
+(b) Revised
+
+(c) Provisional
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOME TABLE 14
+
+Trends in Principal Agricultural Crops
+
+CategoryUnit200820092010201120122013201420152016 (a) 2017 (b)
+
+1 Tea1.1 Production (c)kg mn318.7291.0331.4327.5328.4340.0338.0328.8292.6307.7
+
+1.2 Total Extent (d)hectares ‘000222222222222222222203203202203
+
+1.3 Extent Bearing (d)hectares ‘000193192186186185184195195193193
+
+1.4 Cost of Production (e)Rs./kg262.60269.01314.17355.02390.89422.70475.11458.84469.24466.98
+
+1.5 Average Price
+
+Colombo AuctionRs./kg301.63360.80371.54360.68392.40445.83459.01401.46473.15620.44
+
+Export (f.o.b.)Rs./kg430.55470.11496.27510.41563.94623.91649.44593.08639.88807.44
+
+1.6 Replanting (d)hectares 1,452 1,418 1,683 1,851 1,8321,7481,2931,2261,0601,067
+
+1.7 New Planting (d)hectares--331255267500495115202
+
+2 Rubber
+
+2.1 Productionkg mn129.2136.9152.9158.2152.0130.498.688.679.183.1
+
+2.2 Total Extent hectares ‘000122124126129131134134137133137
+
+2.3 Area under Tapping hectares ‘00094959810110410511110899103
+
+2.4 Average Yield kg/hectare1,3821,4371,5611,5661,4591,247889819800809
+
+2.5 Cost of Production Rs./kg114.00115.50119.83129.56136.00150.00160.00170.00180.00195.00
+
+2.6 Average Price
+
+Colombo Auction (RSS 1)Rs./kg269.51211.65403.02508.80416.47376.90286.05248.17239.28336.72
+
+Export (f.o.b)Rs./kg278.39202.30377.54535.40420.74389.81362.83342.03294.33343.56
+
+2.7 Replanting (f)hectares6,1051,0025,9413,0502,1612,0242,0961,917 (a)1,4671,841
+
+2.8 New Planting (f)hectares2,4367151,4133,0042,4762,9791,428769615701
+
+3 Coconut
+
+3.1 Productionnuts mn2,9092,8532,5842,8082,9402,5132,8703,0563,0112,450
+
+3.2 Total Extenthectares ‘000363395395395395392441455440453
+
+3.3 Cost of ProductionRs./nut12.479.5311.2710.2711.6313.5813.6716.3916.7016.69
+
+3.4 Average Export Price
+
+(f.o.b.) (g)Rs./nut23.4618.2324.6439.1528.8029.3639.0854.5441.1662.03
+
+3.5 Replanting / Under Planting (h)hectares2,4683,5452,6841,5174,2994,5415,7964,9195,3628,824
+
+3.6 New Planting (i)hectares3,6823,9982,9201,5534,81423,66830,77114,4089,24015,121
+
+4 Paddy
+
+4.1 Production (j) mt ‘0003,8753,6524,3013,8943,8464,6213,3814,8194,4202,383
+
+4.2 Area Sown (j)hectares ‘0001,0539781,0651,2231,0671,2279641,2541,114792
+
+4.3 Area Harvested (j)hectares ‘0009258429509818831,0677931,0881,011555
+
+4.4 Average Yield (j)kg/hectare4,1874,3364,5283,9704,3534,3294,2644,4294,3724,297
+
+4.5 Rice Importedmt ‘000845212628362360028630748
+
+4.6 Credit GrantedRs. mn1,6051,9182,5414,4185,5275,4274,7615,5826,3845,305
+
+4.7 Fertiliser Issued (k)mt ‘000602423490453412363272341202-
+
+Sources: Sri Lanka Tea Board Tea Small Holdings Development Authority Ministry of Plantation Industries Department of Census and Statistics Rubber Development Department Coconut Cultivation Board Coconut Development Authority Plantation Companies Sri Lanka Customs Central Bank of Sri Lanka
+
+(a) Revised(b) Provisional(c) Including green tea(d) Revised based on Statistical Information on Plantation Crops published by the Ministry of Plantation Industries.(e) The weighted average cost of production of public sector estates and private plantation companies, including green leaf suppliers’ profit margin.(f) Extents covered by cultivation assistance schemes of the Rubber Development Department.(g) Three major coconut kernel products only. (h) Extents covered by cultivation assistance schemes of the Coconut Cultivation Board (CCB).(i) Data on extent covered by cultivation assistance schemes of the CCB for the period 2005-2012 and data on newly planted extents of the period 2013-2017 are calculated based on the amount of coconut seedlings distributed by the CCB at a conversion rate of 158 seedlings for one hectare.(j) On a cultivation year basis (k) From 2016 Yala season, a direct cosh grant was provided, replacing the fertiliser subsidy scheme. Accordingly, Rs. 6,469 million was disbursed for the 2016 Yala season and figure for 2016 is only for 2015/16 Maha season, while Rs. 30,361 million was disbursed for 2017.
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOME TABLE 15
+
+Production of Tea, Rubber, Coconut and Other Export Agriculture Crops
+
+Crop Unit200820092010201120122013201420152016 (a) 2017 (b)
+
+1. Tea (c)Low Grown kg mn185.3173.0196.2196.7202.1208.2210.0202.4183.6197.4Medium Grown “49.045.056.152.652.652.649.251.044.545.7High Grown “84.473.079.178.273.679.278.975.464.464.6Total“318.7291.0331.4327.5328.4340.0338.0328.8292.6307.7
+
+2. RubberSheet Rubberkg mn55.054.659.260.759.262.848.544.439.841.5Crepe Rubber“27.740.661.164.639.720.215.311.115.011.5Other“46.541.732.732.953.147.434.833.124.330.1Total“129.2136.9153.0158.2152.0130.498.688.679.183.1
+
+3. Coconut Desiccated Coconut (d)nuts mn 294292225364325228393326399266Coconut Oil (d)“47359852339264934931839634867Copra (d)“704551130.425363Fresh Nut “3859398192133133010Coconut Cream, Milk Powder“76808598112121248270246274and Milk (d)Domestic Nut Consumption(e)“1,7981,8161,8361,8551,8731,8261,8301,8741,7871,656Total (f)“2,9092,7622,5842,8082,9402,5132,8703,0563,0112,450
+
+4. Other Export CropsCoffeemt3,0813,1253,1642,974 3,000 3,000 2,674 2,639 2,824 2,714 Cocoa“1,695467520525 513 515 500 457 650 471 Cinnamon “14,89915,76516,43518,250 17,165 17,500 17,600 17,707 18,945 22,341 Pepper“12,89715,76717,33210,800 18,604 28,000 18,660 28,177 18,476 29,546 Clove“8,2033,0329,5515,533 4,009 6,190 3,225 5,253 1,823 6,428 Cardamom“71614857 80 50 87 91 120 113 Nutmeg and Mace “2,1741,7402,3762,206 2,002 2,545 2,960 2,750 2,723 3,009Cashew Kernel “1,0002,400 1,200 1,200 2,000 2,072 2,400 1,600 1,800 1,600
+
+(a) Revised(b) Provisional(c) Elevational categories: Low grown - 0 to 610 metres above Mean Sea Level (MSL) Medium grown - 610 to 1,220 metres above MSL High grown - over 1,220 metres above MSL(d) In nut equivalent, converted at 1 mt Desiccated coconut 7,797 nuts 1 mt Coconut oil 8,690 nuts 1 mt Copra 5,230 nuts 1 mt Coconut milk powder 14,000 nuts 1 mt Coconut cream 7,797 nuts 1 mt Coconut milk 3,250 nuts(e) Per capita consumption from 1999-2011 is estimated at 95.52 nuts per annum while that from 2012 onwards has been revised to 87.20 nuts per annum (excludes industrial usage)(f) Estimate (breakdown does not add up to total production due to adjustment for changes in stocks)
+
+Sources: Sri Lanka Tea BoardRubber Development Department Coconut Development AuthorityDepartment of Export AgricultureSri lanka Cashew Corporation Ministry of Plantation Industries Central Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 16
+
+Annual Rainfall and Rainy Days
+
+MeteorologicalStations
+
+1961-1990Annual Average1991-2010Annual Average2011-2015Annual Average20162017
+
+Rainfall mm(a)
+
+No. of RainyDays
+
+Rainfallmm
+
+No. of RainyDays
+
+Rainfallmm
+
+No. of RainyDays
+
+Rainfallmm
+
+No. of RainyDays
+
+Rainfallmm
+
+No. of RainyDays
+
+Anuradhapura1,285891,26997 1,918 112 1,035 76 1,630 95 Bandarawela 1,5721291,571149 1,845 156 862 101 1,999 151 Colombo2,4241462,389162 2,363 183 2,357 133 2,281 158 Hambantota1,050871,020101 1,137 111 666 74 1,169 108 Katugastota1,8401481,842170 2,042 181 1,300 131 1,566 158 Nuwara Eliya1,9051631,855193 1,902 199 1,138 154 1,708 182 Ratnapura3,7492053,688223 3,712 229 2,833 204 4,308 238 Trincomalee1,580861,47687 1,678 106 996 73 1,779 99 (a) mm = millimetres Source: Department of Meteorology
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 17
+
+District-wise Performance of the Paddy Sector (a)
+
+ZoneandDistrict
+
+Gross Extent Sown(hectares)Gross Extent Harvested(hectares)Production(mt)Yield per Hectare(kg)Maha2016/2017Yala2017Maha2016/2017Yala2017Maha2016/2017Yala2017Total2017Maha2016/2017Yala2017
+
+Wet ZoneColombo2,2429462,2419086,5462,0998,6453,4372,720Gampaha7,9322,7284,9982,59614,1875,89520,0823,3402,672Kalutara8,8385,7858,8345,63529,05116,77845,8293,5653,228Galle8,1184,9198,0874,85022,4239,29131,7143,5432,448Matara11,57911,92111,50911,63641,65232,07873,7304,5843,491Kegalle3,6911,6761,8451,6606,9064,46311,3693,9962,871Ratnapura7,9556,0707,7495,96024,35316,54940,9023,6973,267Kandy8,5606,2778,3006,21928,73020,46849,1984,3774,162Nuwara Eliya4,3221,1424,3221,1429,4902,32911,8193,8973,619Badulla19,7938,66818,0098,66167,36632,648100,0144,4014,434
+
+Dry ZoneKurunegala46,78815,82418,4819,72883,89838,332122,2304,5403,940Puttalam11,5362,4636,77798120,8853,35624,2413,6254,024Matale9,3495,4578,0485,13832,73419,76252,4964,5234,277Moneragala25,6809,90012,6259,72748,52642,91191,4373,9224,502Jaffna (b)10,049 - 1,830 - 3,283 - 3,2832,021-Killinochchi24,9561,42915,0631,35153,2414,80158,0423,9834,006Mannar 14,56510113,86310156,14927456,4234,2422,839Mullaitivu 15,6629345,76790516,0872,74218,8292,9573,209Vavuniya11,0154875,40147122,0831,94024,0234,3344,361Anuradhapura37,8538,52519,7368,27273,12726,00499,1314,6083,909Polonnaruwa49,62140,88247,78240,228214,722173,595388,3175,0804,878Ampara81,45846,30267,73745,937309,733186,647496,3804,7854,251Batticaloa62,83624,21136,86622,21181,87867,263149,1412,5163,431Trincomalee 29,2368,97718,3758,89074,36540,002114,3674,3564,843Hambantota22,01120,96721,75020,77299,82597,050196,8755,2535,348Mahaweli ‘H’ Area5,7056,3075,6556,27526,58226,84253,4245,2414,770Udawalawe1,2066,2251,2066,2256,01035,20241,2125,0855,770
+
+Sri Lanka542,556249,123382,856236,4791,473,832909,3212,383,1534,3014,291
+
+(a) The cultivation year comprises of Maha season (September/October - March/April) and Yala season (April/May - August/September).(b) No cultivation during Yala season Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 19
+
+Performance of Other Field Crops
+
+CropExtent Cultivated (hectares)Production (mt ’000)Estimated Average Yield (mt/hectare)
+
+20132014201520162017 (a)20132014201520162017 (a)20132014201520162017 (a)
+
+Big Onions4,2236,8275,6183,9843,026 69.6 101.2 89.3 65.2 53.6 16.5 14.8 15.9 16.4 17.7Black Gram11,13811,22612,30511,1598,089 9.2 9.7 11.9 11.2 7.3 0.8 0.9 1.0 1.0 0.9Dried Chillies (b)14,43713,97813,02915,26710,937 17.8 17.9 15.7 18.1 13.0 1.2 1.3 1.2 1.2 1.2Cowpea10,81611,4809,2008,2206,806 14.2 15.1 12.3 13.7 8.6 1.3 1.3 1.3 1.7 1.3Gingelly (Sesame)17,14614,52417,84114,0449,065 14.2 14.2 13.3 14.9 7.8 0.8 1.0 0.7 1.1 0.9Green Gram11,14711,84011,34611,3027,371 14.3 14.4 15.1 14.5 9.4 1.3 1.2 1.3 1.3 1.3Ground Nuts15,19814,32617,71619,97512,639 27.5 25.4 28.5 24.2 22.5 1.8 1.8 1.6 1.2 1.8
+
+Finger Millet (Kurakkan)5,9537,4166,9506,1514,206 7.0 8.9 8.9 8.6 5.6 1.2 1.2 1.3 1.4 1.3Maize67,72267,21969,97167,63052,544 209.0 240.6 261.1 244.0 195.7 3.1 3.6 3.7 3.6 3.7Potatoes5,1385,3655,4965,7544,457 78.8 82.4 97.4 95.8 73.4 15.3 15.4 17.7 16.7 16.5Red Onions4,6064,8724,8734,9944,167 55.6 63.0 61.2 63.7 57.7 12.1 12.9 12.6 12.8 13.9Soya Beans7,9294,1126,3836,3018,316 13.4 6.8 11.3 7.9 14.4 1.7 1.7 1.8 1.3 1.7
+
+(a) Provisional(b) Dried Chillies = 1/4 of Green Chillies
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOME TABLE 18Paddy Production
+
+Year
+
+MahaYalaTotal
+
+Gross ExtentSown(ha ‘000)
+
+Net ExtentHarvested(ha ‘000)
+
+Production(mt ‘000)
+
+Yield perHectare(kg)(a)
+
+Gross ExtentSown(ha ‘000)
+
+Net ExtentHarvested(ha ‘000)
+
+Production(mt ‘000)
+
+Yield perHectare(kg)(a)
+
+Gross ExtentSown(ha ‘000)
+
+Net ExtentHarvested(ha ‘000)
+
+Production(mt ‘000)
+
+Yield perHectare(kg)(b)
+
+20085825082,1254,1814714171,7504,1951,0539253,8754,18920096325392,3844,4213453031,2684,1869778423,6524,33720106465742,6304,5834193761,6714,4441,0659504,3014,52720117305441,9963,6684934371,8984,3471,2239813,8943,97020127026112,7174,4443652721,1294,1451,0678833,8464,35320137806652,8464,2814484031,7744,4081,2271,0674,6214,32920146515212,2364,2223132721,1454,2049647933,3814,26420157736592,8774,3644814291,9424,5271,2541,0884,8194,42920167566672,9034,3493583441,5174,4171,1141,0114,4204,3722017 (c)5433431,4744,3012492129094,2917925552,3834,297
+
+(a) Yield per hectare for Maha and Yala seasons is calculated using data from the Department of Census and Statistics, which are based on crop cutting surveys.(b) Annual average yield per hectare is calculated by dividing total production by the net extent harvested.(c) Provisional
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 21
+
+Statistics of the Sugar Sector
+
+ItemUnit200820092010201120122013201420152016 (a) 2017 (b)
+
+1. Total Area under Cane (with Ratoons) (c)hectares7,2947,3207,3606,992 9,208 11,801 12,608 12,135 11,784 10,915
+
+2. Area Harvested (c)hectares6,2716,2005,9886,024 7,034 9,329 11,045 9,005 11,676 9,945
+
+3. Cane Harvested (c)mt ‘000348287272290 348 534 576 572 653 591
+
+4. Private Cane Purchasedmt ‘000160138140172 112 144 204 190 315 324
+
+5. Quantity of Cane Crushedmt ‘000507416414440 432 644 657 750 798 748
+
+6. Average Yield (c)mt/hectare56475045 54 67 75 89 58 61
+
+7. Sugar Production
+
+(without Sweepings)mt ‘00039323135 36 53 52 56 6156
+
+8. Sugar Recovery Rate (d)percentage7.77.77.67.9 8.2 8.2 8.0 7.5 7.7 7.4
+
+(a) Revised(b) Provisional(c) Includes Nucleus Estates and Allottees
+
+(d) Sugar Recovery Rate
+
+Sources: Lanka Sugar Company (Pvt) Ltd. - Sevanagala UnitLanka Sugar Company (Pvt) Ltd. - Pelwatte UnitGal Oya (Hingurana) Sugar Industries Ltd.
+
+Sugar Produced= x 100 Quantity of Cane Crushed
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 20
+
+Land Cultivated under the Mahaweli Development Programme hectares
+
+ItemMaha2014/2015Yala2015Total2015
+
+Maha2015/2016(a)
+
+Yala2016(a)
+
+Total2016(a)
+
+Maha2016/2017(b)
+
+Yala2017(b)
+
+Total2017(b)
+
+System 'B' 20,843 19,676 40,519 20,198 19,497 39,695 19,254 10,341 29,595 Paddy 20,066 19,266 39,332 19,295 18,725 38,020 18,815 10,064 28,879 Other Field Crops 777 410 1,187 903 772 1,675 439 277 716
+
+System 'C' 24,671 22,732 47,403 25,000 22,406 47,406 24,216 12,384 36,600 Paddy 22,936 21,964 44,900 23,310 21,394 44,704 22,417 11,669 34,086 Other Field Crops 1,735 768 2,503 1,690 1,012 2,702 1,799 715 2,514
+
+System 'D' 584 253 837 496 465 961 112 314 426 Paddy 523 211 734 456 418 874 40 242 282 Other Field Crops 61 42 103 40 47 87 72 72 144
+
+System 'G' 7,209 5,326 12,535 5,695 4,087 9,782 4,896 3,209 8,105 Paddy 6,764 4,404 11,168 5,269 3,406 8,675 4,059 2,941 7,000 Other Field Crops 445 922 1,367 426 681 1,107 837 268 1,105
+
+System 'H' 26,220 25,091 51,311 25,147 11,669 36,816 9,851 14,218 24,069 Paddy 23,197 18,843 42,040 23,391 6,117 29,508 4,754 8,432 13,186 Other Field Crops 3,023 6,248 9,271 1,756 5,552 7,308 5,097 5,786 10,883
+
+Huruluwewa 11,324 8,896 20,220 10,420 5,540 15,960 5,502 5,770 11,272 Paddy 9,973 5,464 15,437 9,144 2,080 11,224 3,481 2,899 6,380 Other Field Crops 1,351 3,432 4,783 1,276 3,460 4,736 2,021 2,871 4,892
+
+System 'L' 2,026 732 2,758 1,618 994 2,612 1,942 79 2,021 Paddy 1,500 545 2,045 1,273 876 2,149 1,296 23 1,319 Other Field Crops 526 187 713 345 118 463 646 56 702
+
+Udawalawe 14,594 14,242 28,836 14,741 12,879 27,620 2,517 7,535 10,052 Paddy 12,378 12,426 24,804 12,199 10,607 22,806 1,104 6,215 7,319 Other Field Crops 2,216 1,816 4,032 2,542 2,272 4,814 1,413 1,320 2,733
+
+Rambakan Oya 1,594 361 1,955 2,162 497 2,659 617 136 753 Paddy 230 180 410 398 270 668 344 136 480 Other Field Crops 1,364 181 1,545 1,764 227 1,991 273 - 273
+
+Total 109,065 97,309 206,374 105,477 78,034 183,511 68,907 53,986 122,893 Paddy 97,567 83,303 180,870 94,735 63,893 158,628 56,310 42,621 98,931 Other Field Crops 11,498 14,006 25,504 10,742 14,141 24,883 12,597 11,365 23,962 (a) Revised(b) ProvisionalSource: Mahaweli Authority of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 22
+
+Statistics on the Forestry Sector
+
+ItemUnit200820092010201120122013201420152016 (a)2017 (b)
+
+1. Total Forest Cover (c)hectares ‘0001,4221,4221,9511,9511,9511,951 1,951 1,951 1,9511,951
+
+o/w Closed Canopy Forest hectares ‘000 1,0461,0461,4381,438 1,438 1,438 1,438 1,438 1,438 1,438
+
+Sparse Foresthectares ‘000 367367429429 429 429 429 429 429 429
+
+Mangroves hectares ‘000 8.88.815.715.7 15.7 15.7 15.7 15.7 15.7 15.7
+
+2. Extent Deforested (d)hectares 744877873888 816 1,513 1,611 423 1,240 1,241
+
+3. Extent Reforested (e)hectares 7328779051,360 907 1,319 904 450 905 956
+
+4. Number of Forest Offences
+
+RecordedNo.2,8603,0603,2212,956 3,009 3,023 2,533 2,545 3,618 3,887
+
+Volume of Timber Detectedcubic metres2,6074,1042,0752,374 1,708 2,302 10,598 2,512 2,579 2,738
+
+Value of Timber DetectedRs. mn36.354.851.767.477.151.470.168.7 69.9 114.2
+
+(a) Revised(b) Provisional(c) Total forest cover is based on satellite imagery and aerial photographs taken in 2010.(d) Due to plantation, felling and encroachment(e) Excluding extent under Participatory Forestry Project
+
+Source: Forest Department
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 23
+
+Investment Approvals in Industry by the Board of Investment (BOI) of Sri Lanka
+
+Category
+
+Number of ProjectsForeign Investment Potential
+
+(Rs. million)
+
+Total Investment Potential
+
+(Rs. million)
+
+Employment Potential
+
+(No.)
+
+ApprovalsContractedApprovalsContractedApprovalsContracted ApprovalsContracted
+
+2016 (a)2017 (b)2016 (a)2017 (b)2016(a)2017(b)2016(a)2017(b)2016(a)2017(b)2016(a)2017(b)2016(a)2017(b)2016(a)2017(b)
+
+Food, Beverages and Tobacco Products 14 6 7 5 4,756 22,430 1,747 687 13,273 23,400 9,898 1,149 2,480 650 1,515 668
+
+Textile, Wearing Apparel and Leather Products 10 10 7 7 1,662 13,129 1,653 10,756 4,702 19,547 4,869 13,864 3,128 5,844 3,144 4,639
+
+Wood and Wood Products 3 3 3 - 4,725 2,510 4,725 - 6,854 3,478 6,854 - 1,225 1,706 1,225 -
+
+Paper Products, Publishing and Printing 2 - 1 - 77 - 77 - 1,385 - 86 - 91 - - -
+
+Chemical, Petroleum, Coal, Rubber and Plastic Products 5 3 1 3 4,775 3,847 - 5,118 12,379 7,177 354 12,368 1,082 113 48 1,054
+
+Non-metallic Mineral Products 3 4 3 1 4,806 3,447 3,435 603 4,845 3,595 3,474 603 187 195 86 26
+
+Fabricated Metal Products, Machinery and Transport Equipment 7 2 3 - 4,108 1,544 1,144 - 7,612 3,717 2,389 - 856 303 379 -
+
+Manufactured Products (n.e.s.) 12 12 10 6 10,600 3,759 20,916 5,984 14,630 9,529 24,725 6,903 1,445 3,057 1,771 2,083
+
+Services 121 81 109 34 970,344 389,682 489,729 278,474 1,273,970 524,891 661,582 403,214 13,127 9,998 9,510 6,454
+
+Expanded Projects 41 49 41 44 6,565 16,799 5,161 6,342 25,637 88,945 43,749 50,675 6,057 9,792 10,162 8,645
+
+Total218 170 185 100 1,012,419 457,147 528,587 307,964 1,365,287 684,279 757,979 488,776 29,678 31,658 27,840 23,569
+
+(a) Revised(b) ProvisionalSource: Board of Investment of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 25
+
+Foreign Direct Investment of BOI Enterprises by Sector (a)
+
+US$ million
+
+Sector20132014201520162017 (b)
+
+Manufacturing359.8333.9257.0247.7347.6Food, Beverages and Tobacco Products49.744.742.749.562.6
+
+Textile, Wearing Apparel and Leather Products102.683.145.421.378.2
+
+Wood and Wood Products1.72.52.83.12.3
+
+Paper, Paper Products, Printing and Publishing2.136.32.23.17.9
+
+Chemicals, Petroleum, Coal and Rubber Products114.491.975.499.5105.0
+
+Non-metallic Mineral Products45.229.713.731.228.1
+
+Fabricated Metal, Machinery and Transport Equipment17.07.046.111.99.0
+
+Manufactured Products (n.e.s.)27.138.728.728.254.5
+
+Agriculture8.55.73.91.91.4
+
+Services236.3506.3255.4211.9317.8
+
+Hotels and Restaurants67.968.4181.9141.3252.6
+
+IT and BPO 19.324.713.623.025.0
+
+Other Services149.1413.359.947.640.1
+
+Infrastructure786.8682.5453.4339.51,043.5
+
+Housing, Property Development and Shop Office217.6339.2212.179.5540.6
+
+Telephone and Telecommunication Network359.8152.5138.8243.6209.0
+
+Power Generation, Fuel, Gas, Petroleum and Other44.912.551.314.81.1Port Container Terminals164.5178.251.21.6292.8
+
+Total 1,391.4 1,528.4 969.7 801.0 1,710.3
+
+(a) Includes loans, excludes inflows to non-BOI companies and direct investment in listed companies in the CSE not registered with the BOI.(b) Provisional
+
+Source: Board of Investment of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 24
+
+Realised Investments in the BOI Enterprises (a)
+
+Category
+
+Number of ProjectsForeign Investment(Rs. million)Total Investment(Rs. million)
+
+20132014201520162017 (b)20132014201520162017(b)20132014201520162017(b)
+
+Food, Beverages and Tobacco Products13213113012712535,85840,37444,353 51,574 62,260 63,23872,40984,42397,979 113,210
+
+Textile, Wearing Apparel and Leather Products34132031831428070,86279,07084,590 87,640 92,894 111,911128,828140,077145,597 175,981
+
+Wood and Wood Products26262724239,2129,1499,466 9,735 10,370 10,87110,73110,67711,551 12,300
+
+Paper Products, Publishing and Printing28302927275,1709,3069,615 9,985 11,311 6,62411,71912,15612,687 15,174
+
+Chemical, Petroleum, Coal,Rubber and Plastic Products12813213312512761,30569,58178,244 91,253 105,132 78,97792,381101,563114,039 134,671
+
+Non-metallic Mineral Products768076586320,29423,44321,490 25,937 28,036 43,81446,94848,30957,388 75,756
+
+Fabricated Metal Products, Machinery and Transport Equipment878884827920,69121,28325,819 27,515 30,037 29,36730,20141,21443,336 48,842
+
+Manufactured Products (n.e.s.)15215115415215523,79026,71929,661 32,978 38,056 33,72637,28639,97944,894 55,693
+
+Services1,0279931,0381,0201,029711,776854,080933,014 1,009,100 1,223,708 1,133,4931,325,1991,513,4101,652,342 1,939,786
+
+Total1,9971,951 1,989 1,9291,908958,958 1,133,006 1,236,251 1,345,715 1,601,805 1,512,0211,755,7021,991,8082,179,8132,571,413
+
+(a) Cumulative figures as at end of the year(b) Provisional
+
+Source: Board of Investment of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 26
+
+Capacity Utilisation in Factory Industry (a)Per cent
+
+Category20162017 (b)
+
+1 . Manufacture of Food Products77782 . Manufacture of Beverages7681
+
+3 . Manufacture of Tobacco Products8676
+
+4 . Manufacture of Textiles7688
+
+5 . Manufacture of Wearing Apparel8283
+
+6 . Manufacture of Leather and Related Products8385
+
+7 . Manufacture of Wood and Products of Wood and Cork except Furniture; Articles of Straw and Plaiting Materials9288
+
+8 . Manufacture of Paper and Paper Products7872
+
+9 . Printing and Reproduction of Recorded Media9798
+
+10. Manufacture of Coke and Refined Petroleum Products7173
+
+11. Manufacture of Chemicals and Chemical Products6259
+
+12. Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparations8788
+
+13. Manufacture of Rubber and Plastic Products8384
+
+14. Manufacture of Other Non-metallic Mineral Products8384
+
+15. Manufacture of Basic Metals7377
+
+16. Manufacture of Fabricated Metal Products (except Machinery Equipment)6268
+
+17. Manufacture of Electrical Equipment8081
+
+18. Manufacture of Machinery and Equipment (n.e.c.)8082
+
+19. Manufacture of Furniture8686
+
+20. Other Manufacturing9294
+
+Industry Average7981
+
+(a) Based on the survey of industrial production conducted by the Department of Census and Statistics.(b) Revised
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 26 A
+
+Capacity Utilisation in Factory Industry Based on Factory Industry Production Index (a)Per centCategory2013201420152016 (b)
+
+1. Food Products82807976
+
+2. Beverages 74828877
+
+3. Tobacco Products90828986
+
+4. Textile69707575
+
+5. Wearing Apparel87908783
+
+6. Leather and Related Products81837682
+
+7. Wood and Products of Wood, except Furniture75758393
+
+8. Paper and Paper Products 60616576
+
+9. Printing and Reproduction of Recorded Media87899598
+
+10. Refined Petroleum Products83837272
+
+11. Chemicals and Chemical Products70727661
+
+12. Pharmaceuticals, Medicinal Chemical and Botanical Products99999187
+
+13. Rubber and Plastic Products83868283
+
+14. Other Non-metallic Mineral Products79777384
+
+15. Basic Metals70727272
+
+16. Fabricated Metal Products, except Machinery and Equipment64566257
+
+17. Electrical Equipment74717679
+
+Industry Average81818178
+
+(a) Based on capacity and production information received from factory industries under the monthly factory industry production survey conducted by the Central Bank of Sri Lanka. (b) Revised
+
+Note: The Central Bank of Sri Lanka discontinued the publication of the Capacity Utilisation estimates based on the factory industry production survey as the basis for analysis in the annual reports commencing from Annual Report 2017 adopted the information collected through the survey of industrial production conducted by the Department of Census and Statistics (Table 26).
+
+Source: Central Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 27
+
+Employment in Selected State Owned Industrial EnterprisesNumber of Employees
+
+Corporation / Enterprise2013201420152016 (a)2017 (b)
+
+1. Lanka Salt Ltd1,1321,4001,2851,6481,934
+
+2. State Timber Corporation2,1392,1862,1452,1252,083
+
+3. National Paper Company Ltd (c)3202741913732
+
+4. State Printing Corporation708705694752715
+
+5. Sri Lanka Ayurvedic Drugs Corporation276261340324323
+
+6. Ceylon Petroleum Corporation (d)5,6845,7795,5785,7305,621
+
+7. Lanka Mineral Sands Ltd635636847685695
+
+8. Lanka Phosphate Ltd287344339344332
+
+9. Kahatagaha Graphite Lanka Ltd120110123121125
+
+10. State Pharmaceuticals Manufacturing Corporation of Sri Lanka210225229248274
+
+Total11,51111,92011,77112,01412,134
+
+(a) Revised (b) Provisional(c) Production at National Paper Company Ltd has been discontinued w.e.f. January 2015.(d) Number of employees in the Ceylon Petroleum Storage Terminals Ltd, is also included.
+
+Sources: Respective Institutions
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 28
+
+Performance of Selected State Owned Industrial Enterprises
+
+Corporation/Enterprise and ProductsUnit2013201420152016 (a)2017 (b)
+
+CapacityProductionSalesCapacityProductionSalesCapacityProductionSalesCapacityProductionSalesCapacityProductionSales
+
+1. Lanka Salt LtdCommon Saltmt80,00036,92034,17165,000102,01848,18980,00029,24371,22671,200106,03463,15185,00074,10849,033
+
+2. State Timber Corporation (c)Sawn TimberCu. metres ‘0007418264185542146423555241Logs“971061,9581051312,3371161262,8901241573,2301471463,654SleepersNos. ‘00010074527693959443222505327316627153
+
+3. National Paper Co. Ltd (d)Paper & Paper Productsmt12,2401,2821,44412,0001,2731,43912,000 - 18- - 381- - 1,012
+
+4. State Printing Corporation (c)80 pgs Exercise Booksmn1210212129232121122712102331211220Text Books"1078251096661097771011868138677Lottery Tickets"295243295295245441380372282430427318420377319Commercial Printing JobsNos.1,0007181,0006181,2008721,200947800410
+
+5. Sri Lanka Ayurvedic Drugs CorporationSyrup and Oil Ltrn.a.390,326380,806579,425395,068374,826615,333403,124398,918390,160315,657288,074433,610350,810277,188Other Ayurvedic Drugsmt ‘000n.a.7411112262601387077965850767652
+
+6. Ceylon Petroleum Corporation (e)
+
+Super Petrol / Gasolenemt143,959640,351186,800152,259687,328155,200154,140756,396194,584165,816965,293182,962164,5641,057,079
+
+Kerosene “57,297126,123115,00065,195121,77691,50075,228129,641111,200104,244131,52350,00059,782155,624
+
+Naphtha“2,205,00086,49771,729105,900117,038115,557107,400134,499122,728134,390144,239120,172141,378141,688139,287
+
+Diesel“389,7171,583,944472,200496,2391,798,540487,700510,237 1,626,081590,905583,4161,938,618595,181506,0461,938,618
+
+Avtur“124,544360,429168,000168,481390,672158,400154,571381,640178,800147,525424,899251,715236,360456,293
+
+Fuel oil“723,773667,507709,900641,206789,354671,400552,497608,704676,802478,724637,499553,340430,808780,548
+
+7. Lanka Mineral Sands LtdIlmenite & H.T. Ilmenitemt150,00042,68536,30666,00032,97226,00050,97039,43946,16650,82526,15934,00444,97553,73441,789Rutile“10,0001,4061,8721,8002,1112,8462,2801,8089451,8502,2372,1212,1002,1741,979Crude Zircon / Zircon“6,00022816001,3351,4031,5356146649,1007,74912,5007,12024,4864,573
+
+8. Lanka Phosphate LtdPhosphatemt59,40049,10652,10080,25662,59557,82784,48052,51856,30255,00038,84837,72655,00042,43544,621
+
+9. Kahatagaha Graphite Lanka Ltd Graphitemt1,0008487931,200565609900718493840771559840811530
+
+10. State Pharmaceuticals Manufacturing Corporation of SriLanka Pharmaceuticals (Tablets & Capsules)mn1,9432,0041,9411,9001,9101,7121,9002,0262,0541,8502,1452,4351,6001,5233,174
+
+(a) Revised(b) Provisional(c) For sales value of each item under State Timber Corporation and the State Printing Corporation, the realised Rupee value (in millions) of total sales is given.(d) Production at National Paper Company Ltd has been discontinued w.e.f. January 2015.(e) Capacity information of the Ceylon Petroleum Corporation is based on budgeted crude oil inputs that are used in the refinery processes.
+
+Sources: Respective Institutions
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 29
+
+Regional Distribution of Industrial Enterprises (a) Numbers
+
+District
+
+Industries Registered underMinistry of Industry and Commerce
+
+Industries Under BOITotal (b)Under Section 17 of the BOI Act (b)200 Garment Factory ProgrammeUnder Section 16 of the BOI Act
+
+201320142015 2016 2017(c)2013 2014201520162017(c)20132014201520162017 (c)20132014201520162017(c)20132014201520162017 (c)
+
+1. Colombo 1,293 1,325 1,356 1,408 1,429 701 699 726 719663 22 21 21 1818 436 432 439 433402 2,452 2,477 2,542 2,578 2,512
+
+2. Gampaha 360 370 388 434 467 527 537 563 553533 12 11 11 1010 98 106 108 113108 997 1,024 1,070 1,110 1,118
+
+3. Kalutara 108 110 124 134 143 127 132 144 148148 9 10 9 65 27 27 26 2825 271 279 303 316 321
+
+4. Galle 37 37 41 46 47 70 73 78 8080 7 6 6 54 58 60 64 6659 172 176 189 197 190
+
+5. Puttalam 40 51 48 61 62 76 82 86 8683 5 5 5 33 11 12 13 1212 132 150 152 162 160
+
+6. Kandy 82 87 88 94 95 63 63 71 7172 6 6 5 54 27 27 29 3028 178 183 193 200 199
+
+7. Kurunegala 37 44 52 64 72 74 75 75 7774 9 9 9 55 9 9 9 89 129 137 145 154 160
+
+8. Matara 40 41 45 46 46 18 20 22 2423 2 2 2 11 10 9 7 77 70 72 76 78 77
+
+9. Hambantota 15 15 15 16 16 20 22 29 3135 5 5 4 43 5 7 7 78 45 49 55 58 62
+
+10. Nuwara Eliya 6 6 6 6 6 56 56 63 6565 7 7 7 66 1 1 1 22 70 70 77 79 79
+
+11. Ratnapura 12 12 19 21 21 40 42 45 4852 8 8 8 87 8 8 9 99 68 70 81 86 89
+
+12. Anuradhapura 10 13 14 14 15 20 20 21 2121 3 3 3 33 2 2 2 21 35 38 40 40 40
+
+13. Badulla 7 13 8 8 8 29 28 31 3132 1 1 1 11 4 2 2 22 41 44 42 42 43
+
+14. Kegalle 16 18 19 21 21 37 40 43 4339 5 5 5 55 3 4 4 43 61 67 71 73 68
+
+15. Matale 15 18 18 20 21 22 26 33 3641 1 1 1 11 5 4 4 34 43 49 56 60 67
+
+16. Moneragala 2 2 2 3 3 9 9 9 99 1 1 1 21 - - - - - 12 12 12 14 13
+
+17. Polonnaruwa 4 5 7 7 8 11 11 11 1010 3 3 2 32 - - - - - 18 19 20 20 20
+
+18. Ampara 6 11 8 10 10 9 11 12 1210 4 4 4 44 3 4 4 43 22 30 28 30 27
+
+19. Trincomalee 3 4 5 5 6 20 21 24 2323 2 1 1 11 2 1 1 11 27 27 31 30 31
+
+20. Batticaloa 2 2 4 7 7 6 7 10 1214 2 1 1 11 - - - - - 10 10 15 20 22
+
+21. Vavuniya 1 1 2 2 2 4 4 4 56 - - - - - 2 2 2 22 7 7 8 9 10
+
+22. Jaffna 3 4 4 5 5 4 4 4 66 - - - - - - - - - - 7 8 8 11 11
+
+23. Mannar 1 1 1 2 2 - 1 2 22 2 2 2 11 1 1 1 11 4 5 6 6 6
+
+24. Kilinochchi - 1 1 1 1 1 1 4 44 - - - - - - - - - - 1 2 5 5 5
+
+25. Mullaitivu - 1 1 1 1 - - - - 1 - - - - - - - - - - - 1 1 1 2
+
+Total 2,100 2,192 2,276 2,436 2,514 1,944 1,984 2,110 2,116 2,046 116 112 108 93 86 712 718 732 734 686 4,872 5,006 5,226 5,379 5,332
+
+(a) As at year end(b) Includes expanded projects(c) Provisional
+
+Sources: Ministry of Industry and Commerce
+
+Board of Investment of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 30
+
+Major Divisions of Index of Industrial Production (IIP) (a)2015 = 100
+
+PeriodIIPManufactureof Food Products
+
+Manufacture of Beverages
+
+Manufacture of Tobacco Products
+
+Manufactureof Textiles
+
+Manufacture of Wearing Apparel
+
+Manufacture of Paper and Paper Products
+
+Manufacture of Coke andRefined Petroleum Products
+
+Manufacture of Chemicals and Chemical Products
+
+Manufacture of Rubberand Plastic Products
+
+Manufacture of Other Non-metallic Mineral Products
+
+Manufactureof Basic Metals
+
+Manufacture of Electrical Equipment
+
+2016103.3101.7103.6105.1104.0105.7111.099.1104.2103.7104.7108.198.22017 (b)105.8105.091.5106.3106.4110.7108.494.396.6108.0111.5120.899.9
+
+20161st Quarter104.3101.5100.1103.6102.3106.5119.4113.3120.7104.894.8106.8101.32nd Quarter101.6102.5100.2102.4102.9106.0102.391.596.8101.6102.3102.3100.73rd Quarter103.1101.9104.3114.5106.1103.8103.999.899.9104.0105.2110.093.04th Quarter104.1101.0110.0100.0104.7106.4118.391.899.2104.2116.4113.497.7
+
+2017 (b) 1st Quarter106.0105.398.0100.9104.1111.6106.487.0102.3104.3118.3115.1108.82nd Quarter102.1101.492.197.1104.1108.0106.988.182.0107.0108.4113.8103.33rd Quarter107.2106.990.1117.0108.8108.8107.298.3100.3108.4109.5131.499.84th Quarter108.1106.586.0110.4108.8114.3113.3103.7101.9112.2110.0122.987.7
+
+2016 January103.1101.191.397.5102.5105.8107.5122.9120.492.795.4107.790.9February102.0101.094.8101.690.3107.3119.7104.6115.5105.089.2104.893.8March107.8102.6114.1111.8114.0106.4131.0112.3126.3116.699.7107.9119.0April97.0102.1101.186.799.294.994.485.281.595.6101.996.995.8May102.6102.893.4105.8104.3109.0108.790.6101.9104.3102.5102.7102.7June105.2102.4106.0114.6105.3114.1103.998.6107.0105.0102.5107.2103.8July104.1101.8102.8114.8108.8106.1103.4106.7105.3105.2102.5102.795.6August103.6103.3104.6113.1103.6101.6108.096.1103.4106.7108.5114.299.5September101.6100.5105.6115.5106.0103.7100.396.591.0100.3104.8113.184.0October104.7100.2117.2108.0106.7106.2123.098.098.5106.0113.9113.796.0November104.3101.6111.4103.3103.9106.0118.281.1100.9105.6120.8115.9103.7December103.3101.1101.488.7103.4107.0113.796.498.3100.8114.5110.593.3
+
+2017 (b) January104.4103.7101.9106.5103.2111.5102.578.197.3100.7120.1116.8103.1February103.4102.993.195.693.5110.7104.789.1102.3100.1110.7120.2102.9March110.1109.399.1100.5115.7112.6111.893.8107.2112.0124.3108.2120.3April98.3102.291.979.299.496.0103.293.471.995.6111.7102.1100.7May103.7100.288.199.4105.2110.3108.9101.580.5115.0110.0117.1105.1June104.4101.996.2112.6107.6117.8108.869.493.7110.6103.4122.2104.1July104.8103.591.8111.3110.7109.4108.583.297.4108.0110.1123.2104.2August109.0109.787.4122.6105.1109.8109.3106.1100.8106.9109.3135.7107.0September107.7107.691.0117.2110.5107.2103.7105.8102.7110.5109.0135.488.1October108.0104.684.7119.6115.4112.7120.0105.499.6112.7110.6123.695.5November108.6105.385.1120.5116.4114.8108.6102.5104.7112.0113.5123.892.0December107.7109.688.291.194.6115.4111.2103.1101.2111.8105.8121.275.4
+
+(a) Based on the IIP (2015=100) compiled by the Department of Census and Statistics and classified according to the International Standard Industrial Classification (ISIC) Revision 4.(b) Revised
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 30 A
+
+Major Divisions of Factory Industry Production Index (FIPI) (a)2010 = 100
+
+PeriodFIPIFood ProductsBeveragesTobaccoProductsWearingApparel
+
+RefinedPetroleum Products
+
+Chemical and Chemical Products
+
+Rubber and PlasticProducts
+
+OtherNon-metallic Mineral Products
+
+BasicMetalProducts
+
+FabricatedMetalProducts
+
+2013108.3105.3102.496.7124.983.474.1118.2103.2102.4111.22014114.9102.3111.887.6149.586.082.2134.2102.9112.997.12015125.4107.3123.195.4173.482.688.3131.3118.8115.0109.82016 (b) 122.0103.9106.692.4169.284.377.4138.2132.0148.072.9
+
+20151st Quarter123.2106.0128.796.5173.358.578.4131.7114.4108.994.62nd Quarter121.0102.7121.999.2164.276.187.1125.6106.4101.4136.93rd Quarter130.9108.7124.7101.6181.7106.089.6134.8130.9123.1103.34th Quarter126.6112.1117.284.2174.589.898.3133.1123.5126.4104.2
+
+2016 (b)1st Quarter122.5105.3122.593.6169.696.455.0136.7133.4157.673.92nd Quarter116.197.6102.295.8164.681.679.2126.5117.1143.768.13rd Quarter124.5107.5105.9109.1163.487.676.0145.4136.5147.380.44th Quarter124.7105.196.071.1179.271.899.2144.5140.8143.269.2
+
+2015January118.799.8124.2103.9161.492.770.6132.7108.4104.685.4February119.3102.6118.5101.4169.474.277.4124.9106.5102.988.9March131.4115.5143.684.3189.08.687.2137.6128.3119.3109.6April115.897.4124.399.6157.940.471.697.387.1105.7247.7May122.9105.4121.896.2168.287.094.5138.4114.894.974.5June124.3105.2119.6101.8166.6101.095.2141.2117.4103.688.6July132.5110.3123.8106.5187.1108.278.5146.2129.2122.381.2August126.3104.1117.097.0170.1108.982.2133.8131.7112.9126.4September133.7111.7133.4101.2188.0101.0108.0124.6131.7134.2102.2October130.7115.7130.993.4175.5102.094.8131.3131.9138.8100.9November123.9112.4117.169.6172.298.187.1137.2116.2132.890.5December125.3108.1103.689.7175.769.3112.8130.9122.3107.5121.3
+
+2016 (b)January117.0102.6106.688.1165.6103.838.5132.9132.7164.456.5February116.498.9109.891.4167.990.238.9128.3127.5136.671.4March134.1114.4151.0101.1175.395.187.5148.9140.1171.893.9April102.688.2111.585.7147.764.364.094.3108.5134.146.3May119.997.699.6107.5169.781.979.3137.6121.7155.766.5June125.8106.995.594.3176.298.594.5147.5121.0141.391.6July124.6104.0102.0107.0164.594.485.3152.4132.8123.984.2August125.5110.2105.2112.2164.381.273.3147.2139.1164.964.3September123.6108.2110.5108.0161.287.169.5136.5137.7153.092.7October126.3107.893.490.9170.387.499.7147.2150.8150.167.1November121.199.998.761.0175.062.7103.5140.0132.8137.668.4December126.6107.695.761.3192.465.394.3146.3138.8141.972.0
+
+(a) Based on the monthly Factory Industry Production Index (FIPI) (2010=100) compiled by the Central Bank of Sri Lanka and classified according to the International Standard Industrial Classification (ISIC) Revision 4.(b) Revised
+
+Note: The Central Bank of Sri Lanka discontinued the publication of the FIPI as the basis for analysis for the annual reports commencing from Annual Report 2017 adopted the Index of Industrial Production (IIP) compiled by the Department of Census and Statistics (Table 30). Index values of the IIP and FIPI could differ due to differences in the base year, weight structure and sample coverage.
+
+Source: Central Bank of Sri Lanka
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 31
+
+Index of Industrial Production (IIP) (a)2015 = 100
+
+Category20162017 (b)
+
+1.Manufacture of Food Products 101.7 105.0
+
+2.Manufacture of Beverages 103.6 91.5
+
+3.Manufacture of Tobacco Products 105.1 106.3
+
+4.Manufacture of Textiles 104.0 106.4
+
+5.Manufacture of Wearing Apparel 105.7 110.7
+
+6.Manufacture of Leather and Related Products 106.0 111.9
+
+7.Manufacture of Wood and Products of Wood and Cork, except Furniture; Articles of Straw and Plaiting Materials 99.1 93.7
+
+8.Manufacture of Paper and Paper Products 111.0 108.4
+
+9.Printing and Reproduction of Recorded Media 103.6 106.9
+
+10. Manufacture of Coke and Refined Petroleum Products 99.1 94.3
+
+11. Manufacture of Chemicals and Chemical Products 104.2 96.6
+
+12. Manufacture of Basic Pharmaceutical Products and Pharmaceutical Preparations 109.1 111.1
+
+13. Manufacture of Rubber and Plastic Products 103.7 108.0
+
+14. Manufacture of Other Non-metallic Mineral Products 104.7 111.5
+
+15. Manufacture of Basic Metals 108.1 120.8
+
+16. Manufacture of Fabricated Metal Products (except Machinery and Equipment) 99.3 115.8
+
+17. Manufacture of Electrical Equipment 98.2 99.9
+
+18. Manufacture of Machinery and Equipment (n.e.c.) 106.7 112.4
+
+19. Manufacture of Furniture 108.8 105.2
+
+20. Other Manufacturing 102.0 98.4
+
+Index of Industrial Production 103.3 105.8
+
+(a) Based on the IIP (2015=100) compiled by the Department of Census and Statistics and indices are classified according to the International Standard Industrial Classification (ISIC) Revision 4.(b) Revised
+
+Source: Department of Census and Statistics
+
+NATIONAL OUTPUT, EXPENDITURE AND INCOMETABLE 31 A
+
+Factory Industry Production Index (FIPI) (a)2010 = 100
+
+Category2013201420152016 (b)
+
+1. Food Products 105.3 102.3 107.3 103.9
+
+1.1 Preparing and Preserving of Meat 106.8 111.3 118.5 115.1
+
+1.2 Processing and Preserving of Fish 133.2 139.1 135.2 138.0
+
+1.3 Dairy Products 91.3 90.0 102.1 101.5
+
+1.4 Grain Mill Products, Starches 80.6 78.9 78.6 78.2
+
+1.5 Other Food Products 113.6 106.8 110.9 107.5
+
+Bakery Products 114.4 109.1 123.1 123.6
+
+Sugar 132.6 97.4 130.9 160.8
+
+Confectionary 89.2 100.9 105.5 110.6
+
+Other Food Products (n.e.c.) 106.6 104.3 97.9 84.9
+
+1.6 Prepared Animal Feed 122.6 117.1 133.0 132.2
+
+2. Beverages 102.4 111.8 123.1 106.6
+
+2.1 Distilling, Rectifying and Blending of Spirits 94.3 102.1 107.8 78.6
+
+2.2 Soft Drinks, Mineral Water, Bottled Water 118.4 133.2 157.4 164.9
+
+3. Tobacco Products 96.7 87.6 95.4 92.4
+
+4. Textile 128.5 132.9 131.0 134.4
+
+5. Wearing Apparel 124.9 149.5 173.4 169.2
+
+6. Leather and Related Products 98.3 97.0 86.4 107.0
+
+7. Wood and Products of Wood, except Furniture 114.6 108.9 121.7 129.0
+
+8. Paper and Paper Products 123.4 126.6 126.6 126.6
+
+9. Printing and Reproduction of Recorded Media 110.3 112.4 112.4 112.4
+
+10. Refined Petroleum Products 83.4 86.0 82.6 84.3
+
+11. Chemicals and Chemical Products 74.1 82.2 88.3 77.4
+
+11.1 Fertiliser 56.5 59.6 60.0 42.5
+
+11.2 Other Chemical Products 104.6 121.1 137.2 137.5
+
+Soaps and Detergents 103.4 122.3 127.5 108.7
+
+Others 100.6 105.7 89.0 108.5
+
+12. Pharmaceuticals, Medicinal Chemical and Botanical Products 185.1 142.8 142.2 145.4
+
+13. Rubber and Plastic Products 118.2 134.2 131.3 138.2
+
+13.1 Rubber Products 123.7 140.3 135.9 142.9
+
+Rubber Tyres and Tubes 128.6 149.6 143.4 148.9
+
+Other Rubber Products 101.2 97.2 101.0 115.1
+
+13.2 Plastic Products 45.0 55.0 71.6 77.2
+
+14. Other Non-metallic Mineral Products 103.2 102.9 118.8 132.0
+
+14.1 Glass and Glass Products 97.6 99.3 100.6 85.9
+
+14.2 Non-metallic Mineral Products 103.6 103.2 120.1 135.3
+
+Porcelain and Ceramic Products 125.8 124.4 127.4 128.3
+
+Cement 108.6 108.3 131.1 153.9
+
+Polished Diamonds 74.6 101.3 49.2 49.2
+
+15. Basic Metals 102.4 112.9 115.0 148.0
+
+16. Fabricated Metal Products, except Machinery and Equipment 111.2 97.1 109.8 72.9
+
+17. Electrical Equipment 107.6 99.5 130.6 118.4
+
+Factory Industry Production Index 108.3 114.9 125.4 122.0
+
+(a) Based on the monthly factory industry production survey and classified in accordance with the International Standard Industrial Classification (ISIC) Revision 4.(b) Revised
+
+Note: The Central Bank of Sri Lanka discontinued the publication of the FIPI as the basis for analysis for the annual reports commencing from Annual Report 2017 adopted the Index of Industrial Production (IIP) compiled by the Department of Census and Statistics (Table 31). Index values of the IIP and FIPI could differ due to differences in the base year, weight structure and sample coverage.
+
+Source: Central Bank of Sri Lanka
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 32
+
+Performance of Telecommunications and Postal Services
+
+Item2008200920102011201220132014201520162017 (a)
+
+Telecommunications Services
+
+1. Fixed Access Services (No.) 3,446,411 3,435,958 3,534,575 3,608,392 3,449,391 2,706,787 2,709,848 2,601,196 2,550,432 2,603,178
+
+Wireline Telephones in Service 933,536 872,120 896,710 941,780 999,354 1,062,065 1,123,126 1,128,291 1,166,348 1,198,483
+
+Wireless Local Loop Telephones 2,512,875 2,563,838 2,637,865 2,666,612 2,450,037 (b) 1, 644,722 (c) 1,586,722 1,472,905 1,384,084 1,404,695
+
+2. Cellular Phones (No. of Subscribers) 11,082,508 14,264,442 17,267,407 18,319,447 20,324,070 20,315,150 (c) 22,123,000 24,384,544 26,227,631 28,199,083
+
+Telephone Penetration (d) 71.87 86.55 100.72 105.07 116.40 111.87 119.56 128.71 135.73 143.64
+
+3. Other Services
+
+Public Pay Phones (No. of Booths) 7,417 7,378 6,958 6,458 6,983 6,773 6,642 5,809 5,301 5,137
+
+Internet (No. of Subscribers) (e) 234,000 240,000 502,000 844,749 1,365,655 2,009,456 3,396,295 4,090,920 4,920,554 5,904,260
+
+Postal Services
+
+1. Delivery Areas (No.) 6,729 6,729 6,729 6,729 6,729 6,729 6,729 6,729 6,729 6,729
+
+2. Post Offices (No.) 4,737 4,738 4,742 4,742 4,738 4,628 4,692 4,692 4,691 4,690
+
+Public 4,053 4,054 4,058 4,058 4,062 4,026 4,063 4,063 4,062 4,062
+
+Main Post offices 643 643 648 648 651 651 653 653 652 653
+
+Sub Post offices 3,410 3,411 3,410 3,410 3,411 3,375 3,410 3,410 3,410 3,409
+
+Private 684 684 684 684 676 602 629 629 629 628
+
+Agency Post Offices 463 463 463 463 516 497 524 524 524 523
+
+Rural Agency Post Offices 156 156 156 156 156 101 101 101 101 101
+
+Estate Agency Post Offices 65 65 65 65 4 4 4 4 4 4
+
+3. Area Served by a Post Office (sq. km) 14 14 14 14 13 14 13 13 14 14
+
+4. Population Served by a Post Office (No.) 4,311 4,316 4,355 4,401 4,311 4,447 4,427 4,468 4,520 4,572
+
+5. Letters per Inhabitant (No.) 21 20 18 12 15 13 18 18 18 18
+
+(a) Provisional(b) Wireless Local Loop telephones declined in 2012 due to the rectification of statistical reporting subsequent to the merger of two companies (c) Wireless Local Loop telephones and Cellular phones declined in 2013 due to a revision in the classification of active subscribers in January 2013
+
+(d) Defined as telephones per 100 persons (including cellular phones)(e) Including mobile internet connections from 2010 onwards
+
+Sources: Telecommunications Regulatory Commission of Sri Lanka Department of Posts Department of Census and Statistics
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 33Performance of the Energy Sector
+
+ItemUnit200820092010201120122013201420152016 (a) 2017 (b)
+
+1. Electricity Installed CapacityMW 2,645 2,684 2,817 3,148 3,312 3,362 3,932 3,847 4,018 4,138 CEB - Hydro,, 1,207 1,207 1,207 1,207 1,357 1,361 1,377 1,377 1,384 1,384 Fuel Oil (c),, 548 548 548 554 554 564 544 604 604 604 Coal,, - - - 300 300 300 900 900 900 900 Other,, 3 3 3 3 3 3 3 3 3 3 Private - Hydro,, 138 172 175 194 227 267 288 307 342 353 Fuel Oil (d),, 737 742 842 842 784 771 671 511 611 689 Other,, 12 12 42 48 87 96 150 145 174 206
+
+Units GeneratedGWh 9,901 9,882 10,714 11,528 11,801 11,898 12,357 13,090 14,149 14,671 CEB - Hydro,, 3,700 3,356 4,988 4,018 2,727 5,990 3,632 4,904 3,481 3,059 Fuel Oil (c),, 2,083 2,091 1,394 1,494 2,029 1,283 1,696 1,050 2,297 2,529 Coal,, - - - 1,038 1,404 1,469 3,202 4,443 5,047 5,103 Other,, 3 3 3 3 2 2 2 1 2 2 Private - Hydro,, 428 525 646 601 565 916 902 1,065 739 945 Fuel Oil (d),, 3,680 3,883 3,601 4,253 4,906 1,977 2,610 1,225 2,164 2,516 Other,, 6 23 83 121 168 260 313 401 419 517
+
+Total Sales by CEB,, 8,417 8,441 9,268 10,024 10,475 10,621 11,063 11,786 12,785 13,430 Domestic and Religious,, 2,799 2,927 3,186 3,430 3,577 3,546 3,585 3,943 4,272 4,463 Industrial ,, 2,678 2,518 2,870 3,131 3,285 3,344 3,498 3,608 3,864 4,041 General Purpose and Hotel (e),, 1,703 1,768 1,903 2,087 2,202 2,316 2,520 2,681 2,987 3,222 Bulk Sales to LECO,, 1,130 1,120 1,201 1,267 1,302 1,308 1,352 1,446 1,553 1,595 Street Lighting,, 108 108 108 109 109 108 108 108 109 108
+
+2. Energy Related Products Quantity Imported Crude Oilmt ‘000 1,853 2,066 1,819 2,070 1,486 1,743 1,824 1,763 1,685 1,591 Refined Products,, 2,396 2,162 2,882 3,501 3,961 2,907 3,385 3,321 3,885 4,895 Coal,, 79 102 109 782 930 1,469 1,608 1,883 2,407 2,530 L.P. Gas,, 144 146 163 180 199 197 198 277 345 387 Value of Imports (C.I.F) Crude OilRs. million 143,159 111,715 120,180 183,056 157,758 182,064 187,760 100,578 86,969 107,397 US$ million 1,323 973 1,064 1,653 1,248 1,413 1,438 739 596 704 Refined Products Rs. million 222,235 138,190 222,273 335,225 467,058 352,984 391,651 244,148 246,233 375,374 US$ million 2,055 1,202 1,965 3,033 3,674 2,734 3,000 1,802 1,688 2,462 CoalRs. million 1,446 1,101 1,356 12,109 15,381 20,882 20,739 21,613 28,692 39,699 US$ million 13 10 12 109 123 161 159 159 197 261 L.P. GasRs. million 15,378 11,298 16,049 20,107 27,939 26,915 25,876 22,326 24,208 35,505US$ million 142 98 142 182 219 208 198 164 166 233 Average Price ofRs./barrel 10,494 7,343 8,985 12,027 14,416 14,151 13,646 7,459 6,757 8,817 Crude Oil (C.I.F)US$/barrel 97.00 63.93 79.52 108.59 114.00 109.84 104.53 54.80 46.30 57.79 Quantity of Petroleum Exports mt ‘000 310 269 436 589 504 511 398 908 807 972 Value of Petroleum ExportsRs. million 27,553 15,447 29,761 61,170 58,902 55,128 44,132 50,461 41,794 66,280 US$ million 255 134 263 553 463 428 338 374 287 434
+
+Local Sales - Refined Products mt ‘000 3,700 3,919 3,872 4,608 4,811 3,982 4,404 4,124 4,937 5,379 o/w Petrol (92 Octane) (f) (g),, 490 518 573 676 726 733 767 911 1,036 1,109 Petrol (95 Octane),, 29 22 22 35 40 55 69 100 137 168 Auto Diesel (a) (h),, 1,606 1,681 1,663 1,985 2,070 1,726 1,972 1,798 2,143 2,194 Super Diesel (a),, 9 9 12 15 25 29 36 54 75 92 Kerosene,, 151 151 165 169 143 126 122 130 137 161 Furnace Oil,, 999 1,110 1,117 1,222 1,322 827 915 630 817 1,040 Avtur,, 189 229 158 315 327 360 391 382 425 456 Naphtha,, 142 111 54 85 62 72 94 99 120 139 Local Sales - L.P. Gas,, 174 170 187 205 211 218 232 293 356 412 Local Price (End Period) Petrol (92 Octane) (f)Rs./ltr120.00115.00115.00137.00159.00162.00150.00117.00117.00117.00 Petrol (95 Octane),,133.00133.00133.00155.00167.00170.00158.00128.00128.00128.00 Auto Diesel,,70.0073.0073.0084.00115.00121.00111.0095.0095.0095.00 Super Diesel ,,85.3088.3088.30106.30142.00145.00133.00110.00110.00110.00 Kerosene,,50.0051.0051.0071.00106.00106.0081.0049.0049.0044.00 Furnace Oil 500 Seconds ,,54.3054.3050.3050.30------ 800 Seconds,,33.9034.9042.2052.2092.2092.2092.2082.2082.2082.20 1,000 Seconds,,52.7052.7048.7048.70------ 1,500 Seconds,,31.7032.7040.0050.0090.0090.0090.0080.0080.0080.00 3,500 Seconds,,25.0026.0040.0050.0090.0090.0090.0080.0080.0080.00 L.P. Gas Litro Gas (i)Rs./kg142.80124.01132.16163.68179.68191.68151.68107.68105.68114.48 Laugfs Gas,,109.60118.48121.60163.68179.68191.68151.68107.68105.68114.48
+
+(a) Revised(b) Provisional(c) Data from 2011 had been split as fuel oil and coal power, as coal power generation commenced in 2011.(d) Inclusive of Independent Power Producers (IPP)(e) Data from 2013 include sales to government category(f) Data up to 2014 refer to Petrol (90 Octane)(g) Including XtraPremium Euro 3(h) Including XtraMile Diesel(i) On 04 November 2010, the government purchased remaining 51% stake of Shell Gas Lanka Ltd. It was later renamed as Litro Gas Lanka Ltd.
+
+Sources: Ceylon Electricity Board Ceylon Petroleum Corporation Lanka Marine Services (Pvt) Ltd. Lanka IOC PLC Litro Gas Lanka Ltd. Laugfs Gas PLC
+
+Sri Lanka Customs Central Bank of Sri Lanka
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 34
+
+Salient Features of the Transport Sector
+
+ItemUnit200820092010201120122013201420152016 (a)2017 (b)
+
+1. New Registrations of Motor VehiclesNo. 265,199 204,075 359,243 525,421 397,295 326,651 429,556 668,907 493,328 451,653 1.1 Buses,, 1,180 739 2,491 4,248 3,095 1,805 3,851 4,140 2,685 3,331 1.2 Motor Cars ,, 20,237 5,762 23,072 57,886 31,546 28,380 38,780 105,628 45,172 39,182 1.3 Three Wheelers,, 44,804 37,364 85,648 138,426 98,815 83,673 79,038 129,547 56,945 23,537 1.4 Dual Purpose Vehicles,, 2,856 1,280 11,712 33,518 37,397 24,603 20,799 39,456 26,887 16,742 1.5 Motor Cycles,, 155,952 135,421 204,811 253,331 192,284 169,280 272,885 370,889 340,129 344,380 1.6 Goods Transport Vehicles,, 14,038 8,225 11,845 14,818 12,266 5,872 5,121 7,142 7,563 11,432 1.7 Land Vehicles,, 26,132 15,284 19,664 23,194 21,892 13,038 9,082 12,105 13,947 13,049
+
+2. Sri Lanka Railways2.1 Operated Kilometres‘000 9,219 9,545 9,790 10,030 10,367 10,924 11,075 11,797 11,921 11,679 2.2 Passenger Kilometresmillion 4,669 4,568 4,353 4,574 5,039 6,257 6,842 7,407 7,413 7,495 2.3 Freight Ton Kilometres,, 121 113 163 154 142 133 130 130 140 145 2.4 Total RevenueRs. million 3,671 4,020 4,018 4,235 4,852 5,423 5,909 6,335 6,623 6,477 2.5 Operating Expenditure,, 8,225 8,788 7,191 8,295 8,648 10,586 16,943 14,049 13,396 14,081 2.6 Operating Profit (+) / Loss (-),,-4,553-4,768-3,173-4,060-3,796-5,163-11,034-7,714-6,773-7,604
+
+3. Sri Lanka Transport Board3.1 Operated Kilometresmillion 313 332 341 341 338 344 371 440 452 448 3.2 Passenger Kilometres (c),, 15,080 11,233 11,815 11,907 11,909 12,201 12,717 15,210 16,101 15,810 3.3 Total Revenue (d)Rs. million 14,361 13,979 21,560 21,019 26,313 30,189 33,665 35,825 40,928 42,164 3.4 Operating Expenditure ,, 20,622 22,005 22,387 24,326 30,122 33,684 35,527 40,555 42,004 40,079 3.5 Operating Profit (+) / Loss (-),,-6,261-8,026-827-3,307-3,809-3,496-1,862-4,730-1,076 2,084
+
+4. SriLankan Airlines4.1 Hours Flown hours 67,796 54,228 62,694 74,886 93,922 95,238 97,319 96,494 96,225 107,673 4.2 Passenger Kilometres Flown million 9,169 7,851 9,400 10,677 12,790 12,988 12,719 12,747 12,855 13,984 4.3 Passenger Load Factor% 74 76 78 78 81 82 80 80 81 82 4.4 Weight Load Factor % 59 58 55 55 53 52 51 50 56 56 4.5 Freight mt '000 87 69 83 90 98 100 96 103 113 124
+
+(a) Revised(b) Provisional(c) Data from 2009 has been revised due to a change in data source from National Transport Commission to Sri Lanka Transport Board(d) Revenue of SLTB up to 2009 do not include other revenue such as reimbursements for Sisu Sariya, Nisi Sariya, season tickets etc.
+
+Sources: Department of Motor TrafficSri Lanka RailwaysNational Transport CommissionSri Lanka Transport BoardCivil Aviation Authority of Sri Lanka
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 35
+
+Performance of the Port Services
+
+Item200820092010201120122013201420152016 (a)2017 (b)
+
+1. Vessels Arrived (No.) 4,814 4,456 4,067 4,332 4,134 3,976 4,264 4,728 4,998 4,879
+
+Colombo 4,424 4,114 3,910 4,124 3,870 3,667 3,742 4,197 4,405 4,329
+
+Galle 68 32 48 73 69 36 60 72 96 87
+
+Trincomalee 322 310 109 126 161 134 127 164 216 233
+
+Hambantota - - - 9 34 139 335 295 281 230
+
+2. Total Cargo Handled (mt ‘000) 50,582 48,778 61,240 65,069 64,970 66,243 74,410 77,579 86,519 93,857
+
+Colombo 47,960 46,373 58,768 62,016 61,669 63,482 70,794 73,718 81,879 89,035
+
+Galle 459 167 318 464 422 207 394 542 771 712
+
+Trincomalee 2,163 2,238 2,154 2,574 2,859 2,435 2,748 3,027 3,514 3,897
+
+Hambantota - - - 15 20 119 474 293 355 213
+
+3. Total Container Traffic (TEUs ‘000) (c) 3,687 3,464 4,137 4,263 4,187 4,306 4,908 5,185 5,735 6,209
+
+4. Transshipment Containers (TEUs ‘000) (c) 2,785 2,712 3,205 3,216 3,167 3,274 3,781 3,967 4,435 4,826
+
+5. Total Revenue (SLPA) (Rs. million) 25,142 23,331 28,279 30,377 37,120 35,200 36,776 40,164 42,994 43,959
+
+6. Operating Expenditure (SLPA) (Rs. million) 22,201 21,390 23,892 29,380 31,153 30,665 24,930 30,985 28,660 28,050
+
+7. Employment (No.) (SLPA) 13,715 13,367 12,828 11,008 10,200 9,886 9,598 9,550 9,651 9,377
+
+Colombo 12,548 12,263 11,681 10,059 9,325 9,014 8,747 8,725 8,856 8,588
+
+Galle 553 513 500 433 391 378 373 355 348 351
+
+Trincomalee 614 591 598 466 436 426 419 417 402 401
+
+Hambantota - - 49 50 48 68 59 53 45 37
+
+(a) Revised(b) Provisional(c) TEUs = Twenty - foot Equivalent Container Units
+
+Source: Sri Lanka Ports Authority
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 36
+
+Salient Features of Government Health Services
+
+Item200820092010201120122013201420152016 (a)2017 (b)
+
+1. Hospitals (Practicing Western Medicine) (No.)619 555 (c)568 592 (d)593 603 601 610 610 612
+
+2. Beds (No.)65,835 68,897 69,501 69,731 73,437 74,636 76,918 76,781 76,829 76,774
+
+3. Primary Medical Care Units (No.) 411 475 (e)476 475 480 481 484 475 475 506
+
+4. Doctors (No.)13,026 13,633 14,125 (f)16,384 (f)17,129 17,553 17,903 19,429 (f)20,458 20,349
+
+5. Assistant Medical Practitioners (No.)1,229 1,198 1,158 1,097 1,061 1,057 1,055 1,017 1,011 910
+
+6. Nurses (No.)22,996 25,549 27,494 29,101 30,136 30,928 31,964 32,272 32,499 34,221
+
+7. Attendants (No.)7,184 8,301 8,189 7,477 8,403 8,091 8,215 8,689 8,268 9,218
+
+8. In-Patients (No. ‘000)4,898 5,474 5,591 n.a.5,840 5,926 6,120 6,322 6,493 n.a.
+
+9. Out-Patients (No. ‘000)45,382 48,782 49,871 n.a.50,631 53,861 55,105 54,652 53,044 n.a.
+
+10. Ayurvedic Physicians (No.) (g)19,054 19,529 20,004 20,353 20,712 21,060 22,422 22,672 23,082 23,206
+
+11. Total Health Expenditure (Rs. million)74,548 71,452 73,835 89,237 99,101 119,530 138,403 177,789 186,149 196,820
+
+Recurrent Expenditure55,874 58,789 60,506 74,443 81,946 99,609 116,151 140,560 155,402 161,312
+
+Capital Expenditure 18,674 12,664 13,329 14,794 17,155 19,920 22,252 37,230 30,747 35,509
+
+12. Total Health Expenditure as a % of GDP (h)1.69 1.48 1.15 1.24 1.13 1.25 1.34 1.62 1.561.48
+
+(a) Revised(b) Provisional(c) Government hospitals were re-categorised in 2009. Under this re-categorisation, 64 hospitals were re-classified as Primary Medical Care Units(d) This includes 12 estate hospitals taken over by the government, 4 hospitals refurbished and made functional in Mullaitivu district and 8 Primary Health Care Units upgraded as divisional hospitals(e) Central Dispensaries were re-named as Primary Health Care Units and 64 government hospitals were re-categorised as Primary Medical Care Units(f) Including intern medical officers(g) Registered with the Ayurvedic Medical Council(h) Data from 2010 are based on the base year 2010 GDP estimates of Department of Census and Statistics
+
+Sources : Ministry of Health, Nutrition and Indigenous MedicineDepartment of AyurvedaMinistry of Finance and Mass MediaDepartment of Census and Statistics
+
+ECONOMIC AND SOCIAL INFRASTRUCTURETABLE 37Salient Features of General and University Education Item200820092010201120122013201420152016 (a)2017 (b)
+
+A. General Education1. Schools (No.) 10,445 10,205 10,502 10,549 10,737 10,849 10,971 10,997 11,021 11,053 1.1 Government Schools 9,662 9,410 (c) 9,685 9,731 9,905 10,012 10,121 10,144 10,162 10,194 o/w National Schools 330 334 340 342 342 350 352 352 353 353 1.2 Other Schools 783 795 817 818 832 837 850 853 859 859 Private (d) 92 98 98 98 98 103 103 104 105 106 Pirivenas 691 697 719 720 734 734 747 749 754 753 2. Students (No.) 4,101,509 4,037,896 4,119,525 4,157,885 4,264,567 4,307,625 4,354,011 4,418,173 4,345,517 4,447,5702.1 Government Schools 3,930,374 3,864,824 3,940,072 3,972,983 4,004,059 4,037,095 4,078,798 4,129,534 4,143,107 4,165,955 2.2 Other Schools 171,135 173,072 179,453 184,902 190,277 196,460 194,294 201,034 202,410 200,512 Private 115,070 114,974 117,362 122,041 125,669 130,344 131,397 136,228 136,407 138,657 Pirivenas 56,065 58,098 62,091 62,861 64,608 66,116 62,897 64,806 66,003 61,855 2.3 International Schools (e) n.a. n.a. n.a. n.a. 70,231 74,070 80,919 87,605 n.a. 81,1033. New Admissions (No.) (f) 326,466 329,832 332,562 331,491 339,143 342,451 348,288 323,337 326,966 329,628 4. Teachers (No.) 224,410 225,951 224,541 228,336 242,689 243,332 253,649 259,967 249,374 263,766 4.1 Government Schools 213,212 214,307 212,457 216,397 223,724 223,752 232,990 236,999 235,999 241,018 4.2 Other Schools 11,198 11,644 12,084 11,939 12,200 12,379 12,932 13,851 13,375 13,374 4.3 International Schools (e) n.a. n.a. n.a. n.a. 6,765 7,201 7,727 9,117 n.a. 9,3745. Student/Teacher Ratio5.1 Government Schools 20 18 18 18 18 18 18 17 18 17 5.2 Other Schools 15 15 15 15 16 16 15 15 15 15 5.3 International Schools (e) n.a. n.a. n.a. n.a. 10 10 10 10 n.a. 9B. University Education (Government) (g)1. Universities (No.) 15 15 15 15 15 15 15 15 15 15 2. Students (No.) (h) 66,891 68,768 70,477 74,440 70,222 (i) 77,126 80,222 83,778 84,451 88,855 3. Lecturers (No.) 4,452 4,735 4,984 5,064 5,176 5,439 5,610 5,199 5,440 5,498 4. Number Graduated (j) 12,958 13,952 13,042 16,686 11,614 (k) 20,839 28,231 29,545 28,808 n.a. 4.1 Arts and Oriental Studies 4,012 4,830 4,432 6,940 5,330 9,156 14,662 16,387 14,082 n.a. 4.2 Commerce and Management Studies 2,547 2,705 2,704 2,791 1,992 4,159 5,726 5,152 5,630 n.a. 4.3 Law 345 425 392 348 445 454 239 337 414 n.a. 4.4 Science 2,274 2,504 2,028 2,651 1,443 3,180 2,295 2,711 3,027 n.a. 4.5 Engineering 1,114 1,157 1,307 1,346 167 1,507 1,438 1,344 1,617 n.a. 4.6 Medicine 1,294 943 797 1,061 800 547 1,144 1,145 1,135 n.a. 4.7 Dental Surgery 125 71 64 65 20 73 68 79 91 n.a. 4.8 Agriculture 510 513 540 595 515 727 867 710 799 n.a. 4.9 Veterinary Science 80 39 60 58 54 59 57 69 73 n.a. 4.10 Architecture and Quantity Surveying 116 200 118 211 150 201 214 77 224 n.a. 4.11 Computer Science and related Courses 303 382 392 439 561 644 947 1,043 946 n.a. 4.12 Other (l) 238 183 208 181 137 132 574 491 770 n.a. 5. New Admissions for Bachelor’s Degrees (No.) 20,069 20,846 21,547 22,016 28,908 (m)(n) 24,198 (n) 25,200 25,676 29,083 30,668
+
+C. Government Expenditure1. Expenditure on Education (Rs. million) (o) 100,083 100,506 104,248 121,369 136,202 151,801 190,150 225,047 238,290 257,3791.1 Recurrent Expenditure 77,141 82,414 85,195 99,043 107,271 119,819 139,787 169,600 179,319 187,6281.2 Capital Expenditure 22,942 18,092 19,053 22,326 28,930 31,982 50,363 55,447 58,971 69,7522. Education Expenditure as a % of GDP (p) 2.27 2.08 1.63 1.68 1.56 1.58 1.84 2.06 (a) 2.00 1.94
+
+Sources: Ministry of Education
+
+University Grants Commission
+
+Ministry of Finance and Mass Media
+
+Department of Census and Statistics Central Bank of Sri Lanka
+
+(a) Revised(b) Provisional(c) All the government schools in Mullaitivu and Kilinochchi districts and some of the government schools in Mannar and Vavuniya districts were temporarily closed during the census date due to civil conflict (d) Private schools approved by the government and schools for children with special needs (This figure excludes international schools which are registered under the Companies Act)(e) Data from 2012 to 2014 are based on a survey carried out by the Central Bank of Sri Lanka in 2014 covering 120 international schools. Data reported in the table relate only to schools that responded. The response rate was 63 per cent. 2015 and 2017 data are based on island wide surveys carried out by the Ministry of Education.(f) Government schools only(g) Universities which come under the purview of University Grants Commission(h) Excluding Open University of Sri Lanka and external degree courses(i) In 2012, student enrollment was less as the 2011 GCE (A/L) intake was not admitted due to
+
+court cases relating to the discrepancies in the Z-score. However, the decrease was not significant as the final exams and academic terms of some universities were not completed by the end of the year due to Academic and Non-Academic staff strikes(j) Including Open University of Sri Lanka and external degree courses(k) Number graduated decreased in 2012 as final exams were not held in several faculties due to Academic and Non-Academic staff strikes(l) Includes other courses offered by universities(m) Including 5,182 students who have been admitted in addition to the normal intake due to court cases filed before the Supreme Court challenging the methodology used to calculate the Z-score (n ) Admissions in 2012 include the intake from the 2011 GCE (A/L) but has been admitted only in 2013, while the admissions in 2013 show the undergraduates admitted in the first quarter of 2014 (o) Government expenditure on General and Higher Education (p) Data from 2010 are based on the base year 2010 GDP estimates of Department of Census and Statistics
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 38
+
+Movement of the National Consumer Price Index (2013=100)
+
+Index BaseWeights
+
+Average IndexYear-on-YearPercentage ChangeAnnual AveragePercentage ChangeContribution to Annual Average Increase (%)
+
+2014201520162017Dec-15Dec-16Dec-17201520162017201520162017
+
+All Items100.0105.5109.5113.8122.64.24.27.33.84.07.7100.0100.0100.0
+
+Commodity-wise
+
+Food and Non Alcoholic Beverages44.0105.2110.7114.1127.02.62.312.85.23.111.361.234.764.9
+
+Alcoholic Beverages and Tobacco2.3110.5129.8158.5175.618.324.5-0.917.522.110.811.015.04.4
+
+Clothing and Footwear 3.4103.2110.5114.5118.28.42.92.97.13.73.26.33.21.4
+
+Housing, Water, Electricity, Gas and Other Fuels 18.0110.1114.7114.8115.87.31.00.74.20.10.920.90.62.0
+
+Furnishing, Household Equipment and Routine Household Maintenance3.3103.6108.7113.1119.06.53.55.14.94.15.24.23.42.2
+
+Health 4.1105.4114.8128.0140.79.420.63.48.911.59.99.612.45.8
+
+Transport 9.8102.792.897.6103.3-4.44.25.2-9.65.15.9-24.310.76.4
+
+Communication 2.3103.7103.8110.9121.20.016.9-0.20.16.89.30.13.82.7
+
+Recreation and Culture 1.6101.5106.4109.4111.37.00.92.64.92.71.72.01.10.3
+
+Education 2.8104.1112.3115.0119.89.01.04.47.92.44.15.81.81.5
+
+Restaurants and Hotels3.9104.2104.8106.7110.7-0.44.32.30.61.93.70.61.81.8
+
+Miscellaneous Goods and Services 4.5101.5103.8114.8127.411.57.29.62.310.611.02.611.56.5
+
+Sources: Department of Census and Statistics Central Bank of Sri Lanka
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 39
+
+Movement of the Colombo Consumer Price Index (2013=100)
+
+Index Base Weights
+
+Average IndexYear-on-YearPercentage ChangeAnnual AveragePercentage ChangeContribution to AnnualAverage Increase (%)
+
+2014201520162017Dec-15Dec-16Dec-17201520162017201520162017
+
+All items 100.0105.1107.4111.7119.04.64.57.12.24.06.6100.0100.0100.0
+
+Commodity-wise
+
+Food and Non Alcoholic Beverages28.2104.3110.0116.7127.54.14.114.45.56.19.368.544.041.5
+
+Alcoholic Beverages and Tobacco1.0111.1127.3153.8186.018.426.61.514.620.820.97.16.44.5
+
+Clothing and Footwear 2.3100.9111.9119.2126.316.22.76.010.96.56.010.73.92.2
+
+Housing, Water, Electricity, Gas and Other Fuels 32.0108.9110.3110.1110.25.10.20.31.4-0.20.119.9-1.50.4
+
+Furnishing, Household Equipment and Routine Household Maintenance 2.5102.2107.5107.8118.06.6-0.513.75.20.39.55.70.23.5
+
+Health 4.4104.1111.7126.0144.27.727.26.57.212.914.414.014.710.9
+
+Transport 10.6101.791.192.996.9-4.50.24.0-10.42.04.3-47.74.55.8
+
+Communication 3.3103.5103.5110.0119.80.016.0-0.70.06.38.90.05.04.4
+
+Recreation and Culture 1.3101.4105.3107.4109.94.72.32.63.82.02.42.10.60.5
+
+Education 5.9103.6107.4112.8129.06.75.611.03.75.014.49.57.412.9
+
+Restaurants and Hotels5.1101.2104.5107.2116.44.27.59.13.32.68.67.23.26.4
+
+Miscellaneous Goods and Services 3.3101.5103.5118.5134.017.07.713.22.014.513.12.911.67.0
+
+Sources: Department of Census and Statistics Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 40
+
+Movement of the Colombo Consumer Price Index (2006/07=100) (a)
+
+IndexBase Weights
+
+Average IndexYear-on-Year Percentage ChangeAnnual Average Percentage ChangeContribution to Annual Average Increase (%)
+
+20122013201420152016Dec-13Dec-14Dec-15Dec-1620132014201520162013201420152016
+
+All Items 100.0162.9174.2179.9181.5188.34.72.12.84.16.93.30.93.7100.0100.0100.0100.0
+
+Commodity-wise
+
+Food and Non Alcoholic Beverages41.0180.9195.2202.5212.4221.73.57.04.23.87.93.84.94.452.053.1244.256.3
+
+Clothing and Footwear 3.1162.1170.8171.4195.3207.7-0.11.318.44.45.40.414.06.32.40.445.25.7
+
+Housing, Water, Electricity, Gas and Other Fuels 23.7136.4151.0152.7138.2138.012.1-9.7-2.50.510.71.1-9.5-0.130.87.1-203.0-1.5
+
+Furnishing, HouseholdEquipment and RoutineHousehold Maintenance 3.6142.7148.5151.9164.4170.71.03.29.71.84.02.38.23.81.82.127.13.3
+
+Health 3.2247.5251.7273.1311.4345.60.78.616.415.81.78.514.011.01.211.972.815.9
+
+Transport 12.3181.9190.2198.9182.9187.13.31.5-6.43.54.64.5-8.02.39.118.6-118.07.6
+
+Communication 4.890.390.393.994.0100.50.04.10.016.80.04.00.16.90.03.00.24.6
+
+Recreation and Culture 1.5144.6150.4153.8161.6166.95.00.58.6-4.54.12.25.13.30.80.97.11.2
+
+Education 3.9141.2142.6143.3148.1155.20.90.17.56.20.90.53.44.80.50.511.44.1
+
+Miscellaneous Goods and Services 2.9136.5142.2146.8154.2160.83.13.64.86.34.23.25.04.31.52.312.82.8
+
+(a) Compilation of this index was discontinued since January 2017.
+
+Sources: Department of Census and Statistics Central Bank of Sri Lanka
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 41National Consumer Price Index (NCPI) (2013=100) (a)
+
+Period (b) All ItemsFood and NonAlcoholicBeverages
+
+AlcoholicBeverages and Tobacco
+
+Clothing and Footwear
+
+Housing,Water,Electricity,Gas andOther Fuels
+
+Furnishing, HouseholdEquipment and RoutineHouseholdMaintenance
+
+Health Transport Communication Recreationand Culture Education Restaurantsand Hotels
+
+Miscellaneous Goods and Services
+
+Base Weights100.044.02.33.418.03.34.19.82.31.62.83.94.5
+
+2014105.5105.7110.5103.2110.1103.6105.4102.7103.7101.5104.1104.2101.52015109.5110.7129.8110.5114.7108.7114.892.8103.8106.4112.3104.8103.82016113.8114.1158.5114.5114.8113.1128.097.6110.9109.4115.0106.7114.82017122.6127.0175.6118.2115.8119.0140.7103.3121.2111.3119.8110.7127.4
+
+20151st Quarter109.8112.9124.1105.1114.8105.8112.093.1103.8104.2111.0105.4101.12nd Quarter108.0108.4124.6111.4114.7108.5114.190.9103.8104.7111.2104.7102.63rd Quarter108.6108.3130.7112.4114.7109.6116.092.8103.8108.1112.5104.2103.24th Quarter111.5113.2139.8112.9114.5110.6116.994.5103.8108.8114.5104.7108.3
+
+20161st Quarter110.9111.2144.2113.2114.4111.7117.195.0103.8108.8114.6104.8111.72nd Quarter113.8114.6154.5114.0114.7112.6127.996.9115.4109.3114.6105.8113.03rd Quarter114.0114.0157.3115.0114.9113.6129.898.9108.2108.9115.0107.8116.24th Quarter116.4116.6177.8116.0115.2114.6137.199.5116.2110.5115.8108.5118.3
+
+20171st Quarter119.6121.5174.4116.8115.5116.2141.1101.9121.3111.1118.4110.3124.12nd Quarter122.1126.4174.3117.8115.7118.1140.3102.8121.3110.9119.6110.4126.63rd Quarter122.7127.0176.7118.6115.9120.5137.7104.2121.2110.9120.2110.4129.04th Quarter125.9133.3176.9119.4116.1121.1143.5104.5121.0112.1120.9111.8129.9
+
+2016January112.0113.8143.0113.7114.2111.5117.095.1103.8108.8114.6104.8110.8February110.8110.8143.2112.9114.6111.9117.195.0103.8108.8114.6104.8112.1March110.0108.9146.5112.9114.5111.8117.195.0103.8108.8114.6104.9112.1April111.6111.3157.8113.5114.6112.3117.196.9103.8108.8114.6105.0112.2May113.7113.6154.0113.9114.7112.6133.396.9121.2109.5114.6105.1113.1June116.1119.0151.7114.6114.9112.9133.396.9121.3109.5114.6107.3113.7July115.2117.1152.1114.6114.9113.2130.997.8112.9109.1114.6107.6115.5August113.3112.4157.0114.9114.9113.7129.299.4105.9108.8114.6107.9116.4September113.5112.6162.8115.4114.9113.8129.299.4105.9108.8115.8108.0116.7October114.7114.6171.9115.6114.9113.9129.299.4105.9109.3115.8108.1117.2November116.6115.9183.9116.0115.3114.6141.199.4121.3112.3115.8108.1118.8December118.0119.2177.6116.3115.3115.4141.199.6121.3109.8115.8109.3118.8
+
+2017January119.3121.3175.0116.6115.2115.6141.1101.2121.3111.5116.3110.3123.7February119.9122.1174.2116.7115.6116.3141.1102.2121.3110.9119.5110.3124.2March119.5121.1174.1117.1115.6116.8141.1102.2121.3110.9119.5110.3124.3April121.0124.4174.7117.5115.6117.0141.1102.3121.3110.9119.5110.4124.5May121.8125.6173.5117.8115.8117.6141.2103.1121.3110.9119.6110.4127.2June123.4129.2174.6118.1115.8119.7138.6103.1121.3110.9119.6110.4128.0July122.4126.7175.7118.3115.8120.1136.0104.1121.3110.9119.6110.4128.7August122.3126.0176.5118.6115.9120.5138.6104.2121.3110.9120.0110.4129.0September123.3128.2178.0118.9115.9120.8138.6104.2121.0110.9120.9110.4129.2October124.8131.4178.3119.1116.1120.9138.6104.2121.0110.9120.9111.7129.4November126.4134.1176.5119.4116.1121.2145.9104.5121.0112.7120.9111.8130.1December126.6134.4176.0119.7116.1121.3145.9104.8121.0112.7120.9111.8130.2
+
+(a) The Index was based on the Household Income and Expenditure Survey conducted in 2012/13. The weights are based on the consumption pattern of the entire island. The total basket value (at 2013 prices) was Rs. 32,142.69.
+
+Source: Department of Census and Statistics
+
+(b) Annual and quarterly figures are averages of monthly figures.
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 42
+
+Colombo Consumer Price Index (CCPI) (2013=100) (a)
+
+Period (b) All ItemsFood and NonAlcoholicBeverages
+
+AlcoholicBeverages and Tobacco
+
+Clothing and Footwear
+
+Housing,Water,Electricity,Gas andOther Fuels
+
+Furnishing, HouseholdEquipment and RoutineHouseholdMaintenance
+
+Health Transport Communication Recreationand Culture Education Restaurantsand Hotels
+
+Miscellaneous Goods and Services
+
+Base Weights100.028.21.02.332.02.54.410.63.31.35.95.13.3
+
+2014105.1104.3111.1100.9108.9102.2104.1101.7103.5101.4103.6101.2101.52015107.4110.0127.3111.9110.3107.5111.791.1103.5105.3107.4104.5103.52016111.7116.7153.8119.2110.1107.8126.092.9110.0107.4112.8107.2118.52017119.0127.5186.0126.3110.2118.0144.296.9119.8119.9129.0116.4134.0
+
+20151st Quarter106.7111.0123.3100.8110.2104.3107.991.7103.5104.0104.8101.8100.52nd Quarter106.5107.7123.3111.9110.6108.1112.989.6103.5104.3104.8105.4101.53rd Quarter107.5109.4123.8117.7110.4108.5112.990.8103.5106.4108.5105.4102.14th Quarter108.9112.1138.7117.3110.2108.9112.992.3103.5106.4111.6105.4109.9
+
+20161st Quarter109.3113.2145.9118.3110.1106.9112.991.5103.5106.3111.7105.4114.12nd Quarter111.4116.5147.1119.6110.2107.4124.492.6114.6107.5111.7105.4116.93rd Quarter112.6119.4146.4118.8110.1108.1129.393.2108.1107.2112.5108.1120.74th Quarter113.5117.8175.8120.0110.2108.6137.594.2114.0108.5115.4109.8122.3
+
+20171st Quarter116.4121.2185.5123.9110.1109.4143.695.6120.1110.1128.0113.4130.12nd Quarter118.5127.0186.0126.3110.1115.0142.896.2120.1109.6128.0114.5133.53rd Quarter119.3128.2185.8126.8110.1123.7140.997.7119.8109.7129.3115.5135.14th Quarter122.0133.8186.8128.3110.5123.8149.798.1119.2110.3130.9122.1137.2
+
+2016January110.0115.3145.4120.6110.1107.1112.992.0103.5106.4111.7105.4113.7February109.3113.3145.5117.2110.1107.0112.991.3103.5106.4111.7105.4114.3March108.6110.9146.7117.2110.0106.7112.991.3103.5106.2111.7105.4114.3April109.5113.4147.6117.1110.0107.2112.992.6103.5106.2111.7105.4115.8May111.5115.2147.2121.2110.2107.3130.292.6120.1108.2111.7105.4117.1June113.2121.0146.4120.6110.3107.6130.292.6120.1108.2111.7105.4117.7July113.9123.8145.5118.1110.2107.8129.992.8113.6107.7111.7108.1120.4August112.1118.2146.7119.2110.1108.0129.093.0105.4106.9111.7108.1120.5September111.8116.3147.0119.0110.1108.4129.093.8105.4106.9114.2108.1121.3October112.1117.0158.9118.6110.1108.4129.093.8105.4107.3114.2108.1122.1November113.6117.7184.5120.6110.3108.6140.094.0116.4109.3114.2108.1122.4December114.7118.6184.1120.9110.2108.9143.694.8120.1108.8117.9113.3122.4
+
+2017January116.1120.5184.8122.8110.1109.0143.695.1120.1111.0128.0113.3129.5February116.7122.0185.6124.1110.1109.3143.695.9120.1109.6128.0113.5129.5March116.5121.1186.0124.9110.1109.9143.695.9120.1109.6128.0113.5131.3April117.1123.1185.9125.8110.1110.7143.695.9120.1109.6128.0113.6131.3May118.2125.9186.0126.7110.2111.5143.696.2120.1109.6128.0115.0134.6June120.1132.0186.1126.3110.1122.8141.196.6120.1109.6128.0115.0134.6July119.4129.7185.9124.9110.1123.5136.797.2120.1109.7128.0115.5134.8August118.8126.4185.8124.8110.1123.8143.097.9120.1109.7128.9115.5135.2September119.7128.4185.7130.8110.2123.9143.097.9119.2109.7130.9115.5135.2October120.8131.7185.8128.2110.5123.8143.097.9119.2109.7130.9119.1135.2November122.2134.0187.7128.5110.5123.8153.097.8119.2109.7130.9123.6137.9December122.9135.7186.8128.1110.5123.8153.098.6119.2111.6130.9123.6138.5
+
+(a) The Index was based on the Household Income and Expenditure Survey conducted in 2012/13. The weights are based on the consumption pattern of the urban households within the Colombo district. The total basket value (at 2013 prices) was Rs. 60,364.74.
+
+Source: Department of Census and Statistics
+
+(b) Annual and quarterly figures are averages of monthly figures.
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 43
+
+Colombo Consumer Price Index (CCPI) (2006/07=100) (a)(b)
+
+Period (c) All Items
+
+Food and NonAlcoholic Beverages
+
+Clothing and Footwear
+
+Housing, Water, Electricity,Gas and Other Fuels
+
+Furnishing,HouseholdEquipment and Routine HouseholdMaintenance
+
+Health Transport Communica-tion
+
+Recreation andCulture Education Miscellaneous Goods and Services
+
+Base Weights100.041.03.123.73.63.212.34.81.53.92.9
+
+2013174.2195.2170.8151.0148.5251.7190.290.3150.4142.6142.22014179.9202.5171.4152.7151.9273.1198.993.9153.8143.3146.82015181.5212.4195.3138.2164.4311.4182.994.0161.6148.1154.22016188.3221.7207.7138.0170.7345.6187.1100.5166.9155.2160.8
+
+20141st Quarter177.7195.4170.7156.2150.8272.6199.493.8153.5143.2144.72nd Quarter179.8200.3171.0156.1151.2273.0199.593.8153.6143.3146.23rd Quarter182.5206.7171.5155.9152.0273.0199.493.9153.8143.3147.74th Quarter179.5207.6172.4142.4153.6273.7197.194.0154.2143.4148.7
+
+20151st Quarter180.1213.5176.6137.7156.0288.8185.194.0155.2143.8151.52nd Quarter180.0208.9195.6139.2165.4318.9180.094.0157.0143.8154.13rd Quarter182.0211.3205.0138.7168.0318.9183.294.0166.8150.7155.34th Quarter184.0216.0204.2137.3168.3318.9183.294.0167.5154.2155.8
+
+20161st Quarter183.5214.9204.5137.8168.5318.9183.294.0167.5154.2156.42nd Quarter188.4221.9206.8138.0170.3344.8186.8104.4167.5154.2159.53rd Quarter190.2224.9208.2138.2171.7355.4188.699.6167.2154.5162.14th Quarter191.1225.1211.2138.2172.3363.2189.7104.1165.4157.8165.4
+
+2015January183.2218.5174.4140.1153.7273.9194.594.0155.1143.8151.4February178.9214.0174.7136.7153.7273.9180.794.0155.1143.8151.4March178.1208.0180.6136.4160.5318.7180.094.0155.3143.8151.8April178.5205.6193.2139.2165.1318.9180.094.0155.3143.8153.3May179.8208.7193.2139.2165.1318.9180.094.0155.7143.8154.5June181.6212.4200.3139.2165.9318.9180.094.0159.9143.8154.5July182.8213.9204.4139.1167.7318.9183.294.0166.5143.8154.5August181.9210.7205.3138.5168.1318.9183.294.0166.5154.2155.7September181.4209.4205.4138.5168.2318.9183.294.0167.5154.2155.7October182.1211.1204.4135.8168.2318.9183.294.0167.5154.2155.7November184.7217.5203.9138.6168.2318.9183.294.0167.5154.2155.9December185.2219.3204.3137.5168.6318.9183.294.0167.5154.2155.9
+
+2016January184.9218.1207.3137.9168.6318.9183.294.0167.5154.2155.9February183.8215.8203.3137.9168.4318.9183.294.0167.5154.2156.6March181.7210.9202.9137.5168.5318.9183.294.0167.5154.2156.6April184.1215.6201.5137.5169.3318.9186.894.0167.5154.2159.0May188.5220.4209.8138.1170.4357.7186.8109.3167.5154.2159.0June192.5229.8209.1138.5171.1357.7186.8109.8167.5154.2160.5July192.9231.2206.8138.3171.1356.9187.2106.4168.0154.5161.2August189.1222.6208.9138.1171.7354.7189.096.2168.0154.5161.5September188.5221.0209.0138.1172.2354.7189.796.2165.7154.5163.5October189.7223.8208.9137.8172.3354.7189.796.2168.1154.8164.7November190.9223.9212.5138.5172.8365.7189.7106.4168.3154.9165.7December192.8227.6212.3138.2171.7369.2189.7109.8159.9163.7165.7
+
+Source: Department of Census and Statistics(a) The Index was based on the Household Income and Expenditure Survey conducted in 2006/07. The weights are based on the consumption pattern of the urban households within the Colombo district. The total basket value (at 2006/07 prices) was Rs. 27,972.11.(b) Compilation of this index was discontinued since January 2017.(c) Annual and quarterly figures are averages of monthly figures.
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 44
+
+Producer’s Price Index (2013 Q4 =100)
+
+Period (a)All ActivitiesAgricultureManufacturingElectricity and Water Supply
+
+2014101.6104.6100.996.22015105.3121.8100.387.6
+
+2016107.1120.4103.784.82017 (b)125.3162.7109.284.9
+
+20151st Quarter104.1123.298.482.72nd Quarter104.7120.399.889.43rd Quarter106.1124.499.894.64th Quarter106.1119.2103.383.6
+
+20161st Quarter103.6116.7100.184.42nd Quarter104.8115.3102.385.93rd Quarter106.9119.5103.984.84th Quarter112.9130.1108.684.3
+
+2017 (b)1st Quarter119.5147.6106.883.72nd Quarter125.8163.0109.786.43rd Quarter125.6165.4108.784.84th Quarter130.1174.9111.584.7
+
+2016January103.7117.699.983.7February105.8123.9100.584.2March101.4108.799.985.2April102.6111.4100.586.6May104.8112.3103.586.6June107.0122.2103.084.4July107.8121.6104.484.7August106.0117.7103.284.8September107.0119.1104.284.8October109.9124.0106.585.1November113.4130.6109.284.2December115.3135.8110.083.7
+
+2017 (b)January117.8144.2105.583.5February120.1148.6107.384.0March120.6150.1107.583.7April123.4154.6109.686.0May126.0164.3109.586.5June127.9170.0110.086.8July125.4166.9107.885.5August124.9163.0108.684.1September126.6166.4109.884.7October 128.4172.4110.084.8November 130.2175.9111.284.7December 131.8176.5113.384.5
+
+(a) Annual and quarterly figures are averages of monthly figures.Source: Department of Census and Statistics
+
+(b) Provisional.
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY TABLE 45
+
+Average Retail Prices of Selected Food Items by Province 2016 - 2017
+
+Rs. per kg
+
+Consumer items
+
+Western ProvinceCentral Province North Central Province North Western Province Sabaragamuwa Province
+
+20162017 (a)20162017 (a)20162017 (a)20162017 (a)20162017 (a)
+
+1st half 2nd half 1st half 2nd half1st half 2nd half 1st half2nd half1st half 2nd half 1st half 2nd half1st half 2nd half 1st half 2nd half1st half 2nd half 1st half 2nd half
+
+Samba Rice (Highest)93.5492.5495.44103.3797.4494.7198.73104.7689.3190.5392.65101.6687.2688.2892.09103.8999.4895.6698.80104.81Kekulu Red (Highest)67.6371.4784.8886.8071.9374.1586.3090.3873.8674.8782.5690.1471.4374.4685.4592.5368.7574.2684.0189.37Dried Chillies (Ord.)351.52351.68276.04246.46362.60362.80284.92239.28341.40344.12274.19234.65345.79349.02277.59246.87344.37347.26258.93236.11Red Onions125.68126.06176.65300.88122.86122.99154.95297.85118.19120.58149.90288.34118.11119.00154.25285.60117.50119.01157.89295.03B'Onions (Imported)78.7490.8097.36133.9477.6790.0793.59131.4173.9888.3194.59130.6782.8494.31100.43132.0878.7191.2696.57133.85Potato (Local)132.26148.41154.60156.85125.23143.79144.83144.51107.60134.61132.87138.49123.14136.80138.16138.08124.13142.74149.60152.07Beans176.04184.95173.91190.57167.08162.78145.50171.83179.30179.32165.91189.56199.67193.79171.18191.84169.58159.13145.36165.08Pumpkin84.6288.2494.73101.2587.8390.7594.31108.2477.7476.6687.25103.1978.2475.6575.1988.1780.4770.9684.8490.33Brinjals115.0593.9897.00147.43113.2786.8387.06140.36104.4277.5074.48135.00113.5187.9580.05136.9598.6273.5082.82112.46Coconut (Large)- each51.3949.1368.5878.6247.5644.9167.0078.6046.5540.3459.3373.7443.9043.0259.1469.8546.1943.6063.9174.14Fish - Balaya652.75673.76680.74644.78604.55585.90589.84584.81538.61536.31515.10470.59568.45589.94556.95574.85575.86578.12602.58602.54Fish - Kelawalla (Tuna)859.89872.64916.03982.34787.98792.76838.49884.24820.96854.09854.97870.85791.39772.57766.00813.46712.76745.00764.68816.56Fish - Hurulla (Triencheal)397.38404.92431.26407.90390.59385.43408.59401.83377.42360.57399.92362.58366.44358.48361.16362.31376.49379.93409.65376.80Dried Fish - Sprats592.22583.44605.49641.54613.24585.04595.23650.70534.30522.89555.91574.04578.81560.69576.63614.77605.34600.96593.44705.86Dried Fish - Katta1,109.34 1,139.09 1,162.89 1,188.83 1,115.60 1,142.40 1,133.961,172.65 1,047.93 1,073.44 1,068.02 1,076.46916.93941.22948.31988.47 1,066.98 1,070.18 1,089.26 1,108.44Chicken 392.23418.85404.86417.63395.63415.39416.79423.96382.73404.58389.39408.02405.14440.79422.52442.52412.36432.64418.63433.28Eggs (Medium)-each16.1815.8214.1013.5116.8816.2614.4513.9615.6915.7414.3713.5315.8815.4014.1213.4616.6116.2014.3613.45Milk Powder 400 g325.00325.00325.00325.00325.00325.00325.00324.93325.00325.00325.00325.00325.00325.00325.00325.00325.00325.00325.00325.00
+
+Consumer items
+
+Uva ProvinceSouthern Province Northern ProvinceEastern ProvinceAll Island
+
+20162017 (a)20162017 (a)20162017 (a)20162017 (a)20162017 (a)
+
+1st half 2nd half 1st half 2nd half1st half 2nd half 1st half2nd half1st half 2nd half 1st half 2nd half1st half 2nd half 1st half 2nd half1st half 2nd half 1st half 2nd half
+
+Samba Rice (Highest)103.74103.25105.65105.62105.85102.94102.15106.0896.2591.2097.72105.6098.2699.42102.38108.7696.3595.0297.83104.73Kekulu Red (Highest)62.5767.8883.5283.0358.6565.0180.9081.0166.9271.5685.5590.6867.6672.1883.6985.9667.6771.5184.2087.61Dried Chillies (Ord.)329.49347.48294.14243.06352.88354.74276.47236.20335.17328.48264.58250.24348.07350.82332.23270.54347.62349.59280.21244.31Red Onions138.40132.38181.13325.20122.63125.35177.95322.94101.77104.27132.84231.88119.29122.80145.61258.06120.16121.31158.79289.15B'Onions (Imported)79.3191.96100.29131.8473.6686.5188.58130.2082.2994.9297.88135.1981.4993.7195.31126.8778.5691.0095.84131.99Potato (Local)124.91148.54152.60148.83119.91145.22146.95150.0987.86115.49113.82112.86121.12143.56140.63150.83121.57141.95143.87146.00Beans166.96176.33150.16172.57190.06194.97170.00197.02180.02182.91167.63193.87176.46180.68147.27178.51179.07181.04162.36185.78Pumpkin86.1189.2691.15108.4598.0898.8997.05116.5963.9163.1567.9372.1172.5877.3881.4894.2782.2183.2987.2699.29Brinjals106.0988.5478.63138.68101.9881.7183.05147.52108.5278.3998.87134.40114.4994.1496.46124.10109.5385.9587.70138.37Coconut (Large)- each48.9642.4965.5781.9754.8550.3170.6679.8441.0435.4953.6171.1646.5642.9965.5182.2548.0344.6364.3076.78Fish - Balaya526.23553.80547.52584.51695.87671.88679.46605.02444.83418.68420.37423.88516.52562.87583.48598.64595.30601.91600.64582.63Fish - Kelawalla (Tuna)757.22804.24815.33890.74865.00863.52887.29846.29409.52439.17432.78456.88633.96676.15693.66726.15791.66805.72828.03859.35Fish - Hurulla (Triencheal)366.59383.22407.13392.26376.20348.99380.11344.81292.79311.06321.36331.29313.77327.47332.58344.42372.01372.16393.12377.63Dried Fish - Sprats603.65582.92624.80658.04607.30585.65619.16670.62503.29509.80537.80582.84559.41510.43573.40582.47579.87564.24589.45631.78Dried Fish - Katta1,054.61 1,079.97 1,119.27 1,144.44 1,074.61 1,096.73 1,110.131,137.77823.47838.36871.54893.13828.50856.93848.05906.74 1,024.02 1,052.44 1,060.66 1,091.32Chicken 425.47442.41436.59448.20380.70412.45398.41403.19362.54386.65378.94397.50392.19411.81505.71509.05393.13418.77408.49421.25Eggs (Medium)-each17.6717.4516.4015.4416.8016.1214.4213.7216.2017.0415.4015.0716.8216.3915.2013.9516.4616.1814.6213.94Milk Powder 400 g325.00325.00325.00325.00325.00325.00325.00325.00325.00318.62320.38322.97325.00324.03323.71324.21325.00324.55324.61324.80
+
+(a) ProvisionalSource: Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 46
+
+Wholesale Prices of Selected Commodities
+
+RupeesRupees
+
+ItemUnitAverage Wholesale PriceItemUnitAverage Wholesale Price
+
+2014201520162017 (a)2014201520162017 (a)
+
+1. Food6. Petroleum ProductsImported Rice1 mt79,18475,71884,208104,489Petrol1 gallon790543535535Paddy Open Market1 bushel855860868949Auto Diesel1 gallon547438434434Wheat Grain1 mt41,41337,47336,16436,674Kerosene Oil1 gallon456271230270Wheat Flour1 mt89,55785,60380,06178,394Eggs1001,1901,2911,4261,2407. Non Metallic ProductsFish (Average of 5 varieties) (b)1 kg418437492463Cement1 bag(50 kg)895900900900Potatoes1 kg919410293Asbestos-Sheet-Corrugated (96"X53")1 sheet 1,5951,6201,7501,750Non-Seasonal vegetables1 kg53818356Asbestos -Sheet Flat1 sheet522530570570(Average of 3 varieties) (b) Seasonal Vegetables1 kg425551528. Metal Products(Average of 3 varieties) (b)Tor-Steel1 mt142,000138,583135,000135,000Coconuts1003,3104,2453,6964,433Wire Nails50 kg3,8793,3483,3003,300Coconut Oil1 mt272,786280,582291,593343,595Mammoties (9" X 9")Each795795795795Dried Chillies1 kg189222273191Mustard1 kg2032052022179. Transport EquipmentRed Onions1 kg707897129Bicycleseach10,72811,64511,75011,750High Grown Tea1 kg421391449514Bicycle Tyreseach635635635635Mid Grown Tea1 kg407361427509Lorry Tyres (8.25"x20")each27,02526,24025,68125,681Low Grown Tea1 kg489418488594Automotive Batterieseach6,5526,5526,5526,552Sugar1 mt64,13755,11875,07077,29710. Electrical Appliances and Supplies2. Alcoholic DrinksInsulated Wires100 mtrs.1,7761,7761,7761,776Toddy1 bottle59627074Switches1 Doz.2,3422,3422,3422,342Beer1 bottle143164193200Wall Plug Sockets1 Doz.303301345345Arrack Special1 bottle8469391,0631,100Ceiling Fanseach3,8533,9003,9403,940Arrack Coconut1 bottle8339411,0891,15011. Machinery3. Textiles and Footwear Water Pumps (Domestic)each27,72027,47327,47327,473Dress Materials (Poplin)1 metre108108108108Water Pumps (Agriculture)each81,74976,36671,71271,712Shoespair2,6462,6542,6962,696Water Pumps (Industrial)each57,52357,01057,01057,010
+
+4. Paper Products12. Fuel and LightBox Board100 sheets1,7451,7751,7751,775Electricityunit9888
+
+5. Chemicals and Chemical Products13. MiscellaneousUrea1 mt7,0007,0007,0007,000Rubber (RSS-1)1 kg290254263314Sulphate of Ammonia1 mt24,00024,00024,00024,000Cinnamon Quills1 kg1,2981,3801,6461,948Triple Super Phosphate1 mt7,0007,0007,0007,000Washing Soap288 tab10,36510,60110,80010,800Talcum Powder1 doz.901915915915
+
+(a) Provisional
+
+(b) Geometric MeanSource : Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 47Wage Rate Indices (Government Employees) (2012=100)
+
+Period
+
+Government Employees (a)
+
+Senior Level OfficersTertiary Level OfficersSecondary Level OfficersPrimary Level OfficersAll Government Officers
+
+NWRIRWRI (b)NWRIRWRI (b)NWRIRWRI (b)NWRIRWRI (b)NWRIRWRI (b)
+
+2014110.8104.8116.4110.0117.9111.4119.2112.7117.5111.12015134.6122.7149.0135.8155.8142.0162.9148.5154.8141.12016141.4123.9155.5136.3161.6141.7170.4149.4160.8140.92017 (c)141.4115.0155.5126.6161.6131.5170.4138.7160.8130.9
+
+20151st Quarter127.7116.1139.5126.9144.7131.7150.1136.6143.9130.92nd Quarter134.4124.0148.7137.2155.4143.4162.5149.9154.4142.53rd Quarter138.2126.9154.0141.4161.6148.4169.6155.7160.4147.34th Quarter138.2123.7154.0137.7161.6144.5169.6151.7160.4143.5
+
+20161st Quarter141.4127.1155.5139.8161.6145.3170.4153.1160.8144.52nd Quarter141.4123.9155.5136.3161.6141.6170.4149.3160.8140.93rd Quarter141.4123.6155.5136.0161.6141.4170.4149.0160.8140.64th Quarter141.4121.1155.5133.2161.6138.4170.4145.9160.8137.7
+
+2017 (c) 1st Quarter141.4117.9155.5129.7161.6134.8170.4142.1160.8134.12nd Quarter141.4115.5155.5127.0161.6132.0170.4139.2160.8131.33rd Quarter141.4114.9155.5126.4161.6131.4170.4138.5160.8130.74th Quarter141.4111.9155.5123.1161.6128.0170.4134.9160.8127.3
+
+2016January138.2123.1154.0137.1161.6143.8169.6150.9160.4142.8February138.2124.4154.0138.5161.6145.4169.6152.6160.4144.4March147.7133.8158.6143.7161.8146.6172.1155.9161.5146.4April141.4126.3155.5138.9161.6144.4170.4152.2160.8143.6May141.4124.0155.5136.4161.6141.7170.4149.4160.8141.0June141.4121.4155.5133.5161.6138.8170.4146.3160.8138.1July141.4122.4155.5134.6161.6139.9170.4147.5160.8139.2August141.4124.4155.5136.8161.6142.2170.4149.9160.8141.5September141.4124.2155.5136.6161.6142.0170.4149.7160.8141.2October141.4122.9155.5135.2161.6140.5170.4148.1160.8139.8November141.4120.9155.5133.0161.6138.2170.4145.7160.8137.5December141.4119.4155.5131.4161.6136.6170.4144.0160.8135.9
+
+2017 (c) January141.4118.1155.5130.0161.6135.1170.4142.4160.8134.4February141.4117.6155.5129.3161.6134.4170.4141.7160.8133.7March141.4117.9155.5129.7161.6134.9170.4142.2160.8134.1April141.4116.5155.5128.1161.6133.2170.4140.4160.8132.5May141.4115.7155.5127.3161.6132.3170.4139.5160.8131.6June141.4114.2155.5125.6161.6130.6170.4137.7160.8129.9July141.4115.2155.5126.7161.6131.7170.4138.8160.8131.0August141.4115.2155.5126.8161.6131.8170.4138.9160.8131.1September141.4114.3155.5125.7161.6130.7170.4137.8160.8130.0October141.4112.9155.5124.2161.6129.1170.4136.1160.8128.5November141.4111.5155.5122.7161.6127.5170.4134.4160.8126.8December141.4111.3155.5122.5161.6127.3170.4134.2160.8126.6
+
+(a) This index covers all levels of public sector employees, under the disaggregation of Senior, Tertiary, Secondary and Primary levels. The base period employment structure was based on a special Annual Public Sector Employment Survey (APSES) conducted in 2012. Initial salary scales of specific occupations and due allowances as specified in the Public Administration Circular No. 06/2006 issued by the Ministry of Public Administration and Home Affairs on 25th April 2006 were used to construct the Index.(b) Based on NCPI (2013=100)(c) Provisional
+
+Note : NWRI = Nominal Wage Rate Index RWRI = Real Wage Rate Index
+
+Source: Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY TABLE 48Wage Rate Indices (Workers in Wages Boards Trades) (December 1978=100)
+
+Period
+
+Workers in Wages Boards Trades (a)
+
+Workers in Agriculture (b)Workers in Industry &Commerce (c)Workers in Services (d)Workers In Wages Boards Trades (e)
+
+NWRIRWRI (f)NWRIRWRI (f)NWRIRWRI (f)NWRIRWRI (f)
+
+20144,560.9119.73,459.190.82,313.260.74,012.2105.320154,734.4123.13,459.190.02,313.260.24,127.1107.320164,735.7118.83,459.186.82,313.258.04,127.9103.52017 (g)4,736.7111.83,459.181.62,313.254.64,128.697.4
+
+20151st Quarter4,734.4124.13,459.190.72,313.260.64,127.1108.22nd Quarter4,734.3124.23,459.190.72,313.260.74,127.0108.33rd Quarter4,734.5122.83,459.189.72,313.260.04,127.1107.04th Quarter4,734.7121.53,459.188.72,313.259.34,127.3105.9
+
+20161st Quarter4,735.6121.83,459.189.02,313.259.54,127.8106.22nd Quarter4,735.5118.73,459.186.72,313.258.04,127.8103.53rd Quarter4,735.9117.63,459.185.92,313.257.44,128.0102.54th Quarter4,735.8117.03,459.185.42,313.257.14,128.0102.0
+
+2017 (g) 1st Quarter4,736.3114.23,459.183.42,313.255.84,128.399.62nd Quarter4,736.5112.33,459.182.02,313.254.84,128.597.93rd Quarter4,736.8111.53,459.181.42,313.254.54,128.797.24th Quarter4,737.1109.13,459.179.62,313.253.34,128.995.1
+
+2016January4,735.8120.93,459.188.32,313.259.14,128.0105.4February4,735.6121.63,459.188.82,313.259.44,127.9106.0March4,735.4123.03,459.189.92,313.260.14,127.7107.2April4,735.3121.43,459.188.72,313.259.34,127.6105.8May4,735.5118.63,459.186.62,313.257.94,127.8103.4June4,735.7116.13,459.184.82,313.256.74,127.9101.2July4,736.1115.93,459.184.62,313.256.64,128.2101.0August4,735.9118.23,459.186.32,313.257.74,128.1103.0September4,735.6118.63,459.186.62,313.257.94,127.9103.4October4,735.6117.83,459.186.12,313.257.64,127.9102.7November4,735.8117.13,459.185.52,313.257.24,128.0102.1December4,736.0116.03,459.184.72,313.256.64,128.1101.1
+
+2017 (g) January4,736.2114.63,459.183.72,313.256.04,128.399.9February4,736.4114.03,459.183.22,313.255.74,128.499.3March4,736.4114.23,459.183.42,313.255.84,128.499.5April4,736.4113.63,459.183.02,313.255.54,128.499.0May4,736.6112.53,459.182.22,313.255.04,128.598.1June4,736.7110.83,459.180.92,313.254.14,128.696.5July4,736.9111.43,459.181.42,313.254.44,128.797.1August4,736.8112.03,459.181.82,313.254.74,128.697.6September4,736.7111.13,459.181.22,313.254.34,128.696.9October4,736.9110.13,459.180.42,313.253.84,128.796.0November4,737.1108.93,459.179.52,313.253.24,128.994.9December4,737.4108.23,459.179.02,313.252.94,129.094.3
+
+(a) The Index numbers are calculated on fixed weights based on the numbers employed as at 31 December 1978. The wage rates used in the calculation of Index Numbers are minimum wages for different trades fixed by the Wages Boards.(b) The Index refers to wage rates of tea growing and manufacturing, rubber growing and manufacturing, coconut, cocoa, cardamoms and pepper growing trades only. (c) Including baking, brick and roof tile manufacturing, coconut manufacturing, printing, textile, tyre and tube manufacturing, coir mattresses and bristle export, hosiery manufacturing, engineering, garment manufacturing, match manufacturing, biscuit and confectionary, tea export and rubber export trades only. (d) This includes cinema, motor transport and nursing home trades only. (e) Combined index for workers in agriculture, industry and commerce and services.(f) Based on CCPI (2006/07=100) (g) Provisional
+
+Note : NWRI = Nominal Wage Rate Index RWRI = Real Wage Rate Index
+
+Sources: Department of LabourCentral Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 49Wage Rate Indices (Informal Private Sector Employees) (2012=100)
+
+Period
+
+Informal Private Sector EmployeesAgricultureIndustryServicesInformalPrivate Sector PaddyCoconutRubberTeaOtherAgricultureConstructionSmallIndustriesIndustryWholesale and Retail Trade
+
+Repair of Motor Vehicle and Motor Cycles
+
+HotelsandRestaurantsTransport Communi-cationOtherServicesCarpentryMasonryOtherConstruction
+
+Nominal Wage Rate Index2014116.4123.3119.3117.9117.8118.3113.1113.7119.4114.9120.6119.0115.7116.5115.7115.3111.9118.2117.1118.12015130.1128.9126.3128.3127.9128.3120.4120.5129.1122.6131.6129.0121.9126.4122.7121.2119.6125.3123.9126.72016142.3136.1133.4135.0138.5136.9131.9132.8141.6134.7143.0140.7128.3139.7131.7130.6125.3134.4132.8136.72017(a)152.9147.6149.9153.8147.9150.9146.7149.4156.6150.2156.5155.0139.7151.7143.5142.4135.0145.4144.1149.7
+
+20151st Quarter127.4128.9125.0126.8126.0126.6117.6118.3126.3120.1128.9126.4120.4122.8121.4119.0118.8122.7121.6124.42nd Quarter128.2127.8127.0129.3128.0128.4118.7118.6128.0121.0131.7128.5120.7125.2122.0119.9118.6124.5123.0126.23rd Quarter132.5127.4125.1128.7127.0128.1120.8120.4129.3122.8131.2128.8122.1126.9121.8120.9119.5124.3123.3126.44th Quarter132.3131.4128.3128.5130.8129.9124.3124.8132.9126.6134.5132.3124.4130.8125.7124.9121.5129.6127.8130.0
+
+20161st Quarter140.5133.5127.9132.4137.0134.5126.5127.5136.1129.3138.0135.6124.4134.0127.7126.4121.4130.7129.0132.62nd Quarter137.9134.7130.2130.0136.7133.5129.8130.7139.5132.6139.9138.0126.6138.6130.1129.2123.6133.5131.7134.53rd Quarter144.7137.6134.3135.4138.6137.6134.2134.6143.5136.7144.6142.4130.1142.1133.0132.0126.9135.1133.9138.04th Quarter146.1138.7141.0142.0141.7142.0137.2138.6147.4140.3149.4146.9132.0144.3136.0134.9129.4138.1136.7141.8
+
+2017(a) 1st Quarter146.6142.0145.8146.8142.0144.8140.0142.1151.4143.7151.9149.9135.5146.6139.2138.2130.7141.3139.9144.82nd Quarter152.4144.3145.8151.0143.6147.8144.8147.7153.4148.0153.6152.4138.3150.7141.1140.1132.7143.0141.9147.23rd Quarter154.4149.1149.9155.7148.9152.3148.4151.3158.3152.0157.2156.2141.2152.4144.3142.9137.3145.2144.3150.54th Quarter158.0155.1158.1161.7157.1158.9153.6156.4163.3157.1163.0161.7143.8157.1149.3148.3139.1152.2150.2156.4
+
+2016January139.4132.3129.7131.8140.0135.1124.8125.7133.6127.3136.8134.1124.8133.0127.7125.4120.3129.5128.1131.7February142.5133.1125.5133.9136.5134.9127.2127.9136.0129.6137.4135.3124.6134.4129.0126.4122.0130.9129.1132.6March139.5135.2128.4131.4134.6133.4127.5128.8138.7130.8139.7137.4123.8134.5126.5127.5122.0131.8129.7133.4April136.8133.8130.7129.7134.9132.6128.4128.9137.4130.9138.8136.6126.6137.1128.8128.7122.8133.5131.5133.7May137.3135.2131.1128.4138.1133.3129.9131.0140.9133.1139.5138.0127.5139.5130.2129.2124.4134.8132.7134.9June139.6135.0128.8132.0137.2134.5131.2132.2140.2133.8141.4139.3125.7139.2131.2129.6123.6132.0130.8134.9July140.7138.1131.7135.1136.9136.3131.6132.7141.3134.4141.2139.5127.9139.8131.0128.5124.5133.2131.7135.7August145.0135.2133.1132.7139.1136.4134.0134.5143.1136.5143.9141.9130.9142.4132.5132.4126.7135.4134.3137.7September148.5139.5138.2138.5139.7140.1136.9136.5146.2139.1148.7145.9131.3144.3135.3135.1129.5136.8135.8140.7October143.9137.4134.5140.5137.6139.1134.7136.0144.6137.6147.3144.6131.8143.4134.9133.6130.7137.6136.1140.1November149.5139.4143.4143.7143.7144.0139.0139.5148.6141.6151.3148.6130.0143.6133.7134.6127.0136.4135.2142.1December144.9139.4145.1141.8143.9143.0138.0140.2149.0141.6149.6147.6134.2145.7139.2136.7130.5140.4138.9143.1
+
+2017(a) January144.9143.2147.3146.8141.0144.5140.6141.8153.9144.4149.6148.7134.8145.8138.1138.0131.4138.6138.1143.5February145.4138.1145.8148.4142.7145.2139.6141.7151.1143.3151.8149.6135.5146.6139.4138.0130.1143.0140.9145.2March149.5144.7144.2145.1142.5144.7139.9143.0149.2143.4154.5151.3136.1147.4140.2138.5130.8142.3140.7145.7April151.7142.4148.8149.6143.1147.1144.2146.8153.1147.4153.8152.3135.1149.0137.8139.1128.0142.5140.7146.5May152.6145.3145.2151.6142.8147.8143.9147.3153.1147.5153.7152.3138.1150.6142.7139.8133.5142.4141.5147.0June152.8145.2143.3151.8144.8148.3146.2149.0153.9149.2153.5152.6141.9152.4142.9141.3136.6144.2143.5148.0July152.1146.7146.1153.9147.1150.2144.9147.9155.8148.8155.1153.7141.3150.8143.6141.2135.7142.1142.1148.2August155.4147.5147.4154.4147.7151.2150.0153.1158.2153.2158.7157.5142.1152.3144.6142.6138.1147.2145.6151.4September155.8153.2156.2158.7152.0155.6150.1153.0160.9153.9157.8157.3140.1154.2144.8144.8138.0146.3145.3152.0October158.2154.5159.8162.8157.0159.5152.5155.2161.6155.8162.7161.0142.9154.5147.6146.5138.3149.4148.0155.3November158.4154.6156.8158.3156.9157.4153.1155.9160.6156.0159.8159.1142.5155.5147.8145.5137.2148.4147.2153.8December157.6156.1157.7164.1157.4159.9155.0158.1167.8159.4166.7165.1146.0161.3152.4152.9142.0158.9155.6160.2
+
+(a) Provisional(Contd.)
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 49 (Contd.)Wage Rate Indices (Informal Private Sector Employees) (2012=100)
+
+Period
+
+Informal Private Sector EmployeesAgricultureIndustryServicesInformalPrivate Sector PaddyCoconutRubberTeaOtherAgricultureConstructionSmallIndustriesIndustryWholesale and Retail Trade
+
+Repair of Motor Vehicle and Motor Cycles
+
+HotelsandRestaurantsTransport Communi-cationOtherServicesCarpentryMasonryOtherConstruction
+
+Real Wage Rate Index (b)2014110.0116.6112.8111.4111.4111.8106.9107.4112.9108.6114.0112.5109.3110.1109.3109.0105.8111.7110.6111.62015118.6117.4115.1116.9116.6116.9109.6109.8117.7111.7119.9117.5111.1115.2111.8110.4109.0114.1112.9115.52016124.7119.3116.8118.2121.4119.9115.6116.4124.1118.0125.2123.3112.4122.4115.4114.5109.8117.7116.4119.82017(a)124.3120.1121.9125.1120.3122.8119.3121.5127.4122.1127.3126.1113.6123.4116.7115.8109.8118.3117.2121.8
+
+20151st Quarter115.9117.1113.5115.2114.5115.1106.9107.5114.8109.1117.1114.9109.4111.6110.3108.1108.0111.4110.5113.12nd Quarter118.3118.0117.2119.3118.1118.5109.6109.5118.2111.7121.5118.6111.4115.5112.6110.7109.5114.9113.5116.53rd Quarter121.7117.0114.8118.2116.6117.7110.9110.5118.8112.7120.5118.3112.1116.6111.8111.0109.7114.2113.3116.14th Quarter118.4117.6114.8114.9117.0116.2111.2111.6118.9113.3120.3118.3111.3117.0112.4111.7108.7115.9114.3116.3
+
+20161st Quarter126.3120.0114.9119.0123.2120.8113.7114.6122.3116.2124.0121.9111.8120.4114.8113.6109.1117.5115.9119.22nd Quarter120.8118.0114.1113.9119.8117.0113.8114.5122.2116.2122.6120.9110.9121.4114.0113.2108.3117.0115.4117.93rd Quarter126.6120.3117.5118.5121.2120.4117.4117.7125.5119.5126.5124.6113.8124.3116.3115.4111.0118.2117.1120.74th Quarter125.1118.8120.7121.6121.3121.6117.5118.7126.2120.1127.9125.8113.0123.5116.4115.6110.8118.3117.1121.4
+
+2017(a) 1st Quarter122.2118.4121.5122.4118.4120.7116.8118.5126.3119.8126.7125.0113.0122.2116.1115.2109.0117.8116.7120.72nd Quarter124.5117.9119.1123.3117.3120.7118.2120.6125.3120.9125.5124.5113.0123.1115.3114.4108.4116.8115.9120.23rd Quarter125.5121.2121.8126.5121.0123.8120.6123.0128.7123.5127.8126.9114.7123.9117.3116.1111.6118.0117.3122.34th Quarter125.1122.8125.2128.1124.4125.8121.6123.8129.3124.3129.1128.0113.9124.4118.2117.4110.2120.5118.9123.8
+
+2016January124.1117.7115.5117.3124.6120.3111.1111.9118.9113.4121.8119.3111.1118.4113.6111.6107.1115.3114.0117.3February128.2119.8112.9120.5122.8121.3114.4115.0122.4116.7123.6121.7112.1121.0116.1113.7109.7117.7116.2119.3March126.4122.5116.4119.1122.0120.9115.5116.8125.7118.6126.7124.5112.2121.9114.7115.5110.6119.4117.5120.9April122.2119.6116.8115.9120.5118.5114.7115.2122.8116.9124.0122.0113.1122.5115.1115.0109.7119.3117.5119.5May120.4118.5115.0112.6121.1116.9113.9114.8123.6116.7122.3121.0111.8122.3114.2113.3109.1118.2116.3118.3June119.9115.9110.6113.4117.8115.5112.6113.5120.4114.9121.4119.6107.9119.5112.7111.3106.2113.4112.3115.8July121.8119.5114.0117.0118.5117.9113.9114.8122.3116.3122.2120.7110.7121.0113.4111.2107.7115.3114.0117.4August127.6119.0117.1116.8122.4120.0118.0118.4125.9120.1126.7124.9115.2125.3116.6116.5111.5119.2118.1121.2September130.5122.5121.4121.7122.8123.1120.3119.9128.4122.2130.6128.2115.3126.7118.9118.7113.8120.1119.3123.6October125.1119.4116.9122.1119.6120.9117.0118.2125.7119.6128.0125.7114.6124.7117.3116.1113.6119.6118.3121.7November127.9119.2122.6122.9122.8123.1118.8119.3127.1121.1129.4127.0111.1122.8114.3115.1108.6116.6115.6121.5December122.4117.8122.6119.8121.6120.8116.6118.5125.9119.6126.4124.7113.4123.1117.6115.5110.3118.6117.3120.9
+
+2017(a) January121.1119.7123.1122.6117.8120.7117.5118.5128.7120.7125.0124.3112.7121.8115.4115.3109.8115.8115.4119.9February120.9114.9121.2123.4118.7120.7116.1117.8125.7119.1126.2124.4112.7121.9115.9114.8108.2118.9117.1120.7March124.7120.7120.3121.1118.8120.7116.7119.3124.5119.6128.9126.3113.5123.0116.9115.5109.1118.7117.4121.6April125.0117.3122.6123.2118.0121.2118.8121.0126.2121.5126.7125.5111.3122.8113.6114.6105.5117.5116.0120.7May124.9118.9118.9124.1116.9121.0117.8120.6125.3120.7125.8124.6113.0123.3116.8114.4109.3116.5115.9120.3June123.5117.3115.8122.6117.0119.8118.1120.4124.3120.5124.0123.3114.6123.1115.4114.2110.3116.5116.0119.6July123.9119.5119.0125.4119.8122.3118.1120.5126.9121.2126.3125.2115.1122.8117.0115.0110.5115.7115.8120.8August126.6120.2120.2125.9120.4123.2122.3124.8129.0124.9129.4128.4115.8124.2117.9116.2112.6120.0118.7123.4September126.0123.9126.3128.3122.9125.8121.4123.7130.1124.4127.6127.2113.3124.6117.1117.1111.6118.3117.5122.9October126.3123.4127.7130.1125.4127.4121.8124.0129.1124.4130.0128.6114.2123.4117.9117.1110.5119.4118.2124.0November125.0122.0123.7124.8123.7124.2120.8123.0126.7123.1126.0125.5112.4122.6116.6114.8108.2117.1116.1121.3December124.1122.9124.2129.2124.0126.0122.1124.5132.1125.5131.3130.0115.0127.0120.0120.4111.8125.1122.5126.2
+
+(a) ProvisionalSource: Central Bank of Sri Lanka(b) Based on NCPI (2013=100)
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITY TABLE 50
+
+Average Daily Wages in the Informal Sector (a)
+
+Rupees
+
+Period (b)
+
+TeaRubberCoconut (c) PaddyCarpentry (c) Masonary (c)
+
+Male Female Male Female Male Male Female MasterSkilled and UnskilledMasterSkilled and Unskilled
+
+2014819 598 881 702 1,061 954 678 1,406 958 1,376 955 2015887 656 931 742 1,114 1,056 765 1,486 1,034 1,450 1,029 2016952 673 978 786 1,182 1,148 810 1,622 1,131 1,596 1,131 2017 (d)1,085 766 1,113 870 1,284 1,245 854 1,795 1,249 1,785 1,257
+
+20151st Quarter860 665 930 727 1,108 1,034 760 1,455 1,011 1,425 1,008 2nd Quarter888 667 947 737 1,104 1,046 754 1,468 1,023 1,429 1,018 3rd Quarter897 651 923 735 1,102 1,065 770 1,491 1,036 1,451 1,028 4th Quarter904 641 922 767 1,140 1,079 775 1,531 1,065 1,494 1,063
+
+20161st Quarter928 663 926 758 1,158 1,125 815 1,558 1,089 1,533 1,085 2nd Quarter927 641 953 774 1,172 1,119 781 1,588 1,113 1,567 1,112 3rd Quarter954 680 987 795 1,193 1,169 825 1,652 1,143 1,620 1,146 4th Quarter998 709 1,045 818 1,203 1,178 818 1,689 1,177 1,663 1,183
+
+2017 (d)1st Quarter1,029 736 1,073 853 1,242 1,194 817 1,721 1,201 1,706 1,209 2nd Quarter1,058 762 1,074 859 1,252 1,234 863 1,782 1,231 1,773 1,242 3rd Quarter1,096 776 1,109 873 1,295 1,252 867 1,816 1,265 1,807 1,269 4th Quarter1,157 788 1,195 896 1,349 1,298 868 1,859 1,299 1,854 1,310
+
+2016January938 646 932 788 1,145 1,112 823 1,541 1,072 1,515 1,069 February922 689 903 761 1,155 1,136 840 1,563 1,090 1,534 1,086 March925 655 943 726 1,176 1,128 783 1,570 1,105 1,550 1,099 April922 638 950 784 1,162 1,112 772 1,577 1,098 1,552 1,096 May925 619 957 782 1,177 1,120 767 1,577 1,121 1,560 1,117 June933 667 953 756 1,177 1,126 803 1,610 1,121 1,588 1,122 July954 685 972 774 1,200 1,145 790 1,622 1,122 1,599 1,124 August943 653 979 786 1,174 1,149 858 1,661 1,141 1,623 1,148 September965 701 1,010 824 1,205 1,214 827 1,674 1,167 1,638 1,165 October984 706 996 769 1,186 1,162 811 1,661 1,149 1,635 1,154 November997 731 1,054 848 1,207 1,193 846 1,694 1,194 1,668 1,195 December1,014 691 1,086 838 1,216 1,179 797 1,711 1,188 1,686 1,199
+
+2017 (d)January1,020 745 1,084 869 1,249 1,197 780 1,725 1,208 1,704 1,212 February1,039 746 1,064 870 1,217 1,177 821 1,724 1,194 1,698 1,209 March1,026 719 1,070 821 1,260 1,209 850 1,713 1,200 1,716 1,206 April1,055 744 1,081 893 1,238 1,237 852 1,781 1,228 1,769 1,238 May1,067 764 1,073 853 1,255 1,228 875 1,770 1,226 1,766 1,237 June1,053 779 1,069 831 1,265 1,238 864 1,794 1,240 1,783 1,249 July1,075 776 1,079 839 1,275 1,234 858 1,781 1,248 1,772 1,253 August1,091 766 1,085 870 1,278 1,251 880 1,849 1,271 1,835 1,281 September1,123 786 1,164 909 1,331 1,272 863 1,818 1,277 1,814 1,273 October1,149 810 1,197 922 1,342 1,292 859 1,856 1,291 1,848 1,301 November1,141 762 1,172 908 1,343 1,282 914 1,869 1,287 1,859 1,302 December1,180 793 1,217 857 1,361 1,320 831 1,852 1,320 1,856 1,327
+
+(a) Wage Information is based on monthly wages from data collection centres under the CWDCS. These wages represent payment in cash without meals. (b) Monthly figures are averages of daily wages for sectorial activities and annual and quarterly figures are averages of monthly figures.(c) Female participation is minimal in these sectors.(d) Provisional
+
+Source: Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 51
+
+Average Daily Wages of Informal Sector by Province 2016-2017 (a)
+
+Rupees
+
+SectorWestern ProvinceCentral ProvinceNorth Central Province North Western Province Sabaragamuwa Province
+
+20162017 (b)20162017 (b)20162017 (b)20162017 (b)20162017 (b)
+
+1. Agriculture SectorTeaMale1,031 1,201 910 993 - - - - 907 1,052 Female787 899 538 610 - - - - 753 832 RubberMale995 1,141 600 378 - - 994 1,194 932 1,067 Female750 814 600 378 - - 631 692 760 856 Coconut (c)Male1,164 1,249 1,182 1,249 1,169 1,283 1,215 1,317 1,087 1,229 PaddyMale1,158 1,263 1,015 1,135 1,188 1,276 1,087 1,184 1,014 1,095 Female775 810 654 729 952 999 692 684 832 885 2. Construction Sector (c)CarpentryMaster Carpenter - Male1,802 2,037 1,554 1,779 1,571 1,730 1,587 1,739 1,524 1,713 Skilled and Unskilled Helper - Male1,205 1,328 1,116 1,258 1,155 1,271 1,112 1,232 943 1,100 MasonryMaster Mason - Male1,764 2,042 1,543 1,763 1,579 1,773 1,576 1,727 1,489 1,659 Skilled and Unskilled Helper - Male1,185 1,330 1,114 1,254 1,156 1,290 1,123 1,230 988 1,159
+
+SectorUva Province Southern Province Northern ProvinceEastern ProvinceAll Island (d)
+
+20162017 (b)20162017 (b)20162017 (b)20162017 (b)20162017 (b)
+
+1. Agriculture SectorTeaMale991 1,135 965 1,073 - - - - 952 1,084 Female696 817 696 789 - - - - 672 766 RubberMale1,124 1,179 755 897 - - - - 980 1,112 Female937 1,002 528 616 - - - - 789 874 Coconut (c)Male1,153 1,245 1,136 1,237 1,191 1,283 1,254 1,436 1,181 1,284 PaddyMale1,118 1,222 1,174 1,327 1,223 1,278 1,270 1,434 1,146 1,246 Female889 975 943 783 733 732 953 975 804 873 2. Construction Sector (c)CarpentryMaster Carpenter - Male1,618 1,678 1,631 1,851 1,424 1,547 1,712 1,834 1,619 1,794 Skilled and Unskilled Helper - Male1,024 1,078 1,191 1,339 1,118 1,204 1,103 1,207 1,129 1,248 MasonryMaster Mason - Male1,578 1,685 1,612 1,844 1,418 1,549 1,613 1,735 1,593 1,784 Skilled and Unskilled Helper - Male1,032 1,113 1,197 1,336 1,120 1,202 1,097 1,221 1,130 1,256
+
+(a) Daily wages are without provision of food.(b) Provisional(c) Female participation is minimal in these sectors.(d) All Island average may not be the average of provincial data due to round-off effect.
+
+Source: Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 52Demography
+
+Item200120072008200920102011201220132014 (a)2015 (a)2016 (a)2017 (a)
+
+Mid-Year Population, ‘000 (b)18,797 20,039 20,246 20,476 20,675 20,892 20,425 20,585 20,771 20,966 21,203 21,444
+
+0 - 14 Years4,942 5,266 5,320 5,380 5,434 5,491 5,148 5,188 5,235 5,288 5,348 5,411
+
+15 - 54 Years11,374 12,126 12,253 12,391 12,512 12,643 11,680 11,773 11,879 11,989 12,124 12,263
+
+55 Years and Over2,481 2,647 2,673 2,705 2,729 2,758 3,597 3,624 3,657 3,689 3,731 3,770
+
+Growth of mid-year Population (%) 1.21.21.01.11.01.11.00.80.90.91.11.1
+
+Crude Birth Rate, per 1,000 19.119.318.518.017.617.317.617.816.916.015.615.2
+
+Crude Death Rate, per 1,000 6.05.96.16.26.35.96.06.26.26.36.26.5
+
+Rate of Natural Increase, per 1,000 13.113.412.311.811.311.411.611.610.79.79.48.7
+
+Net Migration Rate, per 1,000 -0.9-1.8-2.2-1.4-1.1-2.2-2.5-2.3-2.00.72.12.3
+
+Infant Mortality Rate, per 1,000 Live Births12.68.69.09.79.99.1 (a)8.5 (a)8.38.08.5n.a.n.a.
+
+Density of Population, Persons per Sq.Km.300320323327330333326328331334338342
+
+(a) Provisional(b) Until 2011, mid-year population estimates were prepared based on the Census of Population and Housing - 2001. Mid-year population estimates from 2012 onwards were based on the Census of Population and Housing - 2012.
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 53
+
+Population By District ‘000 Persons
+
+District1981 (a)2001 (b)2007 (b)2008 (b)2009 (b)2010 (b)2011 (b)2012 (c)2013 (c)2014 (c)(d)2015 (c)(d)2016 (c)(d)2017 (c)(d)
+
+Colombo1,699 2,251 2,473 2,507 2,543 2,573 2,6062,330 2,339 2,357 2,375 2,395 2,419
+
+Gampaha1,391 2,064 2,138 2,149 2,163 2,176 2,1892,310 2,324 2,338 2,354 2,372 2,391
+
+Kalutara830 1,066 1,118 1,126 1,135 1,142 1,1511,225 1,233 1,241 1,250 1,261 1,271
+
+Galle815 991 1,052 1,062 1,074 1,084 1,0941,066 1,074 1,082 1,091 1,102 1,113
+
+Matara644 761 813 821 830 839 847817 824 831 837 845 851
+
+Hambantota424 526 554 559 566 572 577602 610 619 628 637 647
+
+Badulla641 780 855 866 879 891 902818 826 835 844 854 864
+
+Moneragala274 398 426 432 437 442 447453 460 466 472 479 485
+
+Kandy1,048 1,279 1,387 1,404 1,422 1,437 1,4551,381 1,391 1,402 1,416 1,434 1,452
+
+Matale357 441 476 482 489 496 503486 491 496 502 508 514
+
+Nuwara Eliya604 704 745 751 757 763 769715 724 733 740 748 756
+
+Kegalle685 786 808 812 818 823 828843 849 855 861 869 877
+
+Ratnapura797 1,016 1,095 1,107 1,122 1,136 1,1491,092 1,102 1,115 1,127 1,140 1,151
+
+Kurunegala1,212 1,460 1,530 1,541 1,556 1,569 1,5831,624 1,634 1,645 1,658 1,676 1,694
+
+Puttalam493 710 758 766 776 784 794765 771 780 790 801 814
+
+Anuradhapura588 745 800 809 819 829 839864 874 883 893 905 918
+
+Polonnnaruwa262 359 395 400 405 409 415408 411 415 419 425 431
+
+Ampara389 593 615 624 635 644 654652 658 667 677 691 705
+
+Batticaloa330 486 523 529 537 543 549528 531 535 541 550 560
+
+Trincomalee256 340 355 362 368 374 381381 385 391 397 404 412
+
+Jaffna (e)739 491 524 528 532 536 542585 589 593 597 602 608
+
+Kilinochchi (e)92 127 143 147 149 150 154114 116 118 120 122 124
+
+Mannar106 152 160 161 161 162 163100 101 103 104 106 107
+
+Mullaitivu77 121 132 135 136 129 12593 93 94 94 95 96
+
+Vavuniya95 150 164 166 167 172 176173 175 177 179 182 184
+
+Total14,84718,79720,03920,24620,47620,67520,89220,42520,58520,77120,96621,20321,444
+
+Source: Registrar General’s Department(a) Census of Population and Housing - 1981(b) Based on the Census of Population and Housing - 2001(c) Based on the Census of Population and Housing - 2012(d) Provisional(e) Although in the 1981 Census, Jaffna and Killinochchi were considered as one district, the disaggregated population data for the two districts have been provided for 1981 as well, to be consistent within the present district structure.
+
+Sources: Registrar General’s DepartmentDepartment of Census and Statistics
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 54Labour Force Participation Rate (a)Per cent
+
+Category2007 (b)(c)2008 (b)(c)2008(b)(d)2009 (b)(c)2009(b)(d)2010 (b)(c)2010(b)(d)2011(b)(d)2011 (e)(f)2012 (b)(d)2012 (b)(e)2012 (e)(f)2013 (e)(f)2014 (e)(f)2015 (e)(f)2016 (e)(f)2017(e)(f)(g)
+
+By Age Group10 - 14 Years...................................................15 - 19 Years19.219.819.719.019.017.317.216.516.215.114.814.716.215.215.013.813.320 - 24 Years62.562.761.659.458.756.655.954.854.455.054.754.555.052.755.555.657.425 - 29 Years66.366.966.067.066.264.864.266.466.164.864.664.464.763.865.465.867.630 - 39 Years69.269.068.169.168.367.967.267.967.465.965.865.767.968.067.467.668.140 Years & above55.655.154.853.853.754.053.853.653.153.252.752.754.153.454.054.454.6By GenderMale67.867.967.866.766.667.367.166.574.067.066.874.974.974.674.775.174.5Female33.434.333.233.732.832.131.231.834.330.329.932.935.434.635.935.936.6By SectorUrban45.046.345.943.943.542.542.044.047.844.043.748.347.748.748.649.850.5Rural50.450.750.049.949.449.549.048.853.848.548.053.454.954.154.854.654.8
+
+All 49.850.249.549.248.748.648.148.252.947.647.252.553.753.253.853.854.1Labour Force, ‘0007,4897,5698,0827,5728,0747,6108,1088,236 7,926 8,120 8,465 7,798 8,0348,0498,2148,3118,567
+
+(a) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards. Data covers entire island and household population aged 15 years and above. (b) Labour force as a percentage of household population aged 10 years and above(c) Data excludes both Northern and Eastern provinces(d) Data excludes the Northern province(e) Data covers the entire island(f) Labour force as a percentage of household population aged 15 years and above(g) Provisional
+
+Source: Department of Census and Statistics
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 55
+
+Status of Employment (a) Per cent
+
+Period Public SectorEmployees Private Sector EmployeesEmployersSelf Employed Unpaid Family WorkersTotal
+
+2007 (b)(c)13.842.72.830.410.3100.02008 (b)(c)14.941.13.030.210.8100.02008 (b)(d)15.241.22.930.210.5100.02009 (b)(c)15.242.12.729.011.0100.02009 (b)(d)15.542.12.629.210.6100.02010 (b)(c)13.941.32.731.510.7100.02010 (b)(d)14.341.22.631.510.4100.02011 (b)(d)14.340.42.931.411.0100.02011 (e)(f)14.640.52.931.510.6100.02012 (b)(d)15.041.42.831.89.0100.02012 (b)(e)15.141.32.831.98.9100.02012 (e)(f)15.341.22.831.98.7100.02013 (e)(f)15.240.53.032.29.1100.02014 (e)(f)15.540.92.732.08.9100.02015 (e)(f)15.141.03.132.38.4100.0
+
+2016 (e)(f)14.643.32.731.67.8100.01st Quarter14.741.92.932.57.9100.02nd Quarter 15.142.62.931.67.8100.03rd Quarter 14.544.82.330.57.8100.04th Quarter 14.043.62.831.87.8100.0
+
+2017 (e)(f)(g)14.443.33.031.38.0100.01st Quarter14.843.43.130.48.3100.02nd Quarter 14.343.22.932.07.7100.03rd Quarter 14.043.43.230.88.6100.04th Quarter14.343.32.832.17.5100.0
+
+(a) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards. Data covers entire island and household population aged 15 years and above.(b) Household population aged 10 years and above(c) Data excludes both Northern and Eastern provinces(d) Data excludes the Northern province(e) Data covers the entire island(f) Household population aged 15 years and above(g) Provisional
+
+Source: Department of Census and Statistics
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 56
+
+Employment by Economic Activity (a)(b)(c)
+
+‘000 Persons
+
+Sector2014201520162017 (d)
+
+1st Quarter2nd Quarter3rd Quarter4th QuarterAnnual
+
+Agriculture2,2232,2452,1542,2222,1141,9842,2412,140
+
+Industry2,0272,0182,0982,3062,3012,3722,3462,331
+
+Mining and Quarrying7561605050747963
+
+Manufacturing1,3891,4081,4211,5721,5491,5861,6161,581
+
+Construction, Electricity, Gas, Steam and Air Conditioning Supply, Water Supply, Sewerage, Waste Management and Remediation Activities564550617685702712651688
+
+Services3,4503,5683,6963,7023,7233,808 3,7133,737
+
+Wholesale and Retail Trade, Repair of Motor Vehicles and Motor Cycles1,0121,0601,1021,0831,2001,2161,1421,160
+
+Transport and Storage481480516502515530506513
+
+Accomodation and Food Services Activities181203203194203248197210
+
+Information and Communication6352627061767470
+
+Financial and Insurance Activities146145159154146177162160
+
+Professional, Scientific and Technical Activities4765556060639570
+
+Administrative and Support Service Activities101120107126121151211152
+
+Public Administration and Defence; Compulsory Social Security594600609617578535377527
+
+Education314324344380345368416377
+
+Human Health and Social Work Activities127137142146155136161149
+
+Other (e)382382397371339309371348
+
+Total Employment7,7007,8317,9488,2308,1398,1648,3008,208
+
+Percentage of Labour Force95.795.395.695.995.595.896.095.8
+
+(a) Household population aged 15 years and above(b) Based on the International Standard Industrial Classification (ISIC) - Revision 4(c) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards(d) Provisional(e) Includes activities of households as Employers; Real Estate; Arts, Entertainment and Recreation; and Extra Territorial Organisations and Bodies
+
+Source: Department of Census and Statistics
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 57
+
+Labour Force Trends (a)(b)
+
+Item2014201520162017 (c)
+
+1st Quarter2nd Quarter3rd Quarter4th QuarterAnnual
+
+Household Population, ‘00015,13415,28215,44915,68415,81415,89415,98315,844
+
+Labour Force, ‘0008,0498,2148,3118,5838,5198,5228,6428,567Employed7,7007,8317,9488,2308,1398,1648,3008,208Unemployed348383363353381358342358Labour Force Participation Rate ( % of Household Population)53.253.853.854.753.953.654.154.1Male74.674.775.175.174.673.674.974.5Female34.635.935.937.635.936.636.436.6Employment Status (%)Public Sector Employees15.515.114.614.814.314.014.314.4Private Sector Employees40.941.043.343.443.243.443.343.3Employers2.73.12.73.12.93.22.83.0Self-Employed (Own Account Workers)32.032.331.630.432.030.832.131.3Unpaid Family Workers8.98.47.88.37.78.67.58.0
+
+Total100.0100.0100.0100.0100.0100.0100.0100.0
+
+Unemployment, % of Labour ForceBy GenderMale3.13.02.92.73.02.73.02.9Female6.57.67.06.57.16.85.66.5
+
+By Level of EducationGrade 5 and below........................Grade 6-103.43.43.32.93.52.42.32.8GCE(O/L) 5.96.45.85.76.06.05.85.9GCE(A/L) and above8.29.28.37.88.28.57.98.1
+
+By Age Group15 - 19 years21.424.127.122.125.616.120.621.120 - 29 years13.614.214.212.514.614.212.613.530 - 39 years2.73.12.42.92.53.22.22.740 years and above0.91.00.81.00.90.81.00.9
+
+Youth Unemployment (age 15-24 years)20.320.821.618.520.018.317.418.6
+
+Overall Unemployment Rate4.34.74.44.14.54.24.04.2
+
+(a) Household population aged 15 years and above(b) In July 2016, the Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.(c) Provisional.
+
+Source: Department of Census and Statistics
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 58
+
+Public Sector Employment (a)
+
+Category
+
+2013201420152016 (b)2017 (c)
+
+Regular Other (d)TotalRegular Other (d)TotalRegular Other (d)TotalRegular Other (d)TotalRegular Other (d)Total
+
+Government InstitutionsSenior Level (e)43,1863,54546,73143,0013,81346,81444,9263,34848,27446,1173,22049,33747,7013,40051,101Tertiary Level (f)243,67738,981282,658262,95739,072302,029163,43137,183200,61474,90813,52188,42976,38113,22489,605Secondary Level (g)458,02251,931509,953503,45740,763544,220605,08640,633645,719701,88962,229764,118704,30459,993764,297Primary Level (h)139,83354,675194,508204,51011,613216,123229,85212,197242,049232,87112,240245,111232,37612,488244,864Total884,718149,1321,033,8501,013,92595,2611,109,1861,043,29593,3611,136,6561,055,78591,2101,146,9951,060,76289,1051,149,867
+
+Semi-Government InstitutionsSenior Level (e)13,2241,45014,67412,5741,16213,73614,8121,48916,30116,2381,83818,07617,8182,23820,056Tertiary Level (f)30,0892,55532,64428,8552,69731,55228,6002,73031,33028,5392,59631,13529,4082,57531,983Secondary Level (g)96,3848,695105,07980,8896,56787,45679,3856,66586,05077,8666,04083,90675,6116,06581,676Primary Level (h)85,60117,303102,90488,47414,689103,16389,31215,481104,79391,72217,933109,65592,11518,475110,590Total225,29830,003255,301210,79225,115235,907212,10926,365238,474214,36528,407242,772214,95229,353244,305
+
+Public Sector (Total)Senior Level (e)56,4104,99561,40555,5754,97560,55059,7384,83764,57562,3555,05867,41365,5195,63871,157Tertiary Level (f)273,76641,536315,302291,81241,769333,581192,03139,913231,944103,44716,117119,564105,78915,799121,588Secondary Level (g)554,40660,626615,032584,34647,330631,676684,47147,298731,769779,75568,269848,024779,91566,058845,973Primary Level (h)225,43471,978297,412292,98426,302319,286319,16427,678346,842324,59330,173354,766324,49130,963355,454Total1,110,016179,1351,289,1511,224,717120,3761,345,0931,255,404119,7261,375,1301,270,150119,6171,389,7671,275,714118,4581,394,172
+
+Percentage
+
+Government InstitutionsSenior Level (e)4.92.44.54.24.04.24.33.64.34.43.54.34.53.84.4Tertiary Level (f)27.526.127.325.941.027.215.739.817.77.114.87.77.214.87.8Secondary Level (g)51.834.849.349.742.849.158.043.556.866.568.266.666.467.366.5Primary Level (h)15.836.718.820.212.219.522.013.121.322.113.421.421.914.021.3Total100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0
+
+Semi-Government InstitutionsSenior Level (e)5.94.85.76.04.65.87.05.66.87.66.57.48.37.68.2
+
+Tertiary Level (f)13.48.512.813.710.713.413.510.413.113.39.112.813.78.813.1Secondary Level (g)42.829.041.238.426.137.137.425.336.136.321.334.635.220.733.4Primary Level (h)38.057.740.342.058.543.742.158.743.942.863.145.242.962.945.3Total100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0
+
+Public Sector (Total)Senior Level (e)5.12.84.84.54.14.54.84.04.74.94.24.95.14.85.1Tertiary Level (f)24.723.224.523.834.724.815.333.316.98.113.58.68.313.38.7Secondary Level (g)49.933.847.747.739.347.054.539.553.261.457.161.061.155.860.7Primary Level (h)20.340.223.123.921.823.725.423.125.225.625.225.525.426.125.5Total100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0100.0
+
+(a) Re-categorised in accordance with the definitions given in the Public Administration Circular No.06/2006 issued on 25th April 2006
+
+(b) Revised(c) Provisional
+
+(d) Employees on contract and casual basis
+
+(e) Represents Executives/Senior Executives; Judicial/Law Officers and Medical Officers
+
+(f) Represents Field/Office based Officers; Supra/Special Class Management Assistants; Sri Lanka Principals’ Service; Police Inspectors/Chief Inspectors and similar posts in other Regulatory Services; Special Grades of Nurses/ Professions Supplementary to Medical Services and Para-Medical Services; and Medical Practitioners
+
+(g) Represents Management Assistants (Technical and Non-Technical); Associate Officers; Sri Lanka Teachers’ Service; Police Constables/ Sergeants/ Sergeant Major/Sub-Inspectors and similar posts in other Regulatory Services; Supervisory Management Assistants; and Nurses/ PSM Services and Para-Medical Services except the Special Grades of these services
+
+(h) Represents primary level un-skilled, semi-skilled and skilled employees
+
+Source: Central Bank of Sri Lanka
+
+PRICES, WAGES, EMPLOYMENT AND PRODUCTIVITYTABLE 59
+
+Foreign Employment
+
+Item200820092010201120122013201420152016 (a)2017 (b)
+
+Total Placements250,499247,126267,507262,961282,447293,218300,703263,443242,816212,162By Source Licensed Agents160,973156,567160,500146,293175,169180,463176,829116,74987,98268,564 (%)64636056626259443632 Other89,52690,559107,007116,668107,278112,755123,874146,694154,834143,598 (%)36374044383841566468 By Gender Males128,232119,381148,001136,307144,135175,185190,217172,788160,306139,271 (%)51485552516063666666 Females122,267127,745119,506126,654138,312118,033110,48690,65582,51072,891 (%)49524548494037343434 By Manpower Category Housemaids107,923113,678112,752107,500119,01196,90088,62873,22665,01556,057 (%)43464241423329282726 Skilled Labour59,71861,32171,53767,74667,15073,70773,16281,68276,54568,993 (%)24252726242524313233 Unskilled Labour59,23950,17360,42263,64262,90770,97779,51977,98571,65661,057 (%)24202324222426303029 Other23,61921,95422,79624,07333,37951,63459,39430,55029,60026,055 (%)9999121820121212
+
+Licensed Employment Agencies 781638588692963835 1,034 1,0341,135980 (Year End)
+
+Number of Training Centres By SLBFE20222524242325252219 By Private Agents14985513131303
+
+(a) Revised (b) ProvisionalSource: Sri Lanka Bureau of Foreign Employment
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 60
+
+Employees’ Provident Fund
+
+Total MemberAccounts (a) (‘000)
+
+ActiveAccounts (b) (‘000)
+
+Employers(Number)Contributions (Rs. Million)Refunds (Rs. Million)
+
+Total Member Balances (Rs. Million)Year
+
+200812,4632,29664,00045,95125,931644,955200912,8382,05261,39648,71231,901752,219201013,4132,16562,29554,79634,896869,199201114,1632,21164,56261,87947,311986,046201214,5592,33868,14070,17148,7121,124,508201315,2032,40469,14880,17650,2431,281,855201415,8312,44869,68390,04965,1181,445,462201516,8602,56972,578102,45377,7691,625,493201617,1392,41173,973118,327108,3931,810,5952017 (c)17,3142,60675,756133,353117,4772,020,782
+
+(a) Data have not been adjusted to take into account persons registered more than once.(b) Accounts in respect of which contributions were received for the current year.(c) Provisional
+
+Source: Central Bank of Sri Lanka
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 61
+
+Employees’ Trust Fund
+
+YearMemberAccounts (million)(a)
+
+ActiveAccounts (million)(a)
+
+ContributingEmployers(number)
+
+ContributionsReceived (Rs. million)
+
+RefundsPaid (Rs. million)
+
+Other Bene-fits Paid (Rs. million)
+
+Total MemberBalances (Rs. million)
+
+Investments of the Fund (Rs. million)
+
+20088.02.158,4468,3004,87914088,87691,445
+
+20098.52.161,2378,7536,399170103,053107,735
+
+20109.32.162,7319,8326,353180119,852125,438
+
+20119.62.167,04111,0927,774232135,486141,895
+
+20129.82.270,19412,7458,566232153,631157,951
+
+201310.02.272,23414,4049,574248174,252178,099
+
+201412.02.474,36215,85213,859374193,869198,653
+
+201512.42.476,67418,08711,493374218,502221,941
+
+201612.52.577,84220,31813,478393245,608 (b)248,870 (b)
+
+2017 (c)12.62.681,51522,76416,839398274,160279,006
+
+(a) Estimated(b) Revised(c) Provisional
+
+Source: Employees’ Trust Fund Board
+
+PRICES, WAGES , EMPLOYMENT AND PRODUCTIVITYTABLE 62
+
+Strikes in Private Sector Industries
+
+PlantationOther (a)TotalYearNo. ofWorkersMan DaysNo. ofWorkersMan DaysNo. ofWorkersMan DaysStrikesInvolvedLostStrikesInvolvedLostStrikesInvolvedLost
+
+200781,4686,089176,07936,109257,54742,19820083434,01441,525173,91724,1305137,93165,6552009230030064,7207,36585,0207,665201093,18523,03761,9232,034155,10825,0712011197,23223,51383,80715,6732711,03939,1862012144,27825,043205,62610,774349,90435,8172013215,03141,669216,08838,7544211,11980,4232014314,83329,16571,6188,158386,45137,32320153110,42770,697204,48811,5975114,91582,2942016 (b)2611,18585,6371510,16718,6904121,352104,3272017 (c)121,8855,643208,42752,6363210,31258,279
+
+(a) Includes semi government institutions and other private institutions.(b) Revised(c) Provisional
+
+Source: Department of Labour
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 63
+
+Central Bank Trade Indices - Value (a) 2010 =100
+
+Period
+
+Exports
+
+TotalExportsIndustrial ExportsAgricultural ExportsMineralExports Textiles and GarmentsPetroleumProductsRubberProductsTotalTeaRubberCoconut ProductsMinorAgri. ProductsTotal
+
+2013153.8185.2182.4145.5122.547.0141.4162.5128.1245.6137.92014169.8148.3184.6156.6130.630.2248.4267.2140.0283.5149.12015172.7169.6164.1158.0111.818.1254.9270.0129.3139.7146.82016187.4140.4177.6167.8113.524.3284.5205.5130.0154.0153.92017 (b)202.3222.7202.5189.1143.330.2283.2261.9161.9192.2177.7
+
+2015 1st Quarter175.7227.2174.9174.0109.119.9232.5286.3125.8193.2157.3 2nd Quarter161.6172.6161.4148.2114.018.6262.4268.3128.2145.3139.6 3rd Quarter175.0150.4159.6153.3108.016.0285.0227.2130.7131.3144.1 4th Quarter178.5127.9160.5156.3116.217.9239.9298.1132.689.0146.3
+
+2016 1st Quarter207.9143.5185.9181.0110.729.1269.8200.6124.2160.7161.8 2nd Quarter 175.2113.1155.6154.8108.721.0267.5206.4120.7127.7142.3 3rd Quarter184.5141.2188.7169.4118.618.2315.2267.4143.0192.8158.7 4th Quarter182.2163.9180.3165.9116.028.9285.5147.5132.0134.9153.1
+
+2017 (b) 1st Quarter202.9183.6191.3184.5129.450.5293.1244.0151.8159.8171.7 2nd Quarter178.0176.7183.0173.3142.023.3269.5292.6152.1215.9164.0 3rd Quarter215.3238.8220.2199.5154.924.0325.1299.9181.4225.4190.3 4th Quarter213.2291.7215.3199.1147.123.1245.1211.1162.4167.6184.8
+
+2016 January211.6166.0195.7179.6105.530.5225.7203.8118.9117.2159.2 February210.9107.2165.3176.9107.128.7260.1199.0120.7190.2158.0 March201.3157.3196.6186.6119.627.9323.6198.8133.0174.7168.2 April155.0105.4133.0137.498.924.1249.0170.5105.798.6125.8 May172.799.1158.5154.396.822.5260.8232.9113.2144.7139.9 June197.8134.9 (c)175.4172.9130.516.4292.8215.9143.2139.9161.1 July195.8176.8189.0172.0115.514.4296.5322.2139.2222.6159.6 August181.3135.2 (c)189.5166.0116.820.2301.7252.8139.4160.4155.3 September176.3111.8187.7170.1123.420.1347.5227.3150.3195.3161.1 October182.0161.1191.4167.3117.027.4310.5171.8133.7142.0154.6 November179.1145.7172.5160.6110.329.8273.7144.9124.4118.8147.3 December185.4184.8177.1169.9120.529.5272.2125.7137.7143.9157.4
+
+2017 (b) January202.5178.5165.9174.7112.446.2262.5162.2133.8113.3159.8 February189.1165.4186.5173.3126.651.7262.5192.4142.2146.2161.1
+
+March217.2207.0221.5205.6149.253.8354.2377.4179.4219.9194.2 April168.3180.6141.5157.3122.024.0240.7286.5136.8179.2148.5 May173.2169.7194.7163.1147.727.0272.8294.2156.2178.3157.7 June192.6179.8212.9199.7156.119.0295.1297.0163.3290.1185.7 July226.9221.0230.1202.6162.020.2320.1268.7179.2255.7192.0 August210.0247.8207.5197.5148.324.5331.6305.6180.1253.2188.7 September208.8247.6223.0198.3154.327.2323.5325.5184.9167.4190.3 October205.3216.1230.8193.9154.216.8296.5215.3173.6225.6184.4 November206.3273.6197.3191.0143.821.8253.4203.5158.5120.7178.0 December227.8385.5217.9212.5143.330.6185.4214.5154.9156.6192.2
+
+(Contd.)(a) The value index is computed as a simple index of the ratio of rupee values between the current period and the base period.(b) Provisional(c) Revised
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 63 (Contd.)
+
+Central Bank Trade Indices - Value (a)2010=100
+
+Imports
+
+TotalImportsConsumer GoodsIntermediate GoodsInvestment GoodsPeriodFood andBeveragesNon-Food ConsumerGoodsTotal FuelTextiles andTextile ArticlesFertiliserChemicalProductsWheat andMaizeTotalMachinery andEquipment
+
+Transport Equipment Building MaterialsTotal
+
+2013118.0180.2146.9161.7129.2114.0161.2138.5149.7189.5128.6188.4176.1153.22014142.6222.5179.8174.6148.6131.1179.5176.1163.5184.0137.9184.0174.1167.22015147.6322.2228.9106.6152.5145.7201.1162.1143.9204.9188.0198.2199.3169.72016158.5301.0224.8105.3192.673.3212.1120.7158.0263.9144.2 (b)246.0232.9 (b)184.3 (b)2017 (c)187.6311.7245.4152.0203.157.8216.4181.3191.6264.1153.6261.2239.5211.0
+
+2015 1st Quarter163.8296.4225.5109.1152.3106.9198.2135.7139.5205.2235.5180.1204.2167.4
+
+2nd Quarter145.5290.4212.9118.7157.6167.0184.2174.6149.9196.4173.1173.3184.4167.4 3rd Quarter133.7357.0237.692.8138.6123.2212.1207.2138.3181.6189.4202.5189.5165.9 4th Quarter147.6345.0239.5105.6161.6185.7209.8131.0147.9236.3153.9237.1219.0178.0
+
+2016 1st Quarter153.8313.9228.381.3196.687.1205.1104.5141.7271.2135.5230.3229.9174.5
+
+2nd Quarter145.8277.2207.0116.7183.872.2223.4151.4161.9252.9115.4242.9220.3180.8
+
+3rd Quarter159.0305.9227.384.6182.167.4190.6134.9147.5245.8151.7 (b)235.9222.5 (b)176.3 (b) 4th Quarter175.3306.9236.6138.4207.866.5229.492.1181.1285.7174.2 (b) 274.9258.9 (b)205.7 (b)
+
+2017 (c) 1st Quarter203.9308.3252.4154.8196.544.1216.2166.1186.0273.7147.3253.1240.5210.0
+
+2nd Quarter170.4296.2228.9131.4190.743.3204.6162.0170.2255.0154.9262.2235.7195.7
+
+3rd Quarter169.0303.7231.6147.4207.372.3213.9208.4193.5252.4150.1256.0231.5206.8
+
+4th Quarter207.4338.6268.4174.3217.871.5231.0188.6216.8275.5162.2273.3250.5231.4
+
+2016 January137.0298.4212.187.8211.975.0201.4247.6152.1291.8135.5250.9246.2181.1
+
+February141.6295.8213.374.8190.0104.6206.158.5137.4240.1136.1196.8204.8164.0
+
+March182.8347.4259.481.4188.081.6208.07.3135.8281.8135.0243.1238.6178.5
+
+April135.5263.8195.2100.9167.482.6210.4294.2147.8243.096.3211.4201.9166.4
+
+May141.9277.5205.095.1200.492.3251.1125.5163.5256.5128.0258.7229.4183.3
+
+June160.1290.2220.7154.3183.641.5208.634.4174.3259.0121.8258.8229.5192.7
+
+July141.0271.5201.772.2168.924.1195.048.4135.1259.2148.5227.1225.8164.9
+
+August166.6337.0245.991.8187.9132.3197.5134.4158.2252.9173.0271.1241.0190.1
+
+September169.4309.1234.489.7189.445.9179.1221.9149.1225.2133.5 (b)209.5200.8 (b)174.0 (b)
+
+October188.3294.2237.6130.1200.335.1223.0112.6174.1274.5199.7 (b)254.4252.4 (b)200.4 (b)
+
+November167.3336.1245.9114.5224.0116.5229.210.9172.0286.0175.4285.3262.2202.6
+
+December170.3290.4226.2170.6199.148.0236.2152.7197.0296.7147.7284.8262.2214.0
+
+2017 (c) January172.9297.7231.0148.1222.827.6213.6184.0188.2298.4119.0263.6249.9213.7 February179.2271.2222.0186.7165.159.8191.079.0180.5236.7135.7217.9209.3192.3 March259.4355.9304.3129.6201.745.0244.0235.2189.4285.8187.2277.7262.3224.1
+
+April150.9309.4224.6172.5172.718.6196.6213.4177.2223.6140.3263.3217.8192.7 May199.1309.8250.6114.7203.230.2208.1228.0173.7274.2171.7269.6250.7208.0 June161.1269.5211.5107.0196.481.2209.244.5159.6267.1152.7253.6238.6186.4 July164.1285.1220.4115.8213.671.8209.5193.1182.7237.7124.1220.8208.3193.5 August181.8347.2258.8167.1213.496.9234.4191.6206.2272.7163.9304.5258.9225.2 September161.0278.6215.7159.3194.948.2197.8240.5191.4246.9162.1242.8227.3201.7 October183.4330.1251.7126.9218.171.9240.4191.2192.0250.5168.3248.3232.2209.9 November215.6329.7268.7164.3226.333.2226.3357.8217.3297.0159.5312.9272.1236.0 December223.1355.8284.8231.6208.9109.4226.216.8241.1279.0158.9258.9247.1248.3
+
+(a) The value index is computed as a simple index of the ratio of rupee values between the current period and the base period.(b) Revised(c) Provisional
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 64
+
+Central Bank Trade Indices - Volume (a) 2010 =100
+
+Period
+
+ExportsTotalExportsIndustrial ExportsAgricultural ExportsMineralExports Textiles and GarmentsPetroleumProductsRubberProductsTotal TeaRubberCoconut ProductsMinorAgri. ProductsTotal
+
+2013121.1116.9109.0128.795.045.5112.7162.697.481.0117.32014128.292.6108.1133.298.532.3170.7232.2103.2158.6122.32015126.4208.696.9144.491.321.0159.4205.395.682.4128.02016127.1185.8104.2144.986.227.2174.1149.690.888.9127.02017 (b)129.8228.5109.4156.387.431.4154.5169.896.5105.6136.7
+
+2015 1st Quarter133.7283.1111.2147.188.523.3143.4218.494.5114.6129.7 2nd Quarter125.1194.090.0140.789.424.4162.5199.392.782.2124.6 3rd Quarter128.5176.995.1140.289.717.7177.5188.896.080.5125.2 4th Quarter118.5180.391.3149.797.418.8154.1214.999.052.3132.5
+
+2016 1st Quarter143.7222.0114.9151.490.632.1160.2141.992.698.7132.2 2nd Quarter124.3154.490.1135.885.026.5162.6149.886.477.0119.3 3rd Quarter123.1177.4111.3144.191.520.0191.4189.297.6102.8128.3 4th Quarter117.2189.5100.3148.577.830.2182.2117.586.677.2128.4
+
+2017 (b) 1st Quarter138.1184.0109.8157.082.955.5165.3162.796.594.8137.1 2nd Quarter120.2186.7101.4145.285.025.6150.1189.290.3130.2127.2 3rd Quarter132.2259.8115.9154.593.223.2178.1183.2104.7110.0137.6 4th Quarter128.7283.7110.5168.688.621.3124.3144.194.787.4144.8
+
+2016 January140.8299.9113.9137.687.530.9140.5151.689.767.9121.6
+
+February147.9170.6105.1128.886.330.9147.3134.088.8108.2115.1
+
+March142.3195.7125.8187.998.034.6192.9140.199.3120.1159.8
+
+April111.2153.587.3111.380.531.4156.0136.180.661.3100.4
+
+May122.7129.389.7160.870.627.5170.3162.978.487.0134.9
+
+June139.2180.593.3135.3103.820.5161.6150.4100.182.7122.7
+
+July131.3225.2103.0149.892.616.2168.8208.795.9129.5132.0
+
+August122.7166.7117.4144.990.021.0183.1190.795.680.7128.4
+
+September115.4140.4113.6137.692.022.8222.3168.3101.398.3124.6
+
+October116.8200.5106.6139.483.330.6205.0136.891.186.1123.2
+
+November116.1165.296.9114.872.529.8169.8120.780.766.0103.0
+
+December118.6202.897.3191.277.630.1171.694.987.979.5158.9
+
+2017 (b) January135.5170.996.8139.973.147.9156.3128.386.461.2122.4
+
+February127.9161.9106.2126.481.058.2139.6118.790.083.3113.7
+
+March150.8219.2126.5204.694.560.4200.2241.2113.1140.0175.4
+
+April114.1185.488.5124.173.425.7141.0203.682.9111.7110.3
+
+May118.4174.6103.8160.888.331.1155.0183.493.3106.5139.0
+
+June128.1200.0111.9150.593.220.1154.4180.594.6172.4132.2
+
+July143.0251.0113.4163.297.321.0170.3160.3103.1136.4143.4
+
+August127.8264.2113.1152.589.923.2186.7189.5105.1111.8136.3
+
+September125.8264.2121.1148.092.325.5177.2199.8105.981.8133.2
+
+October123.5211.7116.5153.092.517.0145.6150.599.1122.0135.1
+
+November126.6253.398.7140.386.520.0129.1139.993.460.7124.4
+
+December136.1386.2116.5212.686.726.898.3142.091.679.5175.1
+
+(a) Volume index is computed as a Laspeyres index.(b) Provisional
+
+(Contd.)
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 64 (Contd.)
+
+Central Bank Trade Indices - Volume (a) 2010=100
+
+Period
+
+Imports
+
+TotalImportsConsumer GoodsIntermediate GoodsInvestment Goods
+
+Food andBeverages
+
+Non-Food ConsumerGoodsTotal FuelTextiles andTextile ArticlesFertiliserChemicalProductsWheat andMaizeTotalMachinery andEquipment
+
+Transport Equipment Building MaterialsTotal
+
+2013105.4135.1119.2103.4104.788.4128.184.8111.1183.9103.5153.9157.6122.32014125.8163.5143.3117.7115.8112.6138.3123.5122.9180.7114.4153.0158.2134.02015128.1235.0177.9116.6120.4129.5155.6121.3128.7197.3156.5167.8179.7148.22016124.1193.8156.5129.5138.268.6163.492.7142.5253.9110.9 (b)206.2208.9 (b)158.5 (b)2017 (c)146.7191.0167.4150.7137.653.7161.6134.0158.6244.2112.8220.1208.7171.3
+
+2015 1st Quarter150.4223.5184.4112.5123.694.5156.397.5123.8194.2203.9153.0184.0150.2 2nd Quarter129.2209.8166.7116.1123.8150.0142.0128.6128.4167.9156.4140.5157.2140.2 3rd Quarter116.7272.3189.1106.4106.9111.1164.7161.0125.0191.5149.3174.0177.1146.3 4th Quarter116.3234.3171.2131.2127.4162.4159.498.3137.3235.8116.5203.6200.7156.1
+
+2016 1st Quarter126.3201.0161.1119.4142.174.4161.780.2132.8243.5112.0190.1199.2153.0 2nd Quarter112.4176.7142.3144.4131.968.5172.3116.8147.1220.989.5201.8186.9152.9 3rd Quarter126.1201.3161.1100.2124.166.4148.0103.3127.5242.1118.6 (b)195.0201.4 (b)147.7 (b) 4th Quarter131.7196.1161.7153.8154.664.9171.770.4162.8309.2123.3 (b)237.8248.2 (b)180.5 (b)
+
+2017 (c) 1st Quarter167.0193.0179.1155.3139.039.7168.0132.1158.8247.0115.5215.4209.3175.4 2nd Quarter127.9180.9152.6136.3132.541.9158.3123.5144.2223.4116.7220.4199.6155.9 3rd Quarter129.4188.0156.7157.3131.466.6156.1145.3159.6234.9107.2201.7197.5165.3 4th Quarter162.7202.2181.1153.9147.666.7164.2135.0171.9271.4111.9242.9228.5188.6
+
+2016 January109.7193.3148.6126.0149.058.2153.1190.1140.3233.3135.0207.3204.5161.3 February116.4198.5154.6115.8145.489.4164.745.5132.2227.2109.1172.0185.2146.3 March152.9211.2180.1116.2132.075.7167.34.9125.8270.091.9191.1207.9151.5 April112.4171.9140.1132.2116.375.1156.3234.3134.7236.170.6175.6182.4144.2 May103.5180.8139.5123.9148.089.1198.290.3147.9196.2107.8212.1181.8151.9 June121.4177.4147.5177.2131.241.3162.325.9158.5230.490.2217.7196.5162.8 July111.9176.4141.971.5119.322.6152.435.5112.2263.6121.4192.0211.6137.0 August133.5224.2175.7120.1122.2127.6147.996.3137.6187.4114.5204.9176.8151.4 September132.9203.2165.7109.1130.849.0143.7178.1132.9275.2120.1 (b)188.1215.7 (b)154.6 (b) October147.6192.5168.5151.7148.234.1167.084.6161.2342.4130.0 (b)224.3261.3 (b)187.4 (b) November125.1201.7160.7125.2167.0115.2164.57.6152.2277.1116.8225.8227.3167.7 December122.4194.2155.8184.6148.545.4183.6119.1175.0308.2123.3263.3256.0186.4
+
+2017 (c) January138.8192.9164.0149.0157.123.0161.3149.0159.1243.9107.3231.6211.2181.1 February151.7174.7162.4186.3122.151.0159.761.3158.7220.0114.5196.6190.2164.6 March210.5211.2210.8130.6137.945.1183.1186.1158.7276.9124.6218.1226.5180.7 April120.9184.4150.4169.9112.515.0147.1173.9148.1213.5101.7219.8191.5156.0 May143.6197.2168.5119.4144.130.1165.2166.6145.7212.2139.6226.7200.8160.0 June119.3161.1138.7119.6140.880.5162.629.9138.9244.5108.9214.8206.6151.6 July128.6176.1150.7129.2135.866.1150.6133.1152.7235.789.8192.6191.4158.8 August136.0208.8169.9181.7132.986.5173.3122.3168.3204.199.4202.4181.0169.6 September123.6179.2149.4161.1125.747.1144.3180.4157.7265.0132.4210.0219.9167.4 October143.0190.9165.3121.2152.771.0174.0140.3157.4275.6113.6221.7224.6186.2 November171.1189.0179.4143.6149.131.2158.4252.7170.2277.7104.2252.0232.6183.1 December174.0226.9198.6196.8140.997.8160.111.9188.1260.8117.9255.1228.3196.5
+
+(a) Volume index is computed as a Laspeyres index.(b) Revised(c) Provisional
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 65
+
+Central Bank Trade Indices - Unit Value (a) 2010=100
+
+Period
+
+ExportsTotalExportsIndustrial ExportsAgricultural ExportsMineralExports Textiles and GarmentsPetroleumProductsRubberProductsTotalTeaRubberCoconut ProductsMinorAgri. ProductsTotal
+
+2013126.9158.5167.3113.0129.0103.2125.599.9131.6303.1117.52014132.4160.2170.7117.5132.693.5145.5115.1135.6178.7121.92015136.681.3169.3109.4122.586.2160.0131.5135.3169.5114.72016147.575.6170.5115.8131.689.4163.4137.3143.2173.2121.22017 (b)155.997.4185.0121.0164.096.3183.3154.2167.7182.0130.0
+
+2015 1st Quarter131.480.3157.3118.3123.285.6162.1131.1133.0168.5121.3 2nd Quarter129.189.0179.2105.3127.576.5161.5134.7138.2176.6112.0 3rd Quarter136.385.0167.8109.4120.490.5160.6120.3136.2163.2115.1 4th Quarter150.671.0175.7104.4119.395.5155.6138.7133.9170.2110.4
+
+2016 1st Quarter144.764.6161.7119.5122.290.5168.4141.4134.1162.8122.4 2nd Quarter140.973.3172.7114.0128.079.4164.5137.8139.7166.0119.2 3rd Quarter149.879.6169.5117.5129.691.1164.7141.3146.5187.5123.6 4th Quarter155.586.5179.8111.8149.095.8156.7125.5152.4174.8119.3
+
+2017 (b) 1st Quarter147.099.8174.2117.5156.291.1177.2149.9157.4168.6125.2 2nd Quarter148.294.7180.5119.4167.191.0179.5154.7168.5165.8129.0 3rd Quarter162.891.9190.0129.1166.2103.1182.6163.7173.3204.9138.3 4th Quarter165.6102.8194.8118.1166.1108.5197.2146.5171.4191.7127.6
+
+2016 January150.355.4171.8130.5120.698.9160.6134.5132.6172.7131.0February142.762.8157.2137.3124.193.0176.6148.6135.9175.8137.2March141.480.4156.399.3122.080.7167.8141.9133.9145.4105.2April139.568.7152.3123.5122.876.9159.6125.2131.1161.0125.3May140.876.6176.795.9137.282.0153.1143.0144.3166.4103.7June142.174.7188.0127.8125.880.0181.2143.5143.1169.3131.3July149.178.5183.5114.8124.888.8175.6154.4145.2171.9120.9August147.881.1 (c)161.3114.5129.896.2164.8132.6145.8198.9120.9September152.879.7165.2123.7134.288.2156.3135.0148.4198.7129.3October155.980.3179.5120.1140.489.7151.5125.6146.8165.0125.5November154.388.2177.9139.9152.199.9161.2120.1154.2180.1143.0December156.391.2182.088.9155.398.0158.6132.3156.7181.199.1
+
+2017 (b) January149.5104.5171.5124.8153.796.6168.0126.4154.9185.3130.6February147.8102.2175.5137.1156.388.8188.0162.1158.1175.6141.7March144.194.4175.1100.5157.989.1177.0156.5158.7157.0110.7April147.697.4159.8126.7166.393.3170.7140.7165.0160.5134.6May146.397.2187.6101.4167.386.7175.9160.4167.4167.4113.5June150.489.9190.3132.6167.594.9191.1164.6172.6168.2140.5July158.688.1202.9124.1166.596.3188.0167.6173.9187.5133.9August164.393.8183.5129.6165.0105.5177.6161.2171.3226.5138.4September166.093.7184.1134.0167.2106.4182.6162.9174.7204.5142.8October166.3102.1198.2126.8166.899.2203.7143.1175.2184.9136.5November163.0108.0199.9136.2166.3108.9196.3145.5169.8198.8143.1December167.399.8187.199.9165.2114.2188.7151.1169.0196.9109.8
+
+(a) Paasche unit value index is derived by using the rupee value index and the volume index.(b) Provisional(c) Revised
+
+(Contd.)
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 65 (Contd.)
+
+Central Bank Trade Indices - Unit Value (a) 2010=100
+
+Period
+
+Imports
+
+TotalImportsTerms ofTrade
+
+Consumer GoodsIntermediate GoodsInvestment Goods
+
+Food andBeveragesNon-Food ConsumerGoodsTotal FuelTextiles andTextile ArticlesFertiliserChemicalProductsWheat andMaizeTotalMachinery andEquipmentTransport Equipment Building MaterialsTotal
+
+2013111.9133.4123.2156.4123.4129.0125.9163.3134.7103.0124.3122.5111.7125.393.82014113.4136.1125.4148.3128.3116.4129.8142.6133.0101.8120.5120.2110.0124.897.62015115.2137.1128.791.4126.6112.5129.2133.6111.8103.8120.1118.1110.9114.5100.22016127.7155.3143.681.3139.4106.9129.8130.2110.9103.9130.1 (b)119.3111.5 (b)116.3 (b) 104.2 (b)2017 (c)127.9163.2146.6100.8147.6107.7133.9135.3120.8108.2136.2118.6114.8123.2105.6
+
+2015 1st Quarter109.0132.6122.397.0123.1113.2126.8139.2112.6105.7115.5117.7111.0111.4108.9 2nd Quarter112.6138.4127.7102.2127.3111.3129.7135.8116.7117.0110.7123.3117.3119.493.8 3rd Quarter114.5131.1125.787.2129.7110.9128.8128.7110.694.9126.8116.4107.0113.4101.5 4th Quarter126.9147.2139.880.5126.8114.4131.7133.3107.7100.2132.1116.4109.1114.096.8
+
+2016 1st Quarter121.7156.2141.768.1138.3117.0126.9130.3106.8111.4121.0121.1115.4114.0107.3 2nd Quarter129.7156.9145.480.8139.4105.3129.7129.6110.1114.5128.9120.4117.9118.2100.8 3rd Quarter126.0152.0141.184.4146.8101.6128.7130.5115.6101.5127.8 (b)121.0110.5 (b)119.4 (b)103.5 (b) 4th Quarter133.1156.5146.390.0134.4102.5133.6130.7111.292.4141.3 (b)115.6104.3 (b)113.9 (b)104.7 (b)
+
+2017 (c) 1st Quarter122.1159.8141.099.7141.4111.2128.7125.7117.1110.8127.6117.5114.9119.7104.6 2nd Quarter133.2163.7150.096.4144.0103.5129.3131.2118.0114.2132.7118.9118.1125.5102.7 3rd Quarter130.6161.5147.993.7157.7108.7137.0143.5121.2107.5140.0126.9117.2125.1110.5 4th Quarter127.5167.4148.2113.3147.6107.3140.7139.7126.1101.5145.0112.5109.6122.7104.0
+
+2016 January124.9154.4142.769.7142.2128.9131.5130.3108.4125.1100.4121.1120.4112.3116.6 February121.6149.1138.064.5130.7117.0125.1128.6103.9105.7124.8114.5110.6112.1122.4 March119.5164.5144.170.1142.4107.8124.3148.9107.9104.4146.9127.2114.7117.889.3 April120.5153.5139.376.3143.9110.0134.6125.6109.7102.9136.3120.4110.7115.4108.6 May137.1153.5147.076.8135.4103.5126.7139.0110.6130.8118.7121.9126.2120.785.9 June131.8163.6149.687.0139.9100.6128.5133.0109.9112.4135.2118.9116.8118.4110.9 July125.9154.0142.1101.0141.6106.7128.0136.2120.598.3122.4118.2106.7120.4100.5 August124.8150.3140.076.5153.8103.7133.6139.5115.0134.9151.1132.3136.3125.696.3 September127.4152.1141.582.3144.893.7124.6124.6112.281.9111.2 (b)111.493.1 (b)112.5 (b) 114.9 (b) October127.6152.8141.085.8135.2103.0133.5133.1108.080.2153.6 (b)113.496.6 (b)106.9 (b) 117.4 (b) November133.8166.7153.091.5134.1101.1139.3144.5113.0103.2150.2126.4115.4120.8118.4 December139.2149.6145.292.4134.0105.6128.6128.2112.696.3119.8108.2102.4114.886.3
+
+2017 (c) January124.6154.3140.899.4141.8120.3132.5123.5118.3122.4110.9113.8118.4118.0110.6 February118.2155.2136.7100.2135.2117.2119.6128.9113.7107.6118.5110.8110.0116.9121.3 March123.2168.5144.399.2146.399.7133.3126.3119.3103.2150.2127.4115.8124.089.3 April124.8167.8149.3101.5153.4124.3133.7122.7119.7104.8137.9119.7113.7123.5109.0 May138.6157.1148.796.0141.0100.3126.0136.8119.2129.3123.0118.9124.9130.087.3 June135.1167.2152.589.4139.5100.8128.7148.8114.9109.2140.2118.1115.5123.0114.2 July127.6161.9146.389.6157.3108.6139.1145.2119.7100.9138.2114.7108.8121.9109.9 August133.7166.3152.392.0160.6112.1135.2156.7122.5133.6164.9150.4143.0132.8104.3 September130.2155.5144.498.9155.1102.5137.1133.3121.493.2122.5115.6103.4120.5118.6 October128.3173.0152.3104.7142.9101.3138.2136.3122.090.9148.1112.0103.4112.7121.1 November126.0174.5149.8114.4151.8106.4142.9141.6127.6106.9153.1124.2117.0128.9111.0 December128.2156.8143.4117.7148.2111.9141.3141.3128.2107.0134.8101.5108.2126.486.9
+
+(a) Paasche unit value index is derived by using the rupee value index and the volume index.(b) Revised (c) Provisional
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 66
+
+Foreign Trade
+
+Period
+
+Rs. millionUS$ million
+
+Exports ImportsBalance of TradeExports ImportsBalance of Trade
+
+20131,344,0542,323,128-979,07410,39418,003-7,609
+
+20141,453,1762,535,163-1,081,98711,13019,417-8,287
+
+20151,431,4312,572,467-1,141,03510,54618,935-8,388
+
+20161,500,7662,794,393 (a)-1,293,627 (a)10,31019,183 (a)-8,873 (a)
+
+2017 (b)1,732,4403,198,572-1,466,13311,36020,980-9,619
+
+2015 1st Quarter383,455634,338-250,8832,8964,792-1,896
+
+2nd Quarter340,178634,507-294,3292,5494,755-2,206
+
+3rd Quarter351,158628,816-277,6582,5924,640-2,048
+
+4th Quarter356,641674,806-318,1652,5104,748-2,238
+
+2016 1st Quarter394,289661,342-267,0522,7394,594-1,855
+
+2nd Quarter346,688685,249-338,5612,3914,727-2,335
+
+3rd Quarter386,669668,330 (a)-281,660 (a)2,6564,590 (a)-1,934 (a)
+
+4th Quarter373,119779,473 (a)-406,353 (a)2,5245,272 (a)-2,748 (a)
+
+2017 (b) 1st Quarter418,430796,069-377,6402,7745,279-2,505
+
+2nd Quarter399,638741,645-342,0062,6234,870-2,246
+
+3rd Quarter463,874783,794-319,9203,0275,115-2,088
+
+4th Quarter450,498877,064-426,5662,9365,716-2,780
+
+2016 January129,344228,739-99,3968991,589-691
+
+February128,326207,158-78,8318921,439-548
+
+March136,619225,444-88,8259491,566-617
+
+April102,225210,222-107,9977101,461-751
+
+May113,626231,560-117,9347801,590-810
+
+June130,837243,467-112,6309011,676-775
+
+July129,637208,339-78,7028921,433-541
+
+August126,136240,109-113,9738661,649-783
+
+September130,897219,882 (a)-88,985 (a)8981,508 (a)-610 (a)
+
+October125,582253,138 (a)-127,556 (a)8551,724 (a)-868 (a)
+
+November119,643255,951-136,3088101,732-922
+
+December127,894270,384-142,4908591,816-957
+
+2017 (b) January129,789270,012-140,2228651,799-934
+
+February130,880242,991-112,1108681,611-743
+
+March157,760283,067-125,3071,0421,869-828
+
+April120,598243,404-122,8077951,604-809
+
+May128,151262,739-134,5888411,725-884
+
+June150,890235,502-84,6119871,541-554
+
+July155,999244,503-88,5041,0151,591-576
+
+August153,291284,464-131,1731,0011,857-856
+
+September154,583254,827-100,2441,0111,667-656
+
+October149,777265,176-115,3999761,727-752
+
+November144,584298,159-153,5769411,940-999
+
+December156,137313,729-157,5911,0202,048-1,029
+
+(a) Revised(b) Provisional Sources: Sri Lanka Customs Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 67
+
+Composition of Exports
+
+Rs. millionUS$ million
+
+Period
+
+Industrial Exports Agricultural ExportsMineralExportsUnclassifiedExportsTotalExportsTotalExportsTextiles andGarmentsRubberProducts
+
+Gems, Diamondsand Jewellery
+
+Petroleum ProductsOtherTeaRubberCoconut ProductsSpicesMinorAgriculturalProductsOther
+
+2013583,046114,79057,59155,128191,253199,4469,19426,48846,11613,12239,5766,7271,5771,344,05410,3942014643,688116,16851,38544,132223,352212,5885,91646,51734,53721,58043,6257,7641,9241,453,17611,1302015654,794103,26344,95850,461234,462182,0543,54847,74551,27821,80130,5823,8262,6601,431,43110,5462016710,768111,79139,84541,794251,508184,7784,75853,28346,22416,59033,0934,2192,1141,500,76610,3102017 (a)767,254127,42639,25866,280302,357233,3385,92053,03761,99421,14746,5945,2632,5701,732,44011,360
+
+2015 1st Quarter166,55727,51314,48416,90774,19144,39497510,88612,0265,7797,8901,323530383,4552,896
+
+2nd Quarter153,14925,3919,63712,84454,12546,38791312,28510,6755,4167,847995515340,1782,549
+
+3rd Quarter165,91125,1129,57811,19352,18143,96378313,34415,6434,5876,8378991,128351,1582,592
+
+4th Quarter169,17725,24611,2599,51753,96647,31187711,23012,9346,0198,008609487356,6412,510
+
+2016 1st Quarter197,10029,24510,79410,67763,90745,0721,42312,6338,7664,0498,9871,100538394,2892,739
+
+2nd Quarter166,07024,48310,6368,41557,01644,2501,02912,5259,3494,1677,327875546346,6882,391
+
+3rd Quarter174,88029,6939,06210,50967,49048,26689214,75915,8255,3988,0311,320545386,6692,656
+
+4th Quarter172,71928,3709,35412,19363,09547,1901,41513,36612,2842,9778,748924485373,1192,524
+
+2017 (a) 1st Quarter192,37530,0969,72713,66371,84152,6652,47413,72112,9604,92612,1911,094695418,4302,774
+
+2nd Quarter168,76128,8009,04913,14678,72757,7781,14212,61911,3895,90610,2621,478581399,6382,623
+
+3rd Quarter204,05134,6509,89017,76577,12563,0271,17315,22120,9616,05411,7731,543640463,8743,027
+
+4th Quarter202,06733,88010,59221,70674,66459,8681,13011,47616,6844,26112,3681,148653450,4982,936
+
+2016 January 66,85110,2664,4054,11817,44914,3124983,5223,2761,3722,852268155129,344899
+
+February66,6518,6693,5502,65819,99014,5344684,0602,8981,3392,910434164128,326892
+
+March63,59810,3112,8383,90126,46816,2254565,0512,5921,3383,224399219136,619949
+
+April48,9936,9743,4262,61416,84313,4123943,8861,8741,1472,245225193102,225710
+
+May54,5748,3124,0362,45719,17413,1313674,0702,8321,5672,612330165113,626780
+
+June62,5029,1973,1753,34520,99917,7082684,5694,6441,4532,470319188130,837901
+
+July61,8809,9132,6574,38319,87715,6712344,6274,8082,1682,728508182129,637892
+
+August57,2839,9363,0143,35221,68215,8513294,7095,2041,7012,490366217126,136866
+
+September55,7179,8443,3912,77425,93116,7443285,4235,8131,5292,813446146130,897898
+
+October57,52010,0383,7683,99520,72715,8724484,8464,2121,1562,515324162125,582855
+
+November56,6049,0452,6763,61420,23514,9694864,2723,3159753,004271176119,643810
+
+December58,5959,2882,9104,58422,13216,3504814,2484,7578453,229328147127,894859
+
+2017 (a) January63,9898,7013,2694,42719,87615,2447544,0974,5681,0923,316259198129,789865
+
+February59,7409,7793,4044,10322,42117,1818434,0963,8181,2953,663334203130,880868
+
+March68,64611,6163,0535,13429,54420,2408775,5284,5742,5395,212502294157,7601,042
+
+April53,1967,4222,4924,47922,68616,5563923,7573,5251,9283,560409195120,598795
+
+May54,72010,2113,4024,20921,06820,0434404,2573,6111,9793,591407213128,151841
+
+June60,84411,1673,1554,45834,97221,1793104,6054,2541,9993,111662173150,890987
+
+July71,70212,0692,6795,48124,33721,9753304,9965,7941,8084,018584226155,9991,015
+
+August66,36710,8833,9186,14526,06720,1183995,1757,6952,0563,675578214153,2911,001
+
+September65,98211,6983,2926,14026,72020,9334435,0497,4712,1904,081382201154,5831,011
+
+October64,88512,1053,9575,36025,00720,9172754,6286,5111,4493,931515238149,777976
+
+November65,20310,3463,4596,78623,84719,5133563,9555,1741,3694,069275232144,584941
+
+December71,97911,4293,1769,56025,81019,4394992,8934,9991,4434,368357184156,1371,020
+
+(a) ProvisionalSources: Ceylon Petroleum Corporation and Other Exporters of PetroleumNational Gem and Jewellery AuthoritySri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 68
+
+Export Performance based on Standard International Trade Classification (SITC) (a)
+
+Period
+
+Export ( Rs. million)
+
+Total Exports (US$ million)Food andLive AnimalsBeveragesand Tobacco
+
+CrudeMaterials,Inedible,exceptFuels
+
+Mineral Fuels, Lubricants and Related Materials
+
+Animal and VegetableOils, Fatsand Waxes
+
+Chemicals and RelatedProducts,n.e.s.
+
+Manufactured GoodsClassified Chiefly by Material
+
+Machinery and Transport Equip-ment
+
+Miscellaneous Manufactured Articles
+
+Commodities andTransactions Not Classified Elsewhere in the SITC
+
+Total Exports
+
+2014 355,639 14,649 43,632 44,132 8,294 21,769 200,232 63,617 697,136 4,076 1,453,176 11,130 2015 329,084 15,041 39,274 50,460 16,824 22,278 183,219 71,511 703,740 1 1,431,431 10,546 2016 326,350 19,018 45,190 41,794 13,779 26,251 194,862 64,195 769,325 2 1,500,766 10,310 2017 (b) 416,476 21,493 52,880 66,279 14,477 30,074 216,197 79,489 834,959 116 1,732,440 11,360
+
+20151st Quarter 79,451 3,686 10,510 16,907 4,260 5,797 50,744 32,556 179,544 … 383,455 2,896 2nd Quarter 80,899 3,643 9,679 12,844 4,607 5,344 43,702 14,634 164,824 1 340,178 2,549 3rd Quarter 82,956 3,523 10,521 11,192 4,152 5,565 43,206 11,536 178,508 - 351,158 2,592 4th Quarter 85,778 4,190 8,564 9,517 3,805 5,571 45,568 12,784 180,864 … 356,641 2,510
+
+20161st Quarter 79,416 5,500 11,739 10,677 2,941 6,060 50,916 17,157 209,884 - 394,289 2,739 2nd Quarter 76,968 4,399 10,026 8,415 3,201 6,387 45,090 12,589 179,613 … 346,688 2,391 3rd Quarter 87,708 4,882 11,796 10,509 4,022 7,080 49,539 18,826 192,308 - 386,669 2,656 4th Quarter 82,259 4,236 11,630 12,193 3,615 6,725 49,317 15,623 187,520 1 373,119 2,524
+
+2017 (b)1st Quarter 94,440 4,579 14,129 13,662 3,740 7,262 51,599 20,883 208,063 73 418,430 2,774 2nd Quarter 101,091 5,157 12,431 13,146 3,274 7,045 48,122 24,623 184,706 43 399,638 2,623 3rd Quarter 115,280 5,794 14,184 17,765 4,299 7,994 58,770 17,350 222,438 - 463,874 3,027 4th Quarter 105,665 5,963 12,136 21,706 3,164 7,772 57,705 16,634 219,753 - 450,498 2,936
+
+2016January 25,511 1,333 3,344 4,118 902 1,865 17,421 3,677 71,172 - 129,344 899 February 25,875 2,266 4,092 2,658 841 2,014 16,437 4,258 69,887 - 128,326 892 March 28,029 1,901 4,303 3,901 1,198 2,182 17,058 9,222 68,825 - 136,619 949 April 22,792 1,179 3,389 2,614 848 1,818 14,200 3,664 51,721 … 102,225 710 May 23,752 1,669 3,234 2,457 1,007 2,172 15,129 4,420 59,786 - 113,626 780 June 30,424 1,551 3,403 3,345 1,346 2,397 15,761 4,505 68,107 - 130,837 901 July 28,485 1,318 3,659 4,383 1,270 2,207 15,512 5,057 67,744 - 129,637 892 August 28,297 1,778 3,780 3,352 1,330 2,524 16,618 5,112 63,345 - 126,136 866 September 30,926 1,787 4,357 2,774 1,421 2,348 17,409 8,657 61,218 - 130,897 898 October 27,844 1,193 4,018 3,995 1,210 2,262 17,681 6,018 61,359 1 125,582 855 November 25,843 1,429 3,643 3,614 1,149 1,938 15,586 4,853 61,586 - 119,643 810 December 28,571 1,614 3,969 4,584 1,255 2,524 16,050 4,751 64,575 - 127,894 859
+
+2017 (b)January 27,630 1,270 4,017 4,425 1,193 2,471 15,514 4,943 68,326 - 129,789 865 February 29,382 1,632 4,452 4,103 963 2,130 16,844 6,680 64,694 - 130,880 868 March 37,429 1,677 5,660 5,133 1,583 2,660 19,242 9,260 75,043 73 157,760 1,042 April 28,735 1,539 3,770 4,479 1,006 2,353 13,353 7,753 57,598 11 120,598 795 May 32,855 1,910 4,260 4,209 1,058 2,436 17,291 4,388 59,726 19 128,151 841 June 39,501 1,709 4,401 4,458 1,210 2,257 17,478 12,481 67,382 13 150,890 987 July 37,742 1,690 4,671 5,481 1,597 2,953 18,939 5,354 77,572 - 155,999 1,015 August 37,660 2,080 4,959 6,145 1,436 2,646 20,068 5,766 72,532 - 153,291 1,001 September 39,879 2,024 4,554 6,140 1,265 2,395 19,763 6,230 72,334 - 154,583 1,011 October 37,623 1,884 4,277 5,360 1,176 2,749 19,709 6,169 70,831 - 149,777 976 November 34,451 1,480 3,904 6,786 1,125 2,397 18,624 5,251 70,565 - 144,584 941 December 33,591 2,599 3,956 9,560 863 2,626 19,372 5,214 78,357 - 156,137 1,020
+
+(a) Data is compiled based on the latest version of SITC - Revision 4 published in 2006.(b) Provisional
+
+Sources: Ceylon Petroleum Corporation and Other Exporters of PetroleumNational Gem and Jewellery AuthoritySri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 69Composition of Exports based on SITC (a)
+
+CategoryRs. millionUS$ million2014201520162017 (b)2014201520162017 (b)
+
+0. Food and Live Animals 355,639 329,084 326,350 416,476 2,724 2,422 2,241 2,730 00 Live Animals other than Animals of Division 03 133 135 106 134 1 1 1 1 01 Meat and Meat Preparations 529 400 459 577 4 3 3 4 02 Dairy Products and Birds’ Eggs 793 637 602 778 6 5 4 5 03 Fish, Crustaceans, Molluscs and Aquatic Invertebrates and Preparations There of 34,710 24,568 26,605 38,984 266 181 183 256 04 Cereals and Cereal Preparations 8,880 8,272 6,941 7,695 68 61 48 50 05 Vegetables and Fruit 49,870 44,815 46,579 51,447 382 329 320 337 06 Sugars, Sugar Preparations and Honey 271 419 295 398 2 3 2 3 07 Coffee, Tea, Cocoa, Spices and Manufactures There of 245,286 229,422 225,211 291,193 1,879 1,689 1,546 1,909 08 Feeding Stuff for Animals 8,424 10,208 9,875 12,217 65 75 68 80 09 Miscellaneous Edible Products and Preparations 6,743 10,206 9,678 13,055 52 75 67 85
+
+1. Beverages and Tobacco 14,649 15,041 19,018 21,493 112 111 131 141 11 Beverages 1,976 2,884 3,840 4,719 15 21 26 31 12 Tobacco and Tobacco Manufactures 12,673 12,157 15,178 16,773 97 90 104 110
+
+2. Crude Materials, Inedible, except Fuels 43,632 39,274 45,190 52,880 334 290 310 347 21 Hides, Skins, Furskins, Raw … - … - … - … - 22 Oil-seeds and Oleaginous Fruits 1,855 749 908 511 14 6 6 3 23 Crude Rubber 6,086 3,706 4,901 6,178 47 27 34 41 24 Cork and Wood 998 1,093 702 1,224 8 8 5 8 25 Pulp and Waste Paper 4,296 4,309 4,666 5,820 33 32 32 38 26 Textile Fibres and Their Wastes 20,860 19,896 23,192 24,404 160 147 159 160 27 Crude Fertilisers, other than those of Division 56, and Crude Minerals 2,450 2,092 2,724 3,427 19 15 19 22 28 Metalliferous Ores and Metal Scrap 1,412 1,977 2,016 2,697 11 15 14 18 29 Crude Animal and Vegetable Materials, n.e.s. 5,676 5,453 6,081 8,620 43 40 42 57
+
+3. Mineral Fuels, Lubricants and Related Materials 44,132 50,460 41,794 66,279 338 374 287 434 32 Coal, Coke and Briquettes … - … … … - … … 33 Petroleum, Petroleum Products and Related Materials 44,131 50,460 41,794 66,278 338 374 287 434 34 Gas, Natural and Manufactured … … - 1 … … - …
+
+4. Animal and Vegetable Oils, Fats and Waxes 8,294 16,824 13,779 14,477 64 124 95 95 41 Animal Oils and Fats 62 18 35 29 … … … … 42 Fixed Vegetable Fats and Oils, Crude, Refined or Fractionated 7,704 16,431 13,725 14,441 59 121 94 95
+
+43 Animal or Vegetable Fats and Oils, Processed; Waxes of Animal or Vegetable Origin; Inedible Mixtures or Preparations of Animal or Vegetable Fats or Oils, n.e.s. 527 375 19 7 4 3 … …
+
+5. Chemicals and Related Products, n.e.s. 21,769 22,278 26,251 30,074 167 164 180 197 51 Organic Chemicals 677 632 833 864 5 5 6 6 52 Inorganic Chemicals 1,565 1,328 1,189 1,476 12 10 8 10 53 Dyeing, Tanning and Colouring Material 1,065 1,054 1,116 1,330 8 8 8 9 54 Medicinal and Pharmaceutical Products 602 522 476 781 5 4 3 5 55 Essential Oils, Resinoids, Perfume Materials; Toilet, Polishing and Cleansing Preparations 5,194 6,998 9,696 10,932 40 51 67 72 56 Fertilisers 173 105 132 99 1 1 1 1 57 Plastics in Primary Forms 482 416 403 377 4 3 3 2 58 Plastics in Non-Primary Forms 372 359 637 629 3 3 4 4 59 Chemical Materials and Products, n.e.s. 11,637 10,866 11,769 13,586 89 80 81 89
+
+6. Manufactured Goods Classified Chiefly by Material 200,232 183,219 194,862 216,197 1,534 1,350 1,339 1,418 61 Leather, Leather Manufactures, n.e.s., and Dressed Furskins 98 112 114 69 1 1 1 … 62 Rubber Manufactures, n.e.s. 93,028 80,768 86,005 96,973 713 595 591 636 63 Cork and Wood Manufactures 5,496 4,594 4,528 5,118 42 34 31 34 64 Paper, Paperboard and Articles of Paper Pulp, of Paper or of Paperboard 3,851 3,825 5,592 7,086 29 28 38 46 65 Textile Yarn, Fabrics, Made-up Articles, n.e.s., and Related Products 28,796 32,203 37,541 42,213 221 237 258 277 66 Non-metallic Mineral Manufactures, n.e.s. 61,102 54,412 48,616 48,069 468 402 334 315 67 Iron and Steel 263 289 1,402 577 2 2 10 4 68 Non-ferrous Metals 4,143 3,388 4,151 7,426 32 25 28 49 69 Manufactures of Metals, n.e.s. 3,455 3,628 6,914 8,666 26 27 48 57
+
+7. Machinery and Transport Equipment 63,617 71,511 64,195 79,489 487 530 441 522 71 Power-generating Machinery and Equipment 603 505 965 3,168 5 4 7 21 72 Machinery Specialised for Particular Industries 564 648 2,394 2,465 4 5 16 16 73 Metalworking Machinery 75 45 25 39 1 … … … 74 General Industrial Machinery and Equipment and Machine Parts, n.e.s. 12,960 10,053 11,114 14,332 99 74 76 94 75 Office Machines and Automatic Data-processing Machines 214 246 545 1,384 2 2 4 9 76 Telecommunications and Sound-recording and Reproducing Apparatus and Equipment 718 889 664 1,169 6 7 5 8 77 Electrical Machinery, Apparatus and Appliances, n.e.s. and Electrical Parts Thereof 29,713 27,441 30,459 33,673 228 202 209 221 78 Road Vehicles 7,402 7,448 8,452 8,104 57 55 58 53 79 Other Transport Equipment 11,370 24,235 9,578 15,155 87 182 66 100
+
+8. Miscellaneous Manufactured Articles 697,136 703,740 769,325 834,959 5,339 5,181 5,286 5,476 81 Prefabricated Buildings; Sanitary, Plumbing, Heating, Lighting Fixtures and Fittings, n.e.s. 214 171 236 463 2 1 2 3 82 Furniture and Parts Thereof; Bedding, Mattresses, Mattress Supports, Cushions and Similar Stuffed Furnishings 3,996 3,885 6,107 6,354 31 29 42 42
+
+83 Travel Goods, Handbags and Similar Containers 267 371 381 856 2 3 3 6 84 Articles of Apparel and Clothing Accessories 642,161 648,961 703,064 760,068 4,918 4,778 4,831 4,985 85 Footwear 11,303 11,696 17,118 16,524 87 86 118 108 87 Professional, Scientific and Controlling Instruments and Apparatus, n.e.s. 5,585 6,127 6,037 7,855 43 45 41 52 88 Photographic Apparatus, Equipment and Supplies and Optical Goods, n.e.s.; Watches and Clocks 302 233 380 399 2 2 3 3 89 Miscellaneous Manufactured Articles, n.e.s. 33,309 32,296 36,002 42,440 255 238 247 278
+
+9. Commodities and Transactions Not Classified Elsewhere in SITC 4,076 1 2 116 31 … … 1 97 Gold, Non-monetary 4,076 1 2 116 31 … … 1
+
+Total Exports 1,453,176 1,431,431 1,500,766 1,732,440 11,130 10,546 10,310 11,360
+
+(a) Data is compiled based on the latest version of SITC - Revision 4 published in 2006.(b) Provisional
+
+Note: First digit indicates the ‘section’ and first two digits indicate the ‘division’ of SITC.
+
+Sources: Ceylon Petroleum Corporation and Other Exporters of PetroleumNational Gem and Jewellery AuthoritySri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 70
+
+Tea Exports, Sales and Prices
+
+Period
+
+Exports Colombo Auctions
+
+Volume (kg ‘000)
+
+Value Price (F.O.B.)Quantity Sold (kg ‘000) Gross Price (Rs./kg)
+
+Rs. millionUS$ millionRs./kgUS$/kgHighMediumLow TotalHighMediumLowAll Tea
+
+2013319,673199,4461,542 623.91 4.8269,43248,683205,369323,484405.66399.06470.88445.832014327,342212,5881,628 649.44 4.9768,83347,884209,343326,061416.97405.33485.47459.012015306,966182,0541,340 593.08 4.3767,36046,405200,099313,865387.21359.60416.47401.462016288,771184,7781,269 639.88 4.3954,65340,932178,990274,576455.37424.71489.50473.152017 (a)288,984233,3381,530 807.44 5.2955,67444,203191,681291,558611.59563.35637.51620.44
+
+2015 1st Quarter73,21244,394335 606.37 4.5814,8179,98547,59472,396404.16382.03429.72417.992nd Quarter78,33546,387348 592.16 4.4419,58913,26650,29983,154365.00357.17425.84400.443rd Quarter74,55143,963325 589.70 4.3517,30412,02051,37980,703377.22340.75396.06383.714th Quarter80,86847,311333 585.03 4.1215,65011,13450,82777,611402.47358.46414.25403.69
+
+2016 1st Quarter74,45345,072313 605.37 4.2115,90210,81449,53276,248417.01374.86411.85406.392nd Quarter72,00544,250305 614.54 4.2416,54311,48644,62372,652414.06398.60454.61436.423rd Quarter76,29848,266331 632.60 4.3412,12211,07646,09669,293437.89422.02501.11477.594th Quarter66,01447,190319 714.85 4.8410,0857,55738,74056,383552.53503.38590.44572.20
+
+2017 (a) 1st Quarter68,40852,665349 769.87 5.1013,72310,99049,60674,319623.06566.61617.58611.262nd Quarter70,28157,778379 822.10 5.4017,68712,41545,20575,307574.90583.36657.80625.393rd Quarter77,13463,027411 817.12 5.3312,74211,35651,70575,804598.09539.59632.70612.854th Quarter73,16359,868390 818.29 5.3311,5229,44245,16466,129650.31563.85641.97632.26
+
+2016 January24,13114,31299 593.12 4.125,2073,48115,34324,031409.70368.74418.73409.61February23,60714,534101 615.68 4.284,6613,21915,28323,163420.54375.56402.29402.22March26,71616,225113 607.34 4.226,0344,11418,90529,054420.79380.29414.54407.35April22,17613,41293 604.77 4.203,3902,3479,89515,631427.14395.32436.07428.04May21,26413,13190 617.51 4.245,4643,96215,33324,758423.03409.46467.22448.15June28,56517,708122 619.91 4.277,6905,17719,39632,263392.02391.01460.55433.08July25,71915,671108 609.33 4.194,5073,83215,33523,673419.13399.88475.27452.28August25,14615,851109 630.36 4.333,4093,58613,62920,625434.90415.31490.58468.81September25,43316,744115 658.33 4.524,2063,65817,13224,995459.62450.88537.49511.68October22,92915,872108 692.20 4.713,1522,72413,08218,958527.39486.55572.94553.01November20,47314,969101 731.14 4.952,9372,24212,01017,189559.75501.33598.99579.60December22,61216,350110 723.07 4.863,9962,59113,64820,235570.45522.25599.40584.01
+
+2017 (a) January20,17415,244102 755.62 5.036,3025,31122,03833,651622.02548.53600.60596.71February22,44817,181114 765.35 5.073,7242,72614,07120,521609.03550.77604.06597.91March25,78520,240134 784.95 5.183,6972,95213,49720,146638.14600.54648.08639.17April20,12116,556109 822.83 5.423,4632,67910,81816,959634.93620.63662.36650.10May24,31220,043132 824.43 5.418,2095,48619,78533,480559.59590.80668.51628.71June25,84821,179139 819.35 5.366,0154,25114,60324,868530.19538.64642.54597.38July26,69321,975143 823.26 5.364,4514,00316,42424,878558.21524.53618.26592.46August24,80920,118131 810.93 5.294,8514,24019,55828,649599.58527.86626.01607.19September25,63220,933137 816.70 5.343,4413,11315,72322,277636.48566.37653.82638.92October25,52320,917136 819.55 5.344,7253,98919,35628,070657.62576.23660.05647.66November23,67319,513127 824.27 5.363,8182,93114,40621,155648.27560.71635.29627.39December23,96719,439127 811.05 5.302,9792,52211,40316,904645.05554.59630.57621.74
+
+(a) Provisional Sources: Colombo Tea Brokers’ Association
+
+Sri Lanka Customs Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 71
+
+Volume and Value of Tea Exports (a)
+
+ItemVolume (kg ‘000)Value (Rs. million)
+
+20132014201520162017 (b)20132014201520162017 (b)
+
+Black Tea Bulk 129,817 127,107 132,782 125,200 125,629 72,479 73,497 68,375 68,953 92,265 Packets 156,935 164,129 145,415 134,324 134,509 89,643 98,448 80,461 79,586 102,073 Bags 25,735 28,661 22,151 23,011 21,701 28,108 31,074 24,929 27,419 28,672 Green Tea Bulk 1,013 1,197 1,116 1,089 1,065 569 717 703 704 756 Packets 2,218 1,997 1,543 1,331 2,185 2,819 2,418 1,768 1,674 2,517 Bags 2,004 2,050 1,828 1,805 1,774 3,826 4,007 3,638 3,997 4,402 Instant Tea 1,951 2,201 2,131 2,011 2,121 2,003 2,426 2,179 2,445 2,655
+
+Total319,673327,342306,966288,771288,984 199,446 212,588 182,054 184,778 233,338
+
+(a) Bags: less than 4g Packets: 4g -10kg Bulk: more than 10kg(b) Provisional
+
+Source: Sri Lanka Customs
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 72
+
+Country Classification of Tea Exports
+
+CountryVolume (kg ‘000)Value (US$ million)
+
+20132014201520162017 (a)20132014201520162017 (a)
+
+Middle East Countries 163,131 159,074 151,006 138,185 137,256 714 728 607 557 681 Iran 39,648 30,077 30,066 33,929 27,419 194 160 132 154 160 Iraq 22,518 24,749 31,365 32,557 35,033 87 90 99 104 138 Israel 1,673 2,314 1,689 1,748 1,843 8 12 8 8 10 Jordan 7,664 6,712 5,650 3,996 4,688 36 37 29 22 28 Kuwait 16,112 12,223 8,730 3,527 2,435 50 43 30 16 15 Saudi Arabia 3,758 5,091 4,907 4,514 4,416 19 27 26 24 27 Syria 21,059 12,917 11,091 12,107 7,400 94 60 47 54 41 Turkey 32,235 44,746 33,706 27,069 37,816 141 209 137 99 183 United Arab Emirates 18,071 19,814 23,438 18,381 15,785 82 88 97 74 76 Other 394 431 365 357 421 2 2 2 2 3
+
+CIS Countries 70,670 66,636 55,489 53,101 52,897 371 350 241 227 279 Russia 46,372 44,101 36,744 34,433 33,380 240 228 157 143 174 Other 24,298 22,536 18,745 18,669 19,517 131 122 84 85 106
+
+European Union 23,839 26,091 23,345 23,173 23,751 142 159 131 129 154 Belgium 2,565 2,608 2,452 2,909 2,632 12 12 9 11 12 Finland 1,340 2,254 1,142 1,215 1,406 9 13 6 6 8 France 922 1,136 806 684 769 5 7 5 5 6 Germany 6,669 6,701 6,998 6,854 6,809 33 33 29 29 37 Ireland, Republic of 1,911 2,059 1,988 1,819 1,947 15 17 15 15 16 Netherlands 2,426 3,241 1,866 3,044 2,911 16 21 14 20 22 Poland 3,054 2,825 2,574 2,455 2,584 18 18 16 15 18 United Kingdom 1,072 1,277 1,414 1,241 1,527 9 10 11 10 14 Other 3,880 3,990 4,105 2,953 3,166 26 28 26 19 22
+
+Other Industrialised Countries 17,730 19,135 17,228 17,076 17,541 118 127 107 111 122 Australia 2,826 3,040 2,490 2,481 2,829 31 32 23 23 28 Canada 626 745 631 497 666 5 6 5 4 5 Japan 8,938 9,108 8,462 7,764 7,924 48 50 42 43 45 New Zealand 1,012 1,053 1,057 917 1,055 8 9 9 8 9 United States of America 4,145 4,977 4,333 5,218 4,840 24 30 27 32 33 Other 182 211 255 199 227 1 1 1 1 1
+
+Other Countries 44,303 56,406 59,897 57,236 57,540 196 264 255 244 293 Albania 1,563 1,942 2,389 1,635 1,921 6 8 9 6 9 Chile 6,861 7,029 6,963 6,672 7,097 26 30 25 25 32 China 4,519 5,305 7,455 7,604 9,903 22 26 34 32 49 Hong Kong 4,974 5,074 4,847 4,620 4,981 20 21 19 19 24 Lebanon 2,831 3,491 2,473 3,468 4,128 16 21 13 17 25 Libya 6,643 12,650 9,984 12,645 11,609 22 45 33 45 52 South Africa 2,304 1,765 2,039 2,043 1,759 9 7 8 8 9 Taiwan 2,199 2,971 3,609 3,077 4,317 9 11 12 11 19 Other 12,40816,17920,13715,47311,82367941018175
+
+Total319,673327,342306,966288,771288,9841,5421,6281,3401,2691,530
+
+(a) ProvisionalSource: Sri Lanka Customs
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 73
+
+Rubber Exports and Prices
+
+Period
+
+ExportsPrices
+
+Volume (kg ‘000)Value (Rs. million)Value(US$ million)
+
+Price (F.O.B.)Colombo Market Prices (Rs./kg)RSS No.3Singapore (Sing.$ Cents/kg) Rs./kgUS$/kgRSSLatex CrepeScrapCrepeNo.1X Br Sheet Crepe Other Total Sheet Crepe Other TotalAll RubberNo. 1No. 2No. 1XNo. 1
+
+20134,75215,2103,62423,5861,7436,0951,3569,19471389.813.02376.90369.21397.28389.69309.23349.3920141,96712,1732,16716,3065874,5537765,91645362.832.78286.05280.14310.00302.20213.27247.7520159038,74872210,3732173,0642683,54826342.032.52248.17242.92301.53296.30187.80213.6720161,63012,0152,52216,1673873,7436284,75833294.332.02239.28229.76262.31258.81179.98221.852017 (a)2,9409,0395,25017,2309313,4301,5595,92039343.562.26336.72329.82351.71347.97269.55276.41
+
+2015 1st Quarter2472,4421482,83765850609757343.602.60274.96271.14267.15261.10187.31235.18
+
+2nd Quarter4652,3692993,13398718979137291.312.18229.35224.90286.15278.91175.96240.32
+
+3rd Quarter531,9401432,13617710567836366.462.70241.72232.20314.54309.90200.71202.31
+
+4th Quarter1381,9971312,26637786558776387.152.72245.88243.42338.31335.28187.23176.89
+
+2016 1st Quarter3763,5471844,108841,267721,42310346.322.41210.23194.46287.37284.49148.75185.13
+
+2nd Quarter4212,6234383,481998081221,0297295.592.04248.96239.00273.75270.29170.48218.72
+
+3rd Quarter1562,5061982,86140791618926311.732.14236.31232.28240.66236.48178.34212.37
+
+4th Quarter6763,3391,7025,7171658773741,41510247.501.67261.60259.45247.44243.96222.35271.17
+
+2017 (a) 1st Quarter1,2793,6482,8077,7344081,2498172,47416319.932.12327.87321.10314.40309.48295.58359.81
+
+2nd Quarter7041,7697503,2232396792241,1428354.462.33335.44322.61309.81305.09268.73279.67
+
+3rd Quarter5661,7209683,2551707042991,1738360.302.35347.46339.89374.00367.91260.13246.87
+
+4th Quarter3911,9027253,0181147962201,1307374.452.44336.10335.67408.64409.39253.74219.28
+
+2016 January391,161461,24510468214983400.282.78228.00188.67285.60284.00159.11176.16
+
+February1591,165431,36836415184683342.552.38194.00189.25289.38286.31141.84178.48
+
+March1791,220961,49539384334563304.812.12208.68205.47287.14283.14145.31200.76
+
+April2879501071,34465299293943292.862.04232.63-278.75276.00169.83230.91
+
+May1158941991,20729277613673304.162.09245.33239.00272.51272.17169.29223.31
+
+June197791329305232312682288.431.99268.92-270.00262.71172.33201.95
+
+July596143871115208112342329.832.27254.38247.00264.83259.57188.57214.84
+
+August40900681,00810298213292326.632.24229.33228.47234.71231.00174.33208.90
+
+September58992921,14214285293282287.331.97225.23221.38222.43218.88172.13213.38
+
+October3669895801,935892431154483231.421.58237.10234.07228.00220.50185.44229.61
+
+November2071,1636372,007512891464863242.161.64262.50261.29235.33236.66224.00263.60
+
+December1031,1884851,776253441124813271.041.82285.21283.00279.00274.71257.60320.29
+
+2017 (a) January6579681,0802,7051842822877545278.801.86328.71321.31324.86323.64308.14365.74
+
+February2641,3309032,497924822698436337.612.24338.67329.00320.00310.30303.10383.45
+
+March3581,3508242,5331324852608776346.432.29316.21313.00298.35294.50275.50330.23
+
+April2775872341,09896216793923356.772.35322.13318.83296.00292.00258.75308.82
+
+May2616543761,291862511034403340.942.24340.39321.00308.00302.69283.64292.28
+
+June16652814083457212413102372.362.44343.80328.00325.42320.57263.80237.92
+
+July21239128889164167993302370.652.41352.50346.67407.50394.30264.71239.94
+
+August1496732871,10945266883993360.042.35346.38335.00358.38355.88259.92249.93
+
+September2066553941,255602721114433353.192.31343.50338.00356.13353.56255.75250.74
+
+October5647019171717192662752383.552.50339.00339.00392.17390.36255.40222.68
+
+November7456332396122246893562370.422.41336.50336.00432.50437.80260.33212.71
+
+December2628682111,34175359654993372.472.43332.80332.00401.25400.00245.50222.46
+
+(a) ProvisionalSources: The Ceylon Chamber of CommerceSri Lanka CustomsWorld BankCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 74
+
+Major Rubber Export Destinations
+
+CountryVolume (kg ‘000)Value (US$ million)
+
+20132014201520162017 (a)20132014201520162017 (a)
+
+European Union 4,094 4,205 2,960 4,090 3,986 13.511.67.08.39.1
+
+India 2,600 2,018 426 761 1,185 7.45.00.91.83.0
+
+Japan 1,679 1,662 1,636 1,525 1,662 5.85.24.43.84.3
+
+Malaysia 4,976 1,117 424 2,595 1,572 12.02.20.63.72.8
+
+Pakistan 4,652 2,409 1,379 3,009 3,284 11.94.82.54.86.4
+
+Vietnam 990 1,147 1,029 617 635 4.34.53.72.02.2
+
+Other Countries 4,596 3,7462,5193,569 4,906 16.311.97.18.311.1
+
+Total 23,586 16,306 10,373 16,167 17,230 71.345.326.132.738.9
+
+(a) ProvisionalSource: Sri Lanka Customs
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 75
+
+Country Classification of Garment Exports
+
+Country
+
+Value
+
+Rs. millionUS$ million
+
+20132014201520162017 (a)20132014201520162017 (a)
+
+1. European Union 253,463282,820257,391277,188302,2411,9592,1661,8961,9051,982
+
+Austria1,6131,3381,3331,1961,25512101088
+
+Belgium-Luxembourg20,45221,43222,67629,74531,774158164167204208
+
+Czech Republic6965746129191,02854467
+
+Denmark8851,2079621,1211,932797813
+
+France14,69821,30815,16810,79810,2371141631127467
+
+Germany24,41324,08026,70828,27030,871189184196194202
+
+Ireland, Republic of2,0382,5731,3691,4692,0611620101014
+
+Italy52,72565,18348,49850,90965,717408499357350431
+
+Netherlands7,92411,81712,75913,03415,44361919490101
+
+Poland1,5711,4921,5551,5471,5921211111110
+
+Slovak Republic2,6744,4594,1204,8254,0702134303327
+
+Spain2,5442,5805,0216,0654,4622020374229
+
+Sweden3,9595,4714,6475,9747,6363142344150
+
+United Kingdom116,131117,851110,819120,257122,290899903815826802
+
+Other 1,1421,4541,1451,0581,87351111912
+
+2. United States of America236,660259,858286,624306,212326,3601,8301,9902,1102,1042,140
+
+3. Other Countries61,53668,67374,78786,39694,023476526550593617
+
+Australia4,2574,5066,1497,2669,4513335455062
+
+Canada10,15310,03611,41413,93615,77379778496103
+
+China2,8734,6487,3029,5099,1042236546560
+
+Japan5,0066,2655,3586,5046,4153948394542
+
+United Arab Emirates6,6736,8716,5656,9637,6245253484850
+
+Other32,57536,34737,99842,21845,656251278279290300
+
+Total551,659611,350618,803669,796722,6244,2654,6824,5564,6034,739
+
+(a) Provisional Source: Sri Lanka Customs
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 76
+
+Export Volumes, Values and Prices of Major Coconut Products
+
+Period
+
+ExportsPricesVolume (kg ‘000)Value (Rs. million)Value(US$ million)F.O.B.Colombo Market London Market(Rs./kg)(US$/kg)(Rs./kg)
+
+DesiccatedCoconut
+
+Coconut Oil
+
+Copra
+
+Total Million Nuts (a)
+
+DesiccatedCoconut
+
+Coconut Oil
+
+Copra
+
+Non KernelProducts
+
+Total
+
+Total
+
+DesiccatedCoconut
+
+Coconut Oil
+
+Copra
+
+DesiccatedCoconut
+
+Coconut Oil
+
+Copra
+
+DesiccatedCoconut
+
+Coconut Oil
+
+Copra (b)
+
+PhilippineCopra(US$/ kg)
+
+Sri Lanka Desiccated Coconut(US$/ kg)
+
+201344,2573,821713798,8912,2141415,37026,488205 200.89 579.38 191.32 1.55 4.48 1.49 239.05 252.32 143.65 0.59 2.02 201476,40611,2544,22271619,4417,62989918,54746,517356 254.45 677.92 212.99 1.95 5.19 1.63 297.05 266.85 155.26 0.80 2.46 201545,96322,03247855213,61216,40910217,62347,745352 296.14 744.80 212.65 2.17 5.50 1.56 290.65 265.52 150.07 0.69 2.28 201672,02322,6791,18476517,53713,69025121,80553,283366 243.48 603.63 211.93 1.67 4.14 1.45 265.27 264.89 148.24 0.79 1.93 2017 (c)37,03020,12650146614,34414,40617124,11653,037348 387.35 715.78 342.28 2.54 4.69 2.24 440.55 376.60 219.07 0.823.05
+
+2015 1st Quarter5,6945,546105932,1694,235244,45910,88682 380.87 763.63 226.61 2.88 5.76 1.71 332.86 277.91 163.62 0.72 2.64
+
+2nd Quarter9,2755,963701243,3284,594164,34712,28592 358.82 770.46 233.25 2.69 5.77 1.74 321.49 277.80 153.15 0.70 2.57
+
+3rd Quarter15,1615,5681471674,1594,111295,04613,34498 274.29 738.18 197.06 2.02 5.45 1.45 257.46 255.43 141.85 0.66 2.06
+
+4th Quarter15,8334,9551571673,9563,470333,77111,23079 249.88 700.29 208.84 1.76 4.93 1.47 250.76 250.96 141.63 0.67 1.90
+
+2016 1st Quarter17,2824,4522351753,8382,906445,84512,63388 222.07 652.72 189.09 1.54 4.53 1.31 249.97 256.13 143.52 0.72 1.85
+
+2nd Quarter15,7115,1911051684,1373,188215,17912,52586 263.29 614.11 200.84 1.82 4.23 1.39 260.73 259.02 148.17 0.80 1.87
+
+3rd Quarter20,2046,9142102195,0073,994405,71914,759101 247.80 577.60 191.67 1.70 3.97 1.32 253.87 265.99 140.31 0.81 1.85
+
+4th Quarter18,8266,1226342034,5563,6021455,06313,36690 241.98 588.45 228.95 1.64 3.98 1.55 296.51 278.43 159.38 0.82 2.13
+
+2017 (c) 1st Quarter13,4945,6621071554,0593,734275,90013,72191 300.82 659.53 252.76 1.99 4.37 1.68 378.32 354.65 201.15 0.852.66
+
+2nd Quarter10,0034,524561183,4173,234155,95312,61983 341.59 714.74 273.20 2.24 4.69 1.79 416.92 389.33 220.23 0.832.93
+
+3rd Quarter8,1275,8421981153,9764,289636,89315,22199 489.20 734.11 317.14 3.19 4.79 2.07 451.12 374.58 225.53 0.813.08
+
+4th Quarter5,4064,097140782,8923,149665,36911,47675 534.85 768.53 473.99 3.48 5.01 3.09 515.86 387.83 229.37 0.803.53
+
+2016 January4,8411,27530491,08190051,5363,52224 223.32 705.95 182.03 1.55 4.90 1.26 244.56 256.18 - 0.69 1.86February5,8521,26679571,234829141,9834,06028 210.88 654.46 180.56 1.47 4.55 1.25 247.78 261.84 143.72 0.71 1.81 March6,5891,910126691,5231,177252,3265,05135 231.10 616.02 196.13 1.61 4.28 1.36 257.56 250.38 143.33 0.78 1.89April5,3331,38863541,303847131,7233,88627 244.26 610.57 198.72 1.70 4.24 1.38 266.79 255.59 141.20 0.82 1.89May4,9801,67121531,37499841,6934,07028 276.00 597.59 209.32 1.89 4.10 1.44 261.50 257.27 151.32 0.78 1.87June5,3982,13321611,4591,34241,7634,56931 270.38 629.37 198.72 1.86 4.33 1.37 253.90 264.20 152.00 0.80 1.84July6,1342,23942681,5111,26981,8394,62732 246.31 566.87 195.47 1.69 3.90 1.34 245.12 269.87 139.55 0.80 1.79August6,7852,26553731,5811,328101,7904,70932 232.98 586.40 196.88 1.60 4.03 1.35 251.96 264.09 137.12 0.81 1.86 September7,2852,410116781,9151,396222,0905,42337 262.86 579.30 187.91 1.80 3.97 1.29 264.53 264.00 144.26 0.81 1.92 October7,7212,093168791,7111,201371,8984,84633 221.53 573.52 220.37 1.51 3.90 1.50 279.29 272.74 156.40 0.79 2.00 November6,0151,890263651,4831,148591,5814,27229 246.61 607.29 226.30 1.67 4.11 1.53 293.43 269.17 152.20 0.81 2.13 December5,0902,138203591,3621,254491,5834,24829 267.51 586.42 239.48 1.80 3.94 1.61 316.82 293.38 169.54 0.86 2.26
+
+2017 (c) January4,9651,83143551,2321,192101,6634,09727 248.06 650.88 238.29 1.65 4.34 1.59 352.94 331.76 183.53 0.892.46February3,8801,51122431,22696261,9034,09627 316.06 636.66 259.26 2.10 4.22 1.72 389.70 362.64 206.32 0.862.77March4,6492,32042571,6011,581112,3355,52837 344.46 681.25 264.02 2.27 4.50 1.74 392.32 369.57 213.60 0.802.77April2,9251,45183598898421,7823,75725 337.75 678.48 251.46 2.23 4.47 1.66 418.77 387.71 223.10 0.822.89May3,1701,45920371,1651,04152,0464,25728 367.49 713.60 265.43 2.41 4.68 1.74 426.66 396.53 224.70 0.832.98June3,9081,61529451,2641,20882,1254,60530 323.44 748.34 284.62 2.12 4.90 1.86 405.35 383.75 212.89 0.852.90July2,6012,17530391,1851,595102,2074,99633 455.56 733.63 318.87 2.96 4.77 2.08 411.37 358.33 220.39 0.822.80August2,6191,98953381,3091,431162,4195,17534 499.93 719.61 309.62 3.26 4.70 2.02 454.57 380.80 229.91 0.823.13September2,9071,679116381,4821,262372,2685,04933 509.65 751.92 320.10 3.33 4.92 2.09 487.43 384.61 226.30 0.813.31October2,4681,54058331,3411,174292,0844,62830 543.30 762.43 490.68 3.54 4.97 3.20 501.25 379.88 227.22 0.793.47November1,9531,48765281,0491,116301,7603,95526 536.90 750.28 470.23 3.49 4.88 3.06 519.85 388.21 228.91 0.813.50December9851,070171750285971,5252,89319 509.63 802.69 430.30 3.33 5.24 2.81 526.49 395.39 232.00 0.783.63
+
+(a) Footnote (d) of Table 15 gives the conversion formula used for the conversion of the volume of the three main types of coconut exports to their nut equivalent from metric tons.(b) This refers to prices of the best quality copra.(c) Provisional
+
+Sources: Coconut Development Authority Sri Lanka CustomsThe Public Ledger Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 77
+
+Export Volumes and Values of Other Agricultural ProductsVolume (kg ‘000)
+
+PeriodSpicesVegetablesUnmanu-factured Tobacco
+
+Minor Agricultural Products
+
+CinnamonPepperClovesNutmegand MaceOther SpicesFruitsCerealsSesame SeedsCocoaCoffeeArecanutsBetel LeavesEssential OilsCashew NutsOther
+
+201314,14821,7035,4832,30669022,7371,14233,53217,6376,507102199,7833,024525130,062201413,9498,3531,2332,0651,99040,4601,16239,00812,5733,4963345729,3842,99815812926,124201513,82817,0275,5292,2581,20025,84688032,65917,1603,886932429,5132,40413411324,963201614,9468,3831,8492,3872,70821,14089733,3008,3013,934431413,4681,9561886323,8622017 (a)16,96713,7787,8152,4913,27621,69791831,3208,4251,7041641410,6455,1451946023,891
+
+2015 1st Quarter2,9452,8413,1593102757,1432897,7152,845773369,72780128267,3292nd Quarter2,3504,1661,4034632916,8641738,7475,3452061277,672671541410,1903rd Quarter3,8886,6144687893504,7861977,2796,2092,8431754,49040727273,6934th Quarter4,6453,4054986972857,0542218,9172,7607613157,62452526463,752
+
+2016 1st Quarter3,8161,2663633912885,53528810,0663,566300832,87856260186,1232nd Quarter2,5322,1995346964675,0931959,0932,4876191843,90436546176,6393rd Quarter5,0622,4624777711,2286,1242137,5041,0662,474745,75353054175,8014th Quarter3,5362,4574755307254,3872016,6361,18154010293349929115,298
+
+2017 (a) 1st Quarter3,3331,1692,9793517894,9032326,7891,795575142,1651,3823769,0522nd Quarter3,0551,3142,1434541,3465,9842029,2842,8351903633,9991,22658186,4863rd Quarter5,2247,3141,4929636785,7432537,7711,7871,2333443,7211,24271284,1904th Quarter5,3543,9811,2007224635,0672307,4762,0082234337591,2952974,163
+
+2016 January 1,458 551 97 169 90 1,458 83 3,135 2,687 112 3 1 1,010 194 18 16 1,573 February 1,299 400 67 78 71 1,991 101 3,296 456 76 2 1 1,049 192 7 1 2,023 March 1,059 315 199 144 126 2,087 104 3,635 423 112 3 2 819 176 34 1 2,528 April 662 279 200 113 97 1,586 48 2,986 1,701 167 8 1 861 133 2 4 2,141 May 678 706 145 291 163 1,935 82 3,161 391 264 9 1 1,911 119 24 1 2,008 June 1,192 1,214 189 292 207 1,573 65 2,945 395 188 1 2 1,133 112 21 13 2,490 July 1,485 778 173 267 130 2,741 58 2,577 401 487 2 2 2,913 177 14 8 2,547 August 1,616 827 156 288 514 1,481 64 2,587 353 1,043 1 1 1,739 178 19 1 1,669 September 1,962 857 148 215 584 1,903 92 2,340 313 944 3 1 1,100 174 21 8 1,584 October 1,393 686 142 216 112 1,422 53 2,625 307 413 3 1 414 158 11 4 2,127 November 926 568 121 167 307 1,649 65 2,224 424 57 5 1 285 177 14 5 1,768 December 1,217 1,203 213 147 306 1,316 84 1,787 451 70 3 1 234 165 4 2 1,403
+
+2017 (a) January 1,205 408 798 175 339 1,443 61 1,912 450 38 30 2 619 198 12 1 2,028 February 951 300 1,101 93 68 1,357 81 1,913 299 … 6 1 550 299 7 2 2,506 March 1,177 461 1,080 83 383 2,103 90 2,965 1,046 19 15 2 997 885 19 3 4,518 April 974 247 834 100 214 2,214 75 2,960 1,091 … 10 1 1,285 459 8 13 2,374 May 906 322 764 180 885 2,191 75 2,980 388 19 11 1 1,351 403 33 2 2,210 June 1,175 745 545 175 247 1,579 52 3,345 1,356 171 15 1 1,363 363 16 3 1,901 July 1,498 1,374 535 323 262 1,859 93 2,911 682 512 10 1 769 394 16 18 1,716 August 1,763 2,981 514 332 281 1,855 87 2,517 397 588 12 2 1,240 461 29 5 1,038 September 1,964 2,959 443 308 135 2,029 73 2,343 708 133 13 2 1,712 387 26 4 1,437 October 2,025 1,608 444 219 114 1,894 70 2,587 1,030 96 18 1 375 443 5 3 1,368 November 1,696 1,249 445 251 102 1,448 55 2,504 597 127 14 1 171 400 7 3 1,164 December 1,632 1,124 312 252 247 1,725 106 2,385 380 … 11 1 214 453 17 2 1,631
+
+(a) Provisional(Contd.)
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 77 (Contd.)
+
+Export Volumes and Values of Other Agricultural Products
+
+Period
+
+Value (Rs. million)Value(US$million)SpicesVegetablesUnmanu-factured Tobacco
+
+Minor Agricultural ProductsTotalCinnamon PepperClovesNutmegand MaceOther SpicesFruitsCereals Sesame SeedsCocoaCoffee ArecanutsBetel LeavesEssential OilsCashew NutsOtherTotal
+
+201317,99216,6936,4004,0519803,2306,1493,7681,3151,36034152,0651,368174772,94768,618 529 201418,2559,4471,8343,8861,1155,2305,3975,7651,026803140308,3121,3775891863,35166,744 511 201519,09920,2156,4444,5349854,1424,3105,1731,75863433249,1871,2353291893,23881,530 600 201624,97311,1472,0135,8152,2763,8544,5365,04579363917214,9491,1266861123,20471,204 489 2017 (a)33,34213,4627,2475,3662,5784,3425,5666,32596031077295,7443,1647281443,66493,049610
+
+2015 1st Quarter3,8073,0223,9361,0492121,0111,1311,161521171152,642403664191319,9481512nd Quarter3,0894,9021,5988632231,1331,0571,31045642482,3863411002374718,2811373rd Quarter5,5488,1234411,2552767991,0811,181529459741,375206814669922,1091634th Quarter6,6554,1684691,3672741,1991,0401,5222521171172,783286828087921,192149
+
+2016 1st Quarter5,5231,6244638652919731,3201,38225945461,0833162223070115,1081052nd Quarter4,1073,1255441,2273469381,0281,40020993641,3442081453072815,4821073rd Quarter8,9463,3485252,0939131,1051,1701,149156411462,1853052013095323,4991614th Quarter6,3973,0504811,6307268381,0171,11316991443372971192182217,116116
+
+2017 (a) 1st Quarter6,4171,6043,2051,0876471,0411,1981,837223102391,0038371241284620,1241332nd Quarter6,0081,5171,9111,0349191,1811,2911,552252341672,1887552263584019,7671303rd Quarter10,2666,6881,4091,9516471,1481,5771,3822422211682,1227692908192329,7401944th Quarter10,6503,6527211,2943669721,5011,5542424622543180388151,05523,419153
+
+2016 January 2,134 654 112 298 77 262 400 429 144 16 1 2 377 109 53 26 215 5,309 37 February 1,910 509 91 302 85 342 446 479 58 13 1 2 396 108 39 3 241 5,025 35 March 1,479 461 259 264 129 369 475 474 57 16 1 3 310 99 129 2 245 4,773 33 April 1,004 351 233 179 107 280 320 429 93 25 3 1 250 77 21 7 240 3,621 25 May 1,173 1,010 140 408 101 346 432 486 57 39 2 1 637 68 38 1 238 5,176 36 June 1,930 1,764 171 640 138 312 277 485 58 29 1 1 457 64 86 22 249 6,685 46 July 2,568 1,188 211 705 136 452 205 426 59 80 2 3 1,135 102 61 13 287 7,633 52 August 2,932 1,032 137 760 343 280 322 389 54 175 … 1 650 101 75 2 252 7,507 52 September 3,446 1,129 178 628 434 373 643 334 43 155 2 1 400 101 64 15 414 8,359 57 October 2,429 980 126 515 162 276 284 424 42 69 1 2 147 93 75 7 296 5,928 40 November 1,760 624 126 535 270 306 357 373 61 10 2 1 105 106 33 9 275 4,953 34 December 2,209 1,446 229 581 294 256 377 316 66 12 1 1 85 98 11 5 252 6,236 42
+
+2017 (a) January 2,345 620 870 483 250 277 305 401 67 6 14 4 227 118 39 1 213 6,241 42 February 1,842 358 1,193 358 67 271 561 516 49 … 3 2 268 179 32 5 241 5,945 39 March 2,230 627 1,141 246 329 493 332 920 107 4 6 4 507 540 53 6 392 7,938 52 April 1,926 329 708 407 155 413 376 482 84 … 5 4 717 282 54 24 276 6,242 41 May 1,757 256 684 413 500 424 470 501 64 3 4 1 742 248 121 4 290 6,484 43 June 2,324 931 519 214 264 344 445 569 104 31 7 2 729 225 51 7 274 7,041 46 July 2,860 1,443 528 781 183 352 547 514 79 91 5 2 421 244 90 55 306 8,501 55 August 3,588 2,568 465 713 361 386 535 430 63 105 5 3 712 285 137 15 302 10,672 70 September 3,818 2,677 417 457 102 410 495 438 100 24 6 3 990 240 63 10 315 10,567 69 October 4,188 1,489 226 509 99 385 451 478 99 21 8 1 206 275 17 8 335 8,796 57 November 3,298 1,072 264 429 112 275 293 567 84 25 8 2 99 247 32 5 300 7,110 46 December 3,165 1,091 232 356 155 313 757 508 59 … 6 1 126 280 39 3 420 7,512 49
+
+(a) ProvisionalSource: Sri Lanka Customs
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 78
+
+Selected Industrial and Mineral Exports
+
+ItemRs. millionUS$ million
+
+20132014201520162017 (a)20132014201520162017 (a)
+
+1. Food, Beverages and Tobacco 30,428 37,767 41,704 47,087 59,921 235 289 307 324 393 Milling Industry Products 4,791 5,572 4,191 3,795 4,394 37 43 31 26 29 Vegetable, Fruit and Nuts Preparations 8,128 10,455 11,876 14,499 19,674 63 80 87 100 129 Cereal Preparations 3,192 2,854 2,848 2,799 3,078 25 22 21 19 20 Fish Preparations (b) 91 77 54 56 79 1 1 … ... 1 Manufactured Tobacco 6,348 7,276 7,847 10,642 11,207 49 56 58 73 73 Other 7,879 11,534 14,887 15,296 21,488 61 88 109 105 141
+
+2. Animal Fodder 8,243 8,412 10,186 9,874 12,217 64 64 75 68 80
+
+3. Textiles and Garments 583,046 643,688 654,794 710,768 767,254 4,508 4,930 4,820 4,884 5,032 Garments 551,659 611,350 618,803 669,796 722,624 4,265 4,682 4,556 4,603 4,739 Woven Fabrics 15,917 11,791 13,813 15,607 18,185 124 90 101 107 119 Yarn 7,543 8,844 8,555 10,121 10,516 58 68 63 70 69 Other Made-up Textile Articles 7,927 11,703 13,622 15,244 15,929 61 90 100 105 104
+
+4. Rubber Products 114,790 116,168 103,263 111,791 127,426 888 890 761 768 835 Rubber Tyres 71,306 73,619 63,336 69,295 77,777 551 564 467 476 510 Surgical Gloves and Other Gloves 25,248 22,970 22,337 25,644 30,195 195 176 165 176 198 Other Rubber Products 18,237 19,579 17,590 16,853 19,454 141 150 130 116 128
+
+5. Gems, Diamonds and Jewellery 57,591 51,385 44,958 39,845 39,258 446 394 332 274 257 Gems 16,765 22,583 22,235 21,713 22,108 130 173 164 149 145 Diamonds 38,114 25,891 20,105 15,209 14,340 295 198 148 105 94 Jewellery 2,711 2,911 2,619 2,923 2,809 21 22 19 20 18
+
+6. Machinery and Mechanical Appliances 40,384 44,772 39,895 46,267 56,522 312 343 294 318 371 Electrical Machinery and Equipment 5,867 7,122 7,395 6,618 8,984 45 55 54 45 59 Electronic Equipment 12,405 15,153 13,182 14,573 15,154 96 116 97 100 99 Insulated Wires, Cables and Conductors 6,950 7,187 6,115 7,771 9,080 54 55 45 53 60 Other 15,162 15,311 13,203 17,304 23,305 117 117 97 119 153
+
+7. Transport Equipment 18,806 19,821 32,619 19,108 24,718 146 152 244 131 162 Road Vehicles 4,105 5,051 5,449 6,117 5,882 32 39 40 42 39 Ships, Boats and Floating Structures 10,503 11,268 24,209 9,401 14,763 82 86 182 65 97 Other 4,197 3,503 2,961 3,590 4,073 33 27 22 25 27
+
+8. Petroleum Products 55,128 44,132 50,461 41,794 66,280 428 338 374 287 434 Bunkering and Aviation Fuel 54,542 42,733 49,138 39,436 61,633 423 327 364 271 404 Other Petroleum Products 586 1,399 1,323 2,358 4,647 5 11 10 16 30
+
+9. Chemical Products 15,514 17,553 17,178 18,379 22,328 120 134 126 126 146
+
+10. Wood and Paper Products 14,958 16,040 15,254 17,003 21,168 116 123 112 117 139
+
+11. Leather, Travel Goods and Footwear 9,958 18,134 18,397 24,102 24,149 77 139 136 166 158 Footwear 3,806 11,303 11,696 17,118 16,524 29 87 86 118 108 Travel Goods 3,662 4,098 3,864 4,162 4,980 28 31 29 29 33 Other 2,490 2,732 2,837 2,822 2,645 19 21 21 19 17
+
+12. Plastics and Articles Thereof 7,094 8,712 8,489 9,648 11,378 55 67 62 66 75
+
+13. Base Metals and Articles 7,670 8,152 7,572 13,051 17,672 59 62 56 90 116
+
+14. Ceramic Products 5,232 5,396 4,770 5,007 5,146 40 41 35 34 34 Tiles 1,061 1,182 1,015 1,061 1,047 8 9 7 7 7 Tableware, Household Items and Sanitaryware 3,724 3,787 3,372 3,390 3,456 29 29 25 23 23 Other 448 427 383 556 643 3 3 3 4 4
+
+15. Other Industrial Exports 32,966 38,593 38,399 41,983 47,138 255 296 283 288 309
+
+Total Industrial Exports 1,001,808 1,078,725 1,087,938 1,155,706 1,302,575 7,749 8,262 8,017 7,940 8,542
+
+Mineral ExportsNatural Graphite 569 615 531 668 722 4 5 4 5 5 Natural Sands 9 3 … 1 4 … … … … … Quartz 1,235 1,361 1,173 1,455 1,981 10 10 9 10 13 Other 4,914 5,786 2,121 2,094 2,557 38 44 16 14 17
+
+Total Mineral Exports 6,727 7,764 3,826 4,219 5,263 52 59 28 29 34
+
+(a) Provisional(b) Including crustaceans and molluscsSources: Ceylon Petroleum Corporation and Other Exporters of PetroleumNational Gem and Jewellery AuthoritySri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 79
+
+Composition of Imports
+
+Period
+
+Rs. millionUS$ million
+
+Consumer GoodsIntermediate GoodsInvestment GoodsUnclassifiedImportsTotalImportsTotal ImportsFood and BeveragesNon-FoodConsumerGoodsCrudeOilRefinedPetroleumTextiles andTextileArticlesWheat andMaizeFertiliserOtherMachinery andEquipmentTransportEquipmentBuildingMaterialOther
+
+2013176,423234,573182,064352,984264,30241,55130,972489,868286,63186,170175,0547481,7882,323,12818,0032014213,308289,713187,760391,651303,90752,84435,591516,338278,25792,367170,9016441,8822,535,16319,4172015220,828419,524100,578244,148311,96548,65839,573564,312309,811125,927184,1768162,1512,572,46718,9352016237,036391,82686,969246,233393,89636,22119,904654,932399,09096,605 (a)228,5381,2391,9022,794,393 (a)19,183 (a)2017 (b)280,646405,778107,397375,374415,38654,39415,703775,466399,453102,914242,6211,18722,2543,198,57220,980
+
+2015 1st Quarter61,25596,47823,03760,05377,85510,1827,259138,89477,55839,44341,824220280634,3384,7922nd Quarter54,39994,52623,79676,51680,61313,10211,341135,62474,24928,99340,245109996634,5074,7553rd Quarter49,985116,21426,20552,24570,88315,5468,366141,31868,67331,71647,044121502628,8164,6404th Quarter55,189112,30727,53955,33482,6159,82812,608148,47789,33125,77655,063366374674,8064,748
+
+2016 1st Quarter57,507102,16113,81745,167100,5387,8385,911149,210102,54622,70153,482272193661,3424,5942nd Quarter54,53390,20924,91672,46893,99311,3564,899160,63095,59419,32056,428198703685,2494,7273rd Quarter59,44599,55619,90550,87593,11710,1184,578156,91192,92425,404 (a)54,788186522668,330 (a)4,590 (a)4th Quarter65,55199,90028,33277,724106,2486,9094,517188,181108,02529,181 (a)63,839583483779,473 (a)5,272 (a)
+
+2017 (b) 1st Quarter76,224100,33818,99194,282100,50312,4582,995193,931103,46124,67258,7803829,053796,0695,2792nd Quarter63,70796,40723,31983,59297,53112,1512,943167,66496,39525,94060,89033210,773741,6454,8703rd Quarter63,17598,83829,34696,812105,99315,6364,911187,43695,43825,13259,4662421,368783,7945,1154th Quarter77,539110,19535,740100,688111,35914,1484,854226,435104,15927,17063,4862311,060877,0645,716
+
+2016 January 17,07832,3726,52214,61636,1106,1931,69750,18436,7737,56619,42713270228,7391,589February17,64332,0943,59214,41632,3881,4632,36749,97530,2607,60015,2387547207,1581,439March22,78637,6953,70316,13432,0391821,84749,05135,5137,53518,8186576225,4441,566April16,88728,6214,38821,77028,5387,3571,87048,15930,6275,37516,36949213210,2221,461May17,69030,1024,86622,18334,1663,1382,08957,57232,3307,14320,02648209231,5601,590June19,95631,48615,66228,51531,29086294054,90032,6386,80220,033101282243,4671,676July17,56829,4594,92615,53928,7931,21054551,45432,6688,29017,58180226208,3391,433August20,76336,5669,98116,06632,0343,3602,99455,53331,8719,66020,98649245240,1091,649September21,11433,5314,99719,27132,2905,5481,03849,92428,3857,453 (a)16,2215752219,882 (a)1,508 (a)October23,47131,92311,01224,11034,1382,81779559,16334,59711,147 (a)19,69968198253,138 (a)1,724 (a)November20,85536,4685,16320,99638,1772732,63663,21636,0429,78922,091127119255,9511,732December21,22531,50912,15632,61833,9343,8191,08665,80237,3868,24522,050388167270,3841,816
+
+2017 (b) January 21,55432,3006,29730,73137,9734,60362562,45437,6106,64320,4082178,596270,0121,799February22,34129,42412,69532,24128,1491,9751,35260,43929,8357,57816,8695734242,9911,611March32,32938,613-31,30934,3805,8811,01871,03736,01610,45121,503109423283,0671,869April18,80633,56312,36731,04729,4295,33642255,81328,1817,83220,38213592243,4041,604May24,81733,6095,50827,33534,6295,70168457,86934,5609,58620,873687,499262,7391,725June20,08429,2355,44425,20933,4731,1141,83753,98133,6548,52219,6361293,183235,5021,541July20,45830,9355,35027,76936,4074,8301,62662,60129,9586,93017,09684457244,5031,591August22,65437,67111,78635,65536,3684,7932,19465,59034,3659,15023,575119546284,4641,857September20,06330,23212,21133,38833,2186,0141,09159,24531,1159,05218,79439365254,8271,667October22,86235,8186,38527,03637,1724,7821,62768,60431,5679,39619,22082625265,1761,727November26,87635,77514,70528,45938,5798,94775173,35337,4278,90424,2248275298,1591,940December27,80138,60214,65045,19335,6084202,47784,47835,1658,87020,04166361313,7292,048
+
+(a) Revised(b) ProvisionalSources: Ceylon Petroleum CorporationLanka IOC PLCPrima Ceylon Ltd.Serendib Flour Mills (Pvt) Ltd.Sri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 80
+
+Imports by Major Categories
+
+Category Value in Rs. million Value in US$ million Percentage of Total Imports20132014201520162017 (a)20132014201520162017 (a)2013201420152016 (b) 2017 (a)
+
+1. Consumer Goods 410,996 503,021 640,352 628,862 686,424 3,182 3,853 4,713 4,319 4,503 17.719.824.922.521.5
+
+1.1 Food and Beverages 176,423 213,308 220,828 237,036 280,646 1,368 1,634 1,628 1,627 1,841 7.68.48.68.58.8Lentils 13,434 15,818 20,108 20,297 17,405 104 121 148 139 114 0.60.60.80.70.5Onions 12,892 8,529 16,619 14,553 18,821 100 65 122 100 123 0.60.30.60.50.6Sugar 37,187 33,332 34,164 49,919 39,041 289 255 253 343 256 1.61.31.31.81.2Rice 2,297 36,795 17,956 1,872 45,881 18 282 135 13 301 0.11.50.70.11.4Flour 237 270 277 255 300 2 2 2 2 2 ……………Milk and Milk Products 37,572 44,308 34,088 36,338 48,145 291 339 251 249 316 1.61.71.31.31.5Fish 20,881 18,462 29,799 34,130 32,685 162 141 218 234 214 0.90.71.21.21.0Oil and Fats 7,638 2,629 4,541 5,229 7,010 59 20 33 36 46 0.30.10.20.20.2Spices 10,308 12,822 15,425 19,199 14,132 80 98 113 132 93 0.40.50.60.70.4Other 33,977 40,343 47,852 55,243 57,227 263 309 352 379 375 1.51.61.92.01.8
+
+1.2 Other Consumer Goods 234,573 289,713 419,524 391,826 405,778 1,814 2,219 3,086 2,692 2,661 10.111.416.314.012.7Vehicles 75,419 117,076 184,683 115,618 117,811 582 897 1,360 795 773 3.24.67.24.13.7Home Appliances - Radio Receivers and Television Sets 13,324 11,237 16,358 19,760 21,462 103 86 120 136 141 0.60.40.60.70.7
+
+Household and Furniture Items 16,170 17,470 20,400 26,530 28,405 125 134 150 182 186 0.70.70.80.90.9Rubber Products 11,345 11,745 15,546 16,307 14,373 88 90 114 112 94 0.50.50.60.60.4Medical and Pharmaceutical Products 48,845 49,685 62,498 76,547 79,299 378 381 460 526 520 2.12.02.42.72.5Other 69,471 82,501 120,039 137,063 144,428 538 632 882 941 948 3.03.34.74.94.5
+
+2. Intermediate Goods 1,361,740 1,488,091 1,309,234 1,438,156 1,743,719 10,554 11,398 9,638 9,870 11,436 58.658.750.951.554.5Fertiliser 30,972 35,591 39,573 19,904 15,703 239 272 290 137 103 1.31.41.50.70.5Fuel 555,930 600,150 366,339 361,895 522,470 4,308 4,597 2,700 2,481 3,428 23.923.714.312.916.3Chemical Products 94,781 105,532 118,197 124,706 127,232 734 808 870 856 834 4.14.24.64.54.0Wheat and Maize 41,551 52,844 48,658 36,221 54,394 323 405 357 249 357 1.82.11.91.31.7Textiles and Textile Articles 264,302 303,907 311,965 393,896 415,386 2,046 2,328 2,296 2,705 2,724 11.412.012.114.113.0Diamonds, Precious Stones and Metals 61,733 22,910 21,762 75,082 117,845 483 175 162 514 772 2.70.90.92.73.7Base Metals 52,420 62,443 63,832 66,610 95,895 406 478 471 456 629 2.32.52.52.43.0Vehicle and Machinery Parts 27,147 29,755 35,851 40,973 44,908 210 228 264 281 295 1.21.21.41.51.4Paper and Paperboards 49,091 63,992 64,851 70,897 73,927 380 490 477 487 485 2.12.52.52.52.3Other 183,815 210,967 238,205 247,972 275,961 1,425 1,616 1,752 1,703 1,809 7.98.39.38.98.6
+
+3. Investment Goods 548,604 542,169 620,730 725,473 (b) 746,175 4,253 4,152 4,567 4,981 (b) 4,895 23.621.424.126.023.3Building Materials 175,054 170,901 184,176 228,538 242,621 1,357 1,309 1,352 1,569 1,591 7.56.77.18.27.6Transport Equipment 86,170 92,367 125,927 96,605 (b) 102,914 668 707 931 663 (b) 675 3.73.64.93.53.2Machinery and Equipment 286,631 278,257 309,811 399,090 399,453 2,222 2,131 2,278 2,741 2,621 12.311.012.014.312.5Other 748 644 816 1,239 1,187 6 5 6 8 8 ……………
+
+4. Unclassified Imports 1,788 1,882 2,151 1,902 22,254 14 14 16 13 147 0.10.10.10.10.7
+
+5. Total Imports 2,323,128 2,535,163 2,572,467 2,794,393 (b) 3,198,572 18,003 19,417 18,935 19,183 (b) 20,980 100.0100.0100.0100.0100.0
+
+(a) Provisional(b) RevisedSources: Ceylon Petroleum Corporation
+
+Lanka IOC PLC
+
+Prima Ceylon Ltd.
+
+Serendib Flour Mills (Pvt) Ltd.
+
+Sri Lanka Customs Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTable 81
+
+Import Performance based on Standard International Trade Classification (SITC) (a)
+
+Period
+
+Import (Rs. million)
+
+Total Imports (US$ million)Food andLive AnimalsBeveragesand Tobacco
+
+CrudeMaterials,Inedible,except Fuels
+
+Mineral Fuels, Lubricants and Related Materials
+
+Animal and Vegetable Oils, Fats and Waxes
+
+Chemicals and Related Products,n.e.s.
+
+Manufactured Goods Classified Chiefly by Material
+
+Machinery andTransport Equipment
+
+Miscellaneous Manufactured Articles
+
+Commodities andTransactions Not Classified Elsewhere in the SITC
+
+TotalImports
+
+2014 290,216 15,203 52,099 600,155 20,156 269,288 643,112 523,624 116,867 4,443 2,535,163 19,417 2015 293,168 18,589 70,672 366,344 19,876 303,471 671,130 683,464 137,324 8,429 2,572,467 18,935 2016 295,078 20,332 77,808 361,893 16,411 310,623 809,769 680,855 163,260 58,363 2,794,393 19,183 2017 (b) 365,562 17,691 77,804 522,469 28,625 317,027 879,467 699,063 186,927 103,937 3,198,572 20,980
+
+20151st Quarter 76,671 5,431 16,079 93,807 4,314 69,013 158,445 170,779 35,661 4,137 634,338 4,792 2nd Quarter 72,583 4,999 12,627 102,009 6,231 74,939 169,312 156,502 32,381 2,925 634,507 4,755 3rd Quarter 72,363 3,898 23,251 79,782 3,888 76,244 161,273 175,805 31,608 704 628,816 4,640 4th Quarter 71,551 4,260 18,715 90,745 5,444 83,275 182,101 180,378 37,674 662 674,806 4,748
+
+20161st Quarter 72,226 4,279 17,176 69,911 4,781 75,714 191,252 177,894 40,724 7,384 661,342 4,594 2nd Quarter 70,340 4,358 23,460 100,349 4,292 79,796 193,257 159,172 35,089 15,135 685,249 4,727 3rd Quarter 74,302 6,392 18,014 72,707 3,697 73,670 198,830 161,895 43,294 15,529 668,330 4,590 4th Quarter 78,210 5,302 19,158 118,926 3,639 81,443 226,430 181,895 44,153 20,315 779,473 5,272
+
+2017 (b)1st Quarter 95,438 3,761 19,096 133,063 7,347 77,207 208,843 178,985 48,497 23,833 796,069 5,279 2nd Quarter 83,119 4,051 18,893 112,921 6,665 74,668 202,677 165,745 52,901 20,004 741,645 4,870 3rd Quarter 86,273 4,846 20,361 126,678 7,706 78,357 223,580 168,277 41,637 26,077 783,794 5,115 4th Quarter 100,731 5,032 19,453 149,807 6,906 86,796 244,368 186,056 43,893 34,022 877,064 5,716
+
+2016January 25,301 1,155 6,447 25,164 2,013 24,408 67,368 60,958 13,506 2,420 228,739 1,589 February 21,179 1,699 5,487 21,418 1,205 24,889 60,613 54,171 12,712 3,785 207,158 1,439 March 25,747 1,424 5,241 23,329 1,563 26,417 63,271 62,765 14,507 1,180 225,444 1,566 April 25,582 1,337 5,803 28,902 1,065 25,494 56,198 50,805 10,870 4,166 210,222 1,461 May 22,222 1,592 10,672 27,251 1,947 27,847 67,755 54,663 11,719 5,892 231,560 1,590 June 22,536 1,429 6,985 44,196 1,280 26,455 69,305 53,704 12,500 5,077 243,467 1,676 July 20,746 1,424 5,895 20,698 1,558 23,610 64,298 53,703 12,809 3,598 208,339 1,433 August 25,426 2,654 6,470 26,301 1,225 27,112 71,329 57,543 15,165 6,884 240,109 1,649 September 28,130 2,313 5,649 25,708 915 22,948 63,203 50,649 15,319 5,047 219,882 1,508 October 27,550 2,031 7,540 37,266 1,939 26,071 68,255 60,915 12,946 8,625 253,138 1,724 November 23,079 1,851 5,963 32,794 891 29,841 80,689 62,704 15,042 3,098 255,951 1,732 December 27,581 1,421 5,656 48,866 809 25,531 77,486 58,276 16,166 8,592 270,384 1,816
+
+2017 (b) January 28,488 1,288 6,351 42,443 1,875 24,362 72,897 59,590 22,875 9,843 270,012 1,799 February 26,577 1,093 5,395 53,479 2,005 23,954 59,758 51,820 11,707 7,204 242,991 1,611 March 40,373 1,381 7,351 37,141 3,468 28,890 76,189 67,575 13,915 6,785 283,067 1,869 April 26,028 1,038 5,235 49,416 1,982 22,977 63,390 49,962 16,886 6,490 243,404 1,604 May 33,541 1,323 7,864 32,852 3,090 25,293 71,590 60,536 20,744 5,907 262,739 1,725 June 23,550 1,690 5,794 30,653 1,593 26,398 67,697 55,247 15,271 7,608 235,502 1,541 July 27,641 1,256 7,575 33,173 3,287 25,626 70,916 52,157 12,611 10,260 244,503 1,591 August 30,353 1,680 6,494 47,867 2,141 28,798 79,248 60,985 16,330 10,568 284,464 1,857 September 28,279 1,910 6,293 45,638 2,278 23,933 73,416 55,135 12,696 5,250 254,827 1,667 October 30,443 1,375 6,446 36,369 1,952 29,022 76,892 57,472 14,870 10,336 265,176 1,727 November 38,465 1,976 6,561 47,084 3,267 28,954 82,383 63,885 14,328 11,255 298,159 1,940 December 31,824 1,681 6,447 66,355 1,686 28,820 85,093 64,699 14,695 12,431 313,729 2,048
+
+(a) Data is compiled based on the latest version of SITC - Revision 4 published in 2006.(b) Provisional
+
+Sources: Ceylon Petroleum CorporationLanka IOC PLCSri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTable 82
+
+Composition of Imports based on SITC (a)
+
+CategoryRs. millionUS$ million2014201520162017 (b)2014201520162017 (b)
+
+0. Food and Live Animals 290,216 293,168 295,078 365,562 2,223 2,159 2,027 2,398 00 Live Animals other than Animals of Division 03 309 1,398 572 2,947 2 10 4 19 01 Meat and Meat Preparations 527 553 578 937 4 4 4 6 02 Dairy Products and Birds’ Eggs 44,471 34,296 36,752 48,485 341 252 252 318 03 Fish, Crustaceans, Molluscs and Aquatic Invertebrates and Preparations There of 18,930 30,395 34,755 33,495 145 223 239 220 04 Cereals and Cereal Preparations 91,444 68,793 39,847 102,529 700 508 274 672 05 Vegetables and Fruit 49,334 65,680 66,367 70,421 378 483 456 462 06 Sugars, Sugar Preparations and Honey 33,576 34,442 50,241 39,333 257 255 345 258 07 Coffee, Tea, Cocoa, Spices and Manufactures There of 17,721 21,406 26,047 22,243 136 157 179 146 08 Feeding Stuff for Animals 19,841 19,952 21,337 24,452 152 147 147 160 09 Miscellaneous Edible Products and Preparations 14,063 16,253 18,581 20,719 108 120 128 136
+
+1. Beverages and Tobacco 15,203 18,589 20,332 17,691 116 137 140 116 11 Beverages 5,578 6,750 9,972 6,995 43 50 68 46 12 Tobacco and Tobacco Manufactures 9,624 11,839 10,359 10,696 74 87 71 70
+
+2. Crude Materials, Inedible, except Fuels 52,099 70,672 77,808 77,804 399 520 534 510 21 Hides, Skins, Furskins, Raw 15 26 28 10 ............22 Oil-seeds and Oleaginous Fruits 802 2,210 2,133 2,242 6 16 15 15 23 Crude Rubber 19,753 30,392 33,693 36,603 151 224 231 240 24 Cork and Wood 7,346 8,160 10,871 10,372 56 60 75 68 25 Pulp and Waste Paper 218 323 428 415 2 2 3 3 26 Textile Fibres and Their Wastes 7,353 11,514 9,216 6,762 56 85 63 44 27 Crude Fertilisers, other than those of Division 56, and Crude Minerals 10,395 10,757 13,303 12,976 80 79 91 85 28 Metalliferous Ores and Metal Scrap 1,235 1,169 1,539 1,718 9 9 11 11 29 Crude Animal and Vegetable Materials, n.e.s. 4,983 6,121 6,598 6,706 38 45 45 44
+
+3. Mineral Fuels, Lubricants and Related Materials 600,155 366,344 361,893 522,469 4,597 2,700 2,481 3,428 32 Coal, Coke and Briquettes 20,739 21,613 28,692 39,699 159 159 197 261 33 Petroleum, Petroleum Products and Related Materials 554,799 323,136 310,343 449,474 4,250 2,382 2,127 2,948 34 Gas, Natural and Manufactured 24,617 21,595 22,858 33,297 189 159 157 218
+
+4. Animal and Vegetable Oils, Fats and Waxes 20,156 19,876 16,411 28,625 154 146 113 188 41 Animal Oils and Fats 507 479 534 601 4 3 4 4 42 Fixed Vegetable Fats and Oils, Crude, Refined or Fractionated 17,415 16,943 13,653 25,977 133 125 94 170
+
+43 Animal or Vegetable Fats and Oils, Processed; Waxes of Animal or Vegetable Origin; Inedible Mixtures or Preparations of Animal or Vegetable Fats or Oils, n.e.s. 2,233 2,454 2,224 2,047 17 18 15 13
+
+5. Chemicals and Related Products, n.e.s. 269,288 303,471 310,623 317,027 2,062 2,231 2,133 2,079 51 Organic Chemicals 27,982 30,072 31,335 33,704 214 222 215 221 52 Inorganic Chemicals 19,447 24,012 21,259 21,636 149 177 146 142 53 Dyeing, Tanning and Colouring Material 18,668 20,155 24,267 24,818 143 148 167 163 54 Medicinal and Pharmaceutical Products 45,870 57,556 69,888 72,424 351 424 480 475 55 Essential Oils, Resinoids, Perfume Materials; Toilet, Polishing and Cleansing Preparations 12,500 14,753 20,180 19,253 96 109 139 126 56 Fertilisers 35,561 39,561 19,887 15,683 272 290 137 103 57 Plastics in Primary Forms 55,370 58,908 61,651 65,951 424 433 423 432 58 Plastics in Non-Primary Forms 21,807 22,407 23,070 24,434 167 165 158 160 59 Chemical Materials and Products, n.e.s. 32,082 36,047 39,087 39,124 246 265 268 257
+
+6. Manufactured Goods Classified Chiefly by Material 643,112 671,130 809,769 879,467 4,925 4,937 5,558 5,767 61 Leather, Leather Manufactures, n.e.s., and Dressed Furskins 2,249 2,324 2,666 2,832 17 17 18 19 62 Rubber Manufactures, n.e.s. 17,171 23,529 23,609 22,285 131 173 162 146 63 Cork and Wood Manufactures 4,461 5,270 6,667 6,911 34 39 46 45 64 Paper, Paperboard and Articles of Paper Pulp, of Paper or of Paperboard 59,447 62,684 66,569 70,273 455 461 457 461 65 Textile Yarn, Fabrics, Made-up Articles, n.e.s., and Related Products 291,491 297,986 380,296 405,734 2,232 2,193 2,612 2,661 66 Non-metallic Mineral Manufactures, n.e.s. 103,118 99,769 123,701 124,617 790 733 849 817 67 Iron and Steel 84,904 90,881 100,030 139,096 650 669 685 912 68 Non-ferrous Metals 24,379 22,975 26,441 32,663 187 169 182 214 69 Manufactures of Metals, n.e.s. 55,892 65,713 79,790 75,056 428 483 548 492
+
+7. Machinery and Transport Equipment 523,624 683,464 680,855 699,063 4,010 5,031 4,676 4,586 71 Power-generating Machinery and Equipment 30,168 29,243 44,048 31,304 231 217 303 205 72 Machinery Specialised for Particular Industries 64,786 88,674 103,401 99,980 496 651 710 656 73 Metalworking Machinery 3,696 5,286 6,034 7,209 28 39 41 47 74 General Industrial Machinery and Equipment and Machine Parts, n.e.s. 70,953 72,229 91,410 94,719 543 531 628 621 75 Office Machines and Automatic Data-processing Machines 27,368 30,057 37,483 39,197 210 220 257 257 76 Telecommunications and Sound-recording and Reproducing Apparatus and Equipment 53,040 75,805 93,171 101,789 406 556 640 668 77 Electrical Machinery, Apparatus and Appliances, n.e.s. and Electrical Parts Thereof 56,107 62,629 88,917 97,894 430 460 610 642 78 Road Vehicles 192,536 304,897 208,907 218,473 1,474 2,247 1,435 1,433 79 Other Transport Equipment 24,971 14,642 7,484 8,498 191 109 51 56
+
+8. Miscellaneous Manufactured Articles 116,867 137,324 163,260 186,927 895 1,010 1,121 1,227 81 Prefabricated Buildings; Sanitary, Plumbing, Heating, Lighting Fixtures and Fittings, n.e.s. 7,472 6,505 8,917 9,450 57 48 61 62 82 Furniture and Parts Thereof; Bedding, Mattresses, Mattress Supports, Cushions and Similar Stuffed Furnishings 3,741 3,669 6,531 6,186 29 27 45 41
+
+83 Travel Goods, Handbags and Similar Containers 815 1,145 1,359 1,752 6 8 9 11 84 Articles of Apparel and Clothing Accessories 32,752 46,257 45,954 47,879 251 340 316 314 85 Footwear 4,231 5,977 6,955 7,272 32 44 48 48 87 Professional, Scientific and Controlling Instruments and Apparatus, n.e.s. 21,617 23,275 30,169 30,764 166 171 207 202 88 Photographic Apparatus, Equipment and Supplies and Optical Goods, n.e.s.; Watches and Clocks 5,128 5,910 6,670 7,220 39 43 46 47 89 Miscellaneous Manufactured Articles, n.e.s. 41,111 44,586 56,706 76,406 315 328 389 502
+
+9. Commodities and Transactions Not Classified Elsewhere in SITC 4,443 8,429 58,363 103,937 34 63 400 681 91 Postal Packages Not Classified according to Kind 21 18 20 21 ............93 Special Transactions and Commodities Not Classified according to Kind 1,724 2,016 1,886 3,656 13 15 13 24 96 Coin, Not being Legal Tender 1,175 756 1,839 1,131 9 6 13 7 97 Gold, Non-monetary (excluding Gold Ores and Concentrates) 1,522 5,639 54,618 99,128 12 42 374 650
+
+Total Imports 2,535,163 2,572,467 2,794,393 3,198,572 19,417 18,935 19,183 20,980
+
+(a) Data is compiled based on the latest version of SITC - Revision 4 published in 2006.(b) Provisional
+
+Note: First digit indicates the ‘section’ and first two digits indicate the ‘division’ of SITC.
+
+Sources: Ceylon Petroleum Corporation Lanka IOC PLCSri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 83
+
+Exports and Imports of Major Commodities
+
+Item Value in RupeesValue in US$
+
+20132014201520162017 (a)20132014201520162017 (a)
+
+EXPORTS
+
+Tea Quantity (mn kg) 320327307289289320327307289289 Value (mn) 199,446212,588182,054184,778233,3381,5421,6281,3401,2691,530 Price (F.O.B./kg) 623.91 649.44 593.08 639.88 807.44 4.824.974.374.395.29
+
+Rubber Quantity (mn kg) 24161016172416101617 Value (mn) 9,1945,916 3,548 4,758 5,920 7145263339 Price (F.O.B./kg)389.81362.83342.03294.33343.563.022.782.522.022.26
+
+Coconut Quantity (mn nuts) 379716 552 765 466 379716552765466 Value (mn) 11,11827,97030,12331,47728,92186214222216190 Price (F.O.B./nut) 29.36 39.08 54.54 41.16 62.03 0.230.300.400.280.41
+
+Petroleum Products (b) Quantity (mt ‘000) 511398908807972511398908807972 Value (mn) 55,12844,13250,46141,79466,280428338374287434 Price (F.O.B./mt) 107,863.96 110,951.90 55,582.67 51,805.83 68,212.96 836.94849.69411.87355.58447.01
+
+Gems (c) Quantity (‘000 carats) 14,39312,68512,11612,1369,40014,39312,68512,11612,1369,400 Value (mn) 16,08421,83121,32220,75021,143125167157 143 139 Price (F.O.B./carat) 1,117.50 1,721.09 1,759.82 1,709.76 2,249.20 8.6613.1812.9511.7414.75
+
+Total Value 290,970 312,437 287,508 283,557 355,603 2,252 2,393 2,119 1,947 2,331
+
+IMPORTS
+
+Rice Quantity (mt ‘000) 23 600 286 30 748 23 600 286 30 748 Value (mn) 2,297 36,795 17,956 1,872 45,881 18 282 135 13 301 Price (C.I.F./mt) 100,027.85 61,322.36 62,870.34 63,398.07 61,355.01 779.53 469.45 473.21 434.69 402.41
+
+Wheat (b) Quantity (mt ‘000) 895 1,179 1,208 948 1,250 895 1,179 1,208 948 1,250 Value (mn) 40,098 48,430 44,994 33,536 46,239 312 371 331 231 303 Price (C.I.F./mt) 44,824.24 41,092.42 37,251.72 35,390.85 37,003.23 348.78 314.70 273.67 243.41 242.66
+
+Sugar Quantity (mt ‘000) 548 520 624 651 498 548 520 624 651 498 Value (mn) 37,187 33,332 34,164 49,919 39,041 289 255 253 343 256 Price (C.I.F./mt) 67,904.08 64,142.28 54,753.25 76,659.73 78,402.39 527.61 491.57 404.69 525.97 514.50
+
+Crude Oil (b) Quantity (mn bbls) 13 14 13 13 12 13 14 13 13 12 Value (mn) 182,064 187,760 100,578 86,969 107,397 1,413 1,438 739 596 704 Price (C.I.F./bbl) 14,150.99 13,646.10 7,458.57 6,756.69 8,816.61 109.84 104.53 54.80 46.30 57.79
+
+Fertiliser Quantity (mt ‘000) 600 765 873 527 399 600 765 873 527 399 Value (mn) 30,972 35,591 39,573 19,904 15,703 239 272 290 137 103 Price (C.I.F./mt) 51,586.05 46,548.93 45,337.75 37,752.60 39,401.88 397.49 356.27 331.80 259.57 258.03
+
+Total Value 292,617 341,908 237,266 192,200 254,261 2,271 2,619 1,747 1,319 1,667
+
+(a) Provisional(b) Adjusted (c) As reported by National Gem and Jewellery Authority (Excluding Rough Imports and Re-exports (RIE) and Geuda)
+
+Sources: Ceylon Petroleum Corporation Lanka IOC PLC and Other Exporters of Petroleum National Gem and Jewellery Authority Prima Ceylon Ltd. Serendib Flour Mills (Pvt) Ltd.Sri Lanka Customs Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 84Direction of Trade - Exports (a)Value in US$ million
+
+Countries20132014201520162017 (b)ValueShare (%)ValueShare (%)ValueShare (%)ValueShare (%)ValueShare (%)
+
+Largest Export DestinationsUnited States of America 2,494 24.0 2,731 24.5 2,810 26.6 2,810 27.3 2,909 25.6 United Kingdom 1,078 10.4 1,116 10.0 1,029 9.8 1,044 10.1 1,036 9.1 India 544 5.2 625 5.6 643 6.1 554 5.4 691 6.1 Germany 468 4.5 498 4.5 476 4.5 500 4.9 540 4.8 Italy 511 4.9 614 5.5 434 4.1 430 4.2 524 4.6 Belgium - Luxembourg 449 4.3 316 2.8 283 2.7 338 3.3 347 3.1 United Arab Emirates 237 2.3 277 2.5 276 2.6 234 2.3 275 2.4 China, People's Republic of 131 1.3 188 1.7 308 2.9 211 2.0 247 2.2 Turkey 192 1.8 260 2.3 180 1.7 151 1.5 233 2.1 Netherlands 191 1.8 243 2.2 220 2.1 208 2.0 221 1.9
+
+Other Export DestinationsAustralia 156 1.5 164 1.5 160 1.5 166 1.6 189 1.7 Azerbaijan 52 0.5 56 0.5 47 0.4 47 0.5 65 0.6 Bangladesh 82 0.8 90 0.8 93 0.9 112 1.1 122 1.1 Brazil 63 0.6 55 0.5 44 0.4 44 0.4 54 0.5 Canada 152 1.5 172 1.5 181 1.7 180 1.7 210 1.8 Chile 35 0.3 44 0.4 38 0.4 39 0.4 50 0.4 Denmark 28 0.3 30 0.3 29 0.3 26 0.3 36 0.3 France 195 1.9 264 2.4 193 1.8 157 1.5 172 1.5 Hong Kong 131 1.3 141 1.3 136 1.3 139 1.3 170 1.5 Hungary 5 0.1 9 0.1 12 0.1 23 0.2 33 0.3 Indonesia 37 0.4 45 0.4 35 0.3 42 0.4 47 0.4 Iran 205 2.0 181 1.6 156 1.5 173 1.7 177 1.6 Iraq 90 0.9 92 0.8 105 1.0 112 1.1 147 1.3 Ireland, Republic of 43 0.4 50 0.4 35 0.3 37 0.4 43 0.4 Israel 100 1.0 130 1.2 118 1.1 90 0.9 82 0.7 Japan 224 2.2 237 2.1 216 2.0 202 2.0 209 1.8 Jordan 44 0.4 45 0.4 38 0.4 33 0.3 40 0.4 Kuwait 59 0.6 53 0.5 40 0.4 29 0.3 33 0.3 Lebanon 20 0.2 27 0.2 25 0.2 31 0.3 37 0.3 Libya 22 0.2 46 0.4 33 0.3 46 0.4 53 0.5 Malaysia 47 0.5 45 0.4 37 0.3 36 0.3 54 0.5 Maldives 59 0.6 88 0.8 77 0.7 95 0.9 108 1.0 Mexico 102 1.0 112 1.0 106 1.0 132 1.3 165 1.4 Pakistan 83 0.8 74 0.7 73 0.7 64 0.6 74 0.7 Philippines 8 0.1 34 0.3 17 0.2 15 0.1 37 0.3 Poland 47 0.5 53 0.5 43 0.4 46 0.4 48 0.4 Russia 280 2.7 274 2.5 194 1.8 182 1.8 210 1.8 Saudi Arabia 64 0.6 73 0.7 81 0.8 65 0.6 76 0.7 Singapore 105 1.0 141 1.3 83 0.8 114 1.1 189 1.7 South Africa 31 0.3 33 0.3 32 0.3 33 0.3 42 0.4 South Korea 78 0.8 73 0.7 64 0.6 69 0.7 63 0.6 Spain 67 0.6 65 0.6 76 0.7 82 0.8 74 0.7 Sweden 61 0.6 71 0.6 64 0.6 69 0.7 78 0.7 Switzerland 107 1.0 130 1.2 97 0.9 98 1.0 97 0.9 Syria 97 0.9 62 0.6 48 0.5 55 0.5 42 0.4 Taiwan 31 0.3 39 0.4 44 0.4 39 0.4 50 0.4 Thailand 66 0.6 68 0.6 53 0.5 48 0.5 56 0.5 Vietnam 42 0.4 74 0.7 73 0.7 95 0.9 100 0.9 Other 978 9.4 822 7.4 891 8.4 767 7.4 805 7.1
+
+European Union (EU) (c) 3,273 31.5 3,492 31.4 3,024 28.7 3,101 30.1 3,301 29.1
+
+Asian Clearing Union (ACU) (d) 979 9.4 1,064 9.6 1,048 9.9 1,001 9.7 1,177 10.4
+
+SAARC Region (e) 773 7.4 882 7.9 891 8.4 827 8.0 998 8.8
+
+Middle East (f) 1,117 10.7 1,210 10.9 1,068 10.1 965 9.4 1,157 10.2
+
+APTA Region (g) 835 8.0 978 8.8 1,109 10.5 950 9.2 1,126 9.9
+
+BIMSTEC (h) 698 6.7 789 7.1 795 7.5 717 7.0 873 7.7
+
+CIS Countries (i) 419 4.0 403 3.6 284 2.7 274 2.7 324 2.9
+
+(a) The countries which are not mentioned have relatively smaller value of exports.(b) Provisional(c) Members of the European Union are Austria, Belgium-Luxembourg, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Malta, Netherlands, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden and UK.(d) Members of the Asian Clearing Union are Bangladesh, Bhutan, India, Iran, Maldives, Myanmar, Nepal, Pakistan and Sri Lanka.(e) South Asian Association for Regional Co-operation. Its members are Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.(f) Middle Eastern countries are Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Oman, Palestine, Qatar, Saudi Arabia, Syria, Turkey, UAE and Yemen.(g) Asia-Pacific Trade Agreement. Its members are Bangladesh, China, India, Laos, Mongolia, South Korea and Sri Lanka.(h) Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. Its members are Bangladesh, Bhutan, India, Myanmar, Nepal, Thailand and Sri Lanka.(i) Members of the Commonwealth of Independent States are Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine and Uzbekistan.
+
+Sources: National Gem and Jewellery AuthoritySri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 85
+
+Direction of Trade - Imports (a)
+
+Value in US$ million
+
+Countries20132014201520162017 (b)Value Share (%)Value Share (%) Value Share (%) Value Share (%) (c) Value Share (%)
+
+Largest Import OriginsIndia 3,171 17.6 4,023 20.7 4,268 22.5 3,815 19.9 4,527 21.6 China, People's Republic of 2,953 16.4 3,494 18.0 3,712 19.6 3,996 (c) 20.8 3,955 18.9 United Arab Emirates 1,179 6.6 1,838 9.5 1,067 5.6 1,119 5.8 1,697 8.1 Singapore 1,682 9.3 1,260 6.5 1,063 5.6 1,175 6.1 1,352 6.4 Japan 668 3.7 941 4.8 1,389 7.3 950 5.0 1,038 4.9 Malaysia 570 3.2 745 3.8 508 2.7 638 3.3 638 3.0 Thailand 437 2.4 442 2.3 497 2.6 515 2.7 518 2.5 United States of America 416 2.3 492 2.5 471 2.5 539 2.8 492 2.3 Taiwan 435 2.4 443 2.3 460 2.4 496 2.6 482 2.3 Hong Kong 430 2.4 351 1.8 365 1.9 466 2.4 422 2.0
+
+Other Import OriginsAustralia 213 1.2 237 1.2 269 1.4 196 1.0 246 1.2 Austria 46 0.3 62 0.3 81 0.4 100 0.5 67 0.3 Belgium-Luxembourg 220 1.2 121 0.6 148 0.8 72 0.4 79 0.4 Brazil 128 0.7 129 0.7 127 0.7 193 1.0 125 0.6 Canada 229 1.3 310 1.6 293 1.5 252 1.3 227 1.1 Denmark 57 0.3 62 0.3 43 0.2 61 0.3 45 0.2 France 131 0.7 163 0.8 117 0.6 148 0.8 160 0.8 Germany 384 2.1 327 1.7 347 1.8 435 2.3 400 1.9 Indonesia 439 2.4 451 2.3 459 2.4 388 2.0 373 1.8 Israel 76 0.4 70 0.4 52 0.3 81 0.4 67 0.3 Italy 252 1.4 265 1.4 209 1.1 276 1.4 305 1.5 Maldives 13 0.1 10 0.1 23 0.1 90 0.5 164 0.8 Myanmar 9 … 30 0.2 21 0.1 32 0.2 80 0.4 Netherland 86 0.5 84 0.4 115 0.6 113 0.6 78 0.4 New Zealand 219 1.2 253 1.3 185 1.0 196 1.0 287 1.4 Oman 772 4.3 560 2.9 189 1.0 32 0.2 78 0.4 Pakistan 378 2.1 280 1.4 297 1.6 304 1.6 349 1.7 Qatar 53 0.3 57 0.3 36 0.2 30 0.2 53 0.3 Russia 149 0.8 260 1.3 241 1.3 200 1.0 175 0.8 Saudi Arabia 88 0.5 110 0.6 116 0.6 135 0.7 150 0.7 South Africa 36 0.2 22 0.1 86 0.5 198 1.0 286 1.4 South Korea 288 1.6 392 2.0 296 1.6 324 1.7 333 1.6 Spain 46 0.3 50 0.3 42 0.2 78 0.4 87 0.4 Sweden 70 0.4 54 0.3 86 0.5 64 0.3 65 0.3 Switzerland 242 1.3 130 0.7 127 0.7 275 1.4 304 1.4 Turkey 40 0.2 51 0.3 50 0.3 69 0.4 85 0.4 Ukraine 29 0.2 5 … 4 … 63 0.3 114 0.5 United Kingdom 281 1.6 290 1.5 364 1.9 327 1.7 268 1.3 Vietnam 181 1.0 192 1.0 245 1.3 270 1.4 281 1.3 Other 906 5.0 360 1.9 466 2.5 469 (c) 2.4 527 2.5
+
+European Union (EU) (d) 1,665 9.2 1,588 8.2 1,684 8.9 1,818 9.5 1,712 8.2
+
+Asian Clearing Union (ACU) (e) 3,608 20.0 4,376 22.5 4,655 24.6 4,278 22.3 5,174 24.7
+
+SAARC Region (f) 3,587 19.9 4,339 22.3 4,626 24.4 4,239 22.1 5,084 24.2
+
+Middle East (g) 2,272 12.6 2,726 14.0 1,562 8.3 1,513 7.9 2,180 10.4
+
+APTA Region(h) 6,437 35.8 7,938 40.9 8,321 43.9 8,174 (c) 42.6 8,867 42.3
+
+BIMSTEC (i) 3,641 20.2 4,521 23.3 4,824 25.5 4,392 22.9 5,169 24.6
+
+CIS Countries (j) 232 1.3 285 1.5 288 1.5 289 1.5 318 1.5
+
+(a) The countries which are not mentioned have relatively smaller value of imports.(b) Provisional(c) Revised(d) Members of the European Union are Austria, Belgium-Luxembourg, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Malta, Netherlands, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden and UK.(e) Members of the Asian Clearing Union are Bangladesh, Bhutan, India, Iran, Maldives, Myanmar, Nepal, Pakistan and Sri Lanka.(f) South Asian Association for Regional Co-operation. Its members are Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.(g) Middle Eastern countries are Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Oman, Palestine, Qatar, Saudi Arabia, Syria, Turkey, UAE and Yemen.(h) Asia-Pacific Trade Agreement. Its members are Bangladesh, China, India, Laos, Mongolia, South Korea and Sri Lanka.(i) Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. Its members are Bangladesh, Bhutan, India, Myanmar, Nepal, Thailand and Sri Lanka.(j) Members of the Commonwealth of Independent States are Armenia, Azerbaijan, Belarus, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine and Uzbekistan.
+
+Sources: Ceylon Petroleum CorporationLanka IOC PLCPrima Ceylon Ltd.Serendib Flour Mills (Pvt) Ltd.Sri Lanka CustomsCentral Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 86
+
+Performance in the Tourism Sector Item20132014201520162017 (a)
+
+1. Tourist Arrivals (No.)1,274,5931,527,1531,798,3802,050,8322,116,407
+
+1.1 Arrivals by Region Western Europe421,037479,007552,442643,333680,901France64,38878,88386,12696,44097,282Germany85,470102,977115,868133,275130,227Italy17,98221,11624,29329,79131,428Netherlands22,28124,19632,74241,37351,148United Kingdom137,416144,168161,845188,159201,879Other93,500107,667131,568154,295168,937
+
+Eastern Europe125,695154,153148,458161,171161,967Russia51,23569,71861,84658,17659,191Ukraine38,60729,88223,85331,30232,346Other35,85354,55362,75971,69370,430 North America65,61672,65384,94398,376104,375Canada30,92633,28237,73244,12246,896United States of America34,69039,37147,21154,25457,479
+
+East Asia 183,097280,511362,857425,161444,310China54,288128,166214,783271,577268,952Indonesia17,295 (b)29,55823,30516,04725,806Japan31,505 (b)39,13639,35843,11044,988Malaysia19,181 (b)23,17822,77224,72726,414Other60,828 (b)60,47362,63969,70078,150 South Asia 326,556370,299459,415513,536518,085India208,795242,734316,247356,729384,628Maldives79,47486,35990,61795,16779,371Pakistan25,33625,42432,30029,96531,815Other12,95115,78220,25131,67522,271
+
+Australasia60,83665,25271,67283,85192,003Australia54,25257,94063,55474,49681,281New Zealand6,1746,8807,7629,04510,332Other410432356310390 Other Regions91,756105,278118,593125,404114,766 1.2 Arrivals by Purpose of VisitPleasure915,2081,037,6441,198,2401,710,0271,776,503 Business67,94620,27023,32337,12160,940 Other 291,439469,239576,817303,684278,964 2. Excursionist (Spent less than 24 hours in the country) Arrivals (No.)140,009138,097195,134116,544131,409
+
+3. Accommodation 3.1 Number of Establishments2,0752,8733,0893,3833,634Hotels and Restaurants1,4161,5531,6121,6921,792Travel and Transport Agencies (c)591702760855864Recreational Agencies1015717693Tourist Shops5863667073Other-540580690812
+
+3.2 Capacity in Graded Establishments (d)No. of Units279334 (b)354382 401No. of Rooms16,22318,510 (b)19,376 (b)22,126 (b)23,477No. of Beds (e)32,28436,883 (b)38,370 (b) 46,114 (b)48,008Annual Occupancy Rate (%)71.774.374.574.873.3 3.3 Capacity in Supplementary EstablishmentsNo. of Units6881,265 (b)1,4091,5581,693No. of Rooms7,3739,916 (b)10,70211,53512,509No. of Beds (e)14,45018,340 (b)20,21121,57023,469 4. Employment (No.) (e) 4.1 Direct Employment112,550129,790135,930146,115156,369Managerial17,71019,44519,91621,61323,020Technical, Clerical, Supervisory60,91767,50869,94774,77480,243Manual and Operative33,92342,83746,06749,72853,106
+
+4.2 Indirect Employment 157,600170,100183,506189,544202,846 (a) Provisional(b) Revised(c) Includes Airlines, Travel Agents and Tour Operators(d) Includes boutique hotels from 2016 onwards(e) Estimates
+
+Source: Sri Lanka Tourism Development Authority
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 87
+
+Some Indicators of the Regional Distribution of Tourism (a)
+
+Resort Region
+
+20132014 (b)2015 (b)2016 (b)2017 (c)
+
+Accommodation
+
+Units
+
+No. of
+
+Rooms
+
+Foreign
+
+Guest
+
+Nights
+
+‘000
+
+Accommodation
+
+Units
+
+No. of
+
+Rooms
+
+Foreign
+
+Guest
+
+Nights
+
+‘000
+
+Accommodation
+
+Units
+
+No. of
+
+Rooms
+
+Foreign
+
+Guest
+
+Nights
+
+‘000
+
+Accommodation
+
+Units
+
+No. of
+
+Rooms
+
+Foreign
+
+Guest Nights
+
+‘000
+
+Accommodation
+
+Units
+
+No. of
+
+Rooms
+
+Foreign
+
+Guest
+
+Nights
+
+‘000
+
+All Island27916,2236,79333418,5107,78635419,3768,94538222,12610,59540123,47711,609
+
+Ancient Cities623,1151,360773,5951,391783,6011,495823,9901,821844,0241,894
+
+Colombo City213,1491,353273,6331,733323,9661,907344,3192,213415,3102,806
+
+East Coast145881462084230722895340251,121427271,129444
+
+Greater Colombo 562,8961,284582,8831,283613,0411,541623,1841,560623,2251,630
+
+Hill Country2281533625789335291,035468321,178525361,356623
+
+South Coast1025,6392,3061236,7172,7211286,7873,1741428,2274,0241458,2704,173
+
+North Area22184511545120510725616340
+
+(a) Graded Accommodation (includes boutique hotels from 2016 onwards)(b) Revised(c) Provisional
+
+Source: Sri Lanka Tourism Development Authority
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 88
+
+Balance of Payments - Standard Presentation under BPM6 Format (a)
+
+CURRENT AND CAPITAL ACCOUNT
+
+US$ millionRs. million
+
+2016 (b)2017 (c)2016 (b)2017 (c)
+
+CreditDebit NetCreditDebit NetCreditDebit NetCreditDebit Net
+
+Goods and Services17,44823,442-5,99419,12025,401-6,2812,540,0493,414,338-874,2892,915,1783,872,521-957,343
+
+Goods (d)10,31019,183-8,87311,36020,980-9,6191,500,7662,794,393 -1,293,6271,732,4403,198,572 -1,466,133
+
+General Merchandise10,31018,809-8,49911,36020,330-8,9701,500,7662,739,776 -1,239,0101,732,4403,099,444 -1,367,005
+
+Non-Monetary Gold - 374-374 - 650-650 - 54,617-54,617 - 99,128-99,128
+
+Services7,1384,2592,8797,7604,4213,3381,039,283619,945419,3381,182,738673,949508,790
+
+Transport2,2501,6186322,3761,688688327,581235,60191,980362,199257,247104,952
+
+Sea Transport1,0597792811,096790306154,243113,46140,781167,034120,39946,634
+
+Freight1,0597792811,096790306154,243113,46140,781167,034120,39946,634
+
+Air Transport1,1918403511,280898382173,338122,13951,199195,165136,84858,318
+
+Passenger1,0737533201,158810348156,200109,53346,667176,606123,47053,136
+
+Freight1188731122883417,13812,6074,53118,55913,3785,182
+
+Travel (e)3,5181,5421,9773,9251,5992,326512,373224,451287,922598,143243,758354,385
+
+Construction6329346932379,1954,2514,94410,4844,8475,637
+
+Insurance and Pension Services1218932123942917,61913,0144,60518,79014,3894,401
+
+Financial Services252403-151263415-15236,63358,593-21,96040,13863,332-23,194
+
+Telecommunications and Computer Services858443416926455471124,93464,43660,498141,12669,36371,763
+
+Telecommunications Services134105291401103019,56115,3444,21621,34116,7174,624
+
+Computer Services724337387786345440105,37349,09256,281119,78552,64667,139
+
+Other Business Services4267-254469-256,1069,766-3,6606,69010,555-3,866
+
+Government Goods and Services n.i.e.3368-353469-354,8439,835-4,9915,16810,458-5,290
+
+Primary Income1272,329-2,2021602,515-2,35518,499338,151-319,65224,414382,082-357,668
+
+Compensation of Employees2088-672696-702,95512,753-9,7984,01514,684-10,670
+
+Investment Income1072,241-2,1341342,418-2,28515,545325,399-309,85420,399367,397-346,999
+
+Direct Investment15949-93514934-9202,116138,728-136,6122,149142,688-140,539
+
+Dividends 15500-48514431-4172,11672,754-70,6382,14965,670-63,521
+
+Reinvested Earnings - 450-450 - 503-503 - 65,974-65,974 - 77,018-77,018
+
+Portfolio Investment - 829-829 - 952-952 - 119,412-119,412 - 144,142-144,142
+
+Equity - 73-73 - 80-80 - 10,625-10,625 - 12,129-12,129
+
+Interest - 756-756 - 873-873 - 108,788-108,788 - 132,013-132,013
+
+Short term - 1-1 - 6-6 - 158-158 - 981-981
+
+Long term - 755-755 - 866-866 - 108,630-108,630 - 131,032-131,032
+
+Other Investment45462-41855532-4776,51367,259-60,7468,43580,567-72,131
+
+Reserve Assets47 - 4764 - 646,916 - 6,9169,814 - 9,814
+
+Secondary Income7,2608076,4537,1758486,3271,057,281117,498939,7821,093,607129,291964,316
+
+General Government (f)19 - 1911 - 112,792 - 2,7921,634 - 1,634
+
+Workers’ Remittances7,2428076,4347,1648486,3161,054,489117,498936,9901,091,972129,291962,682
+
+Current Account 24,83526,578-1,74226,45528,764-2,3093,615,8293,869,988-254,1594,033,1984,383,894-350,695
+
+Capital Account5631254029118,2694,5253,7456,1254,4581,667
+
+Capital Transfers5631254029118,2694,5253,7456,1254,4581,667
+
+General Government (g)35 - 3520 - 205,185 - 5,1853,035 - 3,035
+
+Private Capital Transfers2131-102029-93,0844,525-1,4413,0904,458-1,368
+
+Current and Capital Account24,89226,609-1,71726,49528,793-2,2983,624,0983,874,512-250,4144,039,3234,388,351-349,028
+
+(a) The above presentation conforms as far as possible to the Balance of Payments Manual (BPM), 6th edition of the International Monetary Fund.(b) Revised(c) Provisional(d) Exports and imports are recorded on f.o.b. and c.i.f. valuation basis, respectively.(e) Passenger services provided for non-residents are included in transport services.(f) Includes outright grants received in the form of programme, food and commodity aid, cash and technical assistance. (g) Includes outright grants received in the form of project aid.
+
+(Contd.)
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIES TABLE 88 (Contd.)
+
+Balance of Payments - Standard Presentation under BPM6 Format (a)
+
+FINANCIAL ACCOUNT
+
+US$ millionRs. million2016 (b)2017 (c)2016 (b)2017 (c)Net Acquisitionof FinancialAssets
+
+Net Incurrence of Liabilities
+
+Net Acquisitionof FinancialAssets
+
+Net Incurrence of Liabilities
+
+Net Acquisitionof FinancialAssets
+
+Net Incurrence of Liabilities
+
+Net Acquisitionof FinancialAssets
+
+Net Incurrence of Liabilities
+
+Financial Account312,2132,9445,1287,128324,309448,927785,072Direct Investment237897721,37534,476131,8398,162210,361Equity and Investment Fund Shares2357106853534,162104,3837,70581,947Equity other than Reinvestment of Earnings235260683234,16238,4097,7054,929Direct Investor in Direct Investment Enterprise (h)235260683234,16238,4097,7054,929Reinvestment of Earnings-450-503-65,974-77,018Debt Instruments2187484031327,456456128,413Direct Investor in Direct Investment Enterprise (h)2187484031327,456456128,413
+
+Portfolio Investment…993…1,772-1144,665-12271,168Equity and Investment Fund Shares - 24 - 359 - 3,684 - 54,606Debt Securities…969…1,413-1140,981-12216,562Deposit-taking Corporations… - …-500-1 - -12-76,169Long term… - …-500-1 - -12-76,169General Government - 969 - 1,913 - 140,981 - 292,731Short term (Treasury Bills) - 36 - 81 - 5,304 - 12,281Long term - 932 - 1,832 - 135,678 - 280,449 Treasury Bonds - -361 - 360 - -52,406 - 56,152 Sri Lanka Development Bonds - -207 - -28 - -30,027 - -4,204 Sovereign Bonds - 1,500 - 1,500 - 218,110 - 228,502
+
+Financial Derivatives - --- - ---
+
+Other Investment 2663231021,98138,24547,80616,297303,543Currency and Deposits5-60978-228538-87,67112,094-33,698Central Bank - -701 - -402 - -101,915 - -60,826Short term - -1 - -2 - -216 - -255Long term - -700 - -400 - -101,699 - -60,571Deposit-taking Corporations5927817353814,24412,09427,128Short term-49211173-85314,2441,76727,128Long term9 - 67 - 1,391 - 10,327 - Loans - 793 - 1,839 - 114,419 - 280,407Central Bank - -123 - 184 - -17,234 - 28,630Credit and Loans with the IMF - -123 - 184 - -17,234 - 28,630Deposit-taking Corporations - -507 - 271 - -75,495 - 40,156Short term - -608 - -280 - -89,373 - -43,920Long term - 100 - 551 - 13,878 - 84,076General Government - 1,287 - 1,215 - 188,365 - 185,577Long term - 1,287 - 1,215 - 188,365 - 185,577Other Sectors (i) - 136 - 170 - 18,783 - 26,044Long term - 136 - 170 - 18,783 - 26,044Trade Credit and Advances-1188454309-17,11412,4668,32247,019Deposit-taking Corporations-3 - 17 - -428 - 2,571 - Short term-3 - 17 - -428 - 2,571 - Other Sectors (j)-1158438309-16,68612,4665,75147,019Short term-1158438309-16,68612,4665,75147,019Other Accounts Receivable/Payable37955-316154,8218,592-4,1199,815Central Bank - 55 - 61 - 8,592 - 9,815Short term (k) - 55 - 61 - 8,592 - 9,815Deposit-taking Corporations379 - -31 - 54,821 - -4,119 - Short term379 - -31 - 54,821 - -4,119 - Special Drawing Rights - - - -
+
+Reserve Assets-4722,771-65,593424,480Monetary Gold - - - - Special Drawing Rights-52-685354Reserve Position in the IMF - - - - Other Reserve Assets-4672,768-64,907424,126Currency and Deposits-1,267393-183,49560,087Claims on Monetary Authorities-1,365859-199,021129,424Claims on Other Entities98-46515,526-69,337Securities 8002,375118,582364,025Debt Securities8002,375118,582364,025Long term8002,375118,582364,025Financial Account (net) (Assets-Liabilities)-2,182-2,184-317,181-336,145
+
+Errors and Omissions-465114-66,76712,883
+
+(h) Include Direct investment to BOI, CSE and other private companies. (i) Include State Owned Business Enterprises and private sector companies. (j) Include Ceylon Petroleum Corporation and private sector companies. (k) Net transactions of ACU liabilities
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 89
+
+International Investment Position - Standard Presentation under BPM6 Format
+
+End period position
+
+FINANCIAL ACCOUNT
+
+US$ millionRs. million
+
+2016 (a)2017 (b)2016 (a)2017 (b)
+
+AssetsLiabilitiesAssetsLiabilitiesAssetsLiabilitiesAssetsLiabilities
+
+Direct Investment (c)1,2199,8451,27811,070182,6211,474,725195,2931,692,094Equity and Investment Fund Shares1,2147,0201,2687,406181,8491,051,612193,8941,132,015Debt Instruments52,82593,664772423,1131,399560,079
+
+Portfolio Investment…13,684…15,578 16 2,049,846 4 2,381,194Equity and Investment Fund Shares-1,419 - 1,491 - 212,619 - 227,977Other Sectors-1,419 - 1,491 - 212,619 - 227,977Debt Securities (d)…12,265…14,087 16 1,837,227 4 2,153,217Deposit-taking Corporations…2,190…1,666 16 328,004 4 254,692Long term…2,190…1,666 16 328,004 4 254,692General Government - 9,903 - 12,244 - 1,483,429 - 1,871,496Short term - 80 - 167 - 11,943 - 25,485Long term - 9,823 - 12,077 - 1,471,486 - 1,846,011Other Sectors - 172 - 177 - 25,794 - 27,028Long term - 172 - 177 - 25,794 - 27,028
+
+Financial Derivatives - - -- - - --
+
+Other Investment 3,02831,3293,13034,073453,5644,693,073478,3675,208,222Currency and Deposits7062,4427842,213105,732365,748119,861338,301Central Bank - 403 - 1 - 60,372 - 206Short term - 3 - 1 - 452 - 206Long term - 400 - - - 59,920 - -Deposit-taking Corporations7062,0397842,212105,732305,376119,861338,095Short term5352,0395462,21280,091305,37683,437338,095Long term171 - 238 - 25,641 - 36,424 -
+
+Loans - 26,342 - 28,912 - 3,946,060 - 4,419,404Central Bank - 554 - 765 - 82,977 - 116,997Credit and Loans with the IMF - 554 - 765 - 82,977 - 116,997Deposit-taking Corporations - 4,562 - 4,833 - 683,429 - 738,738Short term - 3,209 - 2,929 - 480,638 - 447,636Long term - 1,354 - 1,904 - 202,791 - 291,102General Government - 17,295 - 19,201 - 2,590,717 - 2,934,889Long term - 17,295 - 19,201 - 2,590,717 - 2,934,889Other Sectors (e) - 3,931 - 4,114 - 588,938 - 628,781Long term - 3,931 - 4,114 - 588,938 - 628,781
+
+Trade Credit and Advances7071,4807611,790105,850221,763116,338273,563Deposit-taking Corporations93 - 109 - 13,871 - 16,717 - Short term93 - 109 - 13,871 - 16,717 - Other Sectors (f)6141,4806521,79091,979221,76399,621273,563Short term6141,4806521,79091,979221,76399,621273,563
+
+Other Accounts Receivable/Payable1,6155331,584594241,98279,864242,16890,868Central Bank (g) - 533 - 594 - 79,864 - 90,868Short term - 533 - 594 - 79,864 - 90,868Deposit-taking Corporations1,615 - 1,584 - 241,982 - 242,168 - Short term1,615 - 1,584 - 241,982 - 242,168 -
+
+Special Drawing Rights 53256379,63886,086
+
+Reserve Assets6,0197,959901,6561,216,518Monetary Gold830928124,406141,859Special Drawing Rights24304682Reserve Position in the IMF64689,63710,417Other Reserve Assets5,1226,958767,3091,063,560Currency and Deposits2,6443,037396,066464,271Claims on Monetary Authorities8021,660120,098253,776Claims on Other Entities1,8421,377275,968210,496Securities2,4783,921371,243599,288Debt Securities2,4783,921371,243599,288
+
+Total Assets / Liabilities10,26654,85712,36660,7211,537,8568,217,6431,890,1839,281,510
+
+Net International Investment Position (Assets - Liabilities)-44,591-48,355-6,679,787-7,391,327
+
+(a) Revised(b) Provisional (c) Include Direct Investment stock position of BOI, CSE and other private companies. (d) Foreign currency and local currency debt issuances are based on market values and book values respectively, while Sri Lanka Development Bonds are based on face values. (e) Include outstanding position of loans obtained by State Owned Business Enterprises and private sector companies.(f) Include outstanding trade credit position of Ceylon Petroleum Corporation and other private sector companies. (g) Outstanding position of ACU liabilities managed by the Central Bank
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 90
+
+Outstanding External Debt
+
+End period position
+
+ItemUS$ millionRs. million
+
+20152016 (a)2017 (b)20152016 (a)2017 (b)
+
+1. General Government24,68127,19731,4443,555,5764,022,2624,806,386Short term33801674,81311,94325,485Debt Securities 33801674,81311,94325,485Treasury Bills (c)33801674,81311,94325,485Long term24,64727,11831,2773,550,7624,010,3194,780,900Debt Securities 8,5019,82312,0771,224,6561,471,4861,846,011Treasury Bonds (c)1,8111,4401,700260,836215,644259,823Sri Lanka Development Bonds (d)265583138,1918,6884,662International Sovereign Bonds (e)6,4258,32510,347925,6291,247,1541,581,526Loans16,14717,29519,2012,326,1062,538,8332,934,889
+
+2. Central Bank2,8232,0221,924406,671301,650294,157Short term48353659669,53680,31591,074Currency and Deposits531648452206Other Accounts Payable47853359468,88779,86490,868Asian Clearing Union Liabilities 47853359468,88779,86490,868Long term2,3401,4861,329337,135221,335203,083Special Drawing Rights (SDRs), Allocation 54853256378,94679,63886,086Currency and Deposits1,100400-158,46958,720-Loans69255476599,72182,977116,996Credit and Loans with the IMF69255476599,72182,977116,996Stand-by Arrangement (IMF-SBA Facility)692232-99,72134,688-Extended Fund Facility-322765-48,289116,996
+
+3. Deposit-taking Corporations, Except the Central Bank9,1568,7908,7111,319,0131,315,7961,331,524Short term5,7625,2475,140830,153862,694877,443Currency and Deposits (f)1,9462,0392,212280,385310,561338,095Commercial Banks 1,9462,0392,212280,385310,561338,095Loans3,8163,2092,929549,768552,133539,348Commercial Banks3,8163,2092,929549,768552,133539,348Long term3,3933,5433,571488,860453,102454,081Debt Securities (e)2,1402,1901,666308,297325,994254,692Commercial Banks 1,1121,128613160,216167,92593,691Other Deposit-taking Corporations1,0281,0621,053148,081158,069161,001Loans1,2531,3541,904180,563127,108199,389Commercial Banks1,2401,3391,886178,645124,965196,536Other Deposit-taking Corporations1314191,9192,1432,853
+
+4. Other Sectors (g)5,5675,5846,080801,951836,494929,371Short term1,3751,4801,790198,022221,763273,563Trade Credit and Advances (h)1,3751,4801,790198,022221,763273,563Long term4,1924,1044,290603,929614,732655,809Debt Securities (e)16417217723,69625,79427,028Loans 4,0283,9314,114580,233588,938628,781Private Sector 1,6041,6891,871231,138253,023285,924State Owned Business Enterprises and Public Corporations2,4232,2422,243349,094335,915342,857
+
+5. Direct Investment: Intercompany Lending (i)2,6132,8253,664376,455423,113560,079
+
+Total Outstanding External Debt44,83946,41851,8246,459,6666,899,3167,921,517
+
+(a) Revised(b) Provisional(c) Based on book value (d) Based on face value(e) Based on market price(f) Include deposits in Non-Resident Foreign Currency accounts (g) Include private sector and state owned business enterprises(h) Include trade credit outstanding of Ceylon Petroleum Corporation and private sector companies(i) Include intercompany borrowings and shareholder advances of direct investment enterprises
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 91
+
+Services and Income (a)
+
+ItemUS$ millionRs. million
+
+2013201420152016 (b)2017 (c)2013201420152016 (b)2017 (c)
+
+1. Transport Services40246252663268851,70960,23271,22591,980104,952 Credits1,7841,9232,1052,2502,376230,275251,086286,017327,581362,199 Debits 1,3821,4621,5791,6181,688178,566190,854214,792235,601257,247
+
+2. Travel5271,1691,5611,9772,32668,299152,628212,510287,922354,385 Credits1,7152,4312,9813,5183,925221,720317,479405,492512,373598,143 Debits 1,1881,2631,4201,5421,599153,422164,851192,982224,451243,758 3. Telecommunications, Computer and Information Services35135037541647145,35845,66851,02260,49871,763
+
+Credits71974880585892692,79297,652109,314124,934141,126 Debits 36839842944345547,43451,98458,29264,43669,363
+
+4. Construction Services29293034373,7653,8324,1254,9445,637 Credits55586063697,1207,5898,2269,19510,484 Debits 26293029323,3553,7574,1014,2514,847
+
+5. Insurance Services 24262732293,0643,3473,6644,6054,401 Credits10911511912112314,08915,03516,17517,61918,790 Debits 859092899411,02511,68912,51113,01414,389
+
+6. Financial Services-93-94-126-151-152-11,897-12,249-16,983-21,960-23,194 Credits23525625425226330,37133,38734,48536,63340,138 Debits 32835038040341542,26845,63651,46858,59363,332
+
+7. Other Business Services-15-16-21-25-25-1,983-2,041-2,831-3,660-3,866 Credits39434242445,0625,5645,7476,1066,690 Debits 55586367697,0457,6068,5789,76610,555
+
+8. Government Expenditure n.i.e.-45-45-48-35-35-5,795-5,920-6,563-4,991-5,290 Credits28313133343,6744,0714,1794,8435,168 Debits 73777968699,4689,99110,7419,83510,458
+
+Total Services1,1801,8802,3252,8793,338152,521245,496316,170419,338508,790 Credits4,6855,6056,3977,1387,760605,104731,863869,6341,039,2831,182,738 Debits3,5053,7254,0724,2594,421452,583486,367553,464619,945673,949
+
+1. Compensation of Employees-51-50-63-67-70-6,561-6,505-8,574-9,798-10,670 Credits15191920261,9592,4172,6352,9554,015 Debits 66688388968,5208,92211,20912,75314,684 2. Investment Income-1,701-1,758-1,950-2,134-2,285-219,525-229,567-266,167-309,854-346,999 Credits11713710810713415,04517,84614,61815,54520,399 Debits 1,8171,8952,0582,2412,418234,570247,413280,785325,399367,397
+
+Total Primary Income-1,751-1,808-2,013-2,202-2,355-226,086-236,073-274,740-319,652-357,668 Credits13215512712716017,00320,26317,25318,49924,414 Debits 1,8831,9632,1402,3292,515243,090256,336291,994338,151382,082
+
+1. Private Transfers5,6196,1996,1676,4346,316725,960809,437838,471936,990962,682 Credits (Workers' Remittances) 6,4077,0186,9807,2427,164827,689916,344948,9571,054,4891,091,972 Debits 788819814807848101,728106,906110,486117,498129,291 2. Government21282719112,7183,6913,6102,7921,634 Credits21282719112,7183,6913,6102,7921,634 Debits - - - - - - - - - -
+
+Total Secondary Income5,6396,2276,1936,4536,327728,678813,128842,082939,782964,316 Credits6,4287,0467,0077,2607,175830,407920,035952,5681,057,2811,093,607 Debits788819814807848101,728106,906110,486117,498129,291
+
+(a) Compiled according to the Balance of Payments Manual (BPM), 6th edition of the International Monetary Fund(b) Revised(c) Provisional
+
+Sources: Sri Lanka Tourism Development Authority Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 92
+
+Workers’ Remittances
+
+OriginUS$ millionRs. millionPercentage Share
+
+20132014201520162017 (a)20132014201520162017 (a)20132014201520162017 (a)
+
+1.Middle East3,5623,9023,7693,8893,711460,195509,487512,437566,260565,64255.655.654.053.751.8
+
+2. European Union1,1601,2701,2221,2821,311149,812165,858166,068186,645199,83118.118.117.517.718.3
+
+3.Far East Asia 55761169873982472,00979,72294,896107,558125,5778.78.710.010.211.5
+
+4.Europe-Other30833730733333039,72943,98441,75448,50650,2314.84.84.44.64.6
+
+5.North America18620420921020824,00326,57428,46930,58031,6672.92.93.02.92.9
+
+6.South East Asia28831639139839437,24641,23553,14257,99760,0584.54.55.65.55.5
+
+7.Australia and New Zealand14716116117417219,03721,07621,82625,30826,2072.32.32.32.42.4
+
+8. South Asia83919810910710,76011,91213,28515,81716,3801.31.31.41.51.5
+
+9.South and Central America58636351507,4498,2478,5417,3817,6440.90.90.90.70.7
+
+10.Other58636358577,4498,2478,5418,4368,7360.90.90.90.80.8
+
+Total6,4077,0186,9807,2427,164827,689916,344948,9571,054,489 1,091,972100.0100.0100.0100.0100.0
+
+(a) Provisional Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 93
+
+Foreign Direct Investments (FDI) Inflows - Country-wise Breakdown (a)
+
+US$ million
+
+CountryFDI InflowsFDI Position
+
+2013201420152016201720132014201520162017
+
+Netherlands47 95 118 113 44 1,880 1,985 1,749 1,472 1,599
+
+India52 60 72 126 181 819 1,320 1,181 1,112 1,239
+
+China45 21 147 103 407 483 627 657 742 1,157
+
+Malaysia69 48 -8 204 -1 1,033 1,433 1,143 1,107 1,103
+
+Singapore95 120 27 48 241 333 538 676 720 933
+
+Hong Kong92 77 36 18 125 442 608 658 666 792
+
+United Kingdom39 75 29 39 76 448 550 492 573 663
+
+Switzerland13 5 21 3 17 835 841 757 708 589
+
+United Arab Emirates96 24 69 64 38 347 545 581 621 626
+
+Japan63 20 -7 26 51 328 395 344 276 337
+
+Mauritius113 38 21 -6 20 805 301 302 296 316
+
+United States of America38 23 22 10 25 226 340 340 289 300
+
+British Virgin Islands32 3 38 1 18 175 195 223 222 253
+
+Canada4 41 29 40 9 91 186 181 215 218
+
+Italy22 13 1 -1 20 95 108 103 160 180
+
+Australia20 37 20 39 39 58 91 99 98 136
+
+Sweden30 4 5 -3 25 146 72 75 55 80
+
+Germany6 7 3 14 6 64 71 74 74 79
+
+Korea1 1 1 6 1 28 31 31 77 78
+
+Belgium35 2 7 17 7 129 24 30 45 53
+
+Spain- 8 10 7 -3 2 16 31 37 34
+
+Norway… 6 2 8 -2 17 19 20 28 26
+
+Gibraltar-1 … 1 1 2 54 46 30 25
+
+Thailand16 3 - 5 -1 16 20 20 25 24
+
+Other6 160 17 16 31 158 202 208 198 230
+
+Total933 894 680 897 1,375 8,959 10,572 10,022 9,845 11,070
+
+(a) Provisional Source: Central Bank of Sri LankaBoard of Investment of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 94
+
+End of Period Exchange Rates
+
+Sri Lankan Rupees per unit of Foreign Currency
+
+CountryCurrency20132014201520162017
+
+1.AustraliaDollar116.6709107.6433105.1007108.4252119.1045
+
+2. BangladeshTaka1.68871.68241.84211.89611.8460
+
+3.CanadaDollar122.7324113.1192103.8886111.1688121.6077
+
+4.People’s Republic of China Yuan21.570021.140122.185421.568223.4548
+
+5.DenmarkKroner24.187821.403421.090121.239224.5113
+
+6.European Union Euro180.4522159.4206157.3737157.8742182.4857
+
+7.Hong KongDollar16.862116.893818.586919.315619.5511
+
+8.IndiaRupee2.11162.06752.16772.20562.3854
+
+9.IndonesiaRupiah0.01070.01050.01040.01110.0113
+
+10.JapanYen1.24591.09791.19601.28671.3559
+
+11.KenyaSchilling1.51511.44571.40691.46151.4797
+
+12.KoreaWon0.12390.12000.12240.12430.1432
+
+13.KuwaitDinar463.0064447.8610474.4822489.3026505.9239
+
+14.MalaysiaRinggit39.772837.522933.518533.403937.6304
+
+15.New ZealandDollar107.4986102.827398.6251104.3507108.4887
+
+16.NorwayKroner21.509017.661116.379417.382818.5283
+
+17.PakistanRupee1.23761.29751.37331.42971.3808
+
+18.PhilippinesPeso2.94492.92723.07103.02603.0583
+
+19.Saudi ArabiaRiyal34.863334.922538.391039.934440.7586
+
+20.SingaporeDollar103.255999.2529101.8396103.6714114.3224
+
+21.South AfricaRand12.541111.33559.265911.039112.3170
+
+22.SwedenKroner20.360516.928117.120416.490918.5314
+
+23.SwitzerlandFranc147.2941132.5866145.7088146.9060156.1655
+
+24.TaiwanDollar4.38914.14064.38214.65215.1507
+
+25.ThailandBaht3.97913.98513.99184.18324.6759
+
+26.United Arab EmiratesDirham35.598435.677939.230540.785241.6147
+
+27.United KingdomPound sterling215.5790204.0427213.5724184.0443205.5362
+
+28.United States of AmericaDollar130.7530131.0486144.0623149.8000152.8548
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 95
+
+Average Exchange Rates of Major Currencies and Monthly Indices of Nominal Effective Exchange Rate (NEER) and Real Effective Exchange Rate (REER)
+
+Period
+
+Sri Lanka Rupees per unit of Foreign CurrencyMonthly Index (Average)
+
+Indian rupeeJapanese yenPound sterlingUS dollarEuroSDR (a)NEER(b)(c)(2010=100)
+
+REER(b)(d)(2010=100)
+
+20132.21141.3245202.0761129.1099171.5069196.194691.39101.1320142.14121.2359215.1580130.5606173.4696198.351391.99103.7720152.11761.1227207.9902135.9378150.8383190.163396.61109.5020162.16631.3442197.1510145.6016161.1577202.387392.46106.9420172.34151.3594196.4709152.4575171.7312211.494188.07106.10
+
+2015 1st Quarter2.12621.1103200.6213132.3989148.9475186.045897.67111.33 2nd Quarter2.10311.0996204.9512133.4459147.7712186.643297.30109.55 3rd Quarter2.08551.1090209.9662135.4817150.6216189.804097.36110.10 4th Quarter2.15671.1706215.7746142.1257155.7956197.786694.10107.02
+
+2016 1st Quarter2.13231.2486206.1207143.9429158.7061200.133893.80107.39 2nd Quarter2.16681.3439208.0738144.9908163.7342204.313691.53105.76 3rd Quarter2.17491.4225191.3711145.6008162.4952203.313091.91106.90 4th Quarter2.19011.3586183.5117147.8076159.6573201.746792.60107.69
+
+2017 1st Quarter2.25231.3266186.7603150.7989160.6931204.148891.26108.70 2nd Quarter2.36261.3717194.9151152.3371167.9297209.403588.57106.59 3rd Quarter2.38381.3811200.6055153.2626179.9943215.892586.27104.02 4th Quarter2.36981.3592203.7106153.4540178.2103216.525286.18105.10
+
+2016 January2.14011.2175207.6923143.9403156.3667198.942994.47108.84 February2.10901.2540205.9210143.9284159.8129200.629293.92107.68 March2.14671.2745204.7388143.9594159.9941200.854293.02105.64 April2.16441.3107205.9119143.9001163.2303202.782091.94105.01 May2.17591.3377211.6412145.6502164.7290205.466291.05105.14 June2.16041.3767206.5997145.2836163.2421204.518991.60107.14 July2.16361.3972191.4887145.4070160.8490202.191192.34108.77 August2.17621.4366190.9584145.6010163.1132203.721591.77106.30 September2.18431.4310191.7134145.7849163.3794203.929591.62105.64 October2.19161.4160181.4898146.8723162.0365202.769692.06105.86 November2.18611.3690183.5349147.7710159.7394201.855992.70107.87 December2.19291.2836185.7207148.8820156.9371200.495493.05109.34
+
+2017 January2.20421.3050185.2915150.0946159.4852202.804492.22109.57 February2.24971.3344188.3723150.8173160.6491204.407091.04108.82 March2.29831.3403186.8398151.4275161.8303205.174190.51107.70 April2.34951.3787191.9696151.7595162.7963206.686989.52106.86 May2.36511.3592196.7734152.3344168.5409209.654488.43106.00 June2.37121.3782195.5605152.8307171.6821211.461987.76106.91 July2.38361.3669199.6732153.6660176.9680214.431386.75105.04 August2.39351.3953198.6421153.1930181.0027216.195486.23103.48 September2.37291.3805203.9092152.8974182.1715217.156685.84103.54 October2.35881.3591202.7200153.5262180.5503216.410086.25104.48 November2.36851.3624203.2813153.6599180.3506216.483786.23105.24 December2.38291.3559205.2280153.1506173.3815216.692386.06105.57
+
+Source: Central Bank of Sri Lanka(a) Special Drawing Rights (SDRs), the unit of account of the International Monetary Fund.
+
+(b) The exchange rates have been defined in terms of indices so that the appreciation/depreciation of the rupee relative to other currencies is directly reflected by a rise/fall in the values of the effective exchange rates indices, respectively.
+
+(c) The NEER is the weighted average of nominal exchange rates of the 24 trading partner and competitor countries.
+
+Weights are based on the trade shares reflecting the relative importance of each currency in the currency basket.
+
+(d) The REER is computed by adjusting the NEER for inflation differentials (based on CCPI) with the countries whose currencies are included in the basket. The REER Indices for 2017 are provisional.
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 96
+
+Interbank Forward Market Transactions
+
+Period
+
+Forward Volume (US$ million)
+
+Annualised Forward Premium (as % of spot) (a)
+
+Annualised Interest Differential (as % of spot)
+
+Below 1 Month1 Month2 Months3 MonthsOver 3 MonthsTotal1 Month (%)3 Months (%)1 Month (%)3 Months (%)
+
+20132,878.23857.61231.40485.07920.915,373.228.147.788.618.6120143,487.871,241.08241.59562.751,154.166,687.454.524.055.745.7320152,802.981,636.14450.13687.291,136.106,712.645.935.325.925.9220165,064.941,763.23266.69496.401,117.258,708.519.227.477.547.532017 (b)3,718.121,613.67319.18736.121,638.078,025.167.084.407.817.80
+
+2015 1st Quarter1,049.36394.6152.1079.50218.751,794.327.955.805.485.47 2nd Quarter628.71406.90150.63188.30255.251,629.796.266.145.965.95 3rd Quarter461.52356.5295.52165.41422.101,501.075.235.206.026.02 4th Quarter663.39478.11151.88254.08240.001,787.464.294.156.226.222016 1st Quarter1,078.29496.4891.1794.50352.502,112.946.946.936.416.40 2nd Quarter1,311.30504.4845.77179.20236.752,277.5012.098.008.007.99 3rd Quarter1,371.21306.1745.3599.55248.852,071.138.347.158.098.08 4th Quarter1,304.14456.1084.40123.15279.152,246.949.517.797.677.652017 (b) 1st Quarter1,340.00608.27174.35312.57357.452,792.649.005.388.098.08 2nd Quarter1,274.61366.9155.75123.25400.152,220.678.414.038.458.43 3rd Quarter539.51304.9914.75173.75510.351,543.354.993.887.797.77 4th Quarter564.00333.5074.33126.55370.121,468.505.924.326.926.902016 January197.45169.2552.5636.50120.00575.766.195.255.985.97 February369.71138.9531.2829.00127.25696.196.015.646.316.30 March511.13188.287.3329.00105.25840.998.639.906.946.93 April357.07185.6115.7571.5071.50701.4313.849.507.967.95 May475.87117.3119.5279.7089.45781.8511.957.547.887.88 June478.36201.5610.5028.0075.80794.2210.486.958.148.13 July562.8780.523.0038.50110.00794.8910.187.548.168.15 August424.6887.509.0037.7555.85614.787.406.948.128.11 September383.66138.1533.3523.3083.00661.467.436.967.997.98 October341.42113.8555.6156.00142.15709.038.917.797.697.68 November493.9796.4820.2928.0077.50716.2411.307.877.697.67 December468.75245.778.5039.1559.50821.678.327.717.627.612017 (b) January341.27202.8080.0097.32124.35845.746.614.197.927.91 February402.78228.0854.3576.25133.10894.5610.595.718.078.06 March595.95177.3940.00139.00100.001,052.349.806.248.298.27 April485.60121.420.0055.00100.00762.0210.534.208.518.49 May398.50100.4925.1035.75116.50676.348.473.368.508.48 June390.51145.0030.6532.50183.65782.316.234.548.338.31 July211.7571.442.0032.50224.55542.245.093.778.248.23 August170.4380.4011.00105.50173.75541.084.254.717.607.59 September157.33153.151.7535.75112.05460.035.633.157.527.50 October161.5493.8610.8060.50107.36434.066.184.737.397.37 November167.61162.1936.9343.00129.91539.646.013.657.097.07 December234.8577.4526.6023.05132.85494.805.564.596.276.25
+
+(a) Annualised Forward Premium (fd) is computed using the following formula:
+
+fd = {[Ft T - St ] / St} * 100 * (12/T),
+
+where FtT is the forward rate for T month/s (T=1,3) that exists in period t and St is the interbank spot rate at period t. (b) Provisional
+
+Source: Central Bank of Sri Lanka
+
+EXTERNAL SECTOR DEVELOPMENTS AND POLICIESTABLE 97
+
+Absorption and Supply of Foreign Exchange by the Central Bank US$ million
+
+PeriodAbsorption(1)Supply(2)Net Absorption(1)-(2)
+
+20131,138.60703.01435.5920141,407.20862.25544.952015179.403,428.93-3,249.5320161,132.221,900.38-768.1520172,214.11549.751,664.36
+
+20151st Quarter67.50397.46-329.962nd Quarter84.30824.30-740.003rd Quarter-1,323.62-1,323.624th Quarter27.60883.55-855.95
+
+20161st Quarter10.95924.61-913.662nd Quarter317.56496.67-179.113rd Quarter526.61126.68399.944th Quarter277.09352.42-75.33
+
+20171st Quarter401.97514.75-112.782nd Quarter577.3935.00542.393rd Quarter731.250.00731.254th Quarter503.500.00503.50
+
+2016January-303.50-303.50February-189.05-189.05March10.95432.06-421.11April14.95266.45-251.51May123.8336.2087.63June178.78194.02-15.24July204.5653.90150.66August190.7757.58133.19September131.2915.20116.09October88.33163.78-75.45November9.45116.91-107.46December179.3171.73107.58
+
+2017January64.66204.50-139.84February145.09297.25-152.16March192.2313.00179.23April257.920.00257.92May183.4735.00148.47June136.000.00136.00July344.750.00344.75August200.000.00200.00September186.500.00186.50October97.000.0097.00November206.000.00206.00December200.500.00200.50
+
+Source: Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 98Summary of Government Fiscal Operations (a)Rs. million
+
+Item20082009201020112012201320142015201620172018 Approved EstimatesApproved EstimatesProvisional
+
+1. Total Receipts708,596746,359858,372973,4761,030,1281,098,3551,169,5431,413,3181,725,2782,049,0001,914,2882,260,000
+
+1.1 Revenue677,374720,437841,463958,3351,014,0581,082,4961,160,1281,407,3041,717,7822,039,0001,906,2562,250,000
+
+1.2 Grants31,22225,92216,90915,14116,07115,8599,4156,0147,49610,0008,03110,000
+
+2. Total Outlays-1,411,255-1,748,996-1,778,152-1,967,366-2,190,241-2,410,989-2,603,614-3,202,210-3,107,151-3,633,110-3,470,589-4,153,845
+
+2.1 Recurrent-736,474-882,721-952,243-1,020,264-1,118,401-1,253,706-1,370,501-1,672,921-1,770,882-1,947,027-1,945,575-2,164,132
+
+2.2 Capital-673,325-864,343-823,782-946,247-1,073,928-1,158,302-1,231,864-1,530,359-1,335,561-1,681,084-1,525,014-1,983,713
+
+2.3 Advance Accounts-1,457-1,932-2,126-8542,0881,019-1,2491,070-708-5,000--6,000
+
+3. Budget Deficit -702,659-1,002,637-919,780-993,890-1,160,112-1,312,634-1,434,071-1,788,892-1,381,873-1,584,110-1,556,301-1,893,845
+
+4. Amortisation Payments (b)380,331516,012467,857538,683608,970700,035632,662808,117741,549800,187867,4841,150,000
+
+4.1 Domestic258,720401,296389,672439,894415,441496,042449,554523,824572,442622,227642,875879,285
+
+4.2 Foreign121,609114,71678,18498,789193,529203,993183,109284,293169,107177,960224,609270,715
+
+5. Net Cash Deficit-322,329-486,625-451,924-455,207-551,142-612,599-801,408-980,776-640,325-783,923-688,818-743,845
+
+6. Financing of Budget Deficit702,6591,002,637919,780993,8901,160,1121,312,6341,434,0711,788,8921,381,8731,584,1101,556,3011,893,845
+
+6.1 Domestic Market Borrowings (c)568,390635,571581,671675,915667,850970,583988,7601,267,797820,8531,074,151892,4491,263,129
+
+Non bank373,157586,543583,563484,065536,323673,607861,832975,955680,8981,042,151704,7161,143,129
+
+Bank195,23349,027-1,892191,850131,527296,977126,929291,841139,95532,000187,733120,000
+
+6.2 Domestic Other Borrowings (d)4,61911,28010,231-4,798 5,438 13,000-13,363 - - - - -
+
+6.3 Foreign Loans129,650355,786327,878322,772486,824329,050458,674521,096561,020509,960663,852630,715
+
+o/w Private Sector Development Loans (SMI)12,68410,2635,9065,0276,8401,3572,262 - - - - -
+
+7. Financing of Net Cash Deficit322,329486,625451,924455,207551,142612,599801,408980,776640,325783,923688,818743,845
+
+7.1 Domestic Market Borrowings309,669234,274191,999236,021252,409474,542539,206743,973248,411451,923249,574383,845
+
+Non bank114,437185,247193,89144,171120,881177,565412,278452,131108,456419,92361,841263,845
+
+Bank195,23349,027-1,892191,850131,527296,977126,929291,841139,95532,000187,733120,000
+
+7.2 Domestic Other Borrowings (d)4,61911,28010,231-4,798 5,438 13,000-13,363 - - - - -
+
+7.3 Foreign Loans 8,041241,070249,694223,983293,295125,057275,565236,803391,914332,000439,243360,000
+
+o/w Private Sector Development Loans (SMI)12,68410,2635,9065,0276,8401,3572,262 - - - - -
+
+8. Expansionary Impact of Fiscal Operations195,23349,027-1,892191,850131,527296,977126,929291,841139,95532,000187,733120,000
+
+9. Central Government Debt (e)3,588,9624,161,4224,590,2455,133,3656,000,1126,793,2497,390,8998,503,2279,387,30310,077,00010,313,04510,988,045
+
+9.1 Domestic2,140,2282,400,9552,565,6622,804,0853,232,8133,832,8254,277,7834,959,1965,341,5075,722,0005,594,4275,909,427
+
+9.2 Foreign1,448,7341,760,4672,024,5832,329,2802,767,2992,960,4243,113,1163,544,0314,045,7964,355,0004,718,6185,078,618
+
+(a) As given in the government accounts prepared by the Department of State Accounts of the Ministry of Finance and Mass Media(b) Includes direct repayments of central government debt(c) Excludes restructuring bonds amounting to Rs. 53.9 billion issued in 2012 to settle outstanding dues from state owned institutions to the Ceylon Petroleum Corporation, Rs. 11.7 billion issued to capitalise SriLankan Airlines in March 2013 and restructuring bonds amounting to Rs. 13.0 billion and Rs. 23.9 billion issued to National Water Supply and Drainage Board and Ceylon Petroleum Corporation, respectively in 2015(d) Includes domestic grants and other non market borrowings(e) Estimates for 2018 exclude the impact of exchange rate parity variations and the impact of the discount factor which is the net difference in the book value and the face value of issues and maturities of Treasury bills and Treasury bonds
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic Affairs Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 99
+
+Government Revenue (a)Rs. million
+
+Source20082009201020112012201320142015201620172018Approved EstimatesApproved EstimatesProvisional
+
+1. Recurrent663,730708,381825,688942,943996,817 1,066,247 1,127,631 1,394,245 1,698,755 2,024,700 1,845,017 2,233,100
+
+1.1 Taxes on Income126,541139,558135,623157,309172,593205,666198,115262,583258,857334,550274,562370,000
+
+Personal23,32628,22930,99324,78521,41327,33730,52938,15246,42667,35045,61975,800
+
+Corporate63,69366,75175,20898,74891,918100,64998,183162,019164,592192,200177,591254,200
+
+Tax on Interest39,52244,57829,42233,77659,26277,67969,40262,41247,83975,00051,35140,000
+
+1.2 Taxes on Production and Expenditure458,891479,527589,139655,307672,679717,978789,8111,019,5371,204,8321,492,4501,395,6171,664,00
+
+General Sales and Turnover Taxes203,646171,510219,990215,576204,806217,921238,391214,254283,470380,000443,760550,000
+
+VAT203,646171,510219,990215,576204,806217,921238,391214,254283,470380,000443,760550,000
+
+Selective Sales Taxes100,97197,604129,864186,010191,947209,740234,595457,596454,952579,035469,500535,040
+
+Cigarettes37,28837,60140,67549,62353,56358,56757,24080,01588,792105,03586,00290,040
+
+Liquor27,43428,52536,65455,28660,08666,00869,100105,264120,238175,500113,684125,000
+
+Petroleum18,97723,01828,03822,47028,46627,13128,73245,09255,71955,00073,98380,000
+
+Motor Vehicle and Other17,2718,46024,49758,63249,83258,03479,522227,226190,203243,500195,831240,000
+
+Import Duties63,99479,81064,22376,01073,48974,66877,726108,116156,487165,500136,501175,000
+
+License Fees1,7933,2695,5126,0784,2545,4496,9836,9298,72626,5357,98428,910
+
+Stamp Duties/Cess Levy/SRL/RIDL/NBT/SCL /Other 49,06083,013109,074101,373128,073148,694163,470175,909212,375235,380235,511260,050
+
+Debits Tax8,4108,03610,843 4,232 - - - - - - - -
+
+Ports and Airports Development Levy31,01736,28649,63366,02870,11161,50668,64656,73388,823106,000102,360115,000
+
+1.3 Profits, Dividends and Interest24,67041,02554,31966,19899,24971,18366,29234,296117,98683,85061,39371,200
+
+Profits and Dividends from State Corporations7,36511,98231,30134,35146,76135,16946,81429,798108,16072,60053,99855,600
+
+Central Bank Profits8,00020,00015,00022,00043,00026,35011,500 - 5,0005,000-10,000
+
+Interest9,3059,0438,0179,8479,4889,6647,9784,4984,8266,2507,3955,600
+
+1.4 Gross Receipts of Trading Enterprises8,4388,5668,5908,6449,80511,33212,46713,12413,10014,70013,48716,000
+
+Railway3,6714,0204,0184,2354,8525,4255,9096,4136,5227,2006,4908,000
+
+Posts4,7674,5464,5724,4094,9525,9076,5586,7116,5787,5006,9978,000
+
+1.5 Other Current Receipts45,19039,70638,01755,48542,49160,08960,94864,705103,98099,15099,959111,900
+
+National Lotteries Board and other Transfers6031,5421,7811,9532,2232,1731,8681,9362,2312,5002,0792,000
+
+Other44,58738,16436,23653,53240,26857,91759,08062,769101,74996,65097,881109,900
+
+2. Capital13,64512,05615,77515,39217,24016,24932,49713,05919,02714,30061,23916,900
+
+2.1 Loan Repayments13,52611,97815,53514,87816,40915,96914,89212,96118,61914,00016,41816,800
+
+2.2 Other1197824051483128017,6049840730044,821100
+
+Total677,374720,437841,463958,335 1,014,058 1,082,496 1,160,128 1,407,304 1,717,782 2,039,000 1,906,256 2,250,000
+
+(a) As given in the government accounts prepared by the Department of State Accounts of the Ministry of Finance and Mass MediaNote : Value Added Tax (VAT), Social Responsibility Levy (SRL), Regional Infrastructure Levy (RIDL), Nation Building Tax (NBT) and Special Commodity Levy (SCL)Source: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 100
+
+Payments of the Government of Sri Lanka (a)Rs. million
+
+Item20082009201020112012201320142015201620172018
+
+ApprovedEstimatesProvisionalApprovedEstimates
+
+1. Recurrent Expenditure736,474882,721952,2431,020,2641,118,4011,253,7061,370,5011,672,9211,770,8821,947,0271,945,5752,164,132
+
+1.1 Expenditure on Goods and Services359,610390,208409,370454,360478,692569,170625,418756,508771,930851,064787,666887,386
+
+Salaries and Wages249,551282,636312,248341,947360,352406,923455,653580,538596,441635,298609,191651,130
+
+Other Goods and Services110,059107,57297,122112,413118,340162,248169,765175,969175,489215,766178,475236,256
+
+1.2 Interest Payments212,475309,675352,592356,699408,498444,007436,395509,674610,895680,087735,566820,000
+
+Foreign30,27735,69855,46468,56590,839100,985108,461115,386126,713123,291164,942170,000
+
+Domestic182,198273,978297,127288,134317,659343,022327,934394,289484,182556,796570,623650,000
+
+1.3 Current Transfers 164,389182,838190,282209,206231,211240,529308,668406,739388,057415,876422,343456,746
+
+Public Corporations and Institutions32,83033,84534,08837,76741,42945,24157,02361,25670,90457,26371,92464,114
+
+Local Governments and Provincial Councils217 - - - - - - - - - - -
+
+Households and Other131,342148,993156,194171,438189,782195,288251,665345,483317,153358,613350,420392,632
+
+2. Capital Expenditure673,325864,343823,782946,2471,073,9281,158,3021,231,8641,530,3591,335,5611,681,0841,525,0141,983,713
+
+2.1 Amortisation Payments380,330516,012467,857538,683608,970700,035632,662808,117741,549800,187867,4841,150,000
+
+Foreign121,609114,71678,18498,789193,529203,993183,109284,293169,107177,960224,609270,715
+
+Domestic258,720401,296389,672439,894415,441496,042449,554523,824572,442622,227642,875879,285
+
+2.2 Acquisition of Financial Assets31,25353,03254,43344,48843,89126,90126,75614,59216,97710,52019,04314,136
+
+2.3 Acquisition of Fixed Assets157,741161,473157,894202,703218,036229,598364,895432,735328,202674,631360,477601,212
+
+2.4 Capital Transfers104,002133,826143,599160,374203,032201,768207,551274,916248,834195,745278,010218,364
+
+Public Corporations22,43219,75020,34526,69330,07227,19328,32242,47332,06621,17426,37726,595
+
+Public Institutions59,99190,29199,151105,603145,935143,504147,166197,712184,689142,465215,508156,224
+
+Local Government and Provincial Councils21,23723,78024,10127,61925,56629,69231,54734,06329,88730,49134,51132,102
+
+Abroad 341 514591,4591,3795166682,1911,6151,6143,443
+
+3. Advance Account Operations1,4571,9322,126854-2,088-1,0191,249-1,0707085,000-6,000
+
+Total1,411,2551,748,9961,778,1521,967,3662,190,2412,410,9892,603,6143,202,2103,107,1513,633,1103,470,5894,153,845
+
+(a) As given in the government accounts prepared by the Department of State Accounts of the Ministry of Finance and Mass MediaSource: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 101
+
+Voted Expenditure of the Government of Sri Lanka - 2017Rs. million
+
+Ministry (a)
+
+RecurrentCapital
+
+RevisedEstimates ActualExpenditure
+
+% of Under (-) / Over(+) Expenditure
+
+RevisedEstimates ActualExpenditure
+
+% of Under (-) / Over(+) Expenditure
+
+1HE the President, Prime Minister, Judges of the Supreme Court etc.14,48710,133-30.18,6086,287-27.0
+
+2Buddha Sasana2,0061,541-23.11,033622-39.8
+
+3Finance (b)791,565760,122-4.0938,845900,498-4.1
+
+4Defence 257,181248,492-3.439,95030,086-24.7
+
+5National Policies and Economic Affairs3,9973,751-6.150,81328,044-44.8
+
+6Disaster Management9,1597,229-21.17,6035,144-32.3
+
+7Posts, Postal Services and Muslim Religious Affairs12,85912,810-0.4735699-4.9
+
+8Justice7,8147,694-1.53,5842,323-35.2
+
+9Health, Nutrition and Indigenous Medicine125,895118,034-6.246,71628,039-40.0
+
+10 Foreign Affairs9,6779,623-0.61,335326-75.6
+
+11 Transport and Civil Aviation34,39530,121-12.437,96222,039-41.9
+
+12 Higher Education and Highways32,61231,475-3.5225,615207,986-7.8
+
+13 Agriculture50,15449,252-1.812,0455,636-53.2
+
+14 Power and Renewable Energy453442-2.48,7638,140-7.1
+
+15 Women and Child Affairs7,2396,961-3.81,364979-28.2
+
+16 Home Affairs27,09625,796-4.829,84214,631-51.0
+
+17 Parliamentary Reforms and Mass Media3,9883,855-3.32,490478-80.8
+
+18 Housing and Construction1,1001,097-0.46,9476,946-
+
+19 Social Empowerment and Welfare 69,45064,957-6.52,1711,624-25.2
+
+20 Education59,15653,046-10.353,75727,981-47.9
+
+21 Public Administration and Management211,958211,105-0.4769561-27.1
+
+22 Plantation Industries4,8644,567-6.16,0953,642-40.2
+
+23 Sports 1,5001,318-12.15,4552,860-47.6
+
+24 Hill Country New Villages, Infrastructure and Community Development335308-8.04,0332,116-47.5
+
+25 Rehabilitation, Resettlement and Hindu Religious Affairs6,5546,021-8.112,98711,364-12.526 Regional Development490423-13.6413247-40.1
+
+27 Industry and Commerce3,4642,997-13.512,4327,372-40.7
+
+28 Petroleum Resources Development237230-2.99480-14.4
+
+29 Fishereis and Aquatic Resources Development1,8701,812-3.16,1663,755-39.1
+
+30 Lands5,0924,751-6.73,5061,995-43.1
+
+31 Rural Economic Affairs1,4321,122-21.610,1047,674-24.0
+
+32 Provincial Councils and Local Government168,260166,775-0.980,05249,978-37.6
+
+33 National Co-Existence, Dialogue and Official Languages539492-8.7539280-48.1
+
+34 Public Enterprise Development295279-5.49,6691,270-86.9
+
+35 Tourism Development and Christian Religious Affairs377311-17.5982323-67.1
+
+36 Mahaweli Development and Environment5,2765,176-1.952,79841,020-22.3
+
+37 Sustainable Development and Wildlife2,0432,026-0.81,6271,439-11.5
+
+38 Megapolis and Western Development2,7342,702-1.237,50127,270-27.3
+
+39 Internal Affairs, Wayamba Development and Cultural Affairs3,7153,637-2.15,4543,568-34.640 National Integration and Reconciliation120105-12.53,4192,710-20.8
+
+41 City Planning and Water Supply324307-5.133,91827,011-20.4
+
+42 Special Assignment6969-0.89643-55.1
+
+43 Ports and Shipping252210-16.72,148410-80.9
+
+44 Foreign Employment624606-2.9129120-6.9
+
+45 Law and Order and Prison Reforms 68,15067,434-1.18,5984,484-47.8
+
+46 Labour and Trade Union Relations 2,0972,025-3.43,7082,524-31.9
+
+47 Telecommunication and Digital Infrastructure219214-2.117,4131,555-91.1
+
+48 Development Strategies and International Trade644560-13.11,392562-59.7
+
+49 Science, Technology and Research1,8431,722-6.63,9311,913-51.3
+
+50 Skills Development and Vocational Training6,4545,737-11.14,2892,564-40.2
+
+51 Irrigation and Water Resources Management3,8153,354-12.121,30214,923-29.9
+
+52 Primary Industries751745-0.82,438872-64.2
+
+Total 2,026,6831,945,575-4.01,833,6351,525,014-16.8
+
+(a) The list of Ministries is based on final accounts prepared by the Department of State Accounts of the Ministry of Finance and Mass Media as at end 2017
+
+Source: Ministry of Finance and Mass Media
+
+(b) Includes debt service payments
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 102
+
+Voted Expenditure of the Government of Sri Lanka - 2018 (a)Rs. million
+
+Ministry (b)2018 Approved Estimates
+
+RecurrentCapital
+
+1HE the President, Prime Minister, Judges of the Supreme Court etc.16,0729,4002Buddha Sasana7127513Finance and Mass Media (c )997,4001,348,9994Defence260,71130,0005National Policies and Economic Affairs4,17825,0006Disaster Management9434,8687Posts, Postal Services and Muslim Religious Affairs13,1583738Justice8,1303,0209Health, Nutrition and Indigenous Medicine134,40044,00010Foreign Affairs9,95782211Transport and Civil Aviation18,13724,00012Higher Education and Highways32,757150,00013Agriculture16,7907,00014Power and Renewable Energy49834015Women and Child Affairs1,4061,60316Home Affairs28,10016,00017Lands and Parliamentary Reforms5,8973,20018Housing and Construction83510,41319Social Empowerment, Welfare and Kandyan Heritage15,6592,92020Education62,88040,00021Public Administration and Management232,7511,11322Plantation Industries3,3455,30023Sports 1,6253,80024Hill Country New Villages, Infrastructure and Community Development3483,40025Prisons Reforms, Rehabilitation, Re-settlement and Hindu Religious Affairs8,2783,14826Regional Development35362027Development Assignment2211,07228Industry and Commerce2,1536,92829Petroleum Resources Development2426730Fisheries and Aquatic Resources Development1,7586,00031Rural Economic Affairs1,2396,00032Provincial Councils and Local Government176,21742,00033National Co-existance, Dialogue and Official Languages52523834Public Enterprise Development2835,28935Tourism Development and Christian Religious Affairs51351236Mahaweli Development and Environment5,46440,14737Sustainable Development and Wildlife2,1262,65338Megapolis and Western Development1,10950,00039Internal Affairs, Wayamba Development and Cultural Affairs4,5444,00140National Integration and Reconciliation1162,65441City Planning and Water Supply36827,49542Special Assignment743143Ports and Shipping2332,31544Foreign Employment6335345Law and Order and Southern Development75,1707,72946Labour, Trade Union Relations and Sabaragamuwa Development2,2213,01047Telecommunication and Digital Infrastructure2142,05648Development Strategies and International Trade6051,49249Science, Technology and Research1,8643,78050Skills Development and Vocational Training6,5444,33851Irrigation and Water Resource Management3,63121,00052Primary Industries7462,765Advance Account Operations-6,000
+
+Total 2,164,1321,989,713
+
+(a) As per the estimates given in Budget 2018(b) The list of Ministries is based on Budget 2018(c) Includes debt service payments
+
+Source: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 103
+
+Current Transfers to Public Corporations and InstitutionsRs. million
+
+Public Corporations and Institutions20082009201020112012201320142015201620172018ApprovedEstimatesApprovedEstimatesProvi-sional
+
+AGRICULTURE AND IRRIGATION 3,351.2 3,314.7 3,362.4 4,094.4 3,539.4 3,731.5 6,123.1 7,503.7 8,148.08,335.7 8,194.4 8,952.0
+
+Agricultural and Agrarian Insurance Board 327.0 130.9 125.0 790.4 134.8 138.0 2,100.3 2,276.0 2,690.0 2,700.0 2,760.0 2,835.0
+
+Ceylon Coconut Development Authority 69.0 62.4 77.3 73.3 77.1 82.0 96.5 110.0 124.5 140.0 121.5 145.0
+
+Coconut Cultivation Board 226.6 244.3 243.3 261.7 270.2 279.1 301.3 392.0 415.0 430.0 424.5 448.0
+
+Coconut Research Institute 128.7 133.3 135.5 132.3 138.0 155.3 171.7 186.2 206.3 265.0 207.6 250.0
+
+Hector Kobbekaduwa Agrarian Research and Training Institute n.a. n.a. n.a. n.a. 108.5 120.9 124.8 152.5 155.2142.0 135.8 160.0
+
+Mahaweli Authority of Sri Lanka 1,573.1 1,642.5 1,730.0 1,780.0 1,735.5 1,800.0 1,970.0 2,555.6 2,680.0 2,630.0 2,630.0 2,700.0
+
+National Institution of Plantation Management 12.2 13.1 10.6 8.5 8.5 18.7 24.8 28.5 39.0 40.0 40.0 50.0
+
+Rubber Research Advisory Institution 148.3 176.3 181.1 183.1 185.7 195.8 252.5 342.2 359.8 404.0 386.8 405.0
+
+Sri Lanka Cashew Corporation 37.6 42.5 43.9 50.0 58.6 52.5 50.0 66.1 48.0 58.2 54.0 50.0
+
+Sugarcane Research Institute n.a. n.a. n.a. n.a. n.a. n.a. n.a. 259.5 250.0255.0 205.1 260.0
+
+Sri Lanka Tea Board n.a. n.a. n.a. n.a. 117.1 120.0 132.0 143.0 147.5190.0 153.5 190.0
+
+Tea Research Institute n.a. n.a. n.a. n.a. 233.1 252.1 299.7 341.3 338.0340.0 374.9 375.0
+
+Tea Small holdings Development Authority n.a. n.a. n.a. n.a. 219.8 225.3 266.7 319.7 335.2345.0 329.5 370.0
+
+Other 828.7 869.4 815.7 815.2 292.4 328.8 377.8 330.9 359.5 396.5 371.2 714.0
+
+ENERGY AND WATER SUPPLY 1,083.5 646.1 720.4 552.7 73.2 123.1 123.5 293.2 366.8 396.9 395.8 417.0
+
+Sri Lanka Atomic Energy Board 29.5 28.0 46.4 30.4 40.0 43.0 41.5 49.0 103.4 75.9 75.9 84.0
+
+Sri Lanka Sustainable Energy Authority n.a. n.a. n.a. n.a. 33.2 80.1 82.0 85.2 83.494.0 93.0 100.0
+
+Water Resources Board n.a. n.a. n.a. n.a. 77.3 83.1 87.0 141.0 155.0198.0 198.0 185.0
+
+Other 131.0 133.8 125.3 119.4 - - - 18.0 25.0 29.0 29.0 48.0
+
+FISHERIES 431.0 482.3 471.8 505.2 437.0 483.3 724.6 1,021.0 1,178.3 1,144.6 1,116.2 1,095.0
+
+Ceylon Fishery Harbours Corporation 96.4 106.2 105.0 113.0 108.8 108.0 313.4 434.4 470.0 488.6 471.0 400.0
+
+National Aquatic Resources, Research andDevelopment Agency 142.0 150.9 142.2 146.7 149.3 166.9 196.0 273.6 290.7 303.0 302.2 325.0
+
+Other 192.6 225.2 224.6 245.5 178.9 208.4 215.2 313.1 417.6 353.0 343.1 370.0
+
+MANUFACTURING AND MINING 288.0 284.4 277.8 268.8 278.6 279.6 311.4 366.1 375.4 382.0 388.1 433.0
+
+Industrial Development Board 219.9 222.0 221.3 228.0 227.4 231.0 250.0 296.8 286.0 291.0 278.0 300.0
+
+Gem and Jewellery Research and Training Institute n.a. n.a. n.a. n.a. 30.2 32.1 43.4 47.1 58.650.0 62.4 80.0
+
+Other 25.1 51.5 56.5 40.8 21.0 16.4 18.0 22.3 30.8 41.0 47.7 53.0
+
+TRADE AND COMMERCE 178.0 449.1 541.7 515.4 625.4 727.0 840.0 891.7 956.4 1,067.5 1,012.8 1,152.0
+
+Consumer Affairs Authority n.a. n.a. n.a. n.a. 159.5 226.4 250.0 287.7 292.0375.0 384.1 440.0
+
+National Craft Council n.a. n.a. n.a. n.a. 81.1 88.0 107.8 134.8 144.3146.5 146.5 150.0
+
+Paddy Marketing Board n.a. 8.0 24.0 25.0 36.4 40.0 66.5 70.3 88.0 100.0 96.0 150.0
+
+Sri Lanka Export Development Board n.a. n.a. n.a. n.a. 246.1 255.0 265.0 270.0 270.0270.0 245.0 277.0
+
+Other 178.0 441.1 517.7 490.4 102.2 117.7 150.7 128.9 162.2 176.0 141.2 135.0
+
+TRANSPORT AND COMMUNICATIONS (a) 6,239.0 4,518.6 4,368.4 4,390.4 4,402.2 5,704.3 8,223.2 12,703.1 17,440.9 1,120.9 14,320.0 1,099.0
+
+National Transport Commission n.a. n.a. n.a. n.a. 180.0 370.0 493.0 534.0 403.5 582 393.1 582.0
+
+Sri Lanka Broadcasting Corporation n.a. n.a. n.a. n.a. 134.5 127.9 225.0 350.0 365.0 350.7 350.7 360.0
+
+Sri Lanka Central Transport Board 5,638.0 4,203.1 3,828.0 3,938.6 3,982.9 5,098.7 7,390.9 11,699.7 16,539.9 - 13,385.5 -
+
+Other 601.0 315.5 540.4 451.8 104.8 107.8 114.3 119.4 132.5 188.3 190.8 157.0
+
+OTHER 21,259.3 24,150.0 24,345.4 27,440.5 30,340.4 34,191.9 40,677.2 38,477.7 42,437.8 44,815.0 46,496.2 50,966.2
+
+Buddhist and Pali University of Sri Lanka 66.0 70.4 82.3 92.3 110.5 134.8 165.5 222.6 247.4 251.3 272.1 280.0
+
+National Apprenticeship and Industrial Training Authority 447.0 460.2 544.2 520.0 586.0 564.0 650.0 685.0 768.0 1,000.0 890.8 1,270.0
+
+National Institute of Education 241.0 236.5 240.0 225.9 223.4 226.8 250.0 338.0 304.5 430.0 330.0 430.0
+
+National Engineering Research and Development Centre 132.0 139.5 130.8 129.4 144.8 161.0 164.5 198.2 214.8 288.0 241.7 300.0
+
+National Youth Services Council 522.0 515.9 507.0 560.0 572.0 589.3 634.7 820.0 850.0 930.0 918.2 1,000.0
+
+Sir John Kotelawala Defence University 176.0 193.0 207.0 288.9 358.5 432.9 649.4 980.8 1,029.9 1,110.0 1,279.8 1,200.0
+
+Sri Jayewardenepura Hospital 737.0 775.0 775.0 837.0 843.3 999.6 1,700.6 920.1 1,300.0 1,300.0 1,300.0 1,370.0
+
+University Grant Commission n.a. n.a. n.a. n.a. 14,611.0 1,041.1 1,165.5 1,747.8 1,704.5550.0 1,823.0 530.0
+
+University of Peradeniya n.a. n.a. n.a. n.a. n.a. 2,516.2 3,255.0 4,081.0 4,350.04,100.0 4,349.3 4,760.0
+
+University of Colombo n.a. n.a. n.a. n.a. n.a. 1,490.7 1,918.0 2,238.0 2,397.02,500.0 2,533.3 2,850.0
+
+University of Sri Jayewardenepura n.a. n.a. n.a. n.a. n.a. 1,541.9 1,856.0 2,360.0 2,537.72,700.0 2,907.8 2,926.0
+
+University of Kelaniya n.a. n.a. n.a. n.a. n.a. 1,567.0 1,815.0 2,244.0 2,430.02,550.0 2,550.1 2,750.0
+
+University of Moratuwa n.a. n.a. n.a. n.a. n.a. 1,045.9 1,280.0 1,579.0 1,724.01,950.0 1,950.5 2,100.0
+
+University of Jaffna/Vauniya Campus n.a. n.a. n.a. n.a. n.a. 1,037.9 1,337.0 1,722.0 2,007.02,200.0 2,205.0 2,350.0
+
+University of Ruhuna n.a. n.a. n.a. n.a. n.a. 1,400.8 1,695.0 2,152.0 2,242.62,200.0 2,390.3 2,524.0
+
+Vocational Training Authority of Sri Lanka n.a. n.a. n.a. n.a. 850.0 836.6 925.2 1,162.0 1,286.51,305.2 1,311.4 1,485.0
+
+Other 11,778.3 13,227.8 14,117.5 16,496.9 15,506.8 18,605.6 21,215.7 6,037.8 17,043.819,450.5 19,243.1 22,841.2
+
+Total 32,830.0 33,845.2 34,087.9 37,767.3 41,429.0 45,240.8 57,022.9 61,256.4 70,903.6 57,262.6 71,923.6 64,114.2
+
+(a) Operational losses of the Department of Sri Lanka Railways (Rs. 7.6 billion) and the Department of Posts (Rs. 5.0 billion) are excluded.Source: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 104
+
+Capital Transfers to Public Corporations and InstitutionsRs. million
+
+Public Corporations and Institutions200820092010201120122013201420152016
+
+20172018
+
+ApprovedEstimates Provisional ApprovedEstimates
+
+AGRICULTURE AND IRRIGATION 1,564.0 1,190.8 1,745.4 1,881.7 1,748.4 2,610.7 3,893.3 2,618.3 3,033.9 4,114.9 3,004.2 4,356.0
+
+Coconut Development Authority 127.0 75.2 96.4 49.4 100.5 71.8 102.6 84.9 89.0 120.0 82.0 130.0
+
+Coconut Cultivation Board 335.0 267.3 432.5 571.7 259.0 400.8 499.4 456.6 561.3 750.0 640.0 810.0
+
+Coconut Research Institute 52.0 62.2 70.0 82.7 50.7 62.7 66.8 76.0 53.6 100.0 50.0 90.0
+
+Mahaweli Authority of Sri Lanka 375.0 330.0 640.2 628.7 823.0 1,300.7 1,089.0 825.0 1,053.0 1,575.4 1,253.7 1,575.5
+
+National Institution of Plantation Management 2.0 6.4 6.7 10.1 7.0 23.1 21.5 18.2 32.7 30.0 19.9 32.0
+
+Rubber Research Institution 28.0 25.8 27.6 31.9 46.0 53.4 68.0 63.6 84.8 80.0 51.0 135.0
+
+Sri Lanka Cashew Corporation 51.0 45.0 38.1 40.5 28.0 48.7 39.5 35.0 40.0 80.0 54.0 55.0
+
+Sri Lanka Council for Agricultural Research Policy 32.0 16.1 15.4 28.2 20.0 16.3 20.4 1.0 8.8 20.0 16.1 35.0
+
+Tea Research Institute n.a. n.a. n.a. n.a. 50.1 87.3 86.0 79.7 71.0 95.0 61.5 85.0
+
+Tea Small Holdings Development Authority n.a. n.a. n.a. n.a. 199.0 294.8 476.3 650.0 674.3 800.0 455.0 850.0
+
+Other 542.0 347.1 406.6 420.4 165.1 251.1 1,423.8 328.5 365.5 464.5 321.0 558.5
+
+ENERGY AND WATER SUPPLY 20,164.0 20,200.5 19,060.4 22,108.1 27,321.1 22,840.2 23,193.5 5,239.9 13,925.8 2,457.7 3,677.2 1,608.4
+
+Sri Lanka Atomic Energy Board 24.0 12.1 23.5 83.3 82.8 202.5 371.9 350.9 35.2 100.0 22.4 100.0
+
+National Water Supply and Drainage Board 20,140.0 20,188.4 19,036.9 22,024.8 27,162.4 22,579.1 22,729.7 4,822.1 1,690.7 2,229.7 1,939.9 1,394.2
+
+Sri Lanka Sustainable Energy Authority n.a. n.a. n.a. n.a. 61.0 43.6 54.1 38.2 60.0 80.0 64.9 80.0
+
+Water Resources Board n.a. n.a. n.a. n.a. 14.9 15.1 37.8 28.6 34.0 30.0 27.9 30.0
+
+Other - - - - - - - - 12,105.9 18.0 1,622.1 4.2
+
+FISHERIES 380.0 267.7 288.1 374.6 237.8 277.8 295.0 350.0 903.0 505.0 525.4 573.0
+
+Ceylon Fishery Habours Corporation 135.0 106.2 144.3 133.5 96.1 76.0 100.0 110.0 145.0 220.0 181.0 225.0
+
+National Aquatic Resources, Research and Development Agency 162.0 102.1 76.0 112.4 59.3 118.3 100.0 140.0 185.0 85.0 172.0 98.0
+
+National Aquaculture Development Authority 44.0 34.4 44.1 60.0 82.4 83.5 95.0 100.0 150.0 200.0 172.4 250.0
+
+MANUFACTURING AND MINING 27.5 19.4 67.9 37.7 42.4 70.9 110.4 95.7 145.1 230.0 163.0 250.0
+
+Industrial Development Board 23.0 17.0 60.6 29.0 18.0 25.0 35.0 45.0 45.0 70.0 55.0 70.0
+
+Gem and Jewellery Research and Training Institute n.a. n.a. n.a. n.a. 10.9 29.6 35.4 20.4 42.8 60.0 34.9 60.0
+
+Other 4.5 2.4 7.3 8.7 13.6 16.4 40.0 30.3 57.2 100.0 73.1 120.0
+
+TRADE AND COMMERCE 448.0 354.8 443.3 504.9 336.8 404.1 519.7 510.4 470.4 996.0 580.3 837.0
+
+Export Development Board 395.0 272.4 266.3 200.4 186.7 229.0 253.0 192.8 100.0 260.0 113.0 280.0
+
+Paddy Marketing Board - 4.9 11.0 217.4 115.3 81.1 175.0 155.0 150.0 390.0 150.0 207.0
+
+Other 53.0 77.5 166.0 87.0 34.8 94.0 91.7 162.7 220.4 346.0 317.3 350.0
+
+TRANSPORT AND COMMUNICATIONS 49,495.0 78,600.4 85,867.3 92,209.9 135,863.5 131,409.8 129,949.6 180,813.9 150,580.7 118,164.1 195,317.2 127,588.1
+
+National Transport Commission 159.0 285.0 78.9 54.1 32.0 48.5 137.0 151.0 48.9 100.0 44.0 -
+
+Road Development Authority 47,344.0 77,077.6 84,830.4 90,736.4 135,180.0 130,084.8 127,657.6 177,768.8 145,795.8 116,017.1 191,761.0 124,989.1
+
+Sri Lanka Broadcasting Corporation 62.0 83.7 100.0 175.5 65.2 28.7 218.0 230.3 185.3 220.0 185.6 222.0
+
+Sri Lanka Central Transport Board 1,884.0 1,059.4 849.3 1,243.2 579.0 1,237.2 1,877.3 2,632.8 4,529.7 1,800.0 3,320.1 2,150.0
+
+Other 31.0 15.7 8.7 0.7 7.3 10.6 59.7 31.0 21.0 27.0 6.5 227.0
+
+OTHER 10,344.8 9,407.6 12,023.8 15,179.8 10,456.8 13,083.5 17,526.7 50,556.1 47,696.6 37,171.3 38,617.6 47,606.3
+
+National Apprenticeship and Industrial Training Authority 117.0 58.7 102.9 355.5 331.0 121.7 195.5 59.4 94.4 120.0 78.8 200.0
+
+National Science Foundation n.a. n.a. n.a. n.a. 152.4 135.1 236.9 234.8 231.8 260.0 243.0 300.0
+
+National Youth Services Council 36.0 44.9 42.3 149.5 185.1 489.5 613.0 420.0 475.0 500.0 467.8 850.0
+
+Sri Jayewardenepura General Hospital n.a. n.a. n.a. n.a. 71.0 282.4 190.2 265.7 553.0 1,000.0 509.6 1,000.0
+
+Urban Development Authority 337.0 1,261.2 544.8 1,032.0 270.0 1,025.0 1,346.8 1,070.6 607.9 1,000.0 690.7 1,000.0
+
+University Grant Commission n.a. n.a. n.a. n.a. 4,341.0 152.1 299.3 238.6 195.3 400.0 203.4 450.0
+
+University of Peradeniya n.a. n.a. n.a. n.a. n.a. 494.3 1,085.8 898.0 1,513.0 800.0 800.0 1,000.0
+
+University of Colombo n.a. n.a. n.a. n.a. n.a. 359.2 628.1 615.0 632.0 400.0 765.0 1,100.0
+
+University of Sri Jayewardenepura n.a. n.a. n.a. n.a. n.a. 454.6 947.6 875.0 1,197.2 800.0 799.7 900.0
+
+University of Kelaniya n.a. n.a. n.a. n.a. n.a. 280.5 570.0 700.0 881.0 700.0 666.0 900.0
+
+University of Moratuwa n.a. n.a. n.a. n.a. n.a. 261.8 714.0 640.0 1,353.5 800.0 725.0 800.0
+
+University of Jaffna/Vauniya Campus n.a. n.a. n.a. n.a. n.a. 465.9 1,140.0 721.0 1,181.0 700.0 777.5 800.0
+
+University of Ruhuna n.a. n.a. n.a. n.a. n.a. 499.5 608.0 535.0 985.0 700.0 655.0 500.0
+
+University of Vocational Technology - UNIVOTEC n.a. n.a. n.a. n.a. n.a. 76.0 96.1 77.6 143.0 155.5 132.0 487.0
+
+Other 8,933.7 4,269.9 7,727.6 9,658.7 5,073.0 7,986.1 8,855.4 43,205.5 37,653.6 28,835.8 31,104.2 37,319.3
+
+Total 82,423.2 110,041.2 119,496.2 132,296.7 176,006.8 170,697.0 175,488.2 240,184.3 216,755.5 163,639.1 241,884.9 182,818.7
+
+Source: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 105
+
+Acquisition of Financial Assets (Loan Outlays)Rs. million
+
+Government Corporations and Institutions20082009201020112012201320142015201620172018ApprovedEstimatesProvisional ApprovedEstimates
+
+1. Ceylon Electricity Board 16,80814,18022,39722,37229,40120,10815,521812893091555
+
+2. Sri Lanka Ports Authority 7,85625,37327,12813,1448,153953771 - - - - -
+
+3. Other (a)6,58913,4794,9078,9726,3375,84110,46414,51116,68810,21118,88814,131
+
+Total31,25353,03254,43344,48843,89126,90126,75614,59216,97710,52019,04314,136
+
+(a) This includes on-lending to Ceylon Petroleum Corporation, and local loans and development FundsSource: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 106
+
+Financing of the Government Net Cash Deficit Rs. million
+
+Item2008200920102011201220132014201520162017 (a)
+
+1. NET CASH SURPLUS (+) / DEFICIT (-)-322,329-486,626-451,924-455,207-551,142-612,599-801,408-980,776-640,325-688,818
+
+1.1 Revenue and Grants708,596746,359858,372973,4761,030,1281,098,3551,169,5431,413,3181,725,2781,914,288
+
+1.2 Expenditure (b)-1,030,925-1,232,984-1,310,295-1,428,683-1,581,271-1,710,954-1,970,952-2,394,094-2,365,603-2,603,105
+
+2. FINANCING OF THE DEFICIT322,329486,626451,924455,207551,142612,599801,408980,776640,325688,818
+
+2.1 Domestic Financing314,312245,556202,229231,224257,847487,542525,843743,973248,411249,574
+
+2.1.1 Domestic Market Borrowings309,694234,276191,999236,021252,409474,542539,206743,973248,411249,574
+
+Rupee Loans - 1,904 - - - - - - - -
+
+Less: Direct Repayments1,50019,62124,58325,7483,5762,868 - 31,430 - -
+
+Net-1,500-17,717-24,583-25,748-3,576-2,868 - -31,430 - -
+
+Treasury Bills69,76649,00882,79679,61616,78253,51026,077-26,37598,482-81,666
+
+Treasury Bonds192,356201,935140,440168,401154,548252,125369,135442,582349,814109,146
+
+Sri Lanka Development Bonds 65,4977,56411,0735,26818,359140,27720,968222,967-120,51653,289
+
+Central Bank Advances15,629-2,4283,99816,86416,549-2,12534,7317,234-67,825116,494
+
+Other Borrowings from Banks (c)-43,598-2,918-7,29113,73045,13931,725101,967101,970-19,92671,186
+
+Use of Cash Balances11,544-1,169-14,434-22,1094,6091,898-13,672-4,4058,383-18,874
+
+2.1.2 Domestic Other Borrowings (d)4,61811,28010,230-4,7985,43813,000-13,363 - - -
+
+2.2 Foreign Financing8,018241,070249,694223,983293,295125,057275,565236,803391,914439,243
+
+2.2.1 Project Loans 114,600146,717163,860174,523228,808164,191188,025257,870254,559220,129
+
+Less: Repayments47,76266,05955,36063,63280,95895,65596,634126,617145,266170,617
+
+Net66,83880,658108,500110,892147,85068,53691,391131,253109,29349,512
+
+2.2.2 Non-project Loans -58,820160,412141,194113,092145,44556,521184,174105,550282,620389,731
+
+Commodity Loans583141263,2542,3168,1956261,0643441,330
+
+Less: Repayments5,7715,8716,1005,7935,6345,2264,8145,4435,3069,441
+
+Net -5,713-5,557-5,974-2,539-3,3192,969-4,188-4,379-4,963-8,112
+
+Other loans (e)14,970208,755163,893144,995255,700156,664270,023262,162306,117442,394
+
+Less: Repayments68,07742,78616,72429,364106,937103,11281,661152,23318,53444,550
+
+Net-53,107165,969147,169115,631148,76453,552188,362109,929287,583397,843
+
+(a) Provisional(b) Consists of government expenditure excluding contributions to sinking funds, direct repayment of public debt and subscriptions to international financial organisations. Also excludes book adjustments arising from losses on Advance Account operations incurred and financed in previous financial years. Hence, the figures may not tally with the figures published in the accounts of the Government of Sri Lanka.(c) Includes cash items in process of collection in the Central Bank and commercial banks, government import bills, overdraft and borrowings from offshore banking units of commercial banks(d) Includes domestic grants, administrative borrowings and other non market borrowings(e) Includes cash loans received from the Iraq, China, OPEC, Japan, military equipment loans, Euro currency commercial loans, proceeds from the international sovereign bond issuances and foreign currency term financing facility
+
+Sources : Ministry of Finance and Mass Media Ministry of National Policies and Economic Affairs Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 107
+
+Economic Classification of Government RevenueRs. million
+
+Item20082009201020112012201320142015201620172018
+
+Approved EstimatesProvisionalApprovedEstimates
+
+1. Tax Revenue585,621618,933724,747845,697908,9131,005,8951,050,3621,355,7791,463,6891,827,0001,670,1782,034,000
+
+1.1 Taxes on Foreign Trade112,336137,260130,749162,071184,634191,815198,483244,231302,538337,880311,782371,500
+
+Imports63,84479,56064,16379,81180,15583,12381,108132,189156,487165,500136,501175,000
+
+Import Duty (gross)63,99479,81064,22379,84880,15583,12381,108132,189156,487165,500136,501175,000
+
+Less: Duty Rebate-150-250-59-37 - - - - -- - -
+
+PAL/RIDL/SCL/Other 48,49257,70066,58582,260104,479108,692117,375112,042146,051172,380175,280196,500
+
+1.2 Taxes on Domestic Goods and Services 306,409272,383355,366436,758457,818506,906539,023724,282747,147985,570921,2441,113,950
+
+VAT203,646171,510219,990225,858229,604250,757275,350219,700283,470380,000443,760550,000
+
+Domestic102,805103,891120,412104,897109,370124,440140,084130,527168,134232,000275,367340,000
+
+Imports100,84167,62099,578120,961120,234126,317135,26689,173115,336148,000168,393210,000
+
+Excise Tax100,97097,604129,864204,822223,960250,700256,691497,652454,952579,035469,500535,040
+
+Liquor27,43428,52536,65455,28660,08666,00869,100105,264120,238175,500113,684125,000
+
+Tobacco/Cigarettes37,28837,60140,67549,62353,56358,56757,24080,01588,792105,03586,00290,040
+
+Petroleum18,97723,01828,03822,47028,46627,13128,73245,09255,71955,00073,98380,000
+
+Motor Vehicle and Other17,2718,46024,49777,44481,84598,994101,618267,282190,203243,500195,831240,000
+
+Licence Fees1,7933,2695,5126,0784,2545,4496,9836,9298,72626,5357,98428,910
+
+1.3 Taxes on Net Income and Profits126,541139,558135,623157,310172,563205,666198,115262,583258,857334,550274,562370,000
+
+Corporate63,69366,75175,20898,74891,888100,64998,183162,019164,592192,200177,591254,200
+
+Non-Corporate23,32628,22930,99324,78521,41327,33730,52938,15246,42667,35045,61975,800
+
+Tax on Interest39,52244,57829,42233,77659,26277,67969,40262,41247,83975,00051,35140,000
+
+1.4 Stamp Duty/Cess Levy/SRL/NBT/DL/TL 31,92561,69692,16585,32693,898101,508114,742124,683155,147169,000162,591178,550
+
+1.5 Debits Tax8,4108,03610,8434,232 - - - - - - - -
+
+2. Non Tax Revenue69,63980,71192,532122,165142,547131,552144,84499,099222,374183,300161,353183,200
+
+2.1 Current Revenue69,52180,63392,292121,651141,716131,272127,23999,001221,966183,000161,353183,100
+
+Property Income27,32343,99158,14771,730103,66975,68673,82839,055131,19890,52067,92277,335
+
+Rent2,0501,4252,0483,5802,1972,3315,6692,82310,9804,1704,4504,135
+
+Interest9,3059,0438,0179,8469,4889,6647,9784,4984,8266,2507,3955,600
+
+Profits and Dividends7,36511,98231,30134,35146,76135,16946,81429,798108,16072,60053,99855,600
+
+National Lotteries Board and other Transfers6031,5421,7811,9532,2232,1731,8681,9362,2312,5002,0792,000
+
+Central Bank Profit Transfers8,00020,00015,00022,00043,00026,35011,500-5,0005,000 - 10,000
+
+Social Security Contributions6,79111,16511,12012,62811,73815,14514,91915,21318,04622,00022,94026,000
+
+Fees and Administration Charges16,59223,32119,74630,89120,73937,76835,49942,39868,36560,10566,63575,778
+
+Other18,8152,1563,2796,4025,5702,6732,9932,3344,35710,3753,8553,987
+
+2.2 Capital Revenue (a)1187824051483128017,60498407300 - 100
+
+Total655,259699,644817,279967,8621,051,4601,137,4471,195,2061,454,8781,686,0622,010,3001,831,5312,217,200
+
+(a) Sale of capital goods
+
+Note : Value Added Tax (VAT), Ports and Airports Development Levy (PAL), Regional Infrastructure Development Levy (RIDL) and Special Commodity Levy (SCL), Social Responsibility Levy (SRL), Nation Building Tax (NBT), Defence Levy (DL) and Telecommunications Levy (TL)
+
+Source: Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 108
+
+Economic Classification of Government Expenditure and Lending Minus RepaymentsRs. million
+
+Item20082009201020112012201320142015201620172018
+
+ApprovedEstimatesProvisionalApprovedEstimates
+
+1. Recurrent Expenditure743,710879,575937,0941,024,9061,131,0231,205,1801,322,8981,701,6581,757,7821,946,0001,927,6932,152,000
+
+1.1 Expenditure on Goods and Services360,328379,731388,286451,605487,833512,624568,829772,563746,250838,336756,591862,954
+
+Salaries and Wages239,078271,229300,558319,601347,747393,228440,982561,730576,471615,000588,518630,000
+
+Civil Administration139,106146,493157,705173,890184,182218,256255,373323,287334,306369,392342,371363,809
+
+Defence99,972124,736142,853145,711163,565174,972185,609238,443242,165245,608246,148266,191
+
+Other Purchases of Goods and Services121,250108,50287,728132,004140,086119,396127,847210,834169,779223,336168,072232,954
+
+Civil Administration50,02546,08039,97875,52596,41578,11752,383144,079108,286158,148102,420167,844
+
+Defence71,22562,42247,75056,47943,67141,27975,46366,75561,49365,18865,65265,109
+
+1.2 Interest Payments212,475309,675352,592356,699408,498444,007436,395509,674610,895680,087735,566820,000
+
+Foreign30,27735,69855,46468,56590,839100,985108,461115,386126,713123,291164,942170,000
+
+Domestic182,198273,978297,127288,134317,659343,022327,934394,289484,182556,796570,623650,000
+
+1.3 Transfer Payments170,908190,168196,216216,602234,692248,549317,674419,420400,637427,577435,536469,046
+
+Households131,342148,993156,194171,438187,895195,288251,665345,483317,153358,613350,420392,632
+
+Sub National Governments217 - - - - - - - - - - -
+
+Non-financial Public Enterprises12,94214,12612,36112,99911,81713,85419,43127,92933,22015,81330,72816,532
+
+Institutions and Other 26,40727,04927,66132,16434,97939,40746,57746,00950,26453,15154,38959,883
+
+2. Capital Expenditure232,607277,416302,087377,812400,082454,303459,855588,175577,036697,780638,343746,863
+
+2.1 Acquisition of Fixed Capital Assets128,605143,590158,488217,438197,350252,535252,303313,260328,202502,035360,333528,499
+
+2.2 Capital Transfers104,002133,826143,599160,374202,732201,768207,551274,916248,834195,745278,010218,364
+
+Institutions 59,99190,29199,151105,603145,935143,504147,166197,712184,689142,465215,508156,224
+
+Non-financial Public Enterprises22,43219,75020,34526,69330,07227,19328,32242,47332,06621,17426,37726,595
+
+Sub National Governments21,23723,78024,10127,61925,26629,69231,54734,06329,88730,49134,51132,102
+
+Abroad 341 514591,4591,3795166682,1911,6151,6143,443
+
+3. Lending Minus Repayments19,80944,93641,02530,46425,3949,91313,112561-9341,5207,0213,336
+
+3.1 Net Lending through Advance Accounts1,4571,9322,126854-2,088-1,0191,249-1,0707085,0004,3966,000
+
+3.2 Lending to Public Enterprises31,25353,03254,43344,48843,89126,90126,75614,59216,97710,52019,04314,136
+
+3.3 Loan Repayments in Public Enterprises-13,526-11,978-15,535-14,878-16,409-15,969-14,892-12,961-18,619-14,000-16,418-16,800
+
+3.4 Restructuring Expenditure6251,950 - - ---- - - - -
+
+Total996,1261,201,9271,280,2051,433,1821,556,4991,669,3961,795,8652,290,3942,333,8832,645,3002,573,0562,902,200
+
+Source : Ministry of Finance and Mass Media
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 109
+
+Economic Classification of Government Fiscal OperationsRs. million
+
+Item200820092010201120122013201420152016
+
+20172018Approved EstimatesApproved EstimatesProvisional
+
+1. Total Revenue and Grants686,482725,566834,188983,0031,067,5321,153,3061,204,6211,460,8921,693,5582,020,3001,839,5622,227,200
+
+1.1 Total Revenue655,260699,644817,279967,8621,051,4601,137,4471,195,2061,454,8781,686,0622,010,3001,831,5312,217,200
+
+Tax585,621618,933724,747845,697908,9131,005,8951,050,3621,355,7791,463,6891,827,0001,670,1782,034,000
+
+Non tax69,63980,71192,532122,165142,547131,552144,84499,099222,374183,300161,353183,200
+
+1.2 Grants31,22225,92216,90915,14116,07115,8599,4156,0147,49610,0008,03110,000
+
+2. Expenditure and Lending minus Repayments-996,126 -1,201,927 -1,280,205 -1,433,182 -1,556,499 -1,669,396 -1,795,865 -2,290,394 -2,333,883 -2,645,300 -2,573,056 -2,902,200
+
+Recurrent-743,710-879,575-937,094-1,024,906-1,131,023-1,205,180-1,322,898-1,701,658-1,757,782-1,946,000-1,927,693-2,152,000
+
+Capital-232,607-277,416-302,087-377,812-400,082-454,303-459,855-588,175-577,036-697,780-638,343-746,863
+
+Lending minus Repayments-19,809-44,936-41,025-30,464-25,394-9,913-13,112-561934-1,520-7,021-3,336
+
+3. Current Account Surplus (+)/ Deficit (-)-88,450-179,931-119,815-57,044-79,563-67,733-127,692-246,779-71,71964,300-96,16265,200
+
+4. Primary Account Surplus (+)/ Deficit (-)-97,169-166,686-93,425-93,481-80,469-72,083-154,849-319,828-29,43055,0872,071145,000
+
+5. Budget Surplus (+)/ Deficit (-)-309,644-476,361-446,017-450,180-488,967-516,090-591,244-829,502-640,325-625,000-733,494-675,000
+
+6. Financing of Budget Deficit309,644476,361446,017450,180488,967516,090591,244829,502640,325625,000733,494675,000
+
+6.1. Foreign Financing (Net)-4,645230,807243,788218,956286,455123,700212,523236,803391,914332,000439,243360,000
+
+Gross Borrowings116,964345,523321,972317,745486,824327,693395,632521,096561,020509,960663,852630,715
+
+Repayments-121,609-114,716-78,184-98,789-200,369-203,993-183,109-284,293-169,107-177,960-224,609-270,715
+
+6.2. Domestic Financing (Net)314,287245,554202,229231,224202,511392,390378,721592,699248,411293,000294,251315,000
+
+Market Borrowings 309,669234,274191,999236,021202,511379,390392,084592,699248,411293,000249,574315,000
+
+Non Bank114,437185,247193,89144,17170,98482,414265,155300,858108,456261,00061,841195,000
+
+Gross Borrowings373,157586,543583,563484,065486,425578,455714,709824,681680,898883,227704,7161,074,285
+
+Repayments-258,720-401,296-389,672-439,894-415,441-496,042-449,554-523,824-572,442-622,227-642,875-879,285
+
+Bank195,23349,027-1,892191,850131,527296,977126,929291,841139,95532,000187,733120,000
+
+Net Borrowings183,68946,68512,542213,959153,918264,658140,601296,246131,57332,000 206,607 120,000
+
+Use of Cash Balances11,5442,342-14,434-22,109-22,39132,318-13,672-4,405 8,383 - -18,847 -
+
+Other Borrowings (a)4,61911,28010,230-4,798 - 13,000-13,363 - - - 44,677 -
+
+(a) Includes domestic grants, divestiture proceeds and other non market borrowingsSource : Ministry of Finance and Mass Media Ministry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 110
+
+Composition of Outstanding Central Government Debt Rs. million
+
+Source2008200920102011201220132014201520162017 (a)
+
+1. Foreign Debt1,448,7341,760,4672,024,5832,329,2802,767,2992,960,4243,113,1163,544,0314,045,7964,718,618
+
+1.1 Project Loans (b)1,261,3041,362,8061,461,7291,640,1171,846,7721,938,9091,904,5992,180,3882,361,1182,610,547
+
+1.2 Non-Project Loans187,430397,661562,854689,163920,5271,021,5151,208,5161,363,6421,684,6782,108,070
+
+Commodity (c)66,49962,30454,65353,46056,59961,59769,99371,47069,10162,727
+
+Other (d)120,931335,357508,201635,703863,928959,9181,138,5231,292,1731,615,5772,045,344
+
+2. Domestic Debt2,140,2282,400,9552,565,6622,804,0853,232,8133,832,8254,277,7834,959,1965,341,5075,594,427
+
+2.1 Rupee Loans (e)130,009112,29287,70961,96158,38655,51855,51824,08824,08824,088
+
+2.2 Treasury Bills (f)402,600441,032514,442590,885629,070700,137694,767658,240779,581697,154
+
+2.3 Treasury Bonds (g)1,281,9781,513,5121,643,8871,819,2512,095,0542,452,3602,844,0543,305,2483,714,7873,822,620
+
+2.4 Sri Lanka Development Bonds158,805168,079173,877183,845222,994369,215391,083668,458572,199637,886
+
+2.5 Central Bank Advances76,30873,88177,87994,743111,292109,167143,898151,13283,307199,801
+
+2.6 Other (h)90,52892,16067,86953,400116,017146,429148,463152,031167,545212,879
+
+Total3,588,9624,161,4224,590,2455,133,3656,000,1126,793,2497,390,8998,503,2279,387,30310,313,045
+
+(a) Provisional
+
+(b) Represents the amounts withdrawn and outstanding on the loans contracted with the IBRD, USA, Canada, Denmark, People’s Republic of China, Germany, UK, India, IDA, ADB,
+
+Netherlands, Kuwait, OPEC, Japan, UAE, IFAD, Skandinaviska Enskilda Benkens - Sweden, Salomon Brother’s Incorporated-New York, Bank Indosuez, BFCE-France, Citibank
+
+International of USA, Australia, Austria, Saudi Arabian Fund, EIB, Hong Kong and Korea
+
+(c) Represents the amounts withdrawn and outstanding on the loans contracted with the USA, Canada, Germany, Japan, France, India, Italy, Pakistan, and Netherlands
+
+(d) Includes cash loans received from the ADB, USA, China, Germany, Japan, OPEC, rupee denominated Treasury bonds and rupee denominated Treasury bills from 2008 held by
+
+foreign investors, the international sovereign bonds, outstanding defence loans and foreign currency term financing facilities
+
+(e) Includes the market value of investments held by the Joint Investment Fund on behalf of the sinking funds
+
+(f) Excludes outstanding Treasury bills held by foreign investors
+
+(g) Excludes (i) rupee denominated Treasury bonds held by foreign investors, (ii) Treasury bonds amounting to Rs. 78,447 million issued to settle dues to CPC in January 2012. Due to
+
+maturing of some of those bonds in January 2017, the outstanding amount from January 2017 was Rs. 56,662 million and (iii) Treasury bonds amounting to Rs. 13,125 million
+
+issued to capitalise SriLankan Airlines
+
+(h) Includes administrative borrowings arising from foreign loans channelled through government or semi-government agencies and outstanding borrowings from Offshore Banking
+
+Units (OBUs)
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 111
+
+Ownership of Central Government Debt (as at end of the year) (a)
+
+Rs. million
+
+Owner 2008200920102011201220132014201520162017 (b)
+
+1. Domestic Debt (c)(d)2,140,2282,400,9552,565,6622,804,0853,232,8133,832,8254,277,7834,959,1965,341,5075,594,427
+
+1.1 Banking Sector657,425705,766691,716886,2211,060,3171,433,7731,669,8821,924,0362,114,9012,328,544
+
+Central Bank239,248109,59378,376263,329265,198112,396267,677256,050414,950209,412
+
+Commercial Banks 418,177596,172613,340622,892795,1191,321,3771,402,2051,667,9861,699,9512,119,133
+
+1.2 Non Bank Sector1,482,8041,695,1891,873,9451,917,8642,172,4952,399,0532,607,9013,035,1603,226,6063,265,883
+
+Market Borrowings1,478,5531,685,6381,866,2671,916,9302,171,5622,385,1202,607,3313,034,5903,226,6063,265,883
+
+Savings Institutions 204,067257,084286,514314,319330,150358,243379,877428,236426,771447,792
+
+Insurance Funds25,97634,49032,83934,35633,76830,84930,53650,59757,94472,305
+
+Provident and Pension Funds (e)698,192835,402884,279959,3031,204,7291,428,5341,474,5601,655,3361,826,6331,942,739
+
+Official Funds (f)107,234132,485167,374161,568178,900202,118221,584252,615271,630289,154
+
+Private Business and Individuals (g)443,084426,177495,261447,385424,015365,376500,773647,807643,628513,894
+
+Non Market Borrowings4,2519,5517,67893393313,933570570--
+
+2. Foreign Debt (h)1,448,7341,760,4672,024,5832,329,2802,767,2992,960,4243,113,1163,544,0314,045,7964,718,618
+
+Total3,588,9624,161,4224,590,2455,133,3656,000,1126,793,2497,390,8998,503,2279,387,30310,313,045
+
+(a) Outstanding Treasury bills and Treasury bonds have been adjusted for secondary market transactions(b) Provisional(c) Excludes rupee denominated Treasury bills held by foreign investors(d) Excludes (i) rupee denominated Treasury bonds held by foreign investors, (ii) Treasury bonds amounting to Rs. 78,447 million issued to settle dues to CPC in January 2012. Due to maturing of some of those bonds in January 2017, the outstanding amount from January 2017 was Rs. 56,662 million and (iii) Treasury bonds amounting to Rs. 13,125 million issued to capitalise SriLankan Airlines(e) Trusts, Benevolent, Pension and Provident Funds and the Employees’ Provident Fund(f) The Central Government, Local Authorities, State Corporations, Departmental and other official funds(g) Includes the value of Treasury Certificates of Deposits, Public Debt Sinking Funds (the Investment Fund w.e.f. September,1971) and the National Housing Sinking Fund(h) Includes rupee denominated Treasury bills and Treasury bonds held by foreign investors
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 112
+
+Ownership of Treasury Bills (a) Rs. million
+
+Owner2008200920102011201220132014201520162017 (b)
+
+1. Bank Sector251,453197,532223,351355,552373,753447,004401,792445,418575,528473,106 1.1 Central Bank163,58437,4512,993169,797154,0053,053123,496104,754331,3899,908 1.2 Commercial Banks87,869160,081220,358185,756219,748443,951278,296340,664244,139463,1982. Non Bank Sector151,146243,499291,091235,333255,317253,133292,975212,822204,052224,048 2.1 Employees’ Provident Fund14205,969-33,41013,9691,000-41,05774,475 2.2 Other Provident Funds55 - 151,27912245-1627749 2.3 Savings Institutions20,79142,67752,54158,73361,97268,32847,94567,76618,04938,378 2.4 Insurance and Finance Companies10,9887,19212,07211,01019,09728,62947,46147,38857,91858,093 2.5 Departmental and Other Official Funds16,43121,45220,6365,9682,5668,11410,9867,5707,616760 2.6 Private and Other102,882171,757199,858158,344138,149134,048185,58289,93779,33652,293 3. Foreign Investors (c)6,35840,41057,31770,12380,18473,91655,5005,04512,81627,552
+
+Total408,958481,441571,759661,008709,254774,053750,267663,285792,396724,706
+
+(a) Adjusted for secondary market transactions(b) Provisional(c) Includes rupee denominated Treasury bills held by foreign investors. Hence, figures are differ from those appearing in Appendix Table 110 of this report
+
+Sources: Ministry of Finance and Mass Media Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 113
+
+Ownership of Treasury Bonds (a) (b)Rs. million
+
+Owner2008200920102011201220132014201520162017 (c)
+
+1. Bank Sector90,082188,576162,215206,547244,770386,398595,067517,613731,942803,455 1.1 Commercial Banks90,082188,576162,215206,547244,770386,398595,067517,613731,942803,455
+
+2. Non Bank Sector1,191,897 1,324,936 1,481,672 1,612,704 1,850,284 2,065,962 2,248,987 2,787,635 2,982,845 3,019,164
+
+2.1 Employees’ Provident Fund607,770718,717814,451927,3741,117,3601,356,3891,450,1441,612,4611,737,2191,855,665
+
+2.2 Other Provident Funds9,50713,76619,8727,55030,63935,03131542,71348,060-
+
+2.3 Savings Institutions164,457195,588221,805246,418261,309285,915327,932358,470406,722407,415
+
+2.4 Insurance and Finance Companies26,41033,19433,62434,41031,71126,63642,74258,80868,12468,305
+
+2.5 Departmental and Other Official Funds90,77821,94936,96337,00637,596187,904210,598245,045264,014285,278
+
+2.6 Private and Other292,975341,722354,957359,946371,669174,087217,255470,138458,707402,501 3. Foreign Investors (d)17,647145,124183,538199,531317,604403,486401,710298,734247,222295,059
+
+Total1,299,625 1,658,636 1,827,425 2,018,782 2,412,657 2,855,846 3,245,764 3,603,982 3,962,009 4,117,679
+
+(a) Adjusted for secondary market transactions(b) Excludes (i) Treasury bonds amounting to Rs. 78,447 million issued to settle dues to CPC in January 2012. Due to maturing of some of those bonds in January 2017, the outstanding amount from January 2017 was Rs. 56,662 million and (ii) Treasury bonds amounting to Rs. 13,125 million issued to capitalise SriLankan Airlines(c) Provisional(d) Includes rupee denominated Treasury bonds held by foreign investors. Hence, figures are differ from those appearing in Appendix Table 110 of this report
+
+Sources: Ministry of Finance and Mass Media Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCE TABLE 114
+
+Ownership of Rupee LoansRs. million
+
+Owner2008200920102011201220132014201520162017 (a)
+
+1. Bank Sector - Commercial Banks15,87017,25117,61516,23415,87015,87015,87015,87015,87015,870
+
+2. Non Bank Sector114,13995,04070,09445,72742,51639,64839,6488,2188,2188,218
+
+2.1 Savings Institutions 18,82018,82012,1689,1686,8684,0004,0002,0002,0002,000
+
+2.2 Departmental and Other Official Funds (b)8,4006,1116,1036,1015,1906,1016,101---
+
+2.3 Employees’ Provident Fund68,53956,58340,92123,10023,10023,10023,100---
+
+2.4 Other Provident Funds12,32711,41710,3697,3587,3586,4476,4476,2186,2186,218
+
+2.5 Other (c)6,0532,110533-------
+
+Total130,009112,29287,70961,96158,38655,51855,51824,08824,08824,088
+
+(a) Provisional(b) Including Employees’ Trust Fund(c) Comprises Co-operative banks, other companies, institutions and individuals
+
+Sources: Ministry of Finance and Mass Media Central Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 115
+
+Ownership of Outstanding Foreign DebtRs. million
+
+Source2008200920102011201220132014201520162017 (a)
+
+1. Multilateral618,181665,040674,936721,916844,292903,540887,960994,4301,076,5491,198,243
+
+ADB317,763344,661358,872383,461448,421478,796471,762533,806569,686632,237
+
+EIB18,01020,46318,79218,05423,43823,24821,13329,72827,51829,193
+
+IBRD240---3224,5306,98710,38227,76028,462
+
+IDA267,475284,074281,217302,244349,997373,085363,052391,149417,636467,832
+
+IFAD9,05210,30911,03213,00716,01317,41917,09818,63121,52024,405
+
+OPEC2,3552,1731,9132,0522,6992,9984,7837,5479,30912,743
+
+Nordic Development Fund3,2853,3603,1103,0993,4033,4643,1453,1873,1193,370
+
+2. Bilateral666,533684,750739,213842,8041,035,907823,180793,196888,971945,754992,157
+
+Canada7,7188,4888,1347,7018,2697,4096,3395,3735,2755,254
+
+France (b)12,42415,02118,42719,50324,27326,86124,69825,40624,44827,977
+
+Germany61,52858,27950,26347,54751,16452,11243,34240,72639,14543,506
+
+India15,29417,90217,29241,92778,322102,843119,982137,413142,277145,071
+
+Japan426,936426,767478,931529,013547,515468,366416,408457,483486,199506,829
+
+Kuwait4,6495,1035,2375,7996,1945,7495,3576,7657,7748,768
+
+Netherlands75129187-------
+
+People’s Republic of China 29,68846,64156,45959,49767,43467,15487,743117,284131,604135,728
+
+Saudi Arabian Fund1,2172,3282,3382,5442,6483,8684,98210,72413,25516,722
+
+USA50,70846,95242,41440,31841,38638,85435,24634,59431,79828,295
+
+Other55,61956,97859,63388,957208,70249,96349,10053,20563,97874,007
+
+3. Financial Markets164,020410,676610,433764,560887,1001,233,7041,431,9591,660,6302,023,4932,528,218
+
+Riggs National Bank3,6743,4763,1402,9843,0642,9222,6512,6072,3362,110
+
+Bankers’ Trust Co.634560466399356275184101--
+
+Salomon Bros. Inc. New York37427015754------
+
+Citi Bank/NEXI11,314 - - ----201--
+
+Export-Import Bank of China (c)- - - ---146,262192,889242,416299,405
+
+Other (d) 148,024406,370606,670761,124883,6801,230,5071,282,8631,464,8321,778,7412,226,703
+
+Total1,448,7341,760,4672,024,5832,329,2802,767,2992,960,4243,113,1163,544,0314,045,7964,718,618
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+(a) Provisional(b) Includes loans from financial institutions(c) Excludes outstanding loans of projects under State Owned Business Enterprises(d) Includes outstanding defence loans, Rupee denominated Treasury bonds and Treasury bills held by foreign investors, proceeds from the international sovereign bond issuances, foreign currency term financing facilities and outstanding loans from China Exim Bank
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 116
+
+Foreign Loans - 2017Rs. million
+
+Type and SourceGross ReceiptsRepaymentsNet Change in the Liability (a)Liability as at end of December
+
+1. Project Loans247,114150,144237,4502,610,547ADB54,98223,80063,731628,144Australia1,5221,943-17711,419Austria1,020 2,373 94416,119Canada - 328203,821China (b)89,44929,49560,479426,213Denmark - 3,180-1,9097,543EIB - 2,4711,67529,193Finland - 405 -1641,458France5,8822,7348,75938,517Germany8972,4763,95938,287Hong Kong - 324-311324India8,1487,2723,859130,345IDA31,15513,67648,880456,075Japan23,86729,42020,503507,311Korea2831,1916,45555,138Kuwait1,4857689948,768Netherlands2,3317,778-1,03332,463OPEC Fund for International Development3,7154983,43412,743Saudi Arabian Fund2,8858723,46716,722Spain 4,840 7886,75319,072Sweden-3,327-3,03217,187UK6,2014,4324,86248,666USA 1,429 2,46533320,937Other7,0248,1324,96884,083
+
+2. Non Project Loans654,33067,314435,3722,108,0712.1 Commodity Loans1,3303,460-20,75723,586Canada - 176-421,433France - - - - India1,3302,370-1,06514,726Pakistan - 597-5352,610Germany - 3183674,817Netherlands - - - - USA - - -19,483 - Japan - - - -
+
+2.2 Other Loans653,00163,854456,1292,084,485ADB - 1,615-1,1804,093China 498 4516348,920USA 19,483 2,396 17,487 17,487 Germany - 2234402Japan - - - - Other (c)633,02059,369439,1542,053,583Memo: Liability due to variations in exchange rates211,868
+
+Grand Total901,444217,458672,8224,718,618
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+(a) These figures may differ from those appearing in Appendix Table 109 of this report due to differences in classification.(b) Excludes outstanding loans of projects under State Owned Business Enterprises(c) Includes rupee denominated Treasury bonds and Treasury bills held by foreign investors, proceeds from the international sovereign bonds issuances and foreign currency term financing facilities
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 117
+
+Net Receipts of Foreign Assistance (a)Rs. million
+
+Type and Source2008200920102011201220132014201520162017 (b)
+
+1. Loans8,019110,585211,106215,163268,263141,653264,021321,814419,249425,460
+
+ADB16,84516,96222,47715,39820,47717,12911,70218,31524,50729,567
+
+Australia-982-1,0993452,991 - -255-2,042-573-1,636-1,733
+
+Canada-576-427-477-478 -570-555-509-459-468-504
+
+China (c)3,44532,52211,09861282,89261,53126,94239,22839,80760,001
+
+Citibank International-11,191-11,428 - - -182 - -183-194-205-
+
+Denmark5,1184,098-412-706-777-335-2,163-2,152-2,315-2,456
+
+France1,0531,3304,9141,1372,0371,071334341-1,288-655
+
+Germany-3,968-4,887-2,530-2,840-2,962-2,860-2,855-1,989-1,710-1,919
+
+IBRD - - - - 335 - 2,4352,49716,472111
+
+IDA4,18910,4849,59614,38612,5497,84510,8115,05022,42717,948
+
+IFAD1558097631,6301,422 - 3332162,7281,090
+
+India-5142,325-6921,66132,04221,88512,0164,324-592-164
+
+Japan2553,97610,37312,61914,3406,3065,348-943-7,312-5,553
+
+Korea8063063,5362,4544,6693,8011,6881,8581,586-908
+
+Kuwait42843176165-309-601-209887652717
+
+Netherlands961192-176-91 - 5,786 - - - -
+
+OPEC Fund for International Development-90-233-204843652251,7231,9091,4613,217
+
+Saudi Arabian Fund149788-78-129-1851,1191,0681,6541,2212,013
+
+Salomon Brother’s Incorporated - New York-103-108-106-106-62 - - - - -
+
+UK18,577-3,4718,360-499-1,6222,0903,996-397-2,186-3,570
+
+USA-4,525-4,815-3,167-3,129-3,675-3,685-4,023-3,932-4,070-4,148
+
+Other -22,01362,828146,786150,003107,47921,156197,609256,174330,170332,405 2. Grants31,22225,92216,90918,81919,7087,76810,54510,3187,9774,668
+
+ADB3,7574,6484,0262,2541,241294935220 - -
+
+EEC2,6193,7651,416184 - - - - - -
+
+Germany3,43789373137 - 28714734759084
+
+Japan1,6371,7912,5652,0843,6001,5702,1819581,0171,466
+
+Netherlands - 5,9641,514702 - - - - - -
+
+Norway520 - - - - - - - -
+
+Sweden148 - - - - - - - - -
+
+Switzerland57 - 171 - - - - - - -
+
+United Nations - 9642,9708,0097,1781,748388061,185635
+
+USA3,389416 1,108 2,0303,0941,2311,331 - 3,570-
+
+Other 16,1737,4613,0663,4194,5952,6385,9137,9871,6152,483
+
+Total39,241136,507228,015233,982287,971149,421274,566332,132427,226430,128
+
+(a) These figures may differ from those appearing in Appendix Table 106 of this report due to differences in classification.(b) Provisional(c) Excludes net receipts from China for State Owned Business Enterprises from 2012
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 118
+
+Outstanding Central Government Debt (as at end of the year) (a)Rs. million
+
+Source20132014201520162017 (b)
+
+Total Domestic Debt3,832,8254,277,7834,959,1965,341,5075,594,427Short Term 909,156941,162913,291968,3961,031,181Treasury Bills (c)700,137694,767658,240779,581697,154Provisional Advances from the Central Bank109,167143,898151,13283,307199,801Import Bills held by Commercial Banks23,96025,5424--Other Liabilities to the Banking Sector Net of Bank Deposits61,95976,386103,345105,508134,227Other13,933570570--
+
+Medium and Long Term2,923,6703,336,6204,045,9054,373,1114,563,246Rupee Loans55,51855,51824,08824,08824,088Treasury Bonds (d)2,452,3602,844,0543,305,2483,714,7873,822,620Sri Lanka Development Bonds369,215391,083668,458572,199637,886Other 46,57745,96648,11162,03778,652
+
+By Debt Instrument3,832,8254,277,7834,959,1965,341,5075,594,427Rupee Securities 55,51855,51824,08824,08824,088Treasury Bills (c)700,137694,767658,240779,581697,154Treasury Bonds (d)2,452,3602,844,0543,305,2483,714,7873,822,620Sri Lanka Development Bonds369,215391,083668,458572,199637,886Provisional Advances from the Central Bank109,167143,898151,13283,307199,801Other146,429148,463152,031167,545212,879
+
+By Institution3,832,8254,277,7834,959,1965,341,5075,594,427Banks1,433,7731,669,8821,924,0362,114,9012,328,544Central BankBy Debt Instrument112,396267,677256,050414,950209,412Treasury Bills3,053123,496104,754331,3899,908Other (e)109,343144,180151,29683,560199,504Commercial BanksBy Debt Instrument1,321,3771,402,2051,667,9861,699,9512,119,133Rupee Loans15,87015,87015,87015,87015,870Treasury Bills443,951278,296340,664244,139463,198Treasury Bonds 386,398595,067517,613731,942803,455Sri Lanka Development Bonds369,215391,083668,458572,199637,886Other105,943121,890125,382135,802198,723By Institution1,321,3771,402,2051,667,9861,699,9512,119,133State Banks435,111527,641507,164506,647744,055Other886,266874,5641,160,8221,193,3041,375,078Non Bank SectorBy Debt Instrument2,399,0532,607,9013,035,1603,226,6063,265,883Rupee Securities39,64839,6488,2188,2188,218Treasury Bills253,133292,975212,822204,052224,048Treasury Bonds2,065,9622,248,9872,787,6352,982,8453,019,164Other (f)40,31026,29126,48531,49014,453By Institution2,399,0532,607,9013,035,1603,226,6063,265,883National Savings Bank358,243379,877428,236426,771447,792Savings Institutions & Individuals350,562441,106592,208575,531449,103Employees’ Provident Fund1,393,4581,474,2441,612,4611,778,2761,930,141Insurance Institutions30,84930,53650,59757,94472,305Finance Companies27,83959,66755,59968,09764,791Other238,102222,470296,060319,986301,752Administrative Borrowings13,933570570--Departments, Official Funds and Other224,169221,900295,490319,986301,752
+
+Total Foreign Debt (g)2,960,4243,113,1163,544,0314,045,7964,718,618By Type2,960,4243,113,1163,544,0314,045,7964,718,618Project Loans1,938,9091,904,5992,180,3882,361,1182,610,547Non-Project Loans1,021,5151,208,5161,363,6421,684,6782,108,070Commodity 61,59769,99371,47069,10162,727Other 959,9181,138,5231,292,1731,615,5772,045,344By Institution2,960,4243,113,1163,544,0314,045,7964,718,618Concessional Loans1,492,8421,490,9781,729,8951,897,6802,130,482Multilateral 716,792704,044794,485855,998954,662Bilateral776,050786,934935,4101,041,6821,175,820Non Concessional Loans460,475457,668507,047538,859560,207Multilateral 186,749183,917199,945220,551243,581Bilateral273,727273,751307,102318,308316,626Commercial Loans 1,007,1071,164,4701,307,0891,609,2572,027,928International Sovereign Bonds457,636655,243958,0141,220,8701,475,049Foreign Currency Term Financing Facility---104,860217,054Non Resident Investments in Treasury Bills 73,91655,5005,04512,81627,552Non Resident Investments in Treasury Bonds 403,486401,710298,734247,222295,059Other (h) 72,07052,01745,29623,49013,215
+
+Total Outstanding Central Government Debt6,793,2497,390,8998,503,2279,387,30310,313,045
+
+Memorandum item :Public Guaranteed Debt (i)326,826440,329382,218497,059563,742
+
+Sources: Ministry of Finance and Mass MediaMinistry of National Policies and Economic AffairsCentral Bank of Sri Lanka
+
+(a) Outstanding Treasury bills and Treasury bonds have been adjusted for secondary market transactions.(b) Provisional(c) Excludes rupee denominated Treasury bills held by foreign investors (d) Excludes (i) rupee denominated Treasury bonds held by foreign investors, (ii) Treasury bonds amounting to Rs. 78,447 million issued to settle dues to CPC in January 2012. Due to maturing of some of those bonds in January 2017, the outstanding amount from January 2017 was Rs. 56,662 million and (iii) Treasury bonds amounting to Rs. 13,125 million issued to capitalise SriLankan Airlines(e) Includes provisional advances(f) Includes sinking fund(g) Excludes outstanding loans of projects under state owned business enterprises(h) Includes outstanding defence loans(i) Outstanding amount of loans obtained by public corporations under Treasury guarantee
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 119
+
+Budget Outturn for Provincial CouncilsRs. million
+
+Item200820092010201120122013201420152016(a)2017(b)
+
+Total Revenue31,36829,43336,82940,99049,23549,64859,13367,97279,59585,172
+
+Tax Revenue25,99224,90731,04934,65841,65742,56952,56961,47670,94276,607
+
+Taxes on Goods and Services19,96919,64924,33620,67125,11924,93730,81034,47638,39545,150
+
+Turnover Taxes/NBT16,64115,84519,98615,55018,92717,29421,52121,80825,33332,278
+
+Licence Fees3,2693,7574,2805,0305,1446,5928,19910,68810,26710,873
+
+Other Taxes594670911,0481,0511,0901,9802,7951,999
+
+Tax on Property6,0235,2586,71313,98716,53817,63221,75927,00032,54731,457
+
+Non tax Revenue5,3764,5265,7806,3327,5787,0796,5646,4968,6538,565
+
+Interest, Profits and Dividends3,0702,1881,5391,7321,9211,8842,1151,1152,4792,553
+
+Sales and Charges2,3062,3384,2414,6005,6575,1954,4495,3816,1746,012
+
+Total Expenditure120,011 130,260 145,491 157,373 161,341 185,241 216,824 269,586 276,147 286,031
+
+Current Expenditure103,199111,336119,162129,600139,121156,066172,131222,223237,664236,575
+
+Functional Basis103,199111,336119,162129,600139,121156,066172,131222,223237,664236,575
+
+Provincial Administration10,8896,89010,5507,16312,55114,46115,78018,27321,35618,057
+
+Economic Services4,2534,5044,7718,3452,3833,3253,0474,2294,6693,995
+
+Social and Community Services and other88,05799,942103,841114,092124,187138,280153,304199,721211,639214,523
+
+Economic Basis103,199111,336119,162129,600139,121156,066172,131222,223237,664236,575
+
+Personal Emoluments79,71786,54791,644101,886108,246117,806131,162171,871182,497187,018
+
+Other23,48224,78927,51827,71430,87538,26040,96950,35255,16749,557
+
+Capital Expenditure16,81218,92426,32927,77322,22029,17544,69347,36338,48349,457
+
+Acquisition of Capital Goods2,5512,5162,9024,3022,7364,20710,0046,6418,5855,000
+
+Capital Transfers5115102,4963,7008691732457011,8292,343
+
+Province Specific Development Projects8,57810,94511,6839,9535,9016,4299,13613,34512,17720,250
+
+Special Projects2,6033,3937,4397,97311,45218,10016,82616,96512,23411,025
+
+Other2,5691,5601,8091,8451,2632688,4819,7113,65910,839
+
+Central Government Transfers88,94293,999 107,032 116,383 112,106 135,593 157,691 201,614 196,552 200,860
+
+Block Grants76,77377,38685,29994,60391,892108,801126,144167,551169,106166,348
+
+Criteria Based Grants2,3042,2762,6123,8542,8612,2643,3923,7533,0353,236
+
+Matching Grants----------
+
+Province Specific Development Grants7,26210,94511,6839,9535,9016,4298,34313,34512,17720,250
+
+Grants for Special Projects2,6033,3937,4397,97311,45218,10019,81216,96512,23411,025
+
+(a) Revised(b) ProvisionalSources : Ministry of Finance and Mass MediaMinistry of Provincial Councils and Local Government
+
+FISCAL POLICY AND GOVERNMENT FINANCETABLE 120
+
+Consolidated Budget (a)
+
+Item201120122013201420152016 (b)2017 (c)(d)
+
+Rs. million
+
+Total Revenue and Grants1,046,0891,144,9971,230,3381,298,4541,559,6781,811,7461,924,734
+
+Grants15,14116,07115,8599,4156,0147,4968,031
+
+Total Revenue1,030,9481,128,9261,214,4791,289,0391,553,6641,804,2501,916,703
+
+Tax Revenue883,079954,5361,054,1441,110,0801,424,7091,544,6251,746,785
+
+Taxes on Foreign Trade162,071184,634191,815198,483244,231302,538371,336
+
+Taxes on Domestic Goods and Services493,690522,365573,533615,262804,643843,9801,061,446
+
+VAT225,858229,604250,757275,350219,700283,470443,739
+
+Excise Tax204,913225,008251,751257,781499,632457,747471,452
+
+Turnover Tax/NBT51,21757,66358,23166,10466,81282,775101,313
+
+Licence Fees11,70210,09012,79416,02818,49919,98918,857
+
+Taxes on Net Income and Profits157,310172,563205,666198,115262,583258,857274,562
+
+Stamp Duty16,11719,81222,55928,06233,57241,54531,457
+
+Other53,89155,16260,57170,15879,68097,7057,984
+
+Non tax Revenue147,869174,390160,336178,959128,955259,626169,917
+
+Current Revenue139,924162,457152,383149,173121,473249,641169,211
+
+Interest, Profits and Dividends45,93058,17046,71756,90735,411115,46563,946
+
+Fees and Administration Charges36,98828,08444,72541,96749,83577,10971,941
+
+Central Bank Profit Advances22,00043,00026,35011,500 - 5,000-
+
+Other35,00633,20334,59238,79936,22752,06633,324
+
+Capital Revenue7,94511,9337,95229,7867,4829,984707
+
+Total Expenditure1,494,3251,633,9941,746,4291,889,6982,389,1802,452,0712,658,228
+
+Recurrent Expenditure1,072,0841,195,1441,267,2381,384,3851,772,5221,851,7231,997,919
+
+Personal Emoluments342,956380,830420,283466,588605,120638,978625,821
+
+Other Purchases of Goods and Services148,104158,452141,751152,580222,704168,532158,637
+
+Interest Payments356,699408,498444,007436,395509,674610,895735,566
+
+Transfer Payments224,325247,334261,197328,822435,024433,318477,895
+
+Capital Expenditure391,777413,456469,277492,201616,096601,283653,288
+
+Acquisition of Fixed Capital Assets221,237211,454271,765281,507334,522349,996365,332
+
+Capital Transfers150,769183,387175,148176,250241,553223,217245,842
+
+Other19,77118,61622,36434,44440,02128,06942,114
+
+Lending Minus Repayments30,46425,3949,91313,112561-9347,021
+
+Consolidated Budget Surplus (+)/ Deficit (-)-448,236-488,967-516,090-591,244-829,502-640,325-733,494
+
+As a percentage of GDP (e)(f)
+
+Total Revenue and Grants14.513.112.812.514.215.214.5
+
+Tax Revenue12.210.911.010.713.013.013.1
+
+Non tax Revenue2.02.01.71.71.22.21.3
+
+Grants0.20.20.20.10.10.10.1
+
+Total Expenditure20.718.618.218.221.820.620.0
+
+Recurrent Expenditure14.913.613.213.416.215.615.0
+
+Capital Expenditure5.44.74.94.85.65.04.9
+
+Lending Minus Repayments0.40.30.10.1......0.1
+
+Consolidated Budget Surplus (+)/ Deficit (-)-6.2-5.5-5.4-5.7-7.6-5.4-5.5
+
+(a) Includes central government, provincial councils and local governments fiscal operations(b) Revised(c) Provisional(d) Includes only central government and provincial councils data as local government data are not available(e) Rebased GDP estimates (base year 2010) of the Department Census and Statistics have been used from 2010 onwards.(f) Based on revised GDP estimates for 2015 and 2016 made available on 20 March 2018 by the Department of Census and Statistics
+
+Sources : Ministry of Finance and Mass MediaMinistry of Provincial Councils and Local Government
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 121
+
+Currency Issued by the Central Bank (by Denomination)Rs. million
+
+End ofPeriod
+
+CurrencyIssued(a)
+
+Notes (b)Coins
+
+Rs.5,000Rs.2,000Rs.1,000Rs.500Rs.200Rs.100Rs.50Rs.20Rs.10
+
+TotalNotes(c)
+
+Rs.10Rs.5Rs.2Re.1Cts.50Cts.25Cts.10Cts.5Cts.2Cts.1
+
+TotalCoins(d)
+
+2013339,77190,58587,799 105,38623,66813815,3324,0413,7261,639332,3821,6733,0351,0147141861213923647,3892014416,895158,72567,439 127,25828,20613317,0304,2734,1211,520408,7732,2533,1311,0497351861213923648,1222015491,700247,91238,974 133,24431,65613118,9794,6724,8831,450481,9693,3463,4741,1567951851213923649,7312016552,775313,73320,435 141,16933,47613120,5905,1415,3321,382541,4574,5063,7261,27285218612139236411,3182017598,054360,35710,526 141,83238,15413021,6005,5615,7581,340585,3285,4024,1021,35889818612139236412,726
+
+2016 January482,807246,18736,256 129,31730,96113119,0314,6714,8911,445472,9613,4273,4961,1657991851213923649,846February491,204254,91634,220 130,71130,97113119,1654,6724,9311,439481,2263,5143,5281,1738031851213923649,978March543,476285,10736,027 145,38634,04713120,7235,1465,1991,434533,2683,6863,5671,18680818612139236410,208April522,200271,27131,957 140,10434,80913121,4245,3045,3311,429511,8293,8043,5941,19781418612139236410,371May507,259268,57428,572 133,84232,31413121,2255,3015,3371,425496,7903,8803,6041,20681818612139236410,469June507,543272,16426,224 133,61631,87213120,8425,3025,3121,416496,9473,9853,6121,21682218612139236410,597July517,605281,96025,271 134,74532,25913120,5315,2585,2761,411506,9124,0653,6181,22482618612139236410,693August521,642287,93923,437 134,82432,27613120,3955,1225,2561,403510,8524,1383,6271,23283118612139236410,790September524,215291,42422,562 134,37132,81213120,2075,0755,2531,400513,3044,2373,6351,24283618612139236410,911October520,299292,24021,557 132,12331,66513119,8924,9755,2141,394509,2604,3333,6501,25384218612139236411,040November518,593292,70220,166 131,37531,41713119,9554,9925,2131,388507,4084,4243,6891,26384718612139236411,185December552,775313,73320,435 141,16933,47613120,5905,1415,3321,382541,4574,5063,7261,27285218612139236411,318
+
+2017 January534,483302,12718,715 135,84933,47613120,7595,1595,3671,379523,0304,5873,7641,28185718612139236411,453February545,795309,81217,628 139,24234,50513120,8645,2045,4081,377534,2384,6533,7921,28886018612139236411,557March584,070335,91217,005 147,39037,02013022,1625,5655,6401,375572,2694,8103,8561,30386818612139236411,801April580,066331,43116,112 146,43238,21013022,8845,7265,7861,371568,1524,8843,8851,31087118612139236411,914May560,572322,70515,141 138,30836,03213023,1245,8325,8411,368548,5494,9543,9121,31787618612139236412,023June562,770326,38214,119 137,91335,99113022,9745,8495,8621,365550,6555,0153,9361,32288818612139236412,115July565,451331,51813,348 136,98235,52513022,6715,8155,8151,361553,2345,0813,9621,32788118612139236412,217August581,695344,93613,095 140,12736,16213021,9505,7945,7561,357569,3755,1483,9891,33388518612139236412,320September574,355342,11912,292 137,03235,91613021,5735,7125,7341,353561,9295,2144,0191,34088918612139236412,426October575,045344,54911,770 135,89836,32213021,2305,5195,7091,349562,5455,2604,0391,34489118612139236412,500November575,600346,77011,085 134,57436,55613021,2685,4775,7141,345562,9885,3324,0691,35089518612139236412,612December598,054360,35710,526 141,83238,15413021,6005,5615,7581,340585,3285,4024,1021,35889818612139236412,726
+
+(a) Pursuant to Section 51 of the Monetary Law Act, the Central Bank’s holdings of notes and coins are not considered as part of its currency issue.(b) Currency notes in the denominations of Rs. 20, Rs. 1,000, Rs. 500, Rs. 200, Rs. 2,000 and Rs.5,000 were issued from 4 August 1980, 23 December 1981, 9 February 1982, 4 February 1998, 17 October 2006 and 4 February 2011, respectively.(c) Currency notes of Rs. 5, Rs. 2, Re. 1 are also included. The value of these notes remained unchanged at Rs. 37.2 million, Rs. 26.7 million, Rs. 5.0 million, respectively, as at end December 2017.(d) This includes commemorative coins issued upto 31 December 2017. As at end December 2017, the values of Rs. 100 coins, Rs. 500 coins, Rs. 1,000 coins and Rs. 5,000 coins stand at Rs. 5.6 million, Rs. 24.6 million, Rs. 253.2 million and Rs. 44.2 million, respectively. The total value of other commemorative coins, as at end December 2017, stands at Rs. 258.9 million.
+
+Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 122
+
+Monetary Aggregates - M1 and M2Rs. million
+
+End of Period
+
+CurrencyDemand DepositsNarrowMoneySupply(M1)(3)+(7)
+
+Time andSavingsDepositsheld by the Public
+
+BroadMoney Supply(M2)(e)(9)+(10)
+
+Held bythe Govt.(a)
+
+Held byBanksHeld bythe PublicTotal (1)+(2)+(3)Held bythe Govt.(b)
+
+Held byBanks(c)
+
+Held bythe PublicTotal(d)(5)+(6)+(7)
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)
+
+2013…75,164 264,607 339,771 25,165 573,157 219,971 818,293 484,578 2,574,215 3,058,793 2014…87,469 329,426 416,895 34,745 514,655 282,729 832,129 612,155 2,848,402 3,460,558 2015 (f)…103,643 388,057 491,700 44,605 628,103 326,931 999,640 714,988 3,342,224 4,057,212 2016…123,276 429,502 552,778 41,995 626,134 347,123 1,015,251 776,624 4,046,935 4,823,559 2017…158,658 439,396 598,054 47,140 690,336 353,903 1,091,379 793,299 4,872,014 5,665,313
+
+2016January…100,184 382,623 482,807 38,416 624,619 309,768 972,803 692,391 3,410,561 4,102,952 February…108,618 382,586 491,204 34,935 699,537 317,949 1,052,422 700,535 3,457,874 4,158,410 March…137,807 405,670 543,476 34,827 637,311 323,936 996,075 729,606 3,476,793 4,206,399 April…123,771 398,430 522,200 34,682 647,595 317,119 999,396 715,548 3,526,513 4,242,061 May…116,841 390,418 507,259 32,266 602,955 311,409 946,631 701,828 3,539,255 4,241,083 June…114,763 392,780 507,543 32,401 572,060 312,842 917,302 705,622 3,604,861 4,310,482 July…111,372 406,233 517,605 32,376 754,668 310,350 1,097,393 716,583 3,678,122 4,394,705 August…119,040 402,602 521,642 30,639 694,464 311,581 1,036,684 714,183 3,720,656 4,434,839 September…116,537 407,678 524,215 33,632 689,232 321,645 1,044,510 729,323 3,822,617 4,551,940 October…112,922 407,377 520,299 33,159 654,076 320,249 1,007,483 727,626 3,889,139 4,616,764 November…113,646 404,947 518,593 37,609 615,055 315,257 967,920 720,203 3,963,032 4,683,235 December…123,276 429,502 552,778 41,995 626,134 347,123 1,015,251 776,624 4,046,935 4,823,559
+
+2017January…125,754 408,729 534,483 37,425 586,307 334,122 957,854 742,851 4,123,160 4,866,011 February…130,585 415,210 545,795 34,146 618,712 329,386 982,243 744,595 4,206,718 4,951,313 March…140,154 443,916 584,070 32,605 522,765 338,109 893,479 782,025 4,314,178 5,096,203 April…145,598 434,469 580,066 31,600 535,229 330,727 897,557 765,196 4,381,608 5,146,804 May…141,035 419,537 560,572 34,722 759,703 322,244 1,116,668 741,781 4,472,600 5,214,381 June…136,647 426,123 562,770 34,000 773,833 327,767 1,135,600 753,890 4,527,527 5,281,417 July…134,627 430,824 565,451 35,695 659,674 337,604 1,032,973 768,428 4,598,575 5,367,003 August…140,142 441,553 581,695 37,862 737,128 317,584 1,092,574 759,137 4,663,899 5,423,037 September…140,202 434,153 574,355 33,216 651,394 320,465 1,005,076 754,618 4,748,531 5,503,149 October …151,378 423,667 575,045 36,531 675,844 319,523 1,031,898 743,190 4,789,317 5,532,506 November…145,486 430,114 575,600 37,184 613,532 321,177 971,893 751,291 4,798,657 5,549,947 December…158,658 439,396 598,054 47,140 690,336 353,903 1,091,379 793,299 4,872,014 5,665,313
+
+(a) Currency held by the Treasury and the District Secretariats(b) Demand deposits of the government held with commercial banks and the Central Bank(c) Interbank deposits, both local and foreign, including deposits of international organisations and commercial banks with the Central Bank
+
+(d) Total demand deposits held with the Central Bank and commercial banks (e) M2 equals currency held by the public plus rupee denominated demand, savings and time deposits held by the public.(f) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT Table 123
+
+Monetary Survey - M2 (a)Rs. million
+
+EndofPeriod
+
+Monetary Aggregates (Monetary Liabilities)Net Foreign Assets (b)
+
+Net Domestic Assets
+
+Reserve Money (RM)
+
+Money MultiplierDomestic AssetsNet Other LiabilitiesCentral Bank of Sri Lanka Commercial Banks Gross DomesticAssets (8)+(11)+(12)+(13)
+
+Narrow MoneySupply (M1) (c)
+
+Broad Money Supply (M2)(5)+(14)-(17)
+
+Monetary Authori-ties(d)
+
+Commer-cialBanks
+
+Total(3)+(4)
+
+Claims onGovt.
+
+Deposits ofthe Govt.
+
+Net Credit tothe Govt. (e)(6)-(7)
+
+Claims onGovt.
+
+Deposits ofthe Govt.
+
+Net Credit tothe Govt.(e)(9)-(10)
+
+Credit to PublicCorpora-tions
+
+Credit to PrivateSector
+
+MonetaryAuthori-ties(d)
+
+Commer-cialBanks
+
+Total(15)+(16)M1RM
+
+M2RM
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)
+
+2013484,5783,058,793529,128-395,320133,808114,419411114,0071,046,83251,175995,656164,6742,327,3763,601,713303,359 373,369 676,729 488,586 0.996.262014612,1553,460,558688,007-369,804318,203149,976305149,6721,143,07764,9541,078,123192,1372,503,2703,923,201420,776 360,070 780,846 577,912 1.065.992015 (f)714,9884,057,212576,187-369,264206,923230,349423229,9261,231,19973,3321,157,867254,1123,186,0754,827,980314,407 663,283 977,690 673,432 1.066.022016776,6244,823,559558,589-391,478167,111413,350333413,0161,312,58958,0801,254,509289,7283,891,8515,849,104418,710 773,946 1,192,656 856,147 0.915.632017793,2995,665,313846,139-311,276534,863225,377297225,0801,651,44374,8161,576,627319,7324,494,5876,616,026473,138 1,012,438 1,485,576 939,793 0.846.03
+
+2016 January692,3914,102,952489,468-354,141135,327336,834303336,5311,221,48165,6681,155,813249,7703,215,6644,957,778343,186 646,967 990,153718,561 0.965.71February700,5354,158,410468,587-366,449102,138384,829354384,4751,204,20062,6811,141,519254,3663,275,2835,055,644361,705 637,667 999,372739,336 0.955.62March729,6064,206,399473,939-391,83082,110406,957400406,5561,205,74064,4941,141,246253,7953,368,7185,170,316337,012 709,014 1,046,026791,618 0.925.31April715,5484,242,061437,597-397,86239,735424,429279424,1511,206,24663,8401,142,406258,9563,396,6615,222,174339,541 680,307 1,019,848763,102 0.945.56May701,8284,241,083422,585-400,72421,861407,676482407,1941,221,99161,3751,160,615262,8133,450,5725,281,194322,512 739,459 1,061,972733,268 0.965.78June705,6224,310,482413,540-410,0983,442456,551467456,0841,209,69252,0821,157,611261,2693,523,2585,398,221362,074 729,107 1,091,181757,159 0.935.69July716,5834,394,705416,833-371,96244,871456,450353456,0971,236,81351,6471,185,166266,4593,576,1075,483,829355,319 778,676 1,133,995774,496 0.935.67August714,1834,434,839499,014-359,156139,859396,867318396,5481,261,05652,6631,208,393266,6283,616,5915,488,159373,915 819,263 1,193,179785,691 0.915.64September729,3234,551,940498,475-353,252145,223397,858422397,4361,272,82456,9251,215,899266,7543,678,2785,558,367371,679 779,970 1,151,649793,736 0.925.73October727,6264,616,764483,888-389,24894,641410,000360409,6401,309,04954,7111,254,339272,6413,752,0915,688,710373,212 793,374 1,166,586792,756 0.925.82November720,2034,683,235476,257-384,19392,064417,599298417,3011,314,96558,4431,256,522274,3883,826,6015,774,812374,949 808,692 1,183,641798,968 0.905.86December776,6244,823,559558,589-391,478167,111413,350333413,0161,312,58958,0801,254,509289,7283,891,8515,849,104418,710 773,946 1,192,656856,147 0.915.63
+
+2017 January742,8514,866,011502,438-390,399112,039411,070346410,7241,437,00067,2751,369,724298,2933,905,2505,983,991378,662 851,357 1,230,019828,469 0.905.87February744,5954,951,313486,567-377,141109,425456,216277455,9391,443,38462,8511,380,534301,6423,965,8656,103,980396,694 865,398 1,262,092847,628 0.885.84March782,0255,096,203536,729-372,473164,256467,015249466,7661,413,75360,7731,352,981304,4404,065,7546,189,941419,408 838,585 1,257,993892,164 0.885.71April765,1965,146,804511,189-320,944190,245477,511404477,1071,405,83457,4921,348,342302,6364,085,8546,213,939408,214 849,166 1,257,380885,560 0.865.81May741,7815,214,381544,025-319,881224,144414,956306414,6501,518,70565,2091,453,496311,9514,119,3796,299,476398,087 911,152 1,309,239859,794 0.866.06June753,8905,281,417598,060-318,021280,039411,061195410,8661,517,88963,1521,454,737313,9084,186,8316,366,342446,142 918,822 1,364,964891,639 0.855.92July768,4285,367,003674,096-325,843348,253339,803258339,5451,612,32963,8511,548,478306,6574,230,0536,424,733448,174 957,809 1,405,983894,630 0.866.00August759,1375,423,037745,768-346,594399,174293,853308293,5451,646,01267,9221,578,091304,7684,281,6706,458,074457,606 976,606 1,434,212911,389 0.835.95September754,6185,503,149776,194-331,934444,259252,864264252,6001,666,15762,7571,603,399303,4814,335,4176,494,897454,421 981,586 1,436,007909,006 0.836.05October743,1905,532,506792,196-326,228465,968247,393515246,8781,665,97063,9591,602,011298,9474,373,8856,521,721464,005 991,178 1,455,183915,381 0.816.04November751,2915,549,947824,660-336,013488,648210,620540210,0801,646,55565,6881,580,868295,9874,438,0016,524,935459,116 1,004,519 1,463,636911,617 0.826.09December793,2995,665,313846,139-311,276534,863225,377297225,0801,651,44374,8161,576,627319,7324,494,5876,616,026473,138 1,012,438 1,485,576939,793 0.846.03
+
+(a) M2 includes domestic banking units (DBUs) of commercial banks (b) Foreign assets (net) of the Central Bank and commercial banks (including outward bills) (c) Currency and demand deposits held by the public (d) This includes NFA of the Central Bank as well as the government Crown Agent’s balance reported by the Department of State Accounts. (e) Credit extended by the banking system to the government, net of government deposits with banks and government cash balances (f) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 124
+
+Consolidated Monetary Survey - M2b (a)Rs. million
+
+EndofPeriod
+
+Broad Money (M2b) Net Foreign Assets (b)
+
+Narrow Money (M1) (c)Time and Savings Deposits (d)TotalBroad Money (M2b)(3)+(6)
+
+MonetaryAuthorities(e)
+
+Commercial BanksTotal NetForeignAssets(8)+(11)CurrencyDemandDeposits
+
+Total Narrow Money (M1)(1)+(2)
+
+DBUsOBUs
+
+Total Timeand SavingsDeposits (4)+(5)
+
+DBUsOBUs
+
+TotalCommercialBanks(9)+(10)
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)
+
+2013 264,607 219,971 484,578 2,809,888 123,387 2,933,275 3,417,853 529,128 -231,155-374,299-605,453-76,3252014 329,426 282,729 612,155 3,121,032 142,666 3,263,698 3,875,853 688,007 -220,947-451,934-672,88115,1262015 (f) 388,057 326,931 714,988 3,674,360 176,569 3,850,929 4,565,917 576,187 -295,864-578,486-874,350-298,1632016 429,502 347,123 776,624 4,439,938 189,034 4,628,972 5,405,596 558,589 -325,659-464,168-789,827-231,2382017 439,396 353,903 793,299 5,298,564 216,198 5,514,762 6,308,062 846,139 -290,761-433,840-724,601121,538
+
+2016 January 382,623 309,768 692,391 3,764,244 181,647 3,945,892 4,638,282 489,468 -297,974-551,873-849,847-360,378 February 382,586 317,949 700,535 3,819,144 184,139 4,003,283 4,703,819 468,587 -305,909-564,480-870,388-401,801 March 405,670 323,936 729,606 3,845,346 156,684 4,002,030 4,731,636 473,939 -324,418-589,417-913,835-439,896 April 398,430 317,119 715,548 3,896,831 159,745 4,056,576 4,772,124 437,597 -312,741-589,089-901,830-464,233 May 390,418 311,409 701,828 3,915,782 163,588 4,079,369 4,781,197 422,585 -330,511-559,576-890,087-467,503 June 392,780 312,842 705,622 3,973,248 164,869 4,138,117 4,843,739 413,540 -331,884-573,610-905,494-491,954 July 406,233 310,350 716,583 4,050,629 173,221 4,223,850 4,940,432 416,833 -286,951-567,483-854,434-437,601 August 402,602 311,581 714,183 4,093,231 181,149 4,274,380 4,988,563 499,014 -268,900-511,634-780,535-281,520 September 407,678 321,645 729,323 4,188,536 178,379 4,366,915 5,096,238 498,475 -276,100-500,376-776,476-278,001 October 407,377 320,249 727,626 4,257,093 181,014 4,438,107 5,165,733 483,888 -313,518-454,007-767,526-283,637 November 404,947 315,257 720,203 4,337,922 188,596 4,526,518 5,246,721 476,257 -331,764-431,424-763,188-286,931 December 429,502 347,123 776,624 4,439,938 189,034 4,628,972 5,405,596 558,589 -325,659-464,168-789,827-231,238
+
+2017 January 408,729 334,122 742,851 4,498,671 218,905 4,717,576 5,460,428 502,438 -325,133-505,051-830,184-327,746 February 415,210 329,386 744,595 4,584,883 222,477 4,807,360 5,551,956 486,567 -320,142-536,307-856,449-369,882 March 443,916 338,109 782,025 4,693,975 201,402 4,895,377 5,677,402 536,729 -320,366-587,829-908,195-371,467 April 434,469 330,727 765,196 4,767,230 198,349 4,965,579 5,730,774 511,189 -321,363-530,688-852,051-340,862 May 419,537 322,244 741,781 4,857,871 203,515 5,061,386 5,803,167 544,025 -317,005-545,544-862,549-318,524 June 426,123 327,767 753,890 4,921,454 197,162 5,118,616 5,872,507 598,060 -309,698-534,393-844,091-246,031 July 430,824 337,604 768,428 5,010,713 207,478 5,218,191 5,986,619 674,096 -288,793-510,387-799,181-125,084 August 441,553 317,584 759,137 5,080,060 211,386 5,291,446 6,050,583 745,768 -312,951-482,914-795,865-50,097 September 434,153 320,465 754,618 5,158,952 218,565 5,377,516 6,132,134 776,194 -300,716-465,000-765,71710,477 October 423,667 319,523 743,190 5,201,462 214,590 5,416,052 6,159,242 792,196 -298,394-456,463-754,85837,338 November 430,114 321,177 751,291 5,218,461 214,190 5,432,651 6,183,942 824,660 -308,224-449,049-757,27367,388 December 439,396 353,903 793,299 5,298,564 216,198 5,514,762 6,308,062 846,139 -290,761-433,840-724,601121,538
+
+(Contd.)(a) M2b is based on the aggregated data pertaining to both Domestic Banking Units (DBUs) and Offshore Banking Units (OBUs) of Licensed Commercial Banks (LCBs) operating in Sri Lanka. Definitional changes have been adopted in aggregating DBUs and OBUs to avoid double counting and misclassification of assets and liabilities. The major changes are:
+
+(1) All DBU placements with OBUs are recorded as domestic assets, while all DBU borrowings from OBUs are recorded as domestic liabilities.
+
+(2) Foreign currency deposits with DBUs are classified on the basis of ownership rather than on the basis of currency. Hence, the following apply: (i) One half (50 per cent) of Non Resident Foreign Currency (NRFC) deposits are treated as
+
+domestic deposit liabilities;
+
+(ii) All Resident Non National Foreign Currency (RNNFC) balances are treated as foreign liabilities;
+
+(iii) All other domestic foreign currency accounts are treated as domestic deposit liabilities.(b) External assets (net) of the Central Bank and commercial banks (including outward bills)(c) Currency and demand deposits held by the public(d) Time and savings deposits of the public held with commercial banks(e) This includes NFA of the Central Bank as well as the government Crown Agent’s balance reported by the Department of State Accounts.(f) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 124 (Contd.)
+
+Consolidated Monetary Survey - M2bRs. million
+
+EndofPeriod
+
+Net Domestic Assets
+
+Domestic CreditOther Items (Net)
+
+TotalNetDomesticAssets(24)+(27)
+
+Credit to the Government (Net) (g)Credit to Public CorporationsCredit to the Private SectorTotalDomesticCredit(17)+(20)+(23)
+
+Monetary AuthoritiesandDBUs
+
+OBUs
+
+TotalOtherItems(Net)(25)+(26)
+
+CentralBankof Sri Lanka
+
+Commercial BanksTotalCredit tothe Govt.(13)+(16)
+
+DBUsOBUs
+
+Total
+
+Credit to
+
+Public
+
+Corporations
+
+(18)+(19)
+
+DBUsOBUs
+
+Total Credit to Private Sector(21)+(22)DBUsOBUsTotal(14)+(15)
+
+(13)(14)(15)(16)(17)(18)(19)(20)(21)(22)(23)(24)(25)(26)(27)(28)
+
+2013 114,007 995,656 191,678 1,187,335 1,301,342 164,674 200,424 365,098 2,327,376 206,967 2,534,343 4,200,783 -605,221-101,384-706,605 3,494,178
+
+2014 149,672 1,078,123 208,105 1,286,228 1,435,900 192,137 253,911 446,047 2,503,270 254,928 2,758,199 4,640,146 -657,074-122,344-779,418 3,860,727
+
+2015 (f) 229,926 1,157,867 371,699 1,529,566 1,759,492 254,112 268,853 522,966 3,186,075 263,502 3,449,577 5,732,034 -718,954-149,000-867,954 4,864,081
+
+2016 413,016 1,254,509 304,608 1,559,116 1,972,133 289,728 205,386 495,114 3,891,851 312,579 4,204,430 6,671,677 -865,472-169,371-1,034,843 5,636,834
+
+2017 225,080 1,576,627 366,811 1,943,438 2,168,517 319,732 194,628 514,360 4,494,587 327,250 4,821,837 7,504,715 -1,079,540-238,651-1,318,191 6,186,524
+
+2016 January 336,531 1,155,813 375,687 1,531,500 1,868,032 249,770 277,854 527,624 3,215,664 277,479 3,493,143 5,888,799 -692,637-197,500-890,138 4,998,661
+
+February 384,475 1,141,519 394,842 1,536,361 1,920,837 254,366 272,050 526,416 3,275,283 271,529 3,546,812 5,994,064 -698,643-189,802-888,445 5,105,620
+
+March 406,556 1,141,246 406,264 1,547,510 1,954,066 253,795 261,062 514,857 3,368,718 265,835 3,634,554 6,103,477 -744,885-187,061-931,946 5,171,531
+
+April 424,151 1,142,406 392,933 1,535,339 1,959,489 258,956 252,588 511,544 3,396,661 265,337 3,661,998 6,133,032 -734,651-162,024-896,675 5,236,357
+
+May 407,194 1,160,615 397,791 1,558,406 1,965,599 262,813 226,989 489,802 3,450,572 271,661 3,722,234 6,177,635 -755,658-173,277-928,935 5,248,700
+
+June 456,084 1,157,611 391,735 1,549,345 2,005,429 261,269 223,605 484,874 3,523,258 274,813 3,798,071 6,288,375 -801,008-151,674-952,6825,335,693
+
+July 456,097 1,185,166 390,778 1,575,945 2,032,042 266,459 205,623 472,082 3,576,107 284,816 3,860,923 6,365,046 -846,498-140,514-987,0125,378,034
+
+August 396,548 1,208,393 332,981 1,541,374 1,937,922 266,628 174,870 441,498 3,616,591 289,292 3,905,882 6,285,302 -910,860-104,359-1,015,2195,270,083
+
+September 397,436 1,215,899 335,587 1,551,487 1,948,923 266,754 185,441 452,195 3,678,278 287,140 3,965,417 6,366,535 -862,883-129,412-992,2955,374,239
+
+October 409,640 1,254,339 294,188 1,548,527 1,958,167 272,641 187,194 459,835 3,752,091 292,370 4,044,460 6,462,462 -874,361-138,730-1,013,0925,449,370
+
+November 417,301 1,256,522 286,446 1,542,967 1,960,268 274,388 194,668 469,057 3,826,601 299,143 4,125,744 6,555,069 -861,180-160,237-1,021,4175,533,652
+
+December 413,016 1,254,509 304,608 1,559,116 1,972,133 289,728 205,386 495,114 3,891,851 312,579 4,204,430 6,671,677 -865,472-169,371-1,034,8435,636,834
+
+2017 January 410,724 1,369,724 332,604 1,702,328 2,113,052 298,293 219,790 518,082 3,905,250 317,068 4,222,319 6,853,453 -919,773-145,506-1,065,2795,788,174
+
+February 455,939 1,380,534 355,641 1,736,175 2,192,114 301,642 233,140 534,782 3,965,865 327,346 4,293,212 7,020,108 -940,926-157,343-1,098,2695,921,838
+
+March 466,766 1,352,981 394,799 1,747,780 2,214,546 304,440 248,977 553,416 4,065,754 309,444 4,375,198 7,143,161 -930,303-163,989-1,094,2926,048,868
+
+April 477,107 1,348,342 380,840 1,729,182 2,206,289 302,636 254,727 557,363 4,085,854 308,261 4,394,115 7,157,767 -871,339-214,792-1,086,1316,071,636
+
+May 414,650 1,453,496 371,594 1,825,090 2,239,740 311,951 249,758 561,709 4,119,379 305,627 4,425,005 7,226,455 -926,844-177,920-1,104,7646,121,690
+
+June 410,866 1,454,737 369,020 1,823,756 2,234,623 313,908 237,193 551,101 4,186,831 318,484 4,505,315 7,291,038 -979,359-193,142-1,172,5006,118,538
+
+July 339,545 1,548,478 366,434 1,914,913 2,254,458 306,657 206,770 513,427 4,230,053 325,752 4,555,805 7,323,690 -1,030,895-181,092-1,211,9876,111,703
+
+August 293,545 1,578,091 365,879 1,943,970 2,237,515 304,768 198,174 502,943 4,281,670 327,382 4,609,052 7,349,510 -1,051,694-197,135-1,248,8306,100,680
+
+September 252,600 1,603,399 367,553 1,970,952 2,223,552 303,481 194,041 497,522 4,335,417 323,705 4,659,122 7,380,196 -1,056,804-201,734-1,258,5396,121,657
+
+October 246,878 1,602,011 368,859 1,970,870 2,217,747 298,947 176,874 475,821 4,373,885 326,471 4,700,356 7,393,924 -1,070,871-201,149-1,272,0206,121,904
+
+November 210,080 1,580,868 369,324 1,950,192 2,160,271 295,987 186,875 482,862 4,438,001 323,954 4,761,955 7,405,088 -1,071,620-216,914-1,288,5346,116,554
+
+December 225,080 1,576,627 366,811 1,943,438 2,168,517 319,732 194,628 514,360 4,494,587 327,250 4,821,837 7,504,715 -1,079,540-238,651-1,318,1916,186,524
+
+(g) Credit extended by the banking system to the government, net of government deposits with banks and government cash depositsSource: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 125Financial Survey - M4 (a)Rs. million
+
+EndofPeriod
+
+Broad Money (M4)Net Foreign Assets
+
+Currency (b)
+
+Demand Deposits (b)
+
+Time and Savings Deposits (c)BroadMoneySupply (M4)(1)+(2)+(8)
+
+MonetaryAuthorities(e)
+
+CommercialBanks(DBUs andOBUs)
+
+LSBs andLFCs
+
+Total NetForeignAssets(10)+(11)+(12)
+
+Commercial BanksLSBs (d)
+
+LFCs
+
+Time and Savings Deposits(3)+(4)+(5)+(6)+(7)
+
+DBUs(b)OBUsPradeshiya Sanwardhana BankOther
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)
+
+2013260,931193,8392,747,417123,38762,607554,474340,6113,828,4954,283,265529,128-605,453-123,662-199,9872014325,331257,6843,045,032142,66672,525637,146417,3124,314,6814,897,695688,007-672,881-151,861-136,7352015383,130295,6713,616,779176,56986,340677,815483,9485,041,4525,720,253576,187-874,350-145,981-444,1442016423,486303,0964,337,755189,034104,689741,456530,7405,903,6746,630,256558,589-789,827-151,956-383,1942017430,905296,1185,191,405216,198136,582837,991686,7207,068,8977,795,919846,139-724,601-155,708-34,170
+
+2016January377,157277,7763,688,933181,64787,148681,467488,7985,127,9945,782,927489,468-849,847-146,017-506,395February376,523284,5073,733,629184,13988,085689,982492,2495,188,0845,849,114468,587-870,388-146,530-548,331March 399,095292,5133,753,107156,68488,419699,202493,6295,191,0415,882,649473,939-913,835-146,662-586,558April 392,361287,1783,808,319159,74590,041703,688498,0725,259,8645,939,403437,597-901,830-147,516-611,749May384,506278,3643,827,057163,58889,634705,751502,7255,288,7555,951,626422,585-890,087-149,444-616,947June 386,507270,6773,879,843164,86990,440710,301500,0935,345,5466,002,730413,540-905,494-148,600-640,553July 399,952276,7553,958,409173,22194,086717,704500,2975,443,7176,120,424416,833-854,434-147,919-585,521August396,712277,5204,000,759181,14996,586719,853506,2145,504,5616,178,793499,014-780,535-147,579-429,099September401,298288,0334,099,517178,37998,807723,441512,7895,612,9346,302,265498,475-776,476-148,663-426,664October 401,229285,5594,157,448181,014101,799734,459518,5555,693,2766,380,064483,888-767,526-150,042-433,679November398,778281,8374,233,353188,596102,671739,063524,4635,788,1466,468,761476,257-763,188-151,237-438,168December423,486303,0964,337,755189,034104,689741,456530,7405,903,6746,630,256558,589-789,827-151,956-383,194
+
+2017January402,269294,4764,407,150218,905108,249738,365541,7346,014,4036,711,149502,438-830,184-152,609-480,355February408,119284,9924,501,085222,477105,701739,025549,6906,117,9796,811,090486,567-856,449-153,810-523,692March 436,672295,0764,603,247201,402107,422748,817558,4936,219,3816,951,129536,729-908,195-154,281-525,747April 427,430292,3954,669,827198,349110,771762,576571,8576,313,3797,033,204511,189-852,051-154,658-495,520May412,950280,1494,760,490203,515114,965778,227580,8476,438,0437,131,143544,025-862,549-155,052-473,576June 419,194279,0364,822,401197,162119,383792,917590,9356,522,7987,221,029598,060-844,091-155,670-401,701July 423,376290,6164,912,078207,478122,157811,806609,1486,662,6687,376,660674,096-799,181-155,963-281,047August433,766266,9084,966,806211,386124,143818,440635,5826,756,3577,457,031745,768-795,865-155,137-205,233September425,942266,9375,050,518218,565126,198817,132653,0856,865,4977,558,376776,194-765,717-155,429-144,952October415,514264,9205,095,553214,590128,051813,821672,4116,924,4257,604,859792,196-754,858-155,946-118,608November422,313271,2255,114,751214,190130,125827,772679,5716,966,4097,659,946824,660-757,273-156,045-88,658December430,905296,1185,191,405216,198136,582837,991686,7207,068,8977,795,919846,139-724,601-155,708-34,170
+
+(a) M4 is based on the aggregated data pertaining to Licensed Specialised Banks (LSBs) and Licensed Finance Companies (LFCs), in addition to the institutions covered in M2b. (b) Currency, demand deposits and time and savings deposits of DBUs in this table differ from those in Table 124 due to the fact that LSBs and LFCs are not treated as ‘Public’ under the Financial Survey (M4) definition.(c) Time and savings deposits of the private sector with commercial banks, LSBs and LFCs(d) LSBs include Regional Development Banks/Pradeshiya Sanwardhana Bank (which was established on 14 July 2010 by amalgamating Regional Development Banks), National Savings Bank,State Mortgage and Investment Bank, Sanasa Development Bank Ltd, HDFC Bank of Sri Lanka, Sri Lanka Savings Bank Ltd and Lankaputhra Development Bank Ltd. MBSL Savings Bank Ltd, which operated as a LSB, was amalgamated with Merchant Bank Sri Lanka PLC and MCSL Financial Services Ltd and operates as a LFC namely, Merchant Bank of Sri Lanka and Finance PLC w.e.f 1 January 2015. DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.(e) This includes NFA of the Central Bank as well as the government Crown Agent’s balance reported by the Department of State Accounts.
+
+(Contd.)
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 125 (Contd.)Financial Survey - M4Rs. million
+
+EndofPeriod
+
+Net Domestic Assets Domestic Credit
+
+Total OtherItems(Net)
+
+Total NetDomesticAssets(29)+(30)
+
+Credit to the Government (net) (f)Credit to Public CorporationsCredit to the Private Sector
+
+Total Domestic Credit(20)+(22)+(28)
+
+CentralBank ofSri Lanka
+
+Commercial BanksLSBs
+
+LFCs
+
+TotalCredit tothe Govt.(14)+(15)+(16)+(17)+(18)+(19)
+
+Commercial Banks(DBUs andOBUs)
+
+TotalCreditto PublicCorporations
+
+Commercial BanksLSBs
+
+LFCs(g)
+
+TotalCreditto PrivateSector(23)+(24)+(25)+(26)+(27)
+
+DBUsOBUs
+
+RDBs/ Pradeshiya Sanwardhana Bank
+
+OtherDBUsOBUs RDBs/Pradeshiya Sanwardhana Bank Other
+
+(14)(15)(16)(17)(18)(19)(20)(21)(22)(23)(24)(25)(26)(27)(28)(29)(30)(31)
+
+2013114,007995,656191,6780457,97027,8391,787,151365,098365,0982,327,376206,96760,657319,512501,9803,416,4915,568,741-1,085,4894,483,2522014149,6721,078,123208,1051,750513,04259,6672,010,359446,047446,0472,503,270254,92863,001411,424602,8543,835,4776,291,883-1,257,4535,034,4302015229,9261,157,867371,69912,395516,82455,5992,344,309522,966522,9663,186,075263,50289,249392,416805,1674,736,4087,603,684-1,439,2866,164,3972016413,0161,254,509304,608750514,91568,0972,555,895495,114495,1143,891,851312,579108,232453,970945,6515,712,2828,763,292-1,749,8427,013,4502017225,0801,576,627366,8117,000538,63864,7912,778,946514,360514,3604,494,587327,250131,017545,796 1,049,8056,548,4559,841,761-2,011,6717,830,090
+
+2016 January336,5311,155,813375,68711,700514,43156,9982,451,160527,624527,6243,215,664277,47990,324396,231816,0364,795,7357,774,519-1,485,1966,289,322
+
+February384,4751,141,519394,8429,000515,00062,1142,506,950526,416526,4163,275,283271,52992,198399,482825,4184,863,9117,897,277-1,499,8326,397,445
+
+March406,5561,141,246406,2649,350516,67667,6722,547,764514,857514,8573,368,718265,83593,059402,181832,8034,962,5968,025,218-1,556,0116,469,207
+
+April424,1511,142,406392,93310,200512,45465,7482,547,892511,544511,5443,396,661265,33794,262407,987844,6765,008,9248,068,360-1,517,2086,551,152
+
+May407,1941,160,615397,79110,000514,30665,9342,555,839489,802489,8023,450,572271,66194,723411,865851,1205,079,9428,125,583-1,557,0116,568,572
+
+June456,0841,157,611391,7357,000507,08566,0192,585,532484,874484,8743,523,258274,81396,398417,801863,1265,175,3968,245,803-1,602,5206,643,283
+
+July456,0971,185,166390,7788,175523,96264,4022,628,581472,082472,0823,576,107284,81698,191420,560877,4845,257,1578,357,820-1,651,8756,705,945
+
+August396,5481,208,393332,9818,450518,54464,5082,529,424441,498441,4983,616,591289,292100,271427,925888,2245,322,3028,293,224-1,685,3316,607,893
+
+September397,4361,215,899335,5878,950513,88868,8722,540,633452,195452,1953,678,278287,140102,490433,543903,6175,405,0678,397,895-1,668,9666,728,928
+
+October 409,6401,254,339294,1881,800517,48964,1242,541,579459,835459,8353,752,091292,370104,559438,408919,0235,506,4508,507,864-1,694,1216,813,743
+
+November417,3011,256,522286,446750517,58266,3742,544,974469,057469,0573,826,601299,143106,299446,436933,7605,612,2398,626,270-1,719,3416,906,929
+
+December413,0161,254,509304,608750514,91568,0972,555,895495,114495,1143,891,851312,579108,232453,970945,6515,712,2828,763,292-1,749,8427,013,450
+
+2017 January410,7241,369,724332,6041,500516,18073,9682,704,700518,082518,0823,905,250317,068108,899459,137951,7485,742,1038,964,886-1,773,3827,191,504
+
+February455,9391,380,534355,6411,500517,14277,1642,787,921534,782534,7823,965,865327,346109,868464,795956,8735,824,7499,147,451-1,812,6687,334,783
+
+March466,7661,352,981394,7993,600509,75171,4482,799,345553,416553,4164,065,754309,444111,704476,251972,0985,935,2529,288,013-1,811,1377,476,876
+
+April477,1071,348,342380,840700517,79174,9062,799,686557,363557,3634,085,854308,261113,732482,223972,8115,962,8819,319,930-1,791,2067,528,724
+
+May414,6501,453,496371,5941,150529,95177,8102,848,651561,709561,7094,119,379305,627115,339489,148977,8796,007,3719,417,731-1,813,0127,604,720
+
+June410,8661,454,737369,0201,000527,19573,3562,836,173551,101551,1014,186,831318,484117,813495,645984,3886,103,1619,490,434-1,867,7057,622,730
+
+July339,5451,548,478366,434800538,21071,3252,864,792513,427513,4274,230,053325,752119,229491,737995,9266,162,6969,540,916-1,883,2097,657,707
+
+August293,5451,578,091365,8791,500539,94864,2012,843,164502,943502,9434,281,670327,382120,681511,202 1,008,5576,249,4919,595,598-1,933,3347,662,264
+
+September252,6001,603,399367,5532,300537,74566,9762,830,573497,522497,5224,335,417323,705122,962525,290 1,020,7466,328,1209,656,215-1,952,8877,703,328
+
+October246,8781,602,011368,8592,000529,38864,6752,813,811475,821475,8214,373,885326,471124,065532,394 1,033,3806,390,1959,679,826-1,956,3607,723,467
+
+November210,0801,580,868369,3242,300524,13866,0692,752,778482,862482,8624,438,001323,954126,785536,807 1,045,1886,470,7359,706,374-1,957,7717,748,603
+
+December225,0801,576,627366,8117,000538,63864,7912,778,946514,360514,3604,494,587327,250131,017545,796 1,049,8056,548,4559,841,761-2,011,6717,830,090
+
+(f) Net credit to the government equals to credit extended by the Central Bank, LCBs, LSBs and LFCs to the government, net of government deposits and government cash balances.(g) The sharp increase in credit to private sector by LFCs in some months could be attributed to already established specialised leasing companies (SLCs) obtaining LFC licenses.Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT Table 126
+
+Monetary Aggregates - Summary
+
+End ofPeriod
+
+Narrow Money (M1)Broad Money (M2) Broad Money (M2b)Broad Money (M4)
+
+AmountRs. bn
+
+Percentage ChangeAmountRs. bn
+
+Percentage ChangeAmountRs. bn
+
+Percentage ChangeAmountRs. bn
+
+Percentage Change
+
+Year-on-YearAnnual Average Year-on-YearAnnual Average Year-on-YearAnnual Average Year-on-YearAnnual Average
+
+2016January 692.415.921.14,103.018.315.04,638.319.115.85,782.917.215.3February700.517.420.84,158.419.115.64,703.819.816.45,849.117.715.7March729.615.220.14,206.418.416.14,731.618.916.95,882.616.916.0April715.513.519.24,242.118.116.64,772.118.217.35,939.416.316.2May701.811.318.04,241.116.516.74,781.216.517.45,951.614.816.2June705.612.117.34,310.517.216.94,843.717.017.56,002.714.616.2July716.611.616.34,394.717.717.14,940.417.817.76,120.415.216.1August714.29.915.54,434.817.217.24,988.617.317.76,178.814.616.0September729.310.414.54,551.919.117.65,096.218.417.96,302.316.016.0October727.69.413.44,616.819.117.85,165.717.818.06,380.115.716.0November 720.27.612.64,683.218.718.05,246.718.018.06,468.815.816.0December776.68.611.94,823.618.918.25,405.618.418.16,630.315.915.9
+
+Monthly Average719.211.94,397.218.24,942.818.16,124.115.9
+
+2017January 742.97.311.24,866.018.618.25,460.417.718.06,711.116.115.8February744.66.310.34,951.319.118.25,552.018.017.86,811.116.415.7March782.07.29.65,096.221.218.45,677.420.017.96,951.118.215.8April765.26.99.05,146.821.318.75,730.820.118.17,033.218.416.0May741.85.78.65,214.422.919.35,803.221.418.57,131.119.816.4June753.96.88.15,281.422.519.75,872.521.218.87,221.020.316.9July768.47.27.85,367.022.120.15,986.621.219.17,375.220.517.3August759.16.37.55,423.022.320.56,050.621.319.57,457.020.717.8September754.63.56.95,503.120.920.66,132.120.319.67,558.419.918.1October743.22.16.35,532.519.820.76,159.219.219.77,604.919.218.4November751.34.36.05,549.918.520.76,183.917.919.77,659.918.418.7December793.32.15.55,665.317.520.66,308.116.719.67,795.917.618.8
+
+Monthly Average758.45.55,299.820.65,909.719.67,275.818.8
+
+Source: Central Bank of Sri Lanka
+
+(a) Under Sections 10c, 93, 94, 96 and 97 of the amended Monetary Law Act (Chapter 422), commercial banks and other financial institutions are required to maintain reserves against their deposit liabilities as prescribed by the Monetary Board. Currently, only commercial banks are subject to reserve requirements. With effect from 24 January 1992, an amount of till cash over and above two per centum of the total deposit liabilities, but not exceeding four per centum, could be maintained as a part of required reserves in the form of Sri Lanka currency notes and coins. Details of required reserve ratios, which were applicable in the past and computation methods have been published in the Appendix table on the ‘Reserve Position of Commercial Banks’ in the Annual Reports prior to 2003. (b) With effect from June 2013, the basis for computing the Statutory Reserve Requirement (SRR) was changed and 7 day reserve calculation and maintenance periods were increased to two periods per month, first from 1st to 15th and the second from 16th to end of each month. Up to May 2013, Reserve data were for
+
+the last reserve week of each month and from June 2013 onwards, Reserve data are for the second reserve period of each month. The required reserves recorded in the table refer to the cumulative reserves for the reserve period, while commercial bank deposits with the Central Bank are the cumulative deposits for that particular period. Excess/Deficit on SRR is the difference between the cumulative SRR for the reserve period and cumulative deposits of the commercial banks for the period.(c) Excludes interbank deposits(d) SRR was reduced from 8.00 per cent to 6.00 per cent with effect from 1 July 2013 and subsequently increased to 7.50 per cent with effect from 16 January 2016.(e) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 127
+
+Reserve Position of Commercial Banks (a) (b)Rs. million
+
+EndofPeriod
+
+Deposits (c)Required Reserves against Deposits (d)Actual Reserves
+
+DemandTime andSavingsOtherTotal(1)+(2)+(3)DemandTime andSavingsOtherTotalReserves(5)+(6)+(7)
+
+TillCash
+
+Required Reserves(8) - (9)
+
+Required ReservesCumulative
+
+Commercial Banks’ Deposits with Central Bank(Cumulative total for the reserve period)
+
+Excess/(Deficit) on SRR(12) - (11)
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13)
+
+2013 244,039 2,541,016 45,303 2,830,358 14,642 152,461 2,718 169,821 20,980 148,842 2,381,467 2,384,263 2,796 2014 304,607 2,829,600 33,682 3,167,890 18,276 169,776 2,021 190,073 25,514 164,560 2,632,954 2,636,157 3,203 2015 (e) 350,023 3,228,352 38,831 3,617,206 21,001 193,701 2,330 217,032 33,411 183,622 2,937,945 2,943,637 5,693 2016 358,541 3,908,687 31,344 4,298,572 26,891 293,152 2,351 322,393 33,496 288,897 4,622,354 4,627,768 5,414 2017 372,063 4,763,571 31,897 5,167,531 27,905 357,268 2,392 387,565 47,372 340,192 5,443,080 5,456,588 13,508
+
+2016January 365,533 3,296,853 36,550 3,698,937 27,415 247,264 2,741 277,420 41,454 235,966 3,775,456 3,780,540 5,084 February 367,436 3,364,005 33,272 3,764,713 27,558 252,300 2,495 282,353 33,797 248,557 3,479,795 3,482,903 3,107 March 358,626 3,422,326 32,387 3,813,339 26,897 256,674 2,429 286,000 36,160 249,841 3,997,452 4,000,457 3,005 April 374,146 3,451,248 35,645 3,861,039 28,061 258,844 2,673 289,578 42,212 247,365 3,710,481 3,713,350 2,869 May 369,242 3,513,249 34,673 3,917,164 27,693 263,494 2,600 293,787 61,824 231,964 3,711,421 3,714,452 3,031 June 356,575 3,521,049 31,717 3,909,341 26,743 264,079 2,379 293,201 41,129 252,071 3,781,068 3,784,120 3,052 July 350,742 3,557,241 31,083 3,939,066 26,306 266,793 2,331 295,430 38,369 257,060 4,112,967 4,115,747 2,780 August 354,899 3,627,034 32,136 4,014,069 26,617 272,028 2,410 301,055 38,511 262,544 4,200,707 4,201,701 994 September 351,921 3,680,456 30,958 4,063,334 26,394 276,034 2,322 304,750 38,655 266,095 3,991,430 3,992,145 714 October 359,716 3,758,454 32,687 4,150,858 26,979 281,884 2,452 311,314 39,996 271,318 4,341,088 4,343,811 2,724 November 353,561 3,845,203 31,778 4,230,542 26,517 288,390 2,383 317,291 34,023 283,268 4,249,021 4,251,898 2,877 December 358,541 3,908,687 31,344 4,298,572 26,891 293,152 2,351 322,393 33,496 288,897 4,622,354 4,627,768 5,414
+
+2017 January 372,248 3,973,362 37,893 4,383,503 27,919 298,002 2,842 328,763 39,197 289,566 4,633,050 4,634,604 1,554 February 380,866 4,070,307 32,689 4,483,862 28,565 305,273 2,452 336,290 38,772 297,518 3,867,730 3,871,900 4,170 March 376,957 4,159,201 31,801 4,567,959 28,272 311,940 2,385 342,597 38,830 303,766 4,860,263 4,862,826 2,562 April 376,588 4,248,427 32,756 4,657,771 28,244 318,632 2,457 349,333 46,577 302,755 4,541,332 4,547,117 5,785 May 375,614 4,354,553 31,759 4,761,925 28,171 326,591 2,382 357,144 67,888 289,257 4,628,106 4,635,966 7,860 June 371,621 4,428,187 31,444 4,831,252 27,872 332,114 2,358 362,344 49,214 313,129 4,696,942 4,699,150 2,208 July 369,831 4,503,361 31,607 4,904,799 27,737 337,752 2,371 367,860 44,381 323,479 5,175,670 5,177,322 1,652 August 369,363 4,566,948 26,300 4,962,611 27,702 342,521 1,973 372,196 41,574 330,622 5,289,948 5,291,602 1,654 September 365,816 4,625,748 31,919 5,023,482 27,436 346,931 2,394 376,761 44,006 332,756 4,991,334 4,996,674 5,341 October 366,538 4,710,663 31,070 5,108,271 27,490 353,300 2,330 383,120 48,377 334,743 5,355,895 5,360,878 4,983 November 366,177 4,756,063 31,830 5,154,071 27,463 356,705 2,387 386,555 50,688 335,867 5,038,012 5,042,626 4,614 December 372,063 4,763,571 31,897 5,167,531 27,905 357,268 2,392 387,565 47,372 340,192 5,443,080 5,456,588 13,508
+
+Source: Central Bank Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 128
+
+Money Rates: The Central Bank and Commercial Banks (a)Per cent per annum
+
+EndofPeriod
+
+Central Bank ofSri LankaCommercial Banks’ Deposit RatesCommercial Banks’ Rates on AdvancesLoans and Overdrafts
+
+AWPR (e)
+
+Over-nightSLIBOR(f)
+
+InterbankCall MoneyMarket RateBankRate(b)
+
+Standing Deposit Facility Rate(c)
+
+Standing Lending Facility Rate(c)
+
+Fixed DepositsSavingsDepositsAWDR (d)
+
+Secured byUnsecuredBillsPurchased andDiscounted3-month6-month1-year2-yearStock inTradeImmovablePropertyOthersMax.Min.Average WeightedMax.Min.Max.Min.Max.Min.Max.Min.Max.Min.Max.Min.Max.Min.Max.Min.Max.Min.Max.Min.
+
+201315.00 6.508.5015.005.7012.25 6.2016.006.0015.005.259.140.759.37 23.008.5026.005.0033.004.7524.007.0022.00 4.509.967.767.757.507.66201415.00 6.508.007.003.508.75 3.9012.003.9514.004.158.000.506.20 24.005.9024.004.7532.005.0024.005.4422.00 3.256.356.106.506.006.21201515.00 6.007.5011.103.109.50 3.9015.003.9512.504.158.000.506.20 24.006.0024.004.7432.005.0024.002.5022.58 3.007.406.406.406.406.40201615.00 7.008.5013.504.0013.50 4.5015.004.5013.005.409.000.508.17 24.003.0024.001.5025.001.0024.003.5024.00 2.0011.738.448.448.408.42201715.00 7.258.7512.754.0013.50 4.0015.004.8913.005.139.500.509.07 28.005.2530.004.0030.001.0036.874.0727.00 6.0011.338.158.258.108.15
+
+2016 January15.00 6.007.5011.103.759.50 3.9015.003.9512.504.158.500.506.26 24.006.6524.004.7432.005.0024.002.5022.58 3.007.766.786.806.706.73February15.00 6.508.0010.003.759.50 3.9015.003.9512.504.158.500.506.33 24.006.6525.003.9332.005.0024.002.5022.58 3.008.287.517.557.507.50March15.00 6.508.0010.253.7510.15 3.9015.003.9512.504.158.000.506.44 24.003.2525.002.0030.001.8824.006.0022.00 3.258.878.108.158.008.09April15.00 6.508.0010.254.0010.75 4.0015.004.0012.505.008.000.506.58 24.003.2525.002.0025.001.8924.006.2422.00 2.449.558.158.158.058.14May15.00 6.508.0011.254.0011.50 4.5015.004.5012.505.008.500.506.72 24.003.2524.002.0025.002.0024.006.0022.00 2.4610.108.168.178.158.15June15.00 6.508.0011.254.0011.75 4.5015.004.5012.505.009.000.506.87 24.002.0025.002.0024.002.0024.006.0022.00 2.4710.488.208.208.188.20July15.00 7.008.5012.004.0012.00 4.5015.004.5012.755.009.000.507.10 24.002.0025.002.0024.001.5024.006.0022.00 2.4910.878.568.408.408.40August15.00 7.008.5012.904.0012.50 4.5015.004.5012.755.009.000.507.32 24.002.6625.002.0025.001.5026.006.0024.00 2.5211.768.418.408.408.40September15.00 7.008.5012.954.0012.50 4.5015.004.5013.005.009.000.507.56 24.002.0025.001.5025.001.5026.006.0024.00 2.5312.298.448.428.428.42October15.00 7.008.5012.754.0013.00 4.5015.004.5012.505.009.000.507.79 24.003.6425.001.5025.001.0026.006.5024.00 2.5312.258.448.428.428.42November15.00 7.008.5013.504.0013.50 4.5015.004.5012.755.139.000.508.00 24.003.7124.002.0025.001.0024.006.0024.00 2.6211.988.458.448.428.43December15.00 7.008.5013.504.0013.50 4.5015.004.5013.005.409.000.508.17 24.003.0024.001.5025.001.0024.003.5024.00 2.0011.738.448.448.408.42
+
+2017 January15.00 7.008.5013.504.2513.50 4.5015.004.8913.005.409.000.508.42 24.003.8824.002.0026.001.0024.006.0024.00 1.0311.488.418.408.358.38February15.00 7.008.5013.254.2513.50 4.5015.004.8913.005.409.000.508.66 24.003.2525.002.0026.001.0024.006.0024.00 1.0611.558.508.508.498.49March15.00 7.258.7513.504.2513.50 4.5015.004.8913.255.409.000.508.81 24.007.5024.005.0025.006.0024.004.0724.00 3.2911.568.758.758.758.75April15.00 7.258.7513.664.2513.75 4.5015.004.8914.005.409.000.508.89 24.007.5024.005.0025.005.0024.007.7524.00 3.2911.748.758.758.658.72May15.00 7.258.7513.604.0014.12 4.5015.004.8914.005.409.000.508.99 24.003.9824.005.0025.004.0724.002.0024.00 3.2911.678.758.758.708.72June15.00 7.258.7513.604.0014.12 4.5015.004.8914.005.409.000.509.13 24.003.9224.005.0025.002.5024.002.0024.00 3.2911.848.758.758.758.75July15.00 7.258.7513.404.0014.12 4.5015.004.8914.005.409.500.509.19 28.004.0028.005.0028.005.0028.007.7524.00 6.0011.888.758.758.708.75
+
+August15.00 7.258.7513.254.0014.12 4.5015.004.8914.005.409.500.509.21 28.003.5030.005.0030.001.5036.873.0027.00 6.0011.678.448.307.958.20September15.00 7.258.7512.504.0013.50 4.5015.004.8913.005.409.500.509.25 28.007.5030.004.0030.001.0036.875.5027.00 6.0011.428.118.308.008.11October15.00 7.258.7512.654.0013.50 4.0015.004.8913.005.409.500.509.22 28.008.0030.004.0030.001.0036.875.5027.00 6.0011.308.158.258.108.15November15.00 7.258.7512.504.0013.50 4.0015.004.8913.005.409.500.509.19 28.008.4230.004.0030.001.0036.874.0727.00 6.0011.408.158.258.108.13December15.00 7.258.7512.754.0013.50 4.0015.004.8913.005.139.500.509.07 28.005.2530.004.0030.001.0036.874.0727.00 6.0011.338.158.258.108.15
+
+Source: Central Bank Sri Lanka(a) All interest rates are as at the end of period, unless otherwise stated.(b) The rate at which the Central Bank grants advances to banking institutions as the lender of last resort.(c) Repurchase rate and Reverse repurchase rate were renamed as Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR) respectively, with effect from 02 January 2014.(d) The average weighted deposit rate (AWDR) is calculated by the Central Bank monthly, based on the weighted average of all outstanding interest bearing deposits of commercial banks and the corresponding interest rates. (e) The average weighted prime lending rate (AWPR) is calculated by the Central Bank weekly, based on commercial banks’ lending to their prime customers during the week. The monthly figures are average values of estimated weekly rates.(f) The Sri Lanka Interbank Offered Rate (SLIBOR) is computed daily by the Central Bank, based on rates offered by commercial banks in the interbank market. The rate shown is the average of such offered rates by selected commercial banks.
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 129
+
+Money Rates: Savings and Long Term Credit InstitutionsPer cent per annum
+
+End of Period
+
+Deposit Rates Lending Rates
+
+National Savings BankState Mortgage &InvestmentBank
+
+1-yearFixed Deposits
+
+DFCCBank(a)
+
+1-YearFixedDeposits
+
+National SavingsBank
+
+State Mortgage & InvestmentBank
+
+DFCCBank(a)
+
+NationalHousingDevelopmentAuthoritySavingsDeposits
+
+Fixed DepositsNationalSavingsCertificates
+
+1-year6-month
+
+1-year
+
+2-yearInterestpaid onMaturity
+
+InterestpaidMonthly
+
+20135.00 9.25 9.50 8.75 9.50 9.50 10.50 10.00 14.00-15.5012.75-17.5010.50-18.0011.00-13.0020145.00 6.00 6.50 6.30 6.70 6.50 6.50 5.75 8.00-13.007.07-14.008.00-12.003.73-13.0020155.00 7.00 7.25 7.00 7.50 7.25 6.50 7.50 9.00-14.007.07-13.509.00-11.503.73-13.0020164.25 10.75 11.00 10.50 11.50 11.00 11.00 -9.75-15.0010.50-20.00-3.73-6.0020174.00 10.75 11.00 10.50 11.50 11.00 11.00 -13.00-16.0010.50-20.00-5.00
+
+2016January4.50 8.008.257.858.508.257.25-9.00-12.907.59-13.50-3.73-6.00February4.50 8.008.257.858.508.258.25-9.00-12.908.12-13.50-3.73-6.00March4.50 8.258.508.108.758.508.25-9.00-14.008.12-13.50-3.73-6.00April4.50 8.258.508.108.758.508.50-9.50-13.508.38-13.50-3.73-6.00May4.50 8.258.508.108.758.508.50-9.00-14.008.38-15.00-3.73-6.00June4.50 9.7510.009.5010.5010.0010.00-9.00-14.009.96-16.00-3.73-6.00July4.50 9.7510.009.5010.5010.0010.00-9.50-14.009.96-16.00-3.73-6.00August4.25 9.7510.009.5010.5010.0010.00-9.00-14.259.96-16.00-3.73-6.00September4.25 10.7511.0010.5011.5011.0011.00-9.50-14.509.96-20.00-3.73-6.00October4.25 10.7511.0010.5011.5011.0011.00-9.90-14.2510.50-20.00-3.73-6.00November4.25 10.7511.0010.5011.5011.0011.00-9.90-15.0010.50-20.00-3.73-6.00December4.25 10.7511.0010.5011.5011.0011.00-9.75-15.0010.50-20.00-3.73-6.00
+
+2017January4.25 10.7511.0010.5011.5011.0011.00-9.50-15.2510.50-20.00-5.00February4.25 10.7511.0010.5011.5011.0011.00-5.00-15.2510.50-20.00-5.00March4.25 10.7511.0010.5011.5011.0011.00-10.00-15.2510.50-20.00-5.00April4.25 10.7511.0010.5011.5011.0011.00-12.75-16.0010.25-20.00-5.00May4.25 10.7511.0010.5011.5011.0011.00-12.75-16.0010.50-20.00-5.00June4.00 10.7511.0010.5011.5011.0011.00-12.75-16.0010.50-20.00-5.00July4.00 10.7511.0010.5011.5011.0011.00-12.75-16.0010.50-20.00-5.00August4.00 10.7511.0010.5011.5011.0011.00-13.00-16.0010.50-20.00-5.00September4.00 10.7511.0010.5011.5011.0011.00-13.00-16.0010.50-20.00-5.00October4.00 10.7511.0010.5011.5011.0011.00-13.00-16.0010.50-20.00-5.00November4.00 10.7511.0010.5011.5011.0011.00-13.00-16.0010.50-20.00-5.00December4.00 10.7511.0010.5011.5011.0011.00-13.00-16.0010.50-20.00-5.00
+
+(a) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.Sources: Respective Licensed Specialised BanksNational Housing Development Authority
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 130
+
+Yield Rates on Government Securities
+
+End of Period
+
+Primary Market OperationsSecondary Market Operations (a)
+
+Weighted Average Yield Rates (per cent per annum)Trading Volumes (b) (Rs. million)Yield Rates (c) (per cent per annum)
+
+Treasury BillsTreasury Bonds (d)Treasury BillsTreasury BondsTreasury BillsTreasury BondsOutright TransactionsRepoTransactionsOutright TransactionsRepo Transactions
+
+91- day182- day364- day2- year3- year4- year5- year6- year7- year8- year9- year10- year
+
+Above 10 years
+
+Pur-chasedSoldRepur-chased
+
+Reverse Repur-chased
+
+Pur-chasedSoldRepur-chased
+
+Reverse Repur-chased
+
+≤ 91- day
+
+≤182- day
+
+≤ 364- day
+
+≤ 2- year≤ 3- year≤ 4- year≤ 5- year≤ 10- year≤ 15- year
+
+2013 (e)7.547.858.29-10.87-10.64 10.97-11.55 11.77 11.8012.13345,277682,538 2,067,236650,291508,235530,758 6,751,693744,3907.638.058.238.839.109.089.69--
+
+2014 (e)5.745.846.01---8.93-7.057.15-7.888.63322,216710,446 1,319,875436,778 1,370,621 1,436,446 5,409,509 1,057,3965.605.855.956.306.807.097.147.808.68
+
+2015 (e)6.456.837.306.708.188.919.799.90 9.6510.82-10.9410.86228,769689,602 2,294,059794,382 1,181,621 1,500,302 6,720,895 1,954,1886.586.807.257.909.409.909.9811.059.13
+
+2016 (e)8.729.6310.17 11.04 11.62 11.94 11.76 12.03 12.18 11.98 12.08 12.1114.23299,261554,792 2,983,674474,593885,600 1,132,664 9,321,832 5,315,8108.659.5710.1711.3811.8112.0212.2112.56-
+
+2017 (e)7.698.308.90 9.839.5511.14 10.20 11.21 12.92 10.06 12.91 10.36-362,496546,045 2,101,970140,844468,991646,914 7,428,325 3,940,3527.658.278.879.299.559.659.8410.08-
+
+2016 (f) January6.787.197.80--------11.1412.0912,93350,996164,83480,22383,63493,744598,426246,0857.207.508.039.389.9010.0310.2010.85-
+
+February7.148.078.50 10.00--11.42--11.78--12.1526,19950,529125,54614,09291,767123,740721,855384,4677.488.508.8010.1310.7511.2511.6012.00-
+
+March8.909.7610.64 11.75 11.75 12.78 13.00--12.26 13.80 13.9314.2320,86232,630103,63118,15741,30038,931569,139343,6429.2010.0510.3011.6312.5012.8512.8813.90-
+
+April8.459.5310.17-11.53 11.78-11.98-----36,12371,138219,00431,436126,903174,939860,931233,8169.009.8310.3311.1811.4011.5311.5512.27-
+
+May8.719.6710.48 11.83 11.51 12.11 12.48 11.98-12.77-12.98-50,83774,566327,72153,393132,410183,138908,454597,1268.639.6410.4511.2811.5811.8311.9612.27-
+
+June8.889.8610.55 11.42 11.58 11.93 11.89 12.03-12.36 12.55 12.50-17,68145,682330,076119,74930,18754,427684,012491,1478.769.7010.4811.0711.4111.6611.8112.35-
+
+July8.809.6910.48 11.04 11.62-12.07 12.03 12.18 12.61 12.08 12.86-13,21141,872224,13410,71981,918138,404697,751440,8858.729.6810.4211.0011.3811.5911.7612.32-
+
+August9.039.9410.73---11.76--12.24-12.52-33,81256,546319,61742,23244,35777,765 1,231,175780,4869.019.8910.7111.1511.4911.7011.8612.39-
+
+September8.559.3910.11--10.61---10.96-11.06-39,03043,745304,86523,221115,661106,857 1,019,533392,2888.649.5610.2710.6910.9311.1111.2811.62-
+
+October8.609.4810.24----------20,81139,216358,39832,52583,52583,541861,254540,5298.629.4910.1410.9911.3511.5611.6811.89-
+
+November8.609.5510.10----------17,06528,483271,01327,52437,02640,039651,434461,4458.679.6010.2111.4611.8012.0512.2312.61-
+
+December8.729.6310.17--11.94---11.98-12.11-10,69719,389234,83521,32216,91217,139517,868403,8948.659.5710.1711.3811.8112.0212.2112.56-
+
+2017 (f) January9.0310.0710.37 11.41--12.19--12.39-12.21-52,13455,478266,54622,93162,30073,198572,867472,4049.029.9910.3811.6011.9312.2312.4312.52-
+
+February9.3210.1910.58 12.10--12.89-12.89-12.91--9,04018,294277,29412,93457,29439,133491,179324,7269.3110.1710.5511.7612.1612.4412.6412.76-
+
+March9.6310.6210.98 12.30----13.14----5,63311,161247,81114,81421,52332,482601,040332,8159.5210.4210.7511.7412.1912.4412.5412.79-
+
+April9.7310.7011.02 11.21--11.55-12.92 11.87---40,52064,597178,12714,52743,52673,929670,401349,9199.5510.4610.8311.3611.7811.8912.0212.23-
+
+May9.6110.3510.71 11.07--11.42 11.49-11.50---34,51151,332169,03416,86945,393107,359754,532282,6189.4810.3510.6611.0711.3311.4411.5511.75-
+
+June9.6010.2910.47--11.37-11.38-11.41-11.49-15,35346,400117,92419,05431,85358,405718,557312,8479.5110.2310.4310.9111.2511.3811.5311.73-
+
+July9.449.719.99--11.14 10.43 11.21-11.30-10.59-50,31870,527158,58320,46358,61289,611916,834432,7999.289.499.7910.2710.5610.7810.8011.07-
+
+August8.879.309.67 9.83-----10.54---38,71750,573115,1057,91249,47552,644623,580328,6848.909.219.549.8110.0210.2710.4410.60-
+
+September8.719.019.10---10.09----10.31-47,82556,260144,2925,05229,51745,899517,845208,6728.548.889.099.389.669.8910.0210.28-
+
+October8.759.109.48-9.92----10.33---33,92146,729185,8192,44626,47326,760585,212286,6728.709.069.449.689.8810.0610.1410.38-
+
+November8.208.889.44---10.20----10.36-20,84734,796105,0231,45318,48112,783441,142280,0008.248.829.379.729.9110.0410.1310.29-
+
+December7.698.308.90-9.55----10.06---13,67739,898136,4122,38924,54434,711535,136328,1967.658.278.879.299.559.659.8410.08-
+
+(a) Secondary market information is based on data provided by primary dealers in Government Securities.(b) Trading volumes reported are cumulative for the period.(c) Yield rates are averages of bid and offer rates (d) Unlike Treasury bills, Treasury bonds are not issued on a regular basis. Hence, a continuous series of primary market yield rates does not exist.(e) Reported data are based on the latest weighted average yields during the year(f) Reported data are based on the latest weighted average yields of the highest tenor during the month
+
+Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 131
+
+Commercial Banks’ Loans and Advances by Type of Security (a)(b)(c)(d)(End of Period)
+
+Type of Security
+
+2013201420152016 (e)2017
+
+Amount(Rs. mn)% ofTotalAmount(Rs. mn)% ofTotalAmount(Rs. mn)% ofTotalAmount(Rs. mn)% ofTotalAmount(Rs. mn)% ofTotal
+
+1. Documentary Bills 8,672 0.45,988 0.36,054 0.26,1060.211,783 0.3
+
+2. Government Securities 2,427 0.16,120 0.33,768 0.111,1120.312,446 0.3
+
+3. Shares, Bonds, Debentures, Life Insurance
+
+Policies and Other40,058 1.946,786 2.175,796 2.788,4542.5101,586 2.5
+
+4. Fixed, Savings and Other Deposits, and
+
+Certificates of Deposit195,862 9.4213,913 9.7237,194 8.3347,8649.8392,991 9.6
+
+5. Foreign Currency Deposits14,095 0.712,701 0.616,173 0.621,9830.619,289 0.5
+
+6. Stock in Trade/ Inventories58,542 2.868,964 3.187,669 3.1116,5463.3123,286 3.0
+
+7. Immovable Property, Plant and Machinery514,801 24.7610,033 27.6788,652 27.61,086,87930.61,283,108 31.3
+
+8. Personal Guarantees and Pro Notes118,361 5.7161,610 7.3254,191 8.9570,98416.1716,409 17.5
+
+9. Trust Receipts8,411 0.412,644 0.610,913 0.461,8721.761,948 1.5
+
+10. Leasing and Hire Purchase Agreements93,472 4.5109,885 5.0175,472 6.1197,8205.6214,161 5.2
+
+11. Tractors and Motor Vehicles41,787 2.050,265 2.374,949 2.661,3111.760,577 1.5
+
+12. Other Types of Security371,229 17.8423,836 19.1604,239 21.1366,45410.3391,432 9.6
+
+13. Gold and Other Precious Metals under Pawning364,714 17.5224,678 10.1186,478 6.5194,7215.5241,655 5.9
+
+14. Unsecured 253,927 12.2266,240 12.0338,580 11.8414,88011.7463,411 11.3
+
+Total2,086,359 100.02,213,663 100.02,860,130 100.03,547,076100.04,094,082 100.0
+
+Average Weighted Lending Rate (AWLR)15.1811.9111.0013.2013.88
+
+(a) Excludes cash items in the process of collection and advances granted for financing purpose under the guaranteed price scheme(b) Includes loans and advances extended only by DBUs of commercial banks(c) Excludes credit to the government and public corporations(d) Excludes: Non-performing loans Export bills purchased at current exchange rates (previously included under ‘Documentary Bills’) Lending in Foreign Currency(e) Revised
+
+Source: Central Bank of Sri Lanka
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT TABLE 132
+
+Commercial Banks’ Loans and Advances to the Private Sector (a)(b)(c)
+
+CategoryEnd December 2016 (d) End December 2017 (e)% ChangeAmount (Rs. mn) As a % of Total Amount (Rs. mn) As a % of Total
+
+1. Agriculture and Fishing 361,463 8.5 412,371 8.414.1 of which,Tea82,4351.991,0481.910.4Rubber23,8030.624,4320.52.6Coconut16,2610.420,4440.425.7Paddy28,9470.732,5940.712.6Vegetable and Fruit Cultivation and Minor Food Crops25,0930.629,3360.616.9Livestock and Dairy Farming15,3870.421,5020.439.7Fisheries14,0450.317,5040.424.6
+
+2. Industry1,707,46640.22,041,42341.719.6 of which, Construction811,24919.1993,45020.322.5 of which,Personal Housing including Purchasing/Construction/Repairs389,4409.2472,9699.721.4Staff Housing69,0771.672,9811.55.7Food and Beverages95,3342.2105,1352.110.3Textiles and Apparel159,3583.8174,6713.69.6Wood and Wood Products including Furniture14,9110.417,9800.420.6Paper and Paper Products13,3360.317,4180.430.6Chemical, Petroleum, Pharmaceutical and Healthcare, and Rubber and Plastic Products76,7061.890,4761.818.0Non-metallic Mineral Products 16,6450.424,0920.544.7Basic Metal Products23,6100.630,9910.631.3Fabricated Metal Products, Machinery and Transport Equipment148,7623.5170,2573.514.4Other Manufactured Products 19,3660.521,6600.411.8
+
+3. Services1,287,62630.31,393,90028.48.3 of which,Wholesale and Retail Trade387,2719.1435,7968.912.5Tourism138,7263.3171,9753.524.0Financial and Business Services308,1347.3306,5336.3-0.5Transport64,6031.571,7551.511.1Communication and Information Technology61,8811.560,4551.2-2.3Printing and Publishing18,5120.422,5450.521.8Education 9,3780.210,7520.214.7Health 30,4540.734,7310.714.0Shipping, Aviation and Freight Forwarding28,0970.719,1900.4-31.7
+
+4. Personal Loans and Advances (f)888,56120.91,053,17721.518.5 of which,Consumer Durables198,1464.7210,2064.36.1Pawning132,4083.1148,4113.012.1Credit Cards75,9471.891,4511.920.4Personal Education2,3220.12,9200.125.8Personal Healthcare3,5160.13,9790.113.2Other443,06310.4556,63311.425.6
+
+5. Total4,245,116100.04,900,870100.015.4
+
+(a) Based on the Quarterly Survey of Commercial Banks’ Loans and Advances to the Private Sector, which includes loans and advances of both DBUs and OBUs of commercial banks. (b) Includes loans, overdrafts, bills discounted and purchased and excludes cash items in the process of collection(c) Total values in this Table differ from credit to the private sector values in Table 124 due to differences in the compilation methodologies.(d) Revised(e) Provisional(f) Excludes personal housing loans, which have been included under ‘Construction’ classified under ‘Industry’ and includes Safety Net Scheme related loans.
+
+Source: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 133
+
+Assets and Liabilities of the Central BankRs. million
+
+End of Period
+
+Assets
+
+TotalAssets/Liabilities
+
+InternationalReserve as aPercentage of Currency and DepositLiabilities
+
+International ReserveDomestic Assets
+
+Cash andBank BalancesAbroadincluding Treasury Bills
+
+ForeignGovernment andNon-GovernmentalSecurities (a)
+
+SpecialDrawingRights
+
+IMF related AssetsReceivablesTotal
+
+Loans and Advances toGovernment and GovernmentGuaranteedSecurities(b)
+
+OtherAssetsandAccountsGovernmentOther
+
+2013541,148431,7032,03283,3691041,058,355109,1671,3755,25271,8581,246,0081042014603,773446,2621,20078,6161241,129,975143,8981,4896,078182,8551,464,2951112015666,961376,04197082,666361,126,674151,13288679,21768,3491,426,259922016548,126378,427303116,7056,2381,049,80083,307484330,04365,5771,529,210782017601,551596,218677126,1613,8071,328,413199,80122425,57650,8191,604,83493
+
+2016January542,007355,67596682,27348980,969184,823886152,01187,4181,406,10781February638,667325,670985115,55031,080,875184,823886200,00643,4211,510,01280March613,088326,9621,001117,480171,058,548184,743886222,21345,6111,512,00177April571,869313,3151,005118,1901,4801,005,859184,821886239,60840,4931,471,66776May492,149318,820797118,4893,234933,490184,792886222,88440,1841,382,23675June460,860287,055597117,7431,483867,738182,744677273,80740,6851,365,65172July659,233288,207800117,6849141,066,838184,889677271,56139,8841,563,84875August823,098277,587594117,663321,218,974184,620677212,24741,4571,657,97481September605,319325,525599118,6852,5751,052,703184,802676213,05640,3041,491,54278October505,448376,959591117,1294,1491,004,275184,815676225,18540,4971,455,44876November451,821388,663301116,073354957,211184,797676232,80352,7031,428,19075December548,126378,427303116,7056,2381,049,80083,307484330,04365,5771,529,21078
+
+2017January474,727357,686307118,3133,439954,472203,666484207,40489,5121,455,53875February520,894353,81421118,6736,577999,979202,819484253,39744,6271,501,30673March433,619347,32922119,3144,470904,754203,640483263,37543,0201,415,27372April399,659347,150332120,69110,960878,792203,752483273,76040,4351,397,22170May670,272341,82029122,3435,8781,140,343203,654483211,30248,9921,604,77578June706,294410,95938123,78244,6071,285,679196,976305214,08640,3321,737,37681July633,499478,697714125,41514,6831,253,008202,890332136,91340,6871,633,83085August660,865519,587349125,18612,4661,318,454203,65333290,20061,4281,674,06789September628,052592,839350125,40020,3541,366,996203,77033149,09453,8371,674,02791October561,922592,805349125,03717,8891,298,002203,65433143,73955,4211,601,14791November549,234602,841362126,13615,8521,294,426203,6123317,00761,7021,567,07894December601,551596,218677126,1613,8071,328,413199,80122425,57650,8191,604,83493
+
+(a) Includes securities acquired from government institutions(b) Government and government guaranteed securities are on fair value basis.(Contd.)
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 133 (Contd.)
+
+Assets and Liabilities of the Central BankRs. million
+
+End of Period
+
+Liabilities
+
+Capital AccountCurrency Issued
+
+SecuritiesOutstanding(c)
+
+Deposits
+
+CapitalSurplusTotalNotesin Circulation
+
+Coinsin CirculationTotalGovernment
+
+GovernmentAgencies and Institutions
+
+CommercialBanks
+
+International Organisations, Foreign Governments and Foreign Banking Institutions
+
+OthersTotal
+
+Other LiabilitiesandAccounts
+
+201335,000-35,000332,3827,389339,771-4115148,810529,2385678,469192,767201450,000-50,000408,7738,122416,895-3057161,009441,9875603,314394,086201550,000-50,000481,9699,731491,700-4235181,727550,5043732,662151,897201650,000-50,000541,46011,318552,778-333118303,251491,2214794,927131,505201750,000-50,000585,32812,726598,054-29727341,712482,3124824,353132,426
+
+2016January50,000-50,000472,9619,846482,807-3037235,748491,51113727,581145,719February50,000-50,000481,2269,978491,204-354154247,979612,30513860,804108,003March50,000-50,000533,26810,208543,476-4007248,135584,6215833,16885,357April50,000-50,000511,82910,371522,200-2797240,895568,2715809,45690,011May50,000-50,000496,79010,469507,259-4827226,002510,9316737,42887,548June50,000-50,000496,94710,597507,543-4676249,609454,2184704,304103,803July50,000-50,000506,91210,693517,605-3535256,885650,0225907,27188,972August50,000-50,000510,85210,790521,642-3186264,044719,9604984,332102,001September50,000-50,000513,30410,911524,215-42217269,505554,2345824,18293,145October50,000-50,000509,26011,040520,299-36017272,440520,39116793,22491,925November50,000-50,000507,40811,185518,593-29816280,359480,9604761,63897,959December50,000-50,000541,46011,318552,778-333118303,251491,2214794,927131,505
+
+2017January50,000-50,000523,03011,453534,483-34617293,969452,06311746,406124,648February50,000-50,000534,23811,557545,795-27717301,816513,4409815,55889,953March50,000-50,000572,26911,801584,070-24917308,077368,0696676,418104,785April50,000-50,000568,15211,914580,066-40416305,477367,64718673,56393,592May50,000-50,000548,54912,023560,572-30616299,206596,3499895,88598,317June50,000-50,000550,65512,115562,770-19515328,854687,64341,016,710107,896July50,000-50,000553,23412,217565,451-25816329,163578,9414908,382109,997August50,000-50,000569,37512,320581,695-30813329,682572,7145902,722139,650September50,000-50,000561,92912,426574,355-26418334,634590,8204925,740123,933October50,000-50,000562,54512,500575,045-51524340,313505,8345846,691129,412November50,000-50,000562,98812,612575,600-54024335,994469,7957806,360135,119December50,000-50,000585,32812,726598,054-29727341,712482,3124824,353132,426
+
+(c) Central Bank’s own securities issued under Section 91(1)(b) of the Monetary Law ActSource: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 134
+
+Assets and Liabilities of Domestic Banking Units (DBUs) of Commercial Banks (a) Rs. million
+
+End of Period
+
+Assets
+
+Total AssetsorLiabilities
+
+CashinHand
+
+DuefromCentralBank
+
+DuefromDomesticBanks
+
+CashItems inProcessofCollection
+
+Foreign Currencyon Hand andBalances duefrom BanksAbroad
+
+InvestmentsLoans and AdvancesFixedandOtherAssets(b)
+
+Sri Lanka Govt. Obligations
+
+OtherInvestments
+
+Bills Purchased and DiscountedOverdraftsLoansTotalTreasuryBills TreasuryBonds
+
+OtherGovt.SecuritiesLocalImportExport
+
+201375,164 151,200 25,568 25,762 108,503 398,394 364,205 150,036 68,231 1,337 28,262 15,409 489,383 2,013,271 2,547,661 413,542 4,328,266
+
+201487,469 164,428 43,810 14,831 196,950 262,049 557,378 161,594 82,616 780 25,326 16,474 531,878 2,202,030 2,776,488 508,326 4,855,940
+
+2015 (c)103,643 199,646 80,582 17,591 359,740 325,001 505,208 236,285 123,468 484 4,754 13,791 605,893 2,852,731 3,477,653 269,706 5,698,522
+
+2016123,276 308,671 74,813 20,289 432,933 227,517 692,336 244,969 117,209 1,407 4,785 13,871 707,018 3,478,638 4,205,719 234,850 6,682,581
+
+2017158,658 341,828 78,804 24,048 525,901 428,452 736,650 285,811 116,741 1,712 6,282 16,717 864,011 4,002,056 4,890,777 237,169 7,824,839
+
+2016 January100,184 248,548 47,302 17,010 407,469 291,026 502,802 225,135 123,641 838 4,748 13,134 656,428 2,865,286 3,540,434 258,484 5,762,035
+
+February108,618 253,835 62,491 17,128 401,536 248,269 525,253 244,077 125,615 935 5,705 12,565 649,785 2,917,083 3,586,073 264,830 5,837,724
+
+March137,807 250,759 45,493 17,602 387,014 243,356 515,622 262,882 123,993 966 5,337 12,759 664,281 2,994,214 3,677,557 266,747 5,928,832
+
+April123,771 244,306 63,755 16,912 399,020 225,525 540,694 270,480 125,250 1,049 6,165 10,088 654,752 3,021,036 3,693,091 273,522 5,976,325
+
+May116,841 229,533 54,181 17,985 400,596 204,162 587,792 274,734 124,751 779 6,545 9,642 647,448 3,071,180 3,735,594 255,991 6,002,160
+
+June114,763 258,230 39,171 16,172 372,590 238,979 572,557 258,543 120,453 1,024 5,920 10,337 647,858 3,132,715 3,797,854 256,431 6,045,741
+
+July111,372 260,214 48,498 16,228 404,065 275,334 584,624 260,264 118,138 1,278 5,413 12,002 626,331 3,191,770 3,836,794 223,963 6,139,494
+
+August119,040 277,068 45,729 16,921 406,249 293,850 615,991 242,722 117,574 1,039 5,825 13,756 621,718 3,228,634 3,870,972 183,255 6,189,370
+
+September116,537 273,498 50,861 18,882 410,409 279,857 616,295 241,230 121,107 1,346 5,571 14,507 649,424 3,284,143 3,954,991 228,254 6,311,922
+
+October112,922 282,755 43,023 17,240 392,461 269,032 641,427 243,429 123,245 1,237 5,457 14,454 680,389 3,352,325 4,053,861 216,284 6,395,681
+
+November113,646 288,610 44,736 17,623 405,565 248,070 665,541 242,005 124,113 1,240 5,432 13,580 706,165 3,405,764 4,132,182 211,609 6,493,700
+
+December123,276 308,671 74,813 20,289 432,933 227,517 692,336 244,969 117,209 1,407 4,785 13,871 707,018 3,478,638 4,205,719 234,850 6,682,581
+
+2017 January125,754 296,979 36,382 21,411 416,884 341,494 686,959 251,960 119,061 1,686 6,740 13,214 736,325 3,474,907 4,232,872 225,049 6,754,805
+
+February130,585 301,056 51,627 20,924 434,691 341,103 676,755 255,551 118,906 2,468 7,237 13,827 769,428 3,518,520 4,311,480 224,238 6,866,917
+
+March140,154 318,155 54,809 19,814 426,719 315,578 680,556 252,963 114,260 2,144 7,367 13,996 770,483 3,620,781 4,414,771 238,295 6,976,074
+
+April145,598 312,266 56,730 20,058 485,490 301,572 686,255 243,212 116,570 1,568 6,672 12,905 783,208 3,635,209 4,439,562 248,733 7,056,045
+
+May141,035 306,690 62,657 18,468 478,232 352,457 721,501 280,408 116,703 1,757 7,819 14,341 783,399 3,667,522 4,474,839 202,015 7,155,004
+
+June136,647 334,613 33,626 20,243 480,570 400,548 636,216 290,616 118,343 1,575 7,264 15,474 821,379 3,722,445 4,568,138 229,291 7,248,848
+
+July134,627 333,718 38,058 20,007 472,929 450,465 665,370 290,567 120,788 1,660 7,009 15,957 839,260 3,753,913 4,617,799 220,936 7,365,264
+
+August140,142 336,644 31,407 21,682 461,818 482,880 677,621 284,498 120,686 1,717 6,213 16,116 841,833 3,795,321 4,661,200 217,072 7,435,650
+
+September140,202 338,617 48,241 20,868 467,022 483,744 707,605 285,065 120,224 1,860 7,066 17,901 839,316 3,839,307 4,705,450 242,137 7,559,175
+
+October151,378 344,009 53,271 20,637 468,733 467,173 707,017 285,781 124,679 1,509 6,525 18,800 865,787 3,859,693 4,752,315 221,352 7,596,346
+
+November145,486 335,285 55,793 21,939 486,509 457,554 702,991 286,264 123,193 1,460 7,457 17,826 872,102 3,907,583 4,806,428 243,740 7,665,183 December158,658 341,828 78,804 24,048 525,901 428,452 736,650 285,811 116,741 1,712 6,282 16,717 864,011 4,002,056 4,890,777 237,169 7,824,839
+
+(a) The number of reporting banks was 23 from August 2011, 24 from December 2011 and 25 from April 2014.(b) Fixed and other assets consist of banks’ property, furniture, fittings and sundries (commission, interest receivables, etc.)(c) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+(Contd.)
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 134 (Contd.)
+
+Assets and Liabilities of Domestic Banking Units (DBUs) of Commercial Banks Rs. million
+
+End of Period
+
+Liabilities
+
+Paid up Capital,ReserveFunds andUndistributedProfits
+
+Demand DepositsTime and Savings DepositsTotal DepositsBorrowings
+
+OtherLiabilities
+
+InterbankGovernment ofSri Lanka ResidentsNon Residents
+
+GovernmentofSri Lanka Residents Non Residents DemandTimeandSavingsTotalDomesticInterbank(d)Foreign
+
+Domestic Foreign
+
+2013444,945 540 21,780 24,754 219,966 5,713 26,422 2,574,215 379,757 272,753 2,980,394 3,253,147 127,460 111,981 390,732 2014528,661 112 11,517 34,441 282,722 10,667 30,513 2,848,402 422,601 339,458 3,301,517 3,640,976 145,315 138,443 402,545 2015 (c)608,898 857 8,683 44,182 326,926 8,645 29,150 3,342,224 529,750 389,293 3,901,124 4,290,417 182,212 195,717 421,277 2016716,963 161 8,761 41,661 347,005 7,563 16,419 4,046,935 609,584 405,152 4,672,937 5,078,090 206,131 212,374 469,025 2017850,931 478 15,715 46,843 353,876 8,910 27,973 4,872,014 666,884 425,822 5,566,871 5,992,693 254,942 162,385 563,888
+
+2016January613,523 195 10,239 38,113 309,761 11,906 27,555 3,410,561 554,004 370,214 3,992,120 4,362,334 179,475 198,595 408,109 February614,177 213 11,343 34,582 317,796 9,420 28,100 3,457,874 563,185 373,353 4,049,159 4,422,511 183,067 196,603 421,366 March632,325 154 8,689 34,427 323,929 9,133 30,067 3,476,793 576,207 376,331 4,083,067 4,459,399 204,758 197,574 434,776 April634,205 189 10,095 34,404 317,112 9,048 29,437 3,526,513 577,468 370,847 4,133,418 4,504,265 185,629 210,360 441,865 May638,442 135 13,706 31,784 311,403 8,763 29,591 3,539,255 585,180 365,791 4,154,026 4,519,817 190,459 203,313 450,129 June649,778 252 8,212 31,934 312,835 8,033 20,148 3,604,861 571,854 361,267 4,196,862 4,558,129 177,713 204,926 455,196 July662,705 221 9,908 32,022 310,344 7,639 19,625 3,678,122 576,603 360,135 4,274,350 4,634,485 200,311 193,879 448,114 August668,360 140 7,140 30,320 311,576 7,258 22,343 3,720,656 578,436 356,433 4,321,435 4,677,868 194,378 186,326 462,438 September672,458 186 8,591 33,210 321,629 7,437 23,715 3,822,617 576,162 371,053 4,422,494 4,793,547 199,570 185,979 460,369 October685,316 189 11,371 32,799 320,232 6,718 21,912 3,889,139 579,757 371,309 4,490,807 4,862,116 179,534 198,316 470,397 November697,428 164 11,413 37,310 315,241 6,691 21,133 3,963,032 587,561 370,818 4,571,726 4,942,544 192,159 197,673 463,895 December716,963 161 8,761 41,661 347,005 7,563 16,419 4,046,935 609,584 405,152 4,672,937 5,078,090 206,131 212,374 469,025
+
+2017January711,352 158 8,829 37,079 334,105 8,209 30,197 4,123,160 592,234 388,380 4,745,591 5,133,971 200,811 211,225 497,446 February713,905 172 9,746 33,869 329,368 8,580 28,981 4,206,718 597,423 381,735 4,833,122 5,214,857 208,519 209,910 519,725 March725,702 109 10,242 32,356 338,092 10,576 28,416 4,314,178 600,748 391,375 4,943,343 5,334,717 206,071 191,622 517,963 April736,489 176 9,741 31,196 330,711 9,394 26,296 4,381,608 607,454 381,218 5,015,359 5,396,577 210,675 192,749 519,554 May746,146 175 9,864 34,416 322,228 11,139 30,793 4,472,600 605,978 377,822 5,109,371 5,487,193 214,982 185,474 521,210 June766,007 114 12,605 33,805 327,752 8,935 29,347 4,527,527 619,324 383,211 5,176,198 5,559,408 220,997 173,202 529,233 July784,654 188 10,455 35,437 337,588 9,212 28,413 4,598,575 641,556 392,880 5,268,545 5,661,425 222,985 153,506 542,694 August807,674 250 11,854 37,553 317,572 9,485 30,368 4,663,899 644,840 376,714 5,339,107 5,715,822 203,657 158,349 550,148 September812,443 164 10,842 32,952 320,448 10,383 29,805 4,748,531 639,039 374,788 5,417,376 5,792,164 232,893 156,594 565,081 October820,875 267 9,733 36,016 319,499 10,310 27,943 4,789,317 642,636 375,825 5,459,896 5,835,721 237,156 151,082 551,512 November838,623 200 11,785 36,644 321,153 12,297 29,044 4,798,657 657,970 382,079 5,485,671 5,867,750 237,023 158,295 563,491 December850,931 478 15,715 46,843 353,876 8,910 27,973 4,872,014 666,884 425,822 5,566,871 5,992,693 254,942 162,385 563,888
+
+(d) Includes the Central BankSource: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 135
+
+Assets and Liabilities of Offshore Banking Units (OBUs) of Commercial Banks (a)Rs. million
+
+End of Period
+
+Assets (b)Liabilities (b)
+
+Total Assets/ Liabilities
+
+Non Residents ResidentsNon ResidentsResidents
+
+NonBankBankCentralBankCommercialBanksInterOBUsBOIEnterprises
+
+OtherApprovedEnterprises
+
+OtherAssetsNon BankBankCentralBankCommercialBanksInter OBUsBOIEnterprises
+
+OtherApprovedEnterprises
+
+OtherLiabilities
+
+2013 38,749 49,855 1,784 64,518 21,349 202,002 397,067 8,712 34,774 428,129 - 98,185 1,060 111,057 12,330 98,501 784,036 2014 52,067 77,922 805 126,291 41,257 250,115 466,830 13,393 52,210 529,713 - 198,984 - 129,130 13,537 105,107 1,028,681 2015 (c) 95,474 82,647 1,124 214,883 45,672 249,771 654,284 26,970 55,081 701,526 - 313,805 - 166,794 9,775 123,843 1,370,824 2016 136,623 105,359 1,169 287,953 26,175 298,761 523,812 18,463 57,928 648,223 - 363,778 6,741 179,827 9,207 132,613 1,398,315 2017 140,463 101,704 8,899 317,790 37,302 307,560 581,129 14,935 73,433 602,574 - 463,341 5,732 202,796 13,402 148,504 1,509,783
+
+2016January99,071 79,928 1,123 208,378 46,032 262,739 668,282 24,527 57,058 673,814 - 351,631 - 171,379 10,269 125,930 1,390,080 February97,836 67,174 1,127 205,225 42,188 256,594 681,827 36,455 49,427 680,062 - 342,459 - 174,664 9,476 132,338 1,388,425 March98,791 87,843 1,123 222,939 46,759 250,692 682,469 27,480 50,701 725,349 - 362,094 - 146,733 9,952 123,268 1,418,097 April102,967 91,999 1,123 216,793 39,295 251,678 659,180 37,156 56,776 727,279 - 337,796 - 151,889 7,856 118,596 1,400,191 May109,850 80,354 1,138 233,125 40,904 256,618 639,823 33,544 61,520 688,261 - 361,824 - 153,656 9,932 120,165 1,395,357 June112,986 85,233 1,134 242,317 42,125 259,586 630,567 36,686 60,776 711,054 - 350,857 - 154,089 10,780 123,078 1,410,634 July115,197 100,360 1,138 276,166 47,024 271,266 609,951 28,614 59,410 723,630 - 367,104 - 162,502 10,718 126,351 1,449,715 August116,664 130,375 1,137 298,488 44,989 275,435 521,708 32,116 59,929 698,744 - 352,968 - 170,348 10,801 128,121 1,420,911 September122,594 125,430 1,145 285,479 38,030 274,819 533,348 30,135 62,242 686,158 - 352,973 - 168,143 10,237 131,228 1,410,981 October (c)131,689 108,912 1,148 295,065 28,722 277,161 496,590 23,293 56,435 638,173 - 355,511 - 171,138 9,875 131,448 1,362,581 November 122,242 116,876 1,155 292,688 24,904 284,073 496,184 18,449 56,311 614,230 - 368,120 - 179,090 9,506 129,313 1,356,571 December 136,623 105,359 1,169 287,953 26,175 298,761 523,812 18,463 57,928 648,223 - 363,778 6,741 179,827 9,207 132,613 1,398,315
+
+2017January 118,345 83,944 1,173 286,593 39,105 300,451 569,010 16,445 57,367 649,974 - 353,682 - 204,877 14,028 135,139 1,415,067 February 114,148 79,030 1,180 290,849 42,253 309,624 606,503 20,821 63,790 665,696 - 374,627 - 209,992 12,485 137,820 1,464,410 March 110,145 74,595 1,943 304,974 53,312 292,338 660,882 23,029 71,378 701,192 - 410,800 - 189,510 11,892 136,447 1,521,219 April 116,918 148,380 1,186 303,054 52,869 290,762 653,066 24,725 73,033 722,952 - 460,695 - 185,759 12,590 135,931 1,590,959 May 118,837 96,589 8,974 339,748 54,206 288,113 638,866 20,986 85,662 675,309 - 461,681 - 185,849 17,666 140,154 1,566,320 June 124,686 92,432 11,330 315,427 48,932 300,630 624,066 20,069 88,465 663,046 - 443,262 2,763 187,012 10,150 142,874 1,537,572 July 123,265 113,935 9,807 331,077 42,224 307,571 591,387 14,021 90,081 657,505 - 436,352 - 195,792 11,686 141,869 1,533,285 August 125,900 105,423 9,749 317,815 40,854 307,692 583,743 18,204 76,576 637,661 - 435,549 764 195,823 15,562 147,443 1,509,380 September 133,643 117,049 8,869 310,929 38,441 305,998 579,302 12,971 65,516 650,175 - 430,392 - 202,030 16,535 142,553 1,507,201 October 134,443 111,110 9,161 321,968 37,946 308,351 563,852 16,251 72,680 629,336 - 438,099 2,611 199,673 14,917 145,765 1,503,082 November 136,568 108,484 8,952 321,220 43,290 304,460 575,694 20,343 74,312 619,789 - 462,798 - 199,436 14,755 147,921 1,519,010 December 140,463 101,704 8,899 317,790 37,302 307,560 581,129 14,935 73,433 602,574 - 463,341 5,732 202,796 13,402 148,504 1,509,783
+
+(a) An Offshore Banking Unit (OBU) is a unit in a commercial bank, established in terms of the Central Bank Circular No. 380 of 2 May 1979, which accepts deposits and grants advances in designated foreign currencies from and to: (i) Non Residents, (ii) Commercial Banks, (iii) Board of Investment (BOI ) Enterprises, and (iv) Other residents approved by the Central Bank.(b) Assets and liabilities denominated in foreign currencies have been converted into Sri Lanka rupees at exchange rates prevailing at the end of the relevant period.(c) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+Source: Central Bank of Sri Lanka
+
+Financial Sector Performance and System StabilityTABLE 136
+
+Financial Soundness Indicators - Banking Industry
+
+Category2013201420152016 (a)2017 (b)
+
+1. Capital Adequacy (%)1.1Capital Adequacy Ratio (CAR) (Regulatory Capital to Risk Weitghed Assets) 17.6 16.6 15.4 15.6 15.2 1.2Core Capital Ratio (Tier 1) (Core Capital to Risk Weighted Assets) 14.9 14.1 13.0 12.6 12.4 1.3Core Capital to Total Assets 7.4 7.4 6.9 7.0 6.9 1.4Net Non-Performing Loans (Net of Interest in Suspense and SpecificProvisions) to Total Capital Funds 26.3 17.6 12.8 9.6 9.3
+
+1.5Borrowings to Capital Funds 207.4 254.7 276.2 239.8 185.4 1.6Capital to Assets Ratio 8.2 8.2 7.9 7.8 8.4
+
+2. Assets Quality (%)
+
+2.1Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(excluding Interest in Suspense) 5.6 4.2 3.2 2.6 2.5
+
+2.2Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(with Interest in Suspense) 7.7 6.2 4.9 4.1 3.8
+
+2.3Net Non-Performing Loans (Net of IIS and Specific Provisions) to TotalGross Loans and Advances 3.8 2.6 1.7 1.2 1.3
+
+2.4Total Provisions Made against Gross Loans and Advances 2.3 2.2 2.0 1.8 1.7 2.5Total Provision Coverage Ratio 40.4 50.7 62.3 71.8 69.9 2.6Specific Provision Coverage Ratio 32.5 39.7 46.9 52.1 49.6 2.7Total Provisions Made against Total Assets 1.3 1.2 1.2 1.1 1.1 2.8Total Loans and Advances (Gross) to Total Assets 57.7 55.9 58.4 61.2 62.5 2.9Total Investments to Total Assets 28.5 27.6 29.1 25.1 24.8 2.10 Total Income to Total Assets 11.4 9.5 8.5 9.5 10.6 2.11 Net Interest Income to Total Assets 3.3 3.2 3.3 3.4 3.3 2.12 Non Interest Income to Total Assets 1.4 1.4 1.2 1.1 1.2
+
+3. Earnings and Profitability (%)3.1Return on Equity (ROE) - After Tax 16.0 16.6 16.2 17.3 17.6 3.2Return on Assets (ROA) - Before Tax 1.9 2.0 1.9 1.9 2.0 3.3Return on Assets (ROA) - After Tax 1.3 1.4 1.3 1.4 1.4 3.4Interest Income to Total Income 87.3 85.1 85.8 88.0 88.8 3.5Net Interest Income to Total Income 29.0 33.5 38.6 35.4 31.2 3.6Non Interest Income to Total Income 12.7 14.9 14.2 12.0 11.2 3.7Non Interest Expenses (Operating Expenses) to Total Income 21.0 24.3 25.9 22.9 18.7 3.8Personal Expenses to Non Interest Expenses 49.6 48.1 50.0 49.9 50.3 3.9Personal Expenses to Total Income 10.4 11.7 13.0 11.4 9.4 3.10 Provisions to Total Income 3.9 3.4 3.7 2.3 2.6 3.11 Cost to Income Ratio 79.3 75.9 73.1 75.6 76.3 3.12 Efficiency Ratio 53.4 51.4 51.0 49.2 45.7 3.13 Interest Margin (Net Interest Income to Average Assets) 3.5 3.5 3.6 3.6 3.5
+
+4. Liquidity (%)4.1Total Liquid Assets to Total Assets 31.9 32.2 30.0 27.3 28.6 4.2Statutory Liquid Assets Ratio - Domestic Banking Unit (DBU) 37.7 39.5 33.9 29.9 31.3 4.3Statutory Liquid Assets Ratio - Off-shore Banking Unit (OBU) 34.7 33.6 40.0 35.3 34.6 4.4Liquid Assets to Deposits 45.5 47.9 44.9 39.2 39.7 4.5Current & Savings Deposits to Total Deposits 33.9 39.3 40.3 37.1 34.2 4.6Liquid Assets to Short Term Liabilities 47.2 48.8 45.2 40.3 41.1 4.7Deposit to Total Loans and Advances 121.7 120.3 114.6 113.6 115.1
+
+5. Assets / Funding Structure5.1Deposits (% of Total Assets) 70.2 67.2 66.9 69.6 71.9 5.2Borrowings (% of Total Assets) 17.1 20.8 21.8 18.8 15.6 5.3Capital Funds (% of Total Assets) 8.2 8.2 7.9 7.8 8.4 5.4Other (% of Total Assets) 4.5 3.9 3.5 3.8 4.1 5.5Credit to Deposits 82.2 83.1 87.3 88.0 86.9 5.6Credit to Deposits and Borrowings 66.1 63.5 65.8 69.3 71.4 5.7Credit to Deposits, Borrowings and Capital 60.4 58.1 60.5 63.7 65.1
+
+6. Financial Infrastructure
+
+6.1No. of Branches (excluding Student Savings Units) 3,306 3,377 3,452 3,524 3,560
+
+6.2No. of ATMs 3,042 3,270 3,535 3,851 4,416
+
+(a) RevisedSource: Central Bank of Sri Lanka
+
+(b) Provisional
+
+Financial Sector Performance and System StabilityTABLE 137
+
+Financial Soundness Indicators - Licensed Commercial Banks (LCBs)
+
+Category2013201420152016 (a)2017 (b)
+
+1. Capital Adequacy (%)1.1Capital Adequacy Ratio (CAR) (Regulatory Capital to Risk Weitghed Assets) 17.5 17.0 15.3 15.6 15.2 1.2Core Capital Ratio (Tier 1) (Core Capital to Risk Weighted Assets) 14.3 14.1 12.8 12.5 12.3 1.3Core Capital to Total Assets 7.6 7.5 7.3 7.4 7.3 1.4Net Non-Performing Loans (Net of Interest in Suspense and SpecificProvisions) to Total Capital Funds 24.4 13.1 9.7 7.6 7.5
+
+1.5Borrowings to Capital Funds 197.1 241.7 264.6 223.7 169.2 1.6Capital to Assets Ratio 8.3 8.3 8.2 8.2 8.9
+
+2. Assets Quality (%)
+
+2.1Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(excluding Interest in Suspense) 5.2 3.6 2.9 2.4 2.3
+
+2.2Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(with Interest in Suspense) 7.3 5.6 4.7 3.9 3.7
+
+2.3Net Non-Performing Loans (Net of IIS and Specific Provisions) to TotalGross Loans and Advances 3.3 1.9 1.3 1.0 1.0
+
+2.4Total Provisions Made against Gross Loans and Advances 2.3 2.2 2.1 1.9 1.8 2.5Total Provision Coverage Ratio 44.4 61.5 72.6 80.3 77.8 2.6Specific Provision Coverage Ratio 35.6 48.1 54.8 58.5 55.4 2.7Total Provisions Made against Total Assets 1.4 1.3 1.3 1.2 1.2 2.8Total Loans and Advances (Gross) to Total Assets 61.3 58.7 61.1 63.8 64.9 2.9Total Investments to Total Assets 24.4 23.7 26.0 22.1 22.3 2.10 Total Income to Total Assets 11.5 9.3 8.3 9.4 10.5 2.11 Net Interest Income to Total Assets 3.6 3.2 3.2 3.4 3.4 2.12 Non Interest Income to Total Assets 1.5 1.5 1.3 1.2 1.3
+
+3. Earnings and Profitability (%)3.1Return on Equity (ROE) - After Tax 17.3 16.8 15.7 17.2 17.5 3.2Return on Assets (ROA) - Before Tax 2.0 2.0 1.9 2.0 2.1 3.3Return on Assets (ROA) - After Tax 1.4 1.4 1.3 1.4 1.5 3.4Interest Income to Total Income 86.6 84.3 84.1 86.7 87.9 3.5Net Interest Income to Total Income 30.9 34.8 39.1 35.9 32.0 3.6Non Interest Income to Total Income 13.4 15.7 15.9 13.3 12.1 3.7Non Interest Expenses (Operating Expenses) to Total Income 21.9 25.6 27.2 23.7 19.2 3.8Personal Expenses to Non Interest Expenses 48.4 47.3 48.9 48.7 48.8 3.9Personal Expenses to Total Income 10.6 12.1 13.3 11.5 9.4 3.10 Provisions to Total Income 4.3 3.8 4.3 2.6 2.9 3.11 Cost to Income Ratio 77.6 75.0 72.2 74.6 75.2 3.12 Efficiency Ratio 52.6 51.6 51.1 48.9 45.2 3.13 Interest Margin (Net Interest Income to Average Assets) 3.7 3.6 3.5 3.6 3.5
+
+4. Liquidity (%)4.1Total Liquid Assets to Total Assets 28.0 28.9 27.4 24.9 26.4 4.2Statutory Liquid Assets Ratio - Domestic Banking Unit (DBU) 30.8 33.2 28.7 25.4 27.2 4.3Statutory Liquid Assets Ratio - Off-shore Banking Unit (OBU) 34.7 33.6 40.0 35.3 34.6 4.4Liquid Assets to Deposits 39.6 42.8 41.3 35.8 36.7 4.5Current and Savings Deposits to Total Deposits 36.4 42.1 42.6 38.9 35.7 4.6Liquid Assets to Short Term Liabilities 41.6 43.6 41.8 37.1 39.1 4.7Deposit to Total Loans and Advances 115.4 115.1 108.9 108.8 110.9
+
+5. Assets / Funding Structure5.1Deposits (% of Total Assets) 70.7 67.6 66.5 69.5 72.0 5.2Borrowings (% of Total Assets) 16.4 20.2 21.8 18.4 15.0 5.3Capital Funds (% of Total Assets) 8.3 8.3 8.2 8.2 8.9 5.4Other (% of Total Assets) 4.5 3.9 3.5 3.9 4.1 5.5Credit to Deposits 86.7 86.9 91.8 91.9 90.1 5.6Credit to Deposits and Borrowings 70.3 66.9 69.2 72.6 74.6 5.7Credit to Deposits, Borrowings and Capital 64.2 61.1 63.3 66.4 67.7
+
+6. Financial Infrastructure
+
+6.1No. of Branches (excluding Student Savings Units) 2,650 2,723 2,781 2,841 2,869 6.2No. of ATMs 2,786 3,004 3,245 3,531 4,083
+
+(a) RevisedSource: Central Bank of Sri Lanka
+
+(b) Provisional
+
+Financial Sector Performance and System StabilityTABLE 138
+
+Financial Soundness Indicators - Licensed Specialised Banks (LSBs)
+
+Category2013201420152016 (a)2017 (b)
+
+1. Capital Adequacy (%)1.1Capital Adequacy Ratio (CAR) (Regulatory Capital to Risk Weitghed Assets) 18.6 18.6 16.6 15.3 15.0 1.2Core Capital Ratio (Tier 1) (Core Capital to Risk Weighted Assets) 20.6 20.1 16.6 13.5 12.8 1.3Core Capital to Total Assets 6.3 6.4 4.8 4.4 4.1 1.4Net Non-Performing Loans (Net of Interest in Suspense and SpecificProvisions) to Total Capital Funds 37.6 45.9 40.7 31.1 29.3
+
+1.5Borrowings to Capital Funds 268.5 336.9 382.6 409.6 360.1 1.6Capital to Assets Ratio 7.7 7.2 5.7 5.1 5.4
+
+2. Assets Quality (%)
+
+2.1Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(excluding Interest in Suspense) 9.3 9.5 6.4 4.5 4.3
+
+2.2Gross Non-Performing Loans (NPL) to Total Gross Loans and Advances(with Interest in Suspense) 10.8 11.2 7.5 5.2 4.9
+
+2.3Net Non-Performing Loans (Net of IIS and Specific Provisions) to TotalGross Loans and Advances 7.7 8.1 5.6 3.6 3.4
+
+2.4Total Provisions Made against Gross Loans and Advances 1.9 1.8 1.3 1.3 1.3 2.5Total Provision Coverage Ratio 20.6 19.0 19.4 29.6 31.1 2.6Specific Provision Coverage Ratio 17.2 15.0 13.4 20.6 21.4 2.7Total Provisions Made against Total Assets 0.7 0.7 0.5 0.6 0.6 2.8Total Loans and Advances (Gross) to Total Assets 37.8 40.5 41.4 44.3 46.8 2.9Total Investments to Total Assets 51.2 49.1 48.4 44.5 41.6 2.10 Total Income to Total Assets 10.9 10.4 10.0 10.4 11.3 2.11 Net Interest Income to Total Assets 2.0 2.8 3.6 3.4 3.0 2.12 Non Interest Income to Total Assets 1.0 1.1 0.5 0.4 0.7
+
+3. Earnings and Profitability (%)3.1Return on Equity (ROE) - After Tax 8.6 15.1 20.3 18.3 19.2 3.2Return on Assets (ROA) - Before Tax 1.0 1.7 1.6 1.5 1.5 3.3Return on Assets (ROA) - After Tax 0.8 1.2 1.1 1.0 1.0 3.4Interest Income to Total Income 91.2 89.3 94.8 95.7 94.2 3.5Net Interest Income to Total Income 17.9 27.3 36.4 32.4 26.5 3.6Non Interest Income to Total Income 8.8 10.7 5.2 4.3 5.8 3.7Non Interest Expenses (Operating Expenses) to Total Income 15.6 17.8 19.4 18.4 15.6 3.8Personal Expenses to Non Interest Expenses 59.9 53.4 58.4 58.8 61.5 3.9Personal Expenses to Total Income 9.3 9.5 11.3 10.8 9.6 3.10 Provisions to Total Income 1.4 1.7 0.8 0.3 0.9 3.11 Cost to Income Ratio 88.9 79.9 77.8 81.7 83.3 3.12 Efficiency Ratio 60.1 49.9 50.2 51.5 49.3 3.13 Interest Margin (Net Interest Income to Average Assets) 2.2 3.1 3.8 3.5 3.2
+
+4. Liquidity (%)4.1Total Liquid Assets to Total Assets 53.2 49.9 46.5 42.9 42.6 4.2Statutory Liquid Assets Ratio - Domestic Banking Unit (DBU) 80.3 77.7 68.5 61.4 61.6 4.3Statutory Liquid Assets Ratio - Off-shore Banking Unit (OBU) - - - - - 4.4Liquid Assets to Deposits 79.2 76.4 67.2 61.0 59.7 4.5Current and Savings Deposits to Total Deposits 23.3 25.3 27.6 27.2 26.0 4.6Liquid Assets to Short Term Liabilities 76.9 78.5 64.9 59.5 51.9 4.7Deposit to Total Loans and Advances 177.8 161.0 167.2 158.7 152.3
+
+5. Assets / Funding Structure5.1Deposits (% of Total Assets) 67.1 65.3 69.3 70.3 71.3 5.2Borrowings (% of Total Assets) 20.7 24.1 21.7 20.9 19.4 5.3Capital Funds (% of Total Assets) 7.7 7.2 5.7 5.1 5.4 5.4Other (% of Total Assets) 4.5 3.5 3.4 3.7 3.9 5.5Credit to Deposits 56.3 62.1 59.8 63.0 65.6 5.6Credit to Deposits and Borrowings 43.0 45.4 45.5 48.6 51.6 5.7Credit to Deposits, Borrowings and Capital 39.5 42.0 42.9 46.0 48.7
+
+6. Financial Infrastructure
+
+6.1No. of Branches (excluding Student Savings Units) 656 654 671 683 691 6.2No. of ATMs 256 266 290 320 333
+
+(a) RevisedSource: Central Bank of Sri Lanka
+
+(b) Provisional
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 139
+
+Assets and Liabilities of Non-Bank Financial Institutions (a)Rs. million
+
+End of Period2013201420152016 (b)2017 (c)
+
+ASSETS 684,585 814,553 996,127 1,211,891 1,354,991
+
+Cash and Bank Balances 40,907 44,091 43,844 76,129 107,746 Cash in Hand 2,540 3,097 3,391 4,463 6,702 Demand Deposits with Commercial Banks 12,168 12,637 12,977 18,869 29,671 Time and Savings Deposits with Commercial Banks 24,304 26,149 24,726 51,175 67,187 Time and Savings Deposits with Licensed Finance Companies 340 439 403 695 1,054 Deposits with Other Institutions 1,555 1,769 2,347 928 3,131
+
+Investments 51,776 109,717 99,634 111,708 118,068 Investments in Government of Sri Lanka Securities 30,623 62,325 58,122 73,205 65,552 Treasury Bills 26,327 48,690 49,040 62,679 58,603 Treasury Bonds 4,296 13,636 9,082 10,526 6,949 Shares Held for Trading Investments 4,607 6,990 6,269 6,221 4,566 Debentures 1,684 909 2,418 1,238 2,544 Shares in Other Companies 1,472 1,699 2,616 1,561 1,821 Shares in Subsidiaries and Associate Companies 5,584 26,821 27,408 26,676 26,955 Investment Properties 7,541 8,668 9,990 11,218 14,654 Other Investments 1,522 3,382 5,302 1,543 12,461 Provision for decline in value of investment securities (1,258) (1,079) (12,492) (9,954) (10,487)
+
+Loans and Advances (Net) 521,320 603,748 795,844 962,672 1,057,097 Leasing 249,117 275,593 419,296 490,412 554,274 Hire Purchase 122,176 120,613 73,364 42,241 27,183 Loans 144,443 210,704 307,816 431,332 475,989 Real Estate 5,211 4,308 3,619 2,194 2,479 Pawning Advances 26,279 22,577 23,934 27,225 35,099 Dues from Related Party 5,860 7,554 9,643 12,901 13,666 Loan Loss Provisions and Suspended Interest (31,765) (37,601) (41,828) (43,634) (51,594)
+
+Trading Stocks 15,065 14,572 12,936 7,662 7,756 Real Estate 8,065 7,006 5,737 2,955 2,985 Repossessed Items 4,768 6,173 4,821 4,126 4,473 Other 2,232 1,392 2,378 582 298
+
+Fixed Assets 21,888 25,840 28,305 33,326 38,446 Other Assets 33,628 16,585 15,565 20,394 25,878
+
+LIABILITIES 684,585 814,553 996,127 1,211,891 1,354,991
+
+Capital Account 96,584 116,870 123,139 146,107 169,674 Paid-up Capital 58,894 65,899 63,026 64,297 66,554 Retained earnings and Reserves 37,690 50,971 60,113 81,810 103,120
+
+Deposits 337,297 414,116 480,636 530,740 686,720 Time Deposits 328,062 396,468 457,486 507,688 655,670 Savings Deposits 8,563 16,984 22,568 22,184 30,014 Certificate of Deposits 672 664 581 869 1,036
+
+Borrowings from 193,111 217,385 314,295 438,662 396,030 Financial Institutions 94,938 110,835 176,595 276,588 235,890 Others 98,173 106,550 137,700 162,074 160,140
+
+Other Liabilities 57,593 66,181 78,058 96,382 102,567
+
+No. of Institutions 58 56 53 53 51
+
+(a) Non-Bank Financial Institutions sector represents Licensed Finance Companies and Specialised Leasing Companies (b) Revised (c) Provisional
+
+Source: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 140
+
+Financial Soundness Indicators - Licensed Finance Companies (LFCs) andSpecialised Leasing Companies (SLCs) Sector
+
+Category2013 December2014 December (a)
+
+2015 December2016 December2017 December (b)
+
+1. Capital Adequacy 1.1 Regulatory Capital to Risk Weighted Assets (RWCAR)14.813.511.211.713.11.2 Tier 1 Capital/Risk Weighted Assets (Tier 1 RWCAR)13.512.810.511.312.41.3 Capital Funds to Total Assets13.213.411.611.411.81.4 Debts to Capital Funds (Times)2.01.92.63.02.41.5 Investment Properties to Capital Funds8.07.68.27.88.81.6 Net Non-Performing Loans to Capital Funds14.412.910.98.49.7
+
+2. Asset Quality2.1 Gross Non-Performing Loans to Total Loans6.76.95.75.35.92.2 Net Non-Performing Loans to Total Loans2.52.31.61.21.52.3 Required Loan loss Provision to Total Loans2.93.12.82.93.12.4 Provision Made against Total Loans3.84.13.53.53.82.5 Provision Coverage Ratio (Specific Provisions to NPL)45.250.959.463.961.92.6 Provision Coverage Ratio (Total Provisions to NPL)56.059.361.065.764.0
+
+3. Liquidity3.1 Regulatory Liquid Assets to Total Assets8.09.67.67.18.93.2 Regulatory Liquid Assets to External Funds10.913.010.09.311.7
+
+4. Earnings4.1 Return on Assets (Annualised)2.33.13.04.03.24.2 Return on Equity (Annualised)9.014.012.423.116.14.3 Interest Income to Interest Expenses163.5189.9220.6195.2179.74.4 Net Interest Income to Profit After Tax517.7418.9542.2292.6397.64.5 Operating Cost to Net Interest Income85.076.581.571.277.94.6 Net Interest Income to Gross Assets6.98.08.77.97.74.7 Net Interest Income to Interest Income38.847.354.748.844.34.8 Non-Interest Income to Total Cost13.915.915.716.615.34.9 Efficiency Ratio (Operating Cost) (a)72.166.570.258.164.94.10 Cost to Income Ratio88.884.283.578.383.7
+
+5. Assets/Funding Structure (as a % of total assets)5.1 Borrowings26.825.429.934.727.95.2 Investments7.413.010.79.69.1
+
+6. Lending6.1 Total Loans and advances Growth17.316.030.620.110.2
+
+(a) Revised(b) ProvisionalSource: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 141
+
+Financial Soundness Indicators - Licensed Finance Companies (LFCs)
+
+Category2013 December2014 December2015 December2016 December2017 December (b)
+
+1. Capital Adequacy 1.1 Regulatory Capital to Risk Weighted Assets (RWCAR)13.512.19.810.211.51.2 Tier 1 Capital/Risk Weighted Assets (Tier 1 RWCAR)12.011.49.19.910.91.3 Capital Funds to Total Assets12.012.210.410.310.81.4 Deposits Liabilities to Capital Funds (Times)4.34.44.84.45.01.5 Net Non-Performing Loans to Capital Funds16.114.512.89.911.4
+
+2. Asset Quality2.1 Gross Non-Performing Loans to Total Loans6.87.26.05.66.32.2 Provisions to Non-Performing Loans55.459.160.565.363.5
+
+3. Liquidity3.1 Regulatory Liquid Assets to Total Assets8.19.57.47.08.93.2 Regulatory Liquid Assets to External Funds10.912.69.78.911.6
+
+4. Earnings4.1 Return on Assets - Before Tax (Annualised) (a)1.92.62.53.83.04.2 Return on Assets - After Tax (Annualised)1.11.61.22.51.74.3 Return on Equity - After Tax (Annualised)7.812.610.324.115.94.4 Net Interest Income to Gross Income32.438.845.540.736.74.5 Net Interest Income to Total Assets6.57.58.27.47.24.6 Non-Interest Expenses (Operating Expenses) to Income29.432.039.829.929.74.7 Staff Expenses to Non-Interest Expenses34.736.433.042.440.14.8 Total Cost to Total Income90.586.386.079.184.9
+
+5. Assets/Funding Structure5.1 Deposits (As a % of Total Assets)51.753.149.645.653.35.2 Loans and advances (As a % of Total Assets)76.774.479.379.178.65.3 Investments (As a % of Total Assets)7.413.711.310.09.95.4 Credit to Deposits148.5140.0159.8173.5147.4
+
+(a) Revised(b) ProvisionalSource: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 142
+
+Financial Soundness Indicators - Specialised Leasing Companies (SLCs)
+
+Category2013 December2014 December2015 December2016 December2017 December (a)
+
+1. Capital Adequacy 1.1 Capital Funds to Total Assets25.026.725.024.021.61.2 Total borrowings to Capital Funds (Gearing) - Times2.52.32.52.73.1
+
+2. Asset Quality2.1 Gross Non-Performing Loans to Total Loans5.64.02.01.52.12.2 Provision Made against Total Loans 3.52.51.51.31.72.3 Total Loans to Total Assets80.783.885.084.774.42.4 Total Loans to Total Borrowings128.9139.4134.7131.9111.2
+
+3. Liquidity3.1 Net Loans to Total Borrowings123.3135.3132.3129.8109.03.2 Regulatory Liquid Assets to Total Assets7.011.39.29.18.83.3 Regulatory Liquid Assets to Total Borrowings11.118.814.714.213.2
+
+4. Earnings4.1 Return on Assets (Annualised)5.47.48.96.86.14.2 Operating Profit Before Provision to Total Assets 6.89.610.67.57.04.3 Return on Equity (Annualised)15.120.923.817.917.24.4 Interest Income to Interest Expenses 216.3298.9411.7272.2256.04.5 Net Interest Income to Profit Before Tax183.8177.6161.9197.0210.74.6 Operating Cost to Net Interest Income 50.042.039.356.860.74.7 Total Cost to Total Income73.465.857.470.473.6
+
+5. Assets/Funding Structure (As a % of Total Assets)5.1 Borrowings62.660.163.164.366.95.2 Investments7.25.43.35.30.8
+
+(a) ProvisionalSource: Central Bank of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 143
+
+Savings and Fixed Deposits of Deposit-Taking InstitutionsRs. million
+
+EndofPeriod
+
+Savings DepositsFixed Deposits
+
+Total DepositsCommercial Banks (a)
+
+NationalSavingsBank
+
+State Mortgage&InvestmentBank
+
+PradeshiyaSanwardhana Bank (b)
+
+OtherLicensedSpecialisedBanks (c)
+
+Licensed FinanceCompanies(d)
+
+TotalCommercial Banks (a)
+
+NationalSavingsBank (e)
+
+State Mortgage&InvestmentBank
+
+DFCCBank (f)
+
+PradeshiyaSanwardhana Bank(b)
+
+OtherLicensed SpecialisedBanks (c)
+
+Licensed FinanceCompanies(d)
+
+Total
+
+20131,001,486 115,252 800 24,443 8,080 8,571 1,158,632 1,981,964 364,568 18,819 11,134 38,164 35,826 331,367 2,781,842 3,940,474 20141,313,946 141,585 1,131 30,466 11,350 16,993 1,515,470 1,990,193 397,636 21,876 18,756 42,059 44,814 399,655 2,914,989 4,430,459 20151,565,061 163,367 1,349 37,221 12,485 22,577 1,802,060 2,338,338 418,558 24,700 -49,119 57,366 460,790 3,348,870 5,150,931 20161,670,743 176,347 1,439 41,957 13,329 22,184 1,925,999 3,004,252 463,608 24,892 -62,732 61,842 507,688 4,125,012 6,051,012 20171,820,745 188,192 1,607 48,943 15,741 30,014 2,105,242 3,748,081 526,171 28,589 -87,640 77,692 655,670 5,123,842 7,229,084
+
+2016 January1,570,170 166,114 1,328 37,213 12,725 22,378 1,809,929 2,424,194 419,245 25,598 -49,935 56,457 465,839 3,441,267 5,251,196 February1,581,080 168,263 1,387 37,485 12,846 22,410 1,823,470 2,470,302 424,635 25,568 -50,600 57,284 469,255 3,497,644 5,321,114 March1,600,342 170,886 1,426 37,951 12,757 23,561 1,846,923 2,484,932 431,305 26,244 -50,468 56,584 469,484 3,519,018 5,365,941 April1,619,651 172,565 1,456 38,338 13,022 22,882 1,867,914 2,515,955 433,452 25,738 -51,702 57,455 474,607 3,558,909 5,426,823 May1,601,995 173,099 1,438 38,707 12,993 22,593 1,850,824 2,554,204 435,294 25,754 -50,927 57,174 479,560 3,602,913 5,453,738 June1,604,241 173,131 1,468 39,176 13,210 22,698 1,853,925 2,594,781 439,482 25,735 -51,264 57,275 476,827 3,645,364 5,499,288 July1,612,146 174,679 1,445 39,598 13,042 22,279 1,863,189 2,664,351 444,998 25,373 -54,488 58,167 477,427 3,724,805 5,587,994 August1,611,968 174,504 1,431 40,163 13,059 22,093 1,863,216 2,711,591 446,430 24,515 -56,423 58,918 483,392 3,781,269 5,644,486 September1,617,902 174,754 1,420 40,828 13,072 22,054 1,870,031 2,806,696 449,337 24,828 -57,979 60,030 489,902 3,888,771 5,758,802 October1,619,411 175,507 1,405 41,706 13,056 21,921 1,873,006 2,873,487 459,689 24,540 -60,094 60,262 495,761 3,973,833 5,846,839 November1,624,713 176,777 1,408 42,117 13,191 21,955 1,880,162 2,949,088 461,838 24,595 -60,555 61,253 501,670 4,058,999 5,939,160 December1,670,743 176,347 1,439 41,957 13,329 22,184 1,925,999 3,004,252 463,608 24,892 -62,732 61,842 507,688 4,125,012 6,051,012
+
+2017 January1,660,057 177,086 1,481 42,615 13,266 21,971 1,916,477 3,087,582 456,748 24,960 -65,634 64,823 518,878 4,218,625 6,135,102 February1,676,427 179,086 1,504 43,026 13,325 22,182 1,935,551 3,158,735 455,190 24,891 -62,675 65,029 526,617 4,293,136 6,228,687 March1,699,443 180,795 1,564 44,041 13,750 23,002 1,962,595 3,245,925 460,649 26,096 -63,381 65,959 534,693 4,396,703 6,359,297 April1,696,171 181,604 1,528 44,355 13,963 23,228 1,960,849 3,321,204 471,771 26,278 -66,416 67,433 547,828 4,500,930 6,461,779 May1,689,923 182,087 1,513 44,665 13,938 22,827 1,954,953 3,421,458 484,885 26,849 -70,300 68,955 557,246 4,629,693 6,584,646 June1,714,309 183,467 1,522 45,306 14,025 22,906 1,981,536 3,463,893 496,060 26,797 -74,077 71,045 567,263 4,699,135 6,680,671 July1,727,911 184,219 1,582 45,772 14,416 23,375 1,997,275 3,542,625 513,164 26,827 -76,385 71,599 584,873 4,815,472 6,812,747 August1,731,644 185,075 1,627 46,484 14,767 24,944 2,004,541 3,609,441 514,994 26,505 -77,659 75,472 609,720 4,913,791 6,918,332 September1,751,457 185,660 1,592 47,165 15,161 25,264 2,026,297 3,667,892 510,888 26,908 -79,033 76,924 626,897 4,988,541 7,014,839 October1,775,130 186,564 1,631 47,936 15,445 25,625 2,052,331 3,686,731 506,671 27,674 -80,114 75,835 645,845 5,022,870 7,075,201 November1,767,849 188,015 1,654 48,322 15,668 27,941 2,049,448 3,719,779 518,947 28,219 -81,803 75,268 650,605 5,074,621 7,124,069 December1,820,745 188,192 1,607 48,943 15,741 30,014 2,105,242 3,748,081 526,171 28,589 -87,640 77,692 655,670 5,123,842 7,229,084
+
+Source: Central Bank of Sri Lanka(a) Includes deposits of the government, long term deposits mobilised by the two state banks under special savings schemes and foreign currency deposits.(b) Pradeshiya Sanwardhana Bank was established on 14 July 2010 by amalgamating Regional Development Banks.(c) Other Licensed Specialised Banks include Sanasa Development Bank Ltd, Housing Development Finance Corporation Bank of Sri Lanka Ltd, Sri Lanka Savings Bank Ltd and Lankaputhra Development Bank Ltd. MBSL Savings Bank Ltd, which operated as a LSB, was amalgamated with Merchant Bank of Sri Lanka PLC and MCSL Financial Services Ltd and operated as a LFC namely, Merchant Bank of Sri Lanka and Finance PLC with effect from 1 January 2015(d) Licensed Finance Companies were allowed to accept savings deposits with effect from 1 February 2005.(e) Deposits that previously appeared under other savings schemes of the National Savings Bank have been included in its fixed deposits.(f) DFCC Bank which operated as a Licensed Specialised Bank was amalgamated with the DFCC Vardhana Bank and operates as a Licensed Commercial Bank namely, DFCC Bank PLC with effect from 1 October 2015.
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 144
+
+Insurance Activities
+
+Rs. million
+
+Item20132014 (a)20152016 (b)
+
+1. Stated Capital (as at 31st December) 20,376 22,526 39,242 40,911
+
+2. Life Insurance Life Insurance Fund (as at 31st December) 121,454 218,053 239,644 273,269 New Business Total Number of Policies (‘000 units) 542 545 741 663 Total Sums Insured 170,803 279,972 425,059 537,790 Total Premium Collected 10,377 28,381 17,968 19,364
+
+Business in Force (Including new policies):
+
+Total Number of Policies (‘000 units as at 31st December) 2,264 2,605 2,890 2,896 Total Sums Insured (as at 31st December) 611,609 913,756 1,226,632 1,690,869 Total Premium Collected 39,733 44,167 50,216 59,548
+
+Benefit Payments
+
+Total 12,336 20,644 20,934 22,622 Maturity (Endowments paid at maturity) 8,910 9,755 11,688 12,713 Death and Disability 1,422 2,326 2,071 2,141 Surrender 5,526 7,185 5,268 5,296 Other 1,565 1,379 1,907 2,473
+
+3. Fire Insurance
+
+Net Premium (Gross Premium - Reinsurance Premium) 1,991 1,278 1,467 1,471 Net Claims Paid and Outstanding 534 718 300 1,103 Loss Reserve (c) 1,413 2,913 2,944 10,425 Operating Profit/Loss 440 n.a. n.a. n.a.
+
+4. General Accident Insurance
+
+Net Premium (Gross Premium - Reinsurance Premium) 9,122 11,680 12,017 13,654 Net Claims Paid and Outstanding 4,456 7,775 8,637 10,410 Loss Reserve (c) 2,861 3,596 3,867 7,307 Operating Profit/Loss 1,791 n.a. n.a. n.a.
+
+5. Marine Insurance
+
+Net Premium (Gross Premium - Reinsurance Premium)843 740 842 875 Net Claims Paid and Outstanding254 267 210 254 Loss Reserve (c)457 505 700 1,010 Operating Profit/Loss62 n.a. n.a. n.a.
+
+6. Motor Insurance
+
+Net Premium (Gross Premium - Reinsurance Premium) 33,358 35,150 41,507 48,050 Net Claims Paid and Outstanding 14,639 20,281 24,274 29,249 Loss Reserve (c) 8,683 6,744 7,935 8,429 Operating Profit/Loss 4,030 n.a. n.a. n.a.
+
+7. Total Premium Income from General Insurance
+
+Net Premium (Gross Premium - Reinsurance Premium) 45,315 48,849 55,834 64,050 Net Claims Paid and Outstanding 19,882 29,041 33,421 41,017 Loss Reserve (c) 13,413 13,759 15,446 27,171 Operating Profit/Loss 6,323 4,824 5,839 12,067
+
+8. No. of Employees 16,023 15,650 15,830 16,896 9. Total Number of Branches 1,397 1,465 1,872 1,971 10. No. of Institutions 21 21 30 29
+
+(a) Revised(b) Provisional(c) Indicates provisions made for payment of losses incurred during the year but not yet paid.
+
+Source: Insurance RegulatoryCommission of Sri Lanka
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 145
+
+Share Market Performance
+
+EndofPeriod
+
+Total Turnover(a)
+
+Daily Average Turnover (a)
+
+Non-National Transactions (a)Market Capitali-sation (b)
+
+All SharePriceIndex(ASPI)(1985=100)
+
+S&P Sri Lanka 20 Index (2004=1,000)(c)
+
+Sectoral Share Price Indices (1985=100) (b)
+
+Banks, Finance and Insurance
+
+Beverage, Food and Tobacco
+
+Chemicals and Pharmaceuticals
+
+Construction and Engineering
+
+Diversified Holdings
+
+Footwear and Textiles
+
+Healthcare
+
+Hotels and Travels
+
+Investment Trusts
+
+Information Technology
+
+Land and Property
+
+Manufacturing
+
+Motors
+
+Oil Palms
+
+Plantations
+
+Power and Energy
+
+Services
+
+Stores and Supplies
+
+Telecommunications
+
+Trading
+
+Purchases Sales
+
+Rs. mnRs. mnRs. mnRs. mnRs. bn
+
+2013 200,468 828 83,657 60,873 2,459.9 5,912.8 3,263.9 12,926.8 20,385.1 6,277.5 2,799.3 1,759.5 794.3 679.7 3,183.9 17,830.1 79.0 566.5 2,857.6 14,954.8 88,625.5 724.0 126.4 21,727.5 19,068.7 156.6 13,351.6
+
+2014 340,917 1,415 104,771 83,554 3,104.9 7,299.0 4,089.1 18,101.3 21,467.0 7,307.6 3,825.7 2,105.5 999.9 884.9 3,453.9 20,865.4 78.3 747.0 4,146.2 18,208.8 113,544.9 824.0 196.2 26,053.0 23,567.1 221.8 16,784.4
+
+2015 253,251 1,060 84,418 89,790 2,938.0 6,894.5 3,625.7 17,142.7 22,384.6 7,499.8 2,896.8 1,849.4 1,050.5 935.1 3,277.4 17,727.5 63.8 690.1 4,402.9 17,630.8 94,336.1 734.0 170.2 23,621.8 25,607.0 192.3 18,058.5
+
+2016 176,935 737 74,608 74,270 2,745.4 6,228.3 3,496.4 15,816.9 21,199.6 6,546.9 2,542.2 1,545.7 950.6 994.5 3,033.5 12,578.3 40.6 634.3 4,310.7 15,140.2 71,716.8 641.2 145.8 17,481.5 27,268.4 168.3 15,898.1
+
+2017 220,591 915 112,285 94,627 2,899.3 6,369.3 3,671.7 16,618.7 23,071.8 5,831.8 2,331.2 1,669.2 938.7 941.1 2,825.8 11,698.5 34.4 564.0 3,919.0 14,257.0 53,173.7 972.9 122.3 17,587.9 27,561.8 175.9 15,477.6
+
+2016 January 14,216 748 3,868 6,724 2,706.7 6,340.1 3,302.0 15,559.6 21,172.4 6,997.6 2,681.7 1,659.5 956.3 869.0 3,130.4 15,714.8 51.2 658.7 4,004.8 16,620.8 82,040.3 675.6 155.5 23,102.4 25,866.2 173.6 16,510.7
+
+February 12,730 670 5,846 4,606 2,646.1 6,191.8 3,249.5 15,132.0 21,101.9 7,193.4 2,445.1 1,637.7 900.4 881.2 3,061.9 13,589.5 47.8 648.8 3,788.9 16,735.3 82,050.0 652.3 149.6 22,016.3 24,624.9 161.9 16,020.4
+
+March 17,909 895 7,051 7,593 2,586.2 6,071.9 3,204.4 14,996.2 20,686.7 7,072.1 2,328.0 1,539.5 934.4 876.0 3,026.1 12,881.4 46.1 652.8 3,760.4 16,134.1 77,171.1 647.3 150.0 20,082.6 26,732.3 171.2 15,030.1
+
+April 14,257 792 4,105 5,105 2,776.5 6,516.3 3,435.6 16,240.0 21,906.9 7,320.9 2,603.0 1,651.4 1,000.4 1,028.5 3,157.4 15,958.0 60.1 703.8 4,219.3 16,779.5 79,325.4 708.8 169.0 23,058.8 26,960.8 178.0 16,085.6
+
+May 17,204 860 6,985 9,621 2,791.2 6,550.5 3,425.6 16,015.4 22,812.4 7,193.3 2,492.8 1,642.0 966.5 1,067.5 3,177.9 15,461.1 53.9 696.0 4,206.0 17,919.1 79,344.8 694.4 164.8 21,763.9 27,499.7 182.9 15,836.5
+
+June 11,061 503 3,631 4,164 2,677.6 6,283.3 3,300.2 15,336.5 22,318.0 7,287.0 2,379.3 1,560.6 942.5 1,026.2 3,098.5 14,321.3 48.9 667.7 4,042.0 16,527.7 72,041.1 664.6 153.3 19,481.9 26,784.5 171.0 14,742.4
+
+July 11,993 631 4,707 3,279 2,724.8 6,393.9 3,414.4 15,771.1 21,893.1 7,045.8 2,479.6 1,623.3 961.5 1,045.2 3,111.5 14,908.4 46.1 673.7 4,281.2 16,731.3 72,298.1 661.6 160.5 19,504.2 27,095.8 174.9 15,866.7
+
+August 20,732 942 7,777 6,803 2,782.8 6,528.2 3,585.1 16,201.7 21,976.8 7,168.5 2,760.2 1,674.6 959.5 1,132.1 3,142.3 14,524.1 51.2 700.9 4,467.6 16,412.0 70,759.4 652.5 164.9 19,176.2 27,269.8 176.3 16,689.8
+
+September 15,282 764 5,723 4,998 2,785.7 6,534.8 3,617.3 16,485.9 21,304.4 7,224.6 2,828.1 1,686.3 967.8 1,110.9 3,129.1 14,293.7 49.5 662.9 4,640.9 16,446.8 68,558.4 638.6 156.5 19,116.9 28,986.0 183.6 17,157.7
+
+October 9,852 469 4,230 3,017 2,732.4 6,409.2 3,559.9 16,091.4 21,005.9 7,042.0 2,659.1 1,649.4 943.2 1,088.4 3,108.3 13,401.8 43.9 647.0 4,499.6 16,340.7 71,648.2 644.6 152.0 18,718.0 27,836.1 178.2 16,666.5
+
+November 8,269 394 3,120 3,020 2,659.5 6,241.1 3,467.1 15,418.5 21,731.5 6,573.7 2,473.5 1,582.3 919.2 996.9 3,037.5 12,396.9 38.3 621.9 4,326.5 15,799.2 71,229.9 631.8 149.6 17,389.2 27,148.3 165.8 15,777.4
+
+December 23,430 1,233 17,539 15,269 2,745.4 6,228.3 3,496.4 15,816.9 21,199.6 6,546.9 2,542.2 1,545.7 950.6 994.5 3,033.5 12,578.3 40.6 634.3 4,310.7 15,140.2 71,716.8 641.2 145.8 17,481.5 27,268.4 168.3 15,898.1
+
+2017 January 13,609 648 5,508 7,165 2,701.6 6,132.7 3,489.6 15,323.0 21,050.7 6,470.1 2,488.2 1,534.4 879.8 970.2 2,986.4 12,005.5 40.6 607.4 4,266.0 14,873.5 71,159.2 675.3 138.4 17,352.7 26,948.2 170.1 15,664.2
+
+February 12,554 697 6,489 4,902 2,698.4 6,134.3 3,543.8 15,304.7 21,319.6 6,278.3 2,477.5 1,549.9 851.8 976.1 2,940.8 11,514.4 37.8 601.2 4,305.1 14,724.7 65,543.8 677.1 133.9 17,025.7 26,340.1 170.0 16,988.0
+
+March 19,398 843 13,089 7,959 2,662.9 6,061.9 3,438.9 14,749.0 21,955.9 6,068.4 2,388.5 1,519.9 910.0 959.1 2,905.5 10,774.6 33.3 607.4 4,156.7 14,352.9 66,495.9 690.3 128.3 15,921.4 28,024.6 170.1 16,177.8
+
+April 26,162 1,539 18,923 8,162 2,908.8 6,610.5 3,786.4 16,098.3 24,238.9 6,559.2 2,590.3 1,718.4 984.3 978.9 3,014.6 12,997.5 33.3 631.5 4,525.2 14,884.4 67,662.2 818.2 140.8 18,647.7 27,918.7 180.5 17,890.8
+
+May 17,497 875 6,402 3,425 2,952.5 6,674.3 3,818.9 16,749.6 23,557.4 6,585.4 2,671.1 1,781.4 965.0 962.3 3,028.5 12,825.5 35.6 622.1 4,525.3 14,949.8 65,359.3 897.0 134.8 19,883.0 29,285.9 176.8 18,159.9
+
+June 21,312 1,066 12,181 9,515 3,041.2 6,747.1 3,933.5 16,939.7 23,278.9 6,395.9 2,632.8 1,888.3 990.3 952.5 3,008.2 12,939.2 34.4 614.8 4,685.7 14,990.9 63,705.0 847.7 132.1 20,858.0 26,907.1 173.9 18,224.4
+
+July 14,531 692 8,157 4,631 3,010.2 6,637.4 3,811.0 16,539.1 22,710.1 6,350.3 2,771.3 1,861.1 1,023.9 989.7 2,957.1 13,656.4 37.2 608.3 4,545.1 14,673.6 64,252.5 914.6 138.9 19,089.9 27,822.3 168.9 17,209.1
+
+August 13,939 634 6,642 4,890 2,897.8 6,390.7 3,686.0 16,503.1 21,842.8 5,852.2 2,613.8 1,724.5 955.4 936.0 2,882.9 12,615.5 34.4 582.3 4,283.7 14,452.7 59,093.0 923.5 131.9 18,633.7 27,645.5 164.2 16,753.6
+
+September 26,573 1,399 7,748 17,302 2,919.7 6,438.2 3,688.0 16,610.0 22,281.5 6,385.7 2,626.8 1,720.4 937.0 1,023.1 2,884.2 12,772.1 45.0 571.4 4,174.2 14,167.7 56,379.5 1,042.3 130.0 18,422.7 27,367.8 168.7 17,023.0
+
+October 23,829 1,191 12,083 10,118 3,008.8 6,617.4 3,899.6 17,618.6 22,953.7 6,257.1 2,545.9 1,739.3 965.9 976.2 2,888.8 13,169.9 39.5 572.9 4,139.9 14,259.0 57,962.4 1,063.5 128.8 18,868.2 27,226.0 184.5 16,922.0
+
+November 20,246 964 9,033 10,790 2,922.7 6,411.8 3,725.0 16,785.8 22,695.4 5,914.4 2,335.4 1,699.5 891.6 959.6 2,846.3 12,037.7 34.4 554.6 3,968.8 14,293.7 57,000.0 949.7 122.9 17,833.6 27,289.4 177.9 16,404.8
+
+December 10,943 576 6,030 5,768 2,899.3 6,369.3 3,671.7 16,618.7 23,071.8 5,831.8 2,331.2 1,669.2 938.7 941.1 2,825.8 11,698.5 34.4 564.0 3,919.0 14,257.0 53,173.7 972.9 122.3 17,587.9 27,561.8 175.9 15,477.6
+
+(a) 2016 data were revised.(b) End period(c) With effect from 1 January 2013, the Milanka Price Index (MPI) was replaced by a newly introduced index, namely S&P SL 20 index.
+
+Source: Colombo Stock Exchange
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 146
+
+Debentures Listed on the Colombo Stock Exchange (CSE) in 2017 (a)
+
+IssuerNo. of DebenturesOffered(‘000)
+
+No. of DebenturesListed(‘000)
+
+MaturityPeriod(Years)Interest RatePar Value/ Issue Price(Rs.)
+
+Date Listed on CSE
+
+AmountRaised (Rs.’000)
+
+TotalAmountRaised (Rs.’000)
+
+1. Bank of Ceylon80,000 79,982 5Fixed: 13.25 % p.a., payable annually100.0019-Jan-177,998,1768,000,000
+
+10 5Floating Rate, payable semi annually100.0019-Jan-171,020
+
+8 8Fixed: 12.75 % p.a., payable annually100.0019-Jan-17784
+
+…8Floating Rate, payable semi annually100.0019-Jan-1720
+
+2. Merchant Bank of Sri Lanka20,000 8,058 5Fixed: 15.00 % p.a., payable annually100.0022-May-17805,7602,000,000
+
+11,932 5Fixed: 14.50 % p.a., payable semi annually100.0022-May-171,193,230
+
+10 5Floating Rate, payable semi annually100.0022-May-171,010
+
+3. Siyapatha Finance PLC 10,000 10,000 5Fixed: 12.50 % p.a., payable annually100.0023-Oct-171,000,0001,000,000
+
+4. Lanka Orix Leasing Company PLC27,500 7,500 2Fixed: 12.65 % p.a., payable semi annually100.0021-Nov-17750,0002,750,000
+
+20,000 5Fixed: 13.00 % p.a., payable semi annually100.0021-Nov-172,000,000
+
+5. LB Finance PLC30,000 10,000 5Fixed: 12.75 % p.a., payable semi annually100.0021-Dec-171,000,0003,000,000
+
+20,000 5Fixed: 13.25 % p.a., payable semi annually100.0021-Dec-172,000,000
+
+6. Sampath Bank PLC60,000 60,000 5Fixed: 12.50 % p.a., payable semi annually100.0028-Dec-176,000,0006,000,000
+
+(a) Initial Public Offer (IPO)Source: Colombo Stock Exchange
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 147
+
+Total Cultivation Loans Granted by the Lending Banks(Position as at 31 December 2017)
+
+Cultivation SeasonLoans Granted (Rs.mn)Recoveries (Rs.mn)Per cent of Recoveries
+
+PaddyOther CropsAll CropsPaddyOther CropsAll CropsPaddyOther CropsAll Crops
+
+2012/2013 Maha 3,527 3,117 6,644 2,625 2,209 4,833 74.41 70.86 72.75
+
+2013 Yala 1,900 1,328 3,228 1,830 1,202 3,031 96.30 90.52 93.92
+
+2013/2014 Maha 3,174 1,978 5,152 2,698 1,780 4,477 85.01 89.97 86.92
+
+2014 Yala 1,588 1,307 2,894 1,493 1,114 2,607 94.03 85.25 90.07
+
+2014/2015 Maha 3,261 3,390 6,650 2,872 2,416 5,287 88.07 71.27 79.51
+
+2015 Yala 2,321 2,839 5,160 1,918 1,505 3,423 82.60 53.03 66.33
+
+2015/2016 Maha (a) 3,701 3,637 7,337 3,228 1,816 5,044 87.24 49.93 68.74
+
+2016 Yala (a) 2,683 3,533 6,216 2,125 1,186 3,311 79.21 33.56 53.26
+
+2016/2017 Maha (b) 3,232 3,041 6,273 2,922 1,665 4,587 90.42 54.74 73.12
+
+2017 Yala (b) 2,073 2,351 4,424 1,608 934 2,542 77.59 39.72 57.47
+
+(a) Revised(b) Provisional - Recovery is in progressSources: Bank of CeylonCommercial BankDFCC BankHatton National BankLankaputhra Development BankNational Development BankPeople’s BankRegional Development BankSampath BankSANASA Development BankSeylan BankUnion Bank
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 148
+
+New Comprehensive Rural Credit SchemeLoans Granted for Subsidiary Food crops by the Lending Banks (Position as at 31 December 2017)
+
+Cultivation Season
+
+Amount Granted (Rs. ‘000)Total RepaymentsOutstanding
+
+ChilliesOnionsMaizePotatoesVegetables Other Subsidiary Food Crops (a)TotalAmount (Rs ‘000)
+
+As aPercentage of amount granted
+
+Amount (Rs ‘000)
+
+As aPercentage of amount granted
+
+2012 Yala 69,747 908,919 51,861 163,165 401,336 92,787 1,687,815 1,422,524 84.28 265,291 15.72
+
+2012/2013 Maha 120,534 1,153,964 330,021 764,670 225,290 43,996 2,638,475 2,625,499 99.51 12,976 0.49
+
+2013 Yala47,171 740,622 67,691 170,231 43,096 61,957 1,130,768 979,349 86.61 151,419 13.39
+
+2013/2014 Maha 137,264 741,291 413,865 353,550 78,818 97,315 1,822,103 1,014,352 55.67 807,751 44.33
+
+2014 Yala 39,659 707,125 51,463 258,918 57,730 39,738 1,154,633 807,909 69.97 346,724 30.03
+
+2014/2015 Maha88,528 369,336 589,025 311,551 71,734 49,444 1,479,618 930,037 62.86 549,581 37.14
+
+2015 Yala47,903 512,041 43,292 212,223 82,443 21,641 919,543 757,441 82.37 162,102 17.63
+
+2015/2016 Maha182,489 361,060 610,526 217,197 288,980 251,715 1,911,967 1,247,984 65.27 663,983 34.73
+
+2016 Yala73,983 441,893 73,856 308,608 146,806 46,304 1,091,450 883,142 80.92 208,308 19.09
+
+2016/2017 Maha (b)98,978 276,129 1,002,124 333,810 248,740 37,284 1,997,065 1,247,874 62.49 749,191 37.51
+
+2017 Yala (b)56,477 280,157 59,037 389,947 281,986 22,596 1,090,200 n.a. n.a. n.a. n.a.
+
+(a) Includes Oil Seeds, Ginger, Cowpea, Green Gram, Black Gram, Soya Beans, Kurakkan and Sorghum(b) ProvisionalSources: Bank of CeylonCommercial BankDFCC BankHatton National BankLankaputhra Development BankNational Development BankPeople’s BankRegional Development BankSampath BankSANASA Development BankSeylan BankUnion Bank
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 149
+
+Operations of the Crop Insurance Programme - Paddy Sector(Position as at 31 December 2017)
+
+Cultivated Season
+
+Area Cultivated (‘000 ha)(1)
+
+Area Insured (‘000 ha)(2)Premia Collected (Rs. ‘000)(3)Indemnities Paid (Rs. ‘000)(4)
+
+Difference between Premia Collected and Indemnities Paid (Rs.’000) (5)=(3)-(4)
+
+AAIBCICLTotalAAIBCICLTotalAAIBCICLTotalAAIBCICLTotal
+
+2008 Yala 471 4.39 6.12 10.51 4,771 4,312 9,083 883 2,906 3,789 3,888 1,406 5,294
+
+2008/2009 Maha632 14.17 3.95 18.12 19,441 2,954 22,395 9,133 2,544 11,677 10,308 410 10,718
+
+2009 Yala 345 10.26 1.20 11.46 7,134 678 7,812 3,265 456 3,721 3,870 222 4,092
+
+2009/2010 Maha646 14.62 2.81 17.43 25,861 1,965 27,826 11,149 1,200 12,349 14,712 765 15,477
+
+2010 Yala 419 7.64 1.56 9.20 15,046 938 15,984 2,437 479 2,916 12,609 459 13,068
+
+2010/2011 Maha 730 19.34 4.27 23.61 39,598 3,902 43,500 164,288 11,669 175,957 (124,690) (7,767) (132,457)
+
+2011 Yala 487 9.26 3.32 12.58 20,449 2,417 22,866 7,626 973 8,599 12,823 1,444 14,267
+
+2011/2012 Maha774 32.14 5.33 37.47 73,988 4,432 78,420 32,639 1,369 34,008 41,349 3,063 44,412
+
+2012 Yala 395 8.52 3.42 11.94 20,319 2,092 22,411 40,122 4,190 44,312 (19,803) (2,098) (21,901)
+
+2012/2013 Maha780 19.69 3.10 22.79 58,363 2,155 60,518 128,499 4,102 132,601 (70,136) (1,947) (72,083)
+
+2013 Yala448 5.46 2.65 8.11 15,753 1,511 17,264 2,999 603 3,602 12,754 908 13,662
+
+2013/2014 Maha651 15.46 3.70 19.16 44,844 2,747 47,591 46,722 1,920 48,642 (1,878)827 (1,051)
+
+2014 Yala317 4.01 2.51 6.52 12,601 1,642 14,243 5,877 664 6,541 6,724 978 7,702
+
+2014/2015 Maha722 16.69 4.50 21.19 54,516 3,613 58,129 141,411 6,727 148,138 (86,895) (3,114) (90,009)
+
+2015 Yala480 5.76 3.20 8.96 20,977 2,679 23,656 5,067 1,450 6,517 15,910 1,229 17,139
+
+2015/2016 Maha (a)800 30.94 5.80 36.74 55,695 4,424 60,119 9,506 1,767 11,273 46,189 2,657 48,846
+
+2016 Yala (a)394 6.80 2.75 9.55 12,255 1,937 14,192 56,177 242 56,419 (43,922)1,695 (42,227)
+
+2016/2017 Maha (b)491 19.55 4.60 24.15 35,197 4,096 39,293 20,709 2,553 23,262 14,488 1,543 16,031
+
+2017 Yala (b)266 3.19 2.90 6.09 5,752 2,013 7,765 117,833 626 118,459 (112,081)1,387 (110,694)
+
+Sources: Agricultural and Agrarian Insurance Board (AAIB)
+
+Ceylinco Insurance Company Limited (CICL)(a) Revised(b) Provisional
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 150
+
+Deposits and Advances of District Co-operative Rural Banks (2007 – 2017) andDistrict-wise Classification for 2017
+
+End of PeriodNo. of Branches
+
+DepositsAdvancesDifference between Deposits andAdvances(Rs.’000)
+
+No. ofAccountsAmount(Rs. ’000)Average(Rs.)No.of AccountsAmount(Rs. ’000)Average(Rs.)
+
+2007 Dec. 1,628 6,608,318 32,009,690 4,844 1,314,862 21,711,610 16,512 10,298,080
+
+2008 Dec. 1,763 7,027,275 33,042,034 4,702 1,335,219 25,848,980 19,359 7,193,054
+
+2009 Dec. 1,717 6,524,326 38,985,734 5,975 1,344,599 22,526,972 16,754 16,458,762
+
+2010 Dec.1,761 7,785,652 45,823,670 5,886 1,322,743 28,079,827 21,228 17,743,843
+
+2011 Dec. 1,857 7,978,405 52,777,522 6,615 1,367,661 32,543,650 23,795 20,233,872
+
+2012 Dec. 1,953 10,063,049 64,435,765 6,403 1,425,456 37,333,113 26,190 27,102,652
+
+2013 Dec. 2,080 10,063,049 60,875,130 6,049 1,524,412 39,519,690 25,925 21,355,440
+
+2014 Dec.2,185 8,743,625 89,634,026 10,251 1,454,695 37,756,565 25,955 51,877,461
+
+2015 Dec.2,210 9,631,080 94,685,454 9,831 569,376 39,405,681 69,209 55,279,773
+
+2016 Dec.2,227 9,394,710 101,225,264 10,775 548,910 49,722,423 90,584 51,502,841
+
+2017 Dec.(a)2,258 9,868,445 113,387,421 11,490 1,347,237 75,280,670 55,878 38,106,751
+
+DISTRICT
+
+Colombo 164 669,673 10,406,770 15,540 78,232 6,165,360 78,809 4,241,410
+
+Gampaha279 1,258,410 19,841,070 15,767 193,706 12,500,790 64,535 7,340,280
+
+Kalutara104 430,249 5,365,860 12,472 72,793 3,421,800 47,007 1,944,060
+
+Kandy160 627,504 5,365,000 8,550 98,254 3,993,000 40,640 1,372,000
+
+Matale99 229,259 3,025,000 13,195 43,771 2,271,000 51,884 754,000
+
+Nuwara Eliya66 240,447 2,188,000 9,100 51,017 1,819,000 35,655 369,000
+
+Galle142 720,473 8,841,698 12,272 81,393 5,143,598 63,195 3,698,100
+
+Matara141 674,887 7,331,360 10,863 44,801 3,752,290 83,755 3,579,070
+
+Hambantota69 535,107 5,549,610 10,371 59,788 3,530,940 59,058 2,018,670
+
+Jaffna30 126,127 966,936 7,666 2,206 488,286 221,345 478,650
+
+Mannar4 7,830 162,480 20,751 643 201,580 313,499 (39,100)
+
+Vavunia4 3,592 30,157 8,396 508 41,029 80,766 (10,872)
+
+Mullaitivu6 2,859 31,320 10,955 304 30,230 99,441 1,090
+
+Kilinochchi7 6,457 45,798 7,093 294 29,180 99,252 16,618
+
+Batticaloa16 47,584 52,190 1,097 667 23,780 35,652 28,410
+
+Ampara 35 60,590 86,518 1,428 7,072 103,995 14,705 (17,477)
+
+Trincomalee11 43,451 163,990 3,774 3,484 69,430 19,928 94,560
+
+Kurunegala268 1,462,245 17,921,100 12,256 199,456 14,724,250 73,822 3,196,850
+
+Puttalam102 469,137 9,754,390 20,792 85,994 4,522,560 52,592 5,231,830
+
+Anuradhapura115 219,113 1,578,030 7,202 35,873 1,286,670 35,867 291,360
+
+Polonnaruwa43 308,831 2,468,600 7,993 47,701 2,204,872 46,223 263,728
+
+Badulla114 491,882 2,367,120 4,812 77,558 2,082,110 26,846 285,010
+
+Monaragala35 103,235 801,760 7,766 22,951 785,040 34,205 16,720
+
+Kegalle107 436,949 3,268,334 7,480 58,960 2,240,450 37,999 1,027,884
+
+Ratnapura137 692,554 5,774,330 8,338 79,811 3,849,430 48,232 1,924,900
+
+TOTAL2,258 9,868,445 113,387,421 11,490 1,347,237 75,280,670 55,878 38,106,751
+
+(a) ProvisionalSource: Co-operative Development Department
+
+FINANCIAL SECTOR PERFORMANCE AND SYSTEM STABILITYTABLE 151
+
+Deposits and Advances of District Co-operative Rural Banks’ Unions (2009-2017) and
+
+District-wise Classification for 2017
+
+End of Period
+
+No. of BankUnion Offices
+
+DepositsAdvancesDifference between Deposits and Advances (Rs. mn) No. of M.P.C.S.* Amount (Rs. mn) Amount (Rs. mn)
+
+(1)(2)(3)(4) (3)-(4)=(5)
+
+2009 Dec. 1526719,365.0 10,650.8 8,714.2
+
+2010 Dec.1527321,873.0 9,761.2 12,111.8
+
+2011 Dec.1528311,860.5 2,962.5 8,898.0
+
+2012 Dec. 1628311,175.1 3,823.6 7,351.5
+
+2013 Dec. 1330513,306.3 3,237.6 10,068.8
+
+2014 Dec. 1330518,958.2 3,334.7 15,623.4
+
+2015 Dec.1430521,321.3 3,657.4 17,664.0
+
+2016 Dec.1530422,201.2 5,407.3 16,793.9
+
+2017 Dec. (a)1630424,422.6 3,386.8 21,035.8
+
+DISTRICT
+
+Colombo 1 11 1,249.7 194.0 1,055.7
+
+Gampaha1 17 3,830.2 1.9 3,828.3
+
+Kalutara1 10 452.0 74.8 377.2
+
+Kandy 1 22
+
+348.0 101.3 246.7 Matale9
+
+Nuwara Eliya10
+
+Galle1 18 2,221.5 218.5 2,003.0
+
+Matara1 9 1,441.0 66.0 1,375.0
+
+Hambantota1 7 2,076.6 18.9 2,057.8
+
+Jaffna1 24 17.7 - 17.7
+
+Mannar - 7 - - -
+
+Vavuniya - 4 - - -
+
+Mullativu1 6 8.1 - 8.1 Killinochchi6
+
+Batticaloa1 16 2.3 2.0 0.3
+
+Ampara - 19 - - -
+
+Trincomale - 11 - - -
+
+Kurunegala 1 21 10,077.2 1,391.5 8,685.7 Puttalam 12
+
+Anuradhapura1 17 356.0 333.0 23.0
+
+Polonnaruwa1 9 690.1 449.8 240.4
+
+Badulla111 15.4 8.0 7.3 Monaragala5
+
+Kegalle1 10 88.7 49.4 39.3
+
+Ratnapura1 13 1,548.1 477.7 1,070.4
+
+TOTAL16 304 24,422.6 3,386.8 21,035.8
+
+(a) ProvisionalSource: Co-operative Development Department* - M.P.C.S. - Multi Purpose Co-operative Societies

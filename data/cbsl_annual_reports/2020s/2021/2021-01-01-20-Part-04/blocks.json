@@ -1,0 +1,148 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      219.23,
+      368.29,
+      361.88,
+      411.61
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Garamond-Bold"
+    ],
+    "sizes": [
+      38.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      271.08,
+      110.4,
+      353.01,
+      139.17
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      24.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.13,
+      169.0,
+      523.93,
+      221.8
+    ],
+    "text": "LEGISLATIVE ENACTMENTS OF 2020RELATING TO THE FUNCTIONS AND OPERATIONS OFTHE CENTRAL BANK AND BANKING INSTITUTIONS IN SRI LANKA",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      237.22,
+      316.75,
+      263.08
+    ],
+    "text": "1. Finance (Amendment) Act, No 02 of 2020",
+    "fonts": [
+      "Futura-Light",
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      271.59,
+      370.38,
+      284.78
+    ],
+    "text": "2. Nation Building Tax (Amendment) Act, No 03 of 2020",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      293.3,
+      398.99,
+      306.49
+    ],
+    "text": "3. Economic Service Charge (Amendment) Act, No 04 of 2020",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      315.0,
+      447.45,
+      328.19
+    ],
+    "text": "4. Ports and Airports Development Levy (Amendment) Act, No 05 of 2020",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      336.7,
+      280.13,
+      349.89
+    ],
+    "text": "5. Appropriation Act, No 06 of 2020",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.68,
+      358.41,
+      280.13,
+      371.59
+    ],
+    "text": "6. Appropriation Act, No 07 of 2020",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      11.0
+    ]
+  }
+]

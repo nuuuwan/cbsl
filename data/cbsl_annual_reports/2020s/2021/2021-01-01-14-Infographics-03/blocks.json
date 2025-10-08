@@ -1,0 +1,836 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      123.61,
+      92.91,
+      146.57,
+      100.1
+    ],
+    "text": "Coconut",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      162.83,
+      83.75,
+      186.08,
+      93.35
+    ],
+    "text": "51.9%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      367.95,
+      340.09,
+      422.1,
+      347.29
+    ],
+    "text": "Laboratory Charges",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      250.52,
+      92.91,
+      278.21,
+      100.1
+    ],
+    "text": "Big Onion",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      288.19,
+      83.86,
+      311.44,
+      93.45
+    ],
+    "text": "13.3%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      129.39,
+      129.2,
+      186.33,
+      143.07
+    ],
+    "text": "Rice11.7%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      113.54,
+      186.54,
+      311.44,
+      201.46
+    ],
+    "text": "Coconut OilTurmeric Powder32.3%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      160.63,
+      186.88,
+      188.71,
+      196.47
+    ],
+    "text": "145.7%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      124.99,
+      229.96,
+      186.3,
+      245.16
+    ],
+    "text": "Dhal11.1%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      386.77,
+      85.5,
+      449.11,
+      100.1
+    ],
+    "text": "Potato13.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.58,
+      128.48,
+      446.48,
+      143.07
+    ],
+    "text": "Fish7.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      387.32,
+      194.26,
+      403.33,
+      201.46
+    ],
+    "text": "Sugar",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      425.86,
+      185.63,
+      449.11,
+      195.22
+    ],
+    "text": "17.5%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.83,
+      231.0,
+      446.48,
+      245.16
+    ],
+    "text": "Egg3.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.4,
+      332.11,
+      308.81,
+      347.4
+    ],
+    "text": "Housing Rent1.5%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      123.0,
+      298.47,
+      149.88,
+      305.67
+    ],
+    "text": "Education",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      165.03,
+      289.73,
+      183.45,
+      299.32
+    ],
+    "text": "4.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      124.9,
+      334.59,
+      183.45,
+      347.4
+    ],
+    "text": "Bus Fare2.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      384.16,
+      298.47,
+      404.8,
+      305.67
+    ],
+    "text": "Clothes",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      428.07,
+      289.01,
+      446.48,
+      298.61
+    ],
+    "text": "3.3%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      428.07,
+      331.98,
+      446.48,
+      341.57
+    ],
+    "text": "7.6%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.48,
+      231.36,
+      308.81,
+      245.16
+    ],
+    "text": "7.5%Milk Powder",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.03,
+      216.69,
+      268.76,
+      223.55
+    ],
+    "text": "MILK",
+    "fonts": [
+      "AgencyFB-Reg"
+    ],
+    "sizes": [
+      6.615878105163574
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.21,
+      383.01,
+      274.63,
+      392.6
+    ],
+    "text": "9.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.21,
+      406.18,
+      274.63,
+      415.77
+    ],
+    "text": "0.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.21,
+      429.68,
+      274.63,
+      439.27
+    ],
+    "text": "3.3%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      364.37,
+      383.01,
+      382.78,
+      392.6
+    ],
+    "text": "2.9%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      364.37,
+      406.18,
+      382.78,
+      415.77
+    ],
+    "text": "4.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      364.37,
+      429.68,
+      382.78,
+      439.27
+    ],
+    "text": "2.7%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      240.84,
+      289.29,
+      308.81,
+      305.67
+    ],
+    "text": "3.9%Pharmaceuticals",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      148.94,
+      24.56,
+      319.44,
+      43.84
+    ],
+    "text": "Figure 4.1Movements of Prices and Wages - 2020",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.75,
+      192.65,
+      44.9,
+      208.18
+    ],
+    "text": "(a)Prices",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      70.55,
+      67.05,
+      99.79,
+      86.88
+    ],
+    "text": "Food (b)Volatile",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.49,
+      107.46,
+      101.74,
+      117.05
+    ],
+    "text": "Weights",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.56,
+      119.69,
+      105.8,
+      138.09
+    ],
+    "text": "NCPI : 24.0%CCPI : 15.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.34,
+      169.67,
+      99.4,
+      189.51
+    ],
+    "text": "Food (c)Other",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.5,
+      209.32,
+      101.74,
+      218.91
+    ],
+    "text": "Weights",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.56,
+      221.54,
+      105.8,
+      239.95
+    ],
+    "text": "NCPI : 20.0%CCPI : 13.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      72.5,
+      309.15,
+      101.74,
+      318.74
+    ],
+    "text": "Weights",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      62.56,
+      321.37,
+      105.8,
+      339.78
+    ],
+    "text": "NCPI : 56.0%CCPI : 71.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      73.34,
+      268.88,
+      92.2,
+      288.71
+    ],
+    "text": "FoodNon",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.42,
+      398.44,
+      42.5,
+      408.04
+    ],
+    "text": "Wages",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      81.45,
+      382.92,
+      127.85,
+      392.52
+    ],
+    "text": "Public Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      66.11,
+      428.19,
+      148.92,
+      437.78
+    ],
+    "text": "Informal Private Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.4,
+      405.12,
+      145.97,
+      414.72
+    ],
+    "text": "Formal Private Sector",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      235.34,
+      361.85,
+      377.58,
+      373.2
+    ],
+    "text": "Nominal(d)Real (e)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      14.24,
+      451.62,
+      186.9,
+      460.02
+    ],
+    "text": "(a) Annual average percentage change of NCPI prices",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      14.24,
+      462.41,
+      440.96,
+      481.45
+    ],
+    "text": "(b) Volatile Food includes rice, meat, fresh fish and seafood, coconut, fresh fruits, vegetables, potato, onions and selected condimentsOther food include food items excluding Volatile Food items(c)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      14.24,
+      483.85,
+      198.48,
+      492.24
+    ],
+    "text": "(d) Annual average percentage change of nominal wages",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      14.24,
+      494.63,
+      184.65,
+      503.03
+    ],
+    "text": "(e) Annual average percentage change of real wages",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.88,
+      129.83,
+      312.04,
+      143.07
+    ],
+    "text": "Vegetables11.6%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      229.56,
+      371.09,
+      351.56,
+      423.07
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Garamond-Bold"
+    ],
+    "sizes": [
+      38.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      235.79,
+      65.62,
+      359.3,
+      76.42
+    ],
+    "text": "KEY ECONOMIC INDICATORS",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      257.95,
+      87.92,
+      534.33,
+      96.31
+    ],
+    "text": "2011 2012 2013 2014 2015 20162017 (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.53,
+      99.79,
+      107.4,
+      108.18
+    ],
+    "text": "DEMOGRAPHY",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      108.45,
+      528.95,
+      159.37
+    ],
+    "text": "Mid-year population (\u2018000 persons) (b)(c)20,89220,42520,58520,771(a) 20,966(a)21,203(a)21,444Growth of mid- year population (per cent) (b)1.11.00.80.9(a) 0.9(a)1.1(a)1.1Population density (persons per sq.km.) (b)333326328331(a) 334(a)338(a)342Labour force (\u2018000 persons) (d)(e)(f)7,9267,7988,0348,049 8,2148,3118,567Labour force participation rate (per cent) (d)(e)(f) 52.952.553.753.2 53.853.854.1Unemployment rate (per cent of labour force) (d)(e)(f)4.24.04.44.3 4.74.44.2",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      162.76,
+      97.38,
+      171.15
+    ],
+    "text": "OUTPUT (g)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      171.55,
+      530.67,
+      239.47
+    ],
+    "text": "GDP at current market price (Rs. billion) 7,219 8,732 9,592 10,361 10,951 (h) 11,907 (a)(h) 13,289 GNI at current market price (Rs. billion) 7,147 8,578 9,366 10,125 10,676 (h) 11,585 (a)(h)12,933 GDP at current market price (US$ billion) 65.3 68.4 74.3 79.4 80.6(h) 81.8(a)(h) 87.2 GNI at current market price (US$ billion) 64.6 67.2 72.5 77.6 78.5(h) 79.6(a)(h) 84.8 Per capita GDP at current market price (Rs.) (i) 345,544 427,538 465,976 498,828 522,304(h) 561,560(a)(h) 619,729 Per capita GNI at current market price (Rs.) (i) 342,096 419,955 454,993 487,462 509,200(h) 546,408(a)(h) 603,114 Per capita GDP at current market price (US$) (i) 3,125 3,351 3,609 3,821 3,842(h) 3,857(a)(h) 4,065 Per capita GNI at current market price (US$) (i) 3,094 3,291 3,524 3,734 3,746(h) 3,753(a)(h) 3,956",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      242.86,
+      178.6,
+      251.26
+    ],
+    "text": "REAL OUTPUT (percentage change) (g)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      251.65,
+      528.95,
+      302.56
+    ],
+    "text": "GDP8.49.13.45.05.0 (h)4.5(a)(h)3.1Major economic activities of GDPAgriculture4.63.93.24.64.7(h)-3.8(a)(h)-0.8Industry9.39.04.14.72.2(h)5.8(a)(h)3.9Services8.911.23.84.86.0(h)4.7(a)(h)3.2GNI8.58.32.85.14.8(h)4.3(a)(h)3.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      305.96,
+      242.24,
+      314.35
+    ],
+    "text": "AGGREGATE DEMAND AND SAVINGS (per cent of GDP) (g)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      314.74,
+      534.42,
+      399.36
+    ],
+    "text": "Consumption79.872.875.475.876.4(h) 72.4(a)(h) 70.7Private71.365.267.667.4 67.4(h) 63.8(a)(h) 62.2Government8.67.67.88.4 9.0(h) 8.5(a)(h) 8.5Investment33.439.133.232.3 31.2(h) 35.0(a)(h) 36.5Net exports of goods and services-13.2-11.9-8.6-8.1 -7.5(h) -7.3(a)(h) -7.2Exports of goods and services20.919.820.321.1 21.0(h) 21.3(a)(h) 21.9Imports of goods and services34.131.728.929.2 28.5(h) 28.7(a)(h) 29.1Domestic savings20.227.224.624.2 23.6(h) 27.6(a)(h) 29.3Net primary and secondary income from rest of the world6.16.15.25.6 5.2 (h) 5.2 (a)(h)(j) 4.6 (j)National savings26.333.329.929.8 28.8(h) 32.8(a)(h) 33.9",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      402.9,
+      188.67,
+      411.29
+    ],
+    "text": "PRICES AND WAGES (percentage change)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      411.83,
+      528.97,
+      513.78
+    ],
+    "text": "National Consumer Price Index (2013 = 100) - annual average ---- 3.8 4.07.7National Consumer Price Index (2013 = 100) - year-on-year (end period) ---- 4.2 4.27.3Colombo Consumer Price Index (2013 = 100) - annual average ---- 2.2 4.06.6Colombo Consumer Price Index (2013 = 100) - year-on-year (end period) ---- 4.6 4.57.1Colombo Consumer Price Index (2006/07 = 100) - annual average (k)6.77.66.93.3 0.9 3.7-Colombo Consumer Price Index (2006/07 = 100) - year-on-year (end period) (k)4.99.24.72.1 2.8 4.1-Producer's Price Index (2013 Q4 = 100) - annual average---- 3.6 1.717.0GDP deflator (g)3.810.86.22.90.6(h)4.1(a)(h)8.2GNI deflator (g)3.810.96.22.90.6(h)4.1(a)(h)8.3Nominal wage rate index for workers in all wages boards (1978 Dec =100)4.622.25.73.7 2.9 0.00.0Nominal wage rate index for public sector employees (2012 =100)--6.310.5 31.7 3.90.0Nominal wage rate index for informal private sector employees (2012 =100)--9.87.6 7.3 7.99.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      517.3,
+      114.35,
+      525.69
+    ],
+    "text": "EXTERNAL TRADE",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      526.23,
+      530.67,
+      594.15
+    ],
+    "text": "Trade balance (US$ million)-9,710-9,417-7,609-8,287 -8,388 -8,873(h) -9,619 Exports10,5599,77410,39411,130 10,546 10,310 11,360 Imports20,26919,19018,00319,417 18,935 19,183 (h) 20,980 Terms of trade (percentage change)-8.9-1.54.64.3 2.7 4.0(h)1.2Export unit value index (2010 = 100) (percentage change)11.1-7.3-0.32.7 -9.4 -1.5 2.4 Import unit value index (2010 = 100) (percentage change)22.0-5.8-4.7-1.5 -11.8 -5.3(h) 1.2 Export volume index (2010 = 100) (percentage change)10.2-0.26.74.3 4.6 -0.7 7.6 Import volume index (2010 = 100) (percentage change)23.60.5-1.59.5 10.6 7.0(h) 8.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.51,
+      597.69,
+      164.43,
+      606.08
+    ],
+    "text": "EXTERNAL FINANCE (US$ million)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      72.85,
+      606.61,
+      528.95,
+      649.02
+    ],
+    "text": "Services and primary income account (net) 452 43 -57272 312 678(h)983Current private transfers (net) 4,583 5,339 5,6196,199 6,167 6,4346,316Current official transfers (net) 60 53 2128 27 1911Current account balance -4,615-3,982-2,541-1,988 -1,883 -1,742(h)-2,309Overall balance -1,059 151 9851,369 -1,489 -5002,068",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      61.58,
+      659.07,
+      289.74,
+      733.87
+    ],
+    "text": "(a) Provisional(b) As reported by Registrar General\u2019s Department(c) Mid-year population estimates until 2011 were prepared based on the Census of Population and Housing - 2001. Mid-year population estimates in 2012 onwards were based on the Census of Population and Housing - 2012.(d) Household population aged 15 and above is considered for the calculation of labour force(e) Data covers the entire island",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      294.02,
+      659.07,
+      527.3,
+      726.27
+    ],
+    "text": "(f) In July 2016, Department of Census and Statistics published a re-weighted and revised labour force data series for 2011 onwards.(g) Rebased GDP estimates (base year 2010) of the Department of Census and Statistics have been used.(h) Revised(i) Estimates updated with latest population figures(j) The difference with the BOP estimates is due to the time lag in compilation.(k) Compilation of this index was discontinued since January 2017.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      211.82,
+      65.62,
+      371.82,
+      76.42
+    ],
+    "text": "KEY ECONOMIC INDICATORS (Contd.)",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.772114753723145
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      280.35,
+      87.67,
+      521.37,
+      96.06
+    ],
+    "text": "2011201220132014201520162017 (a)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      99.01,
+      517.44,
+      153.62
+    ],
+    "text": "Current account balance (per cent of GDP) (g)(l)-7.1-5.8-3.4-2.5-2.3-2.1(h)-2.6Total foreign assets (months of the same year imports) (m)4.75.45.76.15.95.36.0Gross official reserves (months of the same year imports) 4.04.45.05.14.63.84.6Overall debt service ratio (n)As a percentage of export of goods and services13.219.726.821.7 (h)28.2(h)25.6(h)23.9As a percentage of current receipts9.313.518.715.2 (h)19.8(h)18.0(h)17.2Total external debt (per cent of GDP) (g)(l)50.254.253.754.155.756.8(h)59.5",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.78,
+      157.28,
+      114.72,
+      165.67
+    ],
+    "text": "EXCHANGE RATES",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      165.21,
+      517.44,
+      229.17
+    ],
+    "text": "Annual averageRs/US$110.57127.60129.11130.56135.94145.60152.46Rs/SDR (o)174.54195.38196.19198.35190.16202.39211.49NEER (2010 = 100) (24 - currency basket) (p)99.8490.4491.3991.9996.6192.4688.07REER (2010 = 100) (24 - currency basket) (p)(q)102.0095.63101.13103.77109.50106.94106.10Year endRs/US$113.90127.16130.75131.05144.06149.80152.85Rs/SDR (o)174.87195.31201.36189.86199.63201.38217.69",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.78,
+      232.96,
+      208.13,
+      241.35
+    ],
+    "text": "GOVERNMENT FINANCE (per cent of GDP) (g) (r)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      240.9,
+      517.44,
+      368.35
+    ],
+    "text": "Revenue and grants13.612.212.011.613.314.213.8Revenue13.412.011.911.513.314.213.8 o/w Tax revenue11.710.410.510.112.412.312.6Grants0.20.20.20.10.10.10.1Expenditure and net lending19.917.817.417.320.919.619.4Recurrent expenditure14.213.012.612.815.514.814.5Capital expenditure and net lending5.74.94.84.65.44.84.9Current account deficit (-) / surplus (+)-0.8-0.9-0.7-1.2-2.3-0.6-0.7Primary deficit (-) / surplus (+)-1.3-0.9-0.8-1.5-2.9-0.20.0Overall deficit (-) / surplus (+)-6.2-5.6-5.4-5.7-7.6-5.4-5.5Deficit financing6.25.65.45.77.65.45.5Foreign3.03.31.32.12.23.33.3Domestic3.22.34.13.75.42.12.2Central Government debt71.168.770.871.377.778.877.6Foreign32.331.730.930.032.434.035.5Domestic38.837.040.041.345.344.942.1",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.640783309936523
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.78,
+      372.14,
+      244.01,
+      380.54
+    ],
+    "text": "MONETARY AGGREGATES (year-on-year percentage change)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      380.08,
+      517.45,
+      469.48
+    ],
+    "text": "Reserve money21.910.20.918.316.527.19.8Narrow money (M1)7.72.67.726.316.88.62.1Broad money (M2b) (s)19.117.616.713.417.818.416.7Net foreign assets of the banking system-74.0-126.3-195.5119.8-2,071.222.4152.6Net domestic assets of the banking system39.723.418.310.526.015.99.8Domestic credit from the banking system toGovernment (net) 32.925.424.510.322.512.110.0Public corporations37.347.324.822.217.2-5.33.9Private sector34.517.67.58.825.121.914.7Money multiplier for M2b (end year)5.676.057.006.716.786.316.71Velocity of M2b (average for the year) (g)3.153.172.992.852.622.41(h)2.25",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      3.9776923656463623,
+      6.453680992126465,
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.78,
+      471.64,
+      210.27,
+      480.03
+    ],
+    "text": "INTEREST RATES (per cent per annum at year end)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      479.58,
+      517.44,
+      599.09
+    ],
+    "text": "Standing Deposit Facility Rate (SDFR) (t)7.007.506.506.506.007.007.25Standing Lending Facility Rate (SLFR) (t)8.509.508.508.007.508.508.75Money market ratesAverage weighted call money rate (AWCMR)8.979.837.666.216.408.428.15Treasury bill yields91 days8.6810.007.545.746.458.727.69364 days9.3111.698.296.017.3010.178.90Deposit ratesCommercial banks\u2019 average weighted deposit rate (AWDR)7.2410.109.376.206.208.179.07Commercial banks\u2019 average weighted fixed deposit rate (AWFDR)8.9513.2111.787.337.5710.4611.48NSB savings rate5.005.005.005.005.004.254.00NSB 12 month fixed deposit rate8.5012.509.506.507.2511.0011.00Lending ratesCommercial banks\u2019 average weighted prime lending rate (AWPR)10.7714.4010.136.267.5311.5211.55Commercial banks\u2019 average weighted lending rate (AWLR)13.4415.9815.1811.9111.0013.2013.88",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.78,
+      602.88,
+      110.74,
+      611.28
+    ],
+    "text": "CAPITAL MARKET",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.12,
+      610.82,
+      519.15,
+      658.9
+    ],
+    "text": "All share price index (ASPI) (1985 = 100)6,074.45,643.05,912.87,299.0 6,894.5 6,228.3 6,369.3 Milanka price index (MPI) (1998 Dec = 1,000) (u)5,229.25,119.1--- - - S&P SL 20 index (2004 Dec = 1,000) (u)- 3,085.3 3,263.9 4,089.1 3,625.7 3,496.4 3,671.7 Value of shares traded (Rs. million)546,256213,827200,468340,917253,251 176,935 220,591 Net purchases by non nationals (Rs. million)-19,03938,66122,78321,217-5,372 338 17,655 Market capitalisation (Rs. billion)2,213.92,167.62,459.93,104.9 2,938.0 2,745.4 2,899.3",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.453680992126465,
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      58.79,
+      663.22,
+      281.83,
+      761.58
+    ],
+    "text": "(l) Based on GDP estimates in US dollars(m) Excludes foreign assets in the form of direct investments abroad and trade credit and advances received(n) Overall debt service ratios were reclassified to capture debt servicing in accordance with the External Debt Statistics Manual (2003) of the International Monetary Fund (IMF).(o) Special Drawing Rights (SDR), the unit of account of the IMF(p) Exchange rates have been defined in terms of indices so that the appreciation/depreciation of the rupee relative to other currencies is reflected by a rise/fall in the values of the effective exchange rate indices.(q) CCPI is used for the computation of the Real Effective Exchange Rate (REER). The REER is computed by adjusting the Nominal Effective Exchange Rate (NEER) for inflation differentials with the countries whose currencies are included in the basket.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      288.4,
+      663.19,
+      521.15,
+      747.61
+    ],
+    "text": "(r) Based on revised GDP estimates for 2015 and 2016 made available on 20 March 2018 by Department of Census and Statistics(s) Figures from 2015 include assets/ liabilities of DFCC Bank PLC, which merged with DFCC Vardhana Bank, with effect from 1 October 2015.(t) Repurchase rate and Reverse Repurchase rate renamed as Standing Deposit Facility Rate (SDFR) and Standing Lending Facility Rate (SLFR) respectively, with effect from 2 January 2014.(u) With effect from 1 January 2013, the MPI was replaced by a newly introduced index, namely S&P SL 20 index.",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      6.822755813598633
+    ]
+  }
+]

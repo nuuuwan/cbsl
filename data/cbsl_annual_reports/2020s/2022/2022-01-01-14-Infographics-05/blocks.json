@@ -1,0 +1,1374 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      180.16,
+      1.07,
+      317.88,
+      20.35
+    ],
+    "text": "Performance of the Fiscal SectorFigure 6.1",
+    "fonts": [
+      "FuturaBT-Heavy",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      8.01,
+      24.61,
+      80.73,
+      43.8
+    ],
+    "text": "Key Fiscal Balances (% of GDP)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      19.47,
+      119.99,
+      69.59,
+      137.67
+    ],
+    "text": "Overall Fiscal Balance",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      16.58,
+      202.61,
+      72.48,
+      218.88
+    ],
+    "text": "Current AccountBalance",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.39,
+      275.08,
+      73.68,
+      284.35
+    ],
+    "text": "Primary Balance",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      42.38,
+      150.02,
+      47.59,
+      157.1
+    ],
+    "text": "Rs",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      5.383600234985352
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      34.59,
+      242.52,
+      54.47,
+      256.21
+    ],
+    "text": "-6.0%(-4.6%)",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      33.59,
+      170.26,
+      55.47,
+      183.96
+    ],
+    "text": "-7.7%(-7.9%)",
+    "fonts": [
+      "FuturaBT-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.15,
+      81.68,
+      56.98,
+      90.08
+    ],
+    "text": "-12.2%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      32.78,
+      89.14,
+      56.28,
+      96.34
+    ],
+    "text": "(-11.1%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      28.97,
+      62.89,
+      44.66,
+      70.67
+    ],
+    "text": "Deficit",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      5.916900157928467
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      209.59,
+      25.35,
+      459.16,
+      48.39
+    ],
+    "text": "Central Government Budget2021(2020)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      258.45,
+      262.25,
+      307.2,
+      272.51
+    ],
+    "text": "Government",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.556300163269043
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      87.09,
+      110.13,
+      99.07,
+      255.81
+    ],
+    "text": "Revenue and Grants (% of GDP)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.99530029296875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      456.17,
+      100.47,
+      468.16,
+      206.85
+    ],
+    "text": "Expenditure (% of GDP)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      9.99530029296875
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.11,
+      164.7,
+      450.64,
+      181.29
+    ],
+    "text": "Capital Expenditure& Net Lending",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.58,
+      57.08,
+      448.54,
+      66.67
+    ],
+    "text": "Interest Payments",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      377.33,
+      215.09,
+      447.36,
+      224.68
+    ],
+    "text": "Subsidies & Transfers",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      385.42,
+      116.12,
+      450.1,
+      125.72
+    ],
+    "text": "Salaries and Wages",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      371.94,
+      256.49,
+      451.71,
+      266.08
+    ],
+    "text": "Other Goods & Services",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      107.13,
+      63.08,
+      205.84,
+      76.02
+    ],
+    "text": "DEFICIT FINANCING",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      9.773200035095215
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      99.03,
+      183.11,
+      118.51
+    ],
+    "text": "Income Tax 1.8%(1.8%)",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0,
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      159.85,
+      143.73,
+      183.11,
+      153.32
+    ],
+    "text": "(2.1%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      148.69,
+      166.94,
+      167.11,
+      176.53
+    ],
+    "text": "1.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      164.6,
+      134.83,
+      180.71,
+      143.22
+    ],
+    "text": "1.8%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      388.73,
+      264.45,
+      445.25,
+      274.04
+    ],
+    "text": "(1.2%)1.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      394.24,
+      77.77,
+      446.71,
+      87.36
+    ],
+    "text": "(6.5%)6.2%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      172.21,
+      167.4,
+      192.57,
+      175.8
+    ],
+    "text": "(1.6%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.74,
+      191.62,
+      196.57,
+      201.21
+    ],
+    "text": "0.9%(0.8%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.48,
+      219.78,
+      201.15,
+      229.37
+    ],
+    "text": "0.4% (0.8%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      160.61,
+      245.44,
+      205.28,
+      255.03
+    ],
+    "text": "1.0% (1.1%)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      139.42,
+      146.11,
+      150.08
+    ],
+    "text": "Excise Duty",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      105.01,
+      166.1,
+      122.18,
+      176.75
+    ],
+    "text": "VAT",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      191.2,
+      118.35,
+      201.85
+    ],
+    "text": "PAL",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      218.25,
+      148.08,
+      228.9
+    ],
+    "text": "Import Duty",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      244.69,
+      152.4,
+      255.34
+    ],
+    "text": "Other Taxes",
+    "fonts": [
+      "FuturaBT-Light"
+    ],
+    "sizes": [
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      104.93,
+      265.33,
+      210.08,
+      275.99
+    ],
+    "text": "0.9% (1.0%)Non Tax Revenue",
+    "fonts": [
+      "FuturaBT-Light",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      7.0,
+      8.0,
+      8.884699821472168
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      392.24,
+      129.64,
+      446.71,
+      139.23
+    ],
+    "text": "(5.3%)5.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.62,
+      179.31,
+      443.8,
+      188.9
+    ],
+    "text": "(3.3%)4.6%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      391.62,
+      223.41,
+      446.71,
+      233.0
+    ],
+    "text": "(4.8%)4.1%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      15.02,
+      343.31,
+      56.39,
+      368.46
+    ],
+    "text": "DeficitFinancing",
+    "fonts": [
+      "Futura-Heavy"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.47,
+      351.64,
+      144.9,
+      358.83
+    ],
+    "text": "Domestic Financing",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      93.19,
+      358.31,
+      141.18,
+      368.91
+    ],
+    "text": "(12.3% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      80.93,
+      320.21,
+      128.93,
+      336.88
+    ],
+    "text": "Budget Deficit(12.2% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      154.26,
+      312.88,
+      201.76,
+      334.28
+    ],
+    "text": "Net Foreign DebtRepayment(0.1% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.58,
+      294.46,
+      119.91,
+      304.05
+    ],
+    "text": "2021",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      100.58,
+      381.97,
+      119.91,
+      391.56
+    ],
+    "text": "2020",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      89.47,
+      438.33,
+      144.9,
+      454.76
+    ],
+    "text": "Domestic Financing (11.7% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      82.02,
+      406.9,
+      127.83,
+      423.33
+    ],
+    "text": "Budget Deficit(11.1% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      154.26,
+      399.57,
+      201.76,
+      419.97
+    ],
+    "text": "Net Foreign DebtRepayment(0.6% of GDP)",
+    "fonts": [
+      "Futura-Bold",
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      262.03,
+      289.7,
+      440.34,
+      301.69
+    ],
+    "text": "Outstanding Central Government Debt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      287.17,
+      459.19,
+      336.51,
+      469.13
+    ],
+    "text": "Foreign Debt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.290800094604492
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.38,
+      306.21,
+      278.73,
+      316.15
+    ],
+    "text": "Foreign Debt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.290800094604492
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      347.95,
+      459.19,
+      403.39,
+      469.13
+    ],
+    "text": "Domestic Debt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.290800094604492
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      407.94,
+      306.21,
+      463.38,
+      316.15
+    ],
+    "text": "Domestic Debt",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.290800094604492
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      323.0,
+      332.64,
+      364.49,
+      340.43
+    ],
+    "text": "Rs. 15,117 bn",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      298.67,
+      370.95,
+      386.01,
+      378.75
+    ],
+    "text": "40.0%60.0%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.5
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      285.79,
+      342.99,
+      401.43,
+      355.18
+    ],
+    "text": "36.9%63.1%",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      320.71,
+      317.47,
+      368.4,
+      325.87
+    ],
+    "text": "Rs. 17,589 bn",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.07,
+      389.75,
+      256.52,
+      427.3
+    ],
+    "text": "Concessional",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      431.04,
+      337.34,
+      439.45,
+      408.63
+    ],
+    "text": "BankNon Bank",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.07,
+      326.42,
+      256.53,
+      376.51
+    ],
+    "text": "Non concessional",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      233.14,
+      433.03,
+      457.62,
+      445.64
+    ],
+    "text": "20212020202120202021202020212020",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.0,
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.82,
+      400.38,
+      273.23,
+      407.84
+    ],
+    "text": "49.447.7",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      230.82,
+      361.73,
+      273.23,
+      369.18
+    ],
+    "text": "50.652.3",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.7,
+      400.12,
+      455.88,
+      407.58
+    ],
+    "text": "52.249.3",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      412.7,
+      361.47,
+      455.88,
+      368.93
+    ],
+    "text": "47.850.7",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      6.218100070953369
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      58.05,
+      473.48,
+      164.99,
+      485.4
+    ],
+    "text": "Key Enactments - 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      19.22,
+      596.91,
+      31.93,
+      610.86
+    ],
+    "text": "13May",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      19.22,
+      534.86,
+      31.93,
+      548.81
+    ],
+    "text": "13May",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      161.77,
+      534.86,
+      172.88,
+      548.81
+    ],
+    "text": "15Sep",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      117.0,
+      596.91,
+      129.07,
+      610.86
+    ],
+    "text": "16Aug",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      206.09,
+      596.91,
+      218.32,
+      610.86
+    ],
+    "text": "12Nov",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      69.72,
+      534.86,
+      80.3,
+      548.81
+    ],
+    "text": "14Jun",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      9.54,
+      619.08,
+      72.86,
+      644.35
+    ],
+    "text": "Inland Revenue(Amendment) Act,No. 10 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      92.83,
+      617.3,
+      159.1,
+      650.58
+    ],
+    "text": "National MinimumWage of Workers(Amendment) Act,No. 16 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.17,
+      620.3,
+      238.49,
+      645.58
+    ],
+    "text": "Appropriation(Amendment) Act,No. 26 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      5.17,
+      499.02,
+      68.49,
+      524.3
+    ],
+    "text": "Value Added Tax(Amendment) Act,No. 9 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      75.2,
+      485.22,
+      138.52,
+      526.49
+    ],
+    "text": "Fiscal Management(Responsibility) (Amendment) Act,No.12 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.29,
+      509.69,
+      221.51,
+      526.97
+    ],
+    "text": "Finance Act, No. 18 of 2021",
+    "fonts": [
+      "Futura-Bold"
+    ],
+    "sizes": [
+      7.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.81,
+      482.52,
+      446.14,
+      506.51
+    ],
+    "text": "Outstanding Central Government Debt (as a % of GDP)",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      257.39,
+      624.29,
+      446.69,
+      633.89
+    ],
+    "text": "2018201920202021",
+    "fonts": [
+      "FuturaBT-Medium"
+    ],
+    "sizes": [
+      8.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      311.15,
+      521.05,
+      449.01,
+      540.27
+    ],
+    "text": "86.9%100.6%104.6%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      9.0,
+      10.0,
+      11.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      264.22,
+      540.87,
+      288.95,
+      550.47
+    ],
+    "text": "84.2%",
+    "fonts": [
+      "FuturaBT-Bold"
+    ],
+    "sizes": [
+      8.0
+    ]
+  }
+]
