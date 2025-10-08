@@ -1,0 +1,1505 @@
+MONEY AND BANKING
+
+MONEY SUPPLY
+
+Overall Trends
+
+The year 1993 witnessed a rapid acceleration in the growth of monetary aggregates. The Narrow Money Supply (M,) increased by 19 per cent compared to a growth of 7.3 per cent in 1992. Reflecting a similar trend, the Broad Money Supply (M 2) recorded an annual increase of 23.5 per cent compared with 16.6 per cent in the previous year. The acceleration in monetary growth was more marked during the second half of the year. The annual growth in M,, which moved in a down­ward trend from 15.1 per cent to 11.6 per cent during January-June 1993, picked up thereafter to reach 19 per cent in December, 1993. Meanwhile, the annual growth of M 2, which declined from 20.5 per cent to 18.6 per cent between March and June 1993, accelerated during the subsequent months to reach 23.5 per cent at the end of the year.
+
+The high monetary growth was caused mainly by a large increase in foreign.assets during 1993. This was evident in a spectacular rise of 87.9 per cent in net foreign assets (NFA) of the banking system from Rs.24,162 million in 1992 to Rs.45,400 million in 1993. A moderation in the growth of domestic credit, which rose by only 3.5 per cent in spite of a large increase in credit to the private sector by 21 per cent, eased the pressure on monetary aggregates. This moderation in domestic credit expansion was brought about by successful open market operations which resulted in a sharp reduction in net credit to the Government.
+
+The monetary base (high powered money or reserve money) at Rs.56,467 million at the end of the year marked an increase of 25.9 per cent (Rs.l 1,609 million). In the previous year reserve money registered a comparatively modest growth of 12.0 per cent (Rs.4,802 million). On the source side, NFA of the Central Bank, which increased by Rs.24,676 million was the main contributory factor to the sharp rise in reserve money. However, a reduction in Net Domestic Assets (NDA) of the Central Bank by Rs.l3,067 million, largely in response to aggressive open market operations, helped to contain the reserve money growth to Rs.l 1,609 million. The money multiplier - the ratio between money supply and the monetary base - declined from 2.91 in December, 1992 to 2.86 in December, 1993. The imposition of a high statutory reserve requirement on commercial bank deposits was conducive to lowering the money multiplier in 1993.
+
+Persistently high monetary growth throughout the year compelled the Central Bank to tighten its monetary policy stance during 1993. Pursuant to this policy, statutory reserve ratios on Rupee deposit as well as foreign currency deposit liabilities of commercial banks were raised on several occasions. With a view to further strengthening the effectiveness of this instrument, reserve ratios on all deposit liabilities were unified at 15 per cent with effect from August, 1993. Moreover, moral suasion was applied on commercial banks to moderate the growth of credit to private sector which remained high at 30 per cent in the middle of the year. In the context of a large influx of foreign funds, the Central Bank also intensified its open market operations through sales of Treasury bills and Central Bank securities with a view to sterilising excess liquidity in the economy. In addition to these policies, the Central Bank applied restraints on refinance credit to contain reserve money growth during 1993. As a consequence of these actions to contain liquidity growth, short term interest rates remained high throughout the year.
+
+Money Supply and Causal Factors
+
+The Narrow Money Supply M, comprising currency and demand deposits held by the public, rose by 19.0 per cent (Rs.9,614 million) in 1993 compared with a moderate growth of 7.3 per cent
+
+14)
+
+MONEY SUPPLY
+
+MONTHLY
+
+RUPEES MILLION 180000
+
+160000
+
+140000
+
+120000
+
+100000
+
+80000
+
+60000
+
+40000
+
+20000
+
+0
+
+RUPEES MILLION 180000 rrr
+
+BROAD MONEY SUPPLY
+
+TIME 8. SAVINGS DEPOSITS
+
+1989 1990 1991 1992 1993
+
+160000
+
+KOOOO
+
+120000
+
+100000
+
+80000
+
+60000
+
+40000
+
+20000
+
+0
+
+C e n t r a l Bank of Sri Lanka.
+
+TABLE 1.62
+
+Narrow Money Supply (M,) Broad Money Supply (M 2)
+
+End of Period
+
+1991 1992 1993
+
+% Change 1991 over 1990
+
+% Change 1992 over 1991
+
+% Change 1993 over 1992
+
+1991 1992 1993
+
+% Change 1991 over 1990
+
+% Change 1992 over 1991
+
+% Change 1993 over 1992
+
+January 39,913 44,833 51,582 +12.6 +12.3 +15.1 90,161 112,867 133,234 +17.3 +24.6 +18.6
+
+February 40,416 . 46,128 51,519 +10.0 +14.1 +11.7 90,867 113,572 135,238 +15.6 +25.0 +19.1
+
+March 41,876 48,312 53,869 +12.0 +15.4 +11.5 93,814 116,193 140,062 +15.6 +23.9 +20.5
+
+April 41,411 48,492 53,954 + 8.6 +17.1 +11.3 94,292 118,710 142,177 +15.2 +25.9 +19.8
+
+May 41,190 47,304 53,003 + 12.0 +14.8 +12.0 95,317 118,398 140,838 +18.0 +24.2 +19.0
+
+June 41,602 47,007 52,465 +14.3 +13.0 +11.6 96,162 117,627 139,508 +18.1 +22.3 +18.6
+
+July 40,801 46,208 53,443 +12.7 +13.3 +15.7 96,456 117,513 142,054 +18.4 +21.8 +20.9
+
+August 41,821 46,687 54,073 +14.6 + 11.6 +15.8 98,941 119,144 143,054 +19.3 +20.4 +20.1
+
+September 43,274 47,285 55,149 +15.6 + 9.3 + 16.6 101,896 120,447 146,286 +19.8 +18.2 +21.5
+
+October 43,187 46,758 55,693 +17.3 + 8.3 +19.1 105,366 122,975 149,584 +22.6 +16.7 +21.6
+
+November 43,157 47,107 55,996 +15.1 + 9.2 +18.9 107,976 125,090 154,153 +24.6 +15.8 +23.2
+
+December 47,055 50,490 60,104 +18.0 + 7.3 +19.0 112,097 130,701 161,362 +23.2 +16.6 +23.5
+
+Monthly Average 42,142 47,218 54,238 +13.6 +12.0 +14.9 98,612 119,395 143,963 +19.1 +21.3 +20.6
+
+Source: Central Bank of Sri Lanka
+
+Monetary Aggregates 1991 - 1993
+
+(Rs. Million)
+
+DOMESTIC CREDIT
+
+MONTHLY
+
+RUPEES MILLION 120000
+
+110000
+
+100000
+
+90000
+
+8 0 0 0 0
+
+7 0 0 0 0
+
+6 0 0 0 0
+
+5 0 0 0 0
+
+40000
+
+30000
+
+20000
+
+10000
+
+0
+
+RUPEES MILLION 120000 i l i i i | i i i l l
+
+TO OTHER PRIVATE SECTOR
+
+NET CREDIT TO THE GOVERNMENT
+
+TO GOVERNMENT CORPORATIONS
+
+TO C O - O P E R A T I V E S ^
+
+110000
+
+I — • — o -
+
+1989 1990
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+1991 1992 1993
+
+60000
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+0
+
+Central P.Rn'- c.f
+
+TABLE, 1.63
+
+Item
+
+Dec. 1991
+
+Dec. 1992
+
+Dec. 1993
+
+Change 1991/1992 Change 1992/1993
+
+Item
+
+Dec. 1991
+
+Dec. 1992
+
+Dec. 1993 Amount Percentage Amount Percentage
+
+Monetary Aggregates
+
+1. Currency held by the public 24,852 27,280 32,133 + 2,428 + 9.8 + 4,853 + 17.8 2. Demand deposits held by the public 22,202 23,210 27,971 + 1,008 + 4.5 + 4,761 +' 20.5 Narrow Money Supply (M,) 47,055 50,490 60,104 + 3,435 + 7.3 + 9,614 + 19.0
+
+3. Time and Savings Deposits of the private sector held with commercial banks 65,043 80,211 101,258 + 15,168 + 23.3 +21,047 + 26.2 3.1 Co-operative Institutions 1,743 2,714 3,287 + 971 + 55.7 + 573 + 21.1 3.2 Government Corporations 7,509 7,391 10,287 - 118 -1.6 + 2,896 + 39.2 3.3 Other Private Sector Constituents (a) 55,791 70,106 87,684 + 14,315 + 25.7 + 17,578 + 25.1 Broad Money Supply (M 2) 112,097 130,701 161,362 + 18,604 + 16.6 +30,661 + 23.5 Underlying Factors
+
+1. Domestic Credit 134,226 153,347 158,709 + 19,121 + 14.2 + 5,362 + 3.5 1.1 Net Credit to Government 41.792 42,350 35,004 + 558 + 1.3 - 7,346 -17.3 1.1.1 Gross Credit to Government 59,458 54,090 43,110 - 5,368 -9.0 - 10,980 -20.3 by Central Bank 45,981 40,604 24,810 - 5,377 -11.7 - 15,794 -38.9 by Commercial Banks 13,477 13.486 18,300 + 9 + 0.1 + 4,814 + 35.7 1.1.2 Government deposits and cash balances 17,666 11,740 8,106 - 5,926 -33.5 - 3,634 -31.0 1.2 Gross Credit to Private Sector 92,434 110,997 123,704 + 18,563 + 20.1 + 12,707 + 11.4 1.2.1 Co-operative Institutions 1,757 2,021 1,903 + 264 + 15.0 - 118 -5.8 1.2.2 Government Corporations 14,077 14.750 7,775 + 673 + 4.8 - 6,975 -47.3 1.2.3 Other Private Sector Constituents 76,599 94,226 114,026 + 17,627 + 23.0 + 19,800 + 21.0
+
+2. External Banking Assets (net) 17,431 24,162 45,400 + 6,731 + 38.6 +21,238 + 87.9 2.1 Central Bank (net) 13,486 21,049 45,725 + 7,563 + 56.1 +24,676 + 117.2 2.2 Commercial Banks (net) 3,945 3,113 -325 - 832 -21.1 - 3,438 -110.4
+
+3. Other Items (net) -39,560 -46,808 -4ii,747 - 7,248 -17.7 + 4,062 + 8.7 3.1 Other Liabilities (net) of Central Bank -15,739 -19,903 -17,170 - 4,164 -26.5 + 2,733 + 13.7 3.2 Other Liabilities (net) of Commercial Banks -23,777 -25,721 -20,335 - 1,944 -7.0 + 5,386 + 20.9 3.3 Adjustments for items in transit -44 - 1,184 -5,242 - 1,140 -2,590.9 - 4,058 -342.7 Broad Money Supply (M 2) 112,097 130,701 161,362 + 18,604 + 1 6 6 +30,661 + 23.5
+
+Note: Signs indicate the effect on M 2. Source: Central Bank of Sri Lanka (a) Excludes Non-Resident Foreign Currency Deposits.
+
+Monetary Aggregates and Underlying Factors 1991 - 1993
+
+(Rs. Million)
+
+EXTERNAL BANKING ASSETS (NET)
+
+MONTHLY
+
+RUPEES MILLION 50000
+
+45000 -
+
+40000
+
+35000
+
+30000
+
+25000
+
+20000
+
+15000
+
+10000
+
+5 0 0 0
+
+0
+
+RUPEES MILLION
+
+11 I I i| 1 1 1 1 I I 5 0 0 0 0
+
+45000
+
+4 0 0 0 0
+
+l l l l l l l l l l i i i i i l i i i n 1989 1990 1991 1992 1993
+
+35000
+
+30000
+
+25000
+
+20000
+
+15000
+
+10000
+
+5000
+
+0
+
+C e n t r a l Bank of S r i Lanka.
+
+(Rs.3,435 million) in the previous year. Demand deposits increased by 21 per cent (Rs.4,761 million) in comparison to 5 per cent (Rs.1,008 million) in 1992, while currency in circulation grew by 18 per cent (Rs.4,853 million) compared to a 10 per cent (Rs.2,428 million) rise in the previous year. Accordingly, currency in circulation accounted for 53 per cent of M, in 1993 down from 5\ per cent in the previous year.
+
+Meanwhile, time and savings deposits (quasi-rrloney) held by the public with commercial banks grew by 26 per cent (Rs.21,047 million) compared with an increase of 23 percent (Rs.l5,168 million) in 1992. As in the previous year, the increase in time and savings deposits was reflected largely in the deposits of private sector constituents which expanded by 25 percent (Rs.17,578 million). Time and savings deposits of government corporations and co-operative institutions grew by 39 per cent (Rs.2,896 million) and 21 per cent (Rs.573 million), respectively. The high positive real rates of interest offered on time and savings deposits, further intensification of deposit mobili­sation efforts by commercial banks and continued liquidity injections through the accumulation of net foreign assets were conducive to the high growth in time and savings deposits with commercial banks during 1993. Thus, the Broad Money Supply (M2) consisting of M, plus time and savings deposits held by the public expanded by 23.5 per cent (Rs.30,661 million) in 1993. In the composi­tion of M 2, the share of quasi-money, which rose to 61 per cent in 1992 from 58 per cent in 1991 increased further to 63 per cent in 1993 reflecting a sustained growth in interest bearing deposits in the banking system.
+
+A rapid increase in NFA of the banking system and the continued expansion in credit to the private sector were the major factors underlying monetary growth in 1993. Net foreign assets in the banking system registered a phenomenal rise of 87.9 per cent (Rs.21,238 million) during the year compared to an increase of 38.6 per cent (Rs.6,731 million) in the previous year. Meanwhile, despite a large decline in net credit to government (NCG), credit to public corporations and co-operative institutions, domestic credit recorded a moderate growth of 3.5 per cent (Rs.5,362 million) owing to a high credit growth of 21 per cent (Rs.l9,800 million) to private sector constituents in 1993.
+
+In spite of high lending rates that prevailed throughout the year, growth in private sector credit declined only marginally from 23 per cent in 1992 to 21 per cent in 1993. The sustained rise in credit to the private sector was partly due to the high demand for credit created by the industries established under the 200 garment factories programme and financing arrangements to facilitate the importation of buses for the private sector and peoplised bus companies.
+
+Net credit to government extended by the banking system declined hy 17 per cent (Rs.7,346 million) in 1993 in contrast to a marginal increase of 1 per cent (Rs.558 million) in the previous year. In spite of the use of Rs.864 million from Government deposit balances and a further Rs.2,053 million from Central Bank provisional advances, NCG from the Central Bank declined by Rs.l4,932 million due to a sharp reduction in the Central Bank's holdings of Treasury bills by Rs.17,848 million. In contrast, NCG from commercial banks increased by Rs.7,585 million largely due to increased holdings of Treasury bills by Rs.3,621 million and the use of Government deposit balances to the tune of Rs.2,771 million during the year.
+
+In spite of increased recourse to bank credit by the Ceylon Petroleum Corporation (CPC), the overall credit utilisation by government corporations during the year declined by 47 per cent (Rs.6,975 million) due to several reasons. The outstanding levels of credit of the Janatha Estates Development Board (JEDB) and the Sri Lanka State Plantations Corporation (SLSPC) was reduced by Rs.2,960 million and Rs.l,716 million, respectively under the restructuring programme of the two state banks. The Ceylon Electricity Board (CEB), which relied heavily on bank credit in the previous year for the operation of its thermal power plants, reduced its liabilities to the banking system by Rs.1,967 million through a 30 per cent tariff increase and the postponement of capital expenditure projects during the year. Meanwhile, the availability of wheat grain under concessional arrangements was conducive towards generating an improved cashflow position in the operations
+
+147
+
+of the Co-operative Wholesale Establishment (CWE) thereby reducing liabilities to the banking system by Rs.723 million. Bank borrowings by the Ceylon Petroleum Corporation (CPC) increased by 14 per cent (Rs.416 million) in 1993 in contrast to a decline of 28 per cent (Rs.1,183 million) in 1992. Meanwhile, total bank credit to co-operative institutions declined from Rs.2,021 million in 1992 to Rs.1,903 million in 1993.
+
+Reflecting the continued strengthening of the overall surplus position in the balance of pay­ments, the NFA of the banking system registered a substantial growth of 88 per cent (Rs.21,238 million) during the year. This was the combined outcome of an increase in NFA of the Central Bank by Rs.24,676 million and a decline in those of the commercial banks by Rs.3,438 million. Although the Central Bank's cash balances abroad and holdings of foreign government and non-government securities rose by Rs.36,297 million during the year, the increase in foreign assets of the Central Bank on a net basis amounted to Rs.24,676 million largely due to a rise in the deposits of international organisations by Rs.l 1,630 million.
+
+Meanwhile, gross foreign assets of commercial banks at Rs.25,567 million, registered a moderate growth of 10.3 per cent (Rs.2,407 million) compared to an increase of 24.3 per cent (Rs.4,527 million) in the previous year. The entire increase in foreign assets of commercial banks was confined to the accumulation of foreign currency deposit balances with the foreign currency banking units. In contrast, foreign liabilities of commercial banks, totalling Rs.25,892 million, recorded a rise of 29.2 per cent (Rs.5,845 million) compared to 36.5 per cent (Rs.5,359 million) in 1992. The large increase in foreign liabilities was reflected mainly in the foreign currency deposit liabilities on account of Non-Resident Foreign Currency Accounts (NRFC) which grew by 29.5 per cent (Rs.5,322 million) in 1993. The increase in deposit liabilities in the previous year was 37 per cent (Rs.4,902 million). These developments in the relative position of foreign assets and liabilities of commercial banks reflected an increased foreign currency exposure in commercial banks.
+
+COMMERCIAL BANKING
+
+Overall Trends
+
+The commercial banking system remained liquid in 1993. Liquid assets of commercial banks increased by Rs.l2,504 million compared to a rise of Rs.4,749 million in the previous year. The expansion in liquid assets was mainly reflected in investments in Treasury bills and trade bills. Meanwhile, on the liabilities side, demand deposits rose by Rs.2,501 million. Following these developments, the ratio of liquid assets to demand deposits, which moved up from 160 per cent in 1991 to 167 per cent in 1992 rose further to 191 per cent in 1993 reflecting enhanced liquidity conditions in commercial banks. However, the ratio of liquid assets to total deposits remained unchanged at 40 per cent during the year.
+
+Meanwhile, the two state commercial banks were recapitalised through the issue of long-term bonds to the value of Rs.24,100 million, completing the first stage of financial sector restructure under the on-going structural reform programme. The Central Bank also introduced capital adequacy ratios based on requirements laid down by the Banking Regulations and Supervisory Practices Committee (the BASLE Committee) to strengthen the banking system in order to function efficiently in the international competitive environment.
+
+Structure of Assets and liabilities
+
+The resource base of commercial banks broadened further in 1993, largely reflecting high deposit mobilisation as well as credit expansion. The total assets/liabilities of commercial banks (excluding contra items) increased by 32 per cent (Rs.59,397 million) during the year in compari­son to a rise of 19 per cent (Rs.29,147 million) in the preceding year. On the liabilities side, growth in deposits, capital base and other liabilities contributed to the enhancement of the resource base of
+
+148
+
+TABLE 1.64
+
+(Amount In Rs. Million)
+
+Item
+
+Average of Monthly Figures End of Period
+
+Item
+
+1992 1993 1992 1993
+
+Cash on hand and deposits at Central Bank
+
+(inclusive of Statutory Reserve Requirements) 15,457 18,172 16,289 20,562
+
+Foreign Balances 16,095 19,653 18,113 20,529
+
+Treasury Bills 10,206 11,230 10,653 14,274
+
+Bills Discounted 9,424 10,712 8,346 10,541
+
+Total Liquid Assets 50,897 59,766 53,401 65,905
+
+Total Investments (a) 2,554 3,188 2,848 5,176
+
+Total Loans and Overdrafts 91,333 109,667 104,288 114,641
+
+Demand Deposits (b) 28,647 31,810 32,063 34,543
+
+Time and Savings Deposits (c) 88,734 114,058 101,499 127,919
+
+Total Deposits 117,381 145,868 133,562 162,462
+
+Ratio of: % % % %
+
+Cash to Demand Deposits 53.9 57.1 50.8 59.5
+
+Cash to Total Deposits 13.2 12.5 12.2 12.7
+
+Foreign Balances to Total Deposits 13.7 13.5 13.6 12.6
+
+Treasury Bills to Total Deposits 8.7 7.7 8.0 8.8
+
+Commercial Bills Discounted to Total Deposits 8.0 7.3 6.2 6.5
+
+Liquid Assets to Demand Deposits 177.7 187.9 166.6 190.8
+
+Liquid Assets to Total Deposits 43.4 41.0 40.0 40.6
+
+Investments to Total Deposits 2.2 2.2 2.1 3.2
+
+Loans and Overdrafts to Total Deposits 77.8 75.2 78.1 70.6
+
+Source: Central Bank of Sri Lanka
+
+(a) Government and Government Guaranteed Securities and Private Securities.
+
+(b) Excludes domestic inter-bank deposits.
+
+(c) Includes sum of Rs. 2,722 million and Rs. 3,174 million being long term deposits mobilised by the two state banks under the special savings schemes in 1992 and 1993, respectively.
+
+Note: The discrepancies between the figures given here and similar figures given elsewhere in this report are due to differences In definition.
+
+149
+
+Selected Items of Assets and Liabilities of Commercial Banks 1992 -1993
+
+TABLE 1.65
+
+(Rs. Million)
+
+Category
+
+End 1991/1992 End 1992/1993
+
+Category Sources Uses Sources Uses
+
+1. Government Sector 426.0 7,584.3 Holdings of Govt. Securities -922.4 -
+
+3,391.3 Deposits 435.5 --
+
+2,770.5 Import Bills 380.0 --
+
+904.8 Short-Term Credit 774.3 • --
+
+659.4 Overdrafts -241.4 141.7 - •
+
+2. Central Bank _ 880.2 _ 5,644.4 Borrowings -11.9 240.2 -Reserves -324.0 -
+
+3,662.2 Investment in Central Bank Securities ---
+
+1,612.0 Till Cash -544.3 -610.4
+
+3. Government Corporations 881.6 9,870.8 —
+
+Deposits -
+
+209.1 2,896.0 -Advances -672.5 6,974.8 -
+
+4. Co-operatives 863.4 — 690.7 —
+
+Deposits 1,127.4 -572.8 -Advances -
+
+264.0 117.9 -
+
+5. Other Domestic Private Sector _ 1,896.5 8,299.4 _
+
+Deposits* 15,729.8 -28,099.9 -Local Bills -162.1 22.2 -Import Bills 999.3 --1,601.2 Overdrafts -7,914.2 -
+
+5,747.5 Loans -
+
+9,951.0 -
+
+11,528.9 Investments in Securities and Bonds -598.3 -945.1
+
+6. Inter-Bank Transactions _ 5.8 480.5 _
+
+Balance with Domestic Banks -
+
+429.7 -644.5 Deposits and Borrowings with Domestic
+
+Banks 423.9 -
+
+1,125.0 -
+
+7. Foreign Sector 1,109.6 _ _ 2,286.8 Borrowings 749.3 -11.9 -Deposits 4,888.4 -
+
+106.9 -Foreign Balances Including Export Bills -4,528.1 -
+
+2,405.6
+
+8. Other Assets and Other Liabilities 1,265.1 _ 3,825.9 Capital and Reserves 908.2 -
+
+11,983.0 -Fixed and Other Assets -4,748.6 -
+
+32,940.9 Other Liabilities 5,105.5 -17,132.0 -
+
+Total Net Sources/Uses 3,664.1 19,341.4
+
+Source: Central Bank of Sri Lanka
+
+* Includes long-term deposits mobilised by the two state banks under the special savings scheme.
+
+Note: The bold figures indicate whether a net source or net use, as the case may be, for each sector.
+
+150
+
+Sources and Uses of Resources of Commercial Banks 1991 -1993
+
+commercial banks. Deposit liabilities which registered an increase of 22 per cent (Rs.28,470 million) were the main source of funds accounting for two thirds of the total liabilities of commer­cial banks in 1993. Reflecting the positive impact of high interest rates, time and savings deposits grew substantially by 26 per cent (Rs.25,969 million). Meanwhile, demand deposits registered a moderate growth of 8 per cent (Rs.2,501 million) owing to a reduction in government deposit balances in commercial banks by Rs.2,771 million. The foreign currency deposits which rose by 30 per cent (Rs.5,322 million) accounted for 15 per cent of total deposits - up from 10 per cent in the previous year. With the recapitalisation of the two state commercial banks under the financial sector reforms, capital funds of the commercial banks increased by Rs.13,336 million in 1993. The other liabilities of commercial banks also rose by 52 per cent (Rs. 17,558 million). Meanwhile, reflecting high inter-bank transactions, commercial banks' borrowings (including Central Bank refinance) rose by 14 per cent (Rs. 1,356 million).
+
+The enhanced resource base was conducive to the expansion in domestic assets of commercial banks mainly through loans and advances, Treasury bills and trade bills. Total loans and advances of commercial banks expanded by 11 per cent (Rs.12,547 million) during 1993, in comparison to a 19 per cent (Rs.l 8,383 million) rise in 1992. The increase in loans alone was 14 per cent (Rs.9,043 million) as compared to 16.? per cent (Rs.9,107 million) in the previous year.
+
+Meanwhile, liquid assets of commercial banks, comprising cash in hand, foreign deposit balances, Treasury bills and bills discounted totalling Rs.65,905 million registered an increase of 23 per cent (Rs. 12,504 million). In response to high yields, liquid assets on account of Treasury bills and Central Bank securities alone rose by 54 per cent (Rs.5,233 million). The increase in liquid assets through trade bills and foreign balances amounted to Rs.2,194 million and Rs.2,416 million, respectively. Meanwhile, commercial banks' assets held with the Central Bank on account of the statutory reserve requirement rose by Rs.6,141 million in 1993 due to a large build up of deposit balances in commercial banks and the imposition of high reserve requirements on all deposit liabilities.
+
+Sources and Uses of Funds
+
+Under the impact of the restructuring of the two state banks, the improved cashflow positions of major public enterprises and the tight monetary policy stance, the structure of sources and uses of funds in commercial banks changed considerably during 1993. The settlement of outstanding debt to commercial banks by the two Plantation corporations, the improved cashflow positions of the CEB and the CWE and enhanced deposits of public enterprises with commercial banks were conducive to public corporations becoming a major source of commercial bank funds during 1993. Public corporations providing Rs.9,871 million emerged as a major supplier of funds to commercial banks in 1993.
+
+The high interest rate structure prompted the private sector to generate more deposit balances (Rs.28,100 million) than the use of resources (Rs.19,823 million) by way of loans and advances from commercial banks. Hence, the private sector providing Rs.8,299 million also emerged as another major source of commercial banks' funds in 1993. In contrast, public enterprises and the private sector were users of commercial bank funds during the previous year, absorbing Rs.882 million and Rs.1,897 million, respectively on a net basis. During the year under review, the co-operative sector provided Rs.691 million to the banking system through a deposit build-up and a reduction in loans and advances. Meanwhile, inter-bank transactions generated Rs.481 million.
+
+On the use side, the Government absorbed the bulk of resources from commercial banks. With the increased holdings of Treasury bills by commercial banks, run down in government deposit balances, and the borrowings on account of import bills and other short term credit, the Govern­ment's claim on commercial banks' resources on a net basis amounted to Rs.7,584 million. Simi­larly, with the imposition of high reserve requirements and sales of Central Bank securities to contain the growth of monetary aggregates, the Central Bank absorbed Rs.5,644 million from
+
+151
+
+TABLE 1.66
+
+Commercial Banks Advances* Classified by Purpose and According to Maturity 1992 -1993
+
+(Amount in Rs. Million)
+
+Category
+
+Short Term (below 1 year)
+
+Medium Term
+
+(1 to 5 years)
+
+Long Term (Over 5 years) Total
+
+Category (D (2) ( 1 ) a s % of (7)
+
+(3) W (3) as
+
+% Of (7)
+
+(5) («) (5) as
+
+% of (7)
+
+(7) (8)
+
+(7) as %
+
+of Grand
+
+Totlal
+
+A. Trading . December 1992 42,514.9 80.4 7,299.1 13.8 3,052.0 5.8 52,866.0 45.7 March . 1993 40,495.8 80.8 7,030.7 14.0 2,572.7 5.1 50,099.2 42.0 June 1993 43,098.7 81.7 7,224.9 13.7 2,396.6 4.5 52,720.2 43.2 September 1993 48,837.0 80.9 9,482.7 15.7 2,084.1 3.5 60,403.8 48.8
+
+B. Financial
+
+December 1992 2,798.3 64.7 939.3 21.7 589.7 13.6 4,327.3 3.7 March 1993 3,722.1 68.1 859.6 15.7 886.0 16.2 5,467.7 4.6 June 1993 3,802.8 67.8 873.2 15.6 930.0 16.6 5,606.0 4.6 September 1993 2,511.4 64.3 636.1 16.3 758.9 19.4 3,906.4 3.2
+
+C. Agricultural
+
+December 1992 ' 6,522.0 55.1 2,281.2 19.3 3,035.0 25.6 11,838.2 10.2 March 1993 7,200.4 53.8 2,333.7 17.4 3,841.0 28.7 13,375.1 11.2 June 1993 7,456.8 57.6 2,659.5 20.5 2,836.7 21.9 12,953.0 10.6 September 1993 4,830.3 52.5 3,800.0 41.3 565.7 6.2 9,196.0 7.4
+
+D. Industrial"
+
+December 1992 12,927.7 71.4 2,604.7 14.4 2,577.2 14.2 18,109.6 15.7 March 1993 13,864.2 70.8 3,013.4 15.4 2,712.7 13.8 19,590.3 16.4 June 1993 '13,914.6 70.7 2,950.4 15.0 2,816.3 14.3 19,681.3 16.1 September 1993 12,149.2 70.8 2,518.3 14.7 2,496.5 14.5 17,164.0 13.9
+
+E. Tourism
+
+December 1992 862.5 27.2 285.5 9.0 2,019.6 63.8 3,167.6 2.7 March 1993 819.1 26.7 360.2 11.7 1,890.0 61.6 3,069.3 2.6 June 1993 915.7 32.1 369.3 13.0 1,563.5 54.9 2,848.5 2.3 September 1993 878.5 51.3 436.9 25.5 398.0 23.2 1,713.4 1.4
+
+F. Housing
+
+December 1992 2,784.2 20.6 3,219.8 23.8 7,504.1 55.6 13,508:1 11.7 March 1993 2,766.1 20.2 3,505.6 25.6 7,423.1 54.2 13,694.8 11.5 June 1993 2,840.6 19.4 3,886.3 26.5 7,913.5 54.1 14,640.4 12.0 September 1993 3,200.8 22.7 3,501.4 24.9 7,378.0 52.4 14,080.2 11.4
+
+G. Consumption
+
+December 1992 3,452.3 65.0 1,257.8 23.7 601.6 11.3 5,311.7 4.6 March 1993 3,644.3 66.8 1,124.2 20.6 684.2 12.5 5,452.7 4.6 June 1993 3,737.5 63.6 1,217.5 20.7 920.0 15.7 5,875.0 4.8 September 1993 3,641.4 62.2 1,249.3 21.3 961.4 16.4 5,852.1 4.7
+
+H. Other Loans
+
+December 1992 2,711.2 41.6 1,974.1 30.3 1,829.3 28.1 6,514.6 5.6 March 1993 4,347.9 50.7 2,287.7 26.7 1,941.3 22.6 8,576.9 7.2 June 1993 3,971.3 50.8 2,102.3 26.9 1,741.4 22.3 7,815.0 6.4 September 1993 3,474.4 30.6 6,120.1 53.9 1,758.2 15.5 11,352.7 9.2 I. Total
+
+21,208.5 December 1992 74,573.1 64.5 19,861.5 17.2 21,208.5 18.3 115,643.1 100.0 March 1993 76,859.9 64.4 20,515.1 17.2 21,951.0 18.4 119,326.0 100.0
+
+June 1993 79,738.0 65.3 21,283.4 17.4 21,118.0 17.3 122,139.4 100.0
+
+September 1993 79,523.0 64.3 '27,744.8 22.4 16,400.8 13.3 123,668.6 100.0
+
+Source: Central Bank of Sri Lanka
+
+* Advances include loans, overdrafts and bills discounted and exclude cash items in process of collection.
+
+'* Includes Advances granted for Engineering and Building Trade, Mining and Fishing.
+
+152
+
+TABLE 1.67
+
+Advances* by Type of Security - December, 1992 - September, 1993
+
+31st December 1992 31st March 1993 30th June 1993 30th September 1993
+
+Item Amount (Rs. Mn.)
+
+% 0 f Total
+
+Amount (Rs. Mn.)
+
+% o f Total
+
+Amount (Rs. Mn.)
+
+% 0 f Total
+
+Amount (Rs. Mn.)
+
+%Of Total
+
+1. Documentary Bills 6,794.3 5.9 7,595.0 6.4 8,887.8 7.3 8,402.8 6.8
+
+2. Government Securities 1,774.1 1.5 1,915.9 1.6 1,893.1 1.5 2,613.7 2.1
+
+3. Shares of Joint Stock Companies, Bonds, Debentures Sundries including Cash Value of Life Policies 4,636.4 4.0 3,445.1 2.9 3,428.9 2.8 5,162.1 4.2
+
+4. Fixed, Saving & Other Cash Deposits and CDs 13,330.0 11.5 12,322.1 10.3 11,426.5 9.4 9,612.9 7.8
+
+5. Stocks in Trade 12,302.5 10.6 11,845.8 9.9 9,823.3 8.0 9,758.4 7.9
+
+6. Immovable Property, Plant & Machinery 22,880.4 19.8 21,902.2 18.4 21,605.8 17.7 24,294.9 19.6
+
+7. Personal Guarantees and Pro Notes 15,889.5 13.7 19,013.5 15.9 17,685.7 14.5 16,355.8 13.2
+
+8. Trust Receipts 10,503.9 9.1 7,890.2 6.6 6,498.9 5.3 6,804.3 5.5
+
+9. Hire Purchase Agreements 1,736.2 1.6 1,148.1 1.0 1,000.9 0.8 1,074.1 0.9
+
+10. Tractor & Motor Vehicles 2,051.8 1.8 1,718.2 1.4 1,525.8 1.2 1,791.2 1.4
+
+11. Other Securities 14,675.6 12.7 21,485.3 18.0 28,099.8 23.0 27,049.9 21.9
+
+12. Unsecured 9,068.4 7.8 9,044.6 7.6 10,262.8 8.5 10,748.5 8.7
+
+TOTAL 115,643.1 100.0 119,326.0 100.0 122,139.4 100.0 123,668.6 100.0
+
+* Excludes cash items in process of collection and advances granted for financing purposes under the guaranteed price scheme.
+
+Source: Central Bank of Sri Lanka
+
+commercial banks in 1993 in comparison to Rs.880 million in 1992. Reflecting increased foreign currency lending by commercial banks, foreign sector also used Rs.2,287 million in contrast to ah injection of Rs.l ,109 million in the previous year.
+
+Meanwhile, the overall growth in credit by way of loans and advances to various sectors of the economy was 10 per cent (Rs.10,353 million) - a considerable moderation from the previous year's increase of 23 per cent (Rs. 19,536 million). Thus, the growth in total deposits at 22 per cent (Rs.28,470 million) was far in excess of the growth in loans and advances during the year. Accord­ingly, the ratio of loans and advances to total deposits dipped to 71 per cent in 1993 from 79 per cent in 1992. Nevertheless, commercial bank credit to the private sector proper continued to grow at 21 per cent (Rs.l 9,800 million) in spite of high lending rates that prevailed throughout the year.
+
+Distribution of Commercial Bank Loans & Advances1 7
+
+Total loans and advances of commercial banks to the private sector, public enterprises and co-operative institutions registered an increase of 15.7 per cent (Rs.16,823 million) in 1993 com­pared to a 20 per cent (Rs.l7,677 million) rise in the previous year. Reflecting an increased preference over short and medium term credit, the share of such credit in total credit rose from 83 per cent in 1992 to 87 per cent in 1993.
+
+As in the past, the bulk of commercial bank loans and advances was absorbed by trading activities. Displaying buoyant activities in import and domestic trade$.credit in respect of trading activities rose by 28.6 per cent (Rs.l3,443 million). Accordingly, the share of such credit in total c*edit increased to 49 per cent in 1993 from 44 per cent in 1992. In conformity with the normal pattern, 80 per cent of credit to trading activities was in the form of short term financial instru­ments. Credit extended to housing purposes also showed an increase of 10.9 per cent (Rs.1,380 million) during 1993. However, its share in total credit marginally declined to 11.4 per cent. The majority of loans extended for housing purposes fell into medium (1-5 years) and long term (over 5 years) categories.
+
+The use of credit for industrial purposes from commercial banks during 1993 fell by 8 per cent (Rs. 1,536 million) reducing the share of credit absorbed by this sector from 17.5 per cent in 1992 to 13.9 per cent in 1993. In particular, the utilisation of short term and medium term credit for industrial purposes declined considerably during 1993. The major categories that received loans and advances during the year were food, beverages and tobacco, wearing apparel and leather industries, textiles, paper and paper products and rubber and plastic products.
+
+In 1993, the highest concentration of loans and advances was at the interest rate of 21.9 per cent. In the previous year, loans and advances were concentrated at the interest rate of 20.5 per cent. Reflecting the same trend, the weighted average lending rate rose from 19.5 per cent in 1992 to 20.9 per cent in 1993. According to a security-wise classification of advances, significant increases were recorded in advances granted against immovable property, shares of joint stock companies, trust receipts, documentary bills and stock in trade.
+
+CENTRAL BANKING
+
+Overall Trends
+
+In the wake of large capital inflows and a sustained improvement in the overall balance of payments, the net international reserves of the Central Bank reached Rs.45,725 million at the end of 1993. This was an increase of Rs.24,676 million over the previous year. Meanwhile, in order to reduce the liquidity impact of resource inflows, the Central Bank reduced its net domestic assets
+
+The analysis of this section is based on data for the first three quarters.
+
+154
+
+from Rs.23,810 million at the end of 1992 to Rs.10,742 million at the end of 1993, largely through aggressive open market operations. On the liabilities side, currency in circulation rose by 17.9 per cent (Rs.5,453 million) while commercial banks' deposits with the Central Bank increased by 42.9 per cent (Rs.6,156 million). Reflecting these developments in both assets and liabilities, the monetary base (reserve money or high powered money) rose by 25.8 per cent (Rs.l 1,609 million) to Rs.56,467 million at the end of 1993.
+
+Structure of Assets and Liabilities
+
+The total assets/liabilities of the Central Bank at Rs.133,634 million at the end of 1993 was an increase of 32 per cent (Rs.32,380 million) in comparison to a moderate rise of 6 per cent (Rs.5,419 million) in the previous year. Oh the assets side, the increase was entirely reflected in external assets of the Bank which rose from Rs.40,387 million at the end of 1992 to Rs.76,694 million at the end of 1993. External assets held in the form of foreign government Treasury bills and securities rose by Rs.28,843 million and stood at Rs.58,274 million at the end of the year. Cash balances abroad, totalling Rs.18,402 million, registered an increase of Rs.7,448 million. Interest income arising from foreign investments of the Central Bank during the year amounted to Rs.8,940 million compared with Rs.7,151 million in 1992.
+
+Meanwhile, domestic assets of the Central Bank declined by 6 per cent (Rs.3,927 million) in 1993. Reflecting aggressive open market operations through sales of Treasury bills from the Central Bank's portfolio, holdings of government and government guaranteed securities declined by Rs. 17,848 million. In contrast, credit to government on account of the Central Bank's provi­sional advances and cash items in the process of collection, net of government deposit balances, rose by Rs.4,654 million during 1993. In spite of an increase in loans to finance companies, overall credit on account of Central Bank's refinance schemes also declined by Rs.568 million - a favour­able development in reserve money management in 1993.
+
+On the liabilities side, foreign liabilities rose by 60 per cent (Rs.11,630 million) owing to an increased liability on account of disbursements under the second year Enhanced Structural Adjust­ment Facility (ESAF-H) of the IMF and annual revaluation adjustments in IMF accounts with the Central Bank. Meanwhile, domestic liabilities rose by 25 per cent (Rs.20,750 million). Liabilities to commercial banks on account of the statutory reserve requirement rose by Rs.6,141 million while currency in circulation increased by Rs.5,453 million. The sterilisation effort through sales of Central Bank securities resulted in an additional liability of Rs.2,155 million.
+
+MONETARY POLICY
+
+In the context of sustained high growth in monetary aggregates and accompanying inflationary pressures, the Central Bank intensified its policy action to further tighten monetary policy during 1993. Accordingly, the Statutory Reserve Ratio (SRR) on commercial banks' deposits was raised on several occasions while open market operations were also intensified to contain liquidity expansion.
+
+The continued high growth in commercial bank credit to the private sector and large liquidity growth arising from the inflows of foreign assets called for an intensive use of SRR during the year. Accordingly, the SRR on Rupee deposits, which was fixed at 13.5 per cent on January 29, 1993 was raised to 14 per cent in April, 1993. In respect of foreign currency deposits, the SRR on time and savings deposits was raised from 6 per cent to 8 per cent while that on demand deposits was kept at 10 per cent.
+
+In view of the continued large credit expansion, the SRR on Rupee deposits was raised to 15 per cent in May while that on foreign currency time and savings deposits was raised to 9 per cent. The SRR on foreign currency demand deposits was fixed at} 1 per cent. In June, 1993, the SRR on
+
+155
+
+foreign currency deposits were unified at 12 per cent. In August 1993, reserve ratios on all deposits were unified at \5 per cent, thus strengthening the effectiveness of the SRR as a policy instrument. However, in order to ease the burden, commercial banks were allowed to maintain reserves against foreign currency deposits in the form of foreign currency.
+
+In 1993, the major thrust in managing reserve money was placed on open market operations. Accordingly, both the primary and secondary markets were used to reduce Treasury bills from the Central Bank's portfolio and absorb liquidity from the economy. Hence, yields on Treasury bills remained high throughout the year. The average yield on three-months bills rose from 17.7 per cent per annum in December, 1992 to 20.84 per cent per annum in September, 1993 before declining to 18.09 per cent per annum in December, 1993. Similarly, the average yield on one year Treasury bills rose from 19 per cent to 21.98 per cent and declined to 19.38 per cent by the end of the year. In response to high yields on Treasury bills, market participation in the Treasury bills market remained high during 1993. Thus, the Treasury bill holdings of the non-banking sector rose by Rs.20,102 million during the year. Conversely, despite fresh issues of Treasury bills which raised the outstanding stock of Treasury bills from Rs.87,095 million to Rs.97,195 million during the year, holdings of Treasury bills by the Central Bank dipped from Rs.21,795 million in 1992 to Rs,3,949 million in 1993.
+
+Meanwhile, several steps were taken to strengthen the market framework for Treasury bills. In most occasions, the entirety of Treasury bill issues arising from maturing bills as well as from fresh issues for government budgetary operations were offered to the public at auctions with comprehen­sive information pertaining to the Treasury bill market. This facilitated the emergence of a market determined yield on Treasury bills. The Central Bank also held regular meetings with primary dealers to promote a better dialogue and transparency in the operations of the Treasury bill market. The introduction of a repurchase market for Treasury bills in October, 1993 was helpful in the development of the short-end of the Treasury bill market, which in turn helped the management of liquidity on a daily basis.
+
+In the context of a depleted stock of Treasury bills, the Central Bank commenced the issue of its own securities from October, 1993 with a view to containing reserve money growth. Accord­ingly, Central Bank securities which were issued with 3 months and 6 months maturities raised Rs.2,155 million during the latter part of the year. The average yield on these securities also remained high in a range of 18.6-21.4 per cent.
+
+Meanwhile, the Central Bank also continued restraints on refinance credit to contain reserve money expansion. Consequently, total refinance outstanding under short-term refinance and the MLCF declined though some demands for refinance from ailing finance companies were accom­modated. The short-term refinance outstanding dropped from Rs.923 million as at end December, 1992 to Rs.752 million by December, 1993 while total outstanding level of the MLCF (excluding facilities granted to finance companies) declined by Rs.632 million during the same period. Hence, in spite of an increase in refinance granted to finance companies from Rs.1,811 million in 1992 to Rs.2,045 million in December, 1993 the overall refinance outstanding declined by Rs.568 million during 1993.
+
+INTEREST RATES
+
+Under the impact of high statutory reserve requirements and aggressive open market opera­tions, the interest rates remained high, moving upward till October, 1993. However, foreign inflows particularly during the latter part of the year which created a considerable liquidity in the economy contributed to a lowering of short term interest rates by the end of the year. Meanwhile, in response to generally high short term interest rates during the year, the medium and long-term rates also remained at higher levels throughout the year.
+
+156
+
+INTEREST RATES
+
+END QUARTERLY FIGURES
+
+PERCENT 25
+
+PERCENT 25
+
+20
+
+XXXXXXX X 0X X X X XXX
+
+15
+
+XXX | — X X X —
+
+0—o>
+
+10
+
+XXXXXX TREASURY BILLS02 M0NTH5)YEILD
+
+— BANK RATE
+
+TIME DEPOSITS (12 MONTHS MAX.)
+
+- • — SAVINGS DEPOSITS (MAX.)
+
+PRIME LENDING RATE
+
+0 t
+
+1988 1989 1990 1991 1992
+
+XXX
+
+2 0
+
+15
+
+- 10
+
+I I I I I I I
+
+1993
+
+Central Bank of Sri Lanka.
+
+Short-term Rates In the context of intensified actions by the Central Bank to sterilise excess liquidity and heavy Government borrowings through Treasury bills to finance the budget, yields on Treasury bills moved upward, particularly during the first three quarters of the year. Accordingly, the weighted average yield on Treasury bills with 3 months maturity rose from 17.7 per cent at the end of 1992 to 20.84 per cent in September before showing a declining trend since October. Similarly, the yields on Treasury bills with maturities of 6 months and 12 months moved-up from 18.05 per cent and 19.00 per cent, respectively at the end of 1992 to 21.06 per cent and 21.98 per cent, respec­tively at the end of September, 1993. Following a similar trend, the discount and the re-discount yield on 3 months Treasury bills in the secondary market increased from 17.26 per cent and 18.85 per cent at the end of 1992 to 20.13 per cent and 21.64 per cent, respectively by the end of September, 1993. However, yields on Treasury bills in both primary and secondary market moved', in a downward direction towards the latter part of the year due to high liquidity conditions prevail­ing during that period. In the primary market, yield on three months bills declined to 18.09 per cerft by the end of the year. Similarly, yield on one year Treasury bills also dropped to 19.38 per cent.
+
+Meanwhile, the repurchase market for Treasury bills was established in October, 1993 to mitigate the erratic fluctuations in the inter-bank call money market rates thereby facilitating the orderly conduct of open market operations. The yeild rate in the repurchase market which was at 17.9 per cent in October, 1993, declined to 7 per cent in November before increasing to 16.5 per cent by the end of the year. Meanwhile, interest rates in the call money market which varied within a range of 10-32 per cent at the end of 1992 narrowed to a range of 14.0-23.0 per cent in October before widening to a range of 16.5-28.0 per cent by the end of 1993. Largely tinder the impact of repurchase transactions, interest rates in Central Bank securities which were introduced in October, 1993 to sterilise the inflow of foreign funds, followed a similar pattern; weighted average yield rates on securities with 6 months maturity declining from 21.44 per cent in October, 1993 to 19.37 per cent by the end of the year.
+
+The interest rates offered on deposits by the National Savings Bank (NSB) remained un­changed until 1st December, 1993 when the deposit rates were revised downward. The rates on 6 months deposits and 12 months deposits with interest paid monthly which remained at 16.2 per cent since July, 1990 were reduced to 15.3 per cent, while the rate on 12 months fixed deposits with interest paid at maturity was reduced by 1 percentage point to 16.0 per cent. Meanwhile, the rate offered on 24 month deposits was reduced from 18.5 per cent to 17.0 per cent while maintaining the rate on savings deposits unchanged at 14.0 per cent. The deposit rates of commercial banks which reflected marginal increases during most of 1993 declined towards the end of the year in response to low yields on Treasury bills and downward revisions effected by the NSB. While time deposit rates of commercial banks varied in a range of 10-19 per cent at the end of the year those on savings deposits varied in a range of 6-15 per cent. There were no changes in the Central Bank refinance rates applicable to short-term and MLCF facilities during the year. Meanwhile, the Average Weighted Prime Lending Rate (AWPR) of commercial banks moved up from 20.2 per cent at the end of 1992 to 20.4 per cent at the end of 1993.
+
+Long-term Rates
+
+The long-term interest rates reflected an increasing trend with the rise in interest rates on government securities of 2-5 years maturity to a range of 18.5-16 per cent towards the end of the year from a range of 17-15 per cent that prevailed in 1992. During 1993, eleven issues of govern­ment securities were floated with 2-5 year maturity periods. The four year securities issued from January-July carried an interest rate of 16 per cent while five year securities carried a rate of 16.5 per cent. Meanwhile, the three year securities issued from July to October offered a rate of 17 per cent while those with two year maturity issued since July carried a rate of 18.5 per cent reflecting low interest rate expectations in the medium term. During the year, three commercial banks, viz. the Hatton National Bank Limited, the Commercial Bank of Ceylon Limited and the Seylan Bank Limited commenced issuing Certificates of Deposits with maturities of four and five years. The interest rates offered on these deposits were in the range of 15-18 per cent per annum.
+
+158
+
+Meanwhile, lending rates of long-term credit institutions continued to remain more or less at the same level during the year. As in the previous year, lending rates of the National Housing Development Authority (NHDA) under the Housing Guarantee Low Income Shelter Programme, remained at 20.5 per cent. The on-lending rate of the Development Finance Corporation of Ceylon (DFCC) increased marginally by 0.5 percentage points to a range of 18.0-24.0 per cent while those of the National Development Bank (NDB) varied in a range of 13.7-20.5 per cent. The refinance rate under the Small and Medium Scale Industries (SMI-IV) Scheme, which is fixed on the basis of the Average Weighted Deposit Rate (AWDR) of commercial banks, continued to remain at the lower end of 13.7 per cent in 1993. Meanwhile, lending rates of the NSB in respect of housing loans remained in the range of 18-22 per cent during the year. The State Mortgage and Investment Bank (SMD3) which continued to apply a unified rate of 20.5 per cent on long-term loans since December, 1991 raised the rates in October, 1993 to a range of 20.5-22.0 per cent depending on the size of the loan.
+
+BANKING DEVELOPMENT
+
+Branch Expansion
+
+The total number of commercial banks operating in the country remained unchanged at 23 during the year. With the opening of a new RRDB in the Gampaha District, the total number of Regional Rural Development Banks (RRDBs) rose to 17 at the end of 1993. Meanwhile, the bank branch network continued to expand during the year. Domestic commercial banks established 30 new branches while foreign banks opened 4 new branches during the year under review. Hence, the total number of commercial bank branches rose to 845 at end 1993 from 811 at end 1992. Mean­while, the National Savings Bank broadened its branch network to 85 while RRDBs established 7 new branches. With these developments, the total number of bank branches rose to 1,093 during the year. Accordingly, banking density - the total number of bank branches for each 10,000 population -increased from 0.6034 in 1992 to 0.6210 in 1993.
+
+TABLE 1.68 Distribution of Bank Branches 1991 - 1993
+
+C a t e g o r y 1991 1992 1993
+
+1. No. of Institutions 38 39 40 1.1 No. of Commercial Banks 23 23 23 1.1.1 No. of Domestic Banks 6 6 6 1.1.2 No. of Foreign Banks 17 17 17 1.2 No. of RRDBs <a> 15 16 17
+
+2. No. of Branches <b> 967 1,051 1,093 2.1 No. of Commercial Bank Branches 762 811 845 2.1.1 No. of Domestic Bank Branches W 737 782 812 2.1.1.1. No. of A.S.C Branches 36 34 29
+
+2.1.2 No. of Foreign Bank Branches 25 29 33 2.2 No. of RRDB Branches 124 156 163 2.3 No. of NSB Branches 81 84 85
+
+Source: Central Bank of Sri Lanka.
+
+(a) Regional Rural Development Banks established under RRDB Act. No. 15 of 1985. (b) Includes Head Offices. (c) Includes extension offices, Kachcheri Branches, Pay Offices and Overseas branches but excludes ASC branches functioning as extension offices of main branches.
+
+159
+
+The Bank of Ceylon (BOC) opened its second corporate branch at the New Head Quarters Building and upgraded five Agrarian Service Centre (ASC) branches to full pledged branches. The Muttur branch was re-opened in 1993. Accordingly, the total number of main branches of the BOC rose from 252 in 1992 to 259 in 1993. In addition, an extension office was opened at the Ceylon Shipping Lines warehouse at McCallum Road, increasing the number of its extension offices to 18. However, with the upgrading of its 5 ASC branches to main branches the number of ASC branches declined to 29 at the end of 1993. The People's Bank (PB) opened branches at Dehiattakandiya, Ganemulla and Yakkala and re-opened its branches at Serunuwara and Mullativu thus enhancing its branch network to 320 at the end of the year.
+
+The Seylan Bank Ltd. opened 11 new branches and upgraded two of its branches to full fledged branches during the year thus expanding its total branches to 57. The Sampath Bank Ltd. established 2 new branches at Gampaha and Dehiwala increasing its branch network to 18. The Commercial Bank of Ceylon Ltd. (CBC), which established 3 new branches at Kandana, Maradana and Akuressa expanded its branch network to 31. The Hatton National Bank Ltd. (HNB) also opened 4 new branches at Grandpass, Dambulla, Gampaha and Horana during the year expanding its branch network to 51.
+
+Following a similar trend as in the previous year, foreign banks opened 4 branches during the year. The ANZ Grindlays Bank p.l.c. opened 3 branches at Moratuwa, Rajagiriya and Kollupitiya, expanding its branch network to 7. With the establishment of a new branch in Colombo 7, the ABN-AMRO Bank N.V increased the number of its branches to 2.
+
+The total number of RRDBs rose to 17 in 1993, with the establishment of a new RRDB in the Gampaha District. Enhancing rural activities, the RRDBs widened their branch network with the opening of 7 banking outlets in rural areas. As a result, the number of RRDB branches totalled 163 by the end of 1993. In addition, the Anuradhapura RRDB established two mobile banking units at Negampaha and Siyabalangamuwa while Nuwara-Eliya RRDB opened a mobile banking unit at Karaliyadde with a view to promoting rural banking activities.
+
+During 1993, the National Savings Bank (NSB) opened a new branch at Wattala increasing its number of branches to 85. In addition, a decentralized postal unit at New Town, Anuradhapura and a sub-office of the Akuressa branch at Morawaka, were opened.
+
+Agency Banking
+
+The two state banks continued to engage in agency banking through the Praja Naya Niyamaka (PNN) Scheme during 1993. With the recruitment of 208 PNNs in 1993, the total number of PNNs appointed by the BOC stood at 3,797 at the end of the year. The PB also appointed 269 PNNs while discontinuing the services of 721 inoperative PNNs. Accordingly, the total number of PNNs func­tioning at the end of December, 1993 declined to 6,453 from 6,905 in 1992. Under this scheme, the total outstanding credit granted by BOC at Rs.303.3 million at end 1993 showed an increase of Rs.19.1 million compared to Rs.9.2 million in 1992. Meanwhile, the PB enhanced its facilities under this scheme by Rs.32.4 million raising outstanding credit under this scheme to Rs.202.4 million at end 1993.
+
+The Sampath Bank Ltd. granted Rs.106,000 under the Sampath Seva Sanyojaka (SSS) Scheme during the year. The total outstanding under this scheme was Rs.l2.0 million for 70 SSSs at the end of 1993.
+
+Service Facilities
+
+Commercial banks expanded their service facilities through new deposit and loan schemes, credit cards, Automated Teller Machines (ATMs), foreign exchange banking facilities, and elec­tronic money transfer facilities.
+
+160
+
+The People's Bank (PB) introduced two new savings deposit schemes which were linked with lottery systems; "Vanitha Vasana Ginum" especially designed for women and "Senior Citizens' Pilgrimage Account" for religious groups - Buddhists, Christians, Muslims and Hindus. In addition, uVPB made their deposit schemes more attractive by the introduction of non-negotiable Certifi-cates>of Deposits and Extended (Minors) Accounts in order to intensify mobilization of deposits. The PB also launched a new credit scheme for estate workers for the purpose of obtaining electricity to their households. The Bank of Ceylon introduced margin trading which enables those who have foreign currency deposit accounts with the Bank of Ceylon to trade foreign currency upto 5 times the amount placed in their deposit accounts. The designated currencies for margin trading are US Dollars, Sterling Pounds, Deutsche Mark, Japanese Yen, Swiss Francs and Australian Dollars. In addition, two new credit schemes - Comprehensive Credit Scheme for Small Enterprise Development and Coconut Fertilizer Credit scheme - were launched in 1993 by the BOC.
+
+Meanwhile, the Hatton National Bank (HNB) Ltd. launched a new deposit scheme named the "HNB Parent Care Scheme" in order to help account holders' parents in their old age. In addition, the HNB implemented a new deposit scheme titled "PATHUM VTMANA" savings draw with a view to attracting more deposits. The HNB also introduced the Gold Master Card with a credit limit upto Rs.300,000 in addition to its HNB Master Card with a credit limit upto Rs.50,000.
+
+During the year, the Commercial Bank of Ceylon Ltd. also introduced two new deposit schemes namely "UPAHARA Pension Scheme" and "SWARNA TILINA JAYAPATHA". "UPAHARA Pension Scheme" was launched for the benefit of the account holders' parents. At the end of the term, the beneficiary of the deposit will be entitled to a monthly pension of a sum similar to the monthly deposit. The Swarna Thilina Jayapatha certificates are available in the denomination of Rs.l,000 and each certificate is entitled to lottery draws. Meanwhile, three rural credit schemes, namely, Village Development Porgramme, Janasaviya Trust Fund Credit Scheme and Low Income Housing Loan Programme were launched by the Commercial Bank of Ceylon Ltd. during the year.
+
+The Seylan Bank Ltd. too introduced a new deposit scheme named "Dimuthu Patha". This scheme enables the deposit holders to borrow upto 85 per cent of the deposit against the amount placed in the account and provides an opportunity to enter into a prize draw. During the year, the Seylan Bank Ltd. joined the Western Union Money transfer service under which outward and inward remittances to and from major international cities could be made. Further, the Seylan Bank Ltd. established an outlet for selling duty free gold against foreign currency in the Colombo International Air-port.
+
+The ABN-AMRO Bank introduced a Credit Card "The ABN-AMRO Master Card" during the year. The ANZ Grindlays Bank p.l.c. introduced two new deposit schemes called "Super Savings Account" and High Performance Saver Savings Account with a minimum deposit of Rs.l00,000 and Rs.50,000, respectively. The ANZ Grindlays Bank p.l.c. joined the international organization -SWIFT (Society for Worldwide Interbank Financial Telecommunications) which facilitates the electronic transfer of funds, instant crediting of all incoming funds directly to customers accounts and processing of financial transactions speedily.
+
+The Citibank N.A. was appointed as the custodian for global equity offerings made by John Keels Holdings Ltd. in their issue of Global Depository Receipts (GDRs) and American Depository Receipts (ADRs). Furthermore, the Citibank undertook software development programme for providing cash management services to some selected customers. The American Express Bank introduced Rupee Banker's Acceptances, a new money market instrument in 1993. The Hongkong and Shanghai Banking Corporation Ltd. introduced a new International Electronic Teller Card (ETCI) which can be used by its customers to access their accounts in Hongkong Bank in Sri Lanka from a net-work of ATMs worldwide.
+
+Enhancing the ATM network facilities provided by commercial banks, 13 new ATMs were installed during the year. As a result, the total number of ATMs operated in the country stood at 79
+
+161
+
+at the end of 1993. Meanwhile, the HNB and the PB launched a Common Inter-bank Network (COIN) sharing their ATM Networks - Cashline and PET. This jointly serviced ATMs enable Cashline and PET card holders to transact business at any of the ATMs operated by the HNB and the PB.
+
+CREDIT INFORMATION BUREAU OF SRI LANKA
+
+The Credit Information Bureau remained operational during the year 1993 maintaining its services to shareholder lending institutions in supplying credit reports on borrowers and prospective borrowers. Coverage of information and supply of reports remained confined to the area of credit. Meanwhile, data-base on credit information was further developed during the year.
+
+The minimum limits of loan accounts determined for the coverage of the data-base remained unchanged at Rs. 100,000/- for irregular loan accounts and Rs.500,000/- for properly serviced loan accounts. But the updating cycle for irregular loan accounts was reduced from six months to one month with effect from January 1993, thereby enabling the Bureau to supply reports containing promptly updated information. The Bureau supplied 58,657 credit reports in 1993 as against 49,577 in 1992, while maintaining the same coverage of information originally adopted in respect of credit reports. As at the end of 1993, the data-base contained information in respect of 19,001 irregular loan accounts and 23,482 regular loan accounts.
+
+The issued capital of the Bureau remained as Rs.25 million divided into 250,000 shares of Rs.l00 each. As at the end of 1993, the Bureau had 52 shareholders including the Monetary Board of the Central Bank of Sri Lanka, 23 licenced commercial banks, 24 registered finance companies, the National Development Bank of Sri Lanka, the Development Finance Corporation of Ceylon, the State Mortgage and Investment Bank and the National Savings Bank.
+
+RURAL BANKING AND CREDIT
+
+The year 1993 witnessed an increase in loan disbursements to the rural sector to enhance economic activities in that sector. Credit facilities to the rural sector were channelled mainly through credit schemes executed by the Rural Credit Department of the Central Bank of Sri Lanka, namely the New Comprehensive Rural Credit Scheme (NCRCS), Medium and Long-term Credit Fund (MLCF), Kirindioya Irrigation and Settlement Project, Small Holder Tea Development Project, Mid-Country Perennial Crops Development Project, Agriculture Rehabilitation Project, Southern Province Rural Development Project and the North Western Province Water Resources Development Project.
+
+New Comprehensive Rural Credit Scheme (NCRCS)
+
+An increased loan disbursement was recorded under this scheme in 1993. The amount of loans granted in 1993, totalling Rs.921 million, recorded an increase of 6.5 per cent. The number of loans granted also increased from 62,355 in 1992 to 63,839 in 1993 recording an increase of 2.4 per cent. The major share of loans granted under the NCRCS was for the cultivation of paddy which accounted for about 66 per cent of the total amount granted during 1993. The balance 34 per cent was for the cultivation of subsidiary food crops. Favourable weather conditions that prevailed during 1993 have been the major contributory factor for the increased demand for credit under this scheme.
+
+The indemnity paid by the Central Bank in respect of defaulters under the NCRCS in 1993 amounted to approximately Rs.38 million, bringing the total amount of indemnity paid at end December, 1993 to Rs. 101 million. Such payment of indemnity accounted for 50 per cent of the losses incurred by banks on loans granted under this scheme.
+
+162
+
+TABLE 1.69 Cultivation Loans Granted Under the New Comprehensive Rural Credit Scheme
+
+(Position as at 31. 12. 1993) (Rs. Million)
+
+People's Bank Bank of Ceylon Hatton National Bank Reg. Rural Dev. Banks
+
+Commercial Bank of Ceylon Ltd. D F C C Mul. Purpose Co-op. Societies
+
+Total Loans
+
+Total Season
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary
+
+I food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+Total
+
+Paddy
+
+Subsidiary food crops
+
+loans under NCRCS
+
+1989/90 Maha 76.4 17.5 93.9 92.2 59.5 151.7 13.7 2.9 16.6 23.2 13.9 37.1 _ _ _ _ _ _ _ _ 205.5 93.8 299.3
+
+1990 Yala 54.1 47.9 102.0 71.4 41.1 112.5 1.5 8.2 9.7 28.1 29.1 57.2 -0.1 0.1 -0.1 0.1 ---155.1 126.5 281.6
+
+Cultivation Year 1990 130.5 65.4 195.9 163.6 100.6 264.2 15.2 11.1 26.3 51.3 43.0 94.3 _ 0.1 0.1 0.1 0.1 _ _ 360.6 220.3 580.9
+
+1990/91 Maha 165.3 20.4 185.7 228.4 52.2 280.6 13.0 3.9 16.9 105.0 27.6 132.6 0.2 0.1 0.3 _ _ _ _ 511.9 104.2 616.1
+
+1991 Yala 66.3 88.8 155.1 103.9 57.4 161.3 3.1 12.9 16.0 49.1 53.9 103.0 -0.5 0.5 -----222.4 213.5 435.9
+
+Cultivation Year 1991 231.6 109.2 340.8 323.3 109.6 441.9 16.1 16.8 32.9 154.1 81.5 235.6 0.2 0.6 0.8 _ _ _ _ 734.3 317.7 1,052.0
+
+1991/92 Maha 185.4 28.7 214.1 179.7 65.0 244.7 18.0 5.4 23.4 100.3 49.3 149.6 _ _ 0.4 0 07 0.5 483.8 148.5 632.2
+
+1992 Yala 38.6 31.8 70.4 57.0 24.8 81.7 0.9 3.9 4.8 37.6 37.7 75.3 -0 3 0 3 ------134.0 98.5 232.5
+
+Cultivation Year 1992 224.0 60.5 284.5 236.7 89.8 326.4 18.9 9.4 28.3 137.9 87.0 224.9 0.3 0.3 _ _ 0.4 0.07 0.5 617.8 247.1 864.9
+
+1992/93 Maha 155.2 32.4 187.6 159.4 56.7 216.1 15.6 15.2 30.8 86.5 80.6 167.1 1 6 0.2 1.8 _ _ _ _ 418.3 185.2 603.4
+
+1993 Yala 61.4 47.7 109.1 78.7 28.0 106.7 1.1 4.4 5.5 42.8 50.7 93.5 1.2 1.1 2.3 -----185.2 131.9 317.1
+
+Cultivation Year 1993 216.6 80.1 296.7 238.1 84.7 322.8 16.7 19.6 36.3 1656 131.3 296.9 2.9 1.3 4.2 ------639.9 317.1 957.0
+
+Sources: People's Bank, Hatton National Bank, Bank of Ceylon, Commercial Bank of Ceylon Ltd., Regional Rural Development Banks, Development Finance Corporation pf Ceylon.
+
+TABLE 1.70
+
+Deposits and Advances - Rural Sector*
+
+(Amount Rs. '000)
+
+Co-operative Rural Banks (CRBs)"*
+
+Bank of Ceylon sub-offices at Agrarian Services Centres
+
+Regional Rural Development Banks
+
+Thrift and Credit Co-operative Societies
+
+1992 1993 1992 1993 1992 1993 1992 1993
+
+1. Total Savings 4,333,051 5,196,746 287,254 366,578 666,561 1,099,420 696,829 1,415,452
+
+1.1 Savings 3,930,578 4,665,514 222,747 315,010 586,943 979,040 553,437 1,033,6CS
+
+1.2 Special Savings --21,590 8,818 --
+
+90,458 254,014
+
+1.3 Fixed Deposits 402,473 531,232 42,917 42,750 79,618 120,380 52,934 127.633
+
+2. Total loans granted ** 595,579 538,881 134,214 233,270 703,235 966,438 715,120 1,086,011
+
+2.1 Agriculture 77,769 67,495 50,793 -321.054 422,231 188,465 296,188
+
+2.2 Animal Husbandry 38,764 33,611 1,106 -32,800 31,880 45,972 25,562
+
+2.3 Fisheries --
+
+6 -
+
+T2.925 22,026 --2.4 Small Industries 34,916 32,908 1,178 -
+
+81,517 99,528 91,986 38,975
+
+2.5 Housing, Electrification and Water Supply 256,360-264,208 6,243 249,210 76,361
+
+2.6 Projects/com merce 102,551 62,813 49,638 -113,023 178,250 34,326 -
+
+2.7 Others 85,219 77,846 25,250 -
+
+141,916 212,523 105,161 648,925
+
+* Excluding the position of the branches of the People's Bank and the Bank of Ceylon in rural areas. Sources: People's Bank
+
+'* Total value of loans granted during the year. Bank of Ceylon Regional Rural Dev. Banks '• CRBs figures for deposits are given as at 30th September. Thrjft and Credit co-operative
+
+Societies
+
+Medium & Long-term Credit Fund (MLCF) - Category -I
+
+The credit schemes under the MLCF were not in operation during 1993 after the suspension of refinance under the MLCF effective from 23rd December, 1991. However, refinance in limited amounts was granted to the Regional Rural Development Banks (RRDBs) during the year. The total amount of refinance granted during 1993 to RRDBs under this credit scheme amounted to Rs.34 million.
+
+Agricultural Insurance Board (AIB)
+
+During the year 1993, AIB insured approximately 34,000 hectares, which was a decline of 13 per cent when compared with the previous year. However, the premia collected in respect of the area insured in 1993 at Rs.l5 million showed an increase of 26 per cent. Indemnity paid during 1993 amounted to nearly Rs.6 million and indicated a decline of 14 per cent over the previous year.
+
+Credit Facilities to the Rural Sector
+
+Credit to the rural sector is mainly channelled through the Co-operative Rural Banks (CRBs), Bank of Ceylon sub-offices at Agrarian Service Centres (ASCs), Regional Rural Development Banks (RRDBs) and Thrift and Credit Co-operative Societies (TCCSs). The total quantum of loans disbursed by these institutions to the rural sector in 1993 amounted to Rs.2.82 billion which indicated a 31.2 per cent increase when compared with last year's figure of Rs.2.15 billion.
+
+Mobilisation of Rural Savings
+
+The savings of the rural sector too are mainly mobilised by the CRBs, ASCs, RRDBs and TCCSs. The total savings mobilised from the rural sector as at 31.12.1993 amounted to Rs.8.08 billion, which when compared with the savings mobilised of Rs.6 billion as at end 1992, indicated an increase of 34.7 per cent. Out of the Rs.8.08 billion mobilised as at 31.12.1993, the contribution by the CRBs was approximately Rs.5.2 billion followed by TCCSs, (Rs.l.4 billion), RRDBs (Rs.1.1 billion) and ASCs (Rs.0.37 billion).
+
+OTHER FINANCIAL INSTITUTIONS
+
+Savings Institutions
+
+The National Savings Bank (NSB) continued to play a leading role in mobilising savings during 1993. The total deposit base of the NSB expanded by 28 per cent (Rs.9,280 million) during the year and stood at Rs.42,157 million by the end of the year. The growth in deposits of the bank was mainly reflected in fixed deposits which grew by 25 per cent (Rs.5,131 million) to Rs.25,736 million, due to high interest rates on such deposits in 1993. Meanwhile, savings deposits increased by 33 per cent (Rs.4,148 million) during 1993. With the decline in Treasury bill yield rates, interest rate paid on deposits with one year maturity was reduced from 17.0 per cent per annum to 16.0 per cent per annum in December, 1993. However, interest offered on savings deposits remained unchanged at 14.0 per cent per annum. Interest rates in respect of other term deposits were also reduced depending on the period of maturity.
+
+During the year, the NSB diversified its investment portfolio by moving its funds from low yielding assets to high yielding assets. Accordingly, total investment in Treasury bills during the year amounted to Rs.32,550 million. The total value of Treasury bills held by the NSB at the end of the year rose to Rs.20,096 million from Rs. 14,086 million at the end of the previous year. Mean­while, government liabilities to the NSB on account of administrative borrowings at Rs.2,195 million showed an increase of Rs.350 million.
+
+165
+
+TABLE 1.71
+
+Purpose-wise Classification of Loans Approved and Granted by Long-Term Credit Institutions
+
+(Amount Rs. Million)
+
+% of Total
+
+DFCC NSB SMIB HDFC NDB NHDA Total Loans
+
+Purpose
+
+Approved Purpose
+
+1992 1993 1992 1993 1992 1993 1992 1993 1992 1993 1992 1993 1992 1993 1992 1993
+
+1. Agriculture 54 110 _ _ _ _ _ -269 148 --323 258 3.4 2.2
+
+(i) Plantation 54 110 ---
+
+-------54 110 0.6 0.9
+
+(ii) Domestic --------269 148 --269 148 2.8 1.3
+
+(iii) Livestock & Dairies ----------------(iv) Fishing ----------------(v) Purchase of land for agricultural purposes --------------
+
+2. Industry 2,506 2.298 --_ ---2.455 2.566 --4,961 4,864 52.5 42 0
+
+(I) Mechanical processing of plantation crops -----' ----------(ii) Mechanical processing of agricultural crops -----------------(iii) Engineering & Building Trade 36 86 --
+
+--------36 86 0.4 0.7
+
+(iv) Mining 14 11 ---- ' -----14 11 0.1 0.1
+
+(v) Fjod. Beverage & Tobacco 492 329 --. ----417 603 --909 932 9.6 8.0
+
+(vi) Textile, Wearing Apparel and Leather Products 1,095 330 ------1,183 778 --2,278 1,108 24.1 9.6
+
+(vii) Rubber & Plastic Products 156 239 ------184 ---3 4 0 239 3.6 2.1
+
+(viii) Metal, Chemicals and Engineering 241 502 ------607 645 --848 1,147 9.0 9.9
+
+(ix) Other Manufacturing 472 801 ------64 540 --536 1,341 5.7 11.6
+
+3. Tourism 123 448 ------433 95 --556 543 5.9 4.7
+
+4. Commercial (Service Industries) -----. ---591 1,005 -591 1,005 6.3 8.7
+
+5. Financial 39 110 550 580 _ _ _ _ -299 --589 989 6.2 8.5
+
+(i) Loans to Financial Institutions 39 110 550 580 ----26 --589 716 6.2 6.2
+
+(ii) Investment Loans --------------(iii) Others --------273 ---273 -2.4
+
+6. Housing - . -105 156 322 884 108 192 --391 755 926 1,987 9.8 17.1
+
+(i) Purchase of houses --34 12 85 170 26 27 ---
+
+290 145 499 1.5 4.3
+
+(ii) Construction --71 144 237 714 82 165 --391 465 781 1,488 8.3 12.8
+
+7. Redemption of Debt. ----4 15 -82 ---4 97 0.8
+
+8. Other Loans 171 197 1.052 1,510 11 138 --259 --1,493 1.845 15.8 15.9
+
+Total (Approved) 2,893 3,163 1,707 2.246 337 1,037 108 274 4,007 4.113 391 755 9,443 11,588 100.0 100.0
+
+Loans disbursed (1) 1,642 1,928 1,700 2,245 302 674 108 249 3,589 4,100 297 534 7,638 9.730
+
+Loans disbursed as a % of Total loans approved 57 61 100 100 90 65 100 91 90 100 76 71 81 84
+
+Notes: (1) Includes loans approved in the previouse years and Source: Development Finance Corporation of Ceylon (DFCC) Housing Development Finance Corporation (HDFC) disbursed during the period under review. National Savings Bank (NSB) National Development Bank (NDB) State Mortgage & Investment Bank (SMIB) National Housing Development Authority (NHDA)
+
+The contributions to the Employees' Trust Fund (ETF) expanded during the year 1993. The total contributions received by the fund rose by Rs.l57.8 million in comparison to Rs.75 million in 1992. With the increase in contributions together with interest earned and return on investments, the outstanding member's balance of the ETF expanded from Rs.6,360 million in 1992 to Rs.7,824 million in 1993.
+
+The investments of the ETF rose by Rs.l ,716 million and stood at Rs.8,406 million at the end of 1993. Increase in investments was mainly reflected in Treasury bills. Total investments in Treasury bills rose from Rs.3,716 million by end 1992 to Rs.5,511 million by end 1993. Mean­while, the other major investments were NHDA debentures (Rs.428 million), Government Securities (Rs.341 million), other debentures (Rs.795 million) and shares (Rs.405 million).
+
+Long-term Lending Institutions
+
+The Development Finance Corporation of Ceylon (DFCC) expanded its activities, particularly in lending to the industrial sector during 1993. The number of loans granted rose from 441 to 551. Total disbursements of loans rose by Rs.286 million compared to Rs.381 million in 1992. Accord­ingly, the outstanding loans at the end of the year rose to Rs.6,057 million in 1993 from Rs.4,700 million in the previous year. Meanwhile, DFCC also assisted 7 projects providing equity finance totalling Rs.336 million.
+
+Loans granted to the industrial sector amounted to Rs.2,298 million. Other sectors which received credit were tourism (Rs.448 million) and transport (Rs.167 million). As in the previous years, a high concentration of loans was in the medium term category which accounted for 68 per cent of total loan portfolio. Meanwhile, the resources available to the DFCC rose from Rs.2,762 million in 1992 to Rs.4,548 million in 1993. The majority of funds in 1993 was received from new capital contributions (Rs.l,020 million), recovery of loans (Rs.l,407 million) and foreign borrowings under IDA, DEG and FMO (Rs.l ,450 million).
+
+The National Development Bank (NDB) approved 262 loans amounting to Rs.4,114 million in 1993 in comparison to Rs.4,007 million approved in respect of 312 loans during 1992. The indus­trial sector absorbed 62 per cent (Rs.2,566 million) of the totalloans approved during the year. The major sectors which received credit during 1993 were the textiles, wearing apparel and leather products (Rs.778 million), food beverages and tobacco (Rs.603 million) and non-metalic mineral products (Rs.475 million). Meanwhile, loans approved for the services sector amounted to Rs.l,005 million in 1993. The total volume of loans approved for other sectors including agriculture, tourism and financial sectors during the year amounted to Rs.542 million. As in the past, the majority of loans (87 per cent or Rs.3,564 million) continued to be for medium and large scale industrial projects. The average rate of interest payable on these loans was 20.5 per cent. The funds available for the NDB amounted to Rs.4,929 million. They were raised through recovery of loans (Rs.2,143 million) and borrowings abroad under IDA and CDC (Rs.l,666 million).
+
+The State Mortgage and Investment Bank (SMIB) continued to provide credit facilities for housing construction, purchase of houses and building sites during 1993. The majority of the loans was for construction of houses, accounting for nearly 70 per cent of the loans disbursed during the year. Reflecting a substantial growth in its activities, the total volume of loans approved by the Bank amounted to Rs.l,037 million in 1993 compared to Rs.337 million in 1992. The total disbursements amounted to Rs.674 million in comparison to Rs.302 million at the end of 1992. Of the total loans granted for the construction of houses, 77 per cent was in the range of Rs.l00,000 -Rs.l,000,000 with interest rate of 20 - 22 per cent per annum. The total resources made up of recovery of loans (Rs.634 million) and deposits mobilized (Rs.l48 million) rose to Rs.l,028 million during 1993. The comparable amount for the year 1992 was Rs.479 million.
+
+167
+
+Finance Companies
+
+The number of finance companies that were in operation declined to 24 at the end of the year. The registration of two finance companies, namely Shabra Unico Finance Ltd. and Citi Credit Ltd. were cancelled and business activities of one company was suspended during the year. The total assets/liabilities of the 24 finance companies amounted to Rs.9,021 million at the end of 1993, showing a decline of Rs. 1,279 million over the previous year.
+
+On the"assets side, continuing the past trend, hire purchase business activities declined further from Rs.2,819 million to Rs.2,141 million at the end of the year. However, outstanding loans rose by Rs.84 million to Rs.3,139 million while investments increased by Rs.89 million to Rs.1,383 million. Of the loans granted, lease financing rose by Rs.531 million and accounted for 75 per cent (Rs.2,366 million) of the outstanding loan portfolio. Meanwhile, total liquid assets, including cash on hand, deposits with commercial banks and investments in government securities further declined from Rs.l,061 million to Rs.1,043 million. On the liabilities side, total deposit liabilities declined by Rs.150 million and stood at Rs.5,492 million. During the year, borrowings of finance compa­nies, including borrowings from commercial banks, declined from Rs.3,274 million to Rs.l,158 million. However, the ratio of liquid assets to total deposits increased marginally to 19.0 per cent at the end of 1993 from 18.8 per cent at the end of 1992.
+
+Relief payments to depositors under the medium and long-term credit fund (MLCF) were continued during the year. The total outstanding refinance facilities provided by the Central Bank under this relief scheme amounted to Rs.2,045 million as at end 1993 in comparison to Rs.1,810 million at the end of the previous year.
+
+TABLE 1.72
+
+Sources and Uses of Resources of Registered Finance Companies
+
+(Amount in Rs. Million)
+
+Item
+
+As at 31st December 1992
+
+As at 31st March 1993
+
+As at 30th June 1993
+
+As at 30th September 1993
+
+As at 31st December 1993
+
+Sources
+
+1. Capital Account 2. Deposits 3. Borrowings 4. Other Liabilities
+
+574.0 5,641.8 3,273.8
+
+810.8
+
+1,252.5 5,157.5 1,132.8 821.3
+
+1,193.0 5,219.1 996.7 802.7
+
+1,307.4 5,344.2 1,084.9 849.0
+
+1,335.1 5,492.6 1,157.7 1,035.7
+
+T o t a l 10,300.4 8,364.1 8,211.5 8,585.5 9,021.1
+
+Uses
+
+1. Hire Purchase Business 2. Loans Outstanding 3. Investments 4. Other Assets
+
+2,819.0 3,054.7 1,293.6 3,133.1
+
+2,028.1 2,875.5 1,220.1 2,240.4
+
+2,059.0 2,805.1 1,203.4 2,144.0
+
+2,141.3 2,969.2 1,310.2 2,164.8
+
+2,140.7 3,138.8 1,383.4 2,358.2
+
+T o t a l 10,300.4 8,364.1 8,211.5 8,585.5 9,021.1
+
+Number of Finance Companies reported to the Central Bank 27.0 25.0 24.0 24.0 24.0
+
+Source: Central Bank of Sri Lanka.
+
+168
+
+SPECIALISED FINANCIAL INSTITUTIONS
+
+Merchant Banking
+
+The number of active merchant banks remained at four in 1993. The year witnessed a steady growth in merchant banking with a buoyant share market which added further impetus to the development of merchant banking during the year.
+
+The total assets of the four merchant banks operating in the country rose from Rs. 1,909 million in 1992 to Rs.4,074 million in 1993. Meanwhile, total income of these companies registered a growth of 66 per cent to Rs.519 million during the year under review. The activities of merchant banks were concentrated mostly on discounting trade bills, lease financing, investments in Treasury bills and in the share market, accounting for 73 per cent of the total income in 1993.
+
+TABLE 1.73 Progress of Activities of Merchant Banks (1992 - 1993)
+
+(Rs. Million)
+
+1992 1993*
+
+1. Earned Income on Leasing 94.0 169.0 2. Interest on Discounting Trade Bills 130.9 170.4 3. Financial and Marketing Consultancy 0.5 30.1 4. Underwriting Commissions 3.0 4.3 5. Insurance Commissions 1.9 1.6 6. Interest on Margin Trading -
+
+10.7 7. Profit on Investments in Shares 3.5 27.5 8. Interest on Treasury Bills 5.0 37.7 9. Other 73.9 67.8
+
+TOTAL 312.7 519.1
+
+* Provisional. Sources: Merchant Bank of Sri Lanka Ltd.
+
+People's Merchant Bank Ltd. Seylan Merchant Bank Ltd. Vanik Incorporation Ltd.
+
+Venture Capital Companies
+
+The number of venture capital companies operating in the country remained at 6 by the end of 1993. They are the Capital Development and Investment Company Ltd. (CDIC), Equity Investment Lanka Ltd., Lanka Ventures Ltd., NDB Venture Investment (Pvt.) Ltd., People's Venture Invest­ment Company (Pvt). Ltd. and the Central Finance Venture Fund Ltd. These companies, which provide equity or equity type financing of unlisted small and medium scale companies in the manufacturing and export sectors, raised their total assets to Rs.l,047 million at the end of 1993 from Rs.724 million at the end of 1992.
+
+Leasing Companies
+
+There were three registered leasing companies operating in the country as in the previous year. The total value of leases executed by these companies at Rs.1,140 million reflected a growth of 7 per cent (Rs.78 million) during the year in comparison to an increase of 19 per cent (Rs.172 million) in the previous year. Leasing activities in industry, construction, services and other sectors registered increases during 1993 while those in Trading and Transport sectors recorded declines. As in the previous year, the highest demand for lease financing was for commercial vehicles.
+
+169
+
+Insurance
+
+The number of insurance companies operating in the country remained at five consisting of the two state owned insurance companies and three private companies. Both life insurance and general insurance business expanded during 1993. The total number of life policies rose from 438,600 in 1992 to 475,800 in 1993, while the total premium income rose from Rs.1,169 million to Rs.1,508 million in 1993. Reflecting a similar expansion, the net premium income from general insurance business increased by Rs.l54 million to Rs.l,852 million
+
+MONEY MARKET
+
+Overall Trends
+
+In the context of large capital inflows and intensified Treasury bill transactions, the money market remained active during the year under review. The Treasury bill market exerted a signifi­cant influence in determining short-term interest rates in the money market. The increase in the Statutory Reserve Ratio on commercial banks on several occasions during the year contributed to a sustained high demand for funds in the call market. A notable development at the short-end of the money market was the introduction of the repurchase market for Treasury bills by the Central Bank in October, 1993 with a view to minimising erratic fluctuations in call money rates.
+
+Inter-Bank Call Money Market
+
+The activities in the inter-bank call money market expanded substantially during 1993. The turnover in the inter-bank call money market increased by 81 per cent (Rs.167,825 million) during the year. The upward revision of the Statutory Reserve Ratio on several occasions resulted in a higher demand for call money during 1993. Accordingly, the call money market rates, which declined from a range of 10-32 per cent in January, 1993 to a range of 3-20 per cent in March, 1993, increased to 15-35 per cent in May 1993. With the introduction of the repurchase market for Treasury bills in October, 1993, call money rates stabilised within a narrower range of 14 - 23 per cent. However, with the temporary concentration of liquidity within few banks due to over subscriptions to primary share issues, call market rates declined to a lower range of 8.0 - 18.5 per cent in November, 1993. The rates picked up again to reach a range of 16.5 - 28.0 per cent by the end of 1993.
+
+The Treasury Bill Market
+
+(a) Primary Treasury Bill Market
+
+The total value of Treasury bills offered in the primary market during 1993 was Rs. 158.9 billion compared with Rs.l93.8 billion in 1992. The new issues made for budgetary purposes during the year at Rs.13.6 billion, reflected a reduction of Rs.0.5 billion over that in the previous year. Meanwhile, Treasury bills amounting to Rs.3.5 billion were retired during the year. Accord­ingly, the total Treasury bills outstanding rose from Rs.87.1 billion at the end of 1992 to Rs.97.2 billion at the end of 1993. Reflecting a significant success in Open Market Operations, Treasury bills held by the Central Bank declined from Rs.21.8 billion in 1992 to Rs.3.9 billion in 1993. Induced by attractive yields, the non-bank private sector holdings of Treasury bills expanded from Rs.43.6 billion in 1992 to Rs.63.7 billion in 1993. The National Savings Bank, which raised its investments in Treasury bills to Rs.20.1 billion in 1993 from Rs.14.1 billion in 1992, was the major investor in Treasury bills from the non-bank sector. The Treasury bills purchased by commercial banks in the primary market increased from Rs.22.8 billion in 1992 to Rs.49.6 billion in 1993. However, reflecting active sales to the public, Treasury bill holdings of commercial banks increased from Rs.10.6 billion to only Rs.14.3 billion during the year.
+
+170
+
+TABLE 1.74
+
+Money Market Operations (1991 -1993)
+
+(Amount Rs. Mn.)
+
+Call Money Market Primary Treasury Bill Market Secondary Treasury Bill Market
+
+Period Total Lending/ Borrowings
+
+Outstanding as at end of period (a)
+
+Total Out standing
+
+Amount Issued
+
+Amount Accepted (Purchases)
+
+Total Sales
+
+Total Purchases
+
+Outstanding position as at end of period
+
+Total Lending/ Borrowings
+
+Outstanding as at end of period (a)
+
+Total Out standing
+
+Amount Issued
+
+Central Bank
+
+Commercial Banks
+
+Others Total
+
+Total Sales
+
+Total Purchases
+
+Outstanding position as at end of period
+
+1991
+
+1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+
+50,194 54,114 65,612 54,940
+
+1,304 2,167 798 1,592
+
+68,967.7 70,467.7 70,467.7 72,967.7
+
+36,953.2 34,137.2 28,968.6 31,509.1
+
+20,370.4 14,953.8 14,965.3 18,150.4
+
+7,834.1 4,625.5 4,265.3 5,237.5
+
+8,748.6 14,557.9 9,738.0 8,121.2
+
+36,953.2 34,137.2 28,968.6 31,509.1
+
+25,472 16,768 20,069 18,078
+
+8,716 8,584 8,489 10,898
+
+2,073 1,674 3,040 1,453
+
+1992
+
+1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+
+40,912 58,123 45,823 62,307
+
+580 1,265 1,288 1,458
+
+73,722.4 76,967.7 82,295.7 87,095.7
+
+42,723.3 65,821.3 47,115.7 38,147.9
+
+21,652.8 38,341.5 28,346.2 20,851.9
+
+4,245.7 8,591.3 8,351.4 12,722.0
+
+17,824.8 18,888.5 10,418.0 4,574.0
+
+43,723.3 65,821.3 47,115.6 38,147.9
+
+32,158 41,328 24,345 21,535
+
+12,520 10,832 11,234 15,026
+
+2,103 1,927 3,869 3,696
+
+1993
+
+1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+
+78,122 100,584 98,377 97,907
+
+1,059 1,571 1,004 1,192
+
+88,095.7 92.495.7 94,495.7 97,195.7
+
+35,632.2 50,735.9 42,028.9 30,459.3
+
+11,120.2 16,610.9 14,076.3 6,394.0
+
+13,749.0 20,467.0 12,896.6 17,622.5
+
+10,763.0 13,658.0 15,056.0 6,422.8
+
+35,632.2 50,735.9 42,028.9 30,459.3
+
+27,670 27,026 27,377 12,690
+
+16,565 13,000 8,150 9,136
+
+3,285 3,962 5,742 2,777
+
+(a) The outstanding amount as at the end of the last week for each quarter. Source : Central Bank of Sri Lanka
+
+(b) Secondary Treasury Bill Market The sales (discounting) of Treasury bills from die secondary window of the Central Bank declined from Rs.l 19.4 billion in 1992 to Rs.94.8 billion in 1993 while purchases of Treasury bills (re-discounting) dropped marginally from Rs.49.6 billion to Rs.46.9 billion during the same period. In the context of high yield rates in the primary market, the rates in the secondary market remained high during the year. The discount rate for 3 month bills rose from 17.26 per cent at the end of 1992 to 20.67 per cent by mid-September, before declining to 17.84 per cent by the end of 1993. Similarly, the re-discount rate on 3 month bills increased from 18.85 per cent at the end of the previous year to 22.33 per cent by mid September and declined thereafter to 20.84 per cent at the end of 1993.
+
+(c) Repurchase Market for Treasury Bills
+
+The Central Bank commenced the sale of Treasury bills under Repurchase Agreements (RP) in October, 1993. At the inception, the yield on overnight repurchase agreements (repo-rate) was fixed at one per cent less than the weighted average yield on 3-months Treasury bills at the previous week's auction. Subsequently, the yield on overnight repurchase agreements was fixed taking into account inter-bank call money rates and overall liquidity conditions in the market.
+
+The overnight repo rate declined from 17.90 per cent at the end of October to 7 per cent in-mid November following high liquidity conditions in the market. However, with the gradual tightening of liquidity conditions towards the end of the year, the overnight repo rate gradually rose to 15.0 per cent in November and to 16.5 per cent in December, 1993.
+
+Internal Foreign Exchange Market
+
+During the year, the Central Bank continued to operate in the internal foreign exchange market mainly as a spot buyer of US Dollars against Sri Lanka Rupees from commercial banks. The spread between spot buying and selling rates, which was set at 1 per cent in 1992 remained unchanged throughout the year. The spot buying rate rose from Rs.45.77 per US dollar at the end of 1992 to Rs.49.31 per US dollar at the end of 1993 while the spot selling rate increased from Rs.46.23 per US dollar to Rs.49.81 per US dollar during the same period. The Central Bank middle rate stood at Rs.49.56 per US dollar at the end of 1993 in comparison to Rs.46.00 per US dollar at the end of 1992. The spot purchases of the Central Bank rose from US.$.458 million in 1992 to US.$.643 million in 1993 registering an increase of 40 per cent. Meanwhile, spot sales at US.$.20 million reflected a decline of 76 per cent over the previous year's level of US.$.84 million.
+
+The Off-Shore Market
+
+Off-shore banking activities of the Foreign Currency Banking Units (FCBUs) of commercial banks reflected a marginal contraction in 1993 compared to an expansion in the previous year. The total assets/liabilities of the 23 FCBUs operating in the country declined by 3 per cent (Us.$.38 million) to US.$.1,135 million at the end of the year. While advances to non-residents declined by 15 per cent (US.$.84 million) those of residents increased by 6 per cent (US.$.37 million) during the year. The increase in advances to residents category was reflected entirely in advances to enterprises under the purview of Board of Investment (BOI). Meanwhile, the granting of loans to exporters from FCBUs was discontinued in January, 1993 with the progressive transfer of such loans to the domestic units of commercial banks. On the liabilities side, deposit liabilities of non-residents declined by 5 per cent (US.$.34 million) while those of residents decreased by 4 per cent (US.$.16 million) despite an increase of such liabilities of BOI enterprises by 90 per cent (US.$.60 million) during the year.
+
+Certificates of Deposit
+
+During the year, commercial banks were allowed to issue Certificates of Deposit (CDs) with maturities over four years. The outstanding value of CDs issued by commercial banks and finance companies expanded from Rs.4,130 million at the end of 1992 to Rs.5,045 million at the end of
+
+172
+
+1993, recording an increase of 22 per cent. Meanwhile, interest rates paid by commercial banks on CDs varied in the range of 14-21 per cent in 1993 in comparison to a range of 9-22 per cent in the previous year. The rates paid by finance companies on CDs during the year varied between 16 per cent and 22 per cent.
+
+CAPITAL MARKET
+
+The share market was buoyant during 1993 in contrast to depressed conditions in the previous year. Renewed interest by non-nationals in stock trading, the new share issues made by the National Development Bank, Sathosa Motors, Kelani Tyres, Vanik Incorporation Ltd., Seylan Merchant Bank Ltd. etc. and active participation of domestic investors in stock trading were conducive to the upsurge in share market activities during the year.
+
+TABLE 1.75
+
+Share Market Indicators 1990 -1993
+
+1990 1991 1992 1993
+
+1. Market Capitalisation (Rs.Mn.) 36,880 81,084 64,655 123,789
+
+2. Number of New Issues (No.) 1 5 15 12
+
+3. Total Number of Shares Issued (Mn.) 1,099 1,209 1,615 2,355
+
+4. Value of Shares Issued (Rs. Mn.) 10,908 11,640 14,660 n.a.
+
+5. Number of Shares Traded (Mn.) 42 79 88 351
+
+6. Value of Shares Traded (Rs. Mn.) 1,563 4,304 4,969 18,579
+
+7. Price Indices - CSE All as at 31st Dec. 384.39 837.79 605.31 978.97
+
+CSE Sensitive 680.30 1,198.60 826.57 1,442.44
+
+Source : Colombo Stock Exchange.
+
+The buoyant market conditions were reflected in ail market indicators. The All Share Price Index, which registered a decline of 28 per cent (233 points) in the previous year marked a significant growth of 62 per cent (374 points) during 1993. Similarly, the Sensitive Price Index advanced by 75 per cent (615 points) daring the year, in contrast to a drop of 31 per cent (372 points) in 1992. Reflecting these developments, the annual turnover of the share market increased sharply from Rs.4,969 million in 1992 to Rs.18,579 million in 1993. Moreover, the market capitali­zation of the Colombo Stock Exchangexos^frpjn^M^SS million to Rs.123,789 million during the same period registering an increase of 91 per cent. Foiiowing a similar-trend, Jhe number of shares traded in the market grew from 88 million in 1992 to 351 million during 1993.
+
+Primary Share Market
+
+Share issues in the primary market during 1993 were heavily over subscribed. However, the number of new issues and the number and the value of shares issued during the year were lower than in the previous year. There were twelve new issues in 1993 in comparison to 15 in 1992. Meanwhile, the number of shares issued at 49.0 million was substantially lower than 67.0 million shares issued in 1992 and the par value of such shares at Rs.490.5 million reflected a decline from
+
+173
+
+Rs.66£6 million in the previous year. Of the total new issues during the year, the banks, finance and insurance sector accounted for 37 per cent of the total number and 42 per cent of the total value of new issues.
+
+Secondary Share Market
+
+In sharp contrast to the depressed market conditions observed in 1992, the secondary share market reflected a revitalization during 1993. Both the All Share Price Index and the Sensitive Price Index advanced substantially during the year. Accordingly, market capitalisation increased from Rs.64,655 million at the end of 1992 to Rs.123,789 million at the end of 1993. Following a similar trend, the annual turnover expanded substantially from Rs.4,969 million to Rs.18,579 mil­lion during the same period. Meanwhile, the number of shares traded in the market rose from 88 million to 351 million.
+
+The year witnessed active participation of non-nationals in the secondary market transactions. The non-nationals' purchases increased from Rs. 1,871 million in 1992 to Rs.9,322 million in 1993 while non-nationals' sales rose from Rs.1,126 million to Rs.6,056 million. The banks, finance and insurance sub-sector continued to record the largest turnover in 1993 accounting for 42 per cent of the total turnover in the market. In terms of the number of shares traded, the food and beverages, and tobacco sector continued to be the leading sub-sector in the market.
+
+Unit Trusts
+
+The number of Unit Trusts (UTs) operating in the country remained at four during 1993. The total net asset value of UTs increased from Rs.l ,943 million at the end of 1992 to Rs.3,566 million
+
+TABLE 1.76
+
+Number of New Share Issues During 1990 -1993 by Type of Investment
+
+Type of Investments 1990 1991 1992 1993
+
+Banks, Finance & Insurance -2 1 3
+
+Beverages, Food & Tobacco --
+
+2 -Chemicals & Pharmaceuticals ----Constructions & Engineering ---Footwear & Textile -
+
+1 1 1
+
+Hotels & Travels -
+
+1 4 4
+
+Investment Trusts ----Land & Property ----Manufacturing 1 1 3 2
+
+Motors ---
+
+1
+
+Oil Palm ---Services _____ — ~~~ --1 -Store & Supplies ----Trading -1 O 1
+
+T O T A L 1 6 15 12
+
+Number of shares offered (Mn.) 7.0 12.1 67.0 49.0
+
+Value of shares offered (at par) (in Rs. Mn.) 70.0 121.5 669.0 490.5
+
+Source: Colombo Stock Exchange.
+
+174
+
+TABLE 1.77
+
+New Share Issues of Companies during 1993
+
+Name of Compay No. of Par Value Premium Value of No. of shares No. of Name of Compay
+
+Shares (Rs.) (Rs.) Shares Subscribed Subscribers
+
+Palm Garden Hotel 2,129,750 10 10 42,595,000 2,129,750 n.a.
+
+Lanka Ceramics 7,500,000 10 15. 187,500,000 7,500,000 n.a.
+
+Browns Beach 2,000,000 10 10 40,000,000 2,000,000 n.a.
+
+Samson International 750.000 10 20 22,500,000 750,000 482
+
+National Development Bank 6,020,000 10 40 301,000,000 6,020,000 12,888
+
+Hunas Falls 375,000 10 06 6,000,000 375,000 8,913
+
+Sathosa Motors 450,000 10 45 24,750,000 450,000 4,288
+
+Richard Peiris Ex. 2,725,000 10 35 122,625,000 2.725.000 3,822
+
+Eden Hotels 7,000,000 10 -70,000,000 7,000,000 5,321
+
+Vanik Incorporation 8,500,000 10 10 170,000,000 8.500,000 44,650
+
+Seylan Merchant 3,800,000 10 05 57,000,000 . 3,800,000 6,200
+
+Kelani Tyres 7,800,000 10 16 202,800,000 7,800,000 n.a.
+
+Source: Colombo Stock Exchange.
+
+TABLE 1.78
+
+Category of Investment
+
+No. of Transactions No. of Shares Value
+
+Banks, Finance & Insurance 74,350 71,093,343 7,862,401,514.50
+
+Beverages, Food & Tobacco. 32,477 77,115,163 1,538,266,405.25
+
+Chemicals & Pharmaceuticals 3,615 2,756,362 162,725,634.00
+
+Construction & Engineering 11,463 27,804,851 1,017,808,652.25
+
+Footware & Textiles 8,716 7,366,004 240,804,034.50
+
+Hotels & Travels 29,503 45,719,119 1,715,849,192.50
+
+Investment Trusts 3,646 4,804,272 866,516,350.00
+
+Land & Property 10,271 22,620,937 484,538,793.25
+
+Manufacturing 40,252 71,487,443 2,753,862,910.75
+
+Motors 5,499 7,195,414 605,581,490.75
+
+Oil Palm 37 9,404 3,978,400.00
+
+Services 2,976 3,984,443 527,112,635.25
+
+Stores & Supplies 1,035 1,501,022 116,335,340.50
+
+Trading 7,900 7,699,932 683,528,805.50
+
+Source: Colombo Stock Exchange.
+
+at the end of 1993 reflecting an increase of 83 per cent during the year. The growth in total assets of UTs was mainly reflected in the Ceybank Unit Trust and the National Equity Fund which accounted for 70 per cent of the total assets of UTs. The impressive growth trend in the share market was conducive to a continuous growth in UTs during the year. Consequently, the share of investments in equities in total assets rose from 37 per cent at the end of 1992 to 64 per cent at the end of 1993. The declining trend in returns on short-term money market instruments, particularly towards the end of the year, and the bullish mn in the share market induced UTs to play an active role in the share market during the year.
+
+176
+
+Category-wise Distribution of Shares Traded in the Secondary Share Market in 1993

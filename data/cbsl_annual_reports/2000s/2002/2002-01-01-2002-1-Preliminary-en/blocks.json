@@ -1,0 +1,4827 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      131.28,
+      130.47,
+      450.42,
+      155.93
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      22.88471221923828
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      192.96,
+      420.97,
+      380.04,
+      436.46
+    ],
+    "text": "A N N U A L R E P O R T",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      13.929824829101562
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      163.2,
+      526.74,
+      407.58,
+      540.14
+    ],
+    "text": "OF THE MONETARY BOARD TO THE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.939848899841309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      187.2,
+      548.34,
+      383.34,
+      561.74
+    ],
+    "text": "HON. MINISTER OF FINANCE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.78201961517334,
+      11.939848899841309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      229.44,
+      673.14,
+      337.92,
+      686.54
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      11.939848899841309
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      256.56,
+      702.15,
+      311.01,
+      727.61
+    ],
+    "text": "2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      22.88471221923828
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      413.89,
+      197.48,
+      426.17
+    ],
+    "text": "ISBN 955-575-089-0",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      431.41,
+      173.04,
+      443.69
+    ],
+    "text": "ISSN 1391-3581",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      75.6,
+      502.22,
+      138.88,
+      512.18
+    ],
+    "text": "Price per copy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.6,
+      520.22,
+      302.04,
+      530.18
+    ],
+    "text": "Counter sales - Rs. 200 per copy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.6,
+      538.46,
+      302.04,
+      548.42
+    ],
+    "text": "Despatch by ordinary mail - Rs. 235 per copy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      87.84,
+      556.46,
+      302.28,
+      566.42
+    ],
+    "text": "Despatch by registered mail - Rs. 250 per copy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.08,
+      597.98,
+      150.27,
+      607.94
+    ],
+    "text": "Despatch abroad",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.56,
+      615.74,
+      374.35,
+      625.7
+    ],
+    "text": "Air mail - US $ 35 per copy (Registered post)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      88.32,
+      633.5,
+      373.15,
+      643.46
+    ],
+    "text": "Sea mail - US $ 20 per copy (Registered post)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      82.32,
+      696.86,
+      222.5,
+      704.68
+    ],
+    "text": "Cover design by Padmanjalie Karunatilleke",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      103.92,
+      716.78,
+      478.83,
+      734.2
+    ],
+    "text": "Printed at the Central Bank Printing Press, 58, Sri Jayewardenepura Mawatha, Rajagiriya and published by the Central Bank of Sri Lanka, 30, Janadhipathi Mawatha, Colombo, 00100.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.64,
+      165.02,
+      231.83,
+      174.98
+    ],
+    "text": "HON. MINISTER OF FINANCE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.64,
+      178.46,
+      205.43,
+      188.42
+    ],
+    "text": "MINISTRY OF FINANCE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.64,
+      191.9,
+      177.09,
+      201.86
+    ],
+    "text": "COLOMBO, 00100.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      244.7,
+      131.4,
+      254.66
+    ],
+    "text": "Dear Sir,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      273.5,
+      488.07,
+      283.46
+    ],
+    "text": "Section 35 of the Monetary Law Act (Chapter 422) requires the Monetary Board of the Central",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.16,
+      290.06,
+      488.43,
+      300.02
+    ],
+    "text": "Bank of Sri Lanka to submit an Annual Report to the Minister of Finance on the state of the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.16,
+      306.62,
+      488.43,
+      316.58
+    ],
+    "text": "economy, the condition of the Central Bank and a review of the policies and measures adopted",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      323.18,
+      488.19,
+      333.14
+    ],
+    "text": "by the Monetary Board, within four months after the end of each financial year. The Fifty Third",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      339.74,
+      487.96,
+      349.7
+    ],
+    "text": "Annual Report of the Monetary Board of the Central Bank, in respect of the year 2002, is submitted",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      356.3,
+      256.05,
+      366.26
+    ],
+    "text": "herewith in fulfilment of this obligation.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.16,
+      409.58,
+      457.8,
+      419.54
+    ],
+    "text": "Yours sincerely,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      368.88,
+      449.42,
+      475.13,
+      459.38
+    ],
+    "text": "A. S. JAYAWARDENA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      400.08,
+      462.86,
+      443.45,
+      472.82
+    ],
+    "text": "Governor",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.16,
+      477.02,
+      198.45,
+      486.98
+    ],
+    "text": "Central Bank of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.16,
+      490.46,
+      197.97,
+      500.42
+    ],
+    "text": "30, Janadhipathi Mawatha",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.831931114196777,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.16,
+      503.9,
+      162.93,
+      513.86
+    ],
+    "text": "Colombo, 00100.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      92.4,
+      541.82,
+      152.02,
+      551.78
+    ],
+    "text": "30 April 2003",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      139.2,
+      88.47,
+      453.22,
+      113.93
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      22.88471221923828,
+      23.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      226.32,
+      137.9,
+      353.72,
+      147.86
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      233.04,
+      150.86,
+      346.99,
+      160.82
+    ],
+    "text": "(As at 31 December 2002)",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      240.72,
+      172.28,
+      338.45,
+      180.36
+    ],
+    "text": "A. S. J A Y A W A R D E N A",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      269.28,
+      185.42,
+      306.65,
+      195.38
+    ],
+    "text": "Governor",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.68,
+      205.64,
+      349.55,
+      213.69
+    ],
+    "text": "J . C H A R I T H A R A T W A T T E",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.799941062927246,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      215.04,
+      218.78,
+      363.94,
+      228.74
+    ],
+    "text": "Secretary to the Ministry of Finance",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      250.08,
+      238.76,
+      329.31,
+      246.81
+    ],
+    "text": "C. C H A N M U G A M",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      249.12,
+      251.9,
+      329.71,
+      261.86
+    ],
+    "text": "Appointed Member",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.76,
+      275.18,
+      303.14,
+      285.14
+    ],
+    "text": "Principal Officers as at 31 December 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      299.42,
+      331.39,
+      309.38
+    ],
+    "text": "P. M . NAGAHAWATTE - Deputy Governor",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.52,
+      311.66,
+      331.39,
+      321.62
+    ],
+    "text": "W . A . WlJEWARDENA - Deputy Governor",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.099396705627441,
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      326.54,
+      393.43,
+      360.74
+    ],
+    "text": "Ms C . ABEYNAYAKE - Assistant to the Governor and Secretary to the Monetary Board D. BOYAGODA - Assistant to the Governor",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393,
+      8.8140287399292,
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      363.02,
+      415.1,
+      372.98
+    ],
+    "text": "R. A . JAYATISSA - Assistant to the Governor (on release)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      375.02,
+      454.7,
+      384.98
+    ],
+    "text": "MRS. M . A . R. C. COORAY - Assistant to the Governor (oh part time release)",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.0190582275390625,
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      386.9,
+      363.79,
+      396.98
+    ],
+    "text": "MRS. R. JAYAMAHA - Assistant to the Governor",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.847463607788086,
+      7.961007595062256,
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      429.74,
+      252.64,
+      439.7
+    ],
+    "text": "Bank Supervision Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      444.11,
+      330.94,
+      453.19
+    ],
+    "text": "MRS. P. P. SIRISENA - Director",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.54692268371582,
+      7.569449424743652,
+      8.300030708312988,
+      8.538261413574219
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      457.82,
+      217.36,
+      467.78
+    ],
+    "text": "Currency Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      471.5,
+      356.9,
+      481.46
+    ],
+    "text": "MRS. C. M . ARIYARATNE - Superintendent",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.0190582275390625,
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719,
+      9.22225570678711
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      485.18,
+      266.56,
+      495.14
+    ],
+    "text": "Domestic Operations Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      118.8,
+      497.18,
+      330.91,
+      507.14
+    ],
+    "text": "D . S. WlJESINGHE - Director",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      512.3,
+      260.56,
+      522.26
+    ],
+    "text": "Economic Research Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      525.02,
+      330.91,
+      534.98
+    ],
+    "text": "A . G . KARUNASENA - Director",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.079873561859131,
+      7.163909435272217,
+      7.377804279327393,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      540.14,
+      296.56,
+      550.1
+    ],
+    "text": "Employees' Provident Fund Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      554.6,
+      174.05,
+      562.65
+    ],
+    "text": "N . J. PERERA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      567.98,
+      253.84,
+      577.94
+    ],
+    "text": "Exchange Control Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      581.48,
+      225.1,
+      589.56
+    ],
+    "text": "H . A. G . HETTIARACHCHI",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      596.06,
+      209.92,
+      606.02
+    ],
+    "text": "Finance Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      610.52,
+      205.25,
+      618.6
+    ],
+    "text": "D. L . KATUWAWALA",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      623.0,
+      274.79,
+      631.05
+    ],
+    "text": "K. JEGANATHAN -",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      636.38,
+      254.56,
+      646.34
+    ],
+    "text": "Human Resources Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      651.8,
+      193.42,
+      659.88
+    ],
+    "text": "M. A. NANDASIRI",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      665.42,
+      228.4,
+      675.38
+    ],
+    "text": "Information Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      679.64,
+      226.6,
+      687.72
+    ],
+    "text": "J. M. T . B. JAYASUNDARA",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.799941062927246,
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      691.64,
+      179.33,
+      699.72
+    ],
+    "text": "H . D. TISSERA",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.28,
+      704.78,
+      281.2,
+      714.74
+    ],
+    "text": "Information Technology Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      119.04,
+      719.48,
+      197.9,
+      727.56
+    ],
+    "text": "P. D. J. FERNANDO",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.163909435272217,
+      7.377804279327393
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.76,
+      552.86,
+      352.43,
+      562.82
+    ],
+    "text": "Superintendent",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294.48,
+      580.7,
+      334.83,
+      590.66
+    ],
+    "text": "Controller",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.28,
+      609.02,
+      411.14,
+      630.98
+    ],
+    "text": "Chief Accountant Additional Chief Accountant",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      294.0,
+      649.1,
+      326.91,
+      659.06
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.76,
+      677.42,
+      326.67,
+      687.38
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.52,
+      701.66,
+      404.83,
+      711.62
+    ],
+    "text": "Acting Additional Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      293.76,
+      729.5,
+      326.67,
+      739.46
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.48,
+      64.94,
+      278.08,
+      74.9
+    ],
+    "text": "International Operations Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.48,
+      78.14,
+      324.91,
+      100.34
+    ],
+    "text": "Y . M . W . B. WEERASEKERA - Director Legal Department",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.72,
+      104.75,
+      325.15,
+      113.83
+    ],
+    "text": "MRS. S. KADURUGAMUWA - Director",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.199438095092773,
+      7.598474025726318,
+      8.059398651123047,
+      8.495352745056152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.72,
+      118.22,
+      254.08,
+      128.18
+    ],
+    "text": "Management Audit Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      133.07,
+      326.54,
+      142.15
+    ],
+    "text": "W . M . J. RATNAPRIYA - Director",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.199438095092773,
+      7.598474025726318,
+      8.059398651123047,
+      8.495352745056152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      146.54,
+      263.79,
+      156.5
+    ],
+    "text": "Management Development Centre",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      160.57,
+      353.95,
+      170.66
+    ],
+    "text": "MRS. C. K. NANAYAKKARA - Acting Director",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.955103874206543,
+      7.999374866485596,
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      174.86,
+      362.8,
+      184.82
+    ],
+    "text": "Non-Bank Financial Institutions Supervision Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      189.71,
+      325.39,
+      198.79
+    ],
+    "text": "MRS. L . K. GUNATILAKE - Director",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.199438095092773,
+      7.598474025726318,
+      8.495352745056152
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      203.18,
+      276.16,
+      213.14
+    ],
+    "text": "Payments & Settlements Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      114.96,
+      218.93,
+      235.7,
+      226.87
+    ],
+    "text": "MRS. K. R. M . SIRIWARDENA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.44,
+      231.5,
+      210.4,
+      241.46
+    ],
+    "text": "Premises Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.2,
+      245.81,
+      198.5,
+      253.75
+    ],
+    "text": "L. Y . DHARMASENA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.44,
+      259.58,
+      222.4,
+      269.54
+    ],
+    "text": "Public Debt Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.44,
+      273.89,
+      230.09,
+      281.83
+    ],
+    "text": "K. G . D . D. DHEERASINGHE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.44,
+      286.85,
+      194.9,
+      294.79
+    ],
+    "text": "H . N . THENUWARA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.68,
+      299.18,
+      268.72,
+      309.14
+    ],
+    "text": "Regional Development Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.68,
+      314.69,
+      202.49,
+      322.63
+    ],
+    "text": "M . M . ATTANAYAKE",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.68,
+      327.02,
+      219.76,
+      336.98
+    ],
+    "text": "Secretariat Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.68,
+      342.53,
+      199.07,
+      350.47
+    ],
+    "text": "W . S. L . FERNANDO",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.92,
+      354.86,
+      245.92,
+      364.82
+    ],
+    "text": "Security Services Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.92,
+      370.37,
+      207.62,
+      378.31
+    ],
+    "text": "G A M I N I ANGAMMANA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      115.92,
+      382.7,
+      211.36,
+      392.66
+    ],
+    "text": "Statistics Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.16,
+      398.21,
+      249.05,
+      406.15
+    ],
+    "text": "MRS. ANILA D . BANDARANAIKE",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.16,
+      410.54,
+      254.79,
+      420.5
+    ],
+    "text": "The Centre for Banking Studies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.4,
+      426.05,
+      185.17,
+      433.99
+    ],
+    "text": "K. JEGANATHAN",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.4,
+      439.49,
+      176.7,
+      447.43
+    ],
+    "text": "H . D . TlSSERA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.4,
+      452.54,
+      211.12,
+      462.5
+    ],
+    "text": "Training Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.4,
+      467.33,
+      229.94,
+      475.27
+    ],
+    "text": "MRS. C. K. NANAYAKKARA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.88,
+      480.86,
+      208.0,
+      490.82
+    ],
+    "text": "Welfare Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.88,
+      495.41,
+      196.1,
+      503.35
+    ],
+    "text": "MRS. P. T . PERERA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      116.88,
+      509.33,
+      212.9,
+      517.27
+    ],
+    "text": "C. K. PARANAVITHANA",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.12,
+      522.86,
+      258.99,
+      532.82
+    ],
+    "text": "Heads of Department on Release",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.12,
+      535.73,
+      210.54,
+      543.67
+    ],
+    "text": "U . VlDANAPATHIRANA",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.06441068649292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.36,
+      549.26,
+      170.03,
+      559.22
+    ],
+    "text": "Consultants",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.12,
+      563.57,
+      188.75,
+      571.53
+    ],
+    "text": "M . E. De ABREW",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.36,
+      575.57,
+      194.66,
+      583.53
+    ],
+    "text": "G . G . D . De SILVA",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.36,
+      587.57,
+      211.87,
+      595.51
+    ],
+    "text": "G . USWATTE-ARATCHI",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.6,
+      599.81,
+      185.41,
+      607.75
+    ],
+    "text": "G . WEERAKOON",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.06441068649292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.6,
+      611.81,
+      218.33,
+      619.75
+    ],
+    "text": "H . A . P. ABEYWARDENE",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.660390377044678,
+      7.06441068649292,
+      7.446542739868164
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      117.6,
+      623.57,
+      228.3,
+      631.51
+    ],
+    "text": "WlCKREMA WEERASOOR1A",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.06441068649292
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      288.0,
+      215.42,
+      354.19,
+      225.38
+    ],
+    "text": "Acting Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      288.48,
+      243.74,
+      354.43,
+      253.7
+    ],
+    "text": "Acting Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      288.48,
+      271.82,
+      425.06,
+      293.78
+    ],
+    "text": "Superintendent and Registrar Acting Additional Superintendent",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.2,
+      312.14,
+      322.11,
+      322.1
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.44,
+      340.46,
+      326.31,
+      350.42
+    ],
+    "text": "Secretary",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.44,
+      368.78,
+      322.35,
+      378.74
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.68,
+      397.1,
+      322.59,
+      407.06
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.92,
+      425.42,
+      322.83,
+      435.38
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.44,
+      453.74,
+      400.27,
+      463.7
+    ],
+    "text": "Acting Additional Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      290.16,
+      481.82,
+      323.07,
+      491.78
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      290.4,
+      509.9,
+      323.31,
+      519.86
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      289.92,
+      523.34,
+      371.95,
+      533.3
+    ],
+    "text": "Additional Director",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      290.64,
+      561.5,
+      418.31,
+      631.7
+    ],
+    "text": "Engineering Services Legal Economics and Public Finance Labour Central Bank Heritage Project Financial Sector, Law Reforms",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.439279556274414
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      303.12,
+      657.74,
+      338.5,
+      667.7
+    ],
+    "text": "Auditor",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      282.24,
+      671.33,
+      360.65,
+      691.7
+    ],
+    "text": "S. C. MAYADUNNE Auditor General",
+    "fonts": [
+      "Helvetica",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.06441068649292,
+      7.446542739868164,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      259.44,
+      51.54,
+      329.96,
+      65.93
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.76,
+      71.94,
+      525.22,
+      86.36
+    ],
+    "text": "PART I P a g e",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      4.527193069458008,
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.48,
+      93.5,
+      525.45,
+      393.86
+    ],
+    "text": "1. ECONOMIC PERFORMANCE, OUTLOOK, ISSUES AND POLICIES ... ... 1 1.1 Introduction ... ... ... 1 1.2 International Environment ... ... ... 12 1.3 Output Growth and Sectoral Performance ... ... ... 13 Agriculture ... ... ... 15 Industry ... ... ... 17 Services ... ... .;. 20 1.4 Consumption, Savings and Investment ... ... ... 23 1.5 Prices ... ... 25 1.6 Wages ... ... ... 26 1.7 Population, Labour Force and Employment ... 26 1.8 Fiscal Policy, Budgetary Operations and Public Debt ... ... 28 1.9 Trade, Tourism and Balance of Payments ... ... 35 1.10 Financial Sector ... ... 39 Monetary Policy ... ... ... 39 Money Supply ... ... ... 43 Interest Rates ... ... ... 43 Capital Market ... ... ... 44 Other Developments ... ... ... 44 1.11 Economic Outlook for 2003 and Medium-Term Prospects ... ... 45 Global Economic Prospects for 2003 ... ... ... 45 Sri Lanka's Economic Outlook for 2003 ... ... ... 46 Medium-Term Macroeconomic Prospects ... ... ... 48 1.12 Economic Issues and Policies ... ... ... 50",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.92943286895752,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      60.0,
+      402.38,
+      525.31,
+      513.14
+    ],
+    "text": "2. NATIONAL INCOME AND EXPENDITURE ... ... ... 68 2.1 Overall Trends ... ... ... 68 2.2 Sectoral Performance ... ... ... 73 Agriculture Sector ... ... ... 74 Industry Sector ... ... ... 75 Services Sector ... ... ... 76 2.3 Expenditure ... ... ... 77 2.4 Availability and Utilisation of Resources ... ... ... 81 2.5 Domestic and National Savings ... ... \u2022\u2022\u2022 81",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800508499145508,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      59.76,
+      521.42,
+      525.54,
+      719.78
+    ],
+    "text": "3. AGRICULTURE, FISHING AND FORESTRY ... ... ... 83 3.1 Overall Trends ... ... ... 83 3.2 Agricultural Policy and Institutional Support ... ... ... 83 3.3 Export Crops ... ... ... 86 Tea ... ... ... 86 Rubber ... ... ... 87 Coconut ... ... ... 88 Other Export Crops ... ... ... 89 3.4 Domestic Agriculture ... ... ... 91 Paddy ... ... ... 91 Other Field Crops ... ... ... 92 Fruits and Vegetables ... ... ... 92 Sugar ... ... ... 93 3.5 Fish and Livestock ... ... ... 94 Fish ... ... ... 94 Livestock ... ... ... 94",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.56902027130127,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      68.88,
+      69.5,
+      117.26,
+      79.46
+    ],
+    "text": "3.6 Inputs",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.36,
+      81.02,
+      165.68,
+      125.78
+    ],
+    "text": "Fertiliser Seed Agro-Chemicals 3.7 Forestry",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      48.24,
+      133.82,
+      106.5,
+      143.78
+    ],
+    "text": "4. INDUSTRY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.821560859680176,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      69.6,
+      145.34,
+      148.94,
+      167.06
+    ],
+    "text": "4.1 Overall Trends 4.2 Production",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      105.6,
+      168.86,
+      215.18,
+      190.34
+    ],
+    "text": "Private Sector Industries Performance in Major Sectors",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      70.56,
+      192.14,
+      299.9,
+      284.66
+    ],
+    "text": "Food, beverages and tobacco products ... Chemicals, petroleum, rubber and plastic products Non-metallic mineral products Fabricated metal products Other products Public Sector Industries 4.3 Value Addition and Capacity Utilisation 4.4 Cost of Production, Profitability and Employment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.04,
+      286.22,
+      221.88,
+      319.94
+    ],
+    "text": "Labour Productivity in Industry Employment 4.5 Investment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.28,
+      321.74,
+      275.74,
+      367.22
+    ],
+    "text": "Foreign Investment Local Investment 4.6 Availability of Credit to the Industrial Sector ... 4.7 Industrial Policy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      71.52,
+      368.78,
+      229.93,
+      390.5
+    ],
+    "text": "Incentives to the Industrial Sector 4.8 Industrial Location",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      50.88,
+      396.14,
+      223.26,
+      406.1
+    ],
+    "text": "5. ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.818989753723145,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.0,
+      408.14,
+      134.27,
+      441.62
+    ],
+    "text": "5.1 Overview 5.2 Health 5.3 Education",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.48,
+      443.18,
+      270.72,
+      488.66
+    ],
+    "text": "General Education Higher Education Technical Education and Vocational Training 5.4 Communications Services",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.48,
+      490.46,
+      183.79,
+      523.94
+    ],
+    "text": "Telecommunications Postal Services 5.5 Energy",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      72.72,
+      525.74,
+      150.83,
+      570.5
+    ],
+    "text": "Electricity Petroleum LP Gas 5.6 Transportation",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.44,
+      572.3,
+      222.62,
+      663.86
+    ],
+    "text": "Roads Passenger Transportation Road Passenger Transportation Railway Transportation Civil Aviation Port Services 5.7 irrigation and Settlement Schemes 5.8 Special Programmes",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.92,
+      665.66,
+      190.41,
+      722.9
+    ],
+    "text": "Housing Urban Development Water Supply Samurdhi Programme 5.9 Environment",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      508.56,
+      54.86,
+      529.1,
+      64.82
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      71.9,
+      158.34,
+      81.86
+    ],
+    "text": "6. PRICES AND WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.12,
+      83.66,
+      142.47,
+      105.62
+    ],
+    "text": "6.1 Overview 6.2 Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      107.18,
+      299.35,
+      198.5
+    ],
+    "text": "Colombo Consumers' Price Index (CCPI) ... Greater Colombo Consumers' Price Index (GCPI) Colombo District Consumer Price Index (CDCPI) Sri Lanka Consumers' Price Index (SLCPI) Wholesale Price Index Region-wise Inflation Rates Regional Price Variations 6.3 Wages",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      8.966412544250488,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      117.12,
+      200.06,
+      203.73,
+      233.06
+    ],
+    "text": "Public Sector Formal Private Sector Informal Private Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      239.9,
+      288.0,
+      249.86
+    ],
+    "text": "7. POPULATION, LABOUR FORCE AND EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      251.66,
+      184.0,
+      319.94
+    ],
+    "text": "7.1 Overview 7.2 Population 7.3 Labour Force 7.4 Employment 7.5 Unemployment 7.6 Foreign Employment",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.72,
+      326.54,
+      273.06,
+      336.5
+    ],
+    "text": "8. FISCAL POLICY AND BUDGETARY OPERATIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      338.06,
+      214.96,
+      371.3
+    ],
+    "text": "8.1 Overview and Policy Strategy 8.2 Budget Outturn 8.3 Revenue",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.84,
+      373.1,
+      183.87,
+      406.34
+    ],
+    "text": "Tax Revenue Non Tax Revenue 8.4 Expenditure",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      407.9,
+      225.03,
+      452.9
+    ],
+    "text": "Current Expenditure Public Investment Advance Account Operations 8.5 Provincial Councils",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.36,
+      454.7,
+      228.63,
+      510.98
+    ],
+    "text": "Revenue Expenditure Central Government Transfers 8.6 Public Enterprise Reform 8.7 Financing of the Deficit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      81.6,
+      512.54,
+      199.59,
+      568.58
+    ],
+    "text": "Domestic Borrowing Foreign Borrowing Foreign Grants Privatisation Proceeds 8.8 Government Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      117.36,
+      570.14,
+      203.19,
+      614.66
+    ],
+    "text": "Domestic Debt Foreign Debt Debt Service Payments Public Sector Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      621.5,
+      276.71,
+      631.46
+    ],
+    "text": "9. TRADE, BALANCE OF PAYMENTS AND TOURISM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      80.64,
+      633.26,
+      188.31,
+      654.74
+    ],
+    "text": "9.1 Overall Developments 9.2 Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      117.12,
+      656.3,
+      219.64,
+      723.86
+    ],
+    "text": "Export Structure Industrial Exports Agriculture Exports Plantation Crops Other Agricultural Products Mineral Products",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      514.08,
+      71.42,
+      529.51,
+      231.14
+    ],
+    "text": "143 143 143 146 147 148 148 149 150 151 155 155 155 156",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      514.08,
+      239.42,
+      529.48,
+      318.5
+    ],
+    "text": "157 157 160 161 161 164 165",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      513.6,
+      325.82,
+      530.02,
+      612.26
+    ],
+    "text": "167 167 176 179 179 182 182 183 190 191 191 191 191 192 193 194 194 195 196 196 196 1% 198 198 202",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.895715713500977,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      513.36,
+      620.3,
+      529.61,
+      722.42
+    ],
+    "text": "204 204 207 207 207 209 209 210 210",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      490.56,
+      51.74,
+      511.1,
+      61.7
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      65.76,
+      70.46,
+      513.79,
+      389.06
+    ],
+    "text": "9.3 Imports ... \u2022\u2022\u2022 211 Import Structure ... ... \u2022\u2022\u2022 211 Consumer Goods ... ... \u2022\u2022\u2022 211 Intermediate Goods ... - 212 Investment Goods ... \u2022\u2022\u2022 \u2022\u2022\u2022 212 Direction of Trade ... ... \u2022\u2022\u2022 212 9.4 Services and Income ... \u2022\u2022\u2022 213 9.5 Current Transfers ... ... \u2022\u2022\u2022 214 9.6 Capital Movements ... \u2022\u2022\u2022 \u2022\u2022\u2022 215 Long-Term Capital ... ... ... 215 Short-Term Capital ... ... - 217 9.7 Foreign Exchange Market Developments ... ... ... 217 The Forward Exchange Market ... ... ... 218 9.8 External Assets ... \u2022\u2022\u2022 218 9.9 External Debt ... \u2022\u2022\u2022 220 9.10 Debt Service Payments ... ... \u2022\u2022\u2022 220 9.11 External Trade Environment and Policy ... ... ... 222 Tariff and Taxes on External Trade ... ... ... 222 Import and Export Controls ... ... \u2022\u2022\u2022 224 Textiles and Garment Quota Allocation ... ... ... 224 Incentives to Exporters ... ... 225 Institutional Support to Exporters ... ... 225 Freight Rates ... ... 228 9.12 Trade Relations, Trading and Clearing Arrangements ... ... 229 9.13 Internal Trade and Institutional Arrangements ... ... ... 230 9.14 Tourism ... ... \u2022\u2022\u2022 231",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      48.0,
+      397.58,
+      515.91,
+      714.74
+    ],
+    "text": "10. FINANCIAL SECTOR ... ... ... 234 10.1 Monetary Policy ... ... ... 234 10.2 Money and Credit Aggregates ... ... \u2022\u2022\u2022 235 Reserve Money ... ... .' ... 235 Money Supply ... ... \u2022\u2022\u2022 235 10.3 Financial Survey ... ... \u2022\u2022\u2022 238 10.4 Interest Rates ... ... ... 239 Central Bank Policy Rates ... ... 239 Short-Term Rates ... ... ... 240 Deposit and Lending Rates ... ... ... 241 Rates on Medium and Long-Term Government Paper ... 242 Rates on Corporate Debt Securities ... ... ... 242 The Legal Rate and the Market Rate ... ... ... 243 10.5 Commercial Banking ... ... ... 243 Structure of Assets and Liabilities of Commercial Banks ... ... 244 Domestic Banking Units ... ... ... 244 Foreign Currency Banking Units ... ... ... 245 Sources and Users of Funds of Domestic Units of Commercial Banks ... 245 Commercial Banks'Loans and Advances ... ... 246 10.6 Central Banking ... ... ... 247 Structure of Assets and Liabilities of the Central Bank ... ... 247 Development of Payment and Settlement Systems ... ... 248 10.7 Banking Development ... ... .... 248 Branch Expansion ... ... ... 250 Banking Facilities ... ... ... 250 10.8 Credit Information Bureau of Sri Lanka ... ... 250",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.836515426635742,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      508.56,
+      56.54,
+      529.1,
+      66.5
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      530.54,
+      97.72,
+      540.5
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      551.9,
+      523.87,
+      561.86
+    ],
+    "text": "ACCOUNTS AND OPERATIONS OF THE CENTRAL BANK OF SRI LANKA ... (I) - (LXIII)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.24,
+      576.14,
+      101.32,
+      586.1
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      600.38,
+      526.32,
+      610.34
+    ],
+    "text": "MAJOR ADMINISTRATIVE MEASURES ADOPTED BY THE MONETARY BOARD EST 2002 (i) - (lxxxix)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      624.62,
+      523.86,
+      660.02
+    ],
+    "text": "PART IV MAJOR LEGISLATIVE ENACTMENTS OF 2002 RELATING TO THE FUNCTIONS AND OPERATIONS OF THE CENTRAL BANK AND BANKING rNSTTrUTIONS IN SRI LANKA ... I - LXV STATISTICAL APPENDIX",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.96,
+      667.82,
+      217.32,
+      677.78
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      82.08,
+      72.86,
+      529.77,
+      504.5
+    ],
+    "text": "10.9 Rural Banking and Credit ... ... ... 253 Overall Trends and Developments ... 253 Forward Sales Contract System (Govi Sahanaya) ... 254 New Comprehensive Rural Credit Scheme (NCRCS) ... ... 254 Crop Insurance Schemes ... ... ... 254 Micro Finance Schemes ... ... ... 256 National Development Trust Fund ... ... 257 10.10 Other Financial Institutions ... 258 Savings Institutions ... ... ... 258 Contractual Savings Institutions ... ... 258 Long-Term Lending Institutions ... ... 259 Finance Companies ... ... ... 260 10.11 Specialised Financial Institutions ... ... 260 Merchant Banking ... 260 Leasing Companies ... ... ... 261 Venture Capital Companies ... ... 261 Insurance Companies ... ... ... 261 10.12 Financial Markets ... ... 262 Money and Foreign Exchange Markets ... ... 262 Inter-Bank Call Money Market ... 262 Primary Treasury Bill Market ... ... ... 262 Central Bank Repo Market ... ... ... 263 Central Bank Reverse Repo Market ... ... 263 Central Bank Discount and Rediscount Market for Treasury Bills 263 Domestic Foreign Exchange Market ... ... 266 Commercial Paper ... ... ... 266 Sri Lanka Development Bonds ... ... ... 267 Treasury Bonds ... ... ... 267 Rupee Loans ... ... 267 Unit Trusts ... ... ... 268 10.13 Capital Market ... ... ... 268 Primary Market ... ... 269 Secondary Market ... ... ... 269 Developments in the Market ... ... ... 270 Regional and Major International Stock Markets ... 271 Credit Rating ... ... ... 271",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      223.2,
+      54.76,
+      330.52,
+      66.94
+    ],
+    "text": "PART I - TABLES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.4,
+      90.38,
+      359.82,
+      100.34
+    ],
+    "text": "1. ECONOMIC PERFORMANCE, OUTLOOK, ISSUES AND POLICIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.92943286895752,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.28,
+      102.62,
+      302.78,
+      209.06
+    ],
+    "text": "LI Selected Macroeconomic Indicators 1.2 Overview of the World Economic Outlook Projections 1.3 Growth in Gross National Product at Constant (1996) Prices 1.4 Gross Domestic Product at Current Factor Cost Prices 1.5 Summary of Government Fiscal Operations 1.6 External Sector Indicators 1.7 Financial Statistics 1.8 Medium-Term Macroeconomic Indicators 1.9 IDA Base Case Lending Programme FY03-FY06",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.16,
+      216.86,
+      252.51,
+      226.82
+    ],
+    "text": "2. NATIONAL INCOME AND EXPENDITURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800508499145508,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.28,
+      228.62,
+      404.06,
+      286.58
+    ],
+    "text": "2.1 Sectoral Composition and Increase in Gross Domestic Product at Constant (1996) Prices 2.2 Composition of the Other Agriculture Sub Sector.. 2.3 Aggregate Demand 2.4 Total Resources and Their Uses at Constant (1996) Prices 2.5 National Savings at Current Market Prices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.88,
+      294.62,
+      256.98,
+      304.58
+    ],
+    "text": "3. AGRICULTURE, FISHING AND FORESTRY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.56902027130127,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      65.76,
+      306.62,
+      297.74,
+      424.34
+    ],
+    "text": "3.1 Production and Price Changes of Major Agricultural Items 3.2 Statistics of the Tea Sector 3.3 Statistics of the Rubber Sector 3.4 Statistics of the Coconut Sector 3.5 Production of Other Export Crops 3.6 Statistics of the Paddy Sector 3.7 Statistics of the Sugar Sector 3.8 Fish Production 3.9 Fertiliser Usage by Crops 3.10 Statistics on the Forestry Sector",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      44.88,
+      432.62,
+      109.38,
+      442.58
+    ],
+    "text": "4. INDUSTRY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.821560859680176,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.0,
+      444.38,
+      367.4,
+      609.86
+    ],
+    "text": "4.1 Value of Industrial Production 4.2 Private Sector Industrial Production Index 4.3 Value of Industrial Production 4.4 Public Sector Major Industry Output Index 4.5 Value Added in Industry 4.6 Ex-Factory Profit Ratios of Non-BOI Private Sector Industries 4.7 Domestic Cost Structure of Non-BOI Private Sector Industries 4.8 Labour Productivity Index in the Non-BOI Private Sector 4.9 Employment in Non-BOI Private Sector Industries 4.10 Realised Investments in BOI Enterprises 4.11 Employment and Export Earnings of BOI Enterprises 4.12 Approved and Contrancted Investment and Employment in BOI Projects 4.13 Enterprises in Commercial Operation under BOI 4.14 Financial Assistance to the Industrial Sector by NDB and DFCC Bank - 2002",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      46.08,
+      618.14,
+      218.46,
+      628.1
+    ],
+    "text": "5. ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.818989753723145,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      67.44,
+      630.14,
+      236.49,
+      723.86
+    ],
+    "text": "5.1 Government Investment in Infrastructure 5.2 Public Health Services 5.3 Performance of Private Hospitals 5.4 General and University Education 5.5 Telecommunications and Postal Services 5.6 Performance of the Power Sector 5.7 Performance of the Petroleum Sector 5.8 Salient Features of the Transport Sector",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      500.16,
+      55.1,
+      520.7,
+      65.06
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73.2,
+      73.82,
+      520.7,
+      108.5
+    ],
+    "text": "5.9 Performance of the Port Services ... ... ... 137 5.10 Public Sector Housing Programme ... ... ... 138 5.11 Samurdhi Welfare Programme ... ... ... 141",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      52.32,
+      116.78,
+      165.3,
+      126.74
+    ],
+    "text": "6. PRICES AND WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.96,
+      129.26,
+      521.06,
+      275.3
+    ],
+    "text": "6.1 Annual Average Price Changes ... ... ... 143 6.2 Administered Price Revisions in 2002 ... ... ... 145 6.3 Colombo Consumers' Price Index ... ... 147 6.4 Greater Colombo Consumers'Price Index ... ... ... 147 6.5 Colombo District Consumer Price Index ... ... ... 148 6.6 Sri Lanka Consumers'Price Index ... ... ... 149 6.7 Wholesale Price Index ... ... 150 6.8 District-wise Consumer Price Indices ... ... ... 151 6.9 Retail Prices of Selected Food Items ... ... ... 151 6.10 Average Retail Prices of Selected Food Items in Selected Markets in 2001 and 2002 ... 151 6.11 Average Retail Prices of Selected Food Items - Difference from Colombo and Dambulla 152 6.12 Wage Rate Index Numbers ... ... ... 155",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      52.08,
+      283.1,
+      314.55,
+      293.06
+    ],
+    "text": "7. POPULATION, LABOUR FORCE AND EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      72.96,
+      295.82,
+      521.23,
+      416.66
+    ],
+    "text": "7.1 Population by District ... ... ... 160 7.2 Labour Force Participation ... ... 161 7.3 Status of Employment ... ... ... 162 7.4 Employment by Economic Activity ... ... ... 162 7.5 Public Sector Employment ... ... ... 163 7-6 Changaes in Public Sector Employment ... ... ... ' 163 7.7 Unemployment Rate ... ... ... 164 7.8 Unemployment Rate by Age Groups ... ... ... 164 7.9 Unemployment Rate by Level of Education ... ... ... 165 7.10 Foreign Employment ... ... 166",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      52.8,
+      424.94,
+      298.02,
+      434.9
+    ],
+    "text": "8. FISCAL POLICY AND BUDGETARY OPERATIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73.68,
+      437.42,
+      521.55,
+      533.78
+    ],
+    "text": "8.1 Summary of Government Fiscal Operations ... ... ... 177 8.2 Economic Classification of Revenue by Component ... ... 180 8.3 Economic Classification of Expenditure and Lending minus Repayment ... 184 8.4 Functional Classification of Expenditure ... ... ... 189 8.5 Budget Outturn for Provincial Councils ... ... ... 192 8.6 Outstanding Central Government Debt ... ... ... 197 8.7 Government Debt Service Payments ... ... \u2022\u2022 202 8.8 Government Debt Indicators ... ... ... 203",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      52.8,
+      542.06,
+      302.63,
+      552.02
+    ],
+    "text": "9. TRADE, BALANCE OF PAYMENTS AND TOURISM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      73.68,
+      554.3,
+      521.92,
+      711.86
+    ],
+    "text": "9.1 Balance of Payments Analytic Presentation ... ... ... 205 9.2 External Trade Performance ... ... ... 206 9.3 Composition of Exports ... ... \u2022\u2022\u2022 208 9.4 End-Use Classification of Imports ... ... - 211 9.5 Volume of Major Imports ... ... - 212 9.6 Net Services, Income and Transfers ... ... \u2022\u2022\u2022 214 9.7 Major Projects Financed by Foreign Lending during 2002 ... ... 216 9.8 Exchange Rate Movements ... ... - 218 9.9 External Assets of Sri Lanka ... ... ... 220 9.10 Outstanding External Debt and Banking Sector External Liabilities ... ... 221 9.11 External Debt Service Payments ... ... ... 222 9.12 Average Import Duty Collection Rate ... ... ... 223 9.13 Tourism Statistics 2000-2002 ... ... ... 233",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      498.48,
+      57.91,
+      516.74,
+      66.77
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      53.28,
+      76.22,
+      154.31,
+      86.18
+    ],
+    "text": "10. FINANCIAL SECTOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.836515426635742,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      74.16,
+      88.22,
+      520.53,
+      447.38
+    ],
+    "text": "10.1 Summary Monetary Statistics ... ... ... 235 10.2 Monetary Aggregates: 2001 - 2002 ... ... ... 236 10.3 Monetary Aggregates and Underlying Factors: 2000 - 2002 ... ... 237 10.4 Summary Statistics of Financial Survey (M4) ... ... ... 239 10.5 Changes in Policy Interest Rates of the Central Bank ... ... 240 10.6 Sri Lanka Inter-bank Offered Rates (SLIBOR)... ... ... 240 10.7 Selected Assets and Liabilities of Commercial Banks ... ... 244 10.8 Sources and Users of Resources of Commercial Banks: 2001 - 2002 246 10.9 Sectoral Distribution of Commercial Banks'Loans and Advances ... ... 247 10.10 Major Payment Systems ... ... ... 248 10.11 New Commercial Banking Facilities-2002 ... ... ... 249 10.12 Distribution of Bank Branches ... ... ... 250 10.13 Credit Cards Issued by Commercial Banks ... ... 250 10.14 Cultivation Loans Granted Under the New Comprehensive Rural Credit Scheme 253 10.15 Savings Mobilised and Advances - Selected Rural Sector Institutions ... 254 10.16 Forward Sales Contracts - 2002 ... ... ... 255 10.17 Performance of Selected Microfinance Institutions/Schemes: 2002 .. ... 256 10.18 Performance of the National Development Trust Fund (NDTF) - Microfinance Component 258 10.19 Purposewise Classification of Loans Approved by Long-Term Credit Institutions ... 259 10.20 Assets and Liabilities of Registered Finance Companies ... ... 260 10.21 Progress of Activities of Merchant Banks ... ... ... 261 10.22 Specialised Leasing Companies-Sector Analyses of Leasing Facilities ... 261 10.23 Money Market Operations: 2000 - 2002 ... ... ... 263 10.24 Treasury Bond Issues during 2002 ... ... ... 267 10.25 Rupee Loans Floated during 2002 ... ... ... 267 10.26 Unit Trusts ... ... ... 268 10.27 Share Market Indicators ... ... ... 268 10.28 Shares Offered by Companies during 2002 ... ... ... 269 10.29 Category-wise Distribution of Shares Traded in the Secondary Market in 2002 ... 270 10.30 Share Price Indices of Regional and Major International Markets ... ... 271",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1342105865478516,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      234.24,
+      57.16,
+      344.68,
+      69.34
+    ],
+    "text": "PART I - CHARTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      55.68,
+      95.66,
+      359.34,
+      105.62
+    ],
+    "text": "1. ECONOMIC PERFORMANCE, OUTLOOK, ISSUES AND POLICIES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.92943286895752,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.2,
+      107.42,
+      180.14,
+      117.38
+    ],
+    "text": "1.1 Macroeconomic Indicators",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.44,
+      119.42,
+      257.72,
+      188.42
+    ],
+    "text": "1.1.1 Real GDP and Sectoral Growth 1.1.2 Changes in CCPI 1.1.3 Fiscal Deficit 1.1.4 External Current Account Deficit 1.2 Quarterly Real GDP Growth Rates, 1998 - 2002 1.3 Sectoral Composition of GDP",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.44,
+      190.46,
+      169.34,
+      223.94
+    ],
+    "text": "1.3.1 1992 1.3.2 2002 1.4 Investment and Savings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.2,
+      225.74,
+      280.78,
+      271.46
+    ],
+    "text": "1.4.1 Domestic Investment 1.4.2 Domestic Savings 1.5 Labour Force Participation and Unemployment Rate... 1.6 Fiscal Sector Indicators",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.2,
+      273.26,
+      309.2,
+      330.74
+    ],
+    "text": "1.6.1 Expenditure, Revenue, Current A/c and Overall Balance 1.6.2 Financing the Deficit 1.6.3 How a Rupee was Earned - 2002 1.6.4 How a Rupee was Spent-2002 1.7 Selected External Sector Indicators",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      67.2,
+      332.78,
+      208.2,
+      389.78
+    ],
+    "text": "1.7.1 Balance of Payments 1.7.2 Effective Exchange Rates 1.7.3 External Assets 1.7.4 External Debt Service Ratio 1.8 Financial Sector Indicators",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      81.84,
+      391.82,
+      298.92,
+      437.54
+    ],
+    "text": "1.8.1 Broad Money, Reserve Money and Monetary Growth 1.8.2 Distribution of Domestic Credit 1.8.3 Interest Rates 1.8.4 Share Market Indices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      54.24,
+      445.34,
+      254.67,
+      455.3
+    ],
+    "text": "2. NATIONAL INCOME AND EXPENDITURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.800508499145508,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      66.0,
+      457.34,
+      193.56,
+      479.06
+    ],
+    "text": "2.1 Quarterly Growth Rates 2.2 Investment and Savings Ratio",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      54.24,
+      486.86,
+      266.34,
+      496.82
+    ],
+    "text": "3. AGRICULTURE, FISHING AND FORESTRY",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.600628852844238,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      66.0,
+      498.62,
+      253.01,
+      567.38
+    ],
+    "text": "3.1 Price and Cost of Production Indices: Tea 3.2 Price and Cost of Production Indices: Rubber 3.3 Price and Cost of Production Indices: Coconut 3.4 Paddy Production 3.5 Total Sugar Availability 3.6 Fertiliser Appplication Major Crop Categories",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      54.0,
+      575.42,
+      117.78,
+      585.38
+    ],
+    "text": "4. INDUSTRY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.821560859680176,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      65.76,
+      587.18,
+      291.56,
+      702.98
+    ],
+    "text": "4.1 Growth and Composition of Industrial Production ... 4.1.1 Growth in Industrial Output 4.1.2 Composition of Industrial Production-2002 ... 4.2 Performance in Major Industrial Sub Sectors 4.3 Private Sector Industrial Production Volume Index ... 4.4 Private and Public Sector Share in Industrial Production 4.5 Value Added Percentages in Industrial Production - 2002 4.6 Labour Productivity in Industry 4.7 Realised Investment of the BOI 4.8 Approved and Contracted BOI Projects",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      84.0,
+      704.78,
+      310.51,
+      726.98
+    ],
+    "text": "4.8.1 Approved and Contracted Investments (No. of Projects) 4.8.2 Approved and Contracted Investments (Value)",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      497.52,
+      52.46,
+      518.06,
+      62.42
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      51.84,
+      72.14,
+      242.82,
+      82.1
+    ],
+    "text": "5. ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      64.32,
+      83.9,
+      301.28,
+      152.66
+    ],
+    "text": "5.1 Government Expenditure on Health and Education ... 5.2 Telephone Density 5.3 Electricity Generation and Consumption 5.4 Electricity : Average Tariffs and Costs 5.5 Petroleum: Local Prices 5.6 Petroleum: International Price & CPC Import Price - 2002",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      52.8,
+      160.22,
+      164.58,
+      170.18
+    ],
+    "text": "6. PRICES AND WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      64.56,
+      171.26,
+      519.86,
+      297.62
+    ],
+    "text": "6.1 Colombo Consumers'Price Index ... ... ... 146 6.2 Greater Colombo Consumers'Price Index ... ... ... 148 6.3 Colombo District Consumer Price Index ... ... ... 148 6.4 Sri Lanka Consumers'Price Index ... ... ... 149 6.5 Wholesale Price Index ... ... ... 150 6.6 Trends in Price Indices ... ... - 151 6.7 Monthly Prices of Selected Commodities ... ... ... 152 6.7.1 Kelulu Rice-Red ... ... ... 152 6.7.2 Coconut ... ... ... 152 6.7.3 Green Beans ... ... ... 152 6.7.4 Fish-Balaya ... ... ... 152",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      53.76,
+      305.42,
+      304.23,
+      315.38
+    ],
+    "text": "7. POPULATION, LABOUR FORCE AND EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      65.76,
+      316.46,
+      519.87,
+      326.42
+    ],
+    "text": "7.1 Trends in Labour Force and Unemployment 1998-2002 ... ... 157",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54.0,
+      334.46,
+      297.06,
+      344.42
+    ],
+    "text": "8. FISCAL POLICY AND BUDGETARY OPERATIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.0,
+      345.98,
+      310.59,
+      460.82
+    ],
+    "text": "8.1 Fiscal Indicators 8.2 Composition of Revenue 8.3 Composition of Current Expenditure 8.4 Expenditure by Function 8.5 Budgetary Performance of Provincial Councils - 2002 8.6 Deficit Financing 8.7 Composition of Government Debt 8.8 Debt Service Payments Government Debt Service Payments Government Debt Service Payments, vs Government Revenue",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54.24,
+      468.38,
+      293.51,
+      478.34
+    ],
+    "text": "9. TRADE, BALANCE OF PAYMENTS AND TOURISM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.48,
+      480.14,
+      522.64,
+      721.7
+    ],
+    "text": "9.1 Balance of Payments ... ... ... 206 9.2 External Trade ... ... ... 206 9.2.1 Trade Balance ... ... ... 206 9.2.2 Export and Import Volume Indices ... ... ... 206 9.2.3 Unit Value Indices ... ... ... 206 9.2.4 Trade in Services ... ... ... 206 9.3 Share of Exports by Major Categories ... ... ... 209 9.4 Direction of Trade ... ... ... 213 9.4.1 Exports by Destination ... ... ... 213 9.4.2 Imports by Origin ... ... \u2022\u2022\u2022 213 9.5 Capital Flows ... ... ... 215 9.6 Effective Exchange Rate Indices ... ... ... 217 9.6.1 Nominal Effective Exchange Rate Indices ... ... ... 217 9.6.2 Real Effective Exchange Rate Indices ... ... ... 217 9.7 Exchange Rate Movement-2002 ... ... ... 219 9.7.1 Exchange Rate ... ... ... 219 9.7.2 Inter Bank Forward Transactions ... ... 219 9.8 Quarterly External Assets ... ... ... 219 9.9 External Debt ... ... ... 219 9.10 Monthly Tourism Arrivals 2001 & 2002 ... ... 232 9.11 Tourism Statistics ... ... ... 232",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      503.52,
+      82.94,
+      518.98,
+      150.5
+    ],
+    "text": "122 127 130 130 130 132",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      504.96,
+      344.54,
+      520.92,
+      458.18
+    ],
+    "text": "176 179 183 185 191 194 196 202 202 202",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      59.52,
+      70.46,
+      172.92,
+      80.42
+    ],
+    "text": "1 O.FINANCIAL SECTOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.04,
+      82.7,
+      292.57,
+      116.66
+    ],
+    "text": "10.1 Monetary Aggregates - Growth and Levels 10.2 Monetary Base and Money Multiplier 10.3 Monetary Aggregates, Velocity and Money Multiplier",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.28,
+      118.94,
+      284.62,
+      177.14
+    ],
+    "text": "10.3.1 Money Supply 10.3.2 Domestic Credit 10.3.3 Net External Assets 10.3.4 Income Velocity and Money Multiplier ... 10.4 Interest Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.28,
+      179.18,
+      302.49,
+      249.62
+    ],
+    "text": "10.4.1 Treasury Bills-Yield Rates 10.4.2 Deposit Rates 10.4.3 Lending Rates 10.4.4 Call Market Rates and SLIBOR 10.5 Government Securities - Secondary Market Yield Curve 10.6 Employees'Provident Fund",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.28,
+      251.66,
+      243.5,
+      285.62
+    ],
+    "text": "10.6.1 EPF Contributions and Refunds 10.6.2 Rate of Return on Investment 10.7 Share Market Indicators",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      77.28,
+      287.9,
+      231.98,
+      333.86
+    ],
+    "text": "10.7.1 Share Price Indices 10.7.2 Stock Market Transactions 10.7.3 Net Non-National Purchases 10.8 Stock Prices",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      98.16,
+      335.9,
+      295.34,
+      357.86
+    ],
+    "text": "10.8.1 Comparison with Major International Markets 10.8.2 Comparison with South Asian Markets ...",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      242.4,
+      399.88,
+      343.48,
+      412.06
+    ],
+    "text": "PART I - BOXES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      62.16,
+      437.9,
+      343.1,
+      676.1
+    ],
+    "text": "1. Progress of the Peace Process 2. Economic Benefits of Peace 3. Poverty Reduction Strategy Papers 4. Poverty Reduction and Growth Facility 5. Fiscal Management (Responsibility) Act 6. Amendments to the Monetary Law Act 7. Major Economic Policy Measures: 2002-2003 8. Calendar of Data Dissemination to the General Public 9. A Preliminary Estimation of Regional Gross Domestic Product 10. Restructuring of Private Consumption Expenditure ... 11. Future Challenges of the Apparel Industry 12. Celebrating 25 Years of the Country Wide Data Collection System 13. Recent Labour Market Reforms in Sri Lanka 14. Value Added Tax in Sri Lanka 15. Sustainability of Government Debt 16. Social Welfare Reforms 17. Public Debt Management in Sri Lanka: Methods, Issues and Strategies 18. Harnessing the Potential of International Co-operation Agreements 19. Should Banks that Fail be Bailed out with Public Funds? 20. More Active Open Market Operations",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.433149337768555,
+      8.56902027130127,
+      8.618410110473633,
+      8.697930335998535,
+      8.739736557006836,
+      8.79516887664795,
+      8.800508499145508,
+      8.804373741149902,
+      8.808972358703613,
+      8.818989753723145,
+      8.821560859680176,
+      8.822754859924316,
+      8.836515426635742,
+      8.841096878051758,
+      8.92190170288086,
+      8.92943286895752,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      208.56,
+      51.64,
+      358.47,
+      63.82
+    ],
+    "text": "STATISTICAL APPENDIX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      492.0,
+      86.06,
+      515.01,
+      96.02
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      50.16,
+      103.34,
+      254.91,
+      113.3
+    ],
+    "text": "NATIONAL PRODUCT AND EXPENDITURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      62.4,
+      115.34,
+      517.59,
+      246.02
+    ],
+    "text": "Gross National Product at Current Factor Cost Prices ... ... ... 1 Gross National Product at Constant (1996) Factor Cost Prices ... ... 2 Quarterly Gross National Product at Factor Cost Prices ... ... ... 3 Resources and Their Utilisation ... ... ... ... 4 Gross National Expenditure at Current Market Prices ... ... ... 5 Gross Domestic Capital Formation at Current Market Prices ... ... 6 Composition of Private Consumption Expenditure at Current Market Prices ... ... 7 Expenditure on Gross National Product at Current Market Prices ... ... 8 Gross Domestic Expenditure and Availability of Resources ... ... 9 National Savings ... ... ... \u2022\u2022\u2022 10 Real National Income ... ... ... \u2022\u2022\u2022 11",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.12,
+      254.3,
+      122.11,
+      264.26
+    ],
+    "text": "AGRICULTURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      62.88,
+      266.78,
+      518.1,
+      337.22
+    ],
+    "text": "Trends in Principal Agricultural Crops ... ... ... 12 Production of Tea, Rubber and Coconut ... ... ... 13 Annual Rainfall and Rainy Days ... ... ... ... 14 Districtwise Performance of the Paddy Sector ... ... ... 15 Paddy Production ... ... ... ... 16 Performance of Other Field Crops ... ... ... ... 17",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      8.994012832641602
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.36,
+      345.98,
+      102.56,
+      355.94
+    ],
+    "text": "INDUSTRY",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      63.36,
+      357.98,
+      518.82,
+      500.66
+    ],
+    "text": "Value of Industrial Production ... ... ... ... 18 Investment Approvals in Industry by the Board of Investment of Sri Lanka ... ... 19 Realised Investment in the Board of Investment (BOI) Enterprises ... ... 20 Relative Composition of Private and Public Sector Industries ... ... 21 Value Added in Industry ... ... ... ... 22 Capacity Utilisation in Industry ... ... ... ... 23 Annual Capacity, Production and Sales (Quantity) of State Industries ... ... 24 Employment in State Industries ... ... ... ... 25 Availability and Utilisation of Quota... ... ... \u2022\u2022\u2022 26 Regional Distribution of Industrial Enterprises ... ... ... 27 Private Sector Monthly Industrial Production Volume Index in 2002 ... ... 28 Private Sector Cumulative Monthly Industrial Production Volume Index in 2002 ... 29",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      51.84,
+      509.42,
+      239.58,
+      519.38
+    ],
+    "text": "ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64.08,
+      521.66,
+      519.54,
+      615.62
+    ],
+    "text": "Public Health Services ... ... ... ... 30 General and University Education ... ... ... ... 31 Telecommunications and Postal Services ... ... ... 32 Salient Features of the Energy Sector ... ... ... 33 Salient Features of the Transport Sector ... ... ... 34 Performance of the Port Services ... ... ... ... 35 Land Cultivated under the Mahaweli Development Programme ... ... 36 Settlement under the Mahaweli Development Programme ... ... 37",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      52.56,
+      624.14,
+      155.34,
+      634.1
+    ],
+    "text": "PRICES AND WAGES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      64.56,
+      636.14,
+      520.22,
+      718.58
+    ],
+    "text": "Colombo District Consumer Price Index ... ... ... 38 Colombo Consumers' Price Index ... ... ... ... 39 Greater Colombo Consumers'Price Index ... ... ... 40 Sri Lanka Consumers'Price Index ... ... ... ... 41 Wholesale Prices of Selected Commodities ... ... ... 42 Wholesale Price Index ... ... ... ... 43 Wage Rate Index Numbers ... ... ... ... 44",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      503.28,
+      57.74,
+      526.29,
+      67.7
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.68,
+      75.26,
+      307.01,
+      85.22
+    ],
+    "text": "POPULATION, LABOUR FORCE AND EMPLOYMENT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      67.44,
+      87.74,
+      525.27,
+      182.42
+    ],
+    "text": "Demography ... ... ... ... 45 Population by District ... ... ... ... 46 Labour Force Participation Rate ... ... ... 47 Labour Force Trends ... ... ... ... 48 Public Sector Employment ... ... ... 49 Employees'Provident Fund ... ... ... ... 50 Employees'Trust Fund ... ... ... ... 51 Strikes in Private Sector Industries ... ... ... ... 52",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.44,
+      190.7,
+      135.35,
+      200.66
+    ],
+    "text": "FISCAL SECTOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      67.2,
+      203.18,
+      525.06,
+      478.58
+    ],
+    "text": "Summary of Government Fiscal Operations ... ... ... 53 Government Revenue ... ... ... ... 54 Payments of the Government of Sri Lanka ... ... ... 55 Voted Expenditure of the Government of Sri Lanka - 2002 ... ... 56 Voted Expenditure of the Government of Sri Lanka - 2003 ... ... 57 Current Transfers to Public Corporations and Institutions ... ... 58 Capital Transfers to Public Corporations and Institutions... ... ... 59 Advance Account Operations ... ... ... ... 60 Acquisition of Financial Assets (Loans Outlay) ... ... ... 61 Financing of the Government Net Cash Deficit ... ... ... 62 Economic Classification of Government Revenue ... ... ... 63 Economic Classification of Government Expenditure and Lending Minus Repayments ... 64 Economic Classification of Government Fiscal Operations ... ... 65 Composition of Outstanding Government Debt ... ... ... 66 Ownership of Government Debt ... ... ... ... 67 Ownership of Treasury Bills and Treasury Bonds ... ... ... 68 Ownership of Rupee Loans ... ... ... ... 69 Valuation and Yields of Government Securities ... ... ... 70 Ownership of Outstanding Foreign Debt ... ... ... 71 Foreign Loans-2002 ... ... ... ... 72 Net Receipts of Foreign Assistance ... ... ... ... 73 Outstanding Central Government Debt ... ... ... 74 Performance of the Privatisation Programme ... ... ... 75",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      55.44,
+      487.34,
+      153.11,
+      497.3
+    ],
+    "text": "EXTERNAL SECTOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      67.2,
+      499.1,
+      525.06,
+      724.82
+    ],
+    "text": "Central Bank Trade Indices - Value ... ... ... ... 76 Central Bank Trade Indices - Volume. ... ... ... 77 Central Bank Trade Indices - Unit Value ... ... ... 78 Foreign Trade ... ... ... ... 79 Exports ... ... ... - 80 Tea Exports, Sales and Prices ... ... ... 81 Volume and Value of Tea Exports ... ... ... ... 82 Country Classification of Tea Exports ... ... ... 83 Rubber Exports and Prices ... ... ... ... 84 Country Classification of Rubber Exports ... ... ... 85 Country Classification of Garment Exports ... ... ... 86 Major Coconut Products, Exports and Prices ... ... ... 87 Volume and Value of Exports of Other Agricultural Products ... ... 88 Selected Industrial and Mineral Exports ... ... ... 89 Imports by Major Categories ... ... ... ... 90 Imports and Exports of Major Commodities ... ... ... 91 Expenditure on Imports ... ... ... ... 92 Direction of Trade ... ... ... ... 93 Tourist Arrivals, Employment and Accommodation Capacity in the Tourist Sector ... 94",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      497.52,
+      57.74,
+      520.53,
+      67.7
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      64.08,
+      75.5,
+      519.78,
+      206.42
+    ],
+    "text": "Some Indicators of Regional Distribution of the Tourist Trade ... 95 Balance of Payments Analytical Presentation ... ... ... 96 Balance of Payments ... ... ... \u2022\u2022\u2022 97 Services, Income and Transfers ... ... ... ... 98 Private Remittances ... ... ... - 99 External Resources and Their Use ... ... ... ... 100 Financing of the External Resource Gap ... ... 101 External Assets of Sri Lanka ... ... ... \u2022\u2022\u2022 102 End of Period Exchange Rates ... ... ... \u2022\u2022\u2022 103 Average Exchange Rates ... ... ... \u2022\u2022\u2022 104 External Debt Outstanding and Banking Sector External Liabilities ... ... 105",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      53.04,
+      215.66,
+      151.91,
+      225.62
+    ],
+    "text": "FINANCIAL SECTOR",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      65.04,
+      228.14,
+      521.22,
+      502.82
+    ],
+    "text": "Monetary Aggregates - M, and M 2 ... ... - \u2022\u2022\u2022 106 Analysis of Changes in Narrow Money Supply (Mj) ... ... ... 107 Currency Issue of the Central Bank by Denomination ... ... ... 108 Assets and Liabilities of Commercial Banks ... ... 109 Assets and Liabilities of the Central Bank ... ... ... 110 Monetary Survey - M 2 ... ... ... - 111 Assets and Liabilities of Foreign Currency Banking Units (FCBUs) ... ... 112 Consolidated Monetary Survey (inclusive of FCBUs) - M 2 b ... ... 113 Assets and Liabilities of Registered Finance Companies ... ... ... 114 Financial Survey - M 4 ... ... ... ... 115 Purchases and Sales of Foreign Exchange by the Central Bank ... 116 Reserve Position of Commercial Banks ... ... ... 117 Savings and Fixed Deposits of National Savings Bank and Commercial Banks ... 118 Yield Rates on Government Paper ... ... ... ... 119 Money Rates ... ... ... ... 120 Money Rates: Savings and Long-Term Credit Institutions. ... 121 Insurance Activities ... ... ... ... 122 Share Market Developments ... ... ... - 123 Listed Debenture Issues during the year 2002 ... ... ... 124 Commercial Bank Advances by Type of Security ... ... 125 Commercial Banks Advances by Purpose and Maturity ... ... ... 126 Cultivation Loans Granted under the New Comprehensive Rural Credit Scheme ... 127 New Comprehensive Rural Credit Scheme - Loans Granted for Subsidiary Food Crops by",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      3.1342105865478516,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      66.72,
+      504.86,
+      521.14,
+      526.82
+    ],
+    "text": "People's Bank and Bank of Ceylon ... ... ... 128 Deposits and Advances of Bank of Ceylon Sub-Offices at Agrarian Services Centres and",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      66.72,
+      528.86,
+      521.67,
+      562.82
+    ],
+    "text": "Co-operative Rural Banks (1991-2002) and District-wise Classification for 2002 129 Operations of the Crop Insurance Programme - Paddy Sector ... ... 130 Deposits and Advances of District Co-operative Rural Banks' Unions (1994-2002) and District-wise",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      75.6,
+      564.86,
+      521.48,
+      574.82
+    ],
+    "text": "Classification for 2002 ... ... ... ... 131",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      188.16,
+      53.8,
+      396.39,
+      65.98
+    ],
+    "text": "SPECIAL STATISTICAL APPENDIX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.6,
+      102.62,
+      193.49,
+      185.78
+    ],
+    "text": "PEOPLE Demography Vital Statistics Labour Force Employment and Unemployment Education Health",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.6,
+      199.82,
+      195.39,
+      209.78
+    ],
+    "text": "INCOME AND EXPENDITURE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.6,
+      214.94,
+      302.06,
+      248.9
+    ],
+    "text": "GDP and GNP at 1996 Factor Cost Prices GDP at Current Factor Cost and GNP at Current Market Prices GDP at Market Prices, Consumption, Investment and Savings",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.6,
+      262.94,
+      156.3,
+      272.9
+    ],
+    "text": "PRICES AND WAGES",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.6,
+      278.06,
+      176.97,
+      300.02
+    ],
+    "text": "Price Indicators in Sri Lanka Nominal Wage Rate Index",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.36,
+      314.54,
+      184.22,
+      372.5
+    ],
+    "text": "PRODUCTION Agricultural Inputs Agricultural Output and Prices Industry Services",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.6,
+      386.78,
+      187.23,
+      396.74
+    ],
+    "text": "INTERNATIONAL FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.6,
+      401.9,
+      260.54,
+      448.1
+    ],
+    "text": "Composition and Direction of External Trade Trade Indices Balance of Payments External Assets, External Debt and Exchange Rates",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.6,
+      462.14,
+      128.32,
+      472.1
+    ],
+    "text": "GOVERNMENT",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.36,
+      477.26,
+      183.5,
+      511.22
+    ],
+    "text": "Government Fiscal Operations Revenue and Expenditure Government Debt",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      57.36,
+      525.26,
+      176.19,
+      535.22
+    ],
+    "text": "BANKING AND FINANCE",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.36,
+      538.7,
+      134.76,
+      548.66
+    ],
+    "text": "Monetary Survey",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      69.12,
+      552.14,
+      317.6,
+      585.86
+    ],
+    "text": "Interest Rates Total Assets of Banking and Other Financial Institutions Currency Notes and Coins Issued by the Central Bank of Sri Lanka",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  }
+]

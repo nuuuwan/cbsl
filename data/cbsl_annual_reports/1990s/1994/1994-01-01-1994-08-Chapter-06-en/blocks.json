@@ -1,0 +1,4441 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      118.8,
+      68.82,
+      379.04,
+      83.21
+    ],
+    "text": "PRICES, WAGES AND EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      12.934836387634277
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      68.16,
+      125.9,
+      209.46,
+      135.86
+    ],
+    "text": "OVERALL PRICE CHANGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.92,
+      143.42,
+      427.6,
+      263.78
+    ],
+    "text": "The rate of increase in the general level of prices, measured in terms of the Colombo Consum\u00aders' Price Index (CCPI) computed by the Census & Statistics Department, was 8.4 per cent in 1994, compared to a rise of 11.7 per cent in 1993. Thus, the annual average rate of price increase declined to a single digit level in 1994 for the first time since 1987. The point to point increase of the Index as at December (December 1994 over December 1993) was a low 4.2 per cent, compared to the corresponding increase as at December 1993 which was 10.3 per cent. The Greater Colombo Consumers' Price Index (GCPI), which is an Index with wider geographic coverage than the Colombo Consumers' Price Index, registered an even lower annual average increase of 4.8 per cent in 1994. This was a significant drop from the increase of 8.4 per cent registered by the GCPI in 1993. The Wholesale Price Index also registered a lower increase of 5.0 per cent in 1994 compared with 7.6 per cent in 1993.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.297590255737305,
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.68,
+      273.74,
+      427.24,
+      316.1
+    ],
+    "text": "Prices in the food, clothing, fuel and light, and miscellaneous sub categories of the CCPI increased at a slower rate in 1994 than in 1993. The reduction in administrative prices largely contributed towards the slowing down in the rate of price increases in the food sub category to a single digit level. The prices of bread, wheat flour and kerosene were reduced during the latter half",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      8.958504676818848
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      218.4,
+      348.64,
+      276.82,
+      360.59
+    ],
+    "text": "T A B L E 1.40",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.056966781616211,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      137.52,
+      363.76,
+      360.66,
+      375.71
+    ],
+    "text": "Colombo Consumers' Price Index (1952 = 100)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.389211654663086,
+      9.864912033081055,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.08,
+      417.68,
+      112.96,
+      426.17
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.84,
+      397.28,
+      202.25,
+      415.13
+    ],
+    "text": "Average Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.906932830810547,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.96,
+      387.92,
+      318.63,
+      405.77
+    ],
+    "text": "Annual Average Percentage Change",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      342.0,
+      387.44,
+      414.39,
+      405.53
+    ],
+    "text": "Point to Point Percentage Change",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.08,
+      417.68,
+      112.96,
+      426.17
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      171.84,
+      397.28,
+      202.25,
+      415.13
+    ],
+    "text": "Average Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.906932830810547,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.6,
+      419.12,
+      266.62,
+      446.33
+    ],
+    "text": "1993 over 1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.12,
+      418.88,
+      314.14,
+      446.57
+    ],
+    "text": "1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.04,
+      410.48,
+      371.94,
+      418.97
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.64,
+      419.36,
+      361.54,
+      427.85
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.04,
+      428.24,
+      371.94,
+      445.61
+    ],
+    "text": "over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.64,
+      446.24,
+      361.42,
+      454.73
+    ],
+    "text": "1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.8,
+      410.24,
+      419.9,
+      418.73
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.8,
+      419.12,
+      419.9,
+      445.61
+    ],
+    "text": "1994 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      392.64,
+      446.24,
+      409.39,
+      454.73
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      94.08,
+      417.68,
+      112.96,
+      426.17
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      155.04,
+      434.72,
+      219.17,
+      443.45
+    ],
+    "text": "1993 1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      249.6,
+      419.12,
+      266.62,
+      446.33
+    ],
+    "text": "1993 over 1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      297.12,
+      418.88,
+      314.14,
+      446.57
+    ],
+    "text": "1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.04,
+      410.48,
+      371.94,
+      418.97
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.64,
+      419.36,
+      361.54,
+      427.85
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      335.04,
+      428.24,
+      371.94,
+      445.61
+    ],
+    "text": "over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      344.64,
+      446.24,
+      361.42,
+      454.73
+    ],
+    "text": "1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.8,
+      410.24,
+      419.9,
+      418.73
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      382.8,
+      419.12,
+      419.9,
+      445.61
+    ],
+    "text": "1994 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      392.64,
+      446.24,
+      409.39,
+      454.73
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.68,
+      461.12,
+      409.98,
+      470.81
+    ],
+    "text": "All Items 1,408.4 1,527.4 11.7 8.4 10.3 4.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.68,
+      474.8,
+      126.31,
+      483.29
+    ],
+    "text": "Commodity-wise",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.44,
+      485.6,
+      411.72,
+      508.25
+    ],
+    "text": "Food 1,519.4 1,654.1 11.2 8.9 10.0 3.6 Clothing 782.7 795.7 8.2 1.7 8.0 0.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.972559452056885,
+      7.006854057312012,
+      7.203100204467773,
+      7.4663567543029785,
+      7.561904430389404,
+      7.802094459533691
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.68,
+      509.84,
+      411.32,
+      520.97
+    ],
+    "text": "Fuel & Light 2,730.0 3,131.6 17.0 14.7 27.3 1.0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.953273296356201,
+      7.006854057312012,
+      7.522886753082275,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      79.44,
+      521.9,
+      411.64,
+      545.69
+    ],
+    "text": "Rent 109.8 109.8 ----Miscellaneous 1,490.4 1,578.7 13.0 5.9 5.1 9.7",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404,
+      13.594512939453125,
+      14.046236991882324
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      251.28,
+      558.56,
+      420.25,
+      576.65
+    ],
+    "text": "Sources: Department of Census and Statistics Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.229753494262695,
+      7.501627445220947,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      66.96,
+      604.94,
+      427.17,
+      659.06
+    ],
+    "text": "of the year, while the import duties on some consumer items were either completely waived or reduced. The moderation in the price increases of rice and the drop in prices of chillies and coconut as well as the slowing down in price increases in the clothing and miscellaneous categories also helped to contain the rate of inflation during the year. However, with a 19.6 per cent increase, the Broad Money Supply continued to exert high demand pressure on the general price level.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      241.2,
+      682.94,
+      252.45,
+      692.9
+    ],
+    "text": "85",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.0,
+      74.2,
+      93.44,
+      86.38
+    ],
+    "text": "PRICES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.0,
+      95.08,
+      131.75,
+      107.26
+    ],
+    "text": "Consumer Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.0,
+      110.3,
+      411.99,
+      197.54
+    ],
+    "text": "The first four months of the year were characterised by a rapidly increasing trend in prices. The usual moderation in prices during the period March to April, which coincides with the Maha harvesting season, was not felt until May, as a result of the cultivation in Maha 1993/94 being delayed by late monsoon rains. From May onwards, a clear decelerating trend in prices was observed. This trend was reinforced when the administrative price reductions came into effect in June. The impact on the CCPI of the price reductions in wheat flour, bread and kerosene was substantial. If these price reductions had not been effected, the rate of price increase would have been 10.1 per cent rather than the 8.4 per cent actually registered.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.48,
+      205.34,
+      413.91,
+      236.9
+    ],
+    "text": "Food items, which have the largest weight in the Index (61.9 per cent), contributed towards 73 per cent of the total increase in the Index. The contribution of fuel and light, miscellaneous and clothing categories to the overall price rise was 14 per cent, 12 per cent and 1 per cent, respectively.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.48,
+      244.22,
+      412.65,
+      419.78
+    ],
+    "text": "Prices in the food category rose by 8.9 per cent on an annual average basis in 1994 compared to 11.2 per cent in the preceding year. In May 1994, import duties on dried fish and lentils were waived while duties on canned fish and sugar were reduced. The price of wheat flour was reduced from Rs. 13.30 per kg. to Rs. 11.80 per kg. in July 1994 and as a result the price of bread fell from Rs. 5.50 to Rs. 5.00 per 450 gm. loaf. Subsequent to the new Government assuming office, the price of wheat flour was further reduced to Rs. 7.45 per kg. while the price of bread came down to Rs. 3.50 per 450 gm. loaf. A favourable supply position helped to contain the prices of several other major food items during the year. Paddy production in 1994 was estimated to have increased when compared to the previous year. Consequently, rice prices remained almost unchanged when compared with the average level of the previous year. The substitution effect of the reduction in wheat flour and bread prices would also have had a dampening effect on rice prices. The price of coconuts declined sharply following improved production, while the price of dried chillies was depressed owing to the availability of imported stocks in the market. Sharp price increases were recorded for vegetables, onions, fresh fish and potatoes during the year. However, the declines in prices of bread, coconuts and dried chillies largely contributed towards the slowing down of the overall rate of increase in prices of food items.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.852999687194824,
+      8.954887390136719,
+      9.20163631439209
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.96,
+      427.34,
+      412.47,
+      480.5
+    ],
+    "text": "Prices in the fuel and light category rose by 14.7 per cent in 1994 compared to 17.0 per cent in 1993. Within this category, while the reduction in the price of kerosene from Rs. 11.80 per litre to Rs. 9.50 per litre in late September had a dampening influence on prices during the last quarter of the year, the continuous increase in the price of firewood from the middle of the previous year was responsible for pushing up prices.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.852999687194824,
+      8.868539810180664,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.96,
+      488.54,
+      413.01,
+      520.58
+    ],
+    "text": "Prices in the clothing category displayed a slower growth of 1.7 per cent during the year compared with 8.2 per cent in 1993. In the miscellaneous category, prices rose by 5.9 per cent, a substantial reduction from the 13.0 per cent increase observed in the preceding year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      55.2,
+      532.12,
+      239.06,
+      544.3
+    ],
+    "text": "Greater Colombo Consumer Price Index",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.96,
+      548.54,
+      412.47,
+      601.7
+    ],
+    "text": "The Greater Colombo Consumers' Price Index (GCPI) computed by the Department of Census and Statistics is an Index with wider geographic and item coverage than the CCPI. Further, its weights, which are based on the expenditure patterns of the bottom 40 per cent of households (when ranked by expenditure) in the Greater Colombo area as revealed in a survey conducted in 1985/86, could be considered more up-to-date than the weights of the CCPI.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      54.72,
+      611.9,
+      413.01,
+      666.02
+    ],
+    "text": "In 1994, the GCPI showed a much lower increase than the CCPI. The annual average increase of the Index for 1994 was 4.8 per cent compared with 8.4 per cent in 1993. On a point to point basis (December 1994 over December 1993), the Index had increased by only 1.4 per cent. Food prices, according to the GCPI, rose by 4.0 per cent during the year compared with 8.7 per cent in the previous year. In the fuel & light category of the GCPI, prices rose by 17.0 per cent, a similar",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      228.0,
+      688.46,
+      239.45,
+      698.42
+    ],
+    "text": "86",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.24,
+      69.26,
+      432.39,
+      133.22
+    ],
+    "text": "increase to that of the preceding year. The rise in prices in the clothing and footwear category at 3.9 per cent was considerably lower than the increase of 8.2 per cent registered in 1993. Increases in prices in the categories of liquor, tobacco, betel and arecanut, personal care, health services, household goods and services, and transport and communication at 8.2 per cent, 6.7 per cent and 0.5 per cent, respectively, were also lower than the increases displayed by these categories in the previous year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.76,
+      141.26,
+      431.66,
+      183.62
+    ],
+    "text": "The differences in the weights of the two indices were responsible for the different rates of increases in prices indicated by them during the year. In particular, items like vegetables and fish, which displayed price increases, have a lower weight in the GCPI than in the CCPI and this resulted in the GCPI rising at a lower rate than the CCPI.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      152.4,
+      202.39,
+      350.87,
+      238.45
+    ],
+    "text": "T A B L E 1.41 Greater Colombo Consumers' Price Index (January to June 1989 = 100)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.09921646118164,
+      9.36011791229248,
+      9.476962089538574,
+      9.957108497619629,
+      10.745864868164062
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.16,
+      287.6,
+      129.04,
+      296.09
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191.76,
+      257.12,
+      226.01,
+      274.25
+    ],
+    "text": "AVERAGE INDEX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.622735977172852,
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      252.96,
+      253.28,
+      338.17,
+      271.37
+    ],
+    "text": "ANNUAL AVERAGE PERCENTAGE CHANGES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.610995292663574,
+      6.668972492218018,
+      6.810761451721191
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      355.92,
+      252.8,
+      413.59,
+      261.29
+    ],
+    "text": "POINT T O POINT",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      342.0,
+      262.88,
+      427.93,
+      271.37
+    ],
+    "text": "PERCENTAGE CHANGES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.610995292663574,
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.16,
+      287.6,
+      129.04,
+      296.09
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      191.76,
+      257.12,
+      226.01,
+      274.25
+    ],
+    "text": "AVERAGE INDEX",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.622735977172852,
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      262.32,
+      292.16,
+      279.52,
+      319.37
+    ],
+    "text": "1993 over 1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.84,
+      292.16,
+      327.04,
+      319.85
+    ],
+    "text": "1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.88,
+      282.08,
+      381.98,
+      290.57
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.88,
+      292.16,
+      381.78,
+      319.85
+    ],
+    "text": "1993 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      354.48,
+      320.96,
+      371.26,
+      329.45
+    ],
+    "text": "1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.88,
+      282.32,
+      423.78,
+      290.81
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.64,
+      291.92,
+      423.54,
+      319.61
+    ],
+    "text": "1994 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      396.48,
+      320.72,
+      413.23,
+      329.21
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      110.16,
+      287.6,
+      129.04,
+      296.09
+    ],
+    "text": "I T E M",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.668972492218018
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      179.28,
+      306.8,
+      237.41,
+      315.53
+    ],
+    "text": "1993 1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      262.32,
+      292.16,
+      279.52,
+      319.37
+    ],
+    "text": "1993 over 1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      309.84,
+      292.16,
+      327.04,
+      319.85
+    ],
+    "text": "1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.88,
+      282.08,
+      381.98,
+      290.57
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      344.88,
+      292.16,
+      381.78,
+      319.85
+    ],
+    "text": "1993 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      354.48,
+      320.96,
+      371.26,
+      329.45
+    ],
+    "text": "1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.88,
+      282.32,
+      423.78,
+      290.81
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      386.64,
+      291.92,
+      423.54,
+      319.61
+    ],
+    "text": "1994 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.940427303314209,
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      396.48,
+      320.72,
+      413.23,
+      329.21
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.28,
+      341.36,
+      414.87,
+      350.33
+    ],
+    "text": "All Items 164.8 172.6 8.4 4.8 6.9 1.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.28,
+      354.08,
+      413.61,
+      384.89
+    ],
+    "text": "Commodity Wise Food & Drinks 172.2 179.1 8.7 4.0 6.6 -Liquor, Tobacco",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.972559452056885,
+      7.006854057312012,
+      7.561904430389404,
+      14.046236991882324
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.88,
+      385.76,
+      415.06,
+      394.49
+    ],
+    "text": "and Betel & Arecanut 180.1 194.9 13.3 8.2 5.6 9.9",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.04,
+      398.48,
+      415.08,
+      407.21
+    ],
+    "text": "Housing 109.3 109.5 0.1 0.2 0.2 0.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      77.04,
+      411.2,
+      415.11,
+      420.17
+    ],
+    "text": "Fuel & Light 157.9 184.8 17.0 17.0 25.7 6.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.953273296356201,
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.56,
+      424.16,
+      414.96,
+      432.89
+    ],
+    "text": "Clothing & Footwear 190.3 197.8 8.2 3.9 5.8 5.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.203100204467773,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      436.64,
+      145.44,
+      445.13
+    ],
+    "text": "Personal Care and",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.64,
+      446.24,
+      414.72,
+      474.17
+    ],
+    "text": "Health Services, Household Goods & Services 154.9 165.3 8.3 6.7 7.5 6.0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.969825267791748,
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.32,
+      477.92,
+      120.1,
+      486.41
+    ],
+    "text": "Transport &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.8,
+      487.76,
+      413.13,
+      508.73
+    ],
+    "text": "Communication 163.5 164.3 1.1 0.5 1.2 -Miscellaneous 134.3 149.3 2.9 11.6 4.6 16.0",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404,
+      14.046236991882324
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      277.2,
+      519.44,
+      429.37,
+      527.93
+    ],
+    "text": "Source: Department of Census & Statistics",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.229753494262695,
+      7.484707355499268,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.08,
+      555.58,
+      173.01,
+      567.53
+    ],
+    "text": "Wholesale Price Index",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.745864868164062
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      69.84,
+      573.74,
+      429.69,
+      659.3
+    ],
+    "text": "The Wholesale Price Index (WPI) measures price movements at the primary market level. In 1994, the WPI rose by 5.0 per cent, which was lower than the 7.6 per cent increase recorded by the Index in 1993. The decline in the prices of major export commodities, tea and coconut, largely contributed to the deceleration in the rate of increase in prices experienced during the year. Prices in the food sub group declined marginally during the year, while prices in the alcoholic drinks, textiles and footwear, chemical and chemical products, and petroleum products too slowed down when compared with the increases recorded in the previous year. Sharp price increases were registered in the non-metallic products, fuel and light and miscellaneous categories during the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.297590255737305,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      243.84,
+      682.7,
+      255.02,
+      692.66
+    ],
+    "text": "87",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      162.24,
+      71.11,
+      299.17,
+      83.17
+    ],
+    "text": "W H O L E S A L E PRICE INDEX",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.242427825927734,
+      9.41522216796875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      208.32,
+      86.48,
+      253.78,
+      94.97
+    ],
+    "text": "1974 = 100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.625526428222656,
+      7.637905120849609
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      210.96,
+      98.0,
+      248.86,
+      106.49
+    ],
+    "text": "M O N T H L Y",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.705121040344238
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.28,
+      133.03,
+      150.47,
+      159.97
+    ],
+    "text": "POINTS IN INDEX 1200",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      42.24,
+      218.47,
+      71.16,
+      230.53
+    ],
+    "text": "1100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      41.76,
+      290.23,
+      72.64,
+      302.29
+    ],
+    "text": "1000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.16,
+      362.23,
+      69.6,
+      374.29
+    ],
+    "text": "9 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      43.44,
+      434.47,
+      68.41,
+      446.53
+    ],
+    "text": "8 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      44.4,
+      505.75,
+      69.68,
+      517.81
+    ],
+    "text": "7 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      43.92,
+      577.51,
+      69.36,
+      589.57
+    ],
+    "text": "6 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      43.92,
+      619.75,
+      53.02,
+      631.81
+    ],
+    "text": "0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      309.6,
+      132.55,
+      420.47,
+      158.77
+    ],
+    "text": "POINTS IN INDEX 1200",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      358.08,
+      184.74,
+      367.68,
+      199.13
+    ],
+    "text": "A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.329649925231934
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      124.8,
+      399.67,
+      194.73,
+      421.09
+    ],
+    "text": "INTERMEDIATE GOODS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.347210884094238,
+      9.41522216796875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      200.88,
+      532.87,
+      257.3,
+      554.05
+    ],
+    "text": "CONSUMER GOODS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.41522216796875
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      391.92,
+      218.47,
+      421.02,
+      230.53
+    ],
+    "text": "1100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      390.96,
+      291.43,
+      421.66,
+      303.49
+    ],
+    "text": "1000",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      396.24,
+      363.19,
+      421.37,
+      375.25
+    ],
+    "text": "9 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      371.04,
+      435.67,
+      423.98,
+      447.73
+    ],
+    "text": "H 8 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      9.41522216796875,
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368.4,
+      508.7,
+      425.03,
+      531.04
+    ],
+    "text": "H 7 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121,
+      17.439952850341797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      368.88,
+      579.26,
+      425.27,
+      601.6
+    ],
+    "text": "H 6 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121,
+      17.439952850341797
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      101.04,
+      614.71,
+      388.73,
+      643.33
+    ],
+    "text": "I I I if 1990 1991 1992 1993 1994",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      8.469340324401855,
+      10.853865623474121,
+      12.451796531677246
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      317.04,
+      664.12,
+      423.08,
+      670.92
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "sizes": [
+      6.0,
+      6.029925346374512
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      229.92,
+      683.9,
+      238.63,
+      693.86
+    ],
+    "text": "88",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.84340238571167
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      217.92,
+      74.32,
+      276.11,
+      86.27
+    ],
+    "text": "T A B L E 1.42",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.056966781616211,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.16,
+      89.2,
+      333.06,
+      101.15
+    ],
+    "text": "Wholesale Price Index (1974 = 100)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.45840072631836,
+      9.531051635742188,
+      9.53891658782959,
+      10.374034881591797,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.04,
+      144.23,
+      117.7,
+      152.83
+    ],
+    "text": "Item",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.225496768951416
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      183.36,
+      113.99,
+      213.77,
+      131.95
+    ],
+    "text": "Average Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.952251434326172,
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      258.96,
+      107.27,
+      316.97,
+      135.07
+    ],
+    "text": "Annual Average Percentage Change",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022509574890137,
+      7.06950569152832,
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      353.28,
+      107.27,
+      402.02,
+      135.07
+    ],
+    "text": "Point to Point Percentage Change",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.022509574890137,
+      7.06950569152832,
+      7.210670471191406,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      101.04,
+      144.23,
+      117.7,
+      152.83
+    ],
+    "text": "Item",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.225496768951416
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      164.88,
+      162.47,
+      231.01,
+      171.31
+    ],
+    "text": "1993 1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      257.76,
+      152.63,
+      276.7,
+      180.43
+    ],
+    "text": "1993 over 1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.985898494720459,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      299.28,
+      152.15,
+      318.28,
+      179.95
+    ],
+    "text": "1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.985898494720459,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      336.24,
+      143.99,
+      373.83,
+      152.59
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      336.0,
+      152.87,
+      373.8,
+      179.23
+    ],
+    "text": "1993 over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.985898494720459,
+      7.099049091339111,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      345.84,
+      179.99,
+      364.64,
+      188.59
+    ],
+    "text": "1992",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      383.28,
+      143.99,
+      420.66,
+      152.59
+    ],
+    "text": "December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      392.88,
+      152.87,
+      411.67,
+      161.47
+    ],
+    "text": "1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      383.04,
+      161.75,
+      420.63,
+      179.23
+    ],
+    "text": "over December",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.985898494720459,
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      392.64,
+      179.99,
+      411.58,
+      188.59
+    ],
+    "text": "1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.48,
+      196.31,
+      414.24,
+      205.15
+    ],
+    "text": "A L L I T E M S 831.8 873.4 7.6 5.0 7.7 1.8",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.5350728034973145,
+      6.836932182312012,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.48,
+      209.27,
+      132.95,
+      217.87
+    ],
+    "text": "C o m m o d i t y W i s e",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.840790271759033,
+      6.871834754943848
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.48,
+      221.51,
+      414.37,
+      230.59
+    ],
+    "text": "Food 770.4 760.4 7.0 -1.3 4.2 -4.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.01841402053833,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.24,
+      232.94,
+      413.84,
+      255.79
+    ],
+    "text": "Alcoholic Drinks 956.2 969.2 7.9 1.4 1.7 -Textiles & Footwear 452.1 482.9 8.0 6.8 10.4 4.0",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.9998459815979,
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701,
+      14.046236991882324
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.72,
+      259.67,
+      413.64,
+      268.51
+    ],
+    "text": "Paper Products 745.2 761.6 5.7 2.2 7.9 -0.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.051703453063965,
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.24,
+      272.39,
+      118.69,
+      280.99
+    ],
+    "text": "Chemicals &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.92,
+      281.99,
+      414.09,
+      291.07
+    ],
+    "text": "Chemical Products 542.2 550.4 2.1 1.5 -1.2 3.4",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.48,
+      294.71,
+      413.99,
+      303.79
+    ],
+    "text": "Petroleum Products 1,240.8 1,295.0 9.2 4.4 12.5 -7.7",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.48,
+      307.67,
+      117.62,
+      316.27
+    ],
+    "text": "Non-Metallic",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.242626667022705
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.16,
+      317.03,
+      413.88,
+      326.11
+    ],
+    "text": "Products 1,566.8 1,896.1 15.5 21.0 20.1 14.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701,
+      7.853207111358643
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.24,
+      329.99,
+      413.03,
+      338.83
+    ],
+    "text": "Metal Products 659.1 698.2 12.0 5.9 16.5 0.1",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.295277118682861,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      342.47,
+      107.0,
+      351.07
+    ],
+    "text": "Transport",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.052753925323486
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      80.16,
+      352.79,
+      413.79,
+      361.39
+    ],
+    "text": "Equipment 660.0 682.2 5.9 3.4 1.6 5.8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.24,
+      365.03,
+      147.27,
+      373.63
+    ],
+    "text": "Electrical Appliances",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      79.68,
+      374.15,
+      413.67,
+      383.23
+    ],
+    "text": "& Supplies 635.4 691.8 5.3 8.9 9.4 10.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      386.39,
+      413.31,
+      395.47
+    ],
+    "text": "Machinery 492.7 547.0 11.9 11.0 13.4 6.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      399.35,
+      413.31,
+      408.43
+    ],
+    "text": "Fuel & Light 1,307.5 1,739.3 1.3 33.0 8.8 44.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.998744964599609,
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      412.07,
+      413.52,
+      420.91
+    ],
+    "text": "Miscellaneous 1,480.0 2,050.5 11.8 38.5 28.9 31.3",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.52,
+      427.91,
+      130.43,
+      436.51
+    ],
+    "text": "Sector W i s e No.l",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.840790271759033,
+      6.886658668518066,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.76,
+      437.03,
+      413.63,
+      446.35
+    ],
+    "text": "Domestic Group 737.6 833.6 5.8 13.0 9.8 8.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      72.0,
+      449.99,
+      413.38,
+      459.07
+    ],
+    "text": "Import Group 671.6 702.0 5.9 4.5 10.7 -5.8",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.271629810333252,
+      7.465426921844482
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.76,
+      462.71,
+      413.41,
+      471.55
+    ],
+    "text": "Export Group 1,235.5 1,169.1 11.4 -5.4 2.9 -3.0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.023269176483154,
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701,
+      7.853207111358643
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.52,
+      478.31,
+      134.85,
+      486.91
+    ],
+    "text": "Sector W i s e No. II",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.840790271759033,
+      6.886658668518066,
+      7.099049091339111,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.52,
+      488.87,
+      413.11,
+      499.63
+    ],
+    "text": "Consumer Goods 814.3 818.8 7.0 0.6 4.5 -1.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.0495171546936035,
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.76,
+      501.11,
+      412.99,
+      511.87
+    ],
+    "text": "Intermediate Goods 874.5 1,029.1 8.3 17.7 17.3 10.6",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.226317405700684,
+      7.465426921844482,
+      7.853207111358643
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      71.76,
+      513.83,
+      413.08,
+      524.83
+    ],
+    "text": "Investment Goods 938.3 1,094.8 13.7 16.7 16.7 11.5",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      298.8,
+      534.23,
+      424.79,
+      542.83
+    ],
+    "text": "Source: Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.099049091339111,
+      7.465426921844482,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      65.28,
+      556.94,
+      425.2,
+      664.1
+    ],
+    "text": "The sub index for food declined slightly by 1.3 per cent during the year. This is the most important sub index of the WPI. In the food category, however, price movements are strongly influenced by changes in the prices of major export commodities under the food category like tea, coconut and coconut products, which have a high weight in the Index. During the year, the prices of all three elevational categories of tea decreased. The prices of coconuts dropped sharply by over 20 per cent while the price of coconut oil decreased by almost 15 per cent. In addition, the price of paddy in the open market also fell by a substantial 8 per cent, while the price of wheat flour was reduced by 11 per cent. The price of dried chillies also dropped during the year. These price declines more than offset the sharp price increases experienced in commodities like fish, vegetables, potatoes and sugar and caused the sub index for food to decline during the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      239.04,
+      688.46,
+      250.4,
+      698.42
+    ],
+    "text": "89",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.4,
+      77.18,
+      413.79,
+      108.74
+    ],
+    "text": "The sub index for non-metallic products rose by 21.0 per cent in 1994, higher than the increase of 15.5 per cent recorded in 1993. The escalation in prices of major construction materials like cement and bricks contributed substantially to this increase.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.4,
+      115.58,
+      413.97,
+      147.14
+    ],
+    "text": "Within the miscellaneous category, prices rose by as much as 38.5 per cent during the year compared to 11.8 per cent in the preceding year. The increase in the auction price of rubber (RSS 1) by over 40 per cent was largely responsible for the escalation in prices in this category.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.64,
+      153.74,
+      413.79,
+      196.1
+    ],
+    "text": "Prices in the fuel and light group recorded a sharp increase of 33.0 per cent, largely due to the sharp rise in the price of firewood. Prices in the electrical appliances and supplies category rose by 8.9 per cent, a sharper increase, when compared to the 5.5 per cent rise registered in the previous year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.64,
+      202.94,
+      414.45,
+      297.38
+    ],
+    "text": "In the chemical and chemical products category, prices rose by 1.5 per cent compared with a 2.1 per cent increase registered in the preceding year. Within this category, the prices of chemical fertilizers like urea were reduced following the reintroduction of the fertilizer subsidy. Prices in the petroleum products category rose by 4.4 per cent compared with an increase of 9.2 per cent in the previous year. The reduction in the price of kerosene and diesel in the last quarter of 1994 had a strong influence on the sub index. Prices in the alcoholic drinks, textile and footwear, paper products and transport equipment categories rose by 1.4 per cent, 6.8 per cent, 2.2 per cent and 3.4 per cent, respectively. The increases registered in 1993 by these four categories were 7.9 per cent, 8.0 per cent, 5.7 per cent and 5.9 per cent respectively.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.64,
+      305.66,
+      414.61,
+      358.82
+    ],
+    "text": "According to the end-use classification of the Index, prices in the domestic category rose by 13.0 per cent, a sharper increase when compared with the 5.8 per cent increase registered in the previous year. Prices in the import category, which increased by 4.5 per cent in 1994, had displayed a slightly higher rise in 1993. Prices in the export category dropped by 5.4 per cent in contrast to a substantial 11.4 per cent increase recorded in 1993.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.88,
+      365.9,
+      414.27,
+      408.26
+    ],
+    "text": "In the end-use classification, prices of consumer goods rose slightly by 0.6 per cent compared with a 7.0 per cent rise in the previous year. Prices in the intermediate and investments categories rose sharply by 17.7 per cent and 16.7 per cent, respectively. Increases in prices in these categories in the previous year were lower at 8.3 per cent and 13.7 per cent, respectively.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.88,
+      419.8,
+      97.14,
+      431.98
+    ],
+    "text": "WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.88,
+      439.1,
+      414.15,
+      522.98
+    ],
+    "text": "In 1994, the wages of government employees rose at a slower rate of 8.9 per cent when compared to the previous year. In 1993, wages rose by 21.1 per cent following the implementation of the new salary scales. The 8.9 per cent increase in wages in 1994 was just sufficient to compen\u00adsate for the rate of price increase experienced during the year. In the organised private sector, while the overall wage rise slowed down and as a result, real wages deteriorated when compared to the previous year, workers in services received a significant wage increase. Provisional data on the unorganised sector disclosed that, while wages rose in nominal terms in all sectors, real wages improved in almost all activities in paddy and coconut cultivation and in building construction.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.88,
+      535.72,
+      144.98,
+      547.9
+    ],
+    "text": "Government Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.64,
+      551.66,
+      414.45,
+      637.22
+    ],
+    "text": "In the government sector, the final phase of the 1993 salary revision was implemented in January 1994. Under this phase, public officer who were earning an initial salary step of Rs. 3,000/-or more as at December 1992, received the balance 50 per cent of the salary increase prescribed under the 1993 new salaries. (The initial 50 per cent increase had been paid since January 1993 to this category). Salaries of clerical and allied grades were revised upwards in August 1994 in order to rectify anomalies in the salary structure. Salary scales for the middle level technical service was also revised. In respect of minor employees, all grades earning an initial salary step of Rs. 23,160/-per annum or less, were granted a salary increase of three incremental steps.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.852999687194824,
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      56.88,
+      647.42,
+      414.45,
+      668.18
+    ],
+    "text": "The movement of wages in the government sector is measured by the wage rate indices for government sector employees. In nominal terms, the wage rate index for all central government",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      230.16,
+      692.06,
+      241.64,
+      702.02
+    ],
+    "text": "90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      227.04,
+      70.15,
+      284.95,
+      82.21
+    ],
+    "text": "T A B L E 1.43",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.09921646118164,
+      10.745864868164062
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      246.48,
+      119.75,
+      429.96,
+      136.99
+    ],
+    "text": "1993 1994 Percentage Change 1994 over 1993",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      224.16,
+      144.95,
+      251.14,
+      181.63
+    ],
+    "text": "Nominal Wage Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828,
+      7.196308135986328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      263.04,
+      144.95,
+      282.41,
+      162.91
+    ],
+    "text": "Real Wage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      263.76,
+      164.15,
+      281.46,
+      182.11
+    ],
+    "text": "Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      295.2,
+      144.95,
+      322.18,
+      181.63
+    ],
+    "text": "Nominal Wage Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828,
+      7.196308135986328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      334.32,
+      144.95,
+      353.69,
+      181.63
+    ],
+    "text": "Real Wage Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      366.48,
+      144.95,
+      393.67,
+      181.63
+    ],
+    "text": "Nominal Wage Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828,
+      7.196308135986328
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      405.84,
+      144.95,
+      425.39,
+      162.91
+    ],
+    "text": "Real Wage",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.958261489868164,
+      7.015033721923828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      406.56,
+      163.91,
+      424.45,
+      181.87
+    ],
+    "text": "Rate Index",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      76.08,
+      190.31,
+      175.25,
+      198.91
+    ],
+    "text": "1. Government Employees",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      6.825605869293213,
+      6.837973117828369,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.16,
+      200.15,
+      427.81,
+      227.71
+    ],
+    "text": "i. All Non-Executives 622.1 105.7 692.7 108.7 11.3 2.8 ii. Minor Employees 728.3 123.8 772.3 121.1 6.0 -2.2 iii. All Central Government",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.254772663116455,
+      7.500329494476318,
+      7.515294551849365,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91.68,
+      228.71,
+      427.55,
+      247.39
+    ],
+    "text": "Employees 675.5 114.8 735.5 115.4 8.9 0.5 iv. Govt. School Teachers 567.1 96.3 595.6 93.4 5.0 -3.0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.514387130737305,
+      7.543524265289307,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      75.36,
+      257.99,
+      190.24,
+      266.59
+    ],
+    "text": "2. W o r k e r s in W a g e s Boards",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      93.6,
+      267.59,
+      425.0,
+      295.39
+    ],
+    "text": "& T r a d e s i. Workers in Agriculture 803.8 136.6 821.5 128.8 2.2 -5.7 ii. Workers in Industry &",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.162448406219482,
+      7.538217544555664,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      91.44,
+      296.39,
+      427.18,
+      323.95
+    ],
+    "text": "Commerce 528.2 89.8 555.8 87.2 5.2 -2.9 iii. Workers in Services 365.8 62.2 431.4 67.6 17.9 8.7 iv. Workers in Wages Boards &",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.502858638763428,
+      7.538217544555664,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      112.56,
+      324.95,
+      424.85,
+      333.55
+    ],
+    "text": "Trades 685.7 116.6 712.4 111.7 3.9 -4.2",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.93782377243042,
+      7.015033721923828,
+      7.515294551849365
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      303.36,
+      342.71,
+      417.36,
+      351.31
+    ],
+    "text": "Sources: Department of Labour",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.182123184204102,
+      7.550791263580322,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      338.64,
+      352.55,
+      430.92,
+      361.15
+    ],
+    "text": "Central Bank of Sri Lanka",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.015033721923828,
+      7.174400329589844,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74.16,
+      380.3,
+      434.13,
+      519.62
+    ],
+    "text": "employees grew by 8.9 per cent during 1994. Given the rate of price increase of 8.4 per cent in 1994, this represents a marginal improvement in real wages of 0.5 per cent. In 1993, however, nominal wages grew sharply by 21.1 per cent and real wages by 8.3 per cent following the implementation of the 1993 new salary scales. Nominal wage rate indices for all non-executive officers rose by 11.3 per cent in 1994 while their real wages improved by 2.8 per cent. The rectification of anomalies for clerical and allied grades and the middle level technical service in August 1994 was responsible for the growth in wages of non-executive grades. In the previous year, however, growth in nominal wages was much higher at 22.7 per cent while growth in real wages was 9.5 per cent for this category. The wage rate index for minor employees grew by 6.0 per cent in 1994, representing a real wage deterioration of 2.2 per cent. The wage rate index for government school teachers rose by 5.0 per cent representing a real wage deterioration of 3.0 per cent during the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.199390411376953,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      74.16,
+      531.58,
+      189.08,
+      543.53
+    ],
+    "text": "Organised Private Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.745864868164062
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      73.68,
+      548.06,
+      433.65,
+      661.7
+    ],
+    "text": "In 1994, wages for workers covered by Wages Boards grew by 3.9 per cent. This was much lower than the 16.2 per cent growth experienced during 1993. Real wages for workers covered by Wages Boards deteriorated by 4.2 per cent during 1994, whereas in the previous year, real wages improved by 4.1 per cent. The slowing down in growth in wages for workers in Agriculture, which dominates the Index, was the reason for the lower overall increase in wages for workers covered by Wages Boards. Workers in Agriculture experienced a nominal wage growth of only 2.2 per cent in 1994 which represented a real wage deterioration of 5.7 per cent. In the previous year, wages for workers in Agriculture grew substantially by 21.1 per cent in nominal terms, while real wages had improved by 8.3 per cent. Wages for workers in State Plantations had remained stagnant since the granting of the budgetary allowance of Rs. 12/- and the freezing of the Cost of Living Allowance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      247.2,
+      685.58,
+      258.5,
+      695.54
+    ],
+    "text": "91",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      192.24,
+      84.31,
+      319.33,
+      108.37
+    ],
+    "text": "Wage Rate Index Numbers (December 1978 = 100)",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.572664260864258,
+      9.5853271484375,
+      9.629579544067383,
+      9.83926773071289,
+      10.745864868164062
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      157.92,
+      72.79,
+      313.97,
+      84.85
+    ],
+    "text": "WAGE R A T E INDEX NUMBERS",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.227523803710938,
+      9.280147552490234,
+      9.41522216796875
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      188.88,
+      88.1,
+      283.24,
+      96.37
+    ],
+    "text": "D E C E M B E R 1978 = 100",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.451170444488525,
+      7.43690824508667
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      211.2,
+      99.38,
+      257.95,
+      107.65
+    ],
+    "text": "Q U A R T E R L Y",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.451170444488525
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.72,
+      130.39,
+      160.07,
+      156.13
+    ],
+    "text": "POINTS IN INDEX 9 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      101.76,
+      128.71,
+      427.19,
+      170.77
+    ],
+    "text": "POINTS IN INDEX 9 0 0 WORKERS IN WAGES BOARDS TRADES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.92,
+      390.79,
+      97.63,
+      402.85
+    ],
+    "text": "200 h",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.44,
+      408.31,
+      101.87,
+      420.37
+    ],
+    "text": "0 ^ ~",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      388.8,
+      391.99,
+      431.35,
+      426.42
+    ],
+    "text": "\u201e 200 i 0",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121,
+      20.053550720214844
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.68,
+      444.55,
+      74.81,
+      456.61
+    ],
+    "text": "8 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.2,
+      479.11,
+      73.85,
+      491.17
+    ],
+    "text": "7 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.92,
+      513.67,
+      74.41,
+      525.73
+    ],
+    "text": "6 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.72,
+      548.23,
+      73.37,
+      560.29
+    ],
+    "text": "5 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      99.36,
+      448.09,
+      264.72,
+      471.97
+    ],
+    "text": "1 1 GOVERNMENT EMPLOYEES",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.786672592163086,
+      8.25496768951416,
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      252.96,
+      483.38,
+      264.95,
+      491.65
+    ],
+    "text": "r- -",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      6.451170444488525,
+      7.43690824508667
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      118.8,
+      499.57,
+      218.27,
+      507.76
+    ],
+    "text": "M I N O R E M P L O Y E E S",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.256642818450928,
+      7.43690824508667
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      310.56,
+      450.75,
+      359.9,
+      456.34
+    ],
+    "text": "- | 1\u2014r",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      4.35977029800415,
+      5.023932933807373
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      100.08,
+      544.86,
+      166.74,
+      565.52
+    ],
+    "text": "\u2022\u2014\u2022\u2014\u2022\u2014\u00bb",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      15.89493465423584
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      49.92,
+      586.1,
+      188.97,
+      603.76
+    ],
+    "text": "A 00 \u2014 GOVT. S C H O O L T E A C H E R S",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.305528163909912,
+      7.43690824508667
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.96,
+      609.64,
+      102.13,
+      635.7
+    ],
+    "text": "o i",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      17.43036460876465,
+      23.11772918701172
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      222.0,
+      577.09,
+      376.66,
+      593.68
+    ],
+    "text": "ALL N O N - E X E C U T I V E O F F I C E R S ( O T H E R T H A N",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      6.451170444488525,
+      7.276386737823486,
+      7.43690824508667
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      109.2,
+      594.85,
+      386.55,
+      642.85
+    ],
+    "text": "M I N O R E M P L O Y E E S ) L j I I I I I l_ 1991 1992 1993 1994",
+    "fonts": [
+      "Helvetica",
+      "Times-Roman"
+    ],
+    "sizes": [
+      7.256642818450928,
+      7.43690824508667,
+      10.853865623474121,
+      13.067853927612305,
+      13.06885814666748,
+      19.11028480529785,
+      22.030330657958984
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      404.64,
+      445.51,
+      428.81,
+      457.57
+    ],
+    "text": "800",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      405.12,
+      480.55,
+      428.66,
+      492.61
+    ],
+    "text": "700",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.68,
+      515.59,
+      428.01,
+      527.65
+    ],
+    "text": "600",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      403.44,
+      550.63,
+      427.93,
+      562.69
+    ],
+    "text": "5 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      402.96,
+      585.67,
+      427.77,
+      597.73
+    ],
+    "text": "4 0 0",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      10.853865623474121
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      387.84,
+      612.52,
+      435.0,
+      638.58
+    ],
+    "text": "1 o",
+    "fonts": [
+      "Courier-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      20.053550720214844,
+      20.093719482421875
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      324.0,
+      665.32,
+      429.32,
+      672.12
+    ],
+    "text": "Central Bank of Sri Lanka.",
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "sizes": [
+      6.0,
+      6.029925346374512
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      231.84,
+      686.54,
+      240.69,
+      696.5
+    ],
+    "text": "92",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.84340238571167
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.4,
+      74.3,
+      428.37,
+      172.58
+    ],
+    "text": "payable to these workers on 01.01.1993. The wages of plantation workers have a considerable weight in the Minimum Wage Rate Index for workers in Agriculture and the stagnation of their wages was the main reason for the slowing down in wage increases in this category. However, wages for workers in Services grew very sharply during the year by 17.9 per cent in nominal terms while their real wages improved by 8.7 per cent. In 1993, wages for these workers had remained stagnant in nominal terms and real wages had deteriorated by 10.6 per cent. The growth of wages for workers in Industry and Commerce at 5.2 per cent in 1994, was higher than the growth registered in the preceding year (3.4 per cent). However, this represents a real wage deterioration of 2.9 per cent for 1994.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.16,
+      180.62,
+      425.25,
+      201.62
+    ],
+    "text": "Minimum wages for workers in the Nursing Homes, Textile Manufacturing and Motor Trans\u00adport Trade categories were revised upwards in 1994.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      68.16,
+      210.52,
+      157.22,
+      222.7
+    ],
+    "text": "Unorganised Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.92,
+      226.94,
+      427.29,
+      270.02
+    ],
+    "text": "Under the Country-wide Data Collection System, information on daily wages in the unorgan\u00adised sector are obtained from around 100 centres spread across the country except in the Northern province. These wages are in respect of different activities in paddy cultivation, smallholder culti\u00advation of tea, rubber and coconut and building construction activities.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.943437576293945,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.44,
+      277.34,
+      427.12,
+      352.1
+    ],
+    "text": "In 1994, nominal wages grew in the unorganised sector for all activities. In paddy cultivation, the rates of growth varied between 8 to 17 per cent. Real wages improved in almost all activities. In coconut cultivation too, nominal^wages grew substantially, while real wages improved for almost all activities. In comparison, growth in wages in tea and rubber cultivation was relatively slow with real wages deteriorating in several activities. In building construction activities, nominal wages increased at rates ranging between 10 to 11 per cent for all categories of labour. Given the rate of price increase of 8.4 per cent, this represents an improvement in real wages.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.44,
+      366.86,
+      141.76,
+      376.82
+    ],
+    "text": "EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.96,
+      384.86,
+      426.63,
+      427.94
+    ],
+    "text": "According to the Annual Employment Survey conducted by the Central Bank, the total employment in the public sector, which includes the government and the semi-government sectors, is estimated to be around 1.32 million as at end 1994. This was an increase of 2 per cent over the previous year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.48,
+      435.5,
+      426.51,
+      542.66
+    ],
+    "text": "Employment in government institutions, consisting of the Central Government, Ministries and Departments as well as Provincial Councils and Local Authorities, was estimated to be 699,898 as at end 1994, registering an increase of 3.5 per cent over 1993. The increase was largely reflected in the category of doctors and health personnel and in the category of clerical and related workers which showed increases of 8 per cent and 6 per cent, respectively over the previous year. The service workers category, consisting of mainly defence personnel, increased by 4 per cent. Employ\u00adment in Semi-Government Institutions including Public Corporations, Statutory Boards and Government Owned Business Undertakings and State Banks rose by a marginal 1 per cent during 1994. The increase in the categories of clerical and related workers and professional, technical and related workers by 5 per cent and 4 per cent, respectively, was responsible for this increase.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.907272338867188,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.24,
+      552.38,
+      425.79,
+      594.74
+    ],
+    "text": "According to the occupational classification, the largest single group of employees in the public sector is manual workers which accounted for 36 per cent of total public sector employment. This share, however, has shown a declining trend over the past few years, which was largely the outcome of the decline in the labour category in the plantation sector.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.0,
+      603.02,
+      425.55,
+      668.18
+    ],
+    "text": "Time series data on employment in the organized private sector are scanty. Therefore, indica\u00adtors such as employees registered in provident funds are used to assess the employment in the formal private sector. The number of employees registered with the approved provident funds showed a slight increase of 1 per cent in 1994. Employees registered with the Employees' Provi\u00addent Fund rose by 6 per cent in 1993. There are indications that this increasing trend would have continued in 1994 considering the satisfactory economic growth realised during the year.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719,
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      239.76,
+      690.14,
+      251.33,
+      700.1
+    ],
+    "text": "93",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      176.16,
+      73.6,
+      302.67,
+      97.79
+    ],
+    "text": "T A B L E 1.44 Public Sector Employment",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.056966781616211,
+      9.449983596801758,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      129.84,
+      107.84,
+      394.37,
+      116.81
+    ],
+    "text": "Sub Sector 1992 1993 1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.96,
+      126.8,
+      405.77,
+      145.13
+    ],
+    "text": "1. Central Government, Provincial Councils & Local Authorities 653,959 676,483 699,898",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.457261562347412,
+      7.459546089172363,
+      7.484437465667725,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.24,
+      151.76,
+      406.02,
+      160.97
+    ],
+    "text": "2. Semi Government Institutions 637,271 618,794 625,266",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.254875659942627,
+      7.487947940826416,
+      7.49265193939209,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      143.04,
+      170.96,
+      405.74,
+      179.69
+    ],
+    "text": "Total 1,291,230 1,295,277 1,325,164",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      292.8,
+      187.76,
+      417.8,
+      196.25
+    ],
+    "text": "Source: Central Bank of Sri Lanka.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.484707355499268,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      210.38,
+      418.77,
+      264.5
+    ],
+    "text": "The Board of Investment of Sri Lanka (BOI) provided employment for 134,572 persons at the end of 1994, recording an increase of 10 per cent when compared with 1993. Around 43 per cent of the employment in these enterprises were in the Katunayake Export Processing Zone. The Biyagama and Koggala Export Processing Zones provided employment for 16 per cent and 4 per cent of the total employed in BOI enterprises.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.297590255737305,
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      271.82,
+      418.77,
+      357.38
+    ],
+    "text": "The estimates based on the Quarterly Survey on Labour Force conducted by the Department of Census and Statistics in 1994 revealed that about one hundred thousand persons have obtained employment during the 12-month period ended April, 1994. Employment generated in the Manu\u00adfacturing Sector was about fifty thousand while approximately two hundred and ten thousand persons obtained employment in the services sector during the period under review. Within manu\u00adfacturing, labour absorption was particularly high in the textile and garment sub sector. Labour absorption in 1994 was relatively low in the agriculture sector, where approximately 41 per cent of the labour force is currently employed.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      135.36,
+      370.72,
+      344.78,
+      394.67
+    ],
+    "text": "T A B L E 1.45 Labour Force and Employment 1990 -1994*",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.056966781616211,
+      9.449983596801758,
+      9.864912033081055,
+      10.359843254089355,
+      10.64636516571045
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      349.92,
+      395.6,
+      417.95,
+      404.09
+    ],
+    "text": "(in million persons)",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.339766502380371
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      142.56,
+      414.32,
+      406.94,
+      423.05
+    ],
+    "text": "Item 1990 1991 1992 1993 1994",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.48,
+      433.28,
+      412.42,
+      442.01
+    ],
+    "text": "Total Labour Force 6.00 5.83 5.8 6.08 6.17",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.72,
+      445.76,
+      412.33,
+      464.09
+    ],
+    "text": "Total Employed 5.03 4.94 4.85 5.26 5.36 By Economic Sector",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.712137699127197,
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.48,
+      465.44,
+      410.31,
+      474.17
+    ],
+    "text": "Agriculture, Fisheries & Mining & Quarrying 2.49 2.23 2.01 2.45 2.23",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.3079047203063965,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.96,
+      477.92,
+      412.36,
+      486.89
+    ],
+    "text": "Manufacturing & Utilities 0.60 0.64 0.67 0.70 0.75",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.305652141571045,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.96,
+      490.4,
+      412.33,
+      499.37
+    ],
+    "text": "Construction 0.23 0.20 0.26 0.20 0.26",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      78.72,
+      503.12,
+      410.1,
+      512.09
+    ],
+    "text": "Services 1.71 1.87 1.91 1.91 2.12",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      6.969825267791748,
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      61.2,
+      522.8,
+      416.6,
+      540.89
+    ],
+    "text": "* Excluding Northern and Eastern Provinces. Source: Quarterly Labour Force Survey, Dept. of Census and Statistics.",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      7.006854057312012,
+      7.561904430389404
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.72,
+      551.66,
+      418.47,
+      604.82
+    ],
+    "text": "The increasing trend observed in migration for employment abroad in the past few years continued in 1994. An Airport Survey conducted by the Sri Lanka Foreign Employment Bureau (SLFEB) disclosed that, in 1994, a total of 131,863 persons had secured employment through licensed agencies, the SLFEB and other channels. This was an increase of 2 per cent over employ\u00adment secured abroad in 1993.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      60.72,
+      612.62,
+      418.78,
+      665.78
+    ],
+    "text": "With regard to labour relations, an increase in labour disputes over the demands of workers both in the public and the private sectors was observed in 1994. There were 233 strikes in the country during the year under review. During the last quarter of the year, 123 strikes were reported, of which 100 were settled with the mediation of the Ministry of Labour and Vocational Training and the relevant Ministries. Only 23 strikes remained unsettled as at end of 1994.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      234.24,
+      689.18,
+      245.74,
+      699.14
+    ],
+    "text": "94",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  }
+]

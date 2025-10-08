@@ -1,0 +1,740 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      0.96,
+      100.59,
+      5.56,
+      110.33
+    ],
+    "text": ")",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      8.105144500732422
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.0,
+      199.83,
+      9.33,
+      217.53
+    ],
+    "text": "r",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      15.996520042419434
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.48,
+      301.18,
+      11.34,
+      319.99
+    ],
+    "text": "s",
+    "fonts": [
+      "Times-Roman"
+    ],
+    "sizes": [
+      16.996614456176758
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      244.32,
+      358.71,
+      334.14,
+      384.17
+    ],
+    "text": "PART I",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      23.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.0,
+      417.68,
+      4.22,
+      426.53
+    ],
+    "text": "l",
+    "fonts": [
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.997236728668213
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.0,
+      647.09,
+      4.57,
+      660.36
+    ],
+    "text": "I",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      9.882421493530273
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      0.0,
+      753.21,
+      3.01,
+      759.91
+    ],
+    "text": ")",
+    "fonts": [
+      "Helvetica"
+    ],
+    "sizes": [
+      5.440858840942383
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      217.92,
+      67.17,
+      366.47,
+      78.24
+    ],
+    "text": "KEY ECONOMIC INDICATORS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      264.96,
+      86.85,
+      490.81,
+      97.92
+    ],
+    "text": "1990 1996 1997 1998 1999 2000(aT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.9442720413208,
+      9.949873924255371,
+      10.46823787689209
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.44,
+      104.95,
+      489.22,
+      170.69
+    ],
+    "text": "DEMOGRAPHY Mid year population ('000 persons) 17,015 18,336 18,552 18,774 19,043 19,359 Growth of mid year population (percent) 1.1 1.1 1.2 1.2 1.4 1.7 Population density (persons per sq.km.) 271 292 296 299 304 309 Labour force ('000 persons) 6,001 6,242 6,266 6,661 6.673(b) 6.867(c) Labour force participation rate (per cent) 51.9 48.7 48.7 51.7 50.7(b) 50.7(c) Unemployment rate (per cent of labour force) 15.9 11.3 10.5 9.2 8.9(b) 7.7(c)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592,
+      8.0,
+      8.046902656555176,
+      8.048651695251465,
+      8.064936637878418,
+      8.066523551940918,
+      8.076196670532227,
+      8.076950073242188
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      67.68,
+      180.55,
+      98.76,
+      189.41
+    ],
+    "text": "OUTPUT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.56,
+      189.91,
+      489.41,
+      246.29
+    ],
+    "text": "GDP at current market prices (Rs. billion) 322 768 890 1,018 1,106 1,256 GNP at current market prices (Rs. billion) 319 757 880 1,002 1,090 1,234 Per capita GDP at market prices (Rs.) 18,934 41,940 47,988 54,220 58,077 64,855 Per capita GNP at market prices (Rs.) 18,791 41,349 47,433 53,364 57,256 63,752 Per capita GDP at market prices (US$) 473 759 814 839 825 856 Per capita GNP at market prices (US$) 469 748 804 823 813 841",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.16,
+      256.39,
+      181.1,
+      265.25
+    ],
+    "text": "REAL OUTPUT (percentage change)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      68.4,
+      265.75,
+      489.44,
+      340.85
+    ],
+    "text": "GNP 6.2 3.2 6.8 4.6 3.8 5.8 GDP 6.4 3.8 6.3 4.7 4.3 6.0 Agriculture, forestry and fishing 8.8 -4.6 3.0 2.5 4.5 1.8 Mining and quarrying 9.1 8.9 3.8 -5.4 4.1 4.8 Manufacturing 9.4 6.5 9.1 6.3 4.4 9.2 Construction 2.0 3.4 5.4 7.1 4.8 4.8 Services 4.3 5.8 7.1 5.2 4.2 6.9 AGGREGATE DEMAND AND SAVINGS (per cent of GDP)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.52,
+      340.87,
+      490.26,
+      464.21
+    ],
+    "text": "Consumption 85.3 84.6 82.7 81.1 80.5 82.7 Private 75.9 74.1 72.3 71.3 71.5 72.2 Government 9.4 10.5 10.4 9.8 9.0 10.5 Investment 22.2 24.2 24.4 25.1 27.3 28.0 Government 4.2 3.1 3.4 3.3 3.2 3.2 Public coiporations 4.2 3.1 2.9 3.0 3.5 3.4 Private 14.8 18.0 18.1 18.7 20.6 21.5 Net import of goods & non factor services -10.0 -8.9 -7.1 -6.5 -7.8 -10.6 Export of goods & non factor services 31.3 35.0 36.5 36.0 35.5 39.1 Import of goods & non factor services 41.3 43.9 43.6 42.4 43.3 49.7 Domestic savings 14.3 15.3 17.3 19.1 19.5 17.3 Net factor income (d) 2.5 3.7 4.2 4.3 4.0 4.1 National savings 16.8 19.0 21.5 23.4 23.5 21.4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.12,
+      474.07,
+      202.94,
+      482.93
+    ],
+    "text": "PRICES AND WAGES (percentage change)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.76,
+      483.43,
+      490.34,
+      540.44
+    ],
+    "text": "Colombo Consumers' Price Index (1952 = 100) 21.5 15.9 9.6 9.4 4.7 6.2 Greater Colombo Consumers' Price Index (Jan.-Jun. 1989 = 100) 24.6 14.7 7.1 6.9 3.8 3.2 Wholesale Price Index (1974 = 100) 22.2 20.5 6.9 6.1 -0.3 1.7 GNP deflator 20.0 12.2 8.7 8.4 4.4 6.7 Nominal wage rate index for workers in all wages boards 16.9 8.3 5.9 12.3 2.5 2.3 Nominal wage rate index for central government employees 13.0 3.2 10.8 10.5 -8.3",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592,
+      7.966811180114746,
+      7.970144271850586,
+      8.0,
+      8.181540489196777,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      69.36,
+      549.19,
+      212.06,
+      558.05
+    ],
+    "text": "GOVERNMENT FINANCE (per cent of GDP)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      78.48,
+      558.31,
+      491.57,
+      680.69
+    ],
+    "text": "Revenue 21.1 19.0 18.5 17.2 17.7 16.8 Expenditure and net lending 31.0 28.5 26.4 26.3 25.2 26.7 Current 22.3 22.8 20.8 19.6 18.7 20.3 Public investment 8.3 6.0 5.8 6.7 6.5 6.4 Current account deflcit(-)/surplus(+) -1.2 -3.8 -2.2 -2.4 -1.0 -3.4 Overall deficit -9.9 -9.4 -7.9 -9.2 -7.5 -9.9 Deficit financing 9.9 9.4 7.9 9.2 7.5 9.9 Foreign 5.7 13 1.9 1.7 0.7 0.4 Domestic 4.2 6.5 3.4 7.0 6.8 9.4 Privatisation proceeds -0.6 2.5 0.4 ... Government debt 96.5 93.3 85.8 90.8 95.1 97.1 Foreign 54.9 46.8 42.3 45.3 45.9 43.1 Domestic 41.6 46.4 43.5 45.5 49.1 53.9",
+    "fonts": [
+      "Helvetica",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.589466094970703,
+      7.959899425506592,
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      70.08,
+      702.48,
+      443.1,
+      710.71
+    ],
+    "text": "(a) Provisional (b) Average of four quarters (c) Average of 1st, 2nd and 3rd quarters (d) Includes workers' remittances.",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      5.786967754364014,
+      6.069423198699951,
+      6.681400775909424,
+      6.7141642570495605,
+      6.753676414489746,
+      6.780674457550049
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      217.2,
+      69.19,
+      364.7,
+      78.05
+    ],
+    "text": "KEY ECONOMIC INDICATORS (contd.)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      272.64,
+      90.55,
+      508.83,
+      99.89
+    ],
+    "text": "1990 1996 1997 1998 1999 ; 2000(a) \";",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.96,
+      104.23,
+      208.22,
+      113.09
+    ],
+    "text": "EXTERNAL TRADE (percentage change)(e)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.84,
+      113.59,
+      495.63,
+      130.85
+    ],
+    "text": "Terms of trade \u2022 -12.5 -0.5 6.8 14.2 -5.0 -6.1 Export unit value index (1997 = 100) , 9.1 -11.6 9.3 11.6 -8.5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.36,
+      125.38,
+      500.46,
+      157.49
+    ],
+    "text": "' \u00ab Import unit value index (1997 = 100) 24.7 12.0 2.4 -2.2 -3.5 8.1 Export volume . . 29.7 - ; 4,1 10.6 0.1 5.0 18.3\" Import volume 7.6 0.4 12.3 12.4 0.2 ' 12.9",
+    "fonts": [
+      "Helvetica",
+      "Helvetica-Oblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.843795299530029,
+      7.959899425506592,
+      8.0,
+      17.305816650390625
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      174.55,
+      188.62,
+      183.41
+    ],
+    "text": "EXTERNAL FINANCE (US$ million)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.88,
+      183.19,
+      507.61,
+      288.53
+    ],
+    "text": "Trade balance -703 -1,344 -1,225 -1,092 -1,369 ' -1,798 Exports 1,984 4,095 4,639 4,798 4,610 5,522 Imports-2,686 5,439 5,864 5,889 5,979 7,320 Services and income account (net) -98 -92 -1 -35 -107 -266 \u2022 Current private transfers (net) 362 710 . 788 848 887 974 : Current official transfers (net) 62 49 44 52 26 - 25 -Current account balance , -377 -677 -393 -226 -563 -1.065 \u2022 Overall balance 119 -68 163 37 -263 -516 Current account balance (per cent of GDP) -4.7 -4.9 -2.6 -1.4 -3.6 -6 4 External assets (months of same year imports) 3.7 6.0 6.4 5.9 5.2 35 Overall debt service ratio (per cent of X G &S) 17.8 15.3 13.3 13.3 15.2 14.7 ' Total external debt and liabilities (per cent of GDP) 72.7(f) 68.6 62.3 616 63.5 60.0",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0,
+      8.049169540405273,
+      8.05139446258545,
+      8.051434516906738,
+      8.051474571228027,
+      8.068109512329102,
+      8.068228721618652,
+      8.068546295166016,
+      8.070211410522461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      71.76,
+      297.19,
+      138.86,
+      306.05
+    ],
+    "text": "EXCHANGE RATES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.88,
+      305.83,
+      502.32,
+      341.33
+    ],
+    "text": "Annual average ' ' ' ' ' ' Rs/USS 40.06 55.27 58 99 64.59 70.39 75.78 Rs/SDR 54.42 80.23 81.17 87.66 96.25 99.90 End - year",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      4.972947597503662,
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      90.0,
+      340.87,
+      495.64,
+      358.61
+    ],
+    "text": "RsAJSS 42.58 56.71 61.29 67.78 72.12 80.06 Rs/SDR 57.25 81.38 82.69 95.44 98.87 104.31",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.24,
+      366.55,
+      271.85,
+      375.89
+    ],
+    "text": "MONETARY AGGREGATES (g) (per cent change Dec. to Dec.)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.12,
+      375.67,
+      504.8,
+      419.81
+    ],
+    "text": "Narrow money (M|) 12.8 4.0 9.8 12.1 12 8 9.1 '' Broad money ( M J 20.1 11.3 15.6 13.2 13.4 12.9 , Net external assets of the banking system 115.7 -2.6 43.5 16.7 -3.4 -31.9 Net domestic assets 13.4 15.9 7.8 11.9 19.9 ^.26.9 ' Domestic credit from the banking system to",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.928203105926514,
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.88,
+      419.59,
+      496.15,
+      472.61
+    ],
+    "text": "Government (net) 0.7 21.9 -4.0 42.8 45.3 ' '56.8 Public corporations 12.8 16.4 -5.8 -31.3 30.1 193.2 Private sector 24.3 9.0 14.5 12.0 105 11.8 Reserve money 17.9 8.8 -2.1 10.9 8.2 4.7 Money multiplier for M,,, 2.87 3.38 3.98 4.07 4 26 * 4.60 Velocity of rVL^ 3.55 2.8 2.89 2.88 - 2.74 2.79",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.923272132873535,
+      7.959899425506592,
+      8.0,
+      8.008635520935059
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.0,
+      481.03,
+      234.62,
+      489.89
+    ],
+    "text": "INTEREST RATES (per cent per annum at end year)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      80.88,
+      490.15,
+      134.4,
+      499.01
+    ],
+    "text": "Treasury bill rate",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.36,
+      496.87,
+      496.15,
+      542.21
+    ],
+    "text": "' , \u2022 17.77 91 days 17.41 17.45 9.97 12.01 11 79 ' , \u2022 17.77 364 days 18.36 17.38 10.21 12.59 12.77 18.22 Repurchase rate (overnight) .\u2022 j , - . r j . 12.75 11.00 11.25 9.25 \" 17.00 Rediscount rate (overnight)/Reverse repo rate 18.58 12.85 15.00 13.48 20.00 Deposit rates",
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica-BoldOblique",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.147908687591553,
+      7.057446002960205,
+      7.085305213928223,
+      7.959899425506592,
+      8.0,
+      8.181540489196777,
+      8.249469757080078
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      70.32,
+      540.07,
+      496.08,
+      585.65
+    ],
+    "text": "9.2 9.1 9.9 Commercial banks'weighted average deposit 12 9 12 3 10.0 9.2 9.1 9.9 Commercial banks'12 month fixed deposit (max.) 21.0 17.8 15.3 13.0 12.5 15.0 NSB savings 16.2 12.0 10.8 10.5 9.2 8.4 NSB 12 month fixed deposit 18.5 15.0 11.0 11.5 11.5 15.0 * Lending rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.81398868560791,
+      7.959899425506592,
+      8.0,
+      8.422750473022461
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.48,
+      583.51,
+      502.0,
+      611.81
+    ],
+    "text": "14.9 15.9 21.46 . Commercial banks'weighted average prime, lending 18.5 20.2 15.2 14.9 15.9 21.46 . Bills purchased & discounted 14.5-30.0 11.0 - 30.0 11.0-30.0 11.0-30.0 11.0-30.0 11.0-25.0 CAPITAL MARKET",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      81.6,
+      609.43,
+      496.4,
+      655.49
+    ],
+    "text": "447.6 All Share Price Index (1985 = 100) 384.0 603.0 702.2 597.0 573.0 447.6 Sensitive Price Index (1985 = 100) 680.0 897.7 1,068.0 923.0 938(h) , 698.5 Value of shares traded (Rs. million) 1,563 7.403 18,315 18,130 14,294 10,624 Net purchases by non nationals (Rs. million) \u2022 391.0 351.6 716.0--1,517 -902 -3364 Market capitalisation (Rs. billion) 37.0 104.2 129.4 117.0 113.0 '- 88.8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.899651050567627,
+      7.925654888153076,
+      7.959899425506592,
+      8.0,
+      8.070964813232422,
+      8.10937213897705
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.72,
+      662.47,
+      503.17,
+      698.69
+    ],
+    "text": "(e)' A new trade indices series has been introduced from 1998. Please refer foot note (a) in the statistical appendix table 75 for a detailed description on the change of methodology: Data for 1990 have been obtainedby splicing the previous annual trade indices series. (f) Excluding commercial bank external liabilities. ted data (g) Monetary data for 1990 are based only on data of the domestic banking units, while data from 1996-2000 are based on the aggregi ted data",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.867337703704834,
+      6.876045227050781,
+      6.928203105926514,
+      7.854517459869385,
+      7.931506633758545,
+      7.959899425506592,
+      7.982901573181152,
+      8.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      72.96,
+      698.71,
+      456.14,
+      716.69
+    ],
+    "text": "pertaining to both domestic banking units and foreign currency banking units, (h) The Milanka Price Index (MPI) was introduced in January 1999 (1998 December =1000), to replace the Sensitive Price Index.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      5.969924449920654,
+      7.857245922088623,
+      7.931506633758545,
+      7.959899425506592,
+      8.0
+    ]
+  }
+]

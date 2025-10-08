@@ -1,0 +1,10275 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      22.08,
+      383.43,
+      24.11,
+      389.17
+    ],
+    "text": "]",
+    "fonts": [
+      "Helvetica-Oblique"
+    ],
+    "sizes": [
+      4.334659099578857
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      19.44,
+      655.02,
+      29.3,
+      663.0
+    ],
+    "text": "'1'",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.630475044250488
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.72,
+      370.98,
+      392.43,
+      393.12
+    ],
+    "text": "ANNUAL REPORT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      19.697715759277344
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      176.4,
+      482.21,
+      421.32,
+      496.96
+    ],
+    "text": "OF THE MONETARY BOARD TO THE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.000492095947266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      201.12,
+      503.81,
+      397.32,
+      518.56
+    ],
+    "text": "HON. MINISTER OF FINANCE",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      12.891744613647461,
+      13.000492095947266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      246.0,
+      628.37,
+      354.5,
+      643.12
+    ],
+    "text": "FOR THE YEAR",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      13.000492095947266
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      275.04,
+      661.38,
+      324.67,
+      683.52
+    ],
+    "text": "1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      19.697715759277344
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      74.16,
+      400.06,
+      186.33,
+      411.34
+    ],
+    "text": "ISBN 955-575-048-3",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      9.953651428222656,
+      10.049373626708984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      73.92,
+      417.1,
+      164.25,
+      428.38
+    ],
+    "text": "ISSN 1391-3581",
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "sizes": [
+      10.049373626708984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.28,
+      506.76,
+      129.08,
+      517.94
+    ],
+    "text": "Price per copy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.049373626708984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.52,
+      526.63,
+      207.79,
+      535.49
+    ],
+    "text": "Counter sales -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      544.87,
+      207.79,
+      553.73
+    ],
+    "text": "Despatch by ordinary mail -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.52,
+      562.87,
+      207.79,
+      571.73
+    ],
+    "text": "Despatch by registered mail -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      65.28,
+      602.52,
+      140.01,
+      613.7
+    ],
+    "text": "Despatch abroad",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.049373626708984
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.28,
+      622.63,
+      207.79,
+      631.49
+    ],
+    "text": "First class parcel -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.52,
+      640.39,
+      207.79,
+      649.25
+    ],
+    "text": "Second class parcel -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      77.52,
+      658.15,
+      207.79,
+      667.01
+    ],
+    "text": "Sea mail -",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      527.59,
+      303.26,
+      536.45
+    ],
+    "text": "Rs. 100/-per copy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      545.35,
+      303.26,
+      554.21
+    ],
+    "text": "Rs. 115/-per copy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      563.11,
+      303.26,
+      571.97
+    ],
+    "text": "Rs. 120/- per copy",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      623.11,
+      362.78,
+      631.97
+    ],
+    "text": "US $ 35 per copy (Registered post)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      640.87,
+      362.78,
+      649.73
+    ],
+    "text": "US $ 30 per copy (Registered post)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      220.32,
+      658.63,
+      361.58,
+      667.49
+    ],
+    "text": "US $ 20 per copy (Registered post)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      84.0,
+      700.76,
+      476.76,
+      719.57
+    ],
+    "text": "Printed at the Central Bank Printing Press, No. 58, Sri Jayewardenepura Mawatha, Rajagiriya and published by the Central Bank of Sri Lanka, West Tower, World Trade Centre, Echelon Square, Colombo 1.",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.08,
+      153.26,
+      270.39,
+      163.22
+    ],
+    "text": "HER EXCELLENCY THE PRESIDENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.08,
+      166.7,
+      326.8,
+      203.06
+    ],
+    "text": "AND MINISTER OF FINANCE AND PLANNING MINISTRY OF FINANCE AND PLANNING COLOMBO",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.32,
+      243.74,
+      172.92,
+      253.7
+    ],
+    "text": "Your Excellency,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      118.32,
+      296.78,
+      495.87,
+      306.74
+    ],
+    "text": "Section 35 of the Monetary Law Act (Chapter 422) requires the Monetary Board of the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.08,
+      313.34,
+      495.63,
+      323.3
+    ],
+    "text": "Central Bank of Sri Lanka to submit an Annual Report to your Excellency on the state of the",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.08,
+      329.9,
+      495.63,
+      339.86
+    ],
+    "text": "economy, the condition of the Central Bank and a review of the policies and measures adopted",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.08,
+      346.46,
+      495.52,
+      356.42
+    ],
+    "text": "by the Monetary Board, within four months after the end of each financial year. The forty",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.84,
+      363.02,
+      495.96,
+      372.98
+    ],
+    "text": "eighth Annual Report of the Monetary Board of the Central Bank, in respect of the Year 1997,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      100.32,
+      379.58,
+      320.13,
+      389.54
+    ],
+    "text": "is submitted herewith in fulfilment of this obligation.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      339.36,
+      442.94,
+      407.64,
+      452.9
+    ],
+    "text": "Yours sincerely,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      322.56,
+      481.34,
+      424.77,
+      504.5
+    ],
+    "text": "S. EASPARATHASAN Senior Deputy Governor",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.6,
+      520.22,
+      284.76,
+      556.58
+    ],
+    "text": "Central Bank of Sri Lanka at temporary premises, Level 35, West Tower, World Trade Centre,",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.6,
+      560.06,
+      207.33,
+      596.42
+    ],
+    "text": "Echelon Square, Bank of Ceylon Mawatha Colombo 1.",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      99.84,
+      624.38,
+      159.5,
+      634.34
+    ],
+    "text": "30 April 1998",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.954887390136719
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      136.8,
+      46.02,
+      450.18,
+      68.16
+    ],
+    "text": "CENTRAL BANK OF SRI LANKA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      20.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      230.16,
+      92.61,
+      353.8,
+      103.68
+    ],
+    "text": "THE MONETARY BOARD",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      238.32,
+      108.4,
+      345.25,
+      117.15
+    ],
+    "text": "(As at 31 December 1997)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.16,
+      130.0,
+      340.94,
+      138.75
+    ],
+    "text": "A . S. JAYAWARDENA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      271.44,
+      142.72,
+      304.13,
+      151.47
+    ],
+    "text": "Governor",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      260.4,
+      164.08,
+      322.94,
+      172.83
+    ],
+    "text": "B . C . PERERA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      188.88,
+      176.56,
+      393.49,
+      185.31
+    ],
+    "text": "Secretary to the Ministry of Finance and Planning",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252.0,
+      198.4,
+      330.92,
+      207.15
+    ],
+    "text": "C . CHANMUGAM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      252.0,
+      210.88,
+      330.41,
+      219.63
+    ],
+    "text": "Appointed Member",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      219.84,
+      246.52,
+      418.68,
+      258.7
+    ],
+    "text": "Principal Officers as at 31 December 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      11.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      286.38,
+      196.52,
+      294.36
+    ],
+    "text": "P. A M A R A S I N G H E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.7541985511779785,
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      299.1,
+      206.93,
+      307.08
+    ],
+    "text": "S. E A S P A R A T H A S A N",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.88,
+      285.76,
+      317.69,
+      294.51
+    ],
+    "text": "Deputy Governor",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.88,
+      298.24,
+      317.69,
+      306.99
+    ],
+    "text": "Deputy Governor",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      330.16,
+      214.2,
+      338.91
+    ],
+    "text": "N.A.DHARMABANDU",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      342.64,
+      204.14,
+      351.39
+    ],
+    "text": "H. M. R. ELLEPQLA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.12,
+      355.12,
+      213.79,
+      363.87
+    ],
+    "text": "P. M. NAG AH A WATTE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.12,
+      367.6,
+      213.02,
+      376.35
+    ],
+    "text": "G. M . P . D . D E SILVA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      380.08,
+      191.85,
+      388.83
+    ],
+    "text": "S.PATTIWIDANA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.88,
+      329.2,
+      323.93,
+      337.95
+    ],
+    "text": "Executive Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.64,
+      341.68,
+      476.82,
+      350.43
+    ],
+    "text": "Executive Director and Secretary to the Monetary Board",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.64,
+      354.16,
+      323.93,
+      362.91
+    ],
+    "text": "Executive Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.64,
+      366.64,
+      323.93,
+      375.39
+    ],
+    "text": "Executive Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      242.88,
+      379.12,
+      323.93,
+      387.87
+    ],
+    "text": "Executive Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      409.17,
+      213.8,
+      420.24
+    ],
+    "text": "Banking Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      423.9,
+      209.72,
+      431.88
+    ],
+    "text": "M. B. D l S S A N A Y A K E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      436.14,
+      208.76,
+      444.12
+    ],
+    "text": "A . S H A N M U G A S A M Y",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.7541985511779785,
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      449.1,
+      218.6,
+      457.08
+    ],
+    "text": "U. VlDANAPATHTRANA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      461.58,
+      240.44,
+      469.56
+    ],
+    "text": "Y . M. W . B. WEERASEKERA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.7541985511779785,
+      7.199999809265137
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      263.04,
+      422.8,
+      337.34,
+      431.55
+    ],
+    "text": "Chief Accountant",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262.56,
+      435.28,
+      384.38,
+      444.03
+    ],
+    "text": "Additional Chief Accountant",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262.56,
+      447.76,
+      384.38,
+      456.51
+    ],
+    "text": "Additional Chief Accountant",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      262.56,
+      460.24,
+      384.38,
+      468.99
+    ],
+    "text": "Additional Chief Accountant",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      490.05,
+      274.76,
+      501.12
+    ],
+    "text": "Banking Development Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      505.02,
+      300.43,
+      513.0
+    ],
+    "text": "M I S S C . A B E Y N A Y A K E - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.099287509918213,
+      7.199999809265137,
+      7.5894622802734375
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      533.25,
+      255.56,
+      544.32
+    ],
+    "text": "Bank Supervision Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      547.6,
+      300.65,
+      556.35
+    ],
+    "text": "Y . A . PIYATISSA - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      559.84,
+      347.69,
+      568.59
+    ],
+    "text": "MISS C . I . FERNANDO - Additional Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      589.17,
+      219.08,
+      600.24
+    ],
+    "text": "Currency Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      602.8,
+      312.85,
+      611.88
+    ],
+    "text": "R. G. J A Y A R A T N E Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.199999809265137,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      632.61,
+      248.12,
+      643.68
+    ],
+    "text": "Data Processing Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.6,
+      646.72,
+      300.65,
+      655.47
+    ],
+    "text": "M R S . S. N . FERNANDO - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.369137763977051,
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      676.05,
+      272.6,
+      687.12
+    ],
+    "text": "Development Finance Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      117.36,
+      690.4,
+      300.65,
+      699.15
+    ],
+    "text": "N. L. SIRISENA - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.410857200622559,
+      7.900000095367432
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      47.97,
+      255.53,
+      59.04
+    ],
+    "text": "Economic Research Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      62.5,
+      291.94,
+      71.02
+    ],
+    "text": "R . A. JAYATISSA - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      74.98,
+      338.98,
+      83.5
+    ],
+    "text": "A. G . K A R U N A S E N A - Additional Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      87.46,
+      338.98,
+      95.98
+    ],
+    "text": "P . B . J A Y A S U N D A R A - Additional Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.310419082641602,
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      116.61,
+      292.49,
+      127.68
+    ],
+    "text": "Employees' Provident Fund Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      109.92,
+      131.38,
+      349.51,
+      139.9
+    ],
+    "text": "W . A. WlJEWARDENA - Acting Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      143.86,
+      366.55,
+      152.38
+    ],
+    "text": "M. S . SlRIPALA - Additional Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      156.34,
+      366.31,
+      164.86
+    ],
+    "text": "M. D . D . GUNATILAKE - Additional Superintendent",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      185.49,
+      236.33,
+      196.56
+    ],
+    "text": "Establishments Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      199.78,
+      175.44,
+      208.3
+    ],
+    "text": "D B O Y A G O D A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.34533166885376
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      212.26,
+      190.56,
+      220.78
+    ],
+    "text": "M. R A M A N A T H A N",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      240.96,
+      200.26,
+      292.62,
+      208.78
+    ],
+    "text": "- Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      240.96,
+      212.5,
+      339.66,
+      221.02
+    ],
+    "text": "- Additional Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      241.41,
+      249.29,
+      252.48
+    ],
+    "text": "Exchange Control Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      255.94,
+      301.06,
+      264.46
+    ],
+    "text": "M . R . F E R N A N D O - Controller",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      284.85,
+      246.89,
+      295.92
+    ],
+    "text": "Financial Markets Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      299.38,
+      291.16,
+      307.9
+    ],
+    "text": "P.T. SlRISENA - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      328.29,
+      223.37,
+      339.36
+    ],
+    "text": "Information Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      343.06,
+      292.67,
+      351.58
+    ],
+    "text": "M R S . M . A. R. C . COORAY - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.275379657745361,
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      371.73,
+      255.05,
+      382.8
+    ],
+    "text": "Management Audit Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.64,
+      386.5,
+      292.66,
+      395.02
+    ],
+    "text": "S . R U P A S I N G H E - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      415.65,
+      233.21,
+      426.72
+    ],
+    "text": "New Buildings Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.64,
+      429.94,
+      292.66,
+      438.46
+    ],
+    "text": "M . I. F. H A M I D - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.64,
+      459.09,
+      367.61,
+      470.16
+    ],
+    "text": "Non-Bank Financial Institutions Supervision Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      473.38,
+      214.23,
+      481.9
+    ],
+    "text": "J. E . D . K A R U N A R A T N E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      485.86,
+      194.55,
+      494.38
+    ],
+    "text": "M R S . P . T . PERERA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.275379657745361,
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      255.36,
+      473.62,
+      283.52,
+      482.14
+    ],
+    "text": "Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      254.88,
+      486.34,
+      339.46,
+      494.86
+    ],
+    "text": "Additional Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.64,
+      515.25,
+      208.73,
+      526.32
+    ],
+    "text": "Premises Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      529.54,
+      292.86,
+      538.06
+    ],
+    "text": "T . H . D . PEIRIS - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      558.21,
+      221.21,
+      569.28
+    ],
+    "text": "Public Debt Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      572.74,
+      196.4,
+      581.26
+    ],
+    "text": "T . S . N . FERNANDO",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.469198226928711
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.16,
+      584.98,
+      225.08,
+      593.5
+    ],
+    "text": "J. M . T . B . JAYASUNDARA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.450480937957764,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.2,
+      573.22,
+      380.46,
+      581.74
+    ],
+    "text": "- Superintendent and Registrar",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      241.2,
+      585.46,
+      366.99,
+      593.98
+    ],
+    "text": "- Additional Superintendent",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      614.13,
+      300.3,
+      625.2
+    ],
+    "text": "Rural Banking and Staff Training College",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      628.66,
+      292.66,
+      637.18
+    ],
+    "text": "H . A. G . HETTIARACHCHI - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      641.14,
+      339.46,
+      649.66
+    ],
+    "text": "D . S . W I J E S I N G H E - Additional Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.64,
+      669.81,
+      226.73,
+      680.88
+    ],
+    "text": "Rural Credit Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      110.4,
+      684.58,
+      292.66,
+      693.1
+    ],
+    "text": "W . A. WlJEWARDENA - Director",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.34533166885376,
+      7.661403179168701
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      54.21,
+      229.13,
+      65.28
+    ],
+    "text": "Secretariat Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      120.96,
+      69.36,
+      242.34,
+      77.11
+    ],
+    "text": "T . G: S A V U N D R A N A Y A G A M",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      81.84,
+      225.01,
+      89.59
+    ],
+    "text": "C . K . P A R A N A V I T H A N A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.922606945037842,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      266.64,
+      67.99,
+      298.97,
+      76.85
+    ],
+    "text": "Secretary",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252.48,
+      80.47,
+      355.51,
+      89.33
+    ],
+    "text": "- Additional Secretary",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      100.77,
+      236.31,
+      111.84
+    ],
+    "text": "Security Services Depart]",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      116.16,
+      194.29,
+      123.91
+    ],
+    "text": "H . S. A . P E R E R A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      134.61,
+      220.49,
+      145.68
+    ],
+    "text": "Statistics Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.44,
+      149.76,
+      202.2,
+      157.51
+    ],
+    "text": "S. S. C O L O M B A G E",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      172.05,
+      219.77,
+      183.12
+    ],
+    "text": "Training Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.2,
+      187.68,
+      188.25,
+      195.43
+    ],
+    "text": "T . H . D . PEIRIS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.44,
+      206.37,
+      216.41,
+      217.44
+    ],
+    "text": "Welfare Department",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.44,
+      221.52,
+      210.06,
+      229.27
+    ],
+    "text": "W. S. L. F E R N A N D O",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.68,
+      240.45,
+      195.07,
+      251.52
+    ],
+    "text": "Special Officers",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.68,
+      255.6,
+      231.49,
+      263.35
+    ],
+    "text": "M R S . R A N E E JA YAM AHA",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.936713695526123,
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      121.92,
+      268.08,
+      223.33,
+      275.83
+    ],
+    "text": "K . C . M . G U N A S E K E R A",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.964912414550781
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252.48,
+      114.07,
+      304.46,
+      122.93
+    ],
+    "text": "- Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252.72,
+      148.15,
+      304.7,
+      157.01
+    ],
+    "text": "- Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252.96,
+      185.83,
+      304.94,
+      194.69
+    ],
+    "text": "- Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      252.96,
+      219.67,
+      304.94,
+      228.53
+    ],
+    "text": "- Director",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      253.2,
+      253.99,
+      350.48,
+      262.85
+    ],
+    "text": "- (On Leave Abroad)",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      300.96,
+      285.81,
+      337.89,
+      296.88
+    ],
+    "text": "Auditor",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      283.68,
+      306.96,
+      347.89,
+      326.69
+    ],
+    "text": "S. M . S A B R Y Auditor-General",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      6.964912414550781,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      264.48,
+      52.6,
+      333.08,
+      64.78
+    ],
+    "text": "CONTENTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.28,
+      79.72,
+      106.54,
+      91.9
+    ],
+    "text": "PARTI",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.0,
+      106.87,
+      360.73,
+      115.73
+    ],
+    "text": "ECONOMIC P E R F O R M A N C E , PROBLEMS A N D POLICIES IN",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.0,
+      119.11,
+      131.89,
+      127.97
+    ],
+    "text": "1.1 Overview",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.76,
+      131.11,
+      318.82,
+      351.65
+    ],
+    "text": "1.2 Output Economic Growth Agriculture Mining and Quarrying Manufacturing Services 1.3 Investment and Savings 1.4 Prices 1.5 Wages 1.6 Population 1.7 Fiscal Policy and Budgetary Operations 1.8 Public Enterprise Reforms 1.9 Government Debt and Debt Service Payments 1.10 International Environment and External Sector Developments International Economic Environment External Sector Developments 1.11 Financial Sector Money Supply 1.12 Problems and Issues",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.24,
+      365.83,
+      274.74,
+      374.69
+    ],
+    "text": "NATIONAL INCOME A N D EXPENDITURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.28,
+      377.83,
+      245.62,
+      433.73
+    ],
+    "text": "2.1 Overall Trends 2.2 Sectoral Performance 2.3 Expenditure 2.4 Availability and Utilisation of Resources 25 National Savings",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      362.88,
+      106.39,
+      383.03,
+      115.25
+    ],
+    "text": "1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      65.52,
+      448.15,
+      288.88,
+      457.01
+    ],
+    "text": "3. AGRICULTURE, FISHING A N D FORESTRY ..",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.645003318786621,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.52,
+      460.15,
+      163.06,
+      469.01
+    ],
+    "text": "3.1 Production Trends",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.28,
+      472.15,
+      289.29,
+      527.09
+    ],
+    "text": "3.2 Agricultural Policy \u2022\u2022 3.3 Export Crops Tea Rubber Coconut",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.28,
+      530.23,
+      174.34,
+      620.21
+    ],
+    "text": "Other Export Crops 3.4 Domestic Agriculture Paddy Other Field Crops Vegetables and Fruits Sugar 3.5 Fish and Livestock Fish",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      77.52,
+      623.35,
+      159.02,
+      655.25
+    ],
+    "text": "Livestock 3.6 Inputs and Credit Fertiliser",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      95.52,
+      658.39,
+      155.62,
+      690.29
+    ],
+    "text": "Seed Agro Chemicals Credit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      78.0,
+      693.67,
+      126.86,
+      702.53
+    ],
+    "text": "3.7 Forestry",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      47.52,
+      56.47,
+      507.47,
+      65.33
+    ],
+    "text": "4. INDUSTRY ... ... ... 50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.864126205444336,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      59.52,
+      68.95,
+      507.71,
+      77.81
+    ],
+    "text": "4.1 Overall Trends ... ... 50",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      59.76,
+      81.43,
+      507.06,
+      90.29
+    ],
+    "text": "4.2 Production ... 51",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.76,
+      93.91,
+      507.06,
+      102.77
+    ],
+    "text": "Private Sector Industries ... ... ... 51",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.76,
+      106.39,
+      507.81,
+      115.25
+    ],
+    "text": "Textile, Wearing Apparel and Leather Products ... ... ... 52",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.76,
+      119.11,
+      507.4,
+      127.97
+    ],
+    "text": "Food, Beverages and Tobacco Products ... \u2022 ... ... 53",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.76,
+      131.59,
+      507.64,
+      140.45
+    ],
+    "text": "Chemicals, Petroleum, Rubber and Plastic Products ... ... 53",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      89.76,
+      144.07,
+      507.98,
+      152.93
+    ],
+    "text": "Other Industrial Products ........ 54",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      156.79,
+      508.23,
+      165.65
+    ],
+    "text": "Public Sector Industries ... 54",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      169.27,
+      507.72,
+      178.13
+    ],
+    "text": "Value Added and Capacity Utilisation !.. ... ... ' 55",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      181.75,
+      508.14,
+      190.61
+    ],
+    "text": "4.4 Cost of Production, Profitability and Employment ... ... ... 56",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      194.23,
+      507.84,
+      203.09
+    ],
+    "text": "Labour Productivity in Industry ... ... 57",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      206.71,
+      507.6,
+      215.57
+    ],
+    "text": "Employment in Industry ... ... ... 57",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      219.43,
+      507.7,
+      228.29
+    ],
+    "text": "4.5 Investment ... ... ... 58",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      231.91,
+      507.94,
+      240.77
+    ],
+    "text": "Foreign Investment ... ... ... 58",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.24,
+      244.39,
+      508.19,
+      253.25
+    ],
+    "text": "Local Investment ... ... ... 59",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      256.87,
+      508.19,
+      265.73
+    ],
+    "text": "4.6 Availability of Credit to the Industrial Sector ... ... ... 59",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      269.35,
+      507.54,
+      278.21
+    ],
+    "text": "4.7 Industrial Policy ... ... ... 61",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.24,
+      281.83,
+      507.78,
+      290.69
+    ],
+    "text": "Incentives to the Industrial Sector ... ... ... 61",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      294.31,
+      508.36,
+      303.17
+    ],
+    "text": "4.8 Industrial Location ... ... ... 63",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      48.48,
+      330.31,
+      247.34,
+      339.17
+    ],
+    "text": "5. ECONOMIC A N D SOCIAL O V E R H E A D S",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      342.55,
+      115.09,
+      351.41
+    ],
+    "text": "5.1 Overview",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      354.79,
+      103.97,
+      363.65
+    ],
+    "text": "5.2 Health",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      367.75,
+      175.44,
+      376.61
+    ],
+    "text": "Private Sector Health Care",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.0,
+      380.23,
+      116.45,
+      389.09
+    ],
+    "text": "5.3 Education",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      392.95,
+      189.17,
+      401.81
+    ],
+    "text": "Reforms of General Education",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.24,
+      405.19,
+      146.93,
+      414.05
+    ],
+    "text": "General Education",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      417.43,
+      143.33,
+      426.29
+    ],
+    "text": "Higher Education",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      430.39,
+      170.27,
+      439.25
+    ],
+    "text": "5.4 Communication Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      442.63,
+      134.5,
+      451.49
+    ],
+    "text": "Postal Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      77.76,
+      454.87,
+      150.09,
+      463.73
+    ],
+    "text": "Telecommunication",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      467.83,
+      105.74,
+      476.69
+    ],
+    "text": "55 Energy",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      480.07,
+      116.51,
+      488.93
+    ],
+    "text": "Electricity",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.24,
+      492.31,
+      150.35,
+      501.17
+    ],
+    "text": "Petroleum Products",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      505.51,
+      132.29,
+      514.37
+    ],
+    "text": "5.6 Transportation",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      517.75,
+      147.82,
+      526.61
+    ],
+    "text": "Transport Network",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      529.99,
+      149.18,
+      538.85
+    ],
+    "text": "Road Development",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.24,
+      542.23,
+      152.3,
+      551.09
+    ],
+    "text": "Passenger Transport",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.0,
+      555.43,
+      142.22,
+      564.29
+    ],
+    "text": "Bus Transport",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      90.24,
+      567.67,
+      143.42,
+      576.53
+    ],
+    "text": "Rail Transport",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      579.91,
+      127.54,
+      588.77
+    ],
+    "text": "Port Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      592.87,
+      203.38,
+      601.73
+    ],
+    "text": "5.7 Irrigation and Settlement Schemes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      605.59,
+      153.7,
+      614.45
+    ],
+    "text": "5.8 Special Programmes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      617.83,
+      109.78,
+      626.69
+    ],
+    "text": "Housing",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      630.07,
+      152.78,
+      638.93
+    ],
+    "text": "Urban Development",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      642.31,
+      182.21,
+      651.17
+    ],
+    "text": "Water Supply and Sanitation",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      654.55,
+      232.32,
+      663.41
+    ],
+    "text": "Integrated Rural Development Programme",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      78.0,
+      666.79,
+      158.4,
+      675.65
+    ],
+    "text": "Samurdhi Programme",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      60.24,
+      679.51,
+      126.62,
+      688.37
+    ],
+    "text": "5.9 Environment",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      496.32,
+      330.31,
+      507.29,
+      339.17
+    ],
+    "text": "64",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      342.79,
+      507.78,
+      351.65
+    ],
+    "text": "64",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      355.27,
+      507.53,
+      364.13
+    ],
+    "text": "65",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      367.75,
+      507.62,
+      376.61
+    ],
+    "text": "66",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      380.23,
+      507.59,
+      389.09
+    ],
+    "text": "67",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      392.71,
+      507.59,
+      401.57
+    ],
+    "text": "67",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.52,
+      405.19,
+      507.76,
+      414.05
+    ],
+    "text": "68",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.52,
+      417.67,
+      507.88,
+      426.53
+    ],
+    "text": "69",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.52,
+      430.15,
+      507.88,
+      439.01
+    ],
+    "text": "70",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      442.63,
+      507.76,
+      451.49
+    ],
+    "text": "70",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.52,
+      455.11,
+      507.88,
+      463.97
+    ],
+    "text": "70",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      467.59,
+      507.69,
+      476.45
+    ],
+    "text": "72",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      480.07,
+      507.49,
+      488.93
+    ],
+    "text": "73",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      492.55,
+      507.62,
+      501.41
+    ],
+    "text": "76",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      505.03,
+      507.35,
+      513.89
+    ],
+    "text": "77",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      517.51,
+      507.47,
+      526.37
+    ],
+    "text": "77",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      529.99,
+      507.23,
+      538.85
+    ],
+    "text": "77",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      542.47,
+      507.52,
+      551.33
+    ],
+    "text": "78",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      554.95,
+      507.4,
+      563.81
+    ],
+    "text": "78",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      567.43,
+      507.64,
+      576.29
+    ],
+    "text": "79",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      579.91,
+      507.64,
+      588.77
+    ],
+    "text": "80",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      496.56,
+      592.39,
+      507.47,
+      601.25
+    ],
+    "text": "S3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      604.87,
+      507.66,
+      613.73
+    ],
+    "text": "84",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      617.35,
+      507.42,
+      626.21
+    ],
+    "text": "84",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      629.83,
+      507.29,
+      638.69
+    ],
+    "text": "85",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      496.8,
+      642.31,
+      507.25,
+      651.17
+    ],
+    "text": "86",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.04,
+      654.79,
+      507.38,
+      663.65
+    ],
+    "text": "86",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      497.28,
+      667.27,
+      507.47,
+      676.13
+    ],
+    "text": "87",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.72,
+      50.71,
+      528.35,
+      59.57
+    ],
+    "text": "6. PRICES A N D WAGES ... 90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.72,
+      63.43,
+      525.83,
+      72.29
+    ],
+    "text": "6.1 Prices ... \u2014 90",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.7859647274017334,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.48,
+      74.95,
+      528.84,
+      95.33
+    ],
+    "text": "Colombo Consumers' Price Index ... ... ... 90 Greater Colombo Consumers'Price Index ... ... 91",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.72,
+      98.47,
+      528.93,
+      107.33
+    ],
+    "text": "Consumer Price Index for Colombo District ... ... 92",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.48,
+      110.71,
+      528.78,
+      131.33
+    ],
+    "text": "Wholesale Price Index ... ... ... 95 Regional Price Variations ... ... 96",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.72,
+      134.95,
+      528.72,
+      143.81
+    ],
+    "text": "6.2 Wages ... ... ... 97",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.48,
+      147.19,
+      525.82,
+      156.05
+    ],
+    "text": "Public Sector ... - 98",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.7859647274017334,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.48,
+      158.95,
+      529.07,
+      179.57
+    ],
+    "text": "Private Sector ... ... 98 Informal Sector .... 99",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.72,
+      206.23,
+      528.83,
+      215.09
+    ],
+    "text": "7. POPULATION, L A B O U R FORCE A N D E M P L O Y M E N T ... ... 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.72,
+      218.71,
+      528.83,
+      227.57
+    ],
+    "text": "7.1 Population \u2014 ...... 100",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.72,
+      230.95,
+      528.76,
+      239.81
+    ],
+    "text": "7 2 Labour Force ... ... ... 103",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.72,
+      242.95,
+      528.52,
+      251.81
+    ],
+    "text": "7.3 Employment ... ... ... 103",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      78.96,
+      254.95,
+      528.87,
+      263.81
+    ],
+    "text": "7.4 Foreign Employment ... ... 104",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.44,
+      290.95,
+      528.48,
+      299.81
+    ],
+    "text": "8. FISCAL POLICY A N D BUDGETARY OPERATIONS ... ... 107",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.2,
+      303.43,
+      528.72,
+      312.29
+    ],
+    "text": "8.1 Overview and Policy Strategy ... ... ... 107",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.2,
+      315.43,
+      528.83,
+      324.29
+    ],
+    "text": "8.2 Budget Out-turn ... ... ... 109",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      327.43,
+      528.93,
+      336.29
+    ],
+    "text": "8 3 Revenue and Grants ... ... ... 112",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.72,
+      339.67,
+      528.69,
+      348.53
+    ],
+    "text": "Tax Revenue ... ... \u2022\u2022\u2022 112",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.96,
+      351.67,
+      528.6,
+      360.53
+    ],
+    "text": "Non-Tax Revenue ... ... ... 115",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      96.96,
+      363.67,
+      528.78,
+      372.53
+    ],
+    "text": "Foreign Grants ... ... 116",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      375.56,
+      528.78,
+      384.53
+    ],
+    "text": "8,4 Expenditure i.. ... ... , 116",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      387.67,
+      528.78,
+      396.53
+    ],
+    "text": "Current Expenditure 116",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      399.67,
+      529.07,
+      408.53
+    ],
+    "text": "Public Investment ... \u2022\u2022\u2022 119",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      411.67,
+      529.08,
+      420.53
+    ],
+    "text": "8 5 Provincial Councils ... ... \u2022\u2022\u2022 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      423.67,
+      529.07,
+      432.53
+    ],
+    "text": "Revenue ... \u2022\u2022\u2022 \u2022\u2022\u2022 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      435.67,
+      529.07,
+      444.53
+    ],
+    "text": "Expenditure ... ... ... 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.32,
+      447.67,
+      529.08,
+      456.53
+    ],
+    "text": "Current Expenditure ... ... ... 120",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      106.32,
+      459.67,
+      528.66,
+      468.53
+    ],
+    "text": "Capital Expenditure ... ... ... 121",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      471.67,
+      528.42,
+      480.53
+    ],
+    "text": "8.6 Public Enterprise Reforms ... ... 121",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.68,
+      483.67,
+      529.24,
+      492.53
+    ],
+    "text": "8.7 Financing the Budget Deficit ... ... ... 123",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      495.67,
+      529.24,
+      504.53
+    ],
+    "text": "8.8 Government Debt ... ... \u2022\u2022\u2022 123",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      507.67,
+      529.34,
+      516.53
+    ],
+    "text": "Domestic Debt ... ... 124",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      519.67,
+      529.34,
+      528.53
+    ],
+    "text": "Foreign Debt ... \u2022\u2022\u2022 124",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      531.67,
+      529.26,
+      540.53
+    ],
+    "text": "Government Debt Service Payments ... ... \u2022\u2022\u2022 126",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      67.68,
+      555.43,
+      529.2,
+      576.05
+    ],
+    "text": "9. TRADE, BALANCE OF PAYMENTS AND TOURISM ... 127 9.1 Overview ... ... ... 127",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.44,
+      579.19,
+      528.9,
+      588.05
+    ],
+    "text": "92 Exports ... ... ... 131",
+    "fonts": [
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.2,
+      591.43,
+      529.58,
+      623.81
+    ],
+    "text": "Industrial Products ... \u2022\u2022\u2022 131 Plantation Crops ... 133 Other Agricultural Products ... ... 134",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.68,
+      626.95,
+      529.82,
+      635.81
+    ],
+    "text": "Mineral Products ... ... 134",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      79.92,
+      639.19,
+      529.32,
+      659.81
+    ],
+    "text": "9.3 Imports ... - \u2022\u2022\u2022 135 Consumer Goods ... ... \u2022\u2022\u2022 135",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.68,
+      662.95,
+      529.74,
+      671.81
+    ],
+    "text": "Intermediate Goods ... ... \u2022\u2022 136",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      97.68,
+      674.95,
+      529.74,
+      683.81
+    ],
+    "text": "Investment Goods ... ... \u2022\u2022\u2022 136",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      80.16,
+      686.95,
+      529.74,
+      695.81
+    ],
+    "text": "9.4 Services and Income ... ... \u2022\u2022 136",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.36,
+      53.83,
+      504.72,
+      62.69
+    ],
+    "text": "9.5 Current Transfers ... ... 137",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.36,
+      65.83,
+      504.72,
+      74.69
+    ],
+    "text": "9.6 Capital Movements ... ... 137",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.36,
+      77.83,
+      504.96,
+      86.69
+    ],
+    "text": "Capital Transfers ... 137",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.36,
+      89.83,
+      504.96,
+      98.69
+    ],
+    "text": "Long-Term Capital \u2022\u2022\u2022 ... ... 137",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.6,
+      101.83,
+      505.3,
+      110.69
+    ],
+    "text": "Short-Term Capital ... ... ... 138",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.6,
+      114.07,
+      505.31,
+      122.93
+    ],
+    "text": "9.7 Exchange Rate Movements . . . . ... ... 139",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      126.07,
+      505.31,
+      134.93
+    ],
+    "text": "9.8 External Assets . .\u201e 140",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.6,
+      138.07,
+      504.66,
+      146.93
+    ],
+    "text": "9.9 External Debt ... ... 141",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      150.07,
+      505.41,
+      158.93
+    ],
+    "text": "9.10 Debt Service Payments ... ... 142",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.6,
+      162.07,
+      505.65,
+      170.93
+    ],
+    "text": "9.11 External Trade Environment and Policy ... ... ... 142",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.6,
+      174.07,
+      505.65,
+      182.93
+    ],
+    "text": "Import and Export Controls ... ... ... 142",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.6,
+      186.07,
+      505.48,
+      194.93
+    ],
+    "text": "Tariffs and Taxes on External Trade ... 143",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.6,
+      198.07,
+      505.74,
+      206.93
+    ],
+    "text": "Textile and Garment Quota Allocation ... ... ... 146",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.84,
+      210.07,
+      505.5,
+      218.93
+    ],
+    "text": "Incentives to Exporters ... ... ... 146",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.84,
+      222.07,
+      505.44,
+      230.93
+    ],
+    "text": "Institutional Support to Exporters ... ... ... 147",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      75.84,
+      234.07,
+      505.2,
+      242.93
+    ],
+    "text": "Freight Rates ... ... ... 147",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      246.07,
+      505.44,
+      254.93
+    ],
+    "text": "9.12 Trade Relations, Trading and Clearing Arrangements. ... ... 147",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      58.08,
+      258.07,
+      505.79,
+      266.93
+    ],
+    "text": "9.13 Internal Trade and Institutional Arrangements ... ... ... 150",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      57.84,
+      270.07,
+      505.14,
+      278.93
+    ],
+    "text": "9.14 Tourism ... ... ... 151",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      47.28,
+      300.31,
+      506.2,
+      320.93
+    ],
+    "text": "10. FINANCIAL SECTOR ... ... ... 153 10.1 Monetary Policy ... ... ... 153",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.850605487823486,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.04,
+      324.07,
+      506.06,
+      332.93
+    ],
+    "text": "10.2 Money Supply ... ... 154",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      336.31,
+      505.92,
+      345.17
+    ],
+    "text": "Reserve Money ... ... < 157",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.04,
+      348.31,
+      506.02,
+      357.17
+    ],
+    "text": "10.3 Interest Rates ... ... ... 158",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.08,
+      360.55,
+      506.27,
+      381.17
+    ],
+    "text": "Short-term Interest Rates ... ... ... 158 Primary Market Treasury Bill Rates ... ... ... 159",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      384.31,
+      506.27,
+      393.17
+    ],
+    "text": "Secondary Market and Repo Market Rates ... ... ... 159",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      396.31,
+      506.27,
+      405.17
+    ],
+    "text": "Deposit Rates ... ... ... 159",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      408.31,
+      506.51,
+      417.17
+    ],
+    "text": "Lending Rates ... ... ... 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      420.31,
+      506.27,
+      429.17
+    ],
+    "text": "Long-Term Rates ... ... ... 160",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.28,
+      432.55,
+      506.61,
+      453.17
+    ],
+    "text": "10.4 Commercial Banking ... ... ... 161 Structure of Assets and Liabilities ... ... ... 162",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.56,
+      456.31,
+      506.37,
+      465.17
+    ],
+    "text": "Sources and Users of Funds ... ... ... 162",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.32,
+      468.55,
+      506.54,
+      489.17
+    ],
+    "text": "Commercial Bank Loans arid Advances ... ... ... 163 Foreign Currency Banking Units ... ... ... 164",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.52,
+      492.31,
+      506.46,
+      501.17
+    ],
+    "text": "10.5 Central Banking ... ... ... 166",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.56,
+      504.31,
+      506.46,
+      513.17
+    ],
+    "text": "Structure of Assets and Liabilities ... 166",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.76,
+      516.31,
+      506.46,
+      525.17
+    ],
+    "text": "10.6 Banking Development ... ... ... 166",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.56,
+      528.31,
+      506.46,
+      537.17
+    ],
+    "text": "Branch Expansion ... 166",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.76,
+      540.31,
+      506.4,
+      560.93
+    ],
+    "text": "Banking Facilities ... ... ... 167 10.7 Credit Information Bureau ... 168",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      59.76,
+      564.07,
+      506.52,
+      584.69
+    ],
+    "text": "10.8 Rural Banking and Credit ... 169 Overall Trends and Developments ... ... ... 169",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.56,
+      588.55,
+      505.86,
+      620.93
+    ],
+    "text": "New Comprehensive Rural Credit Scheme (NCRCS). ... ... 171 Crop Insurance Schemes ... ... ... 171 Micro Finance and Savings Schemes ... ... ... 171",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.56,
+      624.31,
+      508.31,
+      656.69
+    ],
+    "text": "Self-Employment Promotion through Micro-Enterprises Credit (Surathura Scheme) ... 171 Samurdhi Development Credit Scheme or SASANA Scheme ... ... 172 Gami Pubuduwa Scheme : An Experiment in Linkage Banking ... ... 172",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.56,
+      659.83,
+      507.33,
+      680.45
+    ],
+    "text": "Thrift and Credit Co-operative Societies (TCCSs) Credit Scheme - ... 172 Janashakthi Banking Societies in Hambantota ... ... ... 172",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      88.56,
+      684.31,
+      507.16,
+      704.93
+    ],
+    "text": "Sarvodaya Economic Enterprises Development Services (SEEDS) ... ... 173 Tea Shakthi Movement (TSM) ... ... ... 173",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.72,
+      52.15,
+      196.18,
+      61.01
+    ],
+    "text": "10.9 Other Financial Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.76,
+      64.15,
+      168.59,
+      73.01
+    ],
+    "text": "Savings Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      76.15,
+      212.99,
+      85.01
+    ],
+    "text": "Long-Term Lending Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      88.15,
+      168.58,
+      97.01
+    ],
+    "text": "Finance Companies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.72,
+      100.15,
+      216.59,
+      109.01
+    ],
+    "text": "10.10 Specialised Financial Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      112.15,
+      164.35,
+      121.01
+    ],
+    "text": "Merchant Banking",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      124.15,
+      168.59,
+      133.01
+    ],
+    "text": "Leasing Companies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      136.15,
+      196.19,
+      145.01
+    ],
+    "text": "Venture Capital Companies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      148.15,
+      175.06,
+      157.01
+    ],
+    "text": "Insurance Companies",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.72,
+      160.63,
+      150.86,
+      169.49
+    ],
+    "text": "10.11 Money Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      172.63,
+      150.83,
+      181.49
+    ],
+    "text": "Overall Trends",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      184.63,
+      208.94,
+      193.49
+    ],
+    "text": "Inter-Bank Call Money Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      196.63,
+      172.7,
+      205.49
+    ],
+    "text": "Treasury Bill Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.52,
+      208.63,
+      231.95,
+      217.49
+    ],
+    "text": "Primary Market forTreasury.Bills",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.52,
+      220.63,
+      274.46,
+      229.49
+    ],
+    "text": "Central Bank Secondary Treasury Bill Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.52,
+      232.63,
+      294.34,
+      241.49
+    ],
+    "text": "Central Bank Repurchase Market for Treasury Bills",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      244.87,
+      227.42,
+      253.73
+    ],
+    "text": "Domestic Foreign Exchange Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      256.87,
+      182.5,
+      265.73
+    ],
+    "text": "Central Bank Securities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      269.11,
+      185.66,
+      277.97
+    ],
+    "text": "Commercial Paper (CP)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      72.48,
+      281.11,
+      151.34,
+      289.97
+    ],
+    "text": "10.12 Capital Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      293.11,
+      154.22,
+      301.97
+    ],
+    "text": "Primary Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.76,
+      305.11,
+      163.34,
+      313.97
+    ],
+    "text": "Secondary Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      317.11,
+      174.48,
+      325.97
+    ],
+    "text": "Sectoral Performance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      329.11,
+      183.95,
+      337.97
+    ],
+    "text": "Regional Stock Markets",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.28,
+      341.11,
+      199.58,
+      349.97
+    ],
+    "text": "Developments in the Market",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      353.11,
+      270.34,
+      361.97
+    ],
+    "text": "Medium and Long-Term Government Securities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.04,
+      365.11,
+      165.95,
+      373.97
+    ],
+    "text": "Treasury Bonds",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      107.28,
+      377.11,
+      156.35,
+      385.97
+    ],
+    "text": "Rupee Loans",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      95.52,
+      389.11,
+      137.15,
+      397.97
+    ],
+    "text": "Unit Trusts",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      51.43,
+      521.29,
+      60.29
+    ],
+    "text": "173",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      63.43,
+      521.37,
+      72.29
+    ],
+    "text": "173",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      75.43,
+      521.51,
+      84.29
+    ],
+    "text": "174",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      87.43,
+      521.4,
+      96.29
+    ],
+    "text": "178",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      99.43,
+      521.57,
+      108.29
+    ],
+    "text": "179",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      111.43,
+      521.18,
+      120.29
+    ],
+    "text": "179",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      123.43,
+      521.33,
+      132.29
+    ],
+    "text": "180",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      135.43,
+      521.42,
+      144.29
+    ],
+    "text": "180",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      147.43,
+      521.42,
+      156.29
+    ],
+    "text": "180",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.36,
+      159.43,
+      520.99,
+      168.29
+    ],
+    "text": "181",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      171.43,
+      520.91,
+      180.29
+    ],
+    "text": "181",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      183.43,
+      520.75,
+      192.29
+    ],
+    "text": "181",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      195.43,
+      521.4,
+      204.29
+    ],
+    "text": "182",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      207.43,
+      521.24,
+      216.29
+    ],
+    "text": "182",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      219.43,
+      521.4,
+      228.29
+    ],
+    "text": "182",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      231.43,
+      521.4,
+      240.29
+    ],
+    "text": "182",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      243.43,
+      521.05,
+      252.29
+    ],
+    "text": "183",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      255.43,
+      521.13,
+      264.29
+    ],
+    "text": "183",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      267.43,
+      521.05,
+      276.29
+    ],
+    "text": "183",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      279.43,
+      521.35,
+      288.29
+    ],
+    "text": "184",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      291.43,
+      521.35,
+      300.29
+    ],
+    "text": "184",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      303.43,
+      521.35,
+      312.29
+    ],
+    "text": "184",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      315.43,
+      521.06,
+      324.29
+    ],
+    "text": "186",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      327.43,
+      521.22,
+      336.29
+    ],
+    "text": "186",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      339.43,
+      520.86,
+      348.29
+    ],
+    "text": "187",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      351.43,
+      521.02,
+      360.29
+    ],
+    "text": "187",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.16,
+      363.43,
+      520.77,
+      372.29
+    ],
+    "text": "187",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      507.12,
+      375.43,
+      521.16,
+      384.29
+    ],
+    "text": "188",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      506.88,
+      387.43,
+      520.77,
+      396.29
+    ],
+    "text": "188",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.76,
+      427.24,
+      109.06,
+      439.42
+    ],
+    "text": "PART II",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.76,
+      448.63,
+      521.18,
+      457.73
+    ],
+    "text": "A C C O U N T S A N D OPERATIONS OF THE CENTRAL B A N K (I) - (XLI)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.52,
+      474.76,
+      113.86,
+      486.94
+    ],
+    "text": "PART III",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.28,
+      495.91,
+      315.75,
+      504.77
+    ],
+    "text": "MAJOR ADMINISTRATIVE M E A S U R E S A D O P T E D B Y",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.28,
+      507.91,
+      519.73,
+      516.77
+    ],
+    "text": "THE MONETARY B O A R D IN 1997 ix",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.962922096252441,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.28,
+      533.56,
+      112.51,
+      545.74
+    ],
+    "text": "PART IV",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.52,
+      554.95,
+      442.7,
+      575.57
+    ],
+    "text": "MAJOR LEGISLATIVE E N A C T M E N T S OF 1997 RELATING TO THE FUNCTIONS A N D OPERATIONS OF THE CENTRAL B A N K A N D",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      59.76,
+      578.71,
+      521.05,
+      587.57
+    ],
+    "text": "BANKING INSTITUTIONS IN SRI L A N K A ... ... ... I - LXIII",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      202.56,
+      51.57,
+      351.51,
+      62.64
+    ],
+    "text": "STATISTICAL APPENDIX",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.440306663513184
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      485.04,
+      86.71,
+      505.06,
+      95.57
+    ],
+    "text": "Table",
+    "fonts": [
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.16,
+      102.21,
+      259.24,
+      113.28
+    ],
+    "text": "NATIONAL PRODUCT AND EXPENDITURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.440306663513184
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.16,
+      120.79,
+      508.76,
+      129.65
+    ],
+    "text": "Gross National Product at Current Factor Cost Prices 1",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.16,
+      134.47,
+      509.49,
+      143.33
+    ],
+    "text": "Gross National Product at Constant (1982) Factor Cost Prices 2",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.16,
+      148.15,
+      509.56,
+      157.01
+    ],
+    "text": "Real National Income 3",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      161.83,
+      509.9,
+      170.69
+    ],
+    "text": "Resources and Their Utilisation 4",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      175.27,
+      509.63,
+      184.13
+    ],
+    "text": "Gross National Expenditure at Current Market Prices 5",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      188.71,
+      509.8,
+      197.57
+    ],
+    "text": "Gross Domestic Capital Formation at Current Market Prices 6",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      202.15,
+      509.5,
+      211.01
+    ],
+    "text": "Composition of Private Consumption Expenditure at Current Market Prices 7",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.4,
+      215.59,
+      509.6,
+      224.45
+    ],
+    "text": "Expenditure on Gross National Product at Current Market Prices 8",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.64,
+      229.03,
+      509.86,
+      237.89
+    ],
+    "text": "Gross Domestic Expenditure and Availability of Resources 9",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.64,
+      242.47,
+      510.1,
+      251.33
+    ],
+    "text": "National Savings 10",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      44.88,
+      263.25,
+      121.68,
+      274.32
+    ],
+    "text": "AGRICULTURE",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.64,
+      281.83,
+      509.48,
+      290.69
+    ],
+    "text": "Trends in Principal Agricultural Crops 11",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      295.51,
+      510.45,
+      304.37
+    ],
+    "text": "Production of Tea, Rubber and Coconut 12",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.88,
+      309.19,
+      510.29,
+      318.05
+    ],
+    "text": "Annual Rainfall and Rainy Days 13",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      322.63,
+      510.38,
+      331.49
+    ],
+    "text": "District-wise Performance of the Paddy Sector 14",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.88,
+      336.07,
+      510.11,
+      344.93
+    ],
+    "text": "Performance of Other Field Crops 15",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45.12,
+      356.85,
+      99.26,
+      367.92
+    ],
+    "text": "INDUSTRY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      375.43,
+      510.52,
+      384.29
+    ],
+    "text": "Value of Industrial Production (Current Terms) 16",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      388.87,
+      510.22,
+      397.73
+    ],
+    "text": "Investment Approvals in Industry by Board of Investment of Sri Lanka 17",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      56.88,
+      402.55,
+      510.32,
+      411.41
+    ],
+    "text": "Realised Investment in Board of Investment (BOI) Enterprises 18",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      416.23,
+      510.58,
+      425.09
+    ],
+    "text": "Relative Composition of Private and Public Sector Industries 19",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      429.91,
+      510.82,
+      438.77
+    ],
+    "text": "Value Added in Industry (Current Prices) 20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      443.35,
+      509.96,
+      452.21
+    ],
+    "text": "Capacity Utilisation in Industry 21",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      456.79,
+      510.69,
+      465.65
+    ],
+    "text": "Annual Capacity, Production and Sales (Quantity) of State Industries 22",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.12,
+      470.23,
+      510.53,
+      479.09
+    ],
+    "text": "Employment in State Industries 23",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.36,
+      483.67,
+      510.86,
+      492.53
+    ],
+    "text": "Availability and Utilisation of Quota 24",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.36,
+      497.11,
+      510.59,
+      505.97
+    ],
+    "text": "Regional Distribution of Industrial Enterprises 25",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45.36,
+      518.13,
+      243.35,
+      529.2
+    ],
+    "text": "ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.440306663513184
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.36,
+      536.47,
+      510.76,
+      545.33
+    ],
+    "text": "Public Health Services 26",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.36,
+      549.91,
+      510.46,
+      558.77
+    ],
+    "text": "General and University Education 27",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      563.35,
+      510.8,
+      572.21
+    ],
+    "text": "Growth of Postal and Telecommunication Services 28",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      576.79,
+      511.06,
+      585.65
+    ],
+    "text": "Salient Features of the Energy Sector 29",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      590.23,
+      511.06,
+      599.09
+    ],
+    "text": "Salient Features of the Transport Sector 30",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.36,
+      603.91,
+      509.96,
+      612.77
+    ],
+    "text": "Performance of Port Services 31",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      617.35,
+      510.93,
+      626.21
+    ],
+    "text": "Land Cultivated under the Mahaweli Development Programme 32",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.84,
+      630.79,
+      510.77,
+      639.65
+    ],
+    "text": "Settlement under the Mahaweli Development Programme 33",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      644.23,
+      510.86,
+      653.09
+    ],
+    "text": "Expenditure on the Integrated Rural Development Programme by District 34",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      45.6,
+      664.77,
+      153.83,
+      675.84
+    ],
+    "text": "PRICES AND WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371,
+      10.440306663513184
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      683.35,
+      510.83,
+      692.21
+    ],
+    "text": "Colombo Consumers' Price Index 35",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      57.6,
+      697.03,
+      511.24,
+      705.89
+    ],
+    "text": "Greater Colombo Consumers' Price Index 36",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.352245330810547
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      69.19,
+      164.11,
+      78.05
+    ],
+    "text": "Wholesale Price Index",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      82.63,
+      246.59,
+      91.49
+    ],
+    "text": "Wholesale Prices of Selected Commodities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      96.07,
+      182.27,
+      104.93
+    ],
+    "text": "Wage Rate Index Numbers",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59.52,
+      116.61,
+      325.15,
+      127.68
+    ],
+    "text": "POPULATION, LABOUR FORCE AND EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      135.19,
+      123.92,
+      144.05
+    ],
+    "text": "Demography",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      148.39,
+      227.87,
+      157.25
+    ],
+    "text": "Distribution of Population by Districts",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      161.59,
+      299.47,
+      170.45
+    ],
+    "text": "Labour Force Participation Rate by Age, Sex and Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      175.03,
+      430.19,
+      183.89
+    ],
+    "text": "Employment Statistics - Central Government, Provincial Councils and Local Authorities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      188.95,
+      295.55,
+      197.81
+    ],
+    "text": "Employment Statistics - Semi-Government Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      202.63,
+      186.0,
+      211.49
+    ],
+    "text": "Employees' Provident Fund",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      216.07,
+      168.0,
+      224.93
+    ],
+    "text": "Employees' Trust Fund",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      229.75,
+      212.74,
+      238.61
+    ],
+    "text": "Strikes in Private Sector Industries",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      60.0,
+      251.25,
+      144.7,
+      262.32
+    ],
+    "text": "FISCAL SECTOR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      269.35,
+      248.99,
+      278.21
+    ],
+    "text": "Summary of Government Fiscal Operations",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59.52,
+      279.17,
+      161.18,
+      291.65
+    ],
+    "text": "; 5 Government Revenue",
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "sizes": [
+      2.3977713584899902,
+      6.850775241851807,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      296.23,
+      243.31,
+      305.09
+    ],
+    "text": "Payments of the Government of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      72.0,
+      309.91,
+      309.84,
+      318.77
+    ],
+    "text": "Voted Expenditure of the Government of Sri Lanka - 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      323.59,
+      309.94,
+      332.45
+    ],
+    "text": "Voted Expenditure of the Government of Sri Lanka - 1998",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      337.03,
+      324.58,
+      345.89
+    ],
+    "text": "Current Transfers to Public Corporations and Statutory Boards",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      350.71,
+      322.91,
+      359.57
+    ],
+    "text": "Capital Transfers to Public Corporations and Statutory Boards",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      364.63,
+      191.86,
+      373.49
+    ],
+    "text": "Advance Account Operations",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      378.31,
+      262.7,
+      387.17
+    ],
+    "text": "Acquisition of Financial Assets (Loans Outlay)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      391.75,
+      261.26,
+      400.61
+    ],
+    "text": "Financing of the Government Net Cash Deficit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      405.19,
+      272.64,
+      414.05
+    ],
+    "text": "Economic Classification of Government Revenue",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      418.63,
+      418.91,
+      427.49
+    ],
+    "text": "Economic Classification of Government Expenditure and Lending Minus Repayments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      432.07,
+      307.78,
+      440.93
+    ],
+    "text": "Economic Classification of Government Fiscal Operations",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      445.51,
+      261.98,
+      454.37
+    ],
+    "text": "Composition of Outstanding Government Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.76,
+      459.43,
+      277.58,
+      468.29
+    ],
+    "text": "Ownership of Government Debt (as at end of year)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      472.87,
+      187.55,
+      481.73
+    ],
+    "text": "Ownership of Treasury Bills",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      486.55,
+      183.23,
+      495.41
+    ],
+    "text": "Ownership of Rupee Loans",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      499.99,
+      300.35,
+      508.85
+    ],
+    "text": "Valuation and Yields of Selected Government Securities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      513.43,
+      235.34,
+      522.29
+    ],
+    "text": "Ownership of Outstanding Foreign Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      526.87,
+      161.28,
+      535.73
+    ],
+    "text": "Foreign Loans - 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      540.31,
+      214.8,
+      549.17
+    ],
+    "text": "Net Receipts of Foreign Assistance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      553.99,
+      303.5,
+      562.85
+    ],
+    "text": "Outstanding Central Government Debt (as at end of year)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      59.76,
+      572.13,
+      163.66,
+      583.2
+    ],
+    "text": "EXTERNAL SECTOR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      590.47,
+      225.84,
+      599.33
+    ],
+    "text": "Central Bank Trade Indices - Volume",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      603.91,
+      217.44,
+      612.77
+    ],
+    "text": "Central Bank Trade Indices - Value",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      617.35,
+      214.32,
+      626.21
+    ],
+    "text": "Central Bank Trade Indices - Price",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      630.79,
+      130.08,
+      639.65
+    ],
+    "text": "Foreign Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      644.23,
+      103.44,
+      653.09
+    ],
+    "text": "Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      657.67,
+      191.86,
+      666.53
+    ],
+    "text": "Tea Exports, Sales and Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.52,
+      671.11,
+      210.83,
+      679.97
+    ],
+    "text": "Volume and Value of Tea Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      71.28,
+      684.55,
+      225.71,
+      693.41
+    ],
+    "text": "Country Classification of Tea Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.16,
+      71.35,
+      170.75,
+      80.21
+    ],
+    "text": "Rubber Exports and Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      61.92,
+      84.79,
+      230.27,
+      93.65
+    ],
+    "text": "Country Classification of Rubber Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      61.92,
+      98.23,
+      236.03,
+      107.09
+    ],
+    "text": "Country Classification of Garment Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.16,
+      111.91,
+      239.62,
+      120.77
+    ],
+    "text": "Major Coconut Products Exports and Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.4,
+      125.59,
+      308.27,
+      134.45
+    ],
+    "text": "Volume and Value of Exports of Other Agricultural Products",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.4,
+      139.27,
+      223.55,
+      148.13
+    ],
+    "text": "Selected Industrial and Mineral Exports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.4,
+      152.71,
+      179.86,
+      161.57
+    ],
+    "text": "Imports by Major Categories",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.64,
+      166.15,
+      239.87,
+      175.01
+    ],
+    "text": "Imports and Exports of Major Commodities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.16,
+      179.59,
+      159.22,
+      188.45
+    ],
+    "text": "Expenditure on Imports",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      193.27,
+      138.72,
+      202.13
+    ],
+    "text": "Direction of Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.4,
+      206.71,
+      392.83,
+      215.57
+    ],
+    "text": "Tourist Arrivals, Employment and Accommodation Capacity in the Tourist Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.64,
+      220.63,
+      312.24,
+      229.49
+    ],
+    "text": "Some Indicators of Regional Distribution of the Tourist Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.64,
+      234.07,
+      237.65,
+      242.93
+    ],
+    "text": "Balance of Payments Analytic Presentation",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      247.75,
+      148.67,
+      256.61
+    ],
+    "text": "Balance of Payments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      261.19,
+      155.63,
+      270.05
+    ],
+    "text": "Services and Transfers",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.64,
+      275.11,
+      144.59,
+      283.97
+    ],
+    "text": "Private Remittances",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      288.79,
+      201.12,
+      297.65
+    ],
+    "text": "External Resources and Their Use",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      302.23,
+      225.52,
+      311.09
+    ],
+    "text": "Financing of the External Resource Gap",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.12,
+      315.67,
+      179.47,
+      324.53
+    ],
+    "text": "External Assets of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      329.11,
+      186.83,
+      337.97
+    ],
+    "text": "End of Period Exchange Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.12,
+      342.55,
+      165.22,
+      351.41
+    ],
+    "text": "Average Exchange Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.12,
+      355.99,
+      171.8,
+      364.85
+    ],
+    "text": "External Debt Outstanding",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      51.12,
+      377.49,
+      155.74,
+      388.56
+    ],
+    "text": "FINANCIAL SECTOR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      9.949873924255371
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.12,
+      396.07,
+      151.55,
+      404.93
+    ],
+    "text": "Monetary Aggregates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      409.99,
+      272.3,
+      418.87
+    ],
+    "text": "Analysis of Changes in Narrow Money Supply (M ()",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      2.7859647274017334,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      62.88,
+      423.43,
+      278.21,
+      432.29
+    ],
+    "text": "Currency Issue of the Central Bank by Denomination",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      436.87,
+      241.07,
+      445.73
+    ],
+    "text": "Assets and Liabilities of Commercial Banks",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      450.31,
+      231.82,
+      459.17
+    ],
+    "text": "Assets and Liabilities of the Central Bank",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.84,
+      463.75,
+      134.3,
+      472.61
+    ],
+    "text": "Monetary Survey",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      477.91,
+      334.22,
+      486.77
+    ],
+    "text": "Assets and Liabilities of Foreign Currency Banking Units (FCBUs)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.84,
+      491.35,
+      223.34,
+      500.21
+    ],
+    "text": "Monetary Survey (inclusive of FCBUs)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      504.79,
+      314.14,
+      513.65
+    ],
+    "text": "Purchases and Sales of Foreign Exchange by the Central Bank",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      518.23,
+      222.83,
+      527.09
+    ],
+    "text": "Reserve Position of Commercial Banks",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      533.11,
+      377.38,
+      541.97
+    ],
+    "text": "Savings and Fixed Deposits of National Savings Bank and Commercial Banks",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      546.55,
+      118.18,
+      555.41
+    ],
+    "text": "Money Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      559.99,
+      297.71,
+      568.85
+    ],
+    "text": "Money Rates : Savings and Long-Term Credit Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      573.43,
+      145.3,
+      582.29
+    ],
+    "text": "Insurance Activities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      586.87,
+      179.87,
+      595.73
+    ],
+    "text": "Share Market Developments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      600.31,
+      362.64,
+      609.17
+    ],
+    "text": "Cultivation Loans Granted under the Comprehensive Rural Credit Scheme",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.84,
+      613.75,
+      423.47,
+      622.61
+    ],
+    "text": "New Agricultural Credit, Comprehensive and New Comprehensive Rural Credit Schemes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      73.2,
+      627.19,
+      403.68,
+      636.05
+    ],
+    "text": "- Loans Granted for Subsidiary Food Crops by People's Bank and Bank of Ceylon",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.6,
+      640.63,
+      419.76,
+      649.49
+    ],
+    "text": "Deposits and Advances of Bank of Ceylon Sub-Offices at Agrarian Services Centres and",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      73.92,
+      654.31,
+      348.72,
+      663.17
+    ],
+    "text": "Rural Banks (1987 - 1997) and District-wise Classification for 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      63.36,
+      667.75,
+      310.51,
+      676.61
+    ],
+    "text": "Operations of the Crop Insurance Programme - Paddy Sector",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      241.68,
+      55.24,
+      344.2,
+      67.42
+    ],
+    "text": "PART I - TABLES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      506.4,
+      69.91,
+      526.13,
+      78.77
+    ],
+    "text": "Page",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.52,
+      94.39,
+      377.28,
+      103.25
+    ],
+    "text": "1. ECONOMIC P E R F O R M A N C E , PROBLEMS A N D POLICIES IN 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.9073028564453125,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      77.28,
+      106.39,
+      525.87,
+      161.09
+    ],
+    "text": "1.1 Selected Macroeconomic Indicators ... ... 1 1.2 Gross National Product at Constant (1982) Factor Cost Prices (Annual Percentage Change) 4 1.3 Gross National Product (Sector Shares in Per Cent) ... 5 1.4 Summary of Government Fiscal Operations ... ... ... 12 1 i Private Sector Credit from Financial Institutions... ... 20",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592,
+      8.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58.8,
+      175.27,
+      524.03,
+      230.45
+    ],
+    "text": "2. NATIONAL INCOME A N D EXPENDITURE ... 2.1 Sectoral Composition and Increase in Gross National Product at Constant (1982) Prices ... 26 2.2 Composition of the Other Agriculture Sub Sector.. ... ... 29 2.3 Total Resources and Their Uses at Constant (1982) Prices ... ... 29 2.4 National Savings at Current Market Prices ... ... ... 30",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.7870869636535645,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58.8,
+      244.63,
+      271.59,
+      253.49
+    ],
+    "text": "3. AGRICULTURE, FISHING A N D FORESTRY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.645003318786621,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      76.56,
+      255.91,
+      524.07,
+      368.45
+    ],
+    "text": "3.1 Production and Price Changes of Major Agricultural Items ;.. ... 31 3.2 Statistics of the Tea Sector ... ... \u2014 33 3.3 Statistics of the Rubber Sector ... ... ... 34 3.4 Statistics of the Coconut Sector ... 36 3.5 Production of Other Export Crops ... ... ... 38 3.6 Statistics of the Paddy Sector ... ... 39 3.7 Statistics of the Sugar Sector ... ... 44 3.8 Fish Production . ... ... ... 45 3.9 Fertiliser Usage by Crops ... ... ... 47 3.10 Statistics of the Forestry Sector ... ... ... 49",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      58.56,
+      383.11,
+      116.55,
+      391.97
+    ],
+    "text": "4. INDUSTRY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.864126205444336,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      76.32,
+      394.39,
+      524.51,
+      541.01
+    ],
+    "text": "4.1 Value of Industrial Production (1990 Constant Prices) ... ... 51 42 Private Sector Industrial Production Index ... ... ... 51 4.3 Value of Industrial Production (Current Prices) ... ... ... 53 4.4 Public Sector Major Industry Output Index ... ... \u2022 55 4 i Value Added in Industry (Current Prices) ... \u2022 ... 55 46 Ex-Factory Profit Ratios of Non-BOI Private Sector Industries ... ... 56 4.7 Domestic Cost Structure of Non-BOI Private Sector Industries ... ... 56 4.8 Labour Productivity Index in the Non-BOI Private Sector ... ... 57 4.9 Employment in Private Sector Industries ... ... ... 58 4.10 Realised Investment in BOI Enterprises ... ... ... 58 4.11 Employment in BOI Enterprises ... 59 4.12 Financial Assistance to the Industrial Sector by the NDB and DFCC - 1997 ... 60 4.13 Projects Approved under the Advanced Technology Incentive Scheme as at end 1997 ... 63",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.28,
+      555.19,
+      232.46,
+      564.05
+    ],
+    "text": "5. ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.96,
+      566.47,
+      524.79,
+      667.49
+    ],
+    "text": "5.1 Government Investment in Infrastructure ... ... ... 64 . 5.2 Public Health Services ... ... 65 5.3 General and University Education ... ... , 6 9 5.4 Growth of Postal and Telecommunication Services .... \u2014 ^ 55 Salient Features of the Energy Sector ... ... ... 74 5.6 Salient Features of the Transport Sector ....... 79 5.7 Performance of the Port Services ... 81 5.8 Expenditure on Selected Major Foreign Funded Irrigation Schemes ... ... 83 5.9 Public Sector Housing Programme ...... 85",
+    "fonts": [
+      "Times-Bold",
+      "Times-BoldItalic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      59.52,
+      677.35,
+      525.07,
+      718.13
+    ],
+    "text": "6. PRICES AND WAGES . 6.1 Annual Average Price Changes -90 62 Colombo Consumers' PriceTndex (1952=100) ... ... ... 91 6.3 Greater.Colombo Consumers'Price Index (January to June 1989= 100) ... 93",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold",
+      "Times-Italic"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      68.16,
+      58.63,
+      510.3,
+      101.81
+    ],
+    "text": "6.4 Retail Sales Prices of Selected Food Items (All Island) 94 6 5 Wholesale Price Index (1974 =100) - \u2022\u2022\u2022 ... 95 6.6 Average Retail Prices of Selected Food Items in Selected Markets ... ... 96 6.7 Wage Rate Index Numbers (December 1978=100) ... ... 98",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      47.76,
+      109.75,
+      308.26,
+      118.61
+    ],
+    "text": "7. POPULATION, L A B O U R FORCE A N D EMPLOYMENT",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      68.64,
+      121.75,
+      514.48,
+      176.69
+    ],
+    "text": "7.1 Basic Indicators of Population ... ... 100 7.2 Population Composition by Age Groups and Dependency and Sex Ratios ... 101 7.3 Labour Force Participation Rate ... ... 103. 7.4 Labour Force and Employment ... ... ... 104 7.5 Labour Fbrce and Employment (Third Quarter of the Year) ... ... 104",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48.24,
+      181.99,
+      295.82,
+      190.85
+    ],
+    "text": "8. FISCAL POLICY A N D BUDGETARY OPERATIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      68.88,
+      193.75,
+      511.26,
+      295.01
+    ],
+    "text": "8.1 Summary of Government Fiscal Operations ... ... ... 110 8.2 Summary of Revenue by Component ... ... ... Ill 8.3 Economic Classification of Expenditure and Lending minus Repayment ... 117 8.4 Functional Classification of Expenditure ... ... ... 118 8.5 Budget Out-turn for Provincial Councils ... ... 121 8.6 Realisation of Privatisation Proceeds in 1997 ... ... 122 8.7 Outstanding Central Government Debt ... ... ... 125 8.8 Effect of Exchange Rate Variation on Foreign Loans ... ... 125 8.9 Government Debt Service Payments ... ... ... 126",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      48.24,
+      306.55,
+      296.6,
+      315.41
+    ],
+    "text": "9. T R A D E , B A L A N C E OF PAYMENTS A N D TOURISM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      69.12,
+      318.31,
+      511.41,
+      453.41
+    ],
+    "text": "9.1 Balance of Payments-Analytic Presentation ... ... 128 9.2 External Trade Performance ... ... ... 130 9.3 Composition of Exports .\u201e ... ... 131 9.4 End-Use Classification of Imports ... ... ... 134 9.5 Volumes of Major Imports ... ... 135 9.6 Net Services, Income and Transfers ... ... 136 9.7 Exchange Rate Movements ... ... \u2014 139 9.8 External Assets of Sri Lanka ... ... ... 141 9.9 Disbursed and Outstanding External Debt ...... 142 9.10 External Debt Service Payments .... ... .... 143 9.11 Effective Import Duty Collection Rate ... ... 145 9.12 Tourism Statistics ... ... 152",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      49.68,
+      462.07,
+      163.9,
+      470.93
+    ],
+    "text": "10. FINANCIAL SECTOR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.850605487823486,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      65.52,
+      473.83,
+      511.78,
+      712.37
+    ],
+    "text": "10.1 Summary Monetary Statistics .... ... ... 154 10.2 Monetary Aggregates ... ... ... 155 10.3 Monetary Aggregates and Underlying Factors ... ... ... 155 10.4 Selected Items of Assets and Liabilities of Commercial Banks ... ... 161 10.5 Sources and Users of Resources of Commercial Banks ... ... 163 10.6 Commercial Bank Advances by Purpose and Maturity ... ... 164 10.7 Advances by Type of Security ... ... ... 165 10.8 Distribution of Bank Branches ... ... ... 167 10.9 Cultivation Loans Granted Under the New Comprehensive Rural Credit Scheme ... 169 lO.lODeposits and Advances-Selected Rural Sector Institutions ... ... 170 10.11 LoansApproved and Granted by Long-Term Credit Institutions by Purpose ... 175 10.12 Assets and Liabilities of Licensed Finance Companies ... ... 179 10.13Progressof Activities of Merchant Banks ... ... .... 180 . 10.l4Money Market Operations 1995-1997. ;.. , 181 10.15Share Market Indicators .... ... ... 184 10.16Number of New Share Issues by Type of Investment ' ... ... 185 10.17'New Share Issues of Companies during 1997 ... ... ... 186 10.18Category-wise Distribution of Shares Traded in the Secondary Share Market in 1997 ... 186 10.19Treasury Bond Issues during 1997 ... ... ... 188 10.20Rupee Loans Floated during 1997 ... ... ... 188 10.21 Unit Trusts ... ... 188",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      57.36,
+      51.67,
+      153.58,
+      60.53
+    ],
+    "text": "F N A N C I A L SECTOR",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71.28,
+      63.67,
+      285.55,
+      72.53
+    ],
+    "text": "10.1 Monetary Aggregates, Velocity and Money Multiplier",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      75.67,
+      180.86,
+      84.53
+    ],
+    "text": "10.1.1 Money Supply",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      87.91,
+      187.1,
+      96.77
+    ],
+    "text": "10.1.2 Domestic Credit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      99.91,
+      198.83,
+      108.77
+    ],
+    "text": "10.1.3 Net External Assets",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      112.15,
+      283.6,
+      121.01
+    ],
+    "text": "10.1.4 Income Velocity and Money Multiplier ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75.36,
+      124.15,
+      237.55,
+      133.01
+    ],
+    "text": "10.2 Monetary Base and Money Multiplier",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75.36,
+      136.15,
+      146.75,
+      145.01
+    ],
+    "text": "10.3 Interest Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.52,
+      148.15,
+      180.1,
+      157.01
+    ],
+    "text": "10.3.1 Treasury Bills",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      160.15,
+      179.15,
+      169.01
+    ],
+    "text": "10.3.2 Deposit Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      172.15,
+      181.06,
+      181.01
+    ],
+    "text": "10.3.3 Lending Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      96.0,
+      184.15,
+      195.7,
+      193.01
+    ],
+    "text": "10.3.4 Call Market Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75.6,
+      196.15,
+      197.52,
+      205.01
+    ],
+    "text": "10.4 Employees' Provident Fund",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      208.15,
+      224.74,
+      217.01
+    ],
+    "text": "10.4.1 Contributions and Refunds",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.52,
+      220.15,
+      237.71,
+      229.01
+    ],
+    "text": "10.4.2 Rate of Return on Investments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      75.36,
+      232.15,
+      183.23,
+      241.01
+    ],
+    "text": "10.5 Share Market Indicators",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.52,
+      244.15,
+      246.14,
+      253.01
+    ],
+    "text": "10.5.1 Share Price Indices (1985= 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      256.15,
+      224.27,
+      265.01
+    ],
+    "text": "10.5.2 Stock Market Transactions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      95.76,
+      268.15,
+      225.41,
+      277.01
+    ],
+    "text": "10.5.3 Non-National Participation",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      243.84,
+      385.24,
+      339.4,
+      397.42
+    ],
+    "text": "PART I - BOXES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.94486141204834
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71.76,
+      440.23,
+      282.23,
+      449.09
+    ],
+    "text": "1 Inflation-Unemployment Trade-Off and Misery Index",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71.28,
+      455.11,
+      188.93,
+      463.97
+    ],
+    "text": "2 Banking System Soundness",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71.04,
+      469.99,
+      262.87,
+      478.85
+    ],
+    "text": "3 National Ports and Shipping Policy of Sri Lanka",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.56,
+      484.87,
+      214.81,
+      493.73
+    ],
+    "text": "4 A Measure of Underlying Inflation",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.8,
+      499.75,
+      365.59,
+      508.61
+    ],
+    "text": "5 The Social Security System in Sri Lanka - Problems of an Ageing Population",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.56,
+      514.63,
+      295.5,
+      523.49
+    ],
+    "text": "6 Consumer Finances and Socio Economic Survey 1996/97",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.8,
+      529.75,
+      148.11,
+      538.61
+    ],
+    "text": "7 Tax Compliance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      71.04,
+      544.39,
+      439.48,
+      553.25
+    ],
+    "text": "8 Presentation of BOP Statistics according to the Fifth (1993) Edition of the IMF BOP Manual and",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      86.88,
+      556.63,
+      215.38,
+      565.49
+    ],
+    "text": "External Sector Data in US Dollars",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      70.56,
+      571.51,
+      291.47,
+      580.37
+    ],
+    "text": "9 Sri Lanka Submits Offers to WTO on Financial Services",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      66.96,
+      586.39,
+      204.59,
+      595.25
+    ],
+    "text": "10 Non-Bank Financial Institutions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      224.88,
+      48.04,
+      329.05,
+      60.22
+    ],
+    "text": "PART I - CHARTS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      10.889445304870605
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      44.88,
+      99.58,
+      361.21,
+      108.55
+    ],
+    "text": "1. ECONOMIC PERFORMANCE, PROBLEMS A N D POLICIES IN 1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.957028865814209,
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.52,
+      112.3,
+      340.25,
+      180.31
+    ],
+    "text": "1.1 Income Growth ...... 1.1.1 Annual Growth 1.1.2 Period Average Growth ... 1.2 Sectoral Composition of GDP ... .1.2.1 1978- 1980 ... \u2022\u2022; . . 1.2.2 1997 ... ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.76,
+      183.58,
+      167.18,
+      192.55
+    ],
+    "text": "1.3 Savings and Investment",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.76,
+      195.58,
+      271.82,
+      252.55
+    ],
+    "text": "1.3.1 Savings and Investment (Annual) ... 1.3.2 Savings and Investment (Period Average) ... 1.3.3 Composition of Investment (Annual) 1.3.4 Composition of Investment (Period Average) 1.4 Changes in Prices",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.0,
+      255.58,
+      205.34,
+      312.31
+    ],
+    "text": "1.4.1 Inflation (Annual) 1.4.2 Inflation (Period Average) 1 5 Wage Rate Indices (1991 = 100). 1.6 Unemployment Rate 1.7 Fiscal Overview",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      81.12,
+      315.82,
+      204.25,
+      336.55
+    ],
+    "text": "1.7.1 Revenue and Expenditure 1.7.2 Budget Deficit",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.24,
+      339.82,
+      207.95,
+      348.79
+    ],
+    "text": "1.8 Selected External Sector Indicators",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.48,
+      351.82,
+      269.92,
+      420.55
+    ],
+    "text": "1.8.1 Balance of Payments 1.8.2 Effective Exchange Rates (1995 = 100) ... 1.8.3 External Assets ,.. 1.8.4 External Debt Service Ratio 1.9 Daily Exchange Rates 1.10 Monetary Aggregates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.48,
+      423.34,
+      269.92,
+      456.31
+    ],
+    "text": "1.10.1 Monetary Aggregates (Annual) 1.10.2 Monetary Aggregates (Period Average) ... 1.11 Monetary Growth",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.189697265625,
+      8.191780090332031
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.72,
+      459.34,
+      223.79,
+      492.31
+    ],
+    "text": "1.11.1 Monetary Growth (M2) 1.11.2 Monetary Growth with FCBUs 1.12 Interest Rates",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.189697265625,
+      8.191780090332031
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.72,
+      495.34,
+      341.21,
+      528.31
+    ],
+    "text": "1.12.1 Interest Rates (Annual) 1.12.2 Interest Rates (Period Average) 1.13 Yield Curve - Government Securities ... :..",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023,
+      8.191780090332031,
+      8.307181358337402
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.12,
+      555.34,
+      257.19,
+      564.31
+    ],
+    "text": "3. AGRICULTURE, FISHING A N D FORESTRY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.6930389404296875,
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.36,
+      567.34,
+      304.46,
+      636.31
+    ],
+    "text": "3.1 Price and Cost of Production Indices: Tea (1990= 100) 3.2 Price and Cost of Production Indices: Rubber (1990 = 100) 3.3 Price and Cost of Production Indices: Coconut (1990 = 100) 3.4 Paddy Production 3 5 Total Sugar Availability 3.6 Fertiliser Application: Major Crop Categories (1990= 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      45.12,
+      650.86,
+      103.35,
+      659.83
+    ],
+    "text": "4. INDUSTRY",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.912585258483887,
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      60.0,
+      663.1,
+      271.21,
+      696.07
+    ],
+    "text": "4.1 Growth and Composition of Industrial Production ... 4.1.1 Growth in Industrial Output 4.1.2 Composition of Industrial Production-1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      8.018590927124023
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      53.59,
+      290.54,
+      62.45
+    ],
+    "text": "4.2 Value of Industrial Production (1990 Constant Prices)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      66.07,
+      298.61,
+      74.93
+    ],
+    "text": "4.3 Private and Public Sector Share in Industrial Production",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      78.55,
+      261.02,
+      87.41
+    ],
+    "text": "4.4 Labour Productivity in Industry (1995 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      91.27,
+      211.69,
+      100.13
+    ],
+    "text": "4.5 Realised Investment of the BOI",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      79.92,
+      101.78,
+      280.69,
+      121.01
+    ],
+    "text": "i 4.6 Approved and Contracted BOI Projects",
+    "fonts": [
+      "Helvetica-Bold",
+      "Times-Bold"
+    ],
+    "sizes": [
+      6.309215545654297,
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.08,
+      124.39,
+      253.06,
+      133.25
+    ],
+    "text": "4.6.1 Approved and Contracted Projects",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.32,
+      136.63,
+      267.7,
+      145.49
+    ],
+    "text": "4.6.2 Approved and Contracted Investments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      59.04,
+      153.67,
+      231.98,
+      162.53
+    ],
+    "text": "5. ECONOMIC AND SOCIAL OVERHEADS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      166.15,
+      233.09,
+      175.01
+    ],
+    "text": "5.1 Expenditure on Health and Education",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      178.63,
+      285.04,
+      187.49
+    ],
+    "text": "5.2 Telephone Density in Selected Countries- 1997 ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      191.35,
+      178.66,
+      200.21
+    ],
+    "text": "5.3 Major Energy Sources",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      203.83,
+      294.14,
+      212.69
+    ],
+    "text": "5.3.1 Electricity Generation and Sales (1990 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      216.31,
+      284.27,
+      225.17
+    ],
+    "text": "5.3.2 Electricity: Average Tariffs and Unit Costs",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      229.03,
+      233.86,
+      237.89
+    ],
+    "text": "5.3.3 Petroleum: Prices and Costs",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      241.51,
+      285.04,
+      250.37
+    ],
+    "text": "5.3.4 Petroleum Products - Domestic Sales ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      58.8,
+      266.95,
+      169.82,
+      275.81
+    ],
+    "text": "6. PRICES A N D WAGES",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      279.43,
+      285.04,
+      288.29
+    ],
+    "text": "6.1 Colombo Consumers' Price Index (1952 = 100)...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      291.91,
+      353.9,
+      300.77
+    ],
+    "text": "6.2 Greater Colombo Consumers' Price Index (Jan. to June 1989 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      304.63,
+      234.14,
+      313.49
+    ],
+    "text": "6.3 Wholesale Price Index (1974 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      317.11,
+      250.66,
+      325.97
+    ],
+    "text": "6.4 Monthly Prices of Selected Commodities",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      329.59,
+      173.52,
+      338.45
+    ],
+    "text": "6.4.1 Samba Rice",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      342.31,
+      151.31,
+      351.17
+    ],
+    "text": "6.4.2 Beans",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      355.03,
+      173.14,
+      363.89
+    ],
+    "text": "6.4.3 Red Onions",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      367.51,
+      159.95,
+      376.37
+    ],
+    "text": "6.4.4 Potatoes",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      59.28,
+      391.99,
+      302.3,
+      400.85
+    ],
+    "text": "8. FISCAL POLICY A N D BUDGETARY OPERATIONS",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      404.95,
+      285.04,
+      413.81
+    ],
+    "text": "8.1 Fiscal Indicators ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      417.43,
+      187.92,
+      426.29
+    ],
+    "text": "8.2 Composition of Revenue",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.88,
+      429.91,
+      206.97,
+      438.77
+    ],
+    "text": "8.3 Composition of Expenditure \u2022",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.88,
+      442.39,
+      195.84,
+      451.25
+    ],
+    "text": "8.4 Performance of PCs-1997",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      454.87,
+      161.23,
+      463.73
+    ],
+    "text": "8 5 Deficit Financing",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.88,
+      467.35,
+      174.14,
+      476.21
+    ],
+    "text": "8.6 Composition of Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      59.04,
+      492.31,
+      308.6,
+      501.17
+    ],
+    "text": "9. T R A D E , B A L A N C E OF PAYMENTS A N D TOURISM",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      505.03,
+      176.27,
+      513.89
+    ],
+    "text": "9.1 Balance of Payments",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      517.75,
+      152.88,
+      526.61
+    ],
+    "text": "9.2 External Trade",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      530.23,
+      182.88,
+      539.09
+    ],
+    "text": "92.1 Trade Balance",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      542.71,
+      303.02,
+      551.57
+    ],
+    "text": "9.2.2 Export and Import Volume Indices (1990= 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      555.19,
+      248.06,
+      564.05
+    ],
+    "text": "92.3 Trade Price Indices (1990 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      567.67,
+      285.28,
+      576.53
+    ],
+    "text": "9.2.4 Trade in Services ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      580.15,
+      234.58,
+      589.01
+    ],
+    "text": "9.3 Value of Exports by Major Categories",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      592.63,
+      285.04,
+      601.49
+    ],
+    "text": "9.4 Value of Industrial Exports by Major Categories ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      605.11,
+      148.43,
+      613.97
+    ],
+    "text": "9.5 Capital Flows",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.4,
+      617.35,
+      356.8,
+      626.21
+    ],
+    "text": "9.6 Effective Exchange Rate Indices ... ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      629.59,
+      314.54,
+      638.45
+    ],
+    "text": "9.6.1 Real Effective Exchange Rate Indices (1995 = 100)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.8,
+      641.83,
+      357.41,
+      650.69
+    ],
+    "text": "9.6.2 Nominal Effective Exchange Rate Indices (1995= 100) ...\"",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.8,
+      654.07,
+      370.46,
+      662.93
+    ],
+    "text": "9.6.3 Real Effective Exchange Rate Indices (12 Month Moving Average)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      100.56,
+      666.55,
+      385.58,
+      675.41
+    ],
+    "text": "9.6.4 Nominal Effective Exchange Rate Indices (12 Month Moving Average)",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      679.51,
+      356.8,
+      688.37
+    ],
+    "text": "9.7 Quarterly External Assets ... ...",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      80.64,
+      692.23,
+      148.22,
+      701.09
+    ],
+    "text": "9.8 External Debt",
+    "fonts": [
+      "Times-Bold"
+    ],
+    "sizes": [
+      7.959899425506592
+    ]
+  }
+]
