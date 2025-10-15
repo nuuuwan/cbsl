@@ -1,0 +1,39 @@
+"","","x) 
+Ability to meet regulatory requirements and international standards on cloud"
+"","","computing on a continuous basis."
+"","","b) 
+In the event the cloud service provider exhibits the risks highlighted in 9.2 (a), the"
+"","","LFC shall ensure necessary steps are in place to mitigate such risks."
+"","9.3","LFCs  shall  assess  the  degree  to  which  the  selected  cloud  configuration  adequately"
+"","","addresses the following attributes,"
+"","","a)  Geographical redundancy"
+"","","b) 
+High availability"
+"","","c) 
+Scalability"
+"","","d) 
+Portability"
+"","","e) 
+Interoperability"
+"","","f) 
+Strong recovery and resumption capability including appropriate alternate internet"
+"","","path to protect against potential internet faults"
+"","9.4","LFCs shall assess the availability of independent, internationally recognized certifications"
+"","","of the cloud service providers, at a minimum, in the following areas:"
+"","","a) 
+Information  security  management  framework,  including  cryptographic  modules"
+"","","such as used for encryption and decryption of user data."
+"","","b) 
+Cloud-specific  security  controls  for  protection  of  customer  and  counterparty  or"
+"","","proprietary information including payment transaction data in use, in storage and"
+"","","in transit."
+"","9.5","LFCs  shall  separately  identify  the  critical  and  non-critical  systems  prior  to  using  any"
+"","","cloud services. The risk assessment as outlined in paragraph 9.2 shall be documented"
+"","","and notified to the Director before the adoption."
+"","9.6","LFCs shall implement appropriate safeguards on customer and counterparty information"
+"","","and  proprietary  data  when  using  cloud  services 
+to  protect  against  unauthorized"
+"","","disclosures and access. This shall include retaining ownership, control and management"
+"","","of all data pertaining to customer and counterparty information, proprietary data and"
+"","","services hosted on the cloud, including the relevant cryptographic keys management."
+"10. Transitional provisions","10.1","The transitional provisions on the direction are as per the Table 1 given below."

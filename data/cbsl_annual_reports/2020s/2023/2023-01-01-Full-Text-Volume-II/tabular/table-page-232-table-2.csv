@@ -1,0 +1,78 @@
+"Administrative Measures Adopted by the Government and the Monetary Board during the Year
+Part III"
+"c) 
+Pre-implementation tests shall be conducted by a team independent from"
+"the team responsible for the development and/or implementation of the"
+"information system."
+"d) 
+LFCs  shall  adopt  suitable  alternative  security  evaluation  methodologies"
+"when  procuring  off-the-shelf  software  if  conducting  pre-implementation"
+"tests as per 5.10.1(b) is not possible."
+"e) 
+LFCs may rely on an assurance provided by an independent third-party,"
+"mutually acceptable to both the LFC and the information system provider,"
+"as an alternative to 5.10.1(b)(i) in case of information systems provided"
+"by external vendors."
+"f) 
+LFCs shall implement industry standard controls to ensure the malicious"
+"code  will  not  be  injected  when  source  code  is  moved  to  production"
+"environment after completion of relevant pre-implementation tests."
+"5.10.2 
+Vulnerability Assessments (VA)"
+"a) 
+Critical information systems and information systems exposed to customer"
+"data  shall  be  subject  to  VA  at  least  bi-annually  or  whenever  there  is  a"
+"change to the IT infrastructure and system modifications."
+"b) 
+VA shall focus on both infrastructure and application vulnerabilities."
+"c) 
+VA shall be performed on production environments."
+"d) 
+VA may be performed by the LFC’s internal information security staff or"
+"external experts"
+"e) 
+Vulnerabilities identified shall be remediated within a time period approved"
+"by the ISC."
+"5.10.3 
+Penetration Testing (PT)"
+"a) 
+LFCs shall conduct PT using an independent external expert to determine,"
+"i) 
+The ability of tested information systems to withstand real-world style"
+"attacks."
+"ii) 
+The  required  level  of  sophistication  and  persistence  an  attacker"
+"should  possess  to  successfully  compromise  the  tested  information"
+"systems."
+"iii) 
+Ability of the LFC’s information security, operational, and leadership"
+"teams to detect and appropriately respond to such attacks."
+"iv) 
+Any enhancements required to mitigate such threats in the future."
+"b) 
+Critical  information  systems,  information  systems  exposed  to  customer"
+"data, and repositories of customer data with the LFC, agents, and third-"
+"party service providers shall be subject to PT by an independent external"
+"penetration testing expert, at least annually. An indicative guidance on the"
+"conduct of PT is given in Annexure - III."
+"c) 
+LFCs  that  are  mature  and  have  complex  technologies  supporting  their"
+"business activities could conduct red team exercises as an extension of PT."
+"An indicative guidance on how to conduct red team exercises are given in"
+"Annexure - IV."
+"5.11
+Information Security Training and Certification"
+"5.11.1 
+Training and Awareness to Board of Directors"
+"a) 
+LFCs  shall  implement  a  comprehensive  annual  training  and  awareness"
+"program  on  information  security  and  technology  risk  management  for"
+"Board of Directors, in accordance with the requirements below."
+"i) 
+The  objective  of  such  program  shall  be  to  enable  the  Board  of"
+"Directors to have effective oversight on the adequacy and effectiveness"
+"of information security and technology risk management policies and"
+"procedures of the LFC."
+"ii) 
+Responsibilities of the Board of Directors and Board Committees in terms"
+"of the requirements in this regulatory framework and other applicable"
