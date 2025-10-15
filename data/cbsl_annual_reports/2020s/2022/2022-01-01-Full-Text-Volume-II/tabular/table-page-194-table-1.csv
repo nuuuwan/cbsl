@@ -1,0 +1,65 @@
+"Administrative Measures Adopted by the Government and the Monetary Board during the Year
+Part III"
+"Section 4 : Short-Term Auctions"
+"45.0 
+The  Short-Term  (ST)  auctions  shall  be  in  the  form  of  Repo  (to  absorb  liquidity)  and  Reverse  Repo  (to  inject  liquidity)"
+"transactions. The tenure of ST auction shall be overnight to 7 days (one week). The exact tenure and the amount offered"
+"shall be decided by the MOC as stated in the clause 5.0 of this Consolidated Operating Instructions. The settlement shall"
+"be	on	same	day	settlement	(T+0)	basis."
+"46.0 
+The CBSL shall announce the decision of the MOC on OMO auction by 0930 hours on the same day. The announcement"
+"shall include the type of repurchase auction on offer (STRP and STRRP), the amount offered and the maturity date (tenure)."
+"STRP and STRRP auctions will be conducted as per the Annexure of Time Schedule and Summary of OMO Instruments."
+"47.0 
+Each PI is restricted to a maximum of 03 bids and the total value shall be restricted to the amount offered at the respective"
+"auction. Each bid shall contain the amount they wish to invest/borrow and the corresponding bidding interest rate."
+"48.0 
+Results of the STRP, STRRP and STLSF auctions shall be announced 30 minutes after the auction cutoff time on the auction"
+"date via the OEBS and CIMM providing the details of -  total bids received, amount accepted, weighted average interest"
+"rate, maximum and minimum rate of the successful bids. Each bidder (PI) shall be informed of the outcome (rejection,"
+"acceptance or partial acceptance of the bid/s) of the auction through the OEBS."
+"49.0 
+For each successful bid, securities shall be allocated at the CBSL official selling prices at the STRP. A confirmation for each"
+"successful PI in respect of STRP, STRRP and STLSF auctions shall  be  issued  electronically via OEBS within  one  hour  after"
+"the  release  of  the auction results. The confirmation shall include the ISIN(s) and the respective face value(s) allocated"
+"(recalculated face values if the bid is partially accepted), amount accepted and the repurchase/sale value(s)."
+"4.1 Short-Term Repo (STRP) Auctions"
+"50.0 
+A PI who wishes to invest under the STRP auction is required to submit their bid/s electronically through the OEBS by"
+"selecting the appropriate auction announcement. Any bid at or above the SLFR will be rejected."
+"51.0 
+The allotment shall be made based on the ascending order of the bidding interest rates quoted by the successful bidder."
+"52.0 
+The settlement of the transactions will be through the Matched Trade Feed (MTF) facility available at LankaSettle. PSD"
+"shall  settle  the  transaction  on  or  before  1315  hours  by  transferring  the  allocated  securities  into  the  DOP  Account  of"
+"the respective PI in LankaSecure against the receipt of funds (amount accepted) for the sale value of securities to the"
+"Settlement Account of the CBSL."
+"53.0 
+Successful PIs shall ensure that sufficient funds are available in their settlement account to enable the PSD to debit the"
+"sales value of securities (amount accepted) in full by 1315 hours."
+"54.0 
+On the maturity date (Repurchase date), the PSD will credit the repurchase value of the securities to the settlement account"
+"of the PI against the receipt of the sold securities to the securities own account or Domestic Operations Borrowed (DOB)"
+"account of the CBSL in LankaSecure, on or before 0830 hours."
+"55.0 
+The Repurchase value shall consist of sales price of the securities (amount accepted) plus the interest component for the"
+"respective bid. The interest component of the respective bid shall be calculated based on the amount accepted and the"
+"corresponding bidding interest rate of the PI for that bid for the duration of the agreement (tenure)."
+"56.0 
+PIs shall ensure the availability of the Securities Purchased from the CBSL in their DOP Account in LankaSecure on the"
+"maturity date (repurchase date) by 0830 hours to enable the reversal of the STRP transaction in full."
+"4.2 Short-Term Reverse Repo (STRRP) Auctions"
+"57.0 
+A PI who wishes to borrow from the STRRP auction is required to submit their bid/s electronically through the OEBS by"
+"selecting the appropriate auction announcement. PIs are required to submit the security details ISIN(s) together with their"
+"bids. Any bid at or below the SDFR will be rejected."
+"58.0 
+The allotment shall be made based on the descending order of the bidding interest rates quoted by the successful bidder."
+"59.0 
+The settlement of the transactions shall be processed on or before 1315 hours on the same day through the MTF facility"
+"available at LankaSettle. The PSD shall settle the transaction by crediting the settlement account of the PI for the purchase price"
+"of securities (amount accepted) against the receipt of purchased securities into the DRP Account of the CBSL in LankaSecure."
+"60.0 
+On the maturity date (sell back date), the CBSL shall transfer the purchased securities back to the PI’s own security account"
+"at LankaSecure, not later than 1100 hours, against the receipt of funds into the settlement account of the CBSL for the"
+"sell back value (repurchase price) of the purchased security/securities."
