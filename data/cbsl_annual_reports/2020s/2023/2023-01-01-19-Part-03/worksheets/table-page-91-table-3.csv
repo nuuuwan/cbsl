@@ -1,0 +1,50 @@
+"Information Security Testing",""
+"","Pre-Implementation Information Security Testing"
+"a)","Scope"
+"","i) 
+Critical  information  systems  and  information  systems  exposed  to"
+"","customer  data  shall  be  subject  to  pre-implementation  information"
+"","security  tests.  Any  other  information  system  that  could  potentially"
+"","make  any  critical 
+information  system  or  any 
+information  system"
+"","exposed to customer data vulnerable shall also be subjected to pre-"
+"","implementation information security tests."
+"","ii) 
+The  Board  of  Directors  shall  decide  on  the  need  to  conduct  pre-"
+"","implementation 
+information 
+security 
+testing 
+for 
+non-critical"
+"","information  systems  exposed  to  confidential  non-customer  data  on"
+"","the recommendation of BIRMC and ISC."
+"","iii) 
+Pre-implementation  information  security  tests  shall  be  conducted"
+"","prior 
+to 
+initial 
+implementation  and  prior 
+to 
+implementation  of"
+"","modifications.  Minor  modifications  could  be  excluded  from  pre-"
+"","implementation  information  security  tests  based  on  an  exclusion"
+"","policy approved by the Board of Directors. In the event of any specific"
+"","minor  modification  needs  to  be  excluded,  the  approval  of  ISC  is"
+"","required at the time of implementation."
+"b)","Following 
+types  of  pre-implementation 
+tests  shall  be  carried  out  as"
+"","applicable to the given implementation:"
+"","i) 
+Static Application Security Testing (SAST) or source code reviews to"
+"","detect any malicious or unsafe code."
+"","ii) 
+Dynamic  Application  Security  Testing  (DAST)  to  detect  application-"
+"","level vulnerabilities an attacker could exploit."
+"","iii)  Quality assurance testing on computing and networking infrastructure"
+"","hardening to ensure compliance with internal hardening policies, and"
+"","iv) 
+Infrastructure  vulnerability  assessments  to  identify  vulnerabilities  in"
+"","computing and networking infrastructure."

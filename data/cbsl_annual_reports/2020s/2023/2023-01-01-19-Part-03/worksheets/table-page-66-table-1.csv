@@ -1,0 +1,51 @@
+"Administrative Measures Adopted by the Government and the Monetary Board during the Year
+Part III"
+"D. 
+Responsibilities of SLIPS Participants"
+"Every SLIPS Participant shall;"
+"1.    not operate or participate in any national level inter-bank payment and clearing system which centrally clears retail payments,"
+"other than the retail payments and clearing systems operated by the LCPL."
+"2.   be responsible for procuring their own hardware, software, and network infrastructure."
+"3.    ensure that the hardware and software procured is available to receive and execute transactions under the SLIP System with"
+"provisions to future enhancements and take all necessary steps to maintain such hardware and software in good working"
+"order."
+"4. 
+be responsible for the compliance of file format and defined transaction flows, and for the correct and accurate submission"
+"and finalization of the payment orders of Customers and SLIPS Participants in a timely manner, and for the authenticity of all"
+"payment orders."
+"5. 
+be responsible to safeguard the SLIP System and conform to and observe all security features and instructions issued by LCPL"
+"to SLIPS Participants and ensure that any act/s or  omission/s do not threaten or cause prejudice to the security of the overall"
+"SLIP System or to the security of the system of any other SLIPS Participant."
+"6. 
+ensure that unauthorized access (hacking, traffic generating, sniffing etc.) and other activities that effect change/damage and"
+"corrupt the SLIP System are prevented."
+"7. 
+inform the CBSL and LCPL of any change in its legal status and capacity to participate in the SLIP System."
+"8. 
+ensure that adequate funds are available in their RTGS settlement accounts to settle SLIPS multilateral net settlement batch in"
+"the RTGS System at the end of each Settlement Cycle."
+"9. 
+set up a procedure and/or mechanism to acknowledge the completion or non-completion of a Money Transmission through"
+"the SLIP System to the Customer."
+"10.  adhere to technical, legal, administrative, security and other requirements specified by LCPL from time to time in respect of the"
+"SLIP System."
+"11.  ensure crediting of the account of the Beneficiary or tendering Monetary Value to the Beneficiary, to the extent of  the value of"
+"the Payment Order, on the receipt of relevant SLIPS Data from LCPL, on Value Date of the Payment Order."
+"12.  set up service norms and standards and maintain infrastructure to provide facilities stated in 11 above."
+"13.  be responsible for making regular backups of databases and all its information and data relating to SLIP System."
+"14.  reconcile  the  daily  transaction  reports  and  inform  the  LCPL  Help  Desk  in  writing  of  any  discrepancies  not  later  than  one"
+"Business Day from the time of the original transaction."
+"15.  comply  with  applicable  laws,  instructions  and  procedures  specified  by  LCPL  or  any  other  direction  issued  by  the  CBSL  in"
+"relation to the operations of the SLIP System."
+"16.  notify the Financial Intelligence Unit (FIU) of the CBSL if there is any unusual increase in the number and value of payment"
+"orders  received  for  execution  through  the  SLIP  system  from  a  particular  customer,  in  terms  of  the  Financial  Transactions"
+"Reporting Act No.06 of 2006 and act according to the instructions of FIU."
+"E.  Business Continuity Planning"
+"1. 
+LCPL  and  SLIPS  participants  shall  have  well  defined  business  continuity  plans  for  SLIP  System  operations  endorsed  by  the"
+"respective Board of Directors to ensure a very high level of system availability which is required for a system-wide important"
+"payment system."
+"2. 
+LCPL  and  SLIPS  participants  shall  have  fully  equipped  disaster  recovery  sites  and  well  trained  disaster  management  and"
+"business  recovery  teams  for  SLIP  System  to  resume  business  operations  immediately  after  a  disruption,  to  continue  and"
