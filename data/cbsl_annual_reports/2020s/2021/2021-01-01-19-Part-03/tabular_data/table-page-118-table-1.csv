@@ -1,0 +1,56 @@
+":16S:FIAC","","","","","",""
+":16R:REPO","","","","","",""
+":98A::TERM//","","Date of 
+Repurchase
+(for customer 
+repo instructions)","","As per the LankaSettle System Rules 
+section 5.13","",""
+"","","","","","",""
+":20C::SECO//","","Transaction refer-
+ence to be used 
+for the return leg
+(for customer 
+repo instructions)","","Refer guidelines for Transaction Reference 
+(Annexure 01)","",""
+":16S:REPO","","","","","",""
+"","","","","","",""
+":16R:SETDET","","","","","",""
+":22F::SETR//","","Trade Settlement","","Follow the given coding schedule;
+TRAD    - Inter-Participant Outright (Ordi-
+nary Transaction)
+OWNI   - Intra-Participant Outright (Re-
+positioning transaction)","",""
+":16R:SETPRTY","","","","","",""
+":95P::REAG//","","BIC of the 
+participant 
+receiving the 
+securities","","Receiving Participant BIC","",""
+"","","","","","",""
+":97A::SAFE//","","Account, the 
+securities are 
+being received to  
+(for repositioning 
+transactions)","","Receiving Securities Account, Receiving 
+Beneficial Owner Code.
+Correct recording of Account and Owner 
+Code as per the Lankasettle system 
+rules section 4.2 & 4.3 is required","",""
+"","","","","","",""
+":16S:SETPRTY","","","","","",""
+":16R:SETPRTY","","","","","",""
+"","","","","","",""
+":95P::PSET//","","Place of 
+Settlement. BIC 
+of CSS","","CBCELKLSXXX","",""
+":16S:SETPRTY","","","","","",""
+":16R:AMT","","","","","",""
+":19A::SETT//","","Settlement 
+Amount","","Exact value or the representing value 
+calculated based on Yield and Face 
+value of the particular security movement.                                                                                                                                        
+refer: circular ssss/02/2019 issued on 
+01.10.2019","","Same Instruction as given for the Original 
+Transaction"
+":16S:AMT","","","","","",""
+"","","","","","",""
+":16S:SETDET","","","","","",""

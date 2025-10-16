@@ -1,0 +1,60 @@
+"0845 hrs.","MLNS Batch from LankaClear","Common ATM Switch (CAS) Cycle 1"
+"0900 hrs.","MLNS Batch from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 1"
+"0900 hrs.","MLNS Batch from LankaClear","Common POS Switch (CPS) Cycle 1"
+"1100 hrs.","Reversal of Reverse Repos and
+Standing Lending Facility (SLF)","Settlement of second leg of Reverse Repos
+under OMO and SLF."
+"","",""
+"1100 hrs.","Reversal of Liquidity Support Facility 
+(LSF)","Settlement of second leg of LSF under OMO"
+"","",""
+"1100 hrs.","MLNS Batch from LankaClear","CAS Cycle 2"
+"1115 hrs.","MLNS Batch from LankaClear","CEFTS Cycle 2"
+"","",""
+"1115 hrs.","MLNS Batch from LankaClear","CPS Cycle 2"
+"1145 hrs.","Long Term Reverse Repos (Auction)","Settlement of first leg of Long-Term Reverse Repos under OMO."
+"1300 hrs.","MLNS Batch from LankaClear","SLIPS Cycle 2"
+"1300 hrs.","MLNS Batch from LankaClear","CAS Cycle 3"
+"","",""
+"1300 hrs.","Closure of Primary Auction
+Settlement/Short Term CBSL
+Securities Auction","Settlement of securities under Primary Auction. 
+ 
+ 
+Settlement of Short Term CBSL Securities Auction"
+"","",""
+"1315 hrs.","MLNS Batch from LankaClear","CEFTS Cycle 3"
+"1315 hrs.","MLNS Batch from LankaClear","CPS Cycle 3"
+"1315 hrs.","Short Term Repos/Reverse Repos 
+(Auction)","Settlement  of  first  leg  of  Short-Term  Repos/Reverse  Repos  under 
+OMO"
+"1315 hrs.","Liquidity Support Facility (Auction)","Settlement of first leg of LSF under OMO"
+"1445 hrs.","MLNS Batch from LankaClear","Settlement Clearing and Adjustment
+Clearing."
+"","",""
+"1500 hrs.","MLNS Batch from LankaClear","SLIPS Cycle 3"
+"","",""
+"1500 hrs.","MLNS Batch from LankaClear","CAS Cycle 4"
+"1500 hrs.","Primary cut-off time for third party 
+transactions","Close for new transactions (for T + 0) in favour of third parties, 
+except for bank-to- bank (MT2XX series)."
+"","",""
+"1515 hrs.","MLNS Batch from LankaClear","CEFTS Cycle 4"
+"1515 hrs.","MLNS Batch from LankaClear","CPS Cycle 4"
+"1530 hrs.","Cut-off time for standing facilities","SLF and SDF windows are closed for Participants at 1530 hrs."
+"","",""
+"1600 hrs.","SDF","Settlement of first leg of SDF"
+"","",""
+"1615 hrs.","SLF","Settlement of first leg of SLF."
+"1615 hrs.","ILF Repayment","Repayment of ILF."
+"","",""
+"1630 hrs.","Final Cut-off Time
+Closure of System for business","No  further  inputs  are  accepted. With the closure of system for 
+queue/Settlement processing will cease and any  transactions  still  
+in  queues  will  be rejected by the system."
+"1630 hrs. to
+1700 hrs.","EOD processing","End-of-day  (EOD)  processes  e.g.  generate reports/GL  export  
+(EOD)  file,  database billing/statement maintenance  for billing/
+statement maintanence for printing purposes."
+"1700 hrs.","System shut down","Commence  shutting  down  of  RTGS/SSS application software, 
+obtain off-line backups."

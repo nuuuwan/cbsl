@@ -1,0 +1,55 @@
+"","",""
+"TIME","EVENT","ACTIVITIES /TRANSACTIONS"
+"","",""
+"0630 hrs.","System start-up","Start-up of RTGS/SSS applications."
+"0730 hrs. to 
+0800 hrs.","Start of day processing","Update Official Prices of securities, earmarking securities for ILF."
+"","",""
+"0800 hrs.","LankaSettle System opens for business","System opens for effecting transactions"
+"0800 hrs.","ILF/Auto reversal of Repos and 
+Standing Deposit Facility (SDF)","Grant ILF and settle second leg of Repos of OMO and SDF"
+"0815 hrs.","Maturities/Interest payments, start of 
+the day (SOD) file and maturities of 
+CBSL Securities","Settlement  of  maturity  proceeds/coupon  payments  of  securities, 
+effecting  LankaSettle  charges/penalties  and  maturities  of  CBSL 
+Securities."
+"0830 hrs.","Multilateral Net Settlement (MLNS) 
+Batch from LankaClear","Main Clearing of CITS.
+SLIPS Cycle 1"
+"","",""
+"0830 hrs.","Primary Auction Issuance (where 
+applicable), Outright sales/ 
+Purchases / Long Term Repo 
+Auction/ Issue of Long Term CBSL 
+Securities","Issuance of Primary Auction (where applicable).
+Settlement OMO outright sales, purchases, Long Term CBSL 
+Securities Auction and first leg of Long-Term Repo Auction."
+"","",""
+"0845 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common ATM Switch (CAS) Cycle 4 (previous business day)
+Common ATM Switch (CAS) Cycle 1 (current business day)"
+"0900 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common  Electronic  Fund  Transfer  Switch 
+(CEFTS)  Cycle  4 
+(previous business day)
+Common Electronic Fund Transfer Switch (CEFTS) Cycle 1 
+(current business day)"
+"","",""
+"0900 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common POS Switch (CPS) Cycle 4 (previous business day)
+Common POS Switch (CPS) Cycle 1 (current business day)"
+"1000 hrs.","Reversal of Reverse Repos and 
+Standing Lending Facility (SLF)","Settlement of second leg of Reverse Repos under OMO and SLF."
+"1000 hrs.","Reversal of Liquidity Support Facility 
+(LSF)","Settlement of second leg of LSF under OMO"
+"1100 hrs.","Closure of Primary Auction 
+Settlement (where applicable)","Settlement of securities under Primary Auction"
+"1100 hrs.","MLNS batch from LankaClear","Common ATM switch (CAS) Cycle 2"
+"","",""
+"1115 hrs.","MLNS batch from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 2"
+"","",""
+"1115 hrs.","MLNS batch from LankaClear","Common POS switch (CPS) Cycle 2"
+"1145 hrs.","Long Term Reverse Repos (Auction)","Settlement of First leg of Term Reverse Repo under OMO"
+"1230 hrs.","MLNS batch from LankaClear","Common ATM switch (CAS) Cycle 3"
+"1230 hrs.","MLNS batch from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 3"
+"1230 hrs.","MLNS batch from LankaClear","Common POS switch (CPS) Cycle 3"

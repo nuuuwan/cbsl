@@ -1,0 +1,40 @@
+"","","","","",""
+"Field Name","Mandatory","Scenario 5","","Scenario 6","Comment"
+"","","","","",""
+"BankCode","YES","777","","777","1-4-digit Number describing institution code"
+"ValueDate","YES","20200117","","20200120","Number in YYYYMMDD format"
+"ValueFCY","YES","0","","0","Foreign Currency Amount"
+"Curcode","YES","LKR","","LKR","Currency Code"
+"ValueRs","YES","11500000","","1500000","LKR Amount"
+"","","","","",""
+"TxnDetails","YES","CHEQUE 
+WITHDRAWAL AT 
+THE MATURITY","","FUND TRANSFER 
+AT THE MATURITY","Transaction Details"
+"","","","","",""
+"SenderName","YES","MR NIMAL PERERA","","MR NIMAL PERERA","Account holder name"
+"SenderAccNo","YES","6789","","5050","Sender Account Number"
+"","","","","",""
+"SenderID","YES","651591632V","","651591632V","NIC or Bus. Reg. No"
+"SenderAddress1","YES","NO. 12,","","NO. 12,","Address Line 1"
+"SenderAddress2","YES","TEMPLE STREET,","","TEMPLE STREET,","Address Line 2"
+"SenderAddress3","NO","HOMAGAMA.","","HOMAGAMA.","Address Line 3"
+"","","","","",""
+"SenderBusiness","YES","SCHOOL 
+TEACHER","","SCHOOL 
+TEACHER","Text describing Nature of Business/Profession /
+Vocation"
+"","","","","",""
+"ReceiverAccNo","NO","1234","","1234","Receiver Account Number"
+"ReceiverName","YES","CEYLON 
+FINANCE","","CEYLON 
+FINANCE","Account holder name of 1234"
+"ReceiverAddress","NO","NO.20, 
+YORK STREET, 
+COLOMBO 01","","NO.20, 
+YORK STREET, 
+COLOMBO 01","Account holder Address"
+"ReceiverBankName","YES","TRUST BANK","","TRUST BANK","Receiver bank Name"
+"ReceiverBankBIC","YES","2525","","2525","Receiver Bank BIC"
+"TranReference","YES","7772020011705","","7772020012003","A unique identification code to identify the 
+transaction."

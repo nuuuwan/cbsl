@@ -1,0 +1,65 @@
+"0815 hrs.","Maturities/Interest payments, start of 
+the day (SOD) file and maturities of 
+CBSL Securities","Settlement  of  maturity  proceeds/coupon  payments  of  securities, 
+effecting  LankaSettle  charges/penalties  and  maturities  of  CBSL 
+Securities."
+"0830 hrs.","Multilateral Net Settlement (MLNS) 
+Batch from LankaClear","Main Clearing of CITS. 
+SLIPS Cycle 1"
+"0830 hrs.","Primary Auction Issuance (where 
+applicable), Outright sales/ Purchases 
+/ Long Term Repo Auction/ Issue of 
+Long Term CBSL Securities","Issuance of Primary Auction (where applicable).
+Settlement OMO outright sales, purchases, Long Term CBSL 
+Securities Auction and first leg of Long Term Repo Auction."
+"0845 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common ATM Switch (CAS) Cycle 1"
+"0900 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 1"
+"","",""
+"0900 hrs.","Multilateral Net Settlement Batch 
+from LankaClear","Common POS Switch (CPS) Cycle 1"
+"","",""
+"1000 hrs.","Reversal of Reverse Repos and 
+Standing Lending Facility (SLF)","Settlement of second leg of Reverse Repos under OMO and SLF."
+"1000 hrs.","Reversal of Liquidity Support Facility 
+(LSF)","Settlement of second leg of LSF under OMO"
+"1100 hrs.","Closure of Primary Auction 
+Settlement (where applicable)","Settlement of securities under Primary Auction"
+"1100 hrs.","MLNS batch from LankaClear","Common ATM switch (CAS) Cycle 2"
+"1115 hrs.","MLNS batch from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 2"
+"1115 hrs.","MLNS batch from LankaClear","Common POS switch (CPS) Cycle 2"
+"","",""
+"1145 hrs.","Long Term Reverse Repos (Auction)","Settlement of First leg of Term Reverse Repo under OMO"
+"1230 hrs.","MLNS batch from LankaClear","Common ATM switch (CAS) Cycle 3"
+"","",""
+"1230 hrs.","MLNS batch from LankaClear","Common Electronic Fund Transfer Switch (CEFTS) Cycle 3"
+"1230 hrs.","MLNS batch from LankaClear","Common POS switch (CPS) Cycle 3"
+"1245 hrs.","Short Term Repos/ Reverse Repo 
+(Auction)","Settlement of First leg of short-term Repos/ Reverse Repos under 
+OMO"
+"1245 hrs.","LSF (Auction)","Settlement of First leg of LSF under OMO"
+"","",""
+"1300 hrs.","MLNS batch from LankaClear","SLIPS Cycle 2"
+"","",""
+"1300 hrs.","MLNS Batch from LankaClear","Settlement Clearing and Adjustment Clearing."
+"1300 hrs.","Primary cut-off time for third party 
+transactions","Close  for  new  transactions  (for  T  +  0)  in  favor  of  third  parties, 
+except for bank-to-bank (MT2XX) series."
+"1315 hrs.","Cut-off time for standing facilities","SLF and SDF windows are closed for Participants at 1315 hrs."
+"1325 hrs.","Cut-off time for Participant managed 
+ILF Repo creation","Participants should not initiate ILF Repos after 1325 hrs."
+"1335 hrs.","SDF","Settlement of first leg of SDF"
+"1345 hrs.","SLF","Settlement of first leg of SLF."
+"","",""
+"1355 hrs.","ILF Repayment","Repayment of ILF."
+"1405 hrs.","Final Cut-off Time
+Closure of System for business","No further inputs are accepted.  With the closure of system 
+for business, queue/Settlement processing will cease and any 
+transactions still in queues will be rejected by the system."
+"","",""
+"1405 hrs. to 
+1425 hrs.","EOD processing","End-of-day (EOD) processes e.g. generate reports/GL export (EOD) 
+file, database maintenance for billing/statement printing purposes."
+"1425 hrs.","System shut down","Commence  shutting  down  of  RTGS/SSS  application  software, 
+obtain off-line backups."

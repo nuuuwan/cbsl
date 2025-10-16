@@ -1,0 +1,30 @@
+":19A::TRTE//","Repurchase amount 
+(termination
+transaction amount)
+(for auto reversal 
+repo instructions)","","Maturity value",""
+":16S:REPO","","","",""
+":16R:SETDET","","","",""
+":22F::SETR//","Trade Settlement","","Strictly follow the given coding schedule;
+TRAD    - Outright (Ordinary Transaction)
+REPU    - REPO Opening  (Leg 1)
+RVPO    - REPO Closing  (Leg 2)",""
+":16R:SETPRTY","","","",""
+"","","","",""
+":95P::DEAG//","BIC of the participant 
+delivering the 
+securities","","Delivering Participant BIC",""
+"","","","",""
+":16S:SETPRTY","","","",""
+":16R:SETPRTY","","","",""
+":95P::PSET//","Place of Settlement. 
+BIC of CSS.","","CBCELKLSXXX",""
+":16S:SETPRTY","","","",""
+":16R:AMT","","","",""
+"","","","",""
+":19A::SETT//","Settlement Amount","","Settlement Value","Same Instruction as given for the Origi-
+nal Transaction"
+"","","","",""
+":16S:AMT","","","",""
+":16S:SETDET","","","",""
+"","","","",""

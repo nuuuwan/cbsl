@@ -1,0 +1,34 @@
+"Amount","YES","10000000","11500000","Number describing Amount"
+"CrDr","Yes","cR","DR","Deposit- CR, Withdrawal- DR"
+"Acc Type","YES","FIXED DEPOSIT","FIXED DEPOSIT","Text string describing Account type"
+"","","","",""
+"TxnNature","YES","CASH DEPOSIT","CASH CHEQUE 
+WITHDRAWAL","Nature of Transaction"
+"","","","",""
+"CusFirst Name","NO","NIMAL","NIMAL","Customers first name for natural persons"
+"CusLastName","YES","PERERA","PERERA","Last Name of natural persons and Name of 
+Institutions, Corporate Entities, Charities, Clubs 
+etc."
+"","","","",""
+"AddressLine1","YES","NO. 12,","NO. 12,","First Line of the Address."
+"AddreesLine2","YES","TEMPLE STREET,","TEMPLE STREET,","Second Line of the Address."
+"AddressLine3","YES","HOMAGAMA.","HOMAGAMA","Third Line of the Address."
+"IDNumber","YES","651591632V","651591632V","NIC, Passport or Bus. Reg. Number"
+"","","","",""
+"Tel","NO","0771591591","0771591591","Telephone, Provide if available"
+"","","","",""
+"Fax","NO","","","Fax, Provide if available"
+"EMail","NO","NIMAL@ABC.LK","NIMAL@ABC.LK","Email, Provide if available"
+"RiskRating","NO","1","1","1-Low Risk, 2- Medium Risk, 3 High Risk"
+"BusinessType","YES","SCHOOL 
+TEACHER","SCHOOL TEACHER","Nature of Business/Profession /Vocation"
+"CusType","YES","NP","NP","GA- Government Account, NP - Natural Person, 
+IN-Institutions, CO –Corporate Entities, RB – 
+Retirement Benefit Programs, NG – Charities, 
+Clubs (NGOs), TR – Trusts Nominee"
+"AccStatus","YES","ACTIVE","CLOSED","Account Status"
+"","","","",""
+"Nationality","YES","SRI LANKAN","SRI LANKAN","Text string describing Nationality"
+"TranReference","YES","7772020010801","7772020011501","A unique identification code to identify the 
+transaction."
+"","","","",""

@@ -1,0 +1,17 @@
+"X2","Type of Transaction","","O / R / V / P","O – Outright | R – Repo | V – Reversal of Repo | P – Pledges"
+"X3","Supplementary 
+Security Movement","","L / S / N","L – Replenishment (Mark to market adjustments)                                                    
+S – Substitution | N – None"
+"X4","Security Movement 
+Occurrence","","1, 2, 
+…….,9, 
+a, b, c, d, 
+………., y,  z
+(35 Charac-
+ters)","A sequence number denoting the security movement occurrence when multiple ISINs 
+are assigned for a single transaction (when X3 = N)"
+"","","","","A sequence number denoting the security movement occurrence when a transaction 
+completes as a chain of securities movements (when X3 = N)"
+"","","","",""
+"","","","","The sequence number denoting the occurrence of supplement repo updates (when 
+X3 = L or S)"

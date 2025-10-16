@@ -1,0 +1,30 @@
+"1245 hrs.","Short Term Repos/ Reverse Repo 
+(Auction)","Settlement of First leg of short-term Repos/ Reverse Repos under 
+OMO"
+"1245 hrs.","LSF (Auction)","Settlement of First leg of LSF under OMO"
+"1300 hrs.","MLNS batch from LankaClear","SLIPS Cycle 2"
+"1330 hrs.","MLNS Batch from LankaClear","Settlement Clearing and Adjustment Clearing."
+"","",""
+"1330 hrs.","Primary cut-off time for third party 
+transactions","Close  for  new  transactions  (for  T  +  0)  in  favor  of  third  parties, 
+except for bank-to-bank (MT2XX) series."
+"","",""
+"1345 hrs.","Cut-off time for standing facilities","SLF and SDF windows are closed for Participants at 1345 hrs."
+"1355 hrs.","Cut-off time for Participant managed 
+ILF Repo creation","Participants should not initiate ILF Repos after 1355 hrs."
+"","",""
+"1410 hrs.","SDF","Settlement of first leg of SDF"
+"1420 hrs.","SLF","Settlement of first leg of SLF."
+"1430 hrs.","ILF Repayment","Repayment of ILF."
+"1440 hrs.","Final Cut-off Time
+Closure of System for business","No further inputs are accepted.  With the closure of system 
+for business, queue/Settlement processing will cease and any 
+transactions still in queues will be rejected by the system."
+"","",""
+"1440 hrs. to 
+1450 hrs.","EOD processing","End-of-day (EOD) processes e.g. generate reports/GL export 
+(EOD) file, database maintenance for billing/statement printing 
+purposes."
+"","",""
+"1500 hrs.","System shut down","Commence shutting down of RTGS/SSS application software, 
+obtain off-line backups."

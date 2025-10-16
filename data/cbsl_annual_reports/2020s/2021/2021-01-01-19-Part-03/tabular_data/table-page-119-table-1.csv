@@ -1,0 +1,72 @@
+":23G:NEWM","NEW/CANC","","","New Instruction/ Instruction for 
+Cancellation",""
+":16S:GENL","","","","",""
+":16R:TRADDET","","","","",""
+":98A::SETT//","Settlement (Value) Date","","","Settlement Date",""
+"","","","","",""
+":98A::TRAD//","Trade Date 
+CSS will default to 
+date of input, if not 
+supplied","","","The Date that the Counterparties enter into 
+the agreement 
+Or commits itself to purchase or sell an 
+asset. (as pricing is agreed at this date, cor-
+responding pricing details as of trade date 
+should be recorded in the 90:A: below )","Same as the Settlement Date, as the 
+security quantity/ settlement value calcu-
+lations are based on same day pricing"
+"","","","","",""
+":35B:isin","ISIN of Security 
+being transferred","","","ISIN",""
+"","","","","",""
+":16R:FIA","","","","",""
+":90A::INDC//
+PRCT/","Price","","","CLEAN price of the security 
+Refer: Circular SSSS/02/2019 issued 
+on 01.10.2019, Repo and Rev Repo 
+transactions of DDPs in scripless 
+treasury bonds and bills issued on 
+20.12.2019","Same Instruction as given for the Origi-
+nal Transaction"
+":90A::EXER//
+YIEL/","Yield","","","Outright :   Buy / Sell Yield                                                                                                                     
+Repo       :  Repo Yield   
+                 (Price will not relate to yield)                                                                            
+Refer       : Circular SSSS/02/2019 
+issued on 01.10.2019","Yield of the original transaction"
+":16S:FIA","","","","",""
+":22F::PRIR//","Priority","","","Queue Priority",""
+":16S:TRADDET","","","","",""
+"","","","","",""
+":16R: FIAC","","","","",""
+"","","","","",""
+":36B::SETT//
+FAMT/","Quantity (Face 
+Amount)","","","Security Quantity in Face Value.                                                                                                                
+Partial maturities or Repo value 
+increments: Security Quantity should be 
+a representation of the change of value 
+of the repo, calculated based on Yield, 
+Price and Settlement value",""
+":97A::SAFE//
+OWN","Account securities 
+are being
+transferred into","","","Receiving Securities Account, Re-
+ceiving Beneficial Owner Code.                                                                                   
+Correct recording of Account and 
+Owner Code as per the LankaSettle 
+System Rules section 4.2 & 4.3 is 
+required",""
+"","","","","",""
+":16S:FIAC","","","","",""
+":16R:REPO","","","","",""
+":98A::TERM//","Date of Repurchase
+(for auto reversal 
+repo instructions)","","","As per the LankaSettle System Rules 
+section 5.13",""
+":20C::SECO//","Transaction reference 
+to be used for the 
+return leg
+(for auto reversal 
+repo instructions)","","","Refer guidelines for Transaction Refer-
+ence (Annexure 01)",""

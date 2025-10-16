@@ -1,0 +1,151 @@
+"Digital  footprint:  Smart  statistics  in  the  Central 
+Bank of Sri Lanka
+With  the  rise  of  digitalisation  across  economies,  central 
+banks  are  concerned  with  the  use  of  data  analytics  and 
+The  Central  Bank  of  Sri  Lanka  (CBSL)  also  embarked 
+other technologies for the policy-setting process. One of 
+on its digitalisation journey in the field of statistics with 
+the key challenges in digitalising the statistical processes is 
+a few pilot projects (Figure B 8.3). The high exchange 
+to develop the skill-set within organisations for economists, 
+rate  volatility  observed  during  the  latter  part  of  2018, 
+statisticians, mathematicians to use the specific software/
+underscored the need to assess the degree of exchange 
+CBSL 
+for","","","","","","","","","","","","","","","","","","","","","","",""
+"","","Challenges for central banks and Way forward","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","programming  languages  and  the  top  management  to","","","","","","","","","","","","","","",""
+"","rate pass-through to the consumer items. In this regard,","","","","","","","","","","","","","","","","","","","","","",""
+"","CBSL  took  initiatives  to  adopt  web  scraping  to  collect 
+individuals  with  a  strong  mathematical  background  to 
+prices  of  imported  food  and  beverage  items  posted 
+solve complex issues and open up opportunities for data 
+online on a daily basis. With the success of this project, 
+scientists to be a part of statistical departments. 
+increased 
+the  number  of 
+food  and  beverage 
+Digitalisation will require changes to the existing regulatory 
+items, of which the prices are collected by web scraping 
+and infrastructure frameworks to facilitate adoption of new 
+daily, as a pilot project to develop a leading indicator to 
+technologies. Access rights to privately owned web spaces 
+strengthen the inflation forecasting process.
+in terms of legality and possible blockage imposed by the 
+Figure B 8.3
+administrators  of  such  web  sites  are  also  key  concerns. 
+Access  rights  to  some  domains  are  already  given  at  a 
+Smart Statistics Projects
+premium  and  the  cost  effectiveness  of  paying  for  such 
+• Supermarket Price Indices
+data 
+is  another  concern 
+• Evaluating Exchange Rate Pass-through
+Big Data
+• Leading Indicator for Inflation Forecasting
+(Web Scraping)
+• Residential Property Price Indices
+• Asking Price Index for Lands
+• Near Term Inflation Forecasting
+Machine Learning
+• Visualisation Dashboards
+Data Visualisation
+Since early 2019, in order to overcome the bottlenecks 
+in  data  collection  for    compilation  of  the  Land  Price 
+Index,  which  was  based  on  valuations  obtained  from 
+the  Government  Valuation  Department  semi-annually 
+residential,  commercial  and 
+Colombo  District,  CBSL  launched  a  pilot  project  to 
+collect the market prices of properties advertised online, 
+through web scraping on a monthly basis. Accordingly, 
+CBSL  is  developing  an  Asking  Price  Index  for  lands  in 
+Colombo District and intends to expand it to the entire 
+country. Moreover, a House Price Index for residential 
+housing  properties  covering  the  entire  country  and  a 
+Condominium  Price  Index  covering  properties  in  the 
+Colombo  District  are  being  compiled  using  scraped 
+data.  Additionally,  a  House  Rental  Price  Index  is  also 
+expected to be constructed using web scraped data to 
+understand the status of the rental market and its impact 
+on household expenditure dynamics. 
+CBSL has initiated another pilot project for forecasting 
+near-term inflation using Machine Learning by employing 
+a  multi-step  time  series  with  Long  Short-Term  Memory 
+(LSTM). The bank further uses visualisation dashboards 
+to present the national accounting estimates, which are 
+annually  compiled  for  the  provincial  level.  The  use  of 
+visualisation  dashboards  is  becoming  popular  within 
+CBSL as they complement the official statistical reports 
+used for decision-making.","","","","","","","be","","‘tech-savvy’.  Digitalisation  of  statistics  will  demand","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","for  statisticians  as 
+traditional","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","data collection methods could be relatively inexpensive in","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","certain instances.
+Another commonly discussed issue is the reliability of data","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","extracted from secondary sources. Irrespective of the high","","","","","","","","","","","","","","","",""
+"","","","","","","","volumes and velocity, regulators are reluctant to base policy 
+decisions  entirely  on  digital  sources.  It  is  identified  that 
+statisticians in public agencies have an agitation towards 
+using certain web-based technologies mostly because of 
+disclosure  risks  and  cyber  security  threats.  Most  of  these 
+technologies  demand  ‘Cloud-based’  data  warehousing,","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","which may enhance exposure to data security risk.
+industrial 
+lands 
+in 
+Developing  economies  such  as  Sri  Lanka  will  have  to 
+focus  on  establishing  digital  infrastructure  platforms  and 
+regularising  the  use  of  digital  technology  in  economic 
+activities  by  introducing  governance  frameworks,  which 
+is  a  priority  area  even  for  CBSL  at  present.  Considering 
+these limitations and challenges faced by the central banks 
+worldwide, digitalisation of statistical processes is still at its 
+early stages of the life cycle, and central banks carry the 
+view of using it as an alternative stream rather than fully 
+migrating to smart statistics. However, the transformation is 
+already happening at a faster rate. Therefore, conventional","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","statistical processes will need to be geared to embrace the","","","","","","","","","","","","","","","",""
+"","","","","","","","new challenges ahead, to ride the tide together with the","","","","","","","","","","","","","","","",""
+"","","","","","","","rest of the world.
+References
+1.  Hinge,  D.  and  Karolina,  S.  (2019)  ‘Big  Data  in  Central  Banks:  2019  Survey 
+Results’, Central Banking.
+2.  Reimsbach-Kounatze, C. (2015) ‘The Proliferation of ""Big Data"" and Implications 
+for  Official  Statistics  and  Statistical  Agencies:  A  Preliminary  Analysis’,  OECD 
+Digital Economy Papers, Paris: OECD Publishing.
+3.  Tissot, B. (2015) ‘Big Data and Central Banking’, IFC Bulletin 44, March 2015.
+4.  Weydert, N. (2019) ‘Preparing the Future: The Impact of Digitalisation on Official 
+Statistics’, SLS/STATEC joint event, 17 May 2019.
+5.  Wuermeling,  J. 
+Central Banking.","","","","","(2019) 
+‘The  Deutsche  Bundesbank's  digital 
+transformation’,","","","","","","","","","","",""

@@ -1,0 +1,25 @@
+"Field Name","Mandatory","Scenario 2","Scenario 3","Comment"
+"BankCode","YES","777","777","1-4-digit Number describing institution code"
+"Value Date","YES","20200110","20200112","Number in YYYYMMDD format"
+"","","","",""
+"ValueFCY","YES","0","0","Foreign Currency Amount"
+"","","","",""
+"Curcode","YES","LKR","LKR","Currency Code"
+"ValueRs","YES","7500000","5000000","LKR Amount"
+"TxnDetails","YES","CHEQUE 
+DEPOSIT TO 
+OPEN FD","FUND TRANSFER 
+TO OPEN FD","Transaction Details"
+"SenderName","NO","CEYLON 
+FINANCE","CEYLON 
+FINANCE","Account holder name of “1234”"
+"SenderAddress","NO","NO.20, 
+YORK STREET, 
+COLOMBO 01","NO.20, 
+YORK STREET, 
+COLOMBO 01","Account holder Address"
+"SenderBusiness","NO","LICENSED 
+FINANCE 
+COMPANY","LICENSED 
+FINANCE 
+COMPANY","Text describing Sender’s business"

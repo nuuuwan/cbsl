@@ -1,0 +1,24 @@
+"SenderBankBIC","YES","2525","","2525","Text describing Sender Bank BIC"
+"SenderBankName","NO","TRUST BANK","","TRUST BANK","Text describing Sender bank Name"
+"SenderBankAddress","NO","30, NEXT PL, 
+COLOMBO 1","","30, NEXT PL, 
+COLOMBO 1","Text describing Sender Bank Address"
+"ReceiverBank","YES","CEYLON 
+FINANCE","","CEYLON 
+FINANCE","Text describing Receiver Bank Name"
+"","","","","",""
+"ReceiverAccNo","YES","4040","","5050","Text describing Receiver Account Number"
+"","","","","",""
+"ReceiverName","YES","MR NIMAL PERERA","","MR NIMAL PERERA","Text describing Receiver Name"
+"ReceiverID","YES","651591632V","","651591632V","NIC, PPT or Bus. Reg. Number"
+"","","","","",""
+"ReceiverAddress1","YES","NO. 12,","","NO. 12,","Address Line 1"
+"ReceiverAddress2","YES","TEMPLE STREET,","","TEMPLE STREET,","Address Line 2"
+"ReceiverAddress3","NO","HOMAGAMA.","","HOMAGAMA.","Address Line 3"
+"ReceiverBusiness","YES","SCHOOL 
+TEACHER","","SCHOOL 
+TEACHER","Text describing Nature of Business/Profession /
+Vocation"
+"","","","","",""
+"TranReference","YES","7772020011001","","7772020011205","A unique identification code to identify the 
+transaction."

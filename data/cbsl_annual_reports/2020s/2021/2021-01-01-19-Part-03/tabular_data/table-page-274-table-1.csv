@@ -1,0 +1,15 @@
+"","","",""
+"","PCA capital category","LFCs with assets less 
+than Rs. 100 bn","LFCs with assets of Rs. 
+100 bn or more"
+"","","Total Capital Adequacy Ratio (CAR)",""
+"","","",""
+"","Well capitalized","CAR	≥14%","CAR	≥16%"
+"","Adequately capitalized 
+(above the regulatory 
+minimum)","12.5%	≤	CAR	<	14%","14%	≤	CAR	<	16%"
+"","Undercapitalized","9.5	%	≤	CAR	<	12.5%","10%	≤	CAR	<	14%"
+"","Significantly 
+undercapitalized","6.5%	≤	CAR	<	9.5%","7%	≤	CAR	<10%"
+"","","",""
+"","Critically undercapitalized","CAR	<6.5%","<7%"

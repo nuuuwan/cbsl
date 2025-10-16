@@ -1,0 +1,10 @@
+"","",""
+"TIME","EVENT","ACTIVITIES /TRANSACTIONS"
+"","",""
+"0630 hrs.","System start-up","Start-up of RTGS/SSS applications."
+"0730 hrs. to 
+0800 hrs.","Start of day processing","Update Official Prices of securities, earmarking securities for ILF."
+"","",""
+"0800 hrs.","LankaSettle System opens for business","System opens for effecting transactions"
+"0800 hrs.","ILF/Auto reversal of Repos and 
+Standing Deposit Facility (SDF)","Grant ILF and settle second leg of Repos of OMO and SDF"

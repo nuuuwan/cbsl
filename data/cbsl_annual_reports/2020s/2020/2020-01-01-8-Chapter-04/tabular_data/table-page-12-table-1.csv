@@ -1,0 +1,209 @@
+"• • •
+• •
+• •
+• •
+various  statistical  packages.  Mathematical  modelling 
+The traditional role of statisticians has evolved over time 
+gradually without major changes. The process of statistics 
+software is commonly being used to build up statistical 
+generally includes stages of data collection, data processing 
+and  dissemination  of  final  estimates/outcome  (Figure  B 
+8.1).  Until  recently,  the  most  common  advancements  in 
+key  economic  indicators  and  a  series  of  estimates 
+the field of statistics focused mainly on the use of statistical 
+related 
+to  economic  activities.  Around 
+the  world, 
+software in data processing, while stages of data collection 
+and  dissemination  of  final  results  remained  static.  Rapid 
+developments 
+in 
+information 
+technology, 
+however, 
+the status  of an economy. Despite its  limitations,  the 
+challenged  the  traditional  role  of  statisticians  as  certain 
+statistical functions are becoming increasingly complex. 
+scientific methodology.
+Figure B 8.1
+The  term  ‘Big  Data’  came  to  light  in  this  backdrop 
+Traditional vs. Smart Statistics
+when the traditional statistical process was challenged 
+DATA 
+DATA
+OUTPUT/
+by  a  wave  of  digitalisation,  coupled  with  the  rise  of 
+COLLECTION
+PROCESSING
+ESTIMATES
+information 
+and 
+communication 
+technologies. 
+In 
+simple  terms,  digitalisation  of  the  economy  refers  to 
+1
+2
+3
+the  use  of  digital  technology  for  various  economic 
+activities  and  Big  Data  refers  to  the  accumulation 
+TRADITIONAL/ 
+OFFICIAL
+for  the  use  of  economic  agents.  Despite  that  these 
+concepts  originated 
+in  early  2000’s,  most  of 
+terminology 
+used 
+in 
+relation 
+Survey Questionnaires 
+Official Statistical 
+Statistical Packages
+•
+Interviews
+Reports/Tables
+Mathematical 
+universally  accepted  definitions1.  Nevertheless, 
+Market Reports
+Modelling Software
+usage  seems 
+to  have  encompassed  over  a  wider 
+spectrum  as  different  online  platforms  on  the  World 
+Wide  Web  generate  a  large  part  of  Big  Data  while 
+cashier terminals of supermarkets, automated vending 
+DIGITAL/ 
+machines, surveillance camera units, etc., also gather 
+SMART
+massive volumes of data on a daily basis. This data is 
+originally  recorded  for  a  particular  purpose  and  Big 
+Web Scraping
+Programming 
+Data Visualising 
+•
+•
+Data becomes a by-product of that process. Because 
+Text Mining
+Languages 
+Tools 
+(Big Data)
+Machine Learning
+(Dashboards/ 
+of  its  recording  frequency,  such  data  becomes  an 
+Software Bots
+Storyboards)
+(Data Lake/
+incredible  source,  which  outperforms  most  of 
+Warehouse Concepts)
+traditional data sources used in the statistical process 
+in terms of volume and speed.
+Meanwhile, data collection methods continued to evolve 
+over  time  without  being  a  limiting  factor  in  the  process 
+of  statistics.  Traditional  methods  such  as  survey  through 
+questionnaires,  one-to-one  or  phone 
+interviews  and 
+With the emergence of Big Data, one of the concerns 
+secondary  data  from  published  sources  are  still  being 
+raised  by  users  was  its  eligibility  to  replace  official 
+used  as  official  sources  for  statistics  produced  by  any 
+organisation  due  to  their  reliability  and  customisability. 
+However,  over 
+time, 
+methods  experienced  constraints  not  because  of  intrinsic 
+unorthodox  means  is  still  a  challenging  move  to  be 
+features  of 
+such  methods,  but  due 
+to 
+the  widening 
+taken by statisticians. In the present context, statistics 
+horizons of digitalisation coupled with high frequency data 
+generated  using  these  unconventional  data  is  called 
+to complement official statistics. One of the benefits of 
+around cyber space, but, until recently, alternative uses of 
+such data have not been adequately explored. 
+can help to validate official statistics, and also over time 
+smart  statistics  will  contribute  towards  continuously 
+Data  processing  plays  a  vital 
+role 
+in  obtaining  a 
+improving the  quality  of  the  entire  statistical  process 
+refined  set  of  estimates,  which  is  used  for  decision-
+making. Data collected using traditional methods and 
+1 History of Big Data - Available at: https://www.sas.com/en_us/insights/big-data/
+what-is-big-data.html
+processed manually are currently being analysed using","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","relationships  among 
+variables. 
+'Official  Statistics',","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","which are national level statistical outcomes, comprise","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","this process of compiling official statistics is followed 
+under various limitations and assumptions in assessing","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","traditional  process  of  compiling  statistics  has  gained","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","validation  and  reliability  over  time  as  it  is  based  on","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","of  high  frequency  data  from  non-traditional  sources","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","the 
+to 
+Big  Data 
+lack 
+its","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","the","",""
+"","","","","","How 
+digitalisation 
+has","","","","","","","","","","","","","","","","","","","inﬂ uenced 
+ofﬁ cial","","","","","","",""
+"","","","","","statistics","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","statistics.  As  most  of  the  data  used  in  the  statistical","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","these 
+traditional  data  collection 
+purpose, 
+relying 
+on 
+secondary","","","","","processes  are  primarily  collected","","","","","","","","","","","","","","","for  a  designated","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","data","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","through","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","generated  through  various  means  and  platforms.  These 
+‘Smart Statistics’ and are used as an alternative stream 
+high  frequency  data  get  accumulated  in  various  formats","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","maintaining a supportive stream of statistics is that it","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

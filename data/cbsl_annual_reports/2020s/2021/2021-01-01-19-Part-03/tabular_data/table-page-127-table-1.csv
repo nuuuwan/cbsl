@@ -1,0 +1,17 @@
+"1305 hrs.","SDF","Settlement of first leg of SDF"
+"1315 hrs.","SLF","Settlement of first leg of SLF."
+"1325 hrs.","ILF Repayment","Repayment of ILF."
+"1335 hrs.","Final Cut-off Time
+Closure of System for business","No further inputs are accepted.  With the closure of system 
+for business, queue/Settlement processing will cease and any 
+transactions still in queues will be rejected by the system."
+"","",""
+"1335 hrs. to 
+1350 hrs.","EOD processing","End-of-day 
+(EOD)  processes  e.g.  generate 
+reports/GL  export 
+(EOD)  file,  database  maintenance  for  billing/statement  printing 
+purposes."
+"","",""
+"1350 hrs.","System shut down","Commence  shutting  down  of  RTGS/SSS  application  software, 
+obtain off-line backups."

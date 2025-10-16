@@ -1,0 +1,43 @@
+"TIME","EVENT","ACTIVITIES /TRANSACTIONS"
+"0630 hrs.","System start-up","Start-up of RTGS/SSS applications."
+"","",""
+"0730 hrs. to 
+0800 hrs.","Start of day processing","Update Official Prices of securities, earmarking securities for ILF."
+"","",""
+"0800 hrs.","LankaSettle System opens for 
+business for 23.03.2020","System opens for effecting transactions of 23.03.2020."
+"0800 hrs.","ILF/Auto reversal of Repos and 
+Standing Deposit Facility (SDF)","Grant ILF and settle second leg of Repos of OMO and SDF"
+"","",""
+"0815 hrs.","Maturities/Interest payments, start of 
+the day (SOD) file and maturities of 
+CBSL Securities","Settlement  of  maturity  proceeds/coupon  payments  of  securities, 
+effecting  LankaSettle  charges/penalties  and  maturities  of  CBSL 
+Securities."
+"0830 hrs.","Multilateral Net Settlement (MLNS) 
+Batch from LankaClear","Main Clearing of CITS. (of 20.03.2020)
+SLIPS Cycles 1 & 2 (of 23.03.2020)"
+"0830 hrs.","Primary Auction Settlement/ Outright 
+sales/ Purchases / Long Term Repo 
+Auction/ Issue of Long Term CBSL 
+Securities","Settlement  of  Primary  Auction,  OMO  outright  sales,  purchases, 
+Long Term CBSL Securities Auction and first leg of Long Term Repo 
+Auction."
+"0900 hrs.","Reversal of Reverse Repos and 
+Standing Lending Facility (SLF)","Settlement of second leg of Reverse Repos under OMO and SLF. 
+(1st leg conducted on 20.03.2020)"
+"","Primary cut-off time for third party 
+transactions","Close for new transactions (for T + 0) in favour of third parties, 
+except for bank-to-bank (MT2XX) series. (for 23.03.2020)"
+"","",""
+"0930 hrs.","Cut-off time for standing facilities","SLF and SDF windows are closed for Participants at 0930 hrs."
+"0940 hrs.","Cut-off time for Participant managed 
+ILF Repo creation","Participants should not initiate ILF Repos after 0940 hrs."
+"","",""
+"0950 hrs.","SDF","Settlement of first leg of SDF"
+"1000 hrs.","SLF","Settlement of first leg of SLF."
+"1010 hrs.","ILF Repayment","Repayment of ILF."
+"1020 hrs.","Final Cut-off Time
+Closure of System for business","No further inputs are accepted.  With the closure of system 
+for business, queue/Settlement processing will cease and any 
+transactions still in queues will be rejected by the system."
