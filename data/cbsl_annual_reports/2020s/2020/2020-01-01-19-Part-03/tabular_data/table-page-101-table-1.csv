@@ -1,0 +1,9 @@
+"transaction amount 
+x in lkr","lCpl fee in lkr","issuer fee","transaction acquirer 
+fee","merchant acquirer 
+fee"
+"x<=1000","0.05","up to 0.13%","0.17% (to be shared 
+with mobile application 
+provider)","0.20% - lCpl fee"
+"1000<x<=5000","0.50","","",""
+"5000<x","1.50","","",""

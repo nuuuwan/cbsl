@@ -1,0 +1,12 @@
+"tenure of deposit","maximum interest 
+rate per annum"
+"Savings and other deposits of a tenure of less 
+than 01 month or maturity is not specified","SDFR"
+"term deposits",""
+"01 month and less than 03 months","T-bill rate – 0.50%"
+"03 months and less than 06 months","T-bill rate"
+"06 months and less than 01 year","T-bill rate + 0.50%"
+"01 year and less than 02 years","T-bill rate + 2.25%"
+"02 years and less than 03 years","T-bill rate + 3.00%"
+"03 years and less than 05 years","T-bill rate + 3.50%"
+"05 years","T-bill rate + 4.00%"

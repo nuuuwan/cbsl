@@ -1,0 +1,13 @@
+"table 01: maximum interest rates at maturity for lkr deposits of 
+licensed Banks",""
+"tenure of deposit","maximum interest 
+rate per annum"
+"Savings and other deposits of a tenure of less than 
+03 months or maturity is not specified","SDFR - 0.50%"
+"term deposits",""
+"03 months and less than 06 months","T-bill rate - 0.50%"
+"06 months and less than 01 year","T-bill rate"
+"01 year and less than 02 years","T-bill rate + 1.00%"
+"02 years and less than 03 years","T-bill rate + 1.50%"
+"03 years and less than 05 years","T-bill rate + 2.00%"
+"05 years or more","T-bill rate + 2.50%"

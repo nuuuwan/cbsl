@@ -1,0 +1,11 @@
+"1615 hrs.","ILF Repayment","Repayment of ILF."
+"1630 hrs.","Final Cut-off Time
+Closure of System for business","No  further  inputs  are  accepted.    With  the  closure  of  system 
+for  business,  queue/Settlement  processing  will  cease  and  any 
+transactions still in queues will be rejected by the system."
+"1630 hrs. to 
+1700 hrs.","EOD processing","End-Of-Day  (EOD)  processes  e.g.  generate  reports/GL  export 
+(EOD)  file,  database  maintenance  for  billing/statement  printing 
+purposes."
+"1700 hrs.","System shut down","Commence  shutting  down  of  RTGS/SSS  application  software, 
+obtain off-line backups."

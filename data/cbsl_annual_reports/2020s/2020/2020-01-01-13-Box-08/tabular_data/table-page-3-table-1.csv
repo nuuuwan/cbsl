@@ -1,0 +1,126 @@
+"Digital  footprint:  Smart  statistics  in  the  Central 
+Challenges for central banks and Way forward 
+Bank of Sri Lanka
+With  the  rise  of  digitalisation  across  economies,  central 
+banks  are  concerned  with  the  use  of  data  analytics  and 
+The  Central  Bank  of  Sri  Lanka  (CBSL)  also  embarked 
+other technologies for the policy-setting process. One of 
+on its digitalisation journey in the field of statistics with 
+the key challenges in digitalising the statistical processes is 
+a few pilot projects (Figure B 8.3). The high exchange 
+to develop the skill-set within organisations for economists, 
+rate  volatility  observed  during  the  latter  part  of  2018, 
+statisticians, mathematicians to use the specific software/
+underscored the need to assess the degree of exchange 
+programming  languages  and  the  top  management  to 
+rate pass-through to the consumer items. In this regard, 
+be 
+‘tech-savvy’.  Digitalisation  of  statistics  will  demand 
+CBSL  took  initiatives  to  adopt  web  scraping  to  collect 
+individuals  with  a  strong  mathematical  background  to 
+prices  of  imported  food  and  beverage  items  posted 
+solve complex issues and open up opportunities for data 
+online on a daily basis. With the success of this project, 
+scientists to be a part of statistical departments. 
+CBSL 
+increased 
+the  number  of 
+food  and  beverage 
+Digitalisation will require changes to the existing regulatory 
+items, of which the prices are collected by web scraping 
+and infrastructure frameworks to facilitate adoption of new 
+daily, as a pilot project to develop a leading indicator to 
+technologies. Access rights to privately owned web spaces 
+strengthen the inflation forecasting process.
+in terms of legality and possible blockage imposed by the 
+Figure B 8.3
+administrators  of  such  web  sites  are  also  key  concerns. 
+Access  rights  to  some  domains  are  already  given  at  a 
+Smart Statistics Projects
+premium  and  the  cost  effectiveness  of  paying  for  such 
+Big Data
+(Web Scraping)
+Another commonly discussed issue is the reliability of data 
+• Near Term Inflation Forecasting
+Machine Learning
+extracted from secondary sources. Irrespective of the high 
+• Visualisation Dashboards
+Data Visualisation
+volumes and velocity, regulators are reluctant to base policy 
+decisions  entirely  on  digital  sources.  It  is  identified  that 
+Since early 2019, in order to overcome the bottlenecks 
+statisticians in public agencies have an agitation towards 
+using certain web-based technologies mostly because of 
+in  data  collection  for    compilation  of  the  Land  Price 
+disclosure  risks  and  cyber  security  threats.  Most  of  these 
+Index,  which  was  based  on  valuations  obtained  from 
+technologies  demand  ‘Cloud-based’  data  warehousing, 
+the  Government  Valuation  Department  semi-annually 
+which may enhance exposure to data security risk.
+for 
+residential,  commercial  and 
+industrial 
+lands 
+in 
+Colombo  District,  CBSL  launched  a  pilot  project  to 
+Developing  economies  such  as  Sri  Lanka  will  have  to 
+collect the market prices of properties advertised online, 
+focus  on  establishing  digital  infrastructure  platforms  and 
+through web scraping on a monthly basis. Accordingly, 
+regularising  the  use  of  digital  technology  in  economic 
+CBSL  is  developing  an  Asking  Price  Index  for  lands  in 
+activities  by  introducing  governance  frameworks,  which 
+Colombo District and intends to expand it to the entire 
+is  a  priority  area  even  for  CBSL  at  present.  Considering 
+country. Moreover, a House Price Index for residential 
+these limitations and challenges faced by the central banks 
+worldwide, digitalisation of statistical processes is still at its 
+housing  properties  covering  the  entire  country  and  a 
+early stages of the life cycle, and central banks carry the 
+Condominium  Price  Index  covering  properties  in  the 
+view of using it as an alternative stream rather than fully 
+Colombo  District  are  being  compiled  using  scraped 
+migrating to smart statistics. However, the transformation is 
+data.  Additionally,  a  House  Rental  Price  Index  is  also 
+already happening at a faster rate. Therefore, conventional 
+expected to be constructed using web scraped data to 
+statistical processes will need to be geared to embrace the 
+understand the status of the rental market and its impact 
+new challenges ahead, to ride the tide together with the 
+on household expenditure dynamics. 
+rest of the world.
+CBSL has initiated another pilot project for forecasting 
+References
+near-term inflation using Machine Learning by employing 
+1.  Hinge,  D.  and  Karolina,  S.  (2019)  ‘Big  Data  in  Central  Banks:  2019  Survey 
+a  multi-step  time  series  with  Long  Short-Term  Memory 
+Results’, Central Banking.
+2.  Reimsbach-Kounatze, C. (2015) ‘The Proliferation of ""Big Data"" and Implications 
+(LSTM). The bank further uses visualisation dashboards 
+for  Official  Statistics  and  Statistical  Agencies:  A  Preliminary  Analysis’,  OECD 
+to present the national accounting estimates, which are 
+Digital Economy Papers, Paris: OECD Publishing.
+annually  compiled  for  the  provincial  level.  The  use  of 
+3.  Tissot, B. (2015) ‘Big Data and Central Banking’, IFC Bulletin 44, March 2015.
+4.  Weydert, N. (2019) ‘Preparing the Future: The Impact of Digitalisation on Official 
+visualisation  dashboards  is  becoming  popular  within 
+Statistics’, SLS/STATEC joint event, 17 May 2019.
+CBSL as they complement the official statistical reports 
+5.  Wuermeling,  J. 
+(2019) 
+‘The  Deutsche  Bundesbank's  digital 
+transformation’, 
+Central Banking.
+used for decision-making.","",""
+"","","• Supermarket Price Indices
+data 
+is  another  concern 
+for  statisticians  as 
+traditional 
+• Evaluating Exchange Rate Pass-through
+data collection methods could be relatively inexpensive in 
+• Leading Indicator for Inflation Forecasting
+• Residential Property Price Indices
+certain instances.
+• Asking Price Index for Lands"
+"","",""

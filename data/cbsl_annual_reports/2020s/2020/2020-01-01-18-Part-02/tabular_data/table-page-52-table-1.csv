@@ -1,0 +1,146 @@
+"iii) Value at Risk (VaR) 
+ 
+ 
+48.2 Interest Rate Risk 
+ 
+ 
+ 
+(a)  
+Foreign Currency Interest Rate Sensitivity
+VaR summarizes in a single number the downside risk of the 
+portfolio,  under  normal  market  conditions,  from  financial 
+Interest rate risk is the risk of loss arising from the 
+market  movements.  Therefore,  VaR  is  the  maximum  loss 
+changes in interest rates.
+over a target horizon such that there is a low, pre-specified 
+The  interest  rate  sensitivity  of  the  Fixed  Income  Securities 
+probability  that  the  actual  loss  will  be  larger.  VaR  gives  a 
+portfolio, 
+except 
+the 
+investment 
+in 
+Reserve  Advisory 
+number, in terms of money, which can be aggregated across 
+Management Program (RAMP), is measured by the potential 
+risks and positions. The Bank uses Monte Carlo method to 
+gain or loss that could incur due to a change in interest rate 
+calculate VaR number for 10 days period at 99% confidence 
+by 10 basis points. The interest rate sensitivity of the fixed 
+interval for its fixed income securities portfolio except for the 
+income securities portfolio held under RAMP is meaured by 
+investment in RAMP. The VaR of the fixed income securities 
+the potential gain or loss that could incur due to a change in 
+portfolio held under RAMP is measured using the Monte Carlo 
+interest by 1 basis point. Sensitivity of the risk exposure of the 
+segmented Fixed Income Securities Portfolio is given below:
+method for one month period at 99 % confidence interval.
+RMD manages the interest rate risk of the foreign assets 
+portfolio by employing the following strategies:
+iv) Trading & Open Position Limits
+i)  While  the  interest  rate  sensitivity  measures  the  effect  of  a 
+Bank assigns specific dealer limits on intra-day and overnight 
+change in interest rates on the foreign assets portfolio, the 
+position  limits  for  individual  dealers  by  way  of  “Dealing 
+Bank uses Modified Duration (MD) as a measurement of 
+Authority “.
+interest rate risk which considers interest rates as well as the 
+duration of an investment. The MD measures the change 
+Interest rate risk measures related to the investments in the 
+in price of a security for a 1% change in the interest rates 
+Reserve Advisory Management Program (RAMP) is reported 
+(yield).  A  higher  MD  indicates  a  higher  risk.  Hence,  the 
+to 
+the  Foreign  Reserve  Management  Committee  on  a 
+Bank sets an appropriate MD from time to time considering 
+regular basis.
+the  developments 
+in 
+the 
+financial  markets,  portfolio 
+characteristics and the risk appetite of the bond portfolio. 
+(b)  
+Local Currency Interest Rate Sensitivity
+The MDs of the foreign assets portfolio are tabulated below:
+The  Government  Securities  portfolio 
+is 
+recorded 
+in 
+the 
+Modified	Duration
+Statement  of  Financial  Position  of  the  Bank  at  Fair  Value 
+Securities  to inject rupee liquidity into the domestic market or 
+ii)  Since  the  MD  does  not  account  for  large  changes  in 
+to absorb liquidity from the market in the course of carrying 
+prices, another measure used for management of interest 
+out its monetary policy operations in relation to one of its core 
+rate  risk  of  the  foreign  reserves  portfolio  is  convexity. 
+objectives, maintaining economic and price stability. Hence, 
+Convexity measures the extent of deviation in bond price-
+the volume of Government Securities in the Bank’s portfolio is 
+yield curve from a straight line representing duration. It 
+determined by its monetary policy operations. In addition, the 
+allows  improving  the  duration  approximation  for  bond 
+basic interest rates in the rupee market, the Repo rate and the 
+price  changes.  Convexity  is  a  change  in  Duration  for 
+Reverse Repo rate are policy rates determined by the Bank in 
+a  change  in  yield.  It  measures  the  predictive  error  of 
+the course of implementing its monetary policy. Moreover, the 
+Modified  Duration. 
+In  other  words, 
+it 
+is 
+the  second 
+Bank’s actions in injecting rupee liquidity or absorbing liquidity 
+derivative of a security’s price with respect to its yield. 
+from the market have a significant impact on general rupee 
+market  interest  rates.  Thus,  changes  in  the  interest  income 
+Convexity of the segmented Fixed Income
+earned 
+from 
+the  Government  Securities  portfolio,  which 
+Securities portfolio","","","","","","","","through  Other  Comprehensive  Income  as  per  the  Business 
+Model  assessment  under 
+IFRS  9.  This  portfolio 
+is  not 
+an  investment  portfolio,  as  the  Bank  does  not  purchase 
+Government  Securities  with 
+the 
+intention  of  earning  an 
+interest  income.  The  Bank  purchases  or  sells  Government 
+arise from changes in the volume of the Bank’s Government 
+Securities portfolio, as well as changes in interest rates, are 
+primarily  a  consequence  of 
+the  Bank’s  monetary  policy 
+actions, rather than due to investment decisions. Therefore, 
+the  Bank  does  not  consider  interest  rate  sensitivities  arising 
+from local currency assets.","","","",""
+"","Portfolio  Segment","","Potential Loss (USD Mn)","","","","","","Portfolio Segment","Value at Risk (VaR) (USD Mn)","",""
+"","","","2019","","","2018","","","","2019","2018",""
+"","Fair Value through Other 
+Comprehensive Income
+RAMP","","8.14
+0.03","","","7.86
+0.03","","","Fair Value through Other 
+Comprehensive Income
+RAMP","25.30
+1.17","19.94
+0.78",""
+"","","","","","","","","","","","",""
+"","","","","","","","","","","","",""
+"","Investment Segment","","","Modified	Duration","","","","","","","",""
+"","","","","2019","","","2018","","","","",""
+"","Capital  Market  (Fixed  Income 
+Securities)
+RAMP","","","2.03
+1.38","","","2.08
+1.41","","","","",""
+"","","","","","","","","","","","",""
+"","Portfolio Segment","Potential Loss (USD Mn)","","","","","","","","","",""
+"","","2019","","","2018","","","","","","",""
+"","Fair Value through Other 
+Comprehensive Income
+RAMP","0.07
+0.04","","","0.07
+0.04","","","","","","",""
+"","","","","","","","","","","","",""

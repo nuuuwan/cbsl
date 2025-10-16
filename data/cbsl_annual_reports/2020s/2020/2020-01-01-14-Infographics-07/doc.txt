@@ -1,0 +1,361 @@
+==== BLOCKS ==== 
+
+MONETARY POLICY, INTEREST RATES, MONEY AND CREDIT
+
+7
+
+241
+
+RsRs
+
+RsRs
+
+RsRs
+
+%
+
+GDP
+
+The CBSL conducted monetary policy in line with a flexible inflation targeting framework aimed at stabilising inflation at mid single digit levels over the medium term while supporting economic growth to reach its potential.
+
+Subdued monetary aggregates...
+
+2018
+
+2019
+
+7%
+
+13%
+
+Broad Money Growth (Y-o-Y)16.1 %
+
+Moderate year-on-year growth of credit...
+
+40.7 %
+
+Credit to the Private Sector
+
+Credit to Public Corporations
+
+Net Credit to the Government
+
+4.3 %
+
+8.3 %
+
+9.9 %
+
+20182019
+
+15.9 %
+
+3.7 %4.0 %4.3 %3.8 %3.3 %3.4 %
+
+5.0 %5.4 %4.4 %4.8 %
+
+5.7 % 6.2 %
+
+5.4 %
+
+However, inflation accelerated in early 2020 with high food inflation...
+
+One off revisionto the houserentals andeducation feesin January 2019
+
+*Movements in Year-on-Year CCPI Headline inflationCore inflation remained broadly stable in 2019...
+
+Consumer price inflation* remained broadly in low levels during 2019...
+
+Monetary Sector Performance
+
+20192020
+
+SLFR9.0 %
+
+8.0 % SDFR
+
+7.25 %
+
+6.25%
+
+SRR
+
+1 %
+
+SRR1 %
+
+Mo
+
+n
+
+e
+
+t
+
+a
+
+r
+
+y
+
+r
+
+y
+
+r
+
+Easing
+
+...
+
+8.5 %
+
+8.0 %
+
+7.5 %
+
+7.5 %
+
+7.0 %
+
+6.5 %
+
+(6% to 5%)
+
+(5% to 4%)
+
+7.0 %
+
+6.0 %
+
+25 bps
+
+50 bps
+
+50 bps
+
+50 bps
+
+Dec2018Jan2019Feb2019Mar2019Apr2019May2019Jun2019Jul2019Aug2019Sep2019Oct2019Nov2019Dec2019Jan2020Feb2020Mar2020
+
+17Mar03Apr
+
+30Jan
+
+23Aug
+
+31May
+
+01Mar
+
+25 bps
+
+CBSL eased Monetary Policy to support economic activity with the spread of the COVID-19 pandemic
+
+Rupee liquidity improved gradually and recorded surplus levels by mid April 2019
+
+5.0 %4.5 %
+
+2.8 %
+
+4 %
+
+6 %
+
+The Central Bank of Sri Lanka (CBSL) adopted an accommodative monetary policy stance in May 2019 and reinforced the same in August 2019 and early 2020 to revive economic activity... supported by muted inflation, well-anchored inflation expectations, a relatively stable external sector and increasingly easing monetary policy globally...
+
+Policy and regulatory measures taken during 2019 and early 2020 to revive below potential economic growth by improving credit flows...
+
+A sizeable reduction in market
+
+interest rates observed…
+
+Ceilings on deposit rates
+
+Injected Rs.120 bn of liquidity
+
+Lowering market interest rates andreviving economic activity
+
+Reduction in SRR by 2.00 pps
+
+Of which 1.00 pp cut following the COVID-19 pandemic
+
+Reduced cost of funds Ceilings on lending rates
+
+Reduction in policy rates by 200 bps
+
+Of which 50 bps cutfollowing the COVID-19 pandemic
+
+Removed w.e.f. 24 Sep 2019
+
+91-day Treasury BillYield (%)10.01%
+
+7.51%
+
+AWPR - Monthly (%)
+
+End 2019End 2018
+
+End 2019End 2018
+
+End 2019End 2018
+
+AWCMR (%)
+
+7.45%
+
+11.94%
+
+10.00%
+
+8.95%
+
+Figure 7.1
+
+==== WORKSHEETS ==== 
+
+--- table-page-1-table-1.csv ---
+
+"8.0 % 
+SRR
+Rupee liquidity 
+1 %
+improved gradually 
+(6% to 5%)
+and recorded 
+surplus levels by 
+mid April 2019","","50 bps
+spread of the COVID-19 
+pandemic
+7.5 % 
+50 bps
+7.25 %
+7.5 % 
+7.0 %
+50 bps
+7.0 % 
+25 bps
+6.5 %","","","25 bps","6.0 %"
+"","","","","","",""
+"","","","","","6.25% 
+SRR
+1 %
+(5% to 4%)",""
+
+--- table-page-1-table-2.csv ---
+
+""
+
+--- table-page-1-table-3.csv ---
+
+"Policy and regulatory measures taken during 2019 and early 2020 to revive 
+A sizeable reduction in market 
+interest rates observed…
+below potential economic growth by improving credit flows...
+AWCMR (%)
+Of which 
+8.95%
+Lowering market 
+Of which 50 
+bps cut
+interest rates 
+following the 
+and
+Injected Rs.120 bn 
+COVID-19 
+reviving economic  
+of liquidity
+pandemic
+RsRs
+RsRs","","","","","","","","1.00 pp cut 
+7.45%
+following the 
+COVID-19 
+pandemic","","","","",""
+"","Reduction in policy 
+rates by 200 bps","","","","Reduction in SRR 
+by 2.00 pps","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","activity
+Reduced cost of 
+funds
+ Ceilings on 
+lending rates","%G
+DP","Ceilings on 
+deposit rates","","","","End 2018
+End 2019","AWPR - Monthly (%)
+11.94%","","10.00%
+7.51%","",""
+"","","","","","","","","RsRs
+End 2018
+End 2019
+91-day Treasury Bill
+Yield (%)
+10.01%
+End 2018
+End 2019","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","Removed w.e.f. 24 Sep 2019","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"","","","","","","","","","","","","",""
+"Credit to the Private Sector
+Credit to Public Corporations
+Net Credit to the Government","","Moderate year-on-year growth of credit...
+2018
+2019
+4.3 %
+15.9 %
+8.3 %
+40.7 %
+9.9 % 
+16.1 %","","","","","","Subdued monetary aggregates...
+2018
+13%
+2019
+7%
+Broad Money Growth (Y-o-Y)","","","","",""
+"One off revision
+to the house
+rentals and
+education fees
+in January 2019
+6 % 
+3.7 %
+4 %","","Consumer price inflation* remained broadly in low levels during 2019...
+However, inflation accelerated in early 2020 with high food inflation...
+ 
+5.4 %
+5.0 %
+5.0 %
+4.5 %
+4.3 %
+4.0 %
+3.8 %
+3.4 %","","","","","","6.2 %
+5.7 % 
+5.4 %
+4.8 %
+4.4 %","","","","",""
+
+--- table-page-1-table-4.csv ---
+
+"4.5 %
+4.3 %
+4.0 %
+3.8 %
+3.7 %
+4 % 
+3.4 %
+2.8 %","","","","","","","","","","","","","","","","","","","","4.4 %","","","","","","","","","","",""
+"","","","","","","","","","","","3.3 %","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
