@@ -4,7 +4,7 @@
 
 ## 001 📙Cbsl Annual Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_11:23:44-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--16_11:54:24-green)
 
 [https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports)
 
@@ -12,7 +12,7 @@ Annual Reports of the Central Bank of Sri Lanka (CBSL).It has been discountinued
 
 - [**1,137** documents](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports) (**3.5 GB**), from **1950-01-01** to **2023-01-01**, scraped from [https://www.cbsl.gov.lk](https://www.cbsl.gov.lk)
 
-- In **JSON**, **PDF** (100%), **TXT** (100%), **Tables** (10%) & **🤗 Hugging Face** (100%)
+- In **JSON**, **PDF**, **TXT**, **Tables** (12%) & **🤗 Hugging Face**
 
 - In **English**
 
