@@ -1,0 +1,69 @@
+"TIME","EVENT","ACTIVITIES /TRANSACTIONS"
+"1200 hrs. to 
+1215 hrs.","System start-up","Start-up of RTGS/SSS applications."
+"","",""
+"1215 hrs. to 
+1230 hrs.","Start of day processing","Update Official Prices of securities, earmarking securities for ILF."
+"","",""
+"1230 hrs.","LankaSettle System opens for 
+business for 11.05.2022","System opens for effecting transactions of 11.05.2022."
+"1230 hrs.","ILF/Auto reversal of Repos and 
+Standing Deposit Facility (SDF)","Grant ILF and settle second leg of Repos of OMO and SDF"
+"1245 hrs.","Maturities/Interest payments, start of 
+the day (SOD) file and maturities of 
+CBSL Securities","Settlement  of  maturity  proceeds/coupon  payments  of  securities, 
+effecting  LankaSettle  charges/penalties  and  maturities  of  CBSL 
+Securities."
+"","",""
+"1300 hrs.","Multilateral Net Settlement (MLNS) 
+Batch from LankaClear","Main Clearing of CITS. (of 11.05.2022)
+SLIPS Cycles 1 & 2 (of 11.05.2022)"
+"","",""
+"1315 hrs.","MLNS Batch from LankaClear","CAS Cycles 1& 2 (of 11.05.2022)"
+"1330 hrs.","MLNS Batch from LankaClear","CEFTS Cycles 1& 2 (of 11.05.2022)
+CPS Cycles 1& 2 (of 11.05.2022)"
+"","",""
+"1345 hrs.","Reversal of Reverse Repos and 
+Standing Lending Facility (SLF)","Settlement of second leg of Reverse Repos under OMO and SLF. 
+(to be matured on 11.05.2022)"
+"1400 hrs.","MLNS Batch from LankaClear","CAS Cycle 3 (of 11.05.2022)
+CEFTS Cycle 3 (of 11.05.2022)
+CPS Cycle 3 (of 11.05.2022)"
+"1430 hrs","Short Term Repos/ Rev.Repo 
+(Auction)","Settlement of First Log of Short Term Repos/ Revers Repos under 
+OMO"
+"1445 hrs.","MLNS Batch from LankaClear","Settlement Clearing and Adjustment Clearing. (of 11.05.2022)"
+"","",""
+"1500 hrs.","Primary cut-off time for third party 
+transactions","Close for new transactions (for T + 0) in favour of third parties, 
+except for bank-to-bank (MT2XX) series. (for 11.05.2022)"
+"","",""
+"1500 hrs.","MLNS Batch from LankaClear","SLIPS Cycle 3 (of 11.05.2022)
+CAS Cycle 4 (of 11.05.2022)"
+"1515 hrs.","MLNS Batch from LankaClear","CEFTS Cycle 4 (of 11.05.2022)
+CPS Cycle 4 (of 11.05.2022)"
+"","",""
+"1530 hrs.","Cut-off time for standing facilities","SLF and SDF windows are closed for Participants at 1530 hrs."
+"1545 hrs.","Cut-off time for Participant managed 
+ILF Repo creation","Participants should not initiate ILF Repos after 1545 hrs."
+"1545 hrs.","MLNS Batch from LankaClear","CAS Cycle 5 (of 11.05.2022)
+CEFTS Cycle 5 (of 11.05.2022)
+CPS Cycle 5 (of 11.05.2022)"
+"1545 hrs.","SDF","Settlement of first leg of SDF"
+"","",""
+"1600 hrs.","SLF","Settlement of first leg of SLF."
+"","",""
+"1615 hrs.","ILF Repayment","Repayment of ILF."
+"1630 hrs.","Final Cut-off Time
+Closure of System for business","No further inputs are accepted.  With the closure of system 
+for business, queue/Settlement processing will cease and any 
+transactions still in queues will be rejected by the system."
+"","",""
+"1630 hrs.    to 
+1700 hrs.","EOD processing","End-of-day 
+(EOD)  processes  e.g.  generate 
+reports/GL  export 
+(EOD)  file,  database  maintenance  for  billing/statement  printing 
+purposes."
+"1700 hrs.","System shut down","Commence shutting down of RTGS/SSS application software, 
+obtain off-line backups."

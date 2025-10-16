@@ -1,0 +1,93 @@
+"#","","Type of Depositor","","Type of Identification Number","","Remarks",""
+"","","","","","","",""
+"1.","","Individuals","","","","",""
+"1.1","","Sri Lankan citizens","","National Identity Card (NIC) Number","","FCs  can  accept  Driving  License  or 
+Passport  of 
+the  depositor 
+to  open 
+accounts, but it is compulsory to record 
+NIC number in their systems",""
+"1.2","","Sri  Lankan  citizens 
+(residing  outside 
+Sri 
+Lanka/PR 
+holders/TR 
+holders), 
+Sri  Lankan  dual  citizens 
+(residing 
+in 
+Sri  Lanka),  Sri  Lankan  dual  citizens 
+(residing outside Sri Lanka)","","NIC Number","","Sri 
+Lankan 
+temporarily surrendered by a depositor",""
+"","","","","","","","passport 
+number 
+can 
+only  be  used  when  NIC  has  been"
+"","","","","","","",""
+"1.3","","Non-Sri Lankan citizens","","Foreign Passport Number","","Including foreign national of Sri Lankan 
+origin 
+(residing  outside 
+Sri 
+Lanka), 
+Foreign  national  on  temporary  visit  to 
+Sri Lanka or intending to visit Sri Lanka, 
+Foreign Diplomat",""
+"1.4","","Minor Depositors","","Date of Birth + Birth Certificate 
+number
+Eg : 
+Date of Birth: 2005 January 7th 
+(2005.01.07)
+Birth Certificate Number: 0325
+2
+0
+0
+5
+0
+1
+0
+7
+0
+3
+2
+5","","Date  of  Birth 
+followed  by 
+the  Birth 
+Certificate Number in the same field to 
+create a 12-digit number",""
+"2.","","Institutions","","","","",""
+"","","","","","","",""
+"2.1","","Companies 
+registered 
+under 
+the 
+Companies Act","","Company Registration Number","","-",""
+"","","","","","","",""
+"2.2","","Non-Governmental organizations","","Registration 
+number 
+issued 
+by 
+the  National 
+Secretariat 
+for  Non-
+Governmental organizations","","-",""
+"2.3","","Institutions registered under divisional/
+local 
+government 
+bodies 
+such 
+as 
+proprietorships/partnerships/joint 
+ventures etc.","","Business Registration Number","","-",""
+"","","","","","","",""
+"2.4","","All 
+other 
+entities 
+such 
+as  Clubs, 
+Associations, Societies etc.","","Registration 
+number 
+issued 
+by 
+the 
+relevant authorities","","-",""

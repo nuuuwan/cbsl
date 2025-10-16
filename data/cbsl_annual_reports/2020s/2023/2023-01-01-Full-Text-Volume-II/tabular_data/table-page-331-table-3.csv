@@ -1,0 +1,14 @@
+"Taxable Income","Tax payable"
+"Not exceeding Rs. 500,000","6% of the amount in excess of Rs.0"
+"Exceeding Rs. 500,000 but not exceeding Rs. 1,000,000","Rs. 30,000 plus 12% of the amount in excess of 
+Rs. 500,000"
+"Exceeding Rs. 1,000,000 but not exceeding Rs. 1,000,000","Rs. 30,000 plus 12% of the amount in excess of 
+Rs. 500,000"
+"Exceeding Rs.1,000,000 but not exceeding Rs. 1,500,000","Rs. 90,000 plus 18% of the amount in excess of 
+Rs. 1,000,000"
+"Exceeding Rs. 1,500,000 but not exceeding Rs. 2,000,000","Rs. 180,000 plus 24% of the amount in excess of 
+Rs. 1,500,000"
+"Exceeding Rs. 2,000,000 but not exceeding Rs. 2,500,000","Rs. 300,000 plus 30% of the amount in excess of 
+Rs. 2,000,000"
+"Exceeding Rs. 2,500,000","Rs. 450,000 plus 36% of the amount in excess of 
+Rs. 2,500,000”;"
