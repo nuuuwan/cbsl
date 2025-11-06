@@ -1,6 +1,6 @@
 # 📙Cbsl Annual Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_08:12:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--06_09:02:20-green)
 
 [https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports)
 
