@@ -4,7 +4,7 @@
 
 ## 001 📙Cbsl Annual Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_17:09:00-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--13_17:47:39-green)
 
 [https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports](https://github.com/nuuuwan/cbsl/tree/data_cbsl_annual_reports/data/cbsl_annual_reports)
 
